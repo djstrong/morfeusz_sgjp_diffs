@@ -1,0 +1,108 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.12.02
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.12.09
+247639,247663c247639,247663
+< boćkowscy	boćkowski	adj:pl:nom.voc:m1:pos		daw.
+< boćkowska	boćkowski	adj:sg:nom.voc:f:pos		daw.
+< boćkowską	boćkowski	adj:sg:acc:f:pos		daw.
+< boćkowską	boćkowski	adj:sg:inst:f:pos		daw.
+< boćkowski	boćkowski	adj:sg:acc:m3:pos		daw.
+< boćkowski	boćkowski	adj:sg:nom.voc:m1.m2.m3:pos		daw.
+< boćkowskich	boćkowski	adj:pl:acc:m1:pos		daw.
+< boćkowskich	boćkowski	adj:pl:gen:m1.m2.m3.f.n:pos		daw.
+< boćkowskich	boćkowski	adj:pl:loc:m1.m2.m3.f.n:pos		daw.
+< boćkowskie	boćkowski	adj:pl:acc:m2.m3.f.n:pos		daw.
+< boćkowskie	boćkowski	adj:pl:nom.voc:m2.m3.f.n:pos		daw.
+< boćkowskie	boćkowski	adj:sg:acc:n:pos		daw.
+< boćkowskie	boćkowski	adj:sg:nom.voc:n:pos		daw.
+< boćkowskiego	boćkowski	adj:sg:acc:m1.m2:pos		daw.
+< boćkowskiego	boćkowski	adj:sg:gen:m1.m2.m3.n:pos		daw.
+< boćkowskiej	boćkowski	adj:sg:dat:f:pos		daw.
+< boćkowskiej	boćkowski	adj:sg:gen:f:pos		daw.
+< boćkowskiej	boćkowski	adj:sg:loc:f:pos		daw.
+< boćkowskiemu	boćkowski	adj:sg:dat:m1.m2.m3.n:pos		daw.
+< boćkowskim	boćkowski	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
+< boćkowskim	boćkowski	adj:sg:inst:m1.m2.m3.n:pos		daw.
+< boćkowskim	boćkowski	adj:sg:loc:m1.m2.m3.n:pos		daw.
+< boćkowskimi	boćkowski	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+< boćkowsko	boćkowski	adja		daw.
+< boćkowsku	boćkowski	adjp:dat		daw.
+---
+> boćkowscy	boćkowski	adj:pl:nom.voc:m1:pos		
+> boćkowska	boćkowski	adj:sg:nom.voc:f:pos		
+> boćkowską	boćkowski	adj:sg:acc:f:pos		
+> boćkowską	boćkowski	adj:sg:inst:f:pos		
+> boćkowski	boćkowski	adj:sg:acc:m3:pos		
+> boćkowski	boćkowski	adj:sg:nom.voc:m1.m2.m3:pos		
+> boćkowskich	boćkowski	adj:pl:acc:m1:pos		
+> boćkowskich	boćkowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> boćkowskich	boćkowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> boćkowskie	boćkowski	adj:pl:acc:m2.m3.f.n:pos		
+> boćkowskie	boćkowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> boćkowskie	boćkowski	adj:sg:acc:n:pos		
+> boćkowskie	boćkowski	adj:sg:nom.voc:n:pos		
+> boćkowskiego	boćkowski	adj:sg:acc:m1.m2:pos		
+> boćkowskiego	boćkowski	adj:sg:gen:m1.m2.m3.n:pos		
+> boćkowskiej	boćkowski	adj:sg:dat:f:pos		
+> boćkowskiej	boćkowski	adj:sg:gen:f:pos		
+> boćkowskiej	boćkowski	adj:sg:loc:f:pos		
+> boćkowskiemu	boćkowski	adj:sg:dat:m1.m2.m3.n:pos		
+> boćkowskim	boćkowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> boćkowskim	boćkowski	adj:sg:inst:m1.m2.m3.n:pos		
+> boćkowskim	boćkowski	adj:sg:loc:m1.m2.m3.n:pos		
+> boćkowskimi	boćkowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> boćkowsko	boćkowski	adja		
+> boćkowsku	boćkowski	adjp:dat		
+6095011,6095035c6095011,6095035
+< warccy	warcki	adj:pl:nom.voc:m1:pos		hist.
+< warcka	warcki	adj:sg:nom.voc:f:pos		hist.
+< warcką	warcki	adj:sg:acc:f:pos		hist.
+< warcką	warcki	adj:sg:inst:f:pos		hist.
+< warckich	warcki	adj:pl:acc:m1:pos		hist.
+< warckich	warcki	adj:pl:gen:m1.m2.m3.f.n:pos		hist.
+< warckich	warcki	adj:pl:loc:m1.m2.m3.f.n:pos		hist.
+< warckiego	warcki	adj:sg:acc:m1.m2:pos		hist.
+< warckiego	warcki	adj:sg:gen:m1.m2.m3.n:pos		hist.
+< warckiej	warcki	adj:sg:dat:f:pos		hist.
+< warckiej	warcki	adj:sg:gen:f:pos		hist.
+< warckiej	warcki	adj:sg:loc:f:pos		hist.
+< warckiemu	warcki	adj:sg:dat:m1.m2.m3.n:pos		hist.
+< warckie	warcki	adj:pl:acc:m2.m3.f.n:pos		hist.
+< warckie	warcki	adj:pl:nom.voc:m2.m3.f.n:pos		hist.
+< warckie	warcki	adj:sg:acc:n:pos		hist.
+< warckie	warcki	adj:sg:nom.voc:n:pos		hist.
+< warckimi	warcki	adj:pl:inst:m1.m2.m3.f.n:pos		hist.
+< warckim	warcki	adj:pl:dat:m1.m2.m3.f.n:pos		hist.
+< warckim	warcki	adj:sg:inst:m1.m2.m3.n:pos		hist.
+< warckim	warcki	adj:sg:loc:m1.m2.m3.n:pos		hist.
+< warcki	warcki	adj:sg:acc:m3:pos		hist.
+< warcki	warcki	adj:sg:nom.voc:m1.m2.m3:pos		hist.
+< warcko	warcki	adja		hist.
+< warcku	warcki	adjp:dat		hist.
+---
+> warccy	warcki	adj:pl:nom.voc:m1:pos		
+> warcka	warcki	adj:sg:nom.voc:f:pos		
+> warcką	warcki	adj:sg:acc:f:pos		
+> warcką	warcki	adj:sg:inst:f:pos		
+> warckich	warcki	adj:pl:acc:m1:pos		
+> warckich	warcki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> warckich	warcki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> warckiego	warcki	adj:sg:acc:m1.m2:pos		
+> warckiego	warcki	adj:sg:gen:m1.m2.m3.n:pos		
+> warckiej	warcki	adj:sg:dat:f:pos		
+> warckiej	warcki	adj:sg:gen:f:pos		
+> warckiej	warcki	adj:sg:loc:f:pos		
+> warckiemu	warcki	adj:sg:dat:m1.m2.m3.n:pos		
+> warckie	warcki	adj:pl:acc:m2.m3.f.n:pos		
+> warckie	warcki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> warckie	warcki	adj:sg:acc:n:pos		
+> warckie	warcki	adj:sg:nom.voc:n:pos		
+> warckimi	warcki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> warckim	warcki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> warckim	warcki	adj:sg:inst:m1.m2.m3.n:pos		
+> warckim	warcki	adj:sg:loc:m1.m2.m3.n:pos		
+> warcki	warcki	adj:sg:acc:m3:pos		
+> warcki	warcki	adj:sg:nom.voc:m1.m2.m3:pos		
+> warcko	warcki	adja		
+> warcku	warcki	adjp:dat		

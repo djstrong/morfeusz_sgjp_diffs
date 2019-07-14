@@ -1,0 +1,383 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.02.12
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.03.01
+144074a144075,144088
+> bandyctwa	bandyctwo	subst:pl:acc:n2	nazwa pospolita	pot.
+> bandyctwa	bandyctwo	subst:pl:nom:n2	nazwa pospolita	pot.
+> bandyctwa	bandyctwo	subst:pl:voc:n2	nazwa pospolita	pot.
+> bandyctwa	bandyctwo	subst:sg:gen:n2	nazwa pospolita	pot.
+> bandyctwach	bandyctwo	subst:pl:loc:n2	nazwa pospolita	pot.
+> bandyctwami	bandyctwo	subst:pl:inst:n2	nazwa pospolita	pot.
+> bandyctw	bandyctwo	subst:pl:gen:n2	nazwa pospolita	pot.
+> bandyctwem	bandyctwo	subst:sg:inst:n2	nazwa pospolita	pot.
+> bandyctwie	bandyctwo	subst:sg:loc:n2	nazwa pospolita	pot.
+> bandyctwo	bandyctwo	subst:sg:acc:n2	nazwa pospolita	pot.
+> bandyctwo	bandyctwo	subst:sg:nom:n2	nazwa pospolita	pot.
+> bandyctwo	bandyctwo	subst:sg:voc:n2	nazwa pospolita	pot.
+> bandyctwom	bandyctwo	subst:pl:dat:n2	nazwa pospolita	pot.
+> bandyctwu	bandyctwo	subst:sg:dat:n2	nazwa pospolita	pot.
+149577,149578d149590
+< bardziej	bardziej	adv		
+< bardzo	bardzo	adv		
+149579a149592,149594
+> bardziej	bardzo	adv:com		
+> bardzo	bardzo	adv:pos		
+> najbardziej	bardzo	adv:sup		
+207526a207542
+> br	bieżący_rok	brev:pun		
+259770a259787,259800
+> Brexicie	Brexit	subst:sg:loc:m3	nazwa pospolita	
+> Brexicie	Brexit	subst:sg:voc:m3	nazwa pospolita	
+> Brexitach	Brexit	subst:pl:loc:m3	nazwa pospolita	
+> Brexitami	Brexit	subst:pl:inst:m3	nazwa pospolita	
+> Brexit	Brexit	subst:sg:acc:m3	nazwa pospolita	
+> Brexit	Brexit	subst:sg:nom:m3	nazwa pospolita	
+> Brexitem	Brexit	subst:sg:inst:m3	nazwa pospolita	
+> Brexitom	Brexit	subst:pl:dat:m3	nazwa pospolita	
+> Brexitowi	Brexit	subst:sg:dat:m3	nazwa pospolita	
+> Brexitów	Brexit	subst:pl:gen:m3	nazwa pospolita	
+> Brexitu	Brexit	subst:sg:gen:m3	nazwa pospolita	
+> Brexity	Brexit	subst:pl:acc:m3	nazwa pospolita	
+> Brexity	Brexit	subst:pl:nom:m3	nazwa pospolita	
+> Brexity	Brexit	subst:pl:voc:m3	nazwa pospolita	
+755774a755805,755808
+> J	Ewangelia_świętego_Jana	brev:npun		
+> Mk	Ewangelia_świętego_Marka	brev:npun		
+> Mt	Ewangelia_świętego_Mateusza	brev:npun		
+> Łk	Ewangelia_wg_świętego_Łukasza	brev:npun		
+779578a779613,779678
+> fejkach	fejk	subst:pl:loc:m2	nazwa pospolita	pot.
+> fejkach	fejk	subst:pl:loc:m3	nazwa pospolita	pot.
+> fejka	fejk	subst:sg:acc:m2	nazwa pospolita	pot.
+> fejka	fejk	subst:sg:gen:m2	nazwa pospolita	pot.
+> fejka	fejk	subst:sg:gen:m3	nazwa pospolita	pot.
+> fejkami	fejk	subst:pl:inst:m2	nazwa pospolita	pot.
+> fejkami	fejk	subst:pl:inst:m3	nazwa pospolita	pot.
+> fejk	fejk	subst:sg:acc:m3	nazwa pospolita	pot.
+> fejk	fejk	subst:sg:nom:m2	nazwa pospolita	pot.
+> fejk	fejk	subst:sg:nom:m3	nazwa pospolita	pot.
+> fejkiem	fejk	subst:sg:inst:m2	nazwa pospolita	pot.
+> fejkiem	fejk	subst:sg:inst:m3	nazwa pospolita	pot.
+> fejki	fejk	subst:pl:acc:m2	nazwa pospolita	pot.
+> fejki	fejk	subst:pl:acc:m3	nazwa pospolita	pot.
+> fejki	fejk	subst:pl:nom:m2	nazwa pospolita	pot.
+> fejki	fejk	subst:pl:nom:m3	nazwa pospolita	pot.
+> fejki	fejk	subst:pl:voc:m2	nazwa pospolita	pot.
+> fejki	fejk	subst:pl:voc:m3	nazwa pospolita	pot.
+> fejkom	fejk	subst:pl:dat:m2	nazwa pospolita	pot.
+> fejkom	fejk	subst:pl:dat:m3	nazwa pospolita	pot.
+> fejkowi	fejk	subst:sg:dat:m2	nazwa pospolita	pot.
+> fejkowi	fejk	subst:sg:dat:m3	nazwa pospolita	pot.
+> fejków	fejk	subst:pl:gen:m2	nazwa pospolita	pot.
+> fejków	fejk	subst:pl:gen:m3	nazwa pospolita	pot.
+> fejku	fejk	subst:sg:loc:m2	nazwa pospolita	pot.
+> fejku	fejk	subst:sg:loc:m3	nazwa pospolita	pot.
+> fejku	fejk	subst:sg:voc:m2	nazwa pospolita	pot.
+> fejku	fejk	subst:sg:voc:m3	nazwa pospolita	pot.
+> fejkowościach	fejkowość	subst:pl:loc:f	nazwa pospolita	
+> fejkowościami	fejkowość	subst:pl:inst:f	nazwa pospolita	
+> fejkowością	fejkowość	subst:sg:inst:f	nazwa pospolita	
+> fejkowości	fejkowość	subst:pl:acc:f	nazwa pospolita	
+> fejkowości	fejkowość	subst:pl:gen:f	nazwa pospolita	
+> fejkowości	fejkowość	subst:pl:nom:f	nazwa pospolita	
+> fejkowości	fejkowość	subst:pl:voc:f	nazwa pospolita	
+> fejkowości	fejkowość	subst:sg:dat:f	nazwa pospolita	
+> fejkowości	fejkowość	subst:sg:gen:f	nazwa pospolita	
+> fejkowości	fejkowość	subst:sg:loc:f	nazwa pospolita	
+> fejkowości	fejkowość	subst:sg:voc:f	nazwa pospolita	
+> fejkowościom	fejkowość	subst:pl:dat:f	nazwa pospolita	
+> fejkowość	fejkowość	subst:sg:acc:f	nazwa pospolita	
+> fejkowość	fejkowość	subst:sg:nom:f	nazwa pospolita	
+> fejkowa	fejkowy	adj:sg:nom.voc:f:pos		
+> fejkową	fejkowy	adj:sg:acc:f:pos		
+> fejkową	fejkowy	adj:sg:inst:f:pos		
+> fejkowe	fejkowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> fejkowe	fejkowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> fejkowe	fejkowy	adj:sg:acc:n1.n2:pos		
+> fejkowe	fejkowy	adj:sg:nom.voc:n1.n2:pos		
+> fejkowego	fejkowy	adj:sg:acc:m1.m2:pos		
+> fejkowego	fejkowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> fejkowej	fejkowy	adj:sg:dat:f:pos		
+> fejkowej	fejkowy	adj:sg:gen:f:pos		
+> fejkowej	fejkowy	adj:sg:loc:f:pos		
+> fejkowemu	fejkowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> fejkowi	fejkowy	adj:pl:nom.voc:m1.p1:pos		
+> fejkowo	fejkowy	adja		
+> fejkowych	fejkowy	adj:pl:acc:m1.p1:pos		
+> fejkowych	fejkowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> fejkowych	fejkowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> fejkowy	fejkowy	adj:sg:acc:m3:pos		
+> fejkowy	fejkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> fejkowym	fejkowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> fejkowym	fejkowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> fejkowym	fejkowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> fejkowymi	fejkowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+896158a896259
+> gm	gmina	brev:pun		
+899388,899419c899489,899548
+< gnojarzach	gnojarz	subst:pl:loc:m1	nazwa pospolita	
+< gnojarzach	gnojarz	subst:pl:loc:m1	nazwa pospolita	rzad.
+< gnojarza	gnojarz	subst:sg:acc:m1	nazwa pospolita	
+< gnojarza	gnojarz	subst:sg:acc:m1	nazwa pospolita	rzad.
+< gnojarza	gnojarz	subst:sg:gen:m1	nazwa pospolita	
+< gnojarza	gnojarz	subst:sg:gen:m1	nazwa pospolita	rzad.
+< gnojarzami	gnojarz	subst:pl:inst:m1	nazwa pospolita	
+< gnojarzami	gnojarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+< gnojarze	gnojarz	depr:pl:nom:m2	nazwa pospolita	
+< gnojarze	gnojarz	depr:pl:nom:m2	nazwa pospolita	rzad.
+< gnojarze	gnojarz	depr:pl:voc:m2	nazwa pospolita	
+< gnojarze	gnojarz	depr:pl:voc:m2	nazwa pospolita	rzad.
+< gnojarze	gnojarz	subst:pl:nom:m1	nazwa pospolita	
+< gnojarze	gnojarz	subst:pl:nom:m1	nazwa pospolita	rzad.
+< gnojarze	gnojarz	subst:pl:voc:m1	nazwa pospolita	
+< gnojarze	gnojarz	subst:pl:voc:m1	nazwa pospolita	rzad.
+< gnojarzem	gnojarz	subst:sg:inst:m1	nazwa pospolita	
+< gnojarzem	gnojarz	subst:sg:inst:m1	nazwa pospolita	rzad.
+< gnojarz	gnojarz	subst:sg:nom:m1	nazwa pospolita	
+< gnojarz	gnojarz	subst:sg:nom:m1	nazwa pospolita	rzad.
+< gnojarzom	gnojarz	subst:pl:dat:m1	nazwa pospolita	
+< gnojarzom	gnojarz	subst:pl:dat:m1	nazwa pospolita	rzad.
+< gnojarzowi	gnojarz	subst:sg:dat:m1	nazwa pospolita	
+< gnojarzowi	gnojarz	subst:sg:dat:m1	nazwa pospolita	rzad.
+< gnojarzów	gnojarz	subst:pl:acc:m1	nazwa pospolita	rzad.
+< gnojarzów	gnojarz	subst:pl:gen:m1	nazwa pospolita	rzad.
+< gnojarzu	gnojarz	subst:sg:loc:m1	nazwa pospolita	
+< gnojarzu	gnojarz	subst:sg:loc:m1	nazwa pospolita	rzad.
+< gnojarzu	gnojarz	subst:sg:voc:m1	nazwa pospolita	
+< gnojarzu	gnojarz	subst:sg:voc:m1	nazwa pospolita	rzad.
+< gnojarzy	gnojarz	subst:pl:acc:m1	nazwa pospolita	
+< gnojarzy	gnojarz	subst:pl:gen:m1	nazwa pospolita	
+---
+> gnojarzach	gnojarz:s1	subst:pl:loc:m1	nazwa pospolita	
+> gnojarzach	gnojarz:s1	subst:pl:loc:m1	nazwa pospolita	rzad.
+> gnojarza	gnojarz:s1	subst:sg:acc:m1	nazwa pospolita	
+> gnojarza	gnojarz:s1	subst:sg:acc:m1	nazwa pospolita	rzad.
+> gnojarza	gnojarz:s1	subst:sg:gen:m1	nazwa pospolita	
+> gnojarza	gnojarz:s1	subst:sg:gen:m1	nazwa pospolita	rzad.
+> gnojarzami	gnojarz:s1	subst:pl:inst:m1	nazwa pospolita	
+> gnojarzami	gnojarz:s1	subst:pl:inst:m1	nazwa pospolita	rzad.
+> gnojarze	gnojarz:s1	depr:pl:nom:m2	nazwa pospolita	
+> gnojarze	gnojarz:s1	depr:pl:nom:m2	nazwa pospolita	rzad.
+> gnojarze	gnojarz:s1	depr:pl:voc:m2	nazwa pospolita	
+> gnojarze	gnojarz:s1	depr:pl:voc:m2	nazwa pospolita	rzad.
+> gnojarze	gnojarz:s1	subst:pl:nom:m1	nazwa pospolita	
+> gnojarze	gnojarz:s1	subst:pl:nom:m1	nazwa pospolita	rzad.
+> gnojarze	gnojarz:s1	subst:pl:voc:m1	nazwa pospolita	
+> gnojarze	gnojarz:s1	subst:pl:voc:m1	nazwa pospolita	rzad.
+> gnojarzem	gnojarz:s1	subst:sg:inst:m1	nazwa pospolita	
+> gnojarzem	gnojarz:s1	subst:sg:inst:m1	nazwa pospolita	rzad.
+> gnojarz	gnojarz:s1	subst:sg:nom:m1	nazwa pospolita	
+> gnojarz	gnojarz:s1	subst:sg:nom:m1	nazwa pospolita	rzad.
+> gnojarzom	gnojarz:s1	subst:pl:dat:m1	nazwa pospolita	
+> gnojarzom	gnojarz:s1	subst:pl:dat:m1	nazwa pospolita	rzad.
+> gnojarzowi	gnojarz:s1	subst:sg:dat:m1	nazwa pospolita	
+> gnojarzowi	gnojarz:s1	subst:sg:dat:m1	nazwa pospolita	rzad.
+> gnojarzów	gnojarz:s1	subst:pl:acc:m1	nazwa pospolita	rzad.
+> gnojarzów	gnojarz:s1	subst:pl:gen:m1	nazwa pospolita	rzad.
+> gnojarzu	gnojarz:s1	subst:sg:loc:m1	nazwa pospolita	
+> gnojarzu	gnojarz:s1	subst:sg:loc:m1	nazwa pospolita	rzad.
+> gnojarzu	gnojarz:s1	subst:sg:voc:m1	nazwa pospolita	
+> gnojarzu	gnojarz:s1	subst:sg:voc:m1	nazwa pospolita	rzad.
+> gnojarzy	gnojarz:s1	subst:pl:acc:m1	nazwa pospolita	
+> gnojarzy	gnojarz:s1	subst:pl:gen:m1	nazwa pospolita	
+> gnojarzach	gnojarz:s3	subst:pl:loc:m2	nazwa pospolita	rzad.|zool.
+> gnojarzach	gnojarz:s3	subst:pl:loc:m2	nazwa pospolita	zool.
+> gnojarza	gnojarz:s3	subst:sg:acc:m2	nazwa pospolita	rzad.|zool.
+> gnojarza	gnojarz:s3	subst:sg:acc:m2	nazwa pospolita	zool.
+> gnojarza	gnojarz:s3	subst:sg:gen:m2	nazwa pospolita	rzad.|zool.
+> gnojarza	gnojarz:s3	subst:sg:gen:m2	nazwa pospolita	zool.
+> gnojarzami	gnojarz:s3	subst:pl:inst:m2	nazwa pospolita	rzad.|zool.
+> gnojarzami	gnojarz:s3	subst:pl:inst:m2	nazwa pospolita	zool.
+> gnojarze	gnojarz:s3	subst:pl:acc:m2	nazwa pospolita	rzad.|zool.
+> gnojarze	gnojarz:s3	subst:pl:acc:m2	nazwa pospolita	zool.
+> gnojarze	gnojarz:s3	subst:pl:nom:m2	nazwa pospolita	rzad.|zool.
+> gnojarze	gnojarz:s3	subst:pl:nom:m2	nazwa pospolita	zool.
+> gnojarze	gnojarz:s3	subst:pl:voc:m2	nazwa pospolita	rzad.|zool.
+> gnojarze	gnojarz:s3	subst:pl:voc:m2	nazwa pospolita	zool.
+> gnojarzem	gnojarz:s3	subst:sg:inst:m2	nazwa pospolita	rzad.|zool.
+> gnojarzem	gnojarz:s3	subst:sg:inst:m2	nazwa pospolita	zool.
+> gnojarz	gnojarz:s3	subst:sg:nom:m2	nazwa pospolita	rzad.|zool.
+> gnojarz	gnojarz:s3	subst:sg:nom:m2	nazwa pospolita	zool.
+> gnojarzom	gnojarz:s3	subst:pl:dat:m2	nazwa pospolita	rzad.|zool.
+> gnojarzom	gnojarz:s3	subst:pl:dat:m2	nazwa pospolita	zool.
+> gnojarzowi	gnojarz:s3	subst:sg:dat:m2	nazwa pospolita	rzad.|zool.
+> gnojarzowi	gnojarz:s3	subst:sg:dat:m2	nazwa pospolita	zool.
+> gnojarzów	gnojarz:s3	subst:pl:gen:m2	nazwa pospolita	rzad.|zool.
+> gnojarzu	gnojarz:s3	subst:sg:loc:m2	nazwa pospolita	rzad.|zool.
+> gnojarzu	gnojarz:s3	subst:sg:loc:m2	nazwa pospolita	zool.
+> gnojarzu	gnojarz:s3	subst:sg:voc:m2	nazwa pospolita	rzad.|zool.
+> gnojarzu	gnojarz:s3	subst:sg:voc:m2	nazwa pospolita	zool.
+> gnojarzy	gnojarz:s3	subst:pl:gen:m2	nazwa pospolita	zool.
+1577877a1578007,1578020
+> marszrutce	marszrutka	subst:sg:dat:f	nazwa pospolita	
+> marszrutce	marszrutka	subst:sg:loc:f	nazwa pospolita	
+> marszrutek	marszrutka	subst:pl:gen:f	nazwa pospolita	
+> marszrutkach	marszrutka	subst:pl:loc:f	nazwa pospolita	
+> marszrutka	marszrutka	subst:sg:nom:f	nazwa pospolita	
+> marszrutkami	marszrutka	subst:pl:inst:f	nazwa pospolita	
+> marszrutką	marszrutka	subst:sg:inst:f	nazwa pospolita	
+> marszrutkę	marszrutka	subst:sg:acc:f	nazwa pospolita	
+> marszrutki	marszrutka	subst:pl:acc:f	nazwa pospolita	
+> marszrutki	marszrutka	subst:pl:nom:f	nazwa pospolita	
+> marszrutki	marszrutka	subst:pl:voc:f	nazwa pospolita	
+> marszrutki	marszrutka	subst:sg:gen:f	nazwa pospolita	
+> marszrutko	marszrutka	subst:sg:voc:f	nazwa pospolita	
+> marszrutkom	marszrutka	subst:pl:dat:f	nazwa pospolita	
+1694358a1694502,1694517
+> morsach	mors:s3	subst:pl:loc:m1	nazwa pospolita	
+> morsami	mors:s3	subst:pl:inst:m1	nazwa pospolita	
+> morsa	mors:s3	subst:sg:acc:m1	nazwa pospolita	
+> morsa	mors:s3	subst:sg:gen:m1	nazwa pospolita	
+> morsem	mors:s3	subst:sg:inst:m1	nazwa pospolita	
+> morsie	mors:s3	subst:sg:loc:m1	nazwa pospolita	
+> morsie	mors:s3	subst:sg:voc:m1	nazwa pospolita	
+> morsi	mors:s3	subst:pl:nom:m1	nazwa pospolita	
+> morsi	mors:s3	subst:pl:voc:m1	nazwa pospolita	
+> mors	mors:s3	subst:sg:nom:m1	nazwa pospolita	
+> morsom	mors:s3	subst:pl:dat:m1	nazwa pospolita	
+> morsowi	mors:s3	subst:sg:dat:m1	nazwa pospolita	
+> morsów	mors:s3	subst:pl:acc:m1	nazwa pospolita	
+> morsów	mors:s3	subst:pl:gen:m1	nazwa pospolita	
+> morsy	mors:s3	depr:pl:nom:m2	nazwa pospolita	
+> morsy	mors:s3	depr:pl:voc:m2	nazwa pospolita	
+2163558a2163718,2163741
+> niefejkowa	niefejkowy	adj:sg:nom.voc:f:pos		
+> niefejkową	niefejkowy	adj:sg:acc:f:pos		
+> niefejkową	niefejkowy	adj:sg:inst:f:pos		
+> niefejkowego	niefejkowy	adj:sg:acc:m1.m2:pos		
+> niefejkowego	niefejkowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> niefejkowej	niefejkowy	adj:sg:dat:f:pos		
+> niefejkowej	niefejkowy	adj:sg:gen:f:pos		
+> niefejkowej	niefejkowy	adj:sg:loc:f:pos		
+> niefejkowemu	niefejkowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> niefejkowe	niefejkowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> niefejkowe	niefejkowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> niefejkowe	niefejkowy	adj:sg:acc:n1.n2:pos		
+> niefejkowe	niefejkowy	adj:sg:nom.voc:n1.n2:pos		
+> niefejkowi	niefejkowy	adj:pl:nom.voc:m1.p1:pos		
+> niefejkowo	niefejkowy	adja		
+> niefejkowych	niefejkowy	adj:pl:acc:m1.p1:pos		
+> niefejkowych	niefejkowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> niefejkowych	niefejkowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> niefejkowymi	niefejkowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> niefejkowym	niefejkowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> niefejkowym	niefejkowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> niefejkowym	niefejkowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> niefejkowy	niefejkowy	adj:sg:acc:m3:pos		
+> niefejkowy	niefejkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+2606026a2606210,2606224
+> niepietrozawodsko	niepietrozawodsko	adv:pos		
+> niepietrozawodskościach	niepietrozawodskość	subst:pl:loc:f		
+> niepietrozawodskościami	niepietrozawodskość	subst:pl:inst:f		
+> niepietrozawodskością	niepietrozawodskość	subst:sg:inst:f		
+> niepietrozawodskości	niepietrozawodskość	subst:pl:acc:f		
+> niepietrozawodskości	niepietrozawodskość	subst:pl:gen:f		
+> niepietrozawodskości	niepietrozawodskość	subst:pl:nom:f		
+> niepietrozawodskości	niepietrozawodskość	subst:pl:voc:f		
+> niepietrozawodskości	niepietrozawodskość	subst:sg:dat:f		
+> niepietrozawodskości	niepietrozawodskość	subst:sg:gen:f		
+> niepietrozawodskości	niepietrozawodskość	subst:sg:loc:f		
+> niepietrozawodskości	niepietrozawodskość	subst:sg:voc:f		
+> niepietrozawodskościom	niepietrozawodskość	subst:pl:dat:f		
+> niepietrozawodskość	niepietrozawodskość	subst:sg:acc:f		
+> niepietrozawodskość	niepietrozawodskość	subst:sg:nom:f		
+3737290a3737489,3737542
+> Pietrozawodskach	Pietrozawodsk	subst:pl:loc:m3	nazwa geograficzna	
+> Pietrozawodskami	Pietrozawodsk	subst:pl:inst:m3	nazwa geograficzna	
+> Pietrozawodska	Pietrozawodsk	subst:sg:gen:m3	nazwa geograficzna	
+> Pietrozawodskiem	Pietrozawodsk	subst:sg:inst:m3	nazwa geograficzna	
+> Pietrozawodski	Pietrozawodsk	subst:pl:acc:m3	nazwa geograficzna	
+> Pietrozawodski	Pietrozawodsk	subst:pl:nom:m3	nazwa geograficzna	
+> Pietrozawodski	Pietrozawodsk	subst:pl:voc:m3	nazwa geograficzna	
+> Pietrozawodskom	Pietrozawodsk	subst:pl:dat:m3	nazwa geograficzna	
+> Pietrozawodskowi	Pietrozawodsk	subst:sg:dat:m3	nazwa geograficzna	
+> Pietrozawodsków	Pietrozawodsk	subst:pl:gen:m3	nazwa geograficzna	
+> Pietrozawodsk	Pietrozawodsk	subst:sg:acc:m3	nazwa geograficzna	
+> Pietrozawodsk	Pietrozawodsk	subst:sg:nom:m3	nazwa geograficzna	
+> Pietrozawodsku	Pietrozawodsk	subst:sg:loc:m3	nazwa geograficzna	
+> Pietrozawodsku	Pietrozawodsk	subst:sg:voc:m3	nazwa geograficzna	
+> pietrozawodscy	pietrozawodski	adj:pl:nom.voc:m1.p1:pos		
+> pietrozawodska	pietrozawodski	adj:sg:nom.voc:f:pos		
+> pietrozawodską	pietrozawodski	adj:sg:acc:f:pos		
+> pietrozawodską	pietrozawodski	adj:sg:inst:f:pos		
+> pietrozawodskich	pietrozawodski	adj:pl:acc:m1.p1:pos		
+> pietrozawodskich	pietrozawodski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> pietrozawodskich	pietrozawodski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> pietrozawodskiego	pietrozawodski	adj:sg:acc:m1.m2:pos		
+> pietrozawodskiego	pietrozawodski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> pietrozawodskiej	pietrozawodski	adj:sg:dat:f:pos		
+> pietrozawodskiej	pietrozawodski	adj:sg:gen:f:pos		
+> pietrozawodskiej	pietrozawodski	adj:sg:loc:f:pos		
+> pietrozawodskiemu	pietrozawodski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> pietrozawodskie	pietrozawodski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> pietrozawodskie	pietrozawodski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> pietrozawodskie	pietrozawodski	adj:sg:acc:n1.n2:pos		
+> pietrozawodskie	pietrozawodski	adj:sg:nom.voc:n1.n2:pos		
+> pietrozawodskimi	pietrozawodski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> pietrozawodskim	pietrozawodski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> pietrozawodskim	pietrozawodski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> pietrozawodskim	pietrozawodski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> pietrozawodski	pietrozawodski	adj:sg:acc:m3:pos		
+> pietrozawodski	pietrozawodski	adj:sg:nom.voc:m1.m2.m3:pos		
+> pietrozawodsko	pietrozawodski	adja		
+> pietrozawodsku	pietrozawodski	adjp		
+> pietrozawodsko	pietrozawodsko	adv:pos		
+> pietrozawodskościach	pietrozawodskość	subst:pl:loc:f		
+> pietrozawodskościami	pietrozawodskość	subst:pl:inst:f		
+> pietrozawodskością	pietrozawodskość	subst:sg:inst:f		
+> pietrozawodskościom	pietrozawodskość	subst:pl:dat:f		
+> pietrozawodskości	pietrozawodskość	subst:pl:acc:f		
+> pietrozawodskości	pietrozawodskość	subst:pl:gen:f		
+> pietrozawodskości	pietrozawodskość	subst:pl:nom:f		
+> pietrozawodskości	pietrozawodskość	subst:pl:voc:f		
+> pietrozawodskości	pietrozawodskość	subst:sg:dat:f		
+> pietrozawodskości	pietrozawodskość	subst:sg:gen:f		
+> pietrozawodskości	pietrozawodskość	subst:sg:loc:f		
+> pietrozawodskości	pietrozawodskość	subst:sg:voc:f		
+> pietrozawodskość	pietrozawodskość	subst:sg:acc:f		
+> pietrozawodskość	pietrozawodskość	subst:sg:nom:f		
+3976842a3977095
+> pd	południe	brev:pun		
+4145997a4146251
+> pow	powierzchnia	brev:pun		
+4228947a4229202
+> pn	pólnoc	brev:pun		
+4268540a4268796
+> proc	procent	brev:pun		
+4668328a4668585
+> red	redakcja	brev:pun		
+4668383a4668641
+> red	redaktor	brev:pun		
+5306557a5306816,5306829
+> sygnalistce	sygnalistka	subst:sg:dat:f	nazwa pospolita	
+> sygnalistce	sygnalistka	subst:sg:loc:f	nazwa pospolita	
+> sygnalistek	sygnalistka	subst:pl:gen:f	nazwa pospolita	
+> sygnalistkach	sygnalistka	subst:pl:loc:f	nazwa pospolita	
+> sygnalistkami	sygnalistka	subst:pl:inst:f	nazwa pospolita	
+> sygnalistka	sygnalistka	subst:sg:nom:f	nazwa pospolita	
+> sygnalistką	sygnalistka	subst:sg:inst:f	nazwa pospolita	
+> sygnalistkę	sygnalistka	subst:sg:acc:f	nazwa pospolita	
+> sygnalistki	sygnalistka	subst:pl:acc:f	nazwa pospolita	
+> sygnalistki	sygnalistka	subst:pl:nom:f	nazwa pospolita	
+> sygnalistki	sygnalistka	subst:pl:voc:f	nazwa pospolita	
+> sygnalistki	sygnalistka	subst:sg:gen:f	nazwa pospolita	
+> sygnalistkom	sygnalistka	subst:pl:dat:f	nazwa pospolita	
+> sygnalistko	sygnalistka	subst:sg:voc:f	nazwa pospolita	
+5321447a5321720,5321733
+> szajbusce	szajbuska	subst:sg:dat:f	nazwa pospolita	pot.
+> szajbusce	szajbuska	subst:sg:loc:f	nazwa pospolita	pot.
+> szajbusek	szajbuska	subst:pl:gen:f	nazwa pospolita	pot.
+> szajbuskach	szajbuska	subst:pl:loc:f	nazwa pospolita	pot.
+> szajbuskami	szajbuska	subst:pl:inst:f	nazwa pospolita	pot.
+> szajbuska	szajbuska	subst:sg:nom:f	nazwa pospolita	pot.
+> szajbuską	szajbuska	subst:sg:inst:f	nazwa pospolita	pot.
+> szajbuskę	szajbuska	subst:sg:acc:f	nazwa pospolita	pot.
+> szajbuski	szajbuska	subst:pl:acc:f	nazwa pospolita	pot.
+> szajbuski	szajbuska	subst:pl:nom:f	nazwa pospolita	pot.
+> szajbuski	szajbuska	subst:pl:voc:f	nazwa pospolita	pot.
+> szajbuski	szajbuska	subst:sg:gen:f	nazwa pospolita	pot.
+> szajbuskom	szajbuska	subst:pl:dat:f	nazwa pospolita	pot.
+> szajbusko	szajbuska	subst:sg:voc:f	nazwa pospolita	pot.
+5939862a5940149
+> woj	województwo	brev:pun		

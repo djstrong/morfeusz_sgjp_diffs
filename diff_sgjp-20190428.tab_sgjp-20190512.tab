@@ -1,0 +1,903 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.04.28
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.05.12
+64927a64928,64939
+> anotacja	anotacja	subst:sg:nom:f	nazwa_pospolita	
+> anotacjach	anotacja	subst:pl:loc:f	nazwa_pospolita	
+> anotacjami	anotacja	subst:pl:inst:f	nazwa_pospolita	
+> anotacją	anotacja	subst:sg:inst:f	nazwa_pospolita	
+> anotacje	anotacja	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> anotację	anotacja	subst:sg:acc:f	nazwa_pospolita	
+> anotacji	anotacja	subst:pl:gen:f	nazwa_pospolita	hom.
+> anotacji	anotacja	subst:sg:dat.loc:f	nazwa_pospolita	
+> anotacji	anotacja	subst:sg:gen:f	nazwa_pospolita	
+> anotacjo	anotacja	subst:sg:voc:f	nazwa_pospolita	
+> anotacjom	anotacja	subst:pl:dat:f	nazwa_pospolita	
+> anotacyj	anotacja	subst:pl:gen:f	nazwa_pospolita	arch.|char.
+65948a65961,65995
+> antenowatościach	antenowatość	subst:pl:loc:f		
+> antenowatościami	antenowatość	subst:pl:inst:f		
+> antenowatości	antenowatość	subst:pl:gen:f		
+> antenowatości	antenowatość	subst:pl:nom.acc.voc:f		
+> antenowatości	antenowatość	subst:sg:dat.loc:f		
+> antenowatości	antenowatość	subst:sg:gen:f		
+> antenowatości	antenowatość	subst:sg:voc:f		
+> antenowatością	antenowatość	subst:sg:inst:f		
+> antenowatościom	antenowatość	subst:pl:dat:f		
+> antenowatość	antenowatość	subst:sg:acc:f		
+> antenowatość	antenowatość	subst:sg:nom:f		
+> antenowaci	antenowaty	adj:pl:nom.voc:m1:pos		
+> antenowata	antenowaty	adj:sg:nom.voc:f:pos		
+> antenowatą	antenowaty	adj:sg:acc:f:pos		
+> antenowatą	antenowaty	adj:sg:inst:f:pos		
+> antenowate	antenowaty	adj:pl:acc:m2.m3.f.n:pos		
+> antenowate	antenowaty	adj:pl:nom.voc:m2.m3.f.n:pos		
+> antenowate	antenowaty	adj:sg:acc:n:pos		
+> antenowate	antenowaty	adj:sg:nom.voc:n:pos		
+> antenowatego	antenowaty	adj:sg:acc:m1.m2:pos		
+> antenowatego	antenowaty	adj:sg:gen:m1.m2.m3.n:pos		
+> antenowatej	antenowaty	adj:sg:dat:f:pos		
+> antenowatej	antenowaty	adj:sg:gen:f:pos		
+> antenowatej	antenowaty	adj:sg:loc:f:pos		
+> antenowatemu	antenowaty	adj:sg:dat:m1.m2.m3.n:pos		
+> antenowato	antenowaty	adja		
+> antenowaty	antenowaty	adj:sg:acc:m3:pos		
+> antenowaty	antenowaty	adj:sg:nom.voc:m1.m2.m3:pos		
+> antenowatych	antenowaty	adj:pl:acc:m1:pos		
+> antenowatych	antenowaty	adj:pl:gen:m1.m2.m3.f.n:pos		
+> antenowatych	antenowaty	adj:pl:loc:m1.m2.m3.f.n:pos		
+> antenowatym	antenowaty	adj:pl:dat:m1.m2.m3.f.n:pos		
+> antenowatym	antenowaty	adj:sg:inst:m1.m2.m3.n:pos		
+> antenowatym	antenowaty	adj:sg:loc:m1.m2.m3.n:pos		
+> antenowatymi	antenowaty	adj:pl:inst:m1.m2.m3.f.n:pos		
+928791a928839,928873
+> fleksitarianach	fleksitarianin	subst:pl:loc:m1	nazwa_pospolita	
+> fleksitarianami	fleksitarianin	subst:pl:inst:m1	nazwa_pospolita	
+> fleksitarian	fleksitarianin	subst:pl:gen.acc:m1	nazwa_pospolita	
+> fleksitarianie	fleksitarianin	subst:pl:nom.voc:m1	nazwa_pospolita	
+> fleksitarianina	fleksitarianin	subst:sg:gen.acc:m1	nazwa_pospolita	
+> fleksitarianinem	fleksitarianin	subst:sg:inst:m1	nazwa_pospolita	
+> fleksitarianin	fleksitarianin	subst:sg:nom:m1	nazwa_pospolita	
+> fleksitarianinie	fleksitarianin	subst:sg:loc:m1	nazwa_pospolita	
+> fleksitarianinie	fleksitarianin	subst:sg:voc:m1	nazwa_pospolita	
+> fleksitarianinowi	fleksitarianin	subst:sg:dat:m1	nazwa_pospolita	
+> fleksitarianom	fleksitarianin	subst:pl:dat:m1	nazwa_pospolita	
+> fleksitarianów	fleksitarianin	subst:pl:gen.acc:m1	nazwa_pospolita	
+> fleksitariany	fleksitarianin	depr:pl:nom.acc.voc:m2	nazwa_pospolita	
+> fleksitarianizmach	fleksitarianizm	subst:pl:loc:m3	nazwa_pospolita	
+> fleksitarianizmami	fleksitarianizm	subst:pl:inst:m3	nazwa_pospolita	
+> fleksitarianizmem	fleksitarianizm	subst:sg:inst:m3	nazwa_pospolita	
+> fleksitarianizm	fleksitarianizm	subst:sg:nom.acc:m3	nazwa_pospolita	
+> fleksitarianizmie	fleksitarianizm	subst:sg:loc:m3	nazwa_pospolita	
+> fleksitarianizmie	fleksitarianizm	subst:sg:voc:m3	nazwa_pospolita	
+> fleksitarianizmom	fleksitarianizm	subst:pl:dat:m3	nazwa_pospolita	
+> fleksitarianizmowi	fleksitarianizm	subst:sg:dat:m3	nazwa_pospolita	
+> fleksitarianizmów	fleksitarianizm	subst:pl:gen:m3	nazwa_pospolita	
+> fleksitarianizmu	fleksitarianizm	subst:sg:gen:m3	nazwa_pospolita	
+> fleksitarianizmy	fleksitarianizm	subst:pl:nom.acc.voc:m3	nazwa_pospolita	
+> fleksitariance	fleksitarianka	subst:sg:dat.loc:f	nazwa_pospolita	
+> fleksitarianek	fleksitarianka	subst:pl:gen:f	nazwa_pospolita	
+> fleksitariankach	fleksitarianka	subst:pl:loc:f	nazwa_pospolita	
+> fleksitarianka	fleksitarianka	subst:sg:nom:f	nazwa_pospolita	
+> fleksitariankami	fleksitarianka	subst:pl:inst:f	nazwa_pospolita	
+> fleksitarianką	fleksitarianka	subst:sg:inst:f	nazwa_pospolita	
+> fleksitariankę	fleksitarianka	subst:sg:acc:f	nazwa_pospolita	
+> fleksitarianki	fleksitarianka	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> fleksitarianki	fleksitarianka	subst:sg:gen:f	nazwa_pospolita	
+> fleksitarianko	fleksitarianka	subst:sg:voc:f	nazwa_pospolita	
+> fleksitariankom	fleksitarianka	subst:pl:dat:f	nazwa_pospolita	
+1182243,1182245c1182325,1182328
+< hetka-pętelce	hetka-pętelka	subst:sg:dat.loc:f	nazwa_pospolita	przest._dziś_książk.
+< hetka-pętelek	hetka-pętelka	subst:pl:gen:f	nazwa_pospolita	przest._dziś_książk.
+< hetka-pętelkach	hetka-pętelka	subst:pl:loc:f	nazwa_pospolita	przest._dziś_książk.
+---
+> hetce-pętelce	hetka-pętelka	subst:sg:dat.loc:f	nazwa_pospolita	przest._dziś_książk.
+> hetek-pętelek	hetka-pętelka	subst:pl:gen:f	nazwa_pospolita	przest._dziś_książk.
+> hetkach-pętelkach	hetka-pętelka	subst:pl:loc:f	nazwa_pospolita	przest._dziś_książk.
+> hetkami-pętelkami	hetka-pętelka	subst:pl:inst:f	nazwa_pospolita	przest._dziś_książk.
+1182247,1182253c1182330,1182335
+< hetka-pętelkami	hetka-pętelka	subst:pl:inst:f	nazwa_pospolita	przest._dziś_książk.
+< hetka-pętelką	hetka-pętelka	subst:sg:inst:f	nazwa_pospolita	przest._dziś_książk.
+< hetka-pętelkę	hetka-pętelka	subst:sg:acc:f	nazwa_pospolita	przest._dziś_książk.
+< hetka-pętelki	hetka-pętelka	subst:pl:nom.acc.voc:f	nazwa_pospolita	przest._dziś_książk.
+< hetka-pętelki	hetka-pętelka	subst:sg:gen:f	nazwa_pospolita	przest._dziś_książk.
+< hetka-pętelko	hetka-pętelka	subst:sg:voc:f	nazwa_pospolita	przest._dziś_książk.
+< hetka-pętelkom	hetka-pętelka	subst:pl:dat:f	nazwa_pospolita	przest._dziś_książk.
+---
+> hetką-pętelką	hetka-pętelka	subst:sg:inst:f	nazwa_pospolita	przest._dziś_książk.
+> hetkę-pętelkę	hetka-pętelka	subst:sg:acc:f	nazwa_pospolita	przest._dziś_książk.
+> hetki-pętelki	hetka-pętelka	subst:pl:nom.acc.voc:f	nazwa_pospolita	przest._dziś_książk.
+> hetki-pętelki	hetka-pętelka	subst:sg:gen:f	nazwa_pospolita	przest._dziś_książk.
+> hetkom-pętelkom	hetka-pętelka	subst:pl:dat:f	nazwa_pospolita	przest._dziś_książk.
+> hetko-pętelko	hetka-pętelka	subst:sg:voc:f	nazwa_pospolita	przest._dziś_książk.
+1355185,1355195d1355266
+< kadukach	kaduk	subst:pl:loc:m3	nazwa_pospolita	przest.
+< kaduka	kaduk	subst:sg:gen:m3	nazwa_pospolita	przest.
+< kadukami	kaduk	subst:pl:inst:m3	nazwa_pospolita	przest.
+< kadukiem	kaduk	subst:sg:inst:m3	nazwa_pospolita	przest.
+< kaduki	kaduk	subst:pl:nom.acc.voc:m3	nazwa_pospolita	przest.
+< kaduk	kaduk	subst:sg:nom.acc:m3	nazwa_pospolita	przest.
+< kadukom	kaduk	subst:pl:dat:m3	nazwa_pospolita	przest.
+< kadukowi	kaduk	subst:sg:dat:m3	nazwa_pospolita	przest.
+< kaduków	kaduk	subst:pl:gen:m3	nazwa_pospolita	przest.
+< kaduku	kaduk	subst:sg:loc:m3	nazwa_pospolita	przest.
+< kaduku	kaduk	subst:sg:voc:m3	nazwa_pospolita	przest.
+1355230a1355302,1355312
+> kadukach	kaduk:s1	subst:pl:loc:m3	nazwa_pospolita	przest.
+> kaduka	kaduk:s1	subst:sg:gen:m3	nazwa_pospolita	przest.
+> kadukami	kaduk:s1	subst:pl:inst:m3	nazwa_pospolita	przest.
+> kadukiem	kaduk:s1	subst:sg:inst:m3	nazwa_pospolita	przest.
+> kaduki	kaduk:s1	subst:pl:nom.acc.voc:m3	nazwa_pospolita	przest.
+> kaduk	kaduk:s1	subst:sg:nom.acc:m3	nazwa_pospolita	przest.
+> kadukom	kaduk:s1	subst:pl:dat:m3	nazwa_pospolita	przest.
+> kadukowi	kaduk:s1	subst:sg:dat:m3	nazwa_pospolita	przest.
+> kaduków	kaduk:s1	subst:pl:gen:m3	nazwa_pospolita	przest.
+> kaduku	kaduk:s1	subst:sg:loc:m3	nazwa_pospolita	przest.
+> kaduku	kaduk:s1	subst:sg:voc:m3	nazwa_pospolita	przest.
+1355242a1355325,1355347
+> kaducy	kaduk:s2	subst:pl:nom.voc:m1	nazwa_pospolita	przest.
+> kadukach	kaduk:s2	subst:pl:loc:m1	nazwa_pospolita	przest.
+> kadukach	kaduk:s2	subst:pl:loc:m2	nazwa_pospolita	przest.
+> kaduka	kaduk:s2	subst:sg:gen.acc:m1	nazwa_pospolita	przest.
+> kaduka	kaduk:s2	subst:sg:gen.acc:m2	nazwa_pospolita	przest.
+> kadukami	kaduk:s2	subst:pl:inst:m1	nazwa_pospolita	przest.
+> kadukami	kaduk:s2	subst:pl:inst:m2	nazwa_pospolita	przest.
+> kadukiem	kaduk:s2	subst:sg:inst:m1	nazwa_pospolita	przest.
+> kadukiem	kaduk:s2	subst:sg:inst:m2	nazwa_pospolita	przest.
+> kaduki	kaduk:s2	depr:pl:nom.acc.voc:m2	nazwa_pospolita	przest.
+> kaduki	kaduk:s2	subst:pl:nom.acc.voc:m2	nazwa_pospolita	przest.
+> kaduk	kaduk:s2	subst:sg:nom:m1	nazwa_pospolita	przest.
+> kaduk	kaduk:s2	subst:sg:nom:m2	nazwa_pospolita	przest.
+> kadukom	kaduk:s2	subst:pl:dat:m1	nazwa_pospolita	przest.
+> kadukom	kaduk:s2	subst:pl:dat:m2	nazwa_pospolita	przest.
+> kadukowi	kaduk:s2	subst:sg:dat:m1	nazwa_pospolita	przest.
+> kadukowi	kaduk:s2	subst:sg:dat:m2	nazwa_pospolita	przest.
+> kaduków	kaduk:s2	subst:pl:gen.acc:m1	nazwa_pospolita	przest.
+> kaduków	kaduk:s2	subst:pl:gen:m2	nazwa_pospolita	przest.
+> kaduku	kaduk:s2	subst:sg:loc:m1	nazwa_pospolita	przest.
+> kaduku	kaduk:s2	subst:sg:loc:m2	nazwa_pospolita	przest.
+> kaduku	kaduk:s2	subst:sg:voc:m1	nazwa_pospolita	przest.
+> kaduku	kaduk:s2	subst:sg:voc:m2	nazwa_pospolita	przest.
+2279121a2279227,2279323
+> naszydełkować	naszydełkować	inf:perf		
+> naszydełkowaliby	naszydełkować	cond:pl:m1:ter:perf		
+> naszydełkowalibyście	naszydełkować	cond:pl:m1:sec:perf		
+> naszydełkowalibyśmy	naszydełkować	cond:pl:m1:pri:perf		
+> naszydełkowali	naszydełkować	praet:pl:m1:perf		
+> naszydełkowali	naszydełkować	praet:pl:m1:ter:perf		
+> naszydełkowaliście	naszydełkować	praet:pl:m1:sec:perf		
+> naszydełkowaliśmy	naszydełkować	praet:pl:m1:pri:perf		
+> naszydełkowałabym	naszydełkować	cond:sg:f:pri:perf		
+> naszydełkowałaby	naszydełkować	cond:sg:f:ter:perf		
+> naszydełkowałabyś	naszydełkować	cond:sg:f:sec:perf		
+> naszydełkowałam	naszydełkować	praet:sg:f:pri:perf		
+> naszydełkowała	naszydełkować	praet:sg:f:perf		
+> naszydełkowała	naszydełkować	praet:sg:f:ter:perf		
+> naszydełkowałaś	naszydełkować	praet:sg:f:sec:perf		
+> naszydełkowałbym	naszydełkować	cond:sg:m1.m2.m3:pri:perf		
+> naszydełkowałby	naszydełkować	cond:sg:m1.m2.m3:ter:perf		
+> naszydełkowałbyś	naszydełkować	cond:sg:m1.m2.m3:sec:perf		
+> naszydełkowałem	naszydełkować	praet:sg:m1.m2.m3:pri:perf		
+> naszydełkowałeś	naszydełkować	praet:sg:m1.m2.m3:sec:perf		
+> naszydełkował	naszydełkować	praet:sg:m1.m2.m3:perf		
+> naszydełkował	naszydełkować	praet:sg:m1.m2.m3:ter:perf		
+> naszydełkowałobym	naszydełkować	cond:sg:n:pri:perf		
+> naszydełkowałoby	naszydełkować	cond:sg:n:ter:perf		
+> naszydełkowałobyś	naszydełkować	cond:sg:n:sec:perf		
+> naszydełkowałom	naszydełkować	praet:sg:n:pri:perf		
+> naszydełkowało	naszydełkować	praet:sg:n:perf		
+> naszydełkowało	naszydełkować	praet:sg:n:ter:perf		
+> naszydełkowałoś	naszydełkować	praet:sg:n:sec:perf		
+> naszydełkowałyby	naszydełkować	cond:pl:m2.m3.f.n:ter:perf		
+> naszydełkowałybyście	naszydełkować	cond:pl:m2.m3.f.n:sec:perf		
+> naszydełkowałybyśmy	naszydełkować	cond:pl:m2.m3.f.n:pri:perf		
+> naszydełkowały	naszydełkować	praet:pl:m2.m3.f.n:perf		
+> naszydełkowały	naszydełkować	praet:pl:m2.m3.f.n:ter:perf		
+> naszydełkowałyście	naszydełkować	praet:pl:m2.m3.f.n:sec:perf		
+> naszydełkowałyśmy	naszydełkować	praet:pl:m2.m3.f.n:pri:perf		
+> naszydełkowana	naszydełkować	ppas:sg:nom.voc:f:perf:aff		
+> naszydełkowaną	naszydełkować	ppas:sg:acc.inst:f:perf:aff		
+> naszydełkowanego	naszydełkować	ppas:sg:acc:m1.m2:perf:aff		
+> naszydełkowanego	naszydełkować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> naszydełkowanej	naszydełkować	ppas:sg:gen.dat.loc:f:perf:aff		
+> naszydełkowanemu	naszydełkować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> naszydełkowane	naszydełkować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> naszydełkowane	naszydełkować	ppas:sg:nom.acc.voc:n:perf:aff		
+> naszydełkowaniach	naszydełkować	ger:pl:loc:n:perf:aff		
+> naszydełkowaniami	naszydełkować	ger:pl:inst:n:perf:aff		
+> naszydełkowania	naszydełkować	ger:pl:nom.acc:n:perf:aff		
+> naszydełkowania	naszydełkować	ger:sg:gen:n:perf:aff		
+> naszydełkowaniem	naszydełkować	ger:sg:inst:n:perf:aff		
+> naszydełkowanie	naszydełkować	ger:sg:nom.acc:n:perf:aff		
+> naszydełkowani	naszydełkować	ppas:pl:nom.voc:m1:perf:aff		
+> naszydełkowaniom	naszydełkować	ger:pl:dat:n:perf:aff		
+> naszydełkowaniu	naszydełkować	ger:sg:dat.loc:n:perf:aff		
+> naszydełkowano	naszydełkować	imps:perf		
+> naszydełkowanych	naszydełkować	ppas:pl:acc:m1:perf:aff		
+> naszydełkowanych	naszydełkować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> naszydełkowanymi	naszydełkować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> naszydełkowanym	naszydełkować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> naszydełkowanym	naszydełkować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> naszydełkowany	naszydełkować	ppas:sg:acc:m3:perf:aff		
+> naszydełkowany	naszydełkować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> naszydełkowań	naszydełkować	ger:pl:gen:n:perf:aff		
+> naszydełkowawszy	naszydełkować	pant:perf		
+> naszydełkują	naszydełkować	fin:pl:ter:perf		
+> naszydełkujcie	naszydełkować	impt:pl:sec:perf		
+> naszydełkujecie	naszydełkować	fin:pl:sec:perf		
+> naszydełkujemy	naszydełkować	fin:pl:pri:perf		
+> naszydełkuje	naszydełkować	fin:sg:ter:perf		
+> naszydełkujesz	naszydełkować	fin:sg:sec:perf		
+> naszydełkuję	naszydełkować	fin:sg:pri:perf		
+> naszydełkujmy	naszydełkować	impt:pl:pri:perf		
+> naszydełkuj	naszydełkować	impt:sg:sec:perf		
+> nienaszydełkowana	naszydełkować	ppas:sg:nom.voc:f:perf:neg		
+> nienaszydełkowaną	naszydełkować	ppas:sg:acc.inst:f:perf:neg		
+> nienaszydełkowanego	naszydełkować	ppas:sg:acc:m1.m2:perf:neg		
+> nienaszydełkowanego	naszydełkować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> nienaszydełkowanej	naszydełkować	ppas:sg:gen.dat.loc:f:perf:neg		
+> nienaszydełkowanemu	naszydełkować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> nienaszydełkowane	naszydełkować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> nienaszydełkowane	naszydełkować	ppas:sg:nom.acc.voc:n:perf:neg		
+> nienaszydełkowaniach	naszydełkować	ger:pl:loc:n:perf:neg		
+> nienaszydełkowaniami	naszydełkować	ger:pl:inst:n:perf:neg		
+> nienaszydełkowania	naszydełkować	ger:pl:nom.acc:n:perf:neg		
+> nienaszydełkowania	naszydełkować	ger:sg:gen:n:perf:neg		
+> nienaszydełkowaniem	naszydełkować	ger:sg:inst:n:perf:neg		
+> nienaszydełkowanie	naszydełkować	ger:sg:nom.acc:n:perf:neg		
+> nienaszydełkowani	naszydełkować	ppas:pl:nom.voc:m1:perf:neg		
+> nienaszydełkowaniom	naszydełkować	ger:pl:dat:n:perf:neg		
+> nienaszydełkowaniu	naszydełkować	ger:sg:dat.loc:n:perf:neg		
+> nienaszydełkowanych	naszydełkować	ppas:pl:acc:m1:perf:neg		
+> nienaszydełkowanych	naszydełkować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> nienaszydełkowanymi	naszydełkować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> nienaszydełkowanym	naszydełkować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> nienaszydełkowanym	naszydełkować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> nienaszydełkowany	naszydełkować	ppas:sg:acc:m3:perf:neg		
+> nienaszydełkowany	naszydełkować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nienaszydełkowań	naszydełkować	ger:pl:gen:n:perf:neg		
+2346543a2346746,2346780
+> nieantenowatościach	nieantenowatość	subst:pl:loc:f		
+> nieantenowatościami	nieantenowatość	subst:pl:inst:f		
+> nieantenowatością	nieantenowatość	subst:sg:inst:f		
+> nieantenowatości	nieantenowatość	subst:pl:gen:f		
+> nieantenowatości	nieantenowatość	subst:pl:nom.acc.voc:f		
+> nieantenowatości	nieantenowatość	subst:sg:dat.loc:f		
+> nieantenowatości	nieantenowatość	subst:sg:gen:f		
+> nieantenowatości	nieantenowatość	subst:sg:voc:f		
+> nieantenowatościom	nieantenowatość	subst:pl:dat:f		
+> nieantenowatość	nieantenowatość	subst:sg:acc:f		
+> nieantenowatość	nieantenowatość	subst:sg:nom:f		
+> nieantenowaci	nieantenowaty	adj:pl:nom.voc:m1:pos		
+> nieantenowata	nieantenowaty	adj:sg:nom.voc:f:pos		
+> nieantenowatą	nieantenowaty	adj:sg:acc:f:pos		
+> nieantenowatą	nieantenowaty	adj:sg:inst:f:pos		
+> nieantenowatego	nieantenowaty	adj:sg:acc:m1.m2:pos		
+> nieantenowatego	nieantenowaty	adj:sg:gen:m1.m2.m3.n:pos		
+> nieantenowatej	nieantenowaty	adj:sg:dat:f:pos		
+> nieantenowatej	nieantenowaty	adj:sg:gen:f:pos		
+> nieantenowatej	nieantenowaty	adj:sg:loc:f:pos		
+> nieantenowatemu	nieantenowaty	adj:sg:dat:m1.m2.m3.n:pos		
+> nieantenowate	nieantenowaty	adj:pl:acc:m2.m3.f.n:pos		
+> nieantenowate	nieantenowaty	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieantenowate	nieantenowaty	adj:sg:acc:n:pos		
+> nieantenowate	nieantenowaty	adj:sg:nom.voc:n:pos		
+> nieantenowato	nieantenowaty	adja		
+> nieantenowatych	nieantenowaty	adj:pl:acc:m1:pos		
+> nieantenowatych	nieantenowaty	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieantenowatych	nieantenowaty	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieantenowatymi	nieantenowaty	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieantenowatym	nieantenowaty	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieantenowatym	nieantenowaty	adj:sg:inst:m1.m2.m3.n:pos		
+> nieantenowatym	nieantenowaty	adj:sg:loc:m1.m2.m3.n:pos		
+> nieantenowaty	nieantenowaty	adj:sg:acc:m3:pos		
+> nieantenowaty	nieantenowaty	adj:sg:nom.voc:m1.m2.m3:pos		
+3272447a3272685,3272721
+> nieszydełkarscy	nieszydełkarski	adj:pl:nom.voc:m1:pos		
+> nieszydełkarska	nieszydełkarski	adj:sg:nom.voc:f:pos		
+> nieszydełkarską	nieszydełkarski	adj:sg:acc:f:pos		
+> nieszydełkarską	nieszydełkarski	adj:sg:inst:f:pos		
+> nieszydełkarskich	nieszydełkarski	adj:pl:acc:m1:pos		
+> nieszydełkarskich	nieszydełkarski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieszydełkarskich	nieszydełkarski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieszydełkarskiego	nieszydełkarski	adj:sg:acc:m1.m2:pos		
+> nieszydełkarskiego	nieszydełkarski	adj:sg:gen:m1.m2.m3.n:pos		
+> nieszydełkarskiej	nieszydełkarski	adj:sg:dat:f:pos		
+> nieszydełkarskiej	nieszydełkarski	adj:sg:gen:f:pos		
+> nieszydełkarskiej	nieszydełkarski	adj:sg:loc:f:pos		
+> nieszydełkarskiemu	nieszydełkarski	adj:sg:dat:m1.m2.m3.n:pos		
+> nieszydełkarskie	nieszydełkarski	adj:pl:acc:m2.m3.f.n:pos		
+> nieszydełkarskie	nieszydełkarski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieszydełkarskie	nieszydełkarski	adj:sg:acc:n:pos		
+> nieszydełkarskie	nieszydełkarski	adj:sg:nom.voc:n:pos		
+> nieszydełkarskimi	nieszydełkarski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieszydełkarskim	nieszydełkarski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieszydełkarskim	nieszydełkarski	adj:sg:inst:m1.m2.m3.n:pos		
+> nieszydełkarskim	nieszydełkarski	adj:sg:loc:m1.m2.m3.n:pos		
+> nieszydełkarski	nieszydełkarski	adj:sg:acc:m3:pos		
+> nieszydełkarski	nieszydełkarski	adj:sg:nom.voc:m1.m2.m3:pos		
+> nieszydełkarsko	nieszydełkarski	adja		
+> nieszydełkarsku	nieszydełkarski	adjp:dat		
+> nieszydełkarsko	nieszydełkarsko	adv:pos		
+> nieszydełkarskościach	nieszydełkarskość	subst:pl:loc:f		
+> nieszydełkarskościami	nieszydełkarskość	subst:pl:inst:f		
+> nieszydełkarskością	nieszydełkarskość	subst:sg:inst:f		
+> nieszydełkarskości	nieszydełkarskość	subst:pl:gen:f		
+> nieszydełkarskości	nieszydełkarskość	subst:pl:nom.acc.voc:f		
+> nieszydełkarskości	nieszydełkarskość	subst:sg:dat.loc:f		
+> nieszydełkarskości	nieszydełkarskość	subst:sg:gen:f		
+> nieszydełkarskości	nieszydełkarskość	subst:sg:voc:f		
+> nieszydełkarskościom	nieszydełkarskość	subst:pl:dat:f		
+> nieszydełkarskość	nieszydełkarskość	subst:sg:acc:f		
+> nieszydełkarskość	nieszydełkarskość	subst:sg:nom:f		
+3597891a3598166,3598392
+> nieobszydełkowana	obszydełkować	ppas:sg:nom.voc:f:perf:neg		
+> nieobszydełkowaną	obszydełkować	ppas:sg:acc.inst:f:perf:neg		
+> nieobszydełkowanego	obszydełkować	ppas:sg:acc:m1.m2:perf:neg		
+> nieobszydełkowanego	obszydełkować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> nieobszydełkowanej	obszydełkować	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieobszydełkowanemu	obszydełkować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> nieobszydełkowane	obszydełkować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> nieobszydełkowane	obszydełkować	ppas:sg:nom.acc.voc:n:perf:neg		
+> nieobszydełkowaniach	obszydełkować	ger:pl:loc:n:perf:neg		
+> nieobszydełkowaniami	obszydełkować	ger:pl:inst:n:perf:neg		
+> nieobszydełkowania	obszydełkować	ger:pl:nom.acc:n:perf:neg		
+> nieobszydełkowania	obszydełkować	ger:sg:gen:n:perf:neg		
+> nieobszydełkowaniem	obszydełkować	ger:sg:inst:n:perf:neg		
+> nieobszydełkowanie	obszydełkować	ger:sg:nom.acc:n:perf:neg		
+> nieobszydełkowani	obszydełkować	ppas:pl:nom.voc:m1:perf:neg		
+> nieobszydełkowaniom	obszydełkować	ger:pl:dat:n:perf:neg		
+> nieobszydełkowaniu	obszydełkować	ger:sg:dat.loc:n:perf:neg		
+> nieobszydełkowanych	obszydełkować	ppas:pl:acc:m1:perf:neg		
+> nieobszydełkowanych	obszydełkować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> nieobszydełkowanymi	obszydełkować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> nieobszydełkowanym	obszydełkować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> nieobszydełkowanym	obszydełkować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> nieobszydełkowany	obszydełkować	ppas:sg:acc:m3:perf:neg		
+> nieobszydełkowany	obszydełkować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nieobszydełkowań	obszydełkować	ger:pl:gen:n:perf:neg		
+> obszydełkować	obszydełkować	inf:perf		
+> obszydełkowaliby	obszydełkować	cond:pl:m1:ter:perf		
+> obszydełkowalibyście	obszydełkować	cond:pl:m1:sec:perf		
+> obszydełkowalibyśmy	obszydełkować	cond:pl:m1:pri:perf		
+> obszydełkowali	obszydełkować	praet:pl:m1:perf		
+> obszydełkowali	obszydełkować	praet:pl:m1:ter:perf		
+> obszydełkowaliście	obszydełkować	praet:pl:m1:sec:perf		
+> obszydełkowaliśmy	obszydełkować	praet:pl:m1:pri:perf		
+> obszydełkowałabym	obszydełkować	cond:sg:f:pri:perf		
+> obszydełkowałaby	obszydełkować	cond:sg:f:ter:perf		
+> obszydełkowałabyś	obszydełkować	cond:sg:f:sec:perf		
+> obszydełkowałam	obszydełkować	praet:sg:f:pri:perf		
+> obszydełkowała	obszydełkować	praet:sg:f:perf		
+> obszydełkowała	obszydełkować	praet:sg:f:ter:perf		
+> obszydełkowałaś	obszydełkować	praet:sg:f:sec:perf		
+> obszydełkowałbym	obszydełkować	cond:sg:m1.m2.m3:pri:perf		
+> obszydełkowałby	obszydełkować	cond:sg:m1.m2.m3:ter:perf		
+> obszydełkowałbyś	obszydełkować	cond:sg:m1.m2.m3:sec:perf		
+> obszydełkowałem	obszydełkować	praet:sg:m1.m2.m3:pri:perf		
+> obszydełkowałeś	obszydełkować	praet:sg:m1.m2.m3:sec:perf		
+> obszydełkował	obszydełkować	praet:sg:m1.m2.m3:perf		
+> obszydełkował	obszydełkować	praet:sg:m1.m2.m3:ter:perf		
+> obszydełkowałobym	obszydełkować	cond:sg:n:pri:perf		
+> obszydełkowałoby	obszydełkować	cond:sg:n:ter:perf		
+> obszydełkowałobyś	obszydełkować	cond:sg:n:sec:perf		
+> obszydełkowałom	obszydełkować	praet:sg:n:pri:perf		
+> obszydełkowało	obszydełkować	praet:sg:n:perf		
+> obszydełkowało	obszydełkować	praet:sg:n:ter:perf		
+> obszydełkowałoś	obszydełkować	praet:sg:n:sec:perf		
+> obszydełkowałyby	obszydełkować	cond:pl:m2.m3.f.n:ter:perf		
+> obszydełkowałybyście	obszydełkować	cond:pl:m2.m3.f.n:sec:perf		
+> obszydełkowałybyśmy	obszydełkować	cond:pl:m2.m3.f.n:pri:perf		
+> obszydełkowały	obszydełkować	praet:pl:m2.m3.f.n:perf		
+> obszydełkowały	obszydełkować	praet:pl:m2.m3.f.n:ter:perf		
+> obszydełkowałyście	obszydełkować	praet:pl:m2.m3.f.n:sec:perf		
+> obszydełkowałyśmy	obszydełkować	praet:pl:m2.m3.f.n:pri:perf		
+> obszydełkowana	obszydełkować	ppas:sg:nom.voc:f:perf:aff		
+> obszydełkowaną	obszydełkować	ppas:sg:acc.inst:f:perf:aff		
+> obszydełkowanego	obszydełkować	ppas:sg:acc:m1.m2:perf:aff		
+> obszydełkowanego	obszydełkować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> obszydełkowanej	obszydełkować	ppas:sg:gen.dat.loc:f:perf:aff		
+> obszydełkowanemu	obszydełkować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> obszydełkowane	obszydełkować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> obszydełkowane	obszydełkować	ppas:sg:nom.acc.voc:n:perf:aff		
+> obszydełkowaniach	obszydełkować	ger:pl:loc:n:perf:aff		
+> obszydełkowaniami	obszydełkować	ger:pl:inst:n:perf:aff		
+> obszydełkowania	obszydełkować	ger:pl:nom.acc:n:perf:aff		
+> obszydełkowania	obszydełkować	ger:sg:gen:n:perf:aff		
+> obszydełkowaniem	obszydełkować	ger:sg:inst:n:perf:aff		
+> obszydełkowanie	obszydełkować	ger:sg:nom.acc:n:perf:aff		
+> obszydełkowani	obszydełkować	ppas:pl:nom.voc:m1:perf:aff		
+> obszydełkowaniom	obszydełkować	ger:pl:dat:n:perf:aff		
+> obszydełkowaniu	obszydełkować	ger:sg:dat.loc:n:perf:aff		
+> obszydełkowano	obszydełkować	imps:perf		
+> obszydełkowanych	obszydełkować	ppas:pl:acc:m1:perf:aff		
+> obszydełkowanych	obszydełkować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> obszydełkowanymi	obszydełkować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> obszydełkowanym	obszydełkować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> obszydełkowanym	obszydełkować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> obszydełkowany	obszydełkować	ppas:sg:acc:m3:perf:aff		
+> obszydełkowany	obszydełkować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> obszydełkowań	obszydełkować	ger:pl:gen:n:perf:aff		
+> obszydełkowawszy	obszydełkować	pant:perf		
+> obszydełkują	obszydełkować	fin:pl:ter:perf		
+> obszydełkujcie	obszydełkować	impt:pl:sec:perf		
+> obszydełkujecie	obszydełkować	fin:pl:sec:perf		
+> obszydełkujemy	obszydełkować	fin:pl:pri:perf		
+> obszydełkuje	obszydełkować	fin:sg:ter:perf		
+> obszydełkujesz	obszydełkować	fin:sg:sec:perf		
+> obszydełkuję	obszydełkować	fin:sg:pri:perf		
+> obszydełkujmy	obszydełkować	impt:pl:pri:perf		
+> obszydełkuj	obszydełkować	impt:sg:sec:perf		
+> nieobszydełkowująca	obszydełkowywać	pact:sg:nom.voc:f:imperf:neg		
+> nieobszydełkowującą	obszydełkowywać	pact:sg:acc.inst:f:imperf:neg		
+> nieobszydełkowującego	obszydełkowywać	pact:sg:acc:m1.m2:imperf:neg		
+> nieobszydełkowującego	obszydełkowywać	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieobszydełkowującej	obszydełkowywać	pact:sg:gen.dat.loc:f:imperf:neg		
+> nieobszydełkowującemu	obszydełkowywać	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieobszydełkowujące	obszydełkowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieobszydełkowujące	obszydełkowywać	pact:sg:nom.acc.voc:n:imperf:neg		
+> nieobszydełkowujących	obszydełkowywać	pact:pl:acc:m1:imperf:neg		
+> nieobszydełkowujących	obszydełkowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieobszydełkowującymi	obszydełkowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieobszydełkowującym	obszydełkowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieobszydełkowującym	obszydełkowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieobszydełkowujący	obszydełkowywać	pact:pl:nom.voc:m1:imperf:neg		
+> nieobszydełkowujący	obszydełkowywać	pact:sg:acc:m3:imperf:neg		
+> nieobszydełkowujący	obszydełkowywać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieobszydełkowywana	obszydełkowywać	ppas:sg:nom.voc:f:imperf:neg		
+> nieobszydełkowywaną	obszydełkowywać	ppas:sg:acc.inst:f:imperf:neg		
+> nieobszydełkowywanego	obszydełkowywać	ppas:sg:acc:m1.m2:imperf:neg		
+> nieobszydełkowywanego	obszydełkowywać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieobszydełkowywanej	obszydełkowywać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieobszydełkowywanemu	obszydełkowywać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieobszydełkowywane	obszydełkowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieobszydełkowywane	obszydełkowywać	ppas:sg:nom.acc.voc:n:imperf:neg		
+> nieobszydełkowywaniach	obszydełkowywać	ger:pl:loc:n:imperf:neg		
+> nieobszydełkowywaniami	obszydełkowywać	ger:pl:inst:n:imperf:neg		
+> nieobszydełkowywania	obszydełkowywać	ger:pl:nom.acc:n:imperf:neg		
+> nieobszydełkowywania	obszydełkowywać	ger:sg:gen:n:imperf:neg		
+> nieobszydełkowywaniem	obszydełkowywać	ger:sg:inst:n:imperf:neg		
+> nieobszydełkowywanie	obszydełkowywać	ger:sg:nom.acc:n:imperf:neg		
+> nieobszydełkowywani	obszydełkowywać	ppas:pl:nom.voc:m1:imperf:neg		
+> nieobszydełkowywaniom	obszydełkowywać	ger:pl:dat:n:imperf:neg		
+> nieobszydełkowywaniu	obszydełkowywać	ger:sg:dat.loc:n:imperf:neg		
+> nieobszydełkowywanych	obszydełkowywać	ppas:pl:acc:m1:imperf:neg		
+> nieobszydełkowywanych	obszydełkowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieobszydełkowywanymi	obszydełkowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieobszydełkowywanym	obszydełkowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieobszydełkowywanym	obszydełkowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieobszydełkowywany	obszydełkowywać	ppas:sg:acc:m3:imperf:neg		
+> nieobszydełkowywany	obszydełkowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieobszydełkowywań	obszydełkowywać	ger:pl:gen:n:imperf:neg		
+> obszydełkowująca	obszydełkowywać	pact:sg:nom.voc:f:imperf:aff		
+> obszydełkowującą	obszydełkowywać	pact:sg:acc.inst:f:imperf:aff		
+> obszydełkowującego	obszydełkowywać	pact:sg:acc:m1.m2:imperf:aff		
+> obszydełkowującego	obszydełkowywać	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> obszydełkowującej	obszydełkowywać	pact:sg:gen.dat.loc:f:imperf:aff		
+> obszydełkowującemu	obszydełkowywać	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> obszydełkowujące	obszydełkowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> obszydełkowujące	obszydełkowywać	pact:sg:nom.acc.voc:n:imperf:aff		
+> obszydełkowując	obszydełkowywać	pcon:imperf		
+> obszydełkowująco	obszydełkowywać	pacta		
+> obszydełkowujących	obszydełkowywać	pact:pl:acc:m1:imperf:aff		
+> obszydełkowujących	obszydełkowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> obszydełkowującymi	obszydełkowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> obszydełkowującym	obszydełkowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> obszydełkowującym	obszydełkowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> obszydełkowujący	obszydełkowywać	pact:pl:nom.voc:m1:imperf:aff		
+> obszydełkowujący	obszydełkowywać	pact:sg:acc:m3:imperf:aff		
+> obszydełkowujący	obszydełkowywać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> obszydełkowują	obszydełkowywać	fin:pl:ter:imperf		
+> obszydełkowujcie	obszydełkowywać	impt:pl:sec:imperf		
+> obszydełkowujecie	obszydełkowywać	fin:pl:sec:imperf		
+> obszydełkowujemy	obszydełkowywać	fin:pl:pri:imperf		
+> obszydełkowuje	obszydełkowywać	fin:sg:ter:imperf		
+> obszydełkowujesz	obszydełkowywać	fin:sg:sec:imperf		
+> obszydełkowuję	obszydełkowywać	fin:sg:pri:imperf		
+> obszydełkowujmy	obszydełkowywać	impt:pl:pri:imperf		
+> obszydełkowuj	obszydełkowywać	impt:sg:sec:imperf		
+> obszydełkowywać	obszydełkowywać	inf:imperf		
+> obszydełkowywaliby	obszydełkowywać	cond:pl:m1:ter:imperf		
+> obszydełkowywalibyście	obszydełkowywać	cond:pl:m1:sec:imperf		
+> obszydełkowywalibyśmy	obszydełkowywać	cond:pl:m1:pri:imperf		
+> obszydełkowywali	obszydełkowywać	praet:pl:m1:imperf		
+> obszydełkowywali	obszydełkowywać	praet:pl:m1:ter:imperf		
+> obszydełkowywaliście	obszydełkowywać	praet:pl:m1:sec:imperf		
+> obszydełkowywaliśmy	obszydełkowywać	praet:pl:m1:pri:imperf		
+> obszydełkowywałabym	obszydełkowywać	cond:sg:f:pri:imperf		
+> obszydełkowywałaby	obszydełkowywać	cond:sg:f:ter:imperf		
+> obszydełkowywałabyś	obszydełkowywać	cond:sg:f:sec:imperf		
+> obszydełkowywałam	obszydełkowywać	praet:sg:f:pri:imperf		
+> obszydełkowywała	obszydełkowywać	praet:sg:f:imperf		
+> obszydełkowywała	obszydełkowywać	praet:sg:f:ter:imperf		
+> obszydełkowywałaś	obszydełkowywać	praet:sg:f:sec:imperf		
+> obszydełkowywałbym	obszydełkowywać	cond:sg:m1.m2.m3:pri:imperf		
+> obszydełkowywałby	obszydełkowywać	cond:sg:m1.m2.m3:ter:imperf		
+> obszydełkowywałbyś	obszydełkowywać	cond:sg:m1.m2.m3:sec:imperf		
+> obszydełkowywałem	obszydełkowywać	praet:sg:m1.m2.m3:pri:imperf		
+> obszydełkowywałeś	obszydełkowywać	praet:sg:m1.m2.m3:sec:imperf		
+> obszydełkowywał	obszydełkowywać	praet:sg:m1.m2.m3:imperf		
+> obszydełkowywał	obszydełkowywać	praet:sg:m1.m2.m3:ter:imperf		
+> obszydełkowywałobym	obszydełkowywać	cond:sg:n:pri:imperf		
+> obszydełkowywałoby	obszydełkowywać	cond:sg:n:ter:imperf		
+> obszydełkowywałobyś	obszydełkowywać	cond:sg:n:sec:imperf		
+> obszydełkowywałom	obszydełkowywać	praet:sg:n:pri:imperf		
+> obszydełkowywało	obszydełkowywać	praet:sg:n:imperf		
+> obszydełkowywało	obszydełkowywać	praet:sg:n:ter:imperf		
+> obszydełkowywałoś	obszydełkowywać	praet:sg:n:sec:imperf		
+> obszydełkowywałyby	obszydełkowywać	cond:pl:m2.m3.f.n:ter:imperf		
+> obszydełkowywałybyście	obszydełkowywać	cond:pl:m2.m3.f.n:sec:imperf		
+> obszydełkowywałybyśmy	obszydełkowywać	cond:pl:m2.m3.f.n:pri:imperf		
+> obszydełkowywały	obszydełkowywać	praet:pl:m2.m3.f.n:imperf		
+> obszydełkowywały	obszydełkowywać	praet:pl:m2.m3.f.n:ter:imperf		
+> obszydełkowywałyście	obszydełkowywać	praet:pl:m2.m3.f.n:sec:imperf		
+> obszydełkowywałyśmy	obszydełkowywać	praet:pl:m2.m3.f.n:pri:imperf		
+> obszydełkowywana	obszydełkowywać	ppas:sg:nom.voc:f:imperf:aff		
+> obszydełkowywaną	obszydełkowywać	ppas:sg:acc.inst:f:imperf:aff		
+> obszydełkowywanego	obszydełkowywać	ppas:sg:acc:m1.m2:imperf:aff		
+> obszydełkowywanego	obszydełkowywać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> obszydełkowywanej	obszydełkowywać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> obszydełkowywanemu	obszydełkowywać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> obszydełkowywane	obszydełkowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> obszydełkowywane	obszydełkowywać	ppas:sg:nom.acc.voc:n:imperf:aff		
+> obszydełkowywaniach	obszydełkowywać	ger:pl:loc:n:imperf:aff		
+> obszydełkowywaniami	obszydełkowywać	ger:pl:inst:n:imperf:aff		
+> obszydełkowywania	obszydełkowywać	ger:pl:nom.acc:n:imperf:aff		
+> obszydełkowywania	obszydełkowywać	ger:sg:gen:n:imperf:aff		
+> obszydełkowywaniem	obszydełkowywać	ger:sg:inst:n:imperf:aff		
+> obszydełkowywanie	obszydełkowywać	ger:sg:nom.acc:n:imperf:aff		
+> obszydełkowywani	obszydełkowywać	ppas:pl:nom.voc:m1:imperf:aff		
+> obszydełkowywaniom	obszydełkowywać	ger:pl:dat:n:imperf:aff		
+> obszydełkowywaniu	obszydełkowywać	ger:sg:dat.loc:n:imperf:aff		
+> obszydełkowywano	obszydełkowywać	imps:imperf		
+> obszydełkowywanych	obszydełkowywać	ppas:pl:acc:m1:imperf:aff		
+> obszydełkowywanych	obszydełkowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> obszydełkowywanymi	obszydełkowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> obszydełkowywanym	obszydełkowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> obszydełkowywanym	obszydełkowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> obszydełkowywany	obszydełkowywać	ppas:sg:acc:m3:imperf:aff		
+> obszydełkowywany	obszydełkowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> obszydełkowywań	obszydełkowywać	ger:pl:gen:n:imperf:aff		
+3783653a3784155,3784251
+> nieodzobaczeniach	odzobaczyć	ger:pl:loc:n:perf:neg		żart.|pot.
+> nieodzobaczeniami	odzobaczyć	ger:pl:inst:n:perf:neg		żart.|pot.
+> nieodzobaczenia	odzobaczyć	ger:pl:nom.acc:n:perf:neg		żart.|pot.
+> nieodzobaczenia	odzobaczyć	ger:sg:gen:n:perf:neg		żart.|pot.
+> nieodzobaczeniem	odzobaczyć	ger:sg:inst:n:perf:neg		żart.|pot.
+> nieodzobaczenie	odzobaczyć	ger:sg:nom.acc:n:perf:neg		żart.|pot.
+> nieodzobaczeni	odzobaczyć	ppas:pl:nom.voc:m1:perf:neg		żart.|pot.
+> nieodzobaczeniom	odzobaczyć	ger:pl:dat:n:perf:neg		żart.|pot.
+> nieodzobaczeniu	odzobaczyć	ger:sg:dat.loc:n:perf:neg		żart.|pot.
+> nieodzobaczeń	odzobaczyć	ger:pl:gen:n:perf:neg		żart.|pot.
+> nieodzobaczona	odzobaczyć	ppas:sg:nom.voc:f:perf:neg		żart.|pot.
+> nieodzobaczoną	odzobaczyć	ppas:sg:acc.inst:f:perf:neg		żart.|pot.
+> nieodzobaczonego	odzobaczyć	ppas:sg:acc:m1.m2:perf:neg		żart.|pot.
+> nieodzobaczonego	odzobaczyć	ppas:sg:gen:m1.m2.m3.n:perf:neg		żart.|pot.
+> nieodzobaczonej	odzobaczyć	ppas:sg:gen.dat.loc:f:perf:neg		żart.|pot.
+> nieodzobaczonemu	odzobaczyć	ppas:sg:dat:m1.m2.m3.n:perf:neg		żart.|pot.
+> nieodzobaczone	odzobaczyć	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		żart.|pot.
+> nieodzobaczone	odzobaczyć	ppas:sg:nom.acc.voc:n:perf:neg		żart.|pot.
+> nieodzobaczonych	odzobaczyć	ppas:pl:acc:m1:perf:neg		żart.|pot.
+> nieodzobaczonych	odzobaczyć	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		żart.|pot.
+> nieodzobaczonymi	odzobaczyć	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		żart.|pot.
+> nieodzobaczonym	odzobaczyć	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		żart.|pot.
+> nieodzobaczonym	odzobaczyć	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		żart.|pot.
+> nieodzobaczony	odzobaczyć	ppas:sg:acc:m3:perf:neg		żart.|pot.
+> nieodzobaczony	odzobaczyć	ppas:sg:nom.voc:m1.m2.m3:perf:neg		żart.|pot.
+> odzobaczą	odzobaczyć	fin:pl:ter:perf		żart.|pot.
+> odzobaczcie	odzobaczyć	impt:pl:sec:perf		żart.|pot.
+> odzobaczeniach	odzobaczyć	ger:pl:loc:n:perf:aff		żart.|pot.
+> odzobaczeniami	odzobaczyć	ger:pl:inst:n:perf:aff		żart.|pot.
+> odzobaczenia	odzobaczyć	ger:pl:nom.acc:n:perf:aff		żart.|pot.
+> odzobaczenia	odzobaczyć	ger:sg:gen:n:perf:aff		żart.|pot.
+> odzobaczeniem	odzobaczyć	ger:sg:inst:n:perf:aff		żart.|pot.
+> odzobaczenie	odzobaczyć	ger:sg:nom.acc:n:perf:aff		żart.|pot.
+> odzobaczeni	odzobaczyć	ppas:pl:nom.voc:m1:perf:aff		żart.|pot.
+> odzobaczeniom	odzobaczyć	ger:pl:dat:n:perf:aff		żart.|pot.
+> odzobaczeniu	odzobaczyć	ger:sg:dat.loc:n:perf:aff		żart.|pot.
+> odzobaczeń	odzobaczyć	ger:pl:gen:n:perf:aff		żart.|pot.
+> odzobaczę	odzobaczyć	fin:sg:pri:perf		żart.|pot.
+> odzobaczmy	odzobaczyć	impt:pl:pri:perf		żart.|pot.
+> odzobacz	odzobaczyć	impt:sg:sec:perf		żart.|pot.
+> odzobaczona	odzobaczyć	ppas:sg:nom.voc:f:perf:aff		żart.|pot.
+> odzobaczoną	odzobaczyć	ppas:sg:acc.inst:f:perf:aff		żart.|pot.
+> odzobaczonego	odzobaczyć	ppas:sg:acc:m1.m2:perf:aff		żart.|pot.
+> odzobaczonego	odzobaczyć	ppas:sg:gen:m1.m2.m3.n:perf:aff		żart.|pot.
+> odzobaczonej	odzobaczyć	ppas:sg:gen.dat.loc:f:perf:aff		żart.|pot.
+> odzobaczonemu	odzobaczyć	ppas:sg:dat:m1.m2.m3.n:perf:aff		żart.|pot.
+> odzobaczone	odzobaczyć	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		żart.|pot.
+> odzobaczone	odzobaczyć	ppas:sg:nom.acc.voc:n:perf:aff		żart.|pot.
+> odzobaczono	odzobaczyć	imps:perf		żart.|pot.
+> odzobaczonych	odzobaczyć	ppas:pl:acc:m1:perf:aff		żart.|pot.
+> odzobaczonych	odzobaczyć	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		żart.|pot.
+> odzobaczonymi	odzobaczyć	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		żart.|pot.
+> odzobaczonym	odzobaczyć	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		żart.|pot.
+> odzobaczonym	odzobaczyć	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		żart.|pot.
+> odzobaczony	odzobaczyć	ppas:sg:acc:m3:perf:aff		żart.|pot.
+> odzobaczony	odzobaczyć	ppas:sg:nom.voc:m1.m2.m3:perf:aff		żart.|pot.
+> odzobaczycie	odzobaczyć	fin:pl:sec:perf		żart.|pot.
+> odzobaczyć	odzobaczyć	inf:perf		żart.|pot.
+> odzobaczyliby	odzobaczyć	cond:pl:m1:ter:perf		żart.|pot.
+> odzobaczylibyście	odzobaczyć	cond:pl:m1:sec:perf		żart.|pot.
+> odzobaczylibyśmy	odzobaczyć	cond:pl:m1:pri:perf		żart.|pot.
+> odzobaczyli	odzobaczyć	praet:pl:m1:perf		żart.|pot.
+> odzobaczyli	odzobaczyć	praet:pl:m1:ter:perf		żart.|pot.
+> odzobaczyliście	odzobaczyć	praet:pl:m1:sec:perf		żart.|pot.
+> odzobaczyliśmy	odzobaczyć	praet:pl:m1:pri:perf		żart.|pot.
+> odzobaczyłabym	odzobaczyć	cond:sg:f:pri:perf		żart.|pot.
+> odzobaczyłaby	odzobaczyć	cond:sg:f:ter:perf		żart.|pot.
+> odzobaczyłabyś	odzobaczyć	cond:sg:f:sec:perf		żart.|pot.
+> odzobaczyłam	odzobaczyć	praet:sg:f:pri:perf		żart.|pot.
+> odzobaczyła	odzobaczyć	praet:sg:f:perf		żart.|pot.
+> odzobaczyła	odzobaczyć	praet:sg:f:ter:perf		żart.|pot.
+> odzobaczyłaś	odzobaczyć	praet:sg:f:sec:perf		żart.|pot.
+> odzobaczyłbym	odzobaczyć	cond:sg:m1.m2.m3:pri:perf		żart.|pot.
+> odzobaczyłby	odzobaczyć	cond:sg:m1.m2.m3:ter:perf		żart.|pot.
+> odzobaczyłbyś	odzobaczyć	cond:sg:m1.m2.m3:sec:perf		żart.|pot.
+> odzobaczyłem	odzobaczyć	praet:sg:m1.m2.m3:pri:perf		żart.|pot.
+> odzobaczyłeś	odzobaczyć	praet:sg:m1.m2.m3:sec:perf		żart.|pot.
+> odzobaczyłobym	odzobaczyć	cond:sg:n:pri:perf		żart.|pot.
+> odzobaczyłoby	odzobaczyć	cond:sg:n:ter:perf		żart.|pot.
+> odzobaczyłobyś	odzobaczyć	cond:sg:n:sec:perf		żart.|pot.
+> odzobaczył	odzobaczyć	praet:sg:m1.m2.m3:perf		żart.|pot.
+> odzobaczył	odzobaczyć	praet:sg:m1.m2.m3:ter:perf		żart.|pot.
+> odzobaczyłom	odzobaczyć	praet:sg:n:pri:perf		żart.|pot.
+> odzobaczyło	odzobaczyć	praet:sg:n:perf		żart.|pot.
+> odzobaczyło	odzobaczyć	praet:sg:n:ter:perf		żart.|pot.
+> odzobaczyłoś	odzobaczyć	praet:sg:n:sec:perf		żart.|pot.
+> odzobaczyłyby	odzobaczyć	cond:pl:m2.m3.f.n:ter:perf		żart.|pot.
+> odzobaczyłybyście	odzobaczyć	cond:pl:m2.m3.f.n:sec:perf		żart.|pot.
+> odzobaczyłybyśmy	odzobaczyć	cond:pl:m2.m3.f.n:pri:perf		żart.|pot.
+> odzobaczyły	odzobaczyć	praet:pl:m2.m3.f.n:perf		żart.|pot.
+> odzobaczyły	odzobaczyć	praet:pl:m2.m3.f.n:ter:perf		żart.|pot.
+> odzobaczyłyście	odzobaczyć	praet:pl:m2.m3.f.n:sec:perf		żart.|pot.
+> odzobaczyłyśmy	odzobaczyć	praet:pl:m2.m3.f.n:pri:perf		żart.|pot.
+> odzobaczymy	odzobaczyć	fin:pl:pri:perf		żart.|pot.
+> odzobaczy	odzobaczyć	fin:sg:ter:perf		żart.|pot.
+> odzobaczysz	odzobaczyć	fin:sg:sec:perf		żart.|pot.
+> odzobaczywszy	odzobaczyć	pant:perf		żart.|pot.
+5290090a5290689,5290699
+> rozsypance	rozsypanka	subst:sg:dat.loc:f	nazwa_pospolita	
+> rozsypanek	rozsypanka	subst:pl:gen:f	nazwa_pospolita	
+> rozsypankach	rozsypanka	subst:pl:loc:f	nazwa_pospolita	
+> rozsypankami	rozsypanka	subst:pl:inst:f	nazwa_pospolita	
+> rozsypanka	rozsypanka	subst:sg:nom:f	nazwa_pospolita	
+> rozsypanką	rozsypanka	subst:sg:inst:f	nazwa_pospolita	
+> rozsypankę	rozsypanka	subst:sg:acc:f	nazwa_pospolita	
+> rozsypanki	rozsypanka	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> rozsypanki	rozsypanka	subst:sg:gen:f	nazwa_pospolita	
+> rozsypankom	rozsypanka	subst:pl:dat:f	nazwa_pospolita	
+> rozsypanko	rozsypanka	subst:sg:voc:f	nazwa_pospolita	
+5290431a5291041,5291051
+> rozsypywarce	rozsypywarka	subst:sg:dat.loc:f	nazwa_pospolita	
+> rozsypywarek	rozsypywarka	subst:pl:gen:f	nazwa_pospolita	
+> rozsypywarkach	rozsypywarka	subst:pl:loc:f	nazwa_pospolita	
+> rozsypywarkami	rozsypywarka	subst:pl:inst:f	nazwa_pospolita	
+> rozsypywarka	rozsypywarka	subst:sg:nom:f	nazwa_pospolita	
+> rozsypywarką	rozsypywarka	subst:sg:inst:f	nazwa_pospolita	
+> rozsypywarkę	rozsypywarka	subst:sg:acc:f	nazwa_pospolita	
+> rozsypywarki	rozsypywarka	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> rozsypywarki	rozsypywarka	subst:sg:gen:f	nazwa_pospolita	
+> rozsypywarkom	rozsypywarka	subst:pl:dat:f	nazwa_pospolita	
+> rozsypywarko	rozsypywarka	subst:sg:voc:f	nazwa_pospolita	
+5910326a5910947,5911017
+> szydełkarscy	szydełkarski	adj:pl:nom.voc:m1:pos		
+> szydełkarska	szydełkarski	adj:sg:nom.voc:f:pos		
+> szydełkarską	szydełkarski	adj:sg:acc:f:pos		
+> szydełkarską	szydełkarski	adj:sg:inst:f:pos		
+> szydełkarskich	szydełkarski	adj:pl:acc:m1:pos		
+> szydełkarskich	szydełkarski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> szydełkarskich	szydełkarski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> szydełkarskiego	szydełkarski	adj:sg:acc:m1.m2:pos		
+> szydełkarskiego	szydełkarski	adj:sg:gen:m1.m2.m3.n:pos		
+> szydełkarskiej	szydełkarski	adj:sg:dat:f:pos		
+> szydełkarskiej	szydełkarski	adj:sg:gen:f:pos		
+> szydełkarskiej	szydełkarski	adj:sg:loc:f:pos		
+> szydełkarskiemu	szydełkarski	adj:sg:dat:m1.m2.m3.n:pos		
+> szydełkarskie	szydełkarski	adj:pl:acc:m2.m3.f.n:pos		
+> szydełkarskie	szydełkarski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> szydełkarskie	szydełkarski	adj:sg:acc:n:pos		
+> szydełkarskie	szydełkarski	adj:sg:nom.voc:n:pos		
+> szydełkarskimi	szydełkarski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> szydełkarskim	szydełkarski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> szydełkarskim	szydełkarski	adj:sg:inst:m1.m2.m3.n:pos		
+> szydełkarskim	szydełkarski	adj:sg:loc:m1.m2.m3.n:pos		
+> szydełkarski	szydełkarski	adj:sg:acc:m3:pos		
+> szydełkarski	szydełkarski	adj:sg:nom.voc:m1.m2.m3:pos		
+> szydełkarsko	szydełkarski	adja		
+> szydełkarsku	szydełkarski	adjp:dat		
+> szydełkarsko	szydełkarsko	adv:pos		
+> szydełkarskościach	szydełkarskość	subst:pl:loc:f		
+> szydełkarskościami	szydełkarskość	subst:pl:inst:f		
+> szydełkarskością	szydełkarskość	subst:sg:inst:f		
+> szydełkarskościom	szydełkarskość	subst:pl:dat:f		
+> szydełkarskości	szydełkarskość	subst:pl:gen:f		
+> szydełkarskości	szydełkarskość	subst:pl:nom.acc.voc:f		
+> szydełkarskości	szydełkarskość	subst:sg:dat.loc:f		
+> szydełkarskości	szydełkarskość	subst:sg:gen:f		
+> szydełkarskości	szydełkarskość	subst:sg:voc:f		
+> szydełkarskość	szydełkarskość	subst:sg:acc:f		
+> szydełkarskość	szydełkarskość	subst:sg:nom:f		
+> szydełkarstwach	szydełkarstwo	subst:pl:loc:n:ncol	nazwa_pospolita	
+> szydełkarstwami	szydełkarstwo	subst:pl:inst:n:ncol	nazwa_pospolita	
+> szydełkarstwa	szydełkarstwo	subst:pl:nom.acc.voc:n:ncol	nazwa_pospolita	
+> szydełkarstwa	szydełkarstwo	subst:sg:gen:n:ncol	nazwa_pospolita	
+> szydełkarstwem	szydełkarstwo	subst:sg:inst:n:ncol	nazwa_pospolita	
+> szydełkarstwie	szydełkarstwo	subst:sg:loc:n:ncol	nazwa_pospolita	
+> szydełkarstwom	szydełkarstwo	subst:pl:dat:n:ncol	nazwa_pospolita	
+> szydełkarstwo	szydełkarstwo	subst:sg:nom.acc.voc:n:ncol	nazwa_pospolita	
+> szydełkarstw	szydełkarstwo	subst:pl:gen:n:ncol	nazwa_pospolita	
+> szydełkarstwu	szydełkarstwo	subst:sg:dat:n:ncol	nazwa_pospolita	
+> szydełkarzach	szydełkarz	subst:pl:loc:m1	nazwa_pospolita	
+> szydełkarzach	szydełkarz	subst:pl:loc:m1	nazwa_pospolita	rzad.
+> szydełkarzami	szydełkarz	subst:pl:inst:m1	nazwa_pospolita	
+> szydełkarzami	szydełkarz	subst:pl:inst:m1	nazwa_pospolita	rzad.
+> szydełkarza	szydełkarz	subst:sg:gen.acc:m1	nazwa_pospolita	
+> szydełkarza	szydełkarz	subst:sg:gen.acc:m1	nazwa_pospolita	rzad.
+> szydełkarzem	szydełkarz	subst:sg:inst:m1	nazwa_pospolita	
+> szydełkarzem	szydełkarz	subst:sg:inst:m1	nazwa_pospolita	rzad.
+> szydełkarze	szydełkarz	depr:pl:nom.acc.voc:m2	nazwa_pospolita	
+> szydełkarze	szydełkarz	depr:pl:nom.acc.voc:m2	nazwa_pospolita	rzad.
+> szydełkarze	szydełkarz	subst:pl:nom.voc:m1	nazwa_pospolita	
+> szydełkarze	szydełkarz	subst:pl:nom.voc:m1	nazwa_pospolita	rzad.
+> szydełkarzom	szydełkarz	subst:pl:dat:m1	nazwa_pospolita	
+> szydełkarzom	szydełkarz	subst:pl:dat:m1	nazwa_pospolita	rzad.
+> szydełkarzowi	szydełkarz	subst:sg:dat:m1	nazwa_pospolita	
+> szydełkarzowi	szydełkarz	subst:sg:dat:m1	nazwa_pospolita	rzad.
+> szydełkarzów	szydełkarz	subst:pl:gen.acc:m1	nazwa_pospolita	rzad.
+> szydełkarz	szydełkarz	subst:sg:nom:m1	nazwa_pospolita	
+> szydełkarz	szydełkarz	subst:sg:nom:m1	nazwa_pospolita	rzad.
+> szydełkarzu	szydełkarz	subst:sg:loc:m1	nazwa_pospolita	
+> szydełkarzu	szydełkarz	subst:sg:loc:m1	nazwa_pospolita	rzad.
+> szydełkarzu	szydełkarz	subst:sg:voc:m1	nazwa_pospolita	
+> szydełkarzu	szydełkarz	subst:sg:voc:m1	nazwa_pospolita	rzad.
+> szydełkarzy	szydełkarz	subst:pl:gen.acc:m1	nazwa_pospolita	
+6304099a6304791,6304887
+> nieuszydełkowana	uszydełkować	ppas:sg:nom.voc:f:perf:neg		
+> nieuszydełkowaną	uszydełkować	ppas:sg:acc.inst:f:perf:neg		
+> nieuszydełkowanego	uszydełkować	ppas:sg:acc:m1.m2:perf:neg		
+> nieuszydełkowanego	uszydełkować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> nieuszydełkowanej	uszydełkować	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieuszydełkowanemu	uszydełkować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> nieuszydełkowane	uszydełkować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> nieuszydełkowane	uszydełkować	ppas:sg:nom.acc.voc:n:perf:neg		
+> nieuszydełkowaniach	uszydełkować	ger:pl:loc:n:perf:neg		
+> nieuszydełkowaniami	uszydełkować	ger:pl:inst:n:perf:neg		
+> nieuszydełkowania	uszydełkować	ger:pl:nom.acc:n:perf:neg		
+> nieuszydełkowania	uszydełkować	ger:sg:gen:n:perf:neg		
+> nieuszydełkowaniem	uszydełkować	ger:sg:inst:n:perf:neg		
+> nieuszydełkowanie	uszydełkować	ger:sg:nom.acc:n:perf:neg		
+> nieuszydełkowaniom	uszydełkować	ger:pl:dat:n:perf:neg		
+> nieuszydełkowani	uszydełkować	ppas:pl:nom.voc:m1:perf:neg		
+> nieuszydełkowaniu	uszydełkować	ger:sg:dat.loc:n:perf:neg		
+> nieuszydełkowanych	uszydełkować	ppas:pl:acc:m1:perf:neg		
+> nieuszydełkowanych	uszydełkować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> nieuszydełkowanymi	uszydełkować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> nieuszydełkowanym	uszydełkować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> nieuszydełkowanym	uszydełkować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> nieuszydełkowany	uszydełkować	ppas:sg:acc:m3:perf:neg		
+> nieuszydełkowany	uszydełkować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nieuszydełkowań	uszydełkować	ger:pl:gen:n:perf:neg		
+> uszydełkować	uszydełkować	inf:perf		
+> uszydełkowalibyście	uszydełkować	cond:pl:m1:sec:perf		
+> uszydełkowalibyśmy	uszydełkować	cond:pl:m1:pri:perf		
+> uszydełkowaliby	uszydełkować	cond:pl:m1:ter:perf		
+> uszydełkowaliście	uszydełkować	praet:pl:m1:sec:perf		
+> uszydełkowaliśmy	uszydełkować	praet:pl:m1:pri:perf		
+> uszydełkowali	uszydełkować	praet:pl:m1:perf		
+> uszydełkowali	uszydełkować	praet:pl:m1:ter:perf		
+> uszydełkowałabym	uszydełkować	cond:sg:f:pri:perf		
+> uszydełkowałabyś	uszydełkować	cond:sg:f:sec:perf		
+> uszydełkowałaby	uszydełkować	cond:sg:f:ter:perf		
+> uszydełkowałam	uszydełkować	praet:sg:f:pri:perf		
+> uszydełkowałaś	uszydełkować	praet:sg:f:sec:perf		
+> uszydełkowała	uszydełkować	praet:sg:f:perf		
+> uszydełkowała	uszydełkować	praet:sg:f:ter:perf		
+> uszydełkowałbym	uszydełkować	cond:sg:m1.m2.m3:pri:perf		
+> uszydełkowałbyś	uszydełkować	cond:sg:m1.m2.m3:sec:perf		
+> uszydełkowałby	uszydełkować	cond:sg:m1.m2.m3:ter:perf		
+> uszydełkowałem	uszydełkować	praet:sg:m1.m2.m3:pri:perf		
+> uszydełkowałeś	uszydełkować	praet:sg:m1.m2.m3:sec:perf		
+> uszydełkowałobym	uszydełkować	cond:sg:n:pri:perf		
+> uszydełkowałobyś	uszydełkować	cond:sg:n:sec:perf		
+> uszydełkowałoby	uszydełkować	cond:sg:n:ter:perf		
+> uszydełkowałom	uszydełkować	praet:sg:n:pri:perf		
+> uszydełkowałoś	uszydełkować	praet:sg:n:sec:perf		
+> uszydełkowało	uszydełkować	praet:sg:n:perf		
+> uszydełkowało	uszydełkować	praet:sg:n:ter:perf		
+> uszydełkował	uszydełkować	praet:sg:m1.m2.m3:perf		
+> uszydełkował	uszydełkować	praet:sg:m1.m2.m3:ter:perf		
+> uszydełkowałybyście	uszydełkować	cond:pl:m2.m3.f.n:sec:perf		
+> uszydełkowałybyśmy	uszydełkować	cond:pl:m2.m3.f.n:pri:perf		
+> uszydełkowałyby	uszydełkować	cond:pl:m2.m3.f.n:ter:perf		
+> uszydełkowałyście	uszydełkować	praet:pl:m2.m3.f.n:sec:perf		
+> uszydełkowałyśmy	uszydełkować	praet:pl:m2.m3.f.n:pri:perf		
+> uszydełkowały	uszydełkować	praet:pl:m2.m3.f.n:perf		
+> uszydełkowały	uszydełkować	praet:pl:m2.m3.f.n:ter:perf		
+> uszydełkowana	uszydełkować	ppas:sg:nom.voc:f:perf:aff		
+> uszydełkowaną	uszydełkować	ppas:sg:acc.inst:f:perf:aff		
+> uszydełkowanego	uszydełkować	ppas:sg:acc:m1.m2:perf:aff		
+> uszydełkowanego	uszydełkować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> uszydełkowanej	uszydełkować	ppas:sg:gen.dat.loc:f:perf:aff		
+> uszydełkowanemu	uszydełkować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> uszydełkowane	uszydełkować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> uszydełkowane	uszydełkować	ppas:sg:nom.acc.voc:n:perf:aff		
+> uszydełkowaniach	uszydełkować	ger:pl:loc:n:perf:aff		
+> uszydełkowaniami	uszydełkować	ger:pl:inst:n:perf:aff		
+> uszydełkowania	uszydełkować	ger:pl:nom.acc:n:perf:aff		
+> uszydełkowania	uszydełkować	ger:sg:gen:n:perf:aff		
+> uszydełkowaniem	uszydełkować	ger:sg:inst:n:perf:aff		
+> uszydełkowanie	uszydełkować	ger:sg:nom.acc:n:perf:aff		
+> uszydełkowaniom	uszydełkować	ger:pl:dat:n:perf:aff		
+> uszydełkowani	uszydełkować	ppas:pl:nom.voc:m1:perf:aff		
+> uszydełkowaniu	uszydełkować	ger:sg:dat.loc:n:perf:aff		
+> uszydełkowano	uszydełkować	imps:perf		
+> uszydełkowanych	uszydełkować	ppas:pl:acc:m1:perf:aff		
+> uszydełkowanych	uszydełkować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> uszydełkowanymi	uszydełkować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> uszydełkowanym	uszydełkować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> uszydełkowanym	uszydełkować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> uszydełkowany	uszydełkować	ppas:sg:acc:m3:perf:aff		
+> uszydełkowany	uszydełkować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> uszydełkowań	uszydełkować	ger:pl:gen:n:perf:aff		
+> uszydełkowawszy	uszydełkować	pant:perf		
+> uszydełkują	uszydełkować	fin:pl:ter:perf		
+> uszydełkujcie	uszydełkować	impt:pl:sec:perf		
+> uszydełkujecie	uszydełkować	fin:pl:sec:perf		
+> uszydełkujemy	uszydełkować	fin:pl:pri:perf		
+> uszydełkujesz	uszydełkować	fin:sg:sec:perf		
+> uszydełkuje	uszydełkować	fin:sg:ter:perf		
+> uszydełkuję	uszydełkować	fin:sg:pri:perf		
+> uszydełkujmy	uszydełkować	impt:pl:pri:perf		
+> uszydełkuj	uszydełkować	impt:sg:sec:perf		
+7372298,7372309c7373086,7373097
+< złai	złaja	subst:pl:gen:f	nazwa_pospolita	hom.
+< złai	złaja	subst:sg:dat.loc:f	nazwa_pospolita	
+< złai	złaja	subst:sg:gen:f	nazwa_pospolita	
+< złajach	złaja	subst:pl:loc:f	nazwa_pospolita	
+< złajami	złaja	subst:pl:inst:f	nazwa_pospolita	
+< złaja	złaja	subst:sg:nom:f	nazwa_pospolita	
+< złają	złaja	subst:sg:inst:f	nazwa_pospolita	
+< złaje	złaja	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+< złaję	złaja	subst:sg:acc:f	nazwa_pospolita	
+< złajom	złaja	subst:pl:dat:f	nazwa_pospolita	
+< złajo	złaja	subst:sg:voc:f	nazwa_pospolita	
+< złaj	złaja	subst:pl:gen:f	nazwa_pospolita	char.
+---
+> złai	złaja	subst:pl:gen:f	nazwa_pospolita	hom.|łow.
+> złai	złaja	subst:sg:dat.loc:f	nazwa_pospolita	łow.
+> złai	złaja	subst:sg:gen:f	nazwa_pospolita	łow.
+> złajach	złaja	subst:pl:loc:f	nazwa_pospolita	łow.
+> złajami	złaja	subst:pl:inst:f	nazwa_pospolita	łow.
+> złaja	złaja	subst:sg:nom:f	nazwa_pospolita	łow.
+> złają	złaja	subst:sg:inst:f	nazwa_pospolita	łow.
+> złaje	złaja	subst:pl:nom.acc.voc:f	nazwa_pospolita	łow.
+> złaję	złaja	subst:sg:acc:f	nazwa_pospolita	łow.
+> złajom	złaja	subst:pl:dat:f	nazwa_pospolita	łow.
+> złajo	złaja	subst:sg:voc:f	nazwa_pospolita	łow.
+> złaj	złaja	subst:pl:gen:f	nazwa_pospolita	char.|łow.
+7372496,7372506c7373284,7373294
+< złajnikach	złajnik	subst:pl:loc:m2	nazwa_pospolita	
+< złajnikami	złajnik	subst:pl:inst:m2	nazwa_pospolita	
+< złajnika	złajnik	subst:sg:gen.acc:m2	nazwa_pospolita	
+< złajnikiem	złajnik	subst:sg:inst:m2	nazwa_pospolita	
+< złajniki	złajnik	subst:pl:nom.acc.voc:m2	nazwa_pospolita	
+< złajnikom	złajnik	subst:pl:dat:m2	nazwa_pospolita	
+< złajnikowi	złajnik	subst:sg:dat:m2	nazwa_pospolita	
+< złajników	złajnik	subst:pl:gen:m2	nazwa_pospolita	
+< złajniku	złajnik	subst:sg:loc:m2	nazwa_pospolita	
+< złajniku	złajnik	subst:sg:voc:m2	nazwa_pospolita	
+< złajnik	złajnik	subst:sg:nom:m2	nazwa_pospolita	
+---
+> złajnikach	złajnik	subst:pl:loc:m2	nazwa_pospolita	łow.
+> złajnikami	złajnik	subst:pl:inst:m2	nazwa_pospolita	łow.
+> złajnika	złajnik	subst:sg:gen.acc:m2	nazwa_pospolita	łow.
+> złajnikiem	złajnik	subst:sg:inst:m2	nazwa_pospolita	łow.
+> złajniki	złajnik	subst:pl:nom.acc.voc:m2	nazwa_pospolita	łow.
+> złajnikom	złajnik	subst:pl:dat:m2	nazwa_pospolita	łow.
+> złajnikowi	złajnik	subst:sg:dat:m2	nazwa_pospolita	łow.
+> złajników	złajnik	subst:pl:gen:m2	nazwa_pospolita	łow.
+> złajniku	złajnik	subst:sg:loc:m2	nazwa_pospolita	łow.
+> złajniku	złajnik	subst:sg:voc:m2	nazwa_pospolita	łow.
+> złajnik	złajnik	subst:sg:nom:m2	nazwa_pospolita	łow.

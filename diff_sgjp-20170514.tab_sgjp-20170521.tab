@@ -1,0 +1,2777 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.05.14
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.05.21
+37368c37368
+< alfanumeryczno	alfanumeryczno	adv:pos		
+---
+> alfanumerycznie	alfanumerycznie	adv:pos		
+138786c138786
+< balladyczno	balladyczno	adv:pos		
+---
+> balladycznie	balladycznie	adv:pos		
+280107a280108,280111
+> bucznie	bucznie	adv:pos		daw.
+> buczniej	bucznie	adv:com		
+> najbuczniej	bucznie	adv:sup		
+> buczniej	buczno	adv:com		
+280108a280113
+> najbuczniej	buczno	adv:sup		
+281128d281132
+< budowlano	budowlano	adv:pos		
+316788c316792
+< centrystyczno	centrystyczno	adv:pos		
+---
+> centrystycznie	centrystycznie	adv:pos		
+352309,352323d352312
+< chrapicko	chrapicko	adv:pos		
+< chrapickościach	chrapickość	subst:pl:loc:f	nazwa pospolita	
+< chrapickościami	chrapickość	subst:pl:inst:f	nazwa pospolita	
+< chrapickością	chrapickość	subst:sg:inst:f	nazwa pospolita	
+< chrapickości	chrapickość	subst:pl:acc:f	nazwa pospolita	
+< chrapickości	chrapickość	subst:pl:gen:f	nazwa pospolita	
+< chrapickości	chrapickość	subst:pl:nom:f	nazwa pospolita	
+< chrapickości	chrapickość	subst:pl:voc:f	nazwa pospolita	
+< chrapickości	chrapickość	subst:sg:dat:f	nazwa pospolita	
+< chrapickości	chrapickość	subst:sg:gen:f	nazwa pospolita	
+< chrapickości	chrapickość	subst:sg:loc:f	nazwa pospolita	
+< chrapickości	chrapickość	subst:sg:voc:f	nazwa pospolita	
+< chrapickościom	chrapickość	subst:pl:dat:f	nazwa pospolita	
+< chrapickość	chrapickość	subst:sg:acc:f	nazwa pospolita	
+< chrapickość	chrapickość	subst:sg:nom:f	nazwa pospolita	
+457603a457593,457722
+> deaktualizować	deaktualizować	inf:imperf		
+> deaktualizowaliby	deaktualizować	cond:pl:m1:ter:imperf		
+> deaktualizowalibyście	deaktualizować	cond:pl:m1:sec:imperf		
+> deaktualizowalibyśmy	deaktualizować	cond:pl:m1:pri:imperf		
+> deaktualizowali	deaktualizować	praet:pl:m1:imperf		
+> deaktualizowali	deaktualizować	praet:pl:m1:ter:imperf		
+> deaktualizowaliście	deaktualizować	praet:pl:m1:sec:imperf		
+> deaktualizowaliśmy	deaktualizować	praet:pl:m1:pri:imperf		
+> deaktualizowałaby	deaktualizować	cond:sg:f:ter:imperf		
+> deaktualizowałabym	deaktualizować	cond:sg:f:pri:imperf		
+> deaktualizowałabyś	deaktualizować	cond:sg:f:sec:imperf		
+> deaktualizowała	deaktualizować	praet:sg:f:imperf		
+> deaktualizowała	deaktualizować	praet:sg:f:ter:imperf		
+> deaktualizowałam	deaktualizować	praet:sg:f:pri:imperf		
+> deaktualizowałaś	deaktualizować	praet:sg:f:sec:imperf		
+> deaktualizowałby	deaktualizować	cond:sg:m1.m2.m3:ter:imperf		
+> deaktualizowałbym	deaktualizować	cond:sg:m1.m2.m3:pri:imperf		
+> deaktualizowałbyś	deaktualizować	cond:sg:m1.m2.m3:sec:imperf		
+> deaktualizował	deaktualizować	praet:sg:m1.m2.m3:imperf		
+> deaktualizował	deaktualizować	praet:sg:m1.m2.m3:ter:imperf		
+> deaktualizowałem	deaktualizować	praet:sg:m1.m2.m3:pri:imperf		
+> deaktualizowałeś	deaktualizować	praet:sg:m1.m2.m3:sec:imperf		
+> deaktualizowałoby	deaktualizować	cond:sg:n:ter:imperf		
+> deaktualizowałobym	deaktualizować	cond:sg:n:pri:imperf		
+> deaktualizowałobyś	deaktualizować	cond:sg:n:sec:imperf		
+> deaktualizowało	deaktualizować	praet:sg:n:imperf		
+> deaktualizowało	deaktualizować	praet:sg:n:ter:imperf		
+> deaktualizowałom	deaktualizować	praet:sg:n:pri:imperf		
+> deaktualizowałoś	deaktualizować	praet:sg:n:sec:imperf		
+> deaktualizowałyby	deaktualizować	cond:pl:m2.m3.f.n:ter:imperf		
+> deaktualizowałybyście	deaktualizować	cond:pl:m2.m3.f.n:sec:imperf		
+> deaktualizowałybyśmy	deaktualizować	cond:pl:m2.m3.f.n:pri:imperf		
+> deaktualizowały	deaktualizować	praet:pl:m2.m3.f.n:imperf		
+> deaktualizowały	deaktualizować	praet:pl:m2.m3.f.n:ter:imperf		
+> deaktualizowałyście	deaktualizować	praet:pl:m2.m3.f.n:sec:imperf		
+> deaktualizowałyśmy	deaktualizować	praet:pl:m2.m3.f.n:pri:imperf		
+> deaktualizowana	deaktualizować	ppas:sg:nom.voc:f:imperf:aff		
+> deaktualizowaną	deaktualizować	ppas:sg:acc.inst:f:imperf:aff		
+> deaktualizowane	deaktualizować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> deaktualizowane	deaktualizować	ppas:sg:nom.acc.voc:n:imperf:aff		
+> deaktualizowanego	deaktualizować	ppas:sg:acc:m1.m2:imperf:aff		
+> deaktualizowanego	deaktualizować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> deaktualizowanej	deaktualizować	ppas:sg:gen.dat.loc:f:imperf:aff		
+> deaktualizowanemu	deaktualizować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> deaktualizowaniach	deaktualizować	ger:pl:loc:n:imperf:aff		
+> deaktualizowania	deaktualizować	ger:pl:nom.acc:n:imperf:aff		
+> deaktualizowania	deaktualizować	ger:sg:gen:n:imperf:aff		
+> deaktualizowaniami	deaktualizować	ger:pl:inst:n:imperf:aff		
+> deaktualizowani	deaktualizować	ppas:pl:nom.voc:m1:imperf:aff		
+> deaktualizowanie	deaktualizować	ger:sg:nom.acc:n:imperf:aff		
+> deaktualizowaniem	deaktualizować	ger:sg:inst:n:imperf:aff		
+> deaktualizowaniom	deaktualizować	ger:pl:dat:n:imperf:aff		
+> deaktualizowaniu	deaktualizować	ger:sg:dat.loc:n:imperf:aff		
+> deaktualizowano	deaktualizować	imps:imperf		
+> deaktualizowanych	deaktualizować	ppas:pl:acc:m1:imperf:aff		
+> deaktualizowanych	deaktualizować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> deaktualizowany	deaktualizować	ppas:sg:acc:m3:imperf:aff		
+> deaktualizowany	deaktualizować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> deaktualizowanym	deaktualizować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> deaktualizowanym	deaktualizować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> deaktualizowanymi	deaktualizować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> deaktualizowań	deaktualizować	ger:pl:gen:n:imperf:aff		
+> deaktualizująca	deaktualizować	pact:sg:nom.voc:f:imperf:aff		
+> deaktualizującą	deaktualizować	pact:sg:acc.inst:f:imperf:aff		
+> deaktualizując	deaktualizować	pcon:imperf		
+> deaktualizujące	deaktualizować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> deaktualizujące	deaktualizować	pact:sg:nom.acc.voc:n:imperf:aff		
+> deaktualizującego	deaktualizować	pact:sg:acc:m1.m2:imperf:aff		
+> deaktualizującego	deaktualizować	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> deaktualizującej	deaktualizować	pact:sg:gen.dat.loc:f:imperf:aff		
+> deaktualizującemu	deaktualizować	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> deaktualizująco	deaktualizować	pacta		
+> deaktualizujących	deaktualizować	pact:pl:acc:m1:imperf:aff		
+> deaktualizujących	deaktualizować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> deaktualizujący	deaktualizować	pact:pl:nom.voc:m1:imperf:aff		
+> deaktualizujący	deaktualizować	pact:sg:acc:m3:imperf:aff		
+> deaktualizujący	deaktualizować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> deaktualizującym	deaktualizować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> deaktualizującym	deaktualizować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> deaktualizującymi	deaktualizować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> deaktualizują	deaktualizować	fin:pl:ter:imperf		
+> deaktualizujcie	deaktualizować	impt:pl:sec:imperf		
+> deaktualizuj	deaktualizować	impt:sg:sec:imperf		
+> deaktualizujecie	deaktualizować	fin:pl:sec:imperf		
+> deaktualizuje	deaktualizować	fin:sg:ter:imperf		
+> deaktualizujemy	deaktualizować	fin:pl:pri:imperf		
+> deaktualizujesz	deaktualizować	fin:sg:sec:imperf		
+> deaktualizuję	deaktualizować	fin:sg:pri:imperf		
+> deaktualizujmy	deaktualizować	impt:pl:pri:imperf		
+> niedeaktualizowana	deaktualizować	ppas:sg:nom.voc:f:imperf:neg		
+> niedeaktualizowaną	deaktualizować	ppas:sg:acc.inst:f:imperf:neg		
+> niedeaktualizowane	deaktualizować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niedeaktualizowane	deaktualizować	ppas:sg:nom.acc.voc:n:imperf:neg		
+> niedeaktualizowanego	deaktualizować	ppas:sg:acc:m1.m2:imperf:neg		
+> niedeaktualizowanego	deaktualizować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> niedeaktualizowanej	deaktualizować	ppas:sg:gen.dat.loc:f:imperf:neg		
+> niedeaktualizowanemu	deaktualizować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> niedeaktualizowaniach	deaktualizować	ger:pl:loc:n:imperf:neg		
+> niedeaktualizowania	deaktualizować	ger:pl:nom.acc:n:imperf:neg		
+> niedeaktualizowania	deaktualizować	ger:sg:gen:n:imperf:neg		
+> niedeaktualizowaniami	deaktualizować	ger:pl:inst:n:imperf:neg		
+> niedeaktualizowani	deaktualizować	ppas:pl:nom.voc:m1:imperf:neg		
+> niedeaktualizowanie	deaktualizować	ger:sg:nom.acc:n:imperf:neg		
+> niedeaktualizowaniem	deaktualizować	ger:sg:inst:n:imperf:neg		
+> niedeaktualizowaniom	deaktualizować	ger:pl:dat:n:imperf:neg		
+> niedeaktualizowaniu	deaktualizować	ger:sg:dat.loc:n:imperf:neg		
+> niedeaktualizowanych	deaktualizować	ppas:pl:acc:m1:imperf:neg		
+> niedeaktualizowanych	deaktualizować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niedeaktualizowany	deaktualizować	ppas:sg:acc:m3:imperf:neg		
+> niedeaktualizowany	deaktualizować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niedeaktualizowanym	deaktualizować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niedeaktualizowanym	deaktualizować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niedeaktualizowanymi	deaktualizować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niedeaktualizowań	deaktualizować	ger:pl:gen:n:imperf:neg		
+> niedeaktualizująca	deaktualizować	pact:sg:nom.voc:f:imperf:neg		
+> niedeaktualizującą	deaktualizować	pact:sg:acc.inst:f:imperf:neg		
+> niedeaktualizujące	deaktualizować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niedeaktualizujące	deaktualizować	pact:sg:nom.acc.voc:n:imperf:neg		
+> niedeaktualizującego	deaktualizować	pact:sg:acc:m1.m2:imperf:neg		
+> niedeaktualizującego	deaktualizować	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> niedeaktualizującej	deaktualizować	pact:sg:gen.dat.loc:f:imperf:neg		
+> niedeaktualizującemu	deaktualizować	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> niedeaktualizujących	deaktualizować	pact:pl:acc:m1:imperf:neg		
+> niedeaktualizujących	deaktualizować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niedeaktualizujący	deaktualizować	pact:pl:nom.voc:m1:imperf:neg		
+> niedeaktualizujący	deaktualizować	pact:sg:acc:m3:imperf:neg		
+> niedeaktualizujący	deaktualizować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niedeaktualizującym	deaktualizować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niedeaktualizującym	deaktualizować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niedeaktualizującymi	deaktualizować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+687734,687773c687853
+< dziejscy	dziejski	adj:pl:nom.voc:m1:pos		przest.
+< dziejska	dziejski	adj:sg:nom.voc:f:pos		przest.
+< dziejską	dziejski	adj:sg:acc:f:pos		przest.
+< dziejską	dziejski	adj:sg:inst:f:pos		przest.
+< dziejskich	dziejski	adj:pl:acc:m1:pos		przest.
+< dziejskich	dziejski	adj:pl:gen:m1.m2.m3.f.n:pos		przest.
+< dziejskich	dziejski	adj:pl:loc:m1.m2.m3.f.n:pos		przest.
+< dziejski	dziejski	adj:sg:acc:m3:pos		przest.
+< dziejski	dziejski	adj:sg:nom.voc:m1.m2.m3:pos		przest.
+< dziejskie	dziejski	adj:pl:acc:m2.m3.f.n:pos		przest.
+< dziejskie	dziejski	adj:pl:nom.voc:m2.m3.f.n:pos		przest.
+< dziejskie	dziejski	adj:sg:acc:n:pos		przest.
+< dziejskie	dziejski	adj:sg:nom.voc:n:pos		przest.
+< dziejskiego	dziejski	adj:sg:acc:m1.m2:pos		przest.
+< dziejskiego	dziejski	adj:sg:gen:m1.m2.m3.n:pos		przest.
+< dziejskiej	dziejski	adj:sg:dat:f:pos		przest.
+< dziejskiej	dziejski	adj:sg:gen:f:pos		przest.
+< dziejskiej	dziejski	adj:sg:loc:f:pos		przest.
+< dziejskiemu	dziejski	adj:sg:dat:m1.m2.m3.n:pos		przest.
+< dziejskim	dziejski	adj:pl:dat:m1.m2.m3.f.n:pos		przest.
+< dziejskim	dziejski	adj:sg:inst:m1.m2.m3.n:pos		przest.
+< dziejskim	dziejski	adj:sg:loc:m1.m2.m3.n:pos		przest.
+< dziejskimi	dziejski	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
+< dziejsko	dziejski	adja		przest.
+< dziejsku	dziejski	adjp		przest.
+< dziejsko	dziejsko	adv:pos		
+< dziejskościach	dziejskość	subst:pl:loc:f	nazwa pospolita	przest.
+< dziejskościami	dziejskość	subst:pl:inst:f	nazwa pospolita	przest.
+< dziejskością	dziejskość	subst:sg:inst:f	nazwa pospolita	przest.
+< dziejskości	dziejskość	subst:pl:acc:f	nazwa pospolita	przest.
+< dziejskości	dziejskość	subst:pl:gen:f	nazwa pospolita	przest.
+< dziejskości	dziejskość	subst:pl:nom:f	nazwa pospolita	przest.
+< dziejskości	dziejskość	subst:pl:voc:f	nazwa pospolita	przest.
+< dziejskości	dziejskość	subst:sg:dat:f	nazwa pospolita	przest.
+< dziejskości	dziejskość	subst:sg:gen:f	nazwa pospolita	przest.
+< dziejskości	dziejskość	subst:sg:loc:f	nazwa pospolita	przest.
+< dziejskości	dziejskość	subst:sg:voc:f	nazwa pospolita	przest.
+< dziejskościom	dziejskość	subst:pl:dat:f	nazwa pospolita	przest.
+< dziejskość	dziejskość	subst:sg:acc:f	nazwa pospolita	przest.
+< dziejskość	dziejskość	subst:sg:nom:f	nazwa pospolita	przest.
+---
+> dziejski	dziejski	burk		
+826832c826912
+< fowistyczno	fowistyczno	adv:pos		
+---
+> fowistycznie	fowistycznie	adv:pos		
+933092,933116c933172,933196
+< grekokatoliccy	grekokatolicki	adj:pl:nom.voc:m1:pos		
+< grekokatolicka	grekokatolicki	adj:sg:nom.voc:f:pos		
+< grekokatolicką	grekokatolicki	adj:sg:acc:f:pos		
+< grekokatolicką	grekokatolicki	adj:sg:inst:f:pos		
+< grekokatolickich	grekokatolicki	adj:pl:acc:m1:pos		
+< grekokatolickich	grekokatolicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+< grekokatolickich	grekokatolicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+< grekokatolickiego	grekokatolicki	adj:sg:acc:m1.m2:pos		
+< grekokatolickiego	grekokatolicki	adj:sg:gen:m1.m2.m3.n:pos		
+< grekokatolickie	grekokatolicki	adj:pl:acc:m2.m3.f.n:pos		
+< grekokatolickie	grekokatolicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+< grekokatolickie	grekokatolicki	adj:sg:acc:n:pos		
+< grekokatolickie	grekokatolicki	adj:sg:nom.voc:n:pos		
+< grekokatolickiej	grekokatolicki	adj:sg:dat:f:pos		
+< grekokatolickiej	grekokatolicki	adj:sg:gen:f:pos		
+< grekokatolickiej	grekokatolicki	adj:sg:loc:f:pos		
+< grekokatolickiemu	grekokatolicki	adj:sg:dat:m1.m2.m3.n:pos		
+< grekokatolicki	grekokatolicki	adj:sg:acc:m3:pos		
+< grekokatolicki	grekokatolicki	adj:sg:nom.voc:m1.m2.m3:pos		
+< grekokatolickim	grekokatolicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+< grekokatolickim	grekokatolicki	adj:sg:inst:m1.m2.m3.n:pos		
+< grekokatolickim	grekokatolicki	adj:sg:loc:m1.m2.m3.n:pos		
+< grekokatolickimi	grekokatolicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+< grekokatolicko	grekokatolicki	adja		
+< grekokatolicku	grekokatolicki	adjp		
+---
+> grekokatoliccy	grekokatolicki	adj:pl:nom.voc:m1:pos		rzad.
+> grekokatolicka	grekokatolicki	adj:sg:nom.voc:f:pos		rzad.
+> grekokatolicką	grekokatolicki	adj:sg:acc:f:pos		rzad.
+> grekokatolicką	grekokatolicki	adj:sg:inst:f:pos		rzad.
+> grekokatolickich	grekokatolicki	adj:pl:acc:m1:pos		rzad.
+> grekokatolickich	grekokatolicki	adj:pl:gen:m1.m2.m3.f.n:pos		rzad.
+> grekokatolickich	grekokatolicki	adj:pl:loc:m1.m2.m3.f.n:pos		rzad.
+> grekokatolickiego	grekokatolicki	adj:sg:acc:m1.m2:pos		rzad.
+> grekokatolickiego	grekokatolicki	adj:sg:gen:m1.m2.m3.n:pos		rzad.
+> grekokatolickie	grekokatolicki	adj:pl:acc:m2.m3.f.n:pos		rzad.
+> grekokatolickie	grekokatolicki	adj:pl:nom.voc:m2.m3.f.n:pos		rzad.
+> grekokatolickie	grekokatolicki	adj:sg:acc:n:pos		rzad.
+> grekokatolickie	grekokatolicki	adj:sg:nom.voc:n:pos		rzad.
+> grekokatolickiej	grekokatolicki	adj:sg:dat:f:pos		rzad.
+> grekokatolickiej	grekokatolicki	adj:sg:gen:f:pos		rzad.
+> grekokatolickiej	grekokatolicki	adj:sg:loc:f:pos		rzad.
+> grekokatolickiemu	grekokatolicki	adj:sg:dat:m1.m2.m3.n:pos		rzad.
+> grekokatolicki	grekokatolicki	adj:sg:acc:m3:pos		rzad.
+> grekokatolicki	grekokatolicki	adj:sg:nom.voc:m1.m2.m3:pos		rzad.
+> grekokatolickim	grekokatolicki	adj:pl:dat:m1.m2.m3.f.n:pos		rzad.
+> grekokatolickim	grekokatolicki	adj:sg:inst:m1.m2.m3.n:pos		rzad.
+> grekokatolickim	grekokatolicki	adj:sg:loc:m1.m2.m3.n:pos		rzad.
+> grekokatolickimi	grekokatolicki	adj:pl:inst:m1.m2.m3.f.n:pos		rzad.
+> grekokatolicko	grekokatolicki	adja		rzad.
+> grekokatolicku	grekokatolicki	adjp		rzad.
+980669a980750,980803
+> Hażlachach	Hażlach	subst:pl:loc:m3	nazwa geograficzna	
+> Hażlacha	Hażlach	subst:sg:gen:m3	nazwa geograficzna	
+> Hażlachami	Hażlach	subst:pl:inst:m3	nazwa geograficzna	
+> Hażlachem	Hażlach	subst:sg:inst:m3	nazwa geograficzna	
+> Hażlach	Hażlach	subst:sg:acc:m3	nazwa geograficzna	
+> Hażlach	Hażlach	subst:sg:nom:m3	nazwa geograficzna	
+> Hażlachom	Hażlach	subst:pl:dat:m3	nazwa geograficzna	
+> Hażlachowi	Hażlach	subst:sg:dat:m3	nazwa geograficzna	
+> Hażlachów	Hażlach	subst:pl:gen:m3	nazwa geograficzna	
+> Hażlachu	Hażlach	subst:sg:loc:m3	nazwa geograficzna	
+> Hażlachu	Hażlach	subst:sg:voc:m3	nazwa geograficzna	
+> Hażlachy	Hażlach	subst:pl:acc:m3	nazwa geograficzna	
+> Hażlachy	Hażlach	subst:pl:nom:m3	nazwa geograficzna	
+> Hażlachy	Hażlach	subst:pl:voc:m3	nazwa geograficzna	
+> hażlascy	hażlaski	adj:pl:nom.voc:m1:pos		
+> hażlaska	hażlaski	adj:sg:nom.voc:f:pos		
+> hażlaską	hażlaski	adj:sg:acc:f:pos		
+> hażlaską	hażlaski	adj:sg:inst:f:pos		
+> hażlaskich	hażlaski	adj:pl:acc:m1:pos		
+> hażlaskich	hażlaski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> hażlaskich	hażlaski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> hażlaskiego	hażlaski	adj:sg:acc:m1.m2:pos		
+> hażlaskiego	hażlaski	adj:sg:gen:m1.m2.m3.n:pos		
+> hażlaskie	hażlaski	adj:pl:acc:m2.m3.f.n:pos		
+> hażlaskie	hażlaski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> hażlaskie	hażlaski	adj:sg:acc:n:pos		
+> hażlaskie	hażlaski	adj:sg:nom.voc:n:pos		
+> hażlaskiej	hażlaski	adj:sg:dat:f:pos		
+> hażlaskiej	hażlaski	adj:sg:gen:f:pos		
+> hażlaskiej	hażlaski	adj:sg:loc:f:pos		
+> hażlaskiemu	hażlaski	adj:sg:dat:m1.m2.m3.n:pos		
+> hażlaski	hażlaski	adj:sg:acc:m3:pos		
+> hażlaski	hażlaski	adj:sg:nom.voc:m1.m2.m3:pos		
+> hażlaskim	hażlaski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> hażlaskim	hażlaski	adj:sg:inst:m1.m2.m3.n:pos		
+> hażlaskim	hażlaski	adj:sg:loc:m1.m2.m3.n:pos		
+> hażlaskimi	hażlaski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> hażlasko	hażlaski	adja		
+> hażlasku	hażlaski	adjp		
+> hażlasko	hażlasko	adv:pos		
+> hażlaskościach	hażlaskość	subst:pl:loc:f	nazwa pospolita	
+> hażlaskościami	hażlaskość	subst:pl:inst:f	nazwa pospolita	
+> hażlaskością	hażlaskość	subst:sg:inst:f	nazwa pospolita	
+> hażlaskości	hażlaskość	subst:pl:acc:f	nazwa pospolita	
+> hażlaskości	hażlaskość	subst:pl:gen:f	nazwa pospolita	
+> hażlaskości	hażlaskość	subst:pl:nom:f	nazwa pospolita	
+> hażlaskości	hażlaskość	subst:pl:voc:f	nazwa pospolita	
+> hażlaskości	hażlaskość	subst:sg:dat:f	nazwa pospolita	
+> hażlaskości	hażlaskość	subst:sg:gen:f	nazwa pospolita	
+> hażlaskości	hażlaskość	subst:sg:loc:f	nazwa pospolita	
+> hażlaskości	hażlaskość	subst:sg:voc:f	nazwa pospolita	
+> hażlaskościom	hażlaskość	subst:pl:dat:f	nazwa pospolita	
+> hażlaskość	hażlaskość	subst:sg:acc:f	nazwa pospolita	
+> hażlaskość	hażlaskość	subst:sg:nom:f	nazwa pospolita	
+1061864c1061998
+< intensjonalno	intensjonalno	adv:pos		
+---
+> intensjonalnie	intensjonalnie	adv:pos		
+1351418a1351553,1351566
+> Krainach	Kraina	subst:pl:loc:f	nazwa geograficzna	
+> Kraina	Kraina	subst:sg:nom:f	nazwa geograficzna	
+> Krainami	Kraina	subst:pl:inst:f	nazwa geograficzna	
+> Krainą	Kraina	subst:sg:inst:f	nazwa geograficzna	
+> Krainę	Kraina	subst:sg:acc:f	nazwa geograficzna	
+> Krainie	Kraina	subst:sg:dat:f	nazwa geograficzna	
+> Krainie	Kraina	subst:sg:loc:f	nazwa geograficzna	
+> Krain	Kraina	subst:pl:gen:f	nazwa geograficzna	
+> Kraino	Kraina	subst:sg:voc:f	nazwa geograficzna	
+> Krainom	Kraina	subst:pl:dat:f	nazwa geograficzna	
+> Krainy	Kraina	subst:pl:acc:f	nazwa geograficzna	
+> Krainy	Kraina	subst:pl:nom:f	nazwa geograficzna	
+> Krainy	Kraina	subst:pl:voc:f	nazwa geograficzna	
+> Krainy	Kraina	subst:sg:gen:f	nazwa geograficzna	
+1352186a1352335,1352348
+> Krajnach	Krajna	subst:pl:loc:f	nazwa geograficzna	
+> Krajna	Krajna	subst:sg:nom:f	nazwa geograficzna	
+> Krajnami	Krajna	subst:pl:inst:f	nazwa geograficzna	
+> Krajną	Krajna	subst:sg:inst:f	nazwa geograficzna	
+> Krajnę	Krajna	subst:sg:acc:f	nazwa geograficzna	
+> Krajnie	Krajna	subst:sg:dat:f	nazwa geograficzna	
+> Krajnie	Krajna	subst:sg:loc:f	nazwa geograficzna	
+> Krajn	Krajna	subst:pl:gen:f	nazwa geograficzna	
+> Krajno	Krajna	subst:sg:voc:f	nazwa geograficzna	
+> Krajnom	Krajna	subst:pl:dat:f	nazwa geograficzna	
+> Krajny	Krajna	subst:pl:acc:f	nazwa geograficzna	
+> Krajny	Krajna	subst:pl:nom:f	nazwa geograficzna	
+> Krajny	Krajna	subst:pl:voc:f	nazwa geograficzna	
+> Krajny	Krajna	subst:sg:gen:f	nazwa geograficzna	
+1517535a1517698
+> łakomiej	łakomo	adv:com		
+1517536a1517700
+> najłakomiej	łakomo	adv:sup		
+1534941a1535106,1535119
+> Łubiance	Łubianka	subst:sg:dat:f	nazwa geograficzna	
+> Łubiance	Łubianka	subst:sg:loc:f	nazwa geograficzna	
+> Łubianek	Łubianka	subst:pl:gen:f	nazwa geograficzna	
+> Łubiankach	Łubianka	subst:pl:loc:f	nazwa geograficzna	
+> Łubianka	Łubianka	subst:sg:nom:f	nazwa geograficzna	
+> Łubiankami	Łubianka	subst:pl:inst:f	nazwa geograficzna	
+> Łubianką	Łubianka	subst:sg:inst:f	nazwa geograficzna	
+> Łubiankę	Łubianka	subst:sg:acc:f	nazwa geograficzna	
+> Łubianki	Łubianka	subst:pl:acc:f	nazwa geograficzna	
+> Łubianki	Łubianka	subst:pl:nom:f	nazwa geograficzna	
+> Łubianki	Łubianka	subst:pl:voc:f	nazwa geograficzna	
+> Łubianki	Łubianka	subst:sg:gen:f	nazwa geograficzna	
+> Łubianko	Łubianka	subst:sg:voc:f	nazwa geograficzna	
+> Łubiankom	Łubianka	subst:pl:dat:f	nazwa geograficzna	
+1535213a1535392,1535445
+> Łubnianach	Łubniany	subst:pl:loc:n:pt	nazwa geograficzna	
+> Łubnianach	Łubniany	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+> Łubnianami	Łubniany	subst:pl:inst:n:pt	nazwa geograficzna	
+> Łubnianami	Łubniany	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+> Łubnian	Łubniany	subst:pl:gen:n:pt	nazwa geograficzna	
+> Łubnian	Łubniany	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+> Łubnianom	Łubniany	subst:pl:dat:n:pt	nazwa geograficzna	
+> Łubnianom	Łubniany	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+> Łubniany	Łubniany	subst:pl:acc:n:pt	nazwa geograficzna	
+> Łubniany	Łubniany	subst:pl:acc:n:pt	nazwa geograficzna	rzad.
+> Łubniany	Łubniany	subst:pl:nom:n:pt	nazwa geograficzna	
+> Łubniany	Łubniany	subst:pl:nom:n:pt	nazwa geograficzna	rzad.
+> Łubniany	Łubniany	subst:pl:voc:n:pt	nazwa geograficzna	
+> Łubniany	Łubniany	subst:pl:voc:n:pt	nazwa geograficzna	rzad.
+> łubniańscy	łubniański	adj:pl:nom.voc:m1:pos		
+> łubniańska	łubniański	adj:sg:nom.voc:f:pos		
+> łubniańską	łubniański	adj:sg:acc:f:pos		
+> łubniańską	łubniański	adj:sg:inst:f:pos		
+> łubniańskich	łubniański	adj:pl:acc:m1:pos		
+> łubniańskich	łubniański	adj:pl:gen:m1.m2.m3.f.n:pos		
+> łubniańskich	łubniański	adj:pl:loc:m1.m2.m3.f.n:pos		
+> łubniańskiego	łubniański	adj:sg:acc:m1.m2:pos		
+> łubniańskiego	łubniański	adj:sg:gen:m1.m2.m3.n:pos		
+> łubniańskiej	łubniański	adj:sg:dat:f:pos		
+> łubniańskiej	łubniański	adj:sg:gen:f:pos		
+> łubniańskiej	łubniański	adj:sg:loc:f:pos		
+> łubniańskie	łubniański	adj:pl:acc:m2.m3.f.n:pos		
+> łubniańskie	łubniański	adj:pl:nom.voc:m2.m3.f.n:pos		
+> łubniańskie	łubniański	adj:sg:acc:n:pos		
+> łubniańskie	łubniański	adj:sg:nom.voc:n:pos		
+> łubniańskiemu	łubniański	adj:sg:dat:m1.m2.m3.n:pos		
+> łubniański	łubniański	adj:sg:acc:m3:pos		
+> łubniański	łubniański	adj:sg:nom.voc:m1.m2.m3:pos		
+> łubniańskimi	łubniański	adj:pl:inst:m1.m2.m3.f.n:pos		
+> łubniańskim	łubniański	adj:pl:dat:m1.m2.m3.f.n:pos		
+> łubniańskim	łubniański	adj:sg:inst:m1.m2.m3.n:pos		
+> łubniańskim	łubniański	adj:sg:loc:m1.m2.m3.n:pos		
+> łubniańsko	łubniański	adja		
+> łubniańsku	łubniański	adjp		
+> łubniańsko	łubniańsko	adv:pos		
+> łubniańskościach	łubniańskość	subst:pl:loc:f		
+> łubniańskościami	łubniańskość	subst:pl:inst:f		
+> łubniańskością	łubniańskość	subst:sg:inst:f		
+> łubniańskości	łubniańskość	subst:pl:acc:f		
+> łubniańskości	łubniańskość	subst:pl:gen:f		
+> łubniańskości	łubniańskość	subst:pl:nom:f		
+> łubniańskości	łubniańskość	subst:pl:voc:f		
+> łubniańskości	łubniańskość	subst:sg:dat:f		
+> łubniańskości	łubniańskość	subst:sg:gen:f		
+> łubniańskości	łubniańskość	subst:sg:loc:f		
+> łubniańskości	łubniańskość	subst:sg:voc:f		
+> łubniańskościom	łubniańskość	subst:pl:dat:f		
+> łubniańskość	łubniańskość	subst:sg:acc:f		
+> łubniańskość	łubniańskość	subst:sg:nom:f		
+1573842c1574074
+< manierystyczno	manierystyczno	adv:pos		
+---
+> manierystycznie	manierystycznie	adv:pos		
+1897055a1897288,1897289
+> najnawalniej	nawalnie	adv:sup		
+> nawalniej	nawalnie	adv:com		
+1942205c1942439
+< niealfanumeryczno	niealfanumeryczno	adv:pos		
+---
+> niealfanumerycznie	niealfanumerycznie	adv:pos		
+1977496c1977730
+< nieballadyczno	nieballadyczno	adv:pos		
+---
+> nieballadycznie	nieballadycznie	adv:pos		
+2032512d2032745
+< niebudowlano	niebudowlano	adv:pos		
+2043450c2043683
+< niecentrystyczno	niecentrystyczno	adv:pos		
+---
+> niecentrystycznie	niecentrystycznie	adv:pos		
+2054098,2054135d2054330
+< niechrapiccy	niechrapicki	adj:pl:nom.voc:m1:pos		
+< niechrapicka	niechrapicki	adj:sg:nom.voc:f:pos		
+< niechrapicką	niechrapicki	adj:sg:acc:f:pos		
+< niechrapicką	niechrapicki	adj:sg:inst:f:pos		
+< niechrapickich	niechrapicki	adj:pl:acc:m1:pos		
+< niechrapickich	niechrapicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niechrapickich	niechrapicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niechrapickiego	niechrapicki	adj:sg:acc:m1.m2:pos		
+< niechrapickiego	niechrapicki	adj:sg:gen:m1.m2.m3.n:pos		
+< niechrapickiej	niechrapicki	adj:sg:dat:f:pos		
+< niechrapickiej	niechrapicki	adj:sg:gen:f:pos		
+< niechrapickiej	niechrapicki	adj:sg:loc:f:pos		
+< niechrapickiemu	niechrapicki	adj:sg:dat:m1.m2.m3.n:pos		
+< niechrapickie	niechrapicki	adj:pl:acc:m2.m3.f.n:pos		
+< niechrapickie	niechrapicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niechrapickie	niechrapicki	adj:sg:acc:n:pos		
+< niechrapickie	niechrapicki	adj:sg:nom.voc:n:pos		
+< niechrapickimi	niechrapicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niechrapickim	niechrapicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niechrapickim	niechrapicki	adj:sg:inst:m1.m2.m3.n:pos		
+< niechrapickim	niechrapicki	adj:sg:loc:m1.m2.m3.n:pos		
+< niechrapicki	niechrapicki	adj:sg:acc:m3:pos		
+< niechrapicki	niechrapicki	adj:sg:nom.voc:m1.m2.m3:pos		
+< niechrapicko	niechrapicko	adv:pos		
+< niechrapickościach	niechrapickość	subst:pl:loc:f	nazwa pospolita	
+< niechrapickościami	niechrapickość	subst:pl:inst:f	nazwa pospolita	
+< niechrapickością	niechrapickość	subst:sg:inst:f	nazwa pospolita	
+< niechrapickości	niechrapickość	subst:pl:acc:f	nazwa pospolita	
+< niechrapickości	niechrapickość	subst:pl:gen:f	nazwa pospolita	
+< niechrapickości	niechrapickość	subst:pl:nom:f	nazwa pospolita	
+< niechrapickości	niechrapickość	subst:pl:voc:f	nazwa pospolita	
+< niechrapickości	niechrapickość	subst:sg:dat:f	nazwa pospolita	
+< niechrapickości	niechrapickość	subst:sg:gen:f	nazwa pospolita	
+< niechrapickości	niechrapickość	subst:sg:loc:f	nazwa pospolita	
+< niechrapickości	niechrapickość	subst:sg:voc:f	nazwa pospolita	
+< niechrapickościom	niechrapickość	subst:pl:dat:f	nazwa pospolita	
+< niechrapickość	niechrapickość	subst:sg:acc:f	nazwa pospolita	
+< niechrapickość	niechrapickość	subst:sg:nom:f	nazwa pospolita	
+2143741,2143778d2143935
+< niedziejscy	niedziejski	adj:pl:nom.voc:m1:pos		
+< niedziejska	niedziejski	adj:sg:nom.voc:f:pos		
+< niedziejską	niedziejski	adj:sg:acc:f:pos		
+< niedziejską	niedziejski	adj:sg:inst:f:pos		
+< niedziejskich	niedziejski	adj:pl:acc:m1:pos		
+< niedziejskich	niedziejski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niedziejskich	niedziejski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niedziejskiego	niedziejski	adj:sg:acc:m1.m2:pos		
+< niedziejskiego	niedziejski	adj:sg:gen:m1.m2.m3.n:pos		
+< niedziejskiej	niedziejski	adj:sg:dat:f:pos		
+< niedziejskiej	niedziejski	adj:sg:gen:f:pos		
+< niedziejskiej	niedziejski	adj:sg:loc:f:pos		
+< niedziejskiemu	niedziejski	adj:sg:dat:m1.m2.m3.n:pos		
+< niedziejskie	niedziejski	adj:pl:acc:m2.m3.f.n:pos		
+< niedziejskie	niedziejski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niedziejskie	niedziejski	adj:sg:acc:n:pos		
+< niedziejskie	niedziejski	adj:sg:nom.voc:n:pos		
+< niedziejskimi	niedziejski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niedziejskim	niedziejski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niedziejskim	niedziejski	adj:sg:inst:m1.m2.m3.n:pos		
+< niedziejskim	niedziejski	adj:sg:loc:m1.m2.m3.n:pos		
+< niedziejski	niedziejski	adj:sg:acc:m3:pos		
+< niedziejski	niedziejski	adj:sg:nom.voc:m1.m2.m3:pos		
+< niedziejsko	niedziejsko	adv:pos		
+< niedziejskościach	niedziejskość	subst:pl:loc:f	nazwa pospolita	
+< niedziejskościami	niedziejskość	subst:pl:inst:f	nazwa pospolita	
+< niedziejskością	niedziejskość	subst:sg:inst:f	nazwa pospolita	
+< niedziejskości	niedziejskość	subst:pl:acc:f	nazwa pospolita	
+< niedziejskości	niedziejskość	subst:pl:gen:f	nazwa pospolita	
+< niedziejskości	niedziejskość	subst:pl:nom:f	nazwa pospolita	
+< niedziejskości	niedziejskość	subst:pl:voc:f	nazwa pospolita	
+< niedziejskości	niedziejskość	subst:sg:dat:f	nazwa pospolita	
+< niedziejskości	niedziejskość	subst:sg:gen:f	nazwa pospolita	
+< niedziejskości	niedziejskość	subst:sg:loc:f	nazwa pospolita	
+< niedziejskości	niedziejskość	subst:sg:voc:f	nazwa pospolita	
+< niedziejskościom	niedziejskość	subst:pl:dat:f	nazwa pospolita	
+< niedziejskość	niedziejskość	subst:sg:acc:f	nazwa pospolita	
+< niedziejskość	niedziejskość	subst:sg:nom:f	nazwa pospolita	
+2187317c2187474
+< niefowistyczno	niefowistyczno	adv:pos		
+---
+> niefowistycznie	niefowistycznie	adv:pos		
+2233933a2234091,2234128
+> niehażlascy	niehażlaski	adj:pl:nom.voc:m1:pos		
+> niehażlaska	niehażlaski	adj:sg:nom.voc:f:pos		
+> niehażlaską	niehażlaski	adj:sg:acc:f:pos		
+> niehażlaską	niehażlaski	adj:sg:inst:f:pos		
+> niehażlaskich	niehażlaski	adj:pl:acc:m1:pos		
+> niehażlaskich	niehażlaski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niehażlaskich	niehażlaski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niehażlaskiego	niehażlaski	adj:sg:acc:m1.m2:pos		
+> niehażlaskiego	niehażlaski	adj:sg:gen:m1.m2.m3.n:pos		
+> niehażlaskiej	niehażlaski	adj:sg:dat:f:pos		
+> niehażlaskiej	niehażlaski	adj:sg:gen:f:pos		
+> niehażlaskiej	niehażlaski	adj:sg:loc:f:pos		
+> niehażlaskiemu	niehażlaski	adj:sg:dat:m1.m2.m3.n:pos		
+> niehażlaskie	niehażlaski	adj:pl:acc:m2.m3.f.n:pos		
+> niehażlaskie	niehażlaski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niehażlaskie	niehażlaski	adj:sg:acc:n:pos		
+> niehażlaskie	niehażlaski	adj:sg:nom.voc:n:pos		
+> niehażlaskimi	niehażlaski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niehażlaskim	niehażlaski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niehażlaskim	niehażlaski	adj:sg:inst:m1.m2.m3.n:pos		
+> niehażlaskim	niehażlaski	adj:sg:loc:m1.m2.m3.n:pos		
+> niehażlaski	niehażlaski	adj:sg:acc:m3:pos		
+> niehażlaski	niehażlaski	adj:sg:nom.voc:m1.m2.m3:pos		
+> niehażlasko	niehażlasko	adv:pos		
+> niehażlaskościach	niehażlaskość	subst:pl:loc:f	nazwa pospolita	
+> niehażlaskościami	niehażlaskość	subst:pl:inst:f	nazwa pospolita	
+> niehażlaskością	niehażlaskość	subst:sg:inst:f	nazwa pospolita	
+> niehażlaskości	niehażlaskość	subst:pl:acc:f	nazwa pospolita	
+> niehażlaskości	niehażlaskość	subst:pl:gen:f	nazwa pospolita	
+> niehażlaskości	niehażlaskość	subst:pl:nom:f	nazwa pospolita	
+> niehażlaskości	niehażlaskość	subst:pl:voc:f	nazwa pospolita	
+> niehażlaskości	niehażlaskość	subst:sg:dat:f	nazwa pospolita	
+> niehażlaskości	niehażlaskość	subst:sg:gen:f	nazwa pospolita	
+> niehażlaskości	niehażlaskość	subst:sg:loc:f	nazwa pospolita	
+> niehażlaskości	niehażlaskość	subst:sg:voc:f	nazwa pospolita	
+> niehażlaskościom	niehażlaskość	subst:pl:dat:f	nazwa pospolita	
+> niehażlaskość	niehażlaskość	subst:sg:acc:f	nazwa pospolita	
+> niehażlaskość	niehażlaskość	subst:sg:nom:f	nazwa pospolita	
+2261136c2261331
+< nieintensjonalno	nieintensjonalno	adv:pos		
+---
+> nieintensjonalnie	nieintensjonalnie	adv:pos		
+2420435a2420631,2420645
+> niełubniańsko	niełubniańsko	adv:pos		
+> niełubniańskościach	niełubniańskość	subst:pl:loc:f		
+> niełubniańskościami	niełubniańskość	subst:pl:inst:f		
+> niełubniańskością	niełubniańskość	subst:sg:inst:f		
+> niełubniańskości	niełubniańskość	subst:pl:acc:f		
+> niełubniańskości	niełubniańskość	subst:pl:gen:f		
+> niełubniańskości	niełubniańskość	subst:pl:nom:f		
+> niełubniańskości	niełubniańskość	subst:pl:voc:f		
+> niełubniańskości	niełubniańskość	subst:sg:dat:f		
+> niełubniańskości	niełubniańskość	subst:sg:gen:f		
+> niełubniańskości	niełubniańskość	subst:sg:loc:f		
+> niełubniańskości	niełubniańskość	subst:sg:voc:f		
+> niełubniańskościom	niełubniańskość	subst:pl:dat:f		
+> niełubniańskość	niełubniańskość	subst:sg:acc:f		
+> niełubniańskość	niełubniańskość	subst:sg:nom:f		
+2433950c2434160
+< niemanierystyczno	niemanierystyczno	adv:pos		
+---
+> niemanierystycznie	niemanierystycznie	adv:pos		
+2515339a2515550,2515563
+> nieniehażlaskościach	nieniehażlaskość	subst:pl:loc:f		
+> nieniehażlaskościami	nieniehażlaskość	subst:pl:inst:f		
+> nieniehażlaskością	nieniehażlaskość	subst:sg:inst:f		
+> nieniehażlaskości	nieniehażlaskość	subst:pl:acc:f		
+> nieniehażlaskości	nieniehażlaskość	subst:pl:gen:f		
+> nieniehażlaskości	nieniehażlaskość	subst:pl:nom:f		
+> nieniehażlaskości	nieniehażlaskość	subst:pl:voc:f		
+> nieniehażlaskości	nieniehażlaskość	subst:sg:dat:f		
+> nieniehażlaskości	nieniehażlaskość	subst:sg:gen:f		
+> nieniehażlaskości	nieniehażlaskość	subst:sg:loc:f		
+> nieniehażlaskości	nieniehażlaskość	subst:sg:voc:f		
+> nieniehażlaskościom	nieniehażlaskość	subst:pl:dat:f		
+> nieniehażlaskość	nieniehażlaskość	subst:sg:acc:f		
+> nieniehażlaskość	nieniehażlaskość	subst:sg:nom:f		
+2521312,2521349d2521535
+< nienosościscy	nienosościski	adj:pl:nom.voc:m1:pos		
+< nienosościska	nienosościski	adj:sg:nom.voc:f:pos		
+< nienosościską	nienosościski	adj:sg:acc:f:pos		
+< nienosościską	nienosościski	adj:sg:inst:f:pos		
+< nienosościskich	nienosościski	adj:pl:acc:m1:pos		
+< nienosościskich	nienosościski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< nienosościskich	nienosościski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< nienosościskiego	nienosościski	adj:sg:acc:m1.m2:pos		
+< nienosościskiego	nienosościski	adj:sg:gen:m1.m2.m3.n:pos		
+< nienosościskiej	nienosościski	adj:sg:dat:f:pos		
+< nienosościskiej	nienosościski	adj:sg:gen:f:pos		
+< nienosościskiej	nienosościski	adj:sg:loc:f:pos		
+< nienosościskiemu	nienosościski	adj:sg:dat:m1.m2.m3.n:pos		
+< nienosościskie	nienosościski	adj:pl:acc:m2.m3.f.n:pos		
+< nienosościskie	nienosościski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< nienosościskie	nienosościski	adj:sg:acc:n:pos		
+< nienosościskie	nienosościski	adj:sg:nom.voc:n:pos		
+< nienosościskimi	nienosościski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< nienosościskim	nienosościski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< nienosościskim	nienosościski	adj:sg:inst:m1.m2.m3.n:pos		
+< nienosościskim	nienosościski	adj:sg:loc:m1.m2.m3.n:pos		
+< nienosościski	nienosościski	adj:sg:acc:m3:pos		
+< nienosościski	nienosościski	adj:sg:nom.voc:m1.m2.m3:pos		
+< nienosościsko	nienosościsko	adv:pos		
+< nienosościskościach	nienosościskość	subst:pl:loc:f	nazwa pospolita	
+< nienosościskościami	nienosościskość	subst:pl:inst:f	nazwa pospolita	
+< nienosościskością	nienosościskość	subst:sg:inst:f	nazwa pospolita	
+< nienosościskości	nienosościskość	subst:pl:acc:f	nazwa pospolita	
+< nienosościskości	nienosościskość	subst:pl:gen:f	nazwa pospolita	
+< nienosościskości	nienosościskość	subst:pl:nom:f	nazwa pospolita	
+< nienosościskości	nienosościskość	subst:pl:voc:f	nazwa pospolita	
+< nienosościskości	nienosościskość	subst:sg:dat:f	nazwa pospolita	
+< nienosościskości	nienosościskość	subst:sg:gen:f	nazwa pospolita	
+< nienosościskości	nienosościskość	subst:sg:loc:f	nazwa pospolita	
+< nienosościskości	nienosościskość	subst:sg:voc:f	nazwa pospolita	
+< nienosościskościom	nienosościskość	subst:pl:dat:f	nazwa pospolita	
+< nienosościskość	nienosościskość	subst:sg:acc:f	nazwa pospolita	
+< nienosościskość	nienosościskość	subst:sg:nom:f	nazwa pospolita	
+2535470a2535657
+> nieobukierunkowo	nieobukierunkowo	adv:pos		
+2535508,2535545d2535694
+< nieobukierunowo	nieobukierunowo	adv:pos		
+< nieobukierunowościach	nieobukierunowość	subst:pl:loc:f	nazwa pospolita	
+< nieobukierunowościami	nieobukierunowość	subst:pl:inst:f	nazwa pospolita	
+< nieobukierunowością	nieobukierunowość	subst:sg:inst:f	nazwa pospolita	
+< nieobukierunowości	nieobukierunowość	subst:pl:acc:f	nazwa pospolita	
+< nieobukierunowości	nieobukierunowość	subst:pl:gen:f	nazwa pospolita	
+< nieobukierunowości	nieobukierunowość	subst:pl:nom:f	nazwa pospolita	
+< nieobukierunowości	nieobukierunowość	subst:pl:voc:f	nazwa pospolita	
+< nieobukierunowości	nieobukierunowość	subst:sg:dat:f	nazwa pospolita	
+< nieobukierunowości	nieobukierunowość	subst:sg:gen:f	nazwa pospolita	
+< nieobukierunowości	nieobukierunowość	subst:sg:loc:f	nazwa pospolita	
+< nieobukierunowości	nieobukierunowość	subst:sg:voc:f	nazwa pospolita	
+< nieobukierunowościom	nieobukierunowość	subst:pl:dat:f	nazwa pospolita	
+< nieobukierunowość	nieobukierunowość	subst:sg:acc:f	nazwa pospolita	
+< nieobukierunowość	nieobukierunowość	subst:sg:nom:f	nazwa pospolita	
+< nieobukierunowa	nieobukierunowy	adj:sg:nom.voc:f:pos		
+< nieobukierunową	nieobukierunowy	adj:sg:acc:f:pos		
+< nieobukierunową	nieobukierunowy	adj:sg:inst:f:pos		
+< nieobukierunowego	nieobukierunowy	adj:sg:acc:m1.m2:pos		
+< nieobukierunowego	nieobukierunowy	adj:sg:gen:m1.m2.m3.n:pos		
+< nieobukierunowej	nieobukierunowy	adj:sg:dat:f:pos		
+< nieobukierunowej	nieobukierunowy	adj:sg:gen:f:pos		
+< nieobukierunowej	nieobukierunowy	adj:sg:loc:f:pos		
+< nieobukierunowemu	nieobukierunowy	adj:sg:dat:m1.m2.m3.n:pos		
+< nieobukierunowe	nieobukierunowy	adj:pl:acc:m2.m3.f.n:pos		
+< nieobukierunowe	nieobukierunowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+< nieobukierunowe	nieobukierunowy	adj:sg:acc:n:pos		
+< nieobukierunowe	nieobukierunowy	adj:sg:nom.voc:n:pos		
+< nieobukierunowi	nieobukierunowy	adj:pl:nom.voc:m1:pos		
+< nieobukierunowych	nieobukierunowy	adj:pl:acc:m1:pos		
+< nieobukierunowych	nieobukierunowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+< nieobukierunowych	nieobukierunowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+< nieobukierunowymi	nieobukierunowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+< nieobukierunowym	nieobukierunowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+< nieobukierunowym	nieobukierunowy	adj:sg:inst:m1.m2.m3.n:pos		
+< nieobukierunowym	nieobukierunowy	adj:sg:loc:m1.m2.m3.n:pos		
+< nieobukierunowy	nieobukierunowy	adj:sg:acc:m3:pos		
+< nieobukierunowy	nieobukierunowy	adj:sg:nom.voc:m1.m2.m3:pos		
+2562685,2562722d2562833
+< nieopasanie	nieopasanie	adv:pos		
+< nieopasanościach	nieopasaność	subst:pl:loc:f	nazwa pospolita	
+< nieopasanościami	nieopasaność	subst:pl:inst:f	nazwa pospolita	
+< nieopasanością	nieopasaność	subst:sg:inst:f	nazwa pospolita	
+< nieopasaności	nieopasaność	subst:pl:acc:f	nazwa pospolita	
+< nieopasaności	nieopasaność	subst:pl:gen:f	nazwa pospolita	
+< nieopasaności	nieopasaność	subst:pl:nom:f	nazwa pospolita	
+< nieopasaności	nieopasaność	subst:pl:voc:f	nazwa pospolita	
+< nieopasaności	nieopasaność	subst:sg:dat:f	nazwa pospolita	
+< nieopasaności	nieopasaność	subst:sg:gen:f	nazwa pospolita	
+< nieopasaności	nieopasaność	subst:sg:loc:f	nazwa pospolita	
+< nieopasaności	nieopasaność	subst:sg:voc:f	nazwa pospolita	
+< nieopasanościom	nieopasaność	subst:pl:dat:f	nazwa pospolita	
+< nieopasaność	nieopasaność	subst:sg:acc:f	nazwa pospolita	
+< nieopasaność	nieopasaność	subst:sg:nom:f	nazwa pospolita	
+< nieopasana	nieopasany	adj:sg:nom.voc:f:pos		
+< nieopasaną	nieopasany	adj:sg:acc:f:pos		
+< nieopasaną	nieopasany	adj:sg:inst:f:pos		
+< nieopasanego	nieopasany	adj:sg:acc:m1.m2:pos		
+< nieopasanego	nieopasany	adj:sg:gen:m1.m2.m3.n:pos		
+< nieopasanej	nieopasany	adj:sg:dat:f:pos		
+< nieopasanej	nieopasany	adj:sg:gen:f:pos		
+< nieopasanej	nieopasany	adj:sg:loc:f:pos		
+< nieopasanemu	nieopasany	adj:sg:dat:m1.m2.m3.n:pos		
+< nieopasane	nieopasany	adj:pl:acc:m2.m3.f.n:pos		
+< nieopasane	nieopasany	adj:pl:nom.voc:m2.m3.f.n:pos		
+< nieopasane	nieopasany	adj:sg:acc:n:pos		
+< nieopasane	nieopasany	adj:sg:nom.voc:n:pos		
+< nieopasani	nieopasany	adj:pl:nom.voc:m1:pos		
+< nieopasanych	nieopasany	adj:pl:acc:m1:pos		
+< nieopasanych	nieopasany	adj:pl:gen:m1.m2.m3.f.n:pos		
+< nieopasanych	nieopasany	adj:pl:loc:m1.m2.m3.f.n:pos		
+< nieopasanymi	nieopasany	adj:pl:inst:m1.m2.m3.f.n:pos		
+< nieopasanym	nieopasany	adj:pl:dat:m1.m2.m3.f.n:pos		
+< nieopasanym	nieopasany	adj:sg:inst:m1.m2.m3.n:pos		
+< nieopasanym	nieopasany	adj:sg:loc:m1.m2.m3.n:pos		
+< nieopasany	nieopasany	adj:sg:acc:m3:pos		
+< nieopasany	nieopasany	adj:sg:nom.voc:m1.m2.m3:pos		
+2567677c2567788
+< nieorficzno	nieorficzno	adv:pos		
+---
+> nieorficznie	nieorficznie	adv:pos		
+2591586a2591698
+> niepantagruelicznie	niepantagruelicznie	adv:pos		
+2591624,2591661d2591735
+< niepantegruelicznie	niepantegruelicznie	adv:pos		
+< niepantegruelicznościach	niepantegrueliczność	subst:pl:loc:f	nazwa pospolita	
+< niepantegruelicznościami	niepantegrueliczność	subst:pl:inst:f	nazwa pospolita	
+< niepantegruelicznością	niepantegrueliczność	subst:sg:inst:f	nazwa pospolita	
+< niepantegrueliczności	niepantegrueliczność	subst:pl:acc:f	nazwa pospolita	
+< niepantegrueliczności	niepantegrueliczność	subst:pl:gen:f	nazwa pospolita	
+< niepantegrueliczności	niepantegrueliczność	subst:pl:nom:f	nazwa pospolita	
+< niepantegrueliczności	niepantegrueliczność	subst:pl:voc:f	nazwa pospolita	
+< niepantegrueliczności	niepantegrueliczność	subst:sg:dat:f	nazwa pospolita	
+< niepantegrueliczności	niepantegrueliczność	subst:sg:gen:f	nazwa pospolita	
+< niepantegrueliczności	niepantegrueliczność	subst:sg:loc:f	nazwa pospolita	
+< niepantegrueliczności	niepantegrueliczność	subst:sg:voc:f	nazwa pospolita	
+< niepantegruelicznościom	niepantegrueliczność	subst:pl:dat:f	nazwa pospolita	
+< niepantegrueliczność	niepantegrueliczność	subst:sg:acc:f	nazwa pospolita	
+< niepantegrueliczność	niepantegrueliczność	subst:sg:nom:f	nazwa pospolita	
+< niepantegrueliczna	niepantegrueliczny	adj:sg:nom.voc:f:pos		
+< niepantegrueliczną	niepantegrueliczny	adj:sg:acc:f:pos		
+< niepantegrueliczną	niepantegrueliczny	adj:sg:inst:f:pos		
+< niepantegruelicznego	niepantegrueliczny	adj:sg:acc:m1.m2:pos		
+< niepantegruelicznego	niepantegrueliczny	adj:sg:gen:m1.m2.m3.n:pos		
+< niepantegruelicznej	niepantegrueliczny	adj:sg:dat:f:pos		
+< niepantegruelicznej	niepantegrueliczny	adj:sg:gen:f:pos		
+< niepantegruelicznej	niepantegrueliczny	adj:sg:loc:f:pos		
+< niepantegruelicznemu	niepantegrueliczny	adj:sg:dat:m1.m2.m3.n:pos		
+< niepantegrueliczne	niepantegrueliczny	adj:pl:acc:m2.m3.f.n:pos		
+< niepantegrueliczne	niepantegrueliczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niepantegrueliczne	niepantegrueliczny	adj:sg:acc:n:pos		
+< niepantegrueliczne	niepantegrueliczny	adj:sg:nom.voc:n:pos		
+< niepantegrueliczni	niepantegrueliczny	adj:pl:nom.voc:m1:pos		
+< niepantegruelicznych	niepantegrueliczny	adj:pl:acc:m1:pos		
+< niepantegruelicznych	niepantegrueliczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niepantegruelicznych	niepantegrueliczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niepantegruelicznymi	niepantegrueliczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niepantegruelicznym	niepantegrueliczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niepantegruelicznym	niepantegrueliczny	adj:sg:inst:m1.m2.m3.n:pos		
+< niepantegruelicznym	niepantegrueliczny	adj:sg:loc:m1.m2.m3.n:pos		
+< niepantegrueliczny	niepantegrueliczny	adj:sg:acc:m3:pos		
+< niepantegrueliczny	niepantegrueliczny	adj:sg:nom.voc:m1.m2.m3:pos		
+2680737,2680774d2680810
+< niepotrzebniccy	niepotrzebnicki	adj:pl:nom.voc:m1:pos		
+< niepotrzebnicka	niepotrzebnicki	adj:sg:nom.voc:f:pos		
+< niepotrzebnicką	niepotrzebnicki	adj:sg:acc:f:pos		
+< niepotrzebnicką	niepotrzebnicki	adj:sg:inst:f:pos		
+< niepotrzebnickich	niepotrzebnicki	adj:pl:acc:m1:pos		
+< niepotrzebnickich	niepotrzebnicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niepotrzebnickich	niepotrzebnicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niepotrzebnickiego	niepotrzebnicki	adj:sg:acc:m1.m2:pos		
+< niepotrzebnickiego	niepotrzebnicki	adj:sg:gen:m1.m2.m3.n:pos		
+< niepotrzebnickiej	niepotrzebnicki	adj:sg:dat:f:pos		
+< niepotrzebnickiej	niepotrzebnicki	adj:sg:gen:f:pos		
+< niepotrzebnickiej	niepotrzebnicki	adj:sg:loc:f:pos		
+< niepotrzebnickiemu	niepotrzebnicki	adj:sg:dat:m1.m2.m3.n:pos		
+< niepotrzebnickie	niepotrzebnicki	adj:pl:acc:m2.m3.f.n:pos		
+< niepotrzebnickie	niepotrzebnicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niepotrzebnickie	niepotrzebnicki	adj:sg:acc:n:pos		
+< niepotrzebnickie	niepotrzebnicki	adj:sg:nom.voc:n:pos		
+< niepotrzebnickimi	niepotrzebnicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niepotrzebnickim	niepotrzebnicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niepotrzebnickim	niepotrzebnicki	adj:sg:inst:m1.m2.m3.n:pos		
+< niepotrzebnickim	niepotrzebnicki	adj:sg:loc:m1.m2.m3.n:pos		
+< niepotrzebnicki	niepotrzebnicki	adj:sg:acc:m3:pos		
+< niepotrzebnicki	niepotrzebnicki	adj:sg:nom.voc:m1.m2.m3:pos		
+< niepotrzebnicko	niepotrzebnicko	adv:pos		
+< niepotrzebnickościach	niepotrzebnickość	subst:pl:loc:f	nazwa pospolita	
+< niepotrzebnickościami	niepotrzebnickość	subst:pl:inst:f	nazwa pospolita	
+< niepotrzebnickością	niepotrzebnickość	subst:sg:inst:f	nazwa pospolita	
+< niepotrzebnickości	niepotrzebnickość	subst:pl:acc:f	nazwa pospolita	
+< niepotrzebnickości	niepotrzebnickość	subst:pl:gen:f	nazwa pospolita	
+< niepotrzebnickości	niepotrzebnickość	subst:pl:nom:f	nazwa pospolita	
+< niepotrzebnickości	niepotrzebnickość	subst:pl:voc:f	nazwa pospolita	
+< niepotrzebnickości	niepotrzebnickość	subst:sg:dat:f	nazwa pospolita	
+< niepotrzebnickości	niepotrzebnickość	subst:sg:gen:f	nazwa pospolita	
+< niepotrzebnickości	niepotrzebnickość	subst:sg:loc:f	nazwa pospolita	
+< niepotrzebnickości	niepotrzebnickość	subst:sg:voc:f	nazwa pospolita	
+< niepotrzebnickościom	niepotrzebnickość	subst:pl:dat:f	nazwa pospolita	
+< niepotrzebnickość	niepotrzebnickość	subst:sg:acc:f	nazwa pospolita	
+< niepotrzebnickość	niepotrzebnickość	subst:sg:nom:f	nazwa pospolita	
+2680862,2680899d2680897
+< niepotrzebowscy	niepotrzebowski	adj:pl:nom.voc:m1:pos		
+< niepotrzebowska	niepotrzebowski	adj:sg:nom.voc:f:pos		
+< niepotrzebowską	niepotrzebowski	adj:sg:acc:f:pos		
+< niepotrzebowską	niepotrzebowski	adj:sg:inst:f:pos		
+< niepotrzebowskich	niepotrzebowski	adj:pl:acc:m1:pos		
+< niepotrzebowskich	niepotrzebowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niepotrzebowskich	niepotrzebowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niepotrzebowskiego	niepotrzebowski	adj:sg:acc:m1.m2:pos		
+< niepotrzebowskiego	niepotrzebowski	adj:sg:gen:m1.m2.m3.n:pos		
+< niepotrzebowskiej	niepotrzebowski	adj:sg:dat:f:pos		
+< niepotrzebowskiej	niepotrzebowski	adj:sg:gen:f:pos		
+< niepotrzebowskiej	niepotrzebowski	adj:sg:loc:f:pos		
+< niepotrzebowskiemu	niepotrzebowski	adj:sg:dat:m1.m2.m3.n:pos		
+< niepotrzebowskie	niepotrzebowski	adj:pl:acc:m2.m3.f.n:pos		
+< niepotrzebowskie	niepotrzebowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niepotrzebowskie	niepotrzebowski	adj:sg:acc:n:pos		
+< niepotrzebowskie	niepotrzebowski	adj:sg:nom.voc:n:pos		
+< niepotrzebowskimi	niepotrzebowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niepotrzebowskim	niepotrzebowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niepotrzebowskim	niepotrzebowski	adj:sg:inst:m1.m2.m3.n:pos		
+< niepotrzebowskim	niepotrzebowski	adj:sg:loc:m1.m2.m3.n:pos		
+< niepotrzebowski	niepotrzebowski	adj:sg:acc:m3:pos		
+< niepotrzebowski	niepotrzebowski	adj:sg:nom.voc:m1.m2.m3:pos		
+< niepotrzebowsko	niepotrzebowsko	adv:pos		
+< niepotrzebowskościach	niepotrzebowskość	subst:pl:loc:f	nazwa pospolita	
+< niepotrzebowskościami	niepotrzebowskość	subst:pl:inst:f	nazwa pospolita	
+< niepotrzebowskością	niepotrzebowskość	subst:sg:inst:f	nazwa pospolita	
+< niepotrzebowskości	niepotrzebowskość	subst:pl:acc:f	nazwa pospolita	
+< niepotrzebowskości	niepotrzebowskość	subst:pl:gen:f	nazwa pospolita	
+< niepotrzebowskości	niepotrzebowskość	subst:pl:nom:f	nazwa pospolita	
+< niepotrzebowskości	niepotrzebowskość	subst:pl:voc:f	nazwa pospolita	
+< niepotrzebowskości	niepotrzebowskość	subst:sg:dat:f	nazwa pospolita	
+< niepotrzebowskości	niepotrzebowskość	subst:sg:gen:f	nazwa pospolita	
+< niepotrzebowskości	niepotrzebowskość	subst:sg:loc:f	nazwa pospolita	
+< niepotrzebowskości	niepotrzebowskość	subst:sg:voc:f	nazwa pospolita	
+< niepotrzebowskościom	niepotrzebowskość	subst:pl:dat:f	nazwa pospolita	
+< niepotrzebowskość	niepotrzebowskość	subst:sg:acc:f	nazwa pospolita	
+< niepotrzebowskość	niepotrzebowskość	subst:sg:nom:f	nazwa pospolita	
+2695674a2695673
+> niepółnocnie	niepółnocnie	adv:pos		
+2735350,2735387d2735348
+< nieprzekrascy	nieprzekraski	adj:pl:nom.voc:m1:pos		
+< nieprzekraska	nieprzekraski	adj:sg:nom.voc:f:pos		
+< nieprzekraską	nieprzekraski	adj:sg:acc:f:pos		
+< nieprzekraską	nieprzekraski	adj:sg:inst:f:pos		
+< nieprzekraskich	nieprzekraski	adj:pl:acc:m1:pos		
+< nieprzekraskich	nieprzekraski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< nieprzekraskich	nieprzekraski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< nieprzekraskiego	nieprzekraski	adj:sg:acc:m1.m2:pos		
+< nieprzekraskiego	nieprzekraski	adj:sg:gen:m1.m2.m3.n:pos		
+< nieprzekraskiej	nieprzekraski	adj:sg:dat:f:pos		
+< nieprzekraskiej	nieprzekraski	adj:sg:gen:f:pos		
+< nieprzekraskiej	nieprzekraski	adj:sg:loc:f:pos		
+< nieprzekraskiemu	nieprzekraski	adj:sg:dat:m1.m2.m3.n:pos		
+< nieprzekraskie	nieprzekraski	adj:pl:acc:m2.m3.f.n:pos		
+< nieprzekraskie	nieprzekraski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< nieprzekraskie	nieprzekraski	adj:sg:acc:n:pos		
+< nieprzekraskie	nieprzekraski	adj:sg:nom.voc:n:pos		
+< nieprzekraskimi	nieprzekraski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< nieprzekraskim	nieprzekraski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< nieprzekraskim	nieprzekraski	adj:sg:inst:m1.m2.m3.n:pos		
+< nieprzekraskim	nieprzekraski	adj:sg:loc:m1.m2.m3.n:pos		
+< nieprzekraski	nieprzekraski	adj:sg:acc:m3:pos		
+< nieprzekraski	nieprzekraski	adj:sg:nom.voc:m1.m2.m3:pos		
+< nieprzekrasko	nieprzekrasko	adv:pos		
+< nieprzekraskościach	nieprzekraskość	subst:pl:loc:f	nazwa pospolita	
+< nieprzekraskościami	nieprzekraskość	subst:pl:inst:f	nazwa pospolita	
+< nieprzekraskością	nieprzekraskość	subst:sg:inst:f	nazwa pospolita	
+< nieprzekraskości	nieprzekraskość	subst:pl:acc:f	nazwa pospolita	
+< nieprzekraskości	nieprzekraskość	subst:pl:gen:f	nazwa pospolita	
+< nieprzekraskości	nieprzekraskość	subst:pl:nom:f	nazwa pospolita	
+< nieprzekraskości	nieprzekraskość	subst:pl:voc:f	nazwa pospolita	
+< nieprzekraskości	nieprzekraskość	subst:sg:dat:f	nazwa pospolita	
+< nieprzekraskości	nieprzekraskość	subst:sg:gen:f	nazwa pospolita	
+< nieprzekraskości	nieprzekraskość	subst:sg:loc:f	nazwa pospolita	
+< nieprzekraskości	nieprzekraskość	subst:sg:voc:f	nazwa pospolita	
+< nieprzekraskościom	nieprzekraskość	subst:pl:dat:f	nazwa pospolita	
+< nieprzekraskość	nieprzekraskość	subst:sg:acc:f	nazwa pospolita	
+< nieprzekraskość	nieprzekraskość	subst:sg:nom:f	nazwa pospolita	
+2771688c2771649
+< nieradiograficzno	nieradiograficzno	adv:pos		
+---
+> nieradiograficznie	nieradiograficznie	adv:pos		
+2778208,2778245d2778168
+< nierealizatoscy	nierealizatoski	adj:pl:nom.voc:m1:pos		
+< nierealizatoska	nierealizatoski	adj:sg:nom.voc:f:pos		
+< nierealizatoską	nierealizatoski	adj:sg:acc:f:pos		
+< nierealizatoską	nierealizatoski	adj:sg:inst:f:pos		
+< nierealizatoskich	nierealizatoski	adj:pl:acc:m1:pos		
+< nierealizatoskich	nierealizatoski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< nierealizatoskich	nierealizatoski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< nierealizatoskiego	nierealizatoski	adj:sg:acc:m1.m2:pos		
+< nierealizatoskiego	nierealizatoski	adj:sg:gen:m1.m2.m3.n:pos		
+< nierealizatoskiej	nierealizatoski	adj:sg:dat:f:pos		
+< nierealizatoskiej	nierealizatoski	adj:sg:gen:f:pos		
+< nierealizatoskiej	nierealizatoski	adj:sg:loc:f:pos		
+< nierealizatoskiemu	nierealizatoski	adj:sg:dat:m1.m2.m3.n:pos		
+< nierealizatoskie	nierealizatoski	adj:pl:acc:m2.m3.f.n:pos		
+< nierealizatoskie	nierealizatoski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< nierealizatoskie	nierealizatoski	adj:sg:acc:n:pos		
+< nierealizatoskie	nierealizatoski	adj:sg:nom.voc:n:pos		
+< nierealizatoskimi	nierealizatoski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< nierealizatoskim	nierealizatoski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< nierealizatoskim	nierealizatoski	adj:sg:inst:m1.m2.m3.n:pos		
+< nierealizatoskim	nierealizatoski	adj:sg:loc:m1.m2.m3.n:pos		
+< nierealizatoski	nierealizatoski	adj:sg:acc:m3:pos		
+< nierealizatoski	nierealizatoski	adj:sg:nom.voc:m1.m2.m3:pos		
+< nierealizatosko	nierealizatosko	adv:pos		
+< nierealizatoskościach	nierealizatoskość	subst:pl:loc:f	nazwa pospolita	
+< nierealizatoskościami	nierealizatoskość	subst:pl:inst:f	nazwa pospolita	
+< nierealizatoskością	nierealizatoskość	subst:sg:inst:f	nazwa pospolita	
+< nierealizatoskości	nierealizatoskość	subst:pl:acc:f	nazwa pospolita	
+< nierealizatoskości	nierealizatoskość	subst:pl:gen:f	nazwa pospolita	
+< nierealizatoskości	nierealizatoskość	subst:pl:nom:f	nazwa pospolita	
+< nierealizatoskości	nierealizatoskość	subst:pl:voc:f	nazwa pospolita	
+< nierealizatoskości	nierealizatoskość	subst:sg:dat:f	nazwa pospolita	
+< nierealizatoskości	nierealizatoskość	subst:sg:gen:f	nazwa pospolita	
+< nierealizatoskości	nierealizatoskość	subst:sg:loc:f	nazwa pospolita	
+< nierealizatoskości	nierealizatoskość	subst:sg:voc:f	nazwa pospolita	
+< nierealizatoskościom	nierealizatoskość	subst:pl:dat:f	nazwa pospolita	
+< nierealizatoskość	nierealizatoskość	subst:sg:acc:f	nazwa pospolita	
+< nierealizatoskość	nierealizatoskość	subst:sg:nom:f	nazwa pospolita	
+2782097a2782021,2782035
+> nierejkiawicko	nierejkiawicko	adv:pos		
+> nierejkiawickościach	nierejkiawickość	subst:pl:loc:f		
+> nierejkiawickościami	nierejkiawickość	subst:pl:inst:f		
+> nierejkiawickością	nierejkiawickość	subst:sg:inst:f		
+> nierejkiawickości	nierejkiawickość	subst:pl:acc:f		
+> nierejkiawickości	nierejkiawickość	subst:pl:gen:f		
+> nierejkiawickości	nierejkiawickość	subst:pl:nom:f		
+> nierejkiawickości	nierejkiawickość	subst:pl:voc:f		
+> nierejkiawickości	nierejkiawickość	subst:sg:dat:f		
+> nierejkiawickości	nierejkiawickość	subst:sg:gen:f		
+> nierejkiawickości	nierejkiawickość	subst:sg:loc:f		
+> nierejkiawickości	nierejkiawickość	subst:sg:voc:f		
+> nierejkiawickościom	nierejkiawickość	subst:pl:dat:f		
+> nierejkiawickość	nierejkiawickość	subst:sg:acc:f		
+> nierejkiawickość	nierejkiawickość	subst:sg:nom:f		
+2788004,2788041c2787942,2787979
+< niereykjawiccy	niereykjawicki	adj:pl:nom.voc:m1:pos		
+< niereykjawicka	niereykjawicki	adj:sg:nom.voc:f:pos		
+< niereykjawicką	niereykjawicki	adj:sg:acc:f:pos		
+< niereykjawicką	niereykjawicki	adj:sg:inst:f:pos		
+< niereykjawickich	niereykjawicki	adj:pl:acc:m1:pos		
+< niereykjawickich	niereykjawicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niereykjawickich	niereykjawicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niereykjawickiego	niereykjawicki	adj:sg:acc:m1.m2:pos		
+< niereykjawickiego	niereykjawicki	adj:sg:gen:m1.m2.m3.n:pos		
+< niereykjawickiej	niereykjawicki	adj:sg:dat:f:pos		
+< niereykjawickiej	niereykjawicki	adj:sg:gen:f:pos		
+< niereykjawickiej	niereykjawicki	adj:sg:loc:f:pos		
+< niereykjawickiemu	niereykjawicki	adj:sg:dat:m1.m2.m3.n:pos		
+< niereykjawickie	niereykjawicki	adj:pl:acc:m2.m3.f.n:pos		
+< niereykjawickie	niereykjawicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niereykjawickie	niereykjawicki	adj:sg:acc:n:pos		
+< niereykjawickie	niereykjawicki	adj:sg:nom.voc:n:pos		
+< niereykjawickimi	niereykjawicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niereykjawickim	niereykjawicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niereykjawickim	niereykjawicki	adj:sg:inst:m1.m2.m3.n:pos		
+< niereykjawickim	niereykjawicki	adj:sg:loc:m1.m2.m3.n:pos		
+< niereykjawicki	niereykjawicki	adj:sg:acc:m3:pos		
+< niereykjawicki	niereykjawicki	adj:sg:nom.voc:m1.m2.m3:pos		
+< niereykjawicko	niereykjawicko	adv:pos		
+< niereykjawickościach	niereykjawickość	subst:pl:loc:f	nazwa pospolita	
+< niereykjawickościami	niereykjawickość	subst:pl:inst:f	nazwa pospolita	
+< niereykjawickością	niereykjawickość	subst:sg:inst:f	nazwa pospolita	
+< niereykjawickości	niereykjawickość	subst:pl:acc:f	nazwa pospolita	
+< niereykjawickości	niereykjawickość	subst:pl:gen:f	nazwa pospolita	
+< niereykjawickości	niereykjawickość	subst:pl:nom:f	nazwa pospolita	
+< niereykjawickości	niereykjawickość	subst:pl:voc:f	nazwa pospolita	
+< niereykjawickości	niereykjawickość	subst:sg:dat:f	nazwa pospolita	
+< niereykjawickości	niereykjawickość	subst:sg:gen:f	nazwa pospolita	
+< niereykjawickości	niereykjawickość	subst:sg:loc:f	nazwa pospolita	
+< niereykjawickości	niereykjawickość	subst:sg:voc:f	nazwa pospolita	
+< niereykjawickościom	niereykjawickość	subst:pl:dat:f	nazwa pospolita	
+< niereykjawickość	niereykjawickość	subst:sg:acc:f	nazwa pospolita	
+< niereykjawickość	niereykjawickość	subst:sg:nom:f	nazwa pospolita	
+---
+> niereykjaviccy	niereykjavicki	adj:pl:nom.voc:m1:pos		
+> niereykjavicka	niereykjavicki	adj:sg:nom.voc:f:pos		
+> niereykjavicką	niereykjavicki	adj:sg:acc:f:pos		
+> niereykjavicką	niereykjavicki	adj:sg:inst:f:pos		
+> niereykjavickich	niereykjavicki	adj:pl:acc:m1:pos		
+> niereykjavickich	niereykjavicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niereykjavickich	niereykjavicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niereykjavickiego	niereykjavicki	adj:sg:acc:m1.m2:pos		
+> niereykjavickiego	niereykjavicki	adj:sg:gen:m1.m2.m3.n:pos		
+> niereykjavickiej	niereykjavicki	adj:sg:dat:f:pos		
+> niereykjavickiej	niereykjavicki	adj:sg:gen:f:pos		
+> niereykjavickiej	niereykjavicki	adj:sg:loc:f:pos		
+> niereykjavickiemu	niereykjavicki	adj:sg:dat:m1.m2.m3.n:pos		
+> niereykjavickie	niereykjavicki	adj:pl:acc:m2.m3.f.n:pos		
+> niereykjavickie	niereykjavicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niereykjavickie	niereykjavicki	adj:sg:acc:n:pos		
+> niereykjavickie	niereykjavicki	adj:sg:nom.voc:n:pos		
+> niereykjavickimi	niereykjavicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niereykjavickim	niereykjavicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niereykjavickim	niereykjavicki	adj:sg:inst:m1.m2.m3.n:pos		
+> niereykjavickim	niereykjavicki	adj:sg:loc:m1.m2.m3.n:pos		
+> niereykjavicki	niereykjavicki	adj:sg:acc:m3:pos		
+> niereykjavicki	niereykjavicki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niereykjavicko	niereykjavicko	adv:pos		
+> niereykjavickościach	niereykjavickość	subst:pl:loc:f	nazwa pospolita	
+> niereykjavickościami	niereykjavickość	subst:pl:inst:f	nazwa pospolita	
+> niereykjavickością	niereykjavickość	subst:sg:inst:f	nazwa pospolita	
+> niereykjavickości	niereykjavickość	subst:pl:acc:f	nazwa pospolita	
+> niereykjavickości	niereykjavickość	subst:pl:gen:f	nazwa pospolita	
+> niereykjavickości	niereykjavickość	subst:pl:nom:f	nazwa pospolita	
+> niereykjavickości	niereykjavickość	subst:pl:voc:f	nazwa pospolita	
+> niereykjavickości	niereykjavickość	subst:sg:dat:f	nazwa pospolita	
+> niereykjavickości	niereykjavickość	subst:sg:gen:f	nazwa pospolita	
+> niereykjavickości	niereykjavickość	subst:sg:loc:f	nazwa pospolita	
+> niereykjavickości	niereykjavickość	subst:sg:voc:f	nazwa pospolita	
+> niereykjavickościom	niereykjavickość	subst:pl:dat:f	nazwa pospolita	
+> niereykjavickość	niereykjavickość	subst:sg:acc:f	nazwa pospolita	
+> niereykjavickość	niereykjavickość	subst:sg:nom:f	nazwa pospolita	
+2810208c2810146
+< nierównoległoboczno	nierównoległoboczno	adv:pos		
+---
+> nierównoległobocznie	nierównoległobocznie	adv:pos		
+2858044a2857983
+> nieskórnie	nieskórnie	adv:pos		
+2858082d2858020
+< nieskórno	nieskórno	adv:pos		
+2870938c2870876
+< niesocjometryczno	niesocjometryczno	adv:pos		
+---
+> niesocjometrycznie	niesocjometrycznie	adv:pos		
+2879548a2879487
+> niespłowiale	niespłowiale	adv:pos		
+2894212c2894151
+< niestereometryczno	niestereometryczno	adv:pos		
+---
+> niestereometrycznie	niestereometrycznie	adv:pos		
+2909637a2909577
+> niesuperaśnie	niesuperaśnie	adv:pos		
+2913607a2913548
+> niesyfiaście	niesyfiaście	adv:pos		
+2927463a2927405,2927419
+> nieszesnastokrotnie	nieszesnastokrotnie	adv:pos		
+> nieszesnastokrotnościach	nieszesnastokrotność	subst:pl:loc:f		
+> nieszesnastokrotnościami	nieszesnastokrotność	subst:pl:inst:f		
+> nieszesnastokrotnością	nieszesnastokrotność	subst:sg:inst:f		
+> nieszesnastokrotności	nieszesnastokrotność	subst:pl:acc:f		
+> nieszesnastokrotności	nieszesnastokrotność	subst:pl:gen:f		
+> nieszesnastokrotności	nieszesnastokrotność	subst:pl:nom:f		
+> nieszesnastokrotności	nieszesnastokrotność	subst:pl:voc:f		
+> nieszesnastokrotności	nieszesnastokrotność	subst:sg:dat:f		
+> nieszesnastokrotności	nieszesnastokrotność	subst:sg:gen:f		
+> nieszesnastokrotności	nieszesnastokrotność	subst:sg:loc:f		
+> nieszesnastokrotności	nieszesnastokrotność	subst:sg:voc:f		
+> nieszesnastokrotnościom	nieszesnastokrotność	subst:pl:dat:f		
+> nieszesnastokrotność	nieszesnastokrotność	subst:sg:acc:f		
+> nieszesnastokrotność	nieszesnastokrotność	subst:sg:nom:f		
+2940802d2940757
+< nieściernie	nieściernie	adv:pos		
+2948185a2948141
+> nieświatle	nieświatle	adv:pos		
+2951428a2951385,2951399
+> nieświętoszkowo	nieświętoszkowo	adv:pos		
+> nieświętoszkowościach	nieświętoszkowość	subst:pl:loc:f		
+> nieświętoszkowościami	nieświętoszkowość	subst:pl:inst:f		
+> nieświętoszkowością	nieświętoszkowość	subst:sg:inst:f		
+> nieświętoszkowości	nieświętoszkowość	subst:pl:acc:f		
+> nieświętoszkowości	nieświętoszkowość	subst:pl:gen:f		
+> nieświętoszkowości	nieświętoszkowość	subst:pl:nom:f		
+> nieświętoszkowości	nieświętoszkowość	subst:pl:voc:f		
+> nieświętoszkowości	nieświętoszkowość	subst:sg:dat:f		
+> nieświętoszkowości	nieświętoszkowość	subst:sg:gen:f		
+> nieświętoszkowości	nieświętoszkowość	subst:sg:loc:f		
+> nieświętoszkowości	nieświętoszkowość	subst:sg:voc:f		
+> nieświętoszkowościom	nieświętoszkowość	subst:pl:dat:f		
+> nieświętoszkowość	nieświętoszkowość	subst:sg:acc:f		
+> nieświętoszkowość	nieświętoszkowość	subst:sg:nom:f		
+2973999a2973971,2973985
+> nietranswestycznie	nietranswestycznie	adv:pos		
+> nietranswestycznościach	nietranswestyczność	subst:pl:loc:f		
+> nietranswestycznościami	nietranswestyczność	subst:pl:inst:f		
+> nietranswestycznością	nietranswestyczność	subst:sg:inst:f		
+> nietranswestyczności	nietranswestyczność	subst:pl:acc:f		
+> nietranswestyczności	nietranswestyczność	subst:pl:gen:f		
+> nietranswestyczności	nietranswestyczność	subst:pl:nom:f		
+> nietranswestyczności	nietranswestyczność	subst:pl:voc:f		
+> nietranswestyczności	nietranswestyczność	subst:sg:dat:f		
+> nietranswestyczności	nietranswestyczność	subst:sg:gen:f		
+> nietranswestyczności	nietranswestyczność	subst:sg:loc:f		
+> nietranswestyczności	nietranswestyczność	subst:sg:voc:f		
+> nietranswestycznościom	nietranswestyczność	subst:pl:dat:f		
+> nietranswestyczność	nietranswestyczność	subst:sg:acc:f		
+> nietranswestyczność	nietranswestyczność	subst:sg:nom:f		
+2983814a2983801,2983815
+> nietrzeźwiutko	nietrzeźwiutko	adv:pos		
+> nietrzeźwiutkościach	nietrzeźwiutkość	subst:pl:loc:f		
+> nietrzeźwiutkościami	nietrzeźwiutkość	subst:pl:inst:f		
+> nietrzeźwiutkością	nietrzeźwiutkość	subst:sg:inst:f		
+> nietrzeźwiutkości	nietrzeźwiutkość	subst:pl:acc:f		
+> nietrzeźwiutkości	nietrzeźwiutkość	subst:pl:gen:f		
+> nietrzeźwiutkości	nietrzeźwiutkość	subst:pl:nom:f		
+> nietrzeźwiutkości	nietrzeźwiutkość	subst:pl:voc:f		
+> nietrzeźwiutkości	nietrzeźwiutkość	subst:sg:dat:f		
+> nietrzeźwiutkości	nietrzeźwiutkość	subst:sg:gen:f		
+> nietrzeźwiutkości	nietrzeźwiutkość	subst:sg:loc:f		
+> nietrzeźwiutkości	nietrzeźwiutkość	subst:sg:voc:f		
+> nietrzeźwiutkościom	nietrzeźwiutkość	subst:pl:dat:f		
+> nietrzeźwiutkość	nietrzeźwiutkość	subst:sg:acc:f		
+> nietrzeźwiutkość	nietrzeźwiutkość	subst:sg:nom:f		
+2992123a2992125,2992155
+> nietyciuśko	nietyciuśko:d1	adv:pos		
+> nietyciuśko	nietyciuśko:d2	adv:pos		
+> nietyciuśkościach	nietyciuśkość	subst:pl:loc:f		
+> nietyciuśkościami	nietyciuśkość	subst:pl:inst:f		
+> nietyciuśkością	nietyciuśkość	subst:sg:inst:f		
+> nietyciuśkości	nietyciuśkość	subst:pl:acc:f		
+> nietyciuśkości	nietyciuśkość	subst:pl:gen:f		
+> nietyciuśkości	nietyciuśkość	subst:pl:nom:f		
+> nietyciuśkości	nietyciuśkość	subst:pl:voc:f		
+> nietyciuśkości	nietyciuśkość	subst:sg:dat:f		
+> nietyciuśkości	nietyciuśkość	subst:sg:gen:f		
+> nietyciuśkości	nietyciuśkość	subst:sg:loc:f		
+> nietyciuśkości	nietyciuśkość	subst:sg:voc:f		
+> nietyciuśkościom	nietyciuśkość	subst:pl:dat:f		
+> nietyciuśkość	nietyciuśkość	subst:sg:acc:f		
+> nietyciuśkość	nietyciuśkość	subst:sg:nom:f		
+> nietyciuteńko	nietyciuteńko	adv:pos		
+> nietyciuteńkościach	nietyciuteńkość	subst:pl:loc:f		
+> nietyciuteńkościami	nietyciuteńkość	subst:pl:inst:f		
+> nietyciuteńkością	nietyciuteńkość	subst:sg:inst:f		
+> nietyciuteńkości	nietyciuteńkość	subst:pl:acc:f		
+> nietyciuteńkości	nietyciuteńkość	subst:pl:gen:f		
+> nietyciuteńkości	nietyciuteńkość	subst:pl:nom:f		
+> nietyciuteńkości	nietyciuteńkość	subst:pl:voc:f		
+> nietyciuteńkości	nietyciuteńkość	subst:sg:dat:f		
+> nietyciuteńkości	nietyciuteńkość	subst:sg:gen:f		
+> nietyciuteńkości	nietyciuteńkość	subst:sg:loc:f		
+> nietyciuteńkości	nietyciuteńkość	subst:sg:voc:f		
+> nietyciuteńkościom	nietyciuteńkość	subst:pl:dat:f		
+> nietyciuteńkość	nietyciuteńkość	subst:sg:acc:f		
+> nietyciuteńkość	nietyciuteńkość	subst:sg:nom:f		
+3025883,3025920d3025914
+< niewegeteriańscy	niewegeteriański	adj:pl:nom.voc:m1:pos		
+< niewegeteriańska	niewegeteriański	adj:sg:nom.voc:f:pos		
+< niewegeteriańską	niewegeteriański	adj:sg:acc:f:pos		
+< niewegeteriańską	niewegeteriański	adj:sg:inst:f:pos		
+< niewegeteriańskich	niewegeteriański	adj:pl:acc:m1:pos		
+< niewegeteriańskich	niewegeteriański	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niewegeteriańskich	niewegeteriański	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niewegeteriańskiego	niewegeteriański	adj:sg:acc:m1.m2:pos		
+< niewegeteriańskiego	niewegeteriański	adj:sg:gen:m1.m2.m3.n:pos		
+< niewegeteriańskiej	niewegeteriański	adj:sg:dat:f:pos		
+< niewegeteriańskiej	niewegeteriański	adj:sg:gen:f:pos		
+< niewegeteriańskiej	niewegeteriański	adj:sg:loc:f:pos		
+< niewegeteriańskiemu	niewegeteriański	adj:sg:dat:m1.m2.m3.n:pos		
+< niewegeteriańskie	niewegeteriański	adj:pl:acc:m2.m3.f.n:pos		
+< niewegeteriańskie	niewegeteriański	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niewegeteriańskie	niewegeteriański	adj:sg:acc:n:pos		
+< niewegeteriańskie	niewegeteriański	adj:sg:nom.voc:n:pos		
+< niewegeteriańskimi	niewegeteriański	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niewegeteriańskim	niewegeteriański	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niewegeteriańskim	niewegeteriański	adj:sg:inst:m1.m2.m3.n:pos		
+< niewegeteriańskim	niewegeteriański	adj:sg:loc:m1.m2.m3.n:pos		
+< niewegeteriański	niewegeteriański	adj:sg:acc:m3:pos		
+< niewegeteriański	niewegeteriański	adj:sg:nom.voc:m1.m2.m3:pos		
+< niewegeteriańsko	niewegeteriańsko	adv:pos		
+< niewegeteriańskościach	niewegeteriańskość	subst:pl:loc:f	nazwa pospolita	
+< niewegeteriańskościami	niewegeteriańskość	subst:pl:inst:f	nazwa pospolita	
+< niewegeteriańskością	niewegeteriańskość	subst:sg:inst:f	nazwa pospolita	
+< niewegeteriańskości	niewegeteriańskość	subst:pl:acc:f	nazwa pospolita	
+< niewegeteriańskości	niewegeteriańskość	subst:pl:gen:f	nazwa pospolita	
+< niewegeteriańskości	niewegeteriańskość	subst:pl:nom:f	nazwa pospolita	
+< niewegeteriańskości	niewegeteriańskość	subst:pl:voc:f	nazwa pospolita	
+< niewegeteriańskości	niewegeteriańskość	subst:sg:dat:f	nazwa pospolita	
+< niewegeteriańskości	niewegeteriańskość	subst:sg:gen:f	nazwa pospolita	
+< niewegeteriańskości	niewegeteriańskość	subst:sg:loc:f	nazwa pospolita	
+< niewegeteriańskości	niewegeteriańskość	subst:sg:voc:f	nazwa pospolita	
+< niewegeteriańskościom	niewegeteriańskość	subst:pl:dat:f	nazwa pospolita	
+< niewegeteriańskość	niewegeteriańskość	subst:sg:acc:f	nazwa pospolita	
+< niewegeteriańskość	niewegeteriańskość	subst:sg:nom:f	nazwa pospolita	
+3048928a3048923,3048937
+> niewilkołacko	niewilkołacko	adv:pos		
+> niewilkołackościach	niewilkołackość	subst:pl:loc:f		
+> niewilkołackościami	niewilkołackość	subst:pl:inst:f		
+> niewilkołackością	niewilkołackość	subst:sg:inst:f		
+> niewilkołackości	niewilkołackość	subst:pl:acc:f		
+> niewilkołackości	niewilkołackość	subst:pl:gen:f		
+> niewilkołackości	niewilkołackość	subst:pl:nom:f		
+> niewilkołackości	niewilkołackość	subst:pl:voc:f		
+> niewilkołackości	niewilkołackość	subst:sg:dat:f		
+> niewilkołackości	niewilkołackość	subst:sg:gen:f		
+> niewilkołackości	niewilkołackość	subst:sg:loc:f		
+> niewilkołackości	niewilkołackość	subst:sg:voc:f		
+> niewilkołackościom	niewilkołackość	subst:pl:dat:f		
+> niewilkołackość	niewilkołackość	subst:sg:acc:f		
+> niewilkołackość	niewilkołackość	subst:sg:nom:f		
+3066809a3066819,3066833
+> niewrzelowiecko	niewrzelowiecko	adv:pos		
+> niewrzelowieckościach	niewrzelowieckość	subst:pl:loc:f		
+> niewrzelowieckościami	niewrzelowieckość	subst:pl:inst:f		
+> niewrzelowieckością	niewrzelowieckość	subst:sg:inst:f		
+> niewrzelowieckości	niewrzelowieckość	subst:pl:acc:f		
+> niewrzelowieckości	niewrzelowieckość	subst:pl:gen:f		
+> niewrzelowieckości	niewrzelowieckość	subst:pl:nom:f		
+> niewrzelowieckości	niewrzelowieckość	subst:pl:voc:f		
+> niewrzelowieckości	niewrzelowieckość	subst:sg:dat:f		
+> niewrzelowieckości	niewrzelowieckość	subst:sg:gen:f		
+> niewrzelowieckości	niewrzelowieckość	subst:sg:loc:f		
+> niewrzelowieckości	niewrzelowieckość	subst:sg:voc:f		
+> niewrzelowieckościom	niewrzelowieckość	subst:pl:dat:f		
+> niewrzelowieckość	niewrzelowieckość	subst:sg:acc:f		
+> niewrzelowieckość	niewrzelowieckość	subst:sg:nom:f		
+3105258,3105295d3105281
+< niezakoscy	niezakoski	adj:pl:nom.voc:m1:pos		
+< niezakoska	niezakoski	adj:sg:nom.voc:f:pos		
+< niezakoską	niezakoski	adj:sg:acc:f:pos		
+< niezakoską	niezakoski	adj:sg:inst:f:pos		
+< niezakoskich	niezakoski	adj:pl:acc:m1:pos		
+< niezakoskich	niezakoski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niezakoskich	niezakoski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niezakoskiego	niezakoski	adj:sg:acc:m1.m2:pos		
+< niezakoskiego	niezakoski	adj:sg:gen:m1.m2.m3.n:pos		
+< niezakoskiej	niezakoski	adj:sg:dat:f:pos		
+< niezakoskiej	niezakoski	adj:sg:gen:f:pos		
+< niezakoskiej	niezakoski	adj:sg:loc:f:pos		
+< niezakoskiemu	niezakoski	adj:sg:dat:m1.m2.m3.n:pos		
+< niezakoskie	niezakoski	adj:pl:acc:m2.m3.f.n:pos		
+< niezakoskie	niezakoski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niezakoskie	niezakoski	adj:sg:acc:n:pos		
+< niezakoskie	niezakoski	adj:sg:nom.voc:n:pos		
+< niezakoskimi	niezakoski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niezakoskim	niezakoski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niezakoskim	niezakoski	adj:sg:inst:m1.m2.m3.n:pos		
+< niezakoskim	niezakoski	adj:sg:loc:m1.m2.m3.n:pos		
+< niezakoski	niezakoski	adj:sg:acc:m3:pos		
+< niezakoski	niezakoski	adj:sg:nom.voc:m1.m2.m3:pos		
+< niezakosko	niezakosko	adv:pos		
+< niezakoskościach	niezakoskość	subst:pl:loc:f	nazwa pospolita	
+< niezakoskościami	niezakoskość	subst:pl:inst:f	nazwa pospolita	
+< niezakoskością	niezakoskość	subst:sg:inst:f	nazwa pospolita	
+< niezakoskości	niezakoskość	subst:pl:acc:f	nazwa pospolita	
+< niezakoskości	niezakoskość	subst:pl:gen:f	nazwa pospolita	
+< niezakoskości	niezakoskość	subst:pl:nom:f	nazwa pospolita	
+< niezakoskości	niezakoskość	subst:pl:voc:f	nazwa pospolita	
+< niezakoskości	niezakoskość	subst:sg:dat:f	nazwa pospolita	
+< niezakoskości	niezakoskość	subst:sg:gen:f	nazwa pospolita	
+< niezakoskości	niezakoskość	subst:sg:loc:f	nazwa pospolita	
+< niezakoskości	niezakoskość	subst:sg:voc:f	nazwa pospolita	
+< niezakoskościom	niezakoskość	subst:pl:dat:f	nazwa pospolita	
+< niezakoskość	niezakoskość	subst:sg:acc:f	nazwa pospolita	
+< niezakoskość	niezakoskość	subst:sg:nom:f	nazwa pospolita	
+3111616d3111601
+< niezapiecko	niezapiecko	adv:pos		
+3136192a3136178
+> niezgrzybiale	niezgrzybiale	adv:pos		
+3136208,3136253c3136194,3136216
+< niezgrzybiali	niezgrzybiały:a1	adj:pl:nom.voc:m1:pos		
+< niezgrzybiała	niezgrzybiały:a1	adj:sg:nom.voc:f:pos		
+< niezgrzybiałą	niezgrzybiały:a1	adj:sg:acc:f:pos		
+< niezgrzybiałą	niezgrzybiały:a1	adj:sg:inst:f:pos		
+< niezgrzybiałego	niezgrzybiały:a1	adj:sg:acc:m1.m2:pos		
+< niezgrzybiałego	niezgrzybiały:a1	adj:sg:gen:m1.m2.m3.n:pos		
+< niezgrzybiałej	niezgrzybiały:a1	adj:sg:dat:f:pos		
+< niezgrzybiałej	niezgrzybiały:a1	adj:sg:gen:f:pos		
+< niezgrzybiałej	niezgrzybiały:a1	adj:sg:loc:f:pos		
+< niezgrzybiałemu	niezgrzybiały:a1	adj:sg:dat:m1.m2.m3.n:pos		
+< niezgrzybiałe	niezgrzybiały:a1	adj:pl:acc:m2.m3.f.n:pos		
+< niezgrzybiałe	niezgrzybiały:a1	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niezgrzybiałe	niezgrzybiały:a1	adj:sg:acc:n:pos		
+< niezgrzybiałe	niezgrzybiały:a1	adj:sg:nom.voc:n:pos		
+< niezgrzybiałych	niezgrzybiały:a1	adj:pl:acc:m1:pos		
+< niezgrzybiałych	niezgrzybiały:a1	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niezgrzybiałych	niezgrzybiały:a1	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niezgrzybiałymi	niezgrzybiały:a1	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niezgrzybiałym	niezgrzybiały:a1	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niezgrzybiałym	niezgrzybiały:a1	adj:sg:inst:m1.m2.m3.n:pos		
+< niezgrzybiałym	niezgrzybiały:a1	adj:sg:loc:m1.m2.m3.n:pos		
+< niezgrzybiały	niezgrzybiały:a1	adj:sg:acc:m3:pos		
+< niezgrzybiały	niezgrzybiały:a1	adj:sg:nom.voc:m1.m2.m3:pos		
+< niezgrzybiali	niezgrzybiały:a2	adj:pl:nom.voc:m1:pos		
+< niezgrzybiała	niezgrzybiały:a2	adj:sg:nom.voc:f:pos		
+< niezgrzybiałą	niezgrzybiały:a2	adj:sg:acc:f:pos		
+< niezgrzybiałą	niezgrzybiały:a2	adj:sg:inst:f:pos		
+< niezgrzybiałego	niezgrzybiały:a2	adj:sg:acc:m1.m2:pos		
+< niezgrzybiałego	niezgrzybiały:a2	adj:sg:gen:m1.m2.m3.n:pos		
+< niezgrzybiałej	niezgrzybiały:a2	adj:sg:dat:f:pos		
+< niezgrzybiałej	niezgrzybiały:a2	adj:sg:gen:f:pos		
+< niezgrzybiałej	niezgrzybiały:a2	adj:sg:loc:f:pos		
+< niezgrzybiałemu	niezgrzybiały:a2	adj:sg:dat:m1.m2.m3.n:pos		
+< niezgrzybiałe	niezgrzybiały:a2	adj:pl:acc:m2.m3.f.n:pos		
+< niezgrzybiałe	niezgrzybiały:a2	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niezgrzybiałe	niezgrzybiały:a2	adj:sg:acc:n:pos		
+< niezgrzybiałe	niezgrzybiały:a2	adj:sg:nom.voc:n:pos		
+< niezgrzybiałych	niezgrzybiały:a2	adj:pl:acc:m1:pos		
+< niezgrzybiałych	niezgrzybiały:a2	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niezgrzybiałych	niezgrzybiały:a2	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niezgrzybiałymi	niezgrzybiały:a2	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niezgrzybiałym	niezgrzybiały:a2	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niezgrzybiałym	niezgrzybiały:a2	adj:sg:inst:m1.m2.m3.n:pos		
+< niezgrzybiałym	niezgrzybiały:a2	adj:sg:loc:m1.m2.m3.n:pos		
+< niezgrzybiały	niezgrzybiały:a2	adj:sg:acc:m3:pos		
+< niezgrzybiały	niezgrzybiały:a2	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> niezgrzybiali	niezgrzybiały	adj:pl:nom.voc:m1:pos		
+> niezgrzybiała	niezgrzybiały	adj:sg:nom.voc:f:pos		
+> niezgrzybiałą	niezgrzybiały	adj:sg:acc:f:pos		
+> niezgrzybiałą	niezgrzybiały	adj:sg:inst:f:pos		
+> niezgrzybiałego	niezgrzybiały	adj:sg:acc:m1.m2:pos		
+> niezgrzybiałego	niezgrzybiały	adj:sg:gen:m1.m2.m3.n:pos		
+> niezgrzybiałej	niezgrzybiały	adj:sg:dat:f:pos		
+> niezgrzybiałej	niezgrzybiały	adj:sg:gen:f:pos		
+> niezgrzybiałej	niezgrzybiały	adj:sg:loc:f:pos		
+> niezgrzybiałemu	niezgrzybiały	adj:sg:dat:m1.m2.m3.n:pos		
+> niezgrzybiałe	niezgrzybiały	adj:pl:acc:m2.m3.f.n:pos		
+> niezgrzybiałe	niezgrzybiały	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niezgrzybiałe	niezgrzybiały	adj:sg:acc:n:pos		
+> niezgrzybiałe	niezgrzybiały	adj:sg:nom.voc:n:pos		
+> niezgrzybiałych	niezgrzybiały	adj:pl:acc:m1:pos		
+> niezgrzybiałych	niezgrzybiały	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niezgrzybiałych	niezgrzybiały	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niezgrzybiałymi	niezgrzybiały	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niezgrzybiałym	niezgrzybiały	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niezgrzybiałym	niezgrzybiały	adj:sg:inst:m1.m2.m3.n:pos		
+> niezgrzybiałym	niezgrzybiały	adj:sg:loc:m1.m2.m3.n:pos		
+> niezgrzybiały	niezgrzybiały	adj:sg:acc:m3:pos		
+> niezgrzybiały	niezgrzybiały	adj:sg:nom.voc:m1.m2.m3:pos		
+3184130,3184169c3184093,3184099
+< nosościscy	nosościski	adj:pl:nom.voc:m1:pos		przest.
+< nosościska	nosościski	adj:sg:nom.voc:f:pos		przest.
+< nosościską	nosościski	adj:sg:acc:f:pos		przest.
+< nosościską	nosościski	adj:sg:inst:f:pos		przest.
+< nosościskich	nosościski	adj:pl:acc:m1:pos		przest.
+< nosościskich	nosościski	adj:pl:gen:m1.m2.m3.f.n:pos		przest.
+< nosościskich	nosościski	adj:pl:loc:m1.m2.m3.f.n:pos		przest.
+< nosościskiego	nosościski	adj:sg:acc:m1.m2:pos		przest.
+< nosościskiego	nosościski	adj:sg:gen:m1.m2.m3.n:pos		przest.
+< nosościskiej	nosościski	adj:sg:dat:f:pos		przest.
+< nosościskiej	nosościski	adj:sg:gen:f:pos		przest.
+< nosościskiej	nosościski	adj:sg:loc:f:pos		przest.
+< nosościskiemu	nosościski	adj:sg:dat:m1.m2.m3.n:pos		przest.
+< nosościskie	nosościski	adj:pl:acc:m2.m3.f.n:pos		przest.
+< nosościskie	nosościski	adj:pl:nom.voc:m2.m3.f.n:pos		przest.
+< nosościskie	nosościski	adj:sg:acc:n:pos		przest.
+< nosościskie	nosościski	adj:sg:nom.voc:n:pos		przest.
+< nosościskimi	nosościski	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
+< nosościskim	nosościski	adj:pl:dat:m1.m2.m3.f.n:pos		przest.
+< nosościskim	nosościski	adj:sg:inst:m1.m2.m3.n:pos		przest.
+< nosościskim	nosościski	adj:sg:loc:m1.m2.m3.n:pos		przest.
+< nosościski	nosościski	adj:sg:acc:m3:pos		przest.
+< nosościski	nosościski	adj:sg:nom.voc:m1.m2.m3:pos		przest.
+< nosościsko	nosościski	adja		przest.
+< nosościsku	nosościski	adjp		przest.
+< nosościsko	nosościsko	adv:pos		
+< nosościskościach	nosościskość	subst:pl:loc:f	nazwa pospolita	przest.
+< nosościskościami	nosościskość	subst:pl:inst:f	nazwa pospolita	przest.
+< nosościskością	nosościskość	subst:sg:inst:f	nazwa pospolita	przest.
+< nosościskości	nosościskość	subst:pl:acc:f	nazwa pospolita	przest.
+< nosościskości	nosościskość	subst:pl:gen:f	nazwa pospolita	przest.
+< nosościskości	nosościskość	subst:pl:nom:f	nazwa pospolita	przest.
+< nosościskości	nosościskość	subst:pl:voc:f	nazwa pospolita	przest.
+< nosościskości	nosościskość	subst:sg:dat:f	nazwa pospolita	przest.
+< nosościskości	nosościskość	subst:sg:gen:f	nazwa pospolita	przest.
+< nosościskości	nosościskość	subst:sg:loc:f	nazwa pospolita	przest.
+< nosościskości	nosościskość	subst:sg:voc:f	nazwa pospolita	przest.
+< nosościskościom	nosościskość	subst:pl:dat:f	nazwa pospolita	przest.
+< nosościskość	nosościskość	subst:sg:acc:f	nazwa pospolita	przest.
+< nosościskość	nosościskość	subst:sg:nom:f	nazwa pospolita	przest.
+---
+> nosościskach	nosościski	subst:pl:loc:n:pt	nazwa pospolita	przest.|żart.
+> nosościskami	nosościski	subst:pl:inst:n:pt	nazwa pospolita	przest.|żart.
+> nosościski	nosościski	subst:pl:acc:n:pt	nazwa pospolita	przest.|żart.
+> nosościski	nosościski	subst:pl:nom:n:pt	nazwa pospolita	przest.|żart.
+> nosościski	nosościski	subst:pl:voc:n:pt	nazwa pospolita	przest.|żart.
+> nosościskom	nosościski	subst:pl:dat:n:pt	nazwa pospolita	przest.|żart.
+> nosościsków	nosościski	subst:pl:gen:n:pt	nazwa pospolita	przest.|żart.
+3280622a3280553
+> obukierunkowo	obukierunkowo	adv:pos		
+3280661,3280699d3280591
+< obukierunowo	obukierunowo	adv:pos		
+< obukierunowościach	obukierunowość	subst:pl:loc:f	nazwa pospolita	
+< obukierunowościami	obukierunowość	subst:pl:inst:f	nazwa pospolita	
+< obukierunowością	obukierunowość	subst:sg:inst:f	nazwa pospolita	
+< obukierunowości	obukierunowość	subst:pl:acc:f	nazwa pospolita	
+< obukierunowości	obukierunowość	subst:pl:gen:f	nazwa pospolita	
+< obukierunowości	obukierunowość	subst:pl:nom:f	nazwa pospolita	
+< obukierunowości	obukierunowość	subst:pl:voc:f	nazwa pospolita	
+< obukierunowości	obukierunowość	subst:sg:dat:f	nazwa pospolita	
+< obukierunowości	obukierunowość	subst:sg:gen:f	nazwa pospolita	
+< obukierunowości	obukierunowość	subst:sg:loc:f	nazwa pospolita	
+< obukierunowości	obukierunowość	subst:sg:voc:f	nazwa pospolita	
+< obukierunowościom	obukierunowość	subst:pl:dat:f	nazwa pospolita	
+< obukierunowość	obukierunowość	subst:sg:acc:f	nazwa pospolita	
+< obukierunowość	obukierunowość	subst:sg:nom:f	nazwa pospolita	
+< obukierunowa	obukierunowy	adj:sg:nom.voc:f:pos		
+< obukierunową	obukierunowy	adj:sg:acc:f:pos		
+< obukierunową	obukierunowy	adj:sg:inst:f:pos		
+< obukierunowego	obukierunowy	adj:sg:acc:m1.m2:pos		
+< obukierunowego	obukierunowy	adj:sg:gen:m1.m2.m3.n:pos		
+< obukierunowej	obukierunowy	adj:sg:dat:f:pos		
+< obukierunowej	obukierunowy	adj:sg:gen:f:pos		
+< obukierunowej	obukierunowy	adj:sg:loc:f:pos		
+< obukierunowemu	obukierunowy	adj:sg:dat:m1.m2.m3.n:pos		
+< obukierunowe	obukierunowy	adj:pl:acc:m2.m3.f.n:pos		
+< obukierunowe	obukierunowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+< obukierunowe	obukierunowy	adj:sg:acc:n:pos		
+< obukierunowe	obukierunowy	adj:sg:nom.voc:n:pos		
+< obukierunowi	obukierunowy	adj:pl:nom.voc:m1:pos		
+< obukierunowo	obukierunowy	adja		
+< obukierunowych	obukierunowy	adj:pl:acc:m1:pos		
+< obukierunowych	obukierunowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+< obukierunowych	obukierunowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+< obukierunowymi	obukierunowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+< obukierunowym	obukierunowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+< obukierunowym	obukierunowy	adj:sg:inst:m1.m2.m3.n:pos		
+< obukierunowym	obukierunowy	adj:sg:loc:m1.m2.m3.n:pos		
+< obukierunowy	obukierunowy	adj:sg:acc:m3:pos		
+< obukierunowy	obukierunowy	adj:sg:nom.voc:m1.m2.m3:pos		
+3532037,3532075d3531928
+< opasanie	opasanie	adv:pos		
+< opasanościach	opasaność	subst:pl:loc:f	nazwa pospolita	
+< opasanościami	opasaność	subst:pl:inst:f	nazwa pospolita	
+< opasanością	opasaność	subst:sg:inst:f	nazwa pospolita	
+< opasanościom	opasaność	subst:pl:dat:f	nazwa pospolita	
+< opasaności	opasaność	subst:pl:acc:f	nazwa pospolita	
+< opasaności	opasaność	subst:pl:gen:f	nazwa pospolita	
+< opasaności	opasaność	subst:pl:nom:f	nazwa pospolita	
+< opasaności	opasaność	subst:pl:voc:f	nazwa pospolita	
+< opasaności	opasaność	subst:sg:dat:f	nazwa pospolita	
+< opasaności	opasaność	subst:sg:gen:f	nazwa pospolita	
+< opasaności	opasaność	subst:sg:loc:f	nazwa pospolita	
+< opasaności	opasaność	subst:sg:voc:f	nazwa pospolita	
+< opasaność	opasaność	subst:sg:acc:f	nazwa pospolita	
+< opasaność	opasaność	subst:sg:nom:f	nazwa pospolita	
+< opasana	opasany	adj:sg:nom.voc:f:pos		
+< opasaną	opasany	adj:sg:acc:f:pos		
+< opasaną	opasany	adj:sg:inst:f:pos		
+< opasanego	opasany	adj:sg:acc:m1.m2:pos		
+< opasanego	opasany	adj:sg:gen:m1.m2.m3.n:pos		
+< opasanej	opasany	adj:sg:dat:f:pos		
+< opasanej	opasany	adj:sg:gen:f:pos		
+< opasanej	opasany	adj:sg:loc:f:pos		
+< opasanemu	opasany	adj:sg:dat:m1.m2.m3.n:pos		
+< opasane	opasany	adj:pl:acc:m2.m3.f.n:pos		
+< opasane	opasany	adj:pl:nom.voc:m2.m3.f.n:pos		
+< opasane	opasany	adj:sg:acc:n:pos		
+< opasane	opasany	adj:sg:nom.voc:n:pos		
+< opasani	opasany	adj:pl:nom.voc:m1:pos		
+< opasano	opasany	adja		
+< opasanych	opasany	adj:pl:acc:m1:pos		
+< opasanych	opasany	adj:pl:gen:m1.m2.m3.f.n:pos		
+< opasanych	opasany	adj:pl:loc:m1.m2.m3.f.n:pos		
+< opasanymi	opasany	adj:pl:inst:m1.m2.m3.f.n:pos		
+< opasanym	opasany	adj:pl:dat:m1.m2.m3.f.n:pos		
+< opasanym	opasany	adj:sg:inst:m1.m2.m3.n:pos		
+< opasanym	opasany	adj:sg:loc:m1.m2.m3.n:pos		
+< opasany	opasany	adj:sg:acc:m3:pos		
+< opasany	opasany	adj:sg:nom.voc:m1.m2.m3:pos		
+3564286a3564140,3564141
+> najordynaryjniej	ordynaryjnie	adv:sup		
+> ordynaryjniej	ordynaryjnie	adv:com		
+3565505c3565360
+< orficzno	orficzno	adv:pos		
+---
+> orficznie	orficznie	adv:pos		
+3596601c3596456,3596457
+< ostatnio	ostatnio	adv:pos		
+---
+> ostatnio	ostatnio:d	adv:pos		rzad.
+> ostatnio	ostatnio:d	adv		
+3669312a3669169
+> pantagruelicznie	pantagruelicznie	adv:pos		
+3669541,3669579d3669397
+< pantegruelicznie	pantegruelicznie	adv:pos		
+< pantegruelicznościach	pantegrueliczność	subst:pl:loc:f	nazwa pospolita	
+< pantegruelicznościami	pantegrueliczność	subst:pl:inst:f	nazwa pospolita	
+< pantegruelicznością	pantegrueliczność	subst:sg:inst:f	nazwa pospolita	
+< pantegruelicznościom	pantegrueliczność	subst:pl:dat:f	nazwa pospolita	
+< pantegrueliczności	pantegrueliczność	subst:pl:acc:f	nazwa pospolita	
+< pantegrueliczności	pantegrueliczność	subst:pl:gen:f	nazwa pospolita	
+< pantegrueliczności	pantegrueliczność	subst:pl:nom:f	nazwa pospolita	
+< pantegrueliczności	pantegrueliczność	subst:pl:voc:f	nazwa pospolita	
+< pantegrueliczności	pantegrueliczność	subst:sg:dat:f	nazwa pospolita	
+< pantegrueliczności	pantegrueliczność	subst:sg:gen:f	nazwa pospolita	
+< pantegrueliczności	pantegrueliczność	subst:sg:loc:f	nazwa pospolita	
+< pantegrueliczności	pantegrueliczność	subst:sg:voc:f	nazwa pospolita	
+< pantegrueliczność	pantegrueliczność	subst:sg:acc:f	nazwa pospolita	
+< pantegrueliczność	pantegrueliczność	subst:sg:nom:f	nazwa pospolita	
+< pantegrueliczna	pantegrueliczny	adj:sg:nom.voc:f:pos		
+< pantegrueliczną	pantegrueliczny	adj:sg:acc:f:pos		
+< pantegrueliczną	pantegrueliczny	adj:sg:inst:f:pos		
+< pantegruelicznego	pantegrueliczny	adj:sg:acc:m1.m2:pos		
+< pantegruelicznego	pantegrueliczny	adj:sg:gen:m1.m2.m3.n:pos		
+< pantegruelicznej	pantegrueliczny	adj:sg:dat:f:pos		
+< pantegruelicznej	pantegrueliczny	adj:sg:gen:f:pos		
+< pantegruelicznej	pantegrueliczny	adj:sg:loc:f:pos		
+< pantegruelicznemu	pantegrueliczny	adj:sg:dat:m1.m2.m3.n:pos		
+< pantegrueliczne	pantegrueliczny	adj:pl:acc:m2.m3.f.n:pos		
+< pantegrueliczne	pantegrueliczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+< pantegrueliczne	pantegrueliczny	adj:sg:acc:n:pos		
+< pantegrueliczne	pantegrueliczny	adj:sg:nom.voc:n:pos		
+< pantegrueliczni	pantegrueliczny	adj:pl:nom.voc:m1:pos		
+< pantegrueliczno	pantegrueliczny	adja		
+< pantegruelicznych	pantegrueliczny	adj:pl:acc:m1:pos		
+< pantegruelicznych	pantegrueliczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+< pantegruelicznych	pantegrueliczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+< pantegruelicznymi	pantegrueliczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+< pantegruelicznym	pantegrueliczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+< pantegruelicznym	pantegrueliczny	adj:sg:inst:m1.m2.m3.n:pos		
+< pantegruelicznym	pantegrueliczny	adj:sg:loc:m1.m2.m3.n:pos		
+< pantegrueliczny	pantegrueliczny	adj:sg:acc:m3:pos		
+< pantegrueliczny	pantegrueliczny	adj:sg:nom.voc:m1.m2.m3:pos		
+3984630a3984449,3984450
+> najpolotniej	polotnie	adv:sup		
+> polotniej	polotnie	adv:com		
+4143076,4143090d4142895
+< potrzebnicko	potrzebnicko	adv:pos		
+< potrzebnickościach	potrzebnickość	subst:pl:loc:f	nazwa pospolita	
+< potrzebnickościami	potrzebnickość	subst:pl:inst:f	nazwa pospolita	
+< potrzebnickością	potrzebnickość	subst:sg:inst:f	nazwa pospolita	
+< potrzebnickościom	potrzebnickość	subst:pl:dat:f	nazwa pospolita	
+< potrzebnickości	potrzebnickość	subst:pl:acc:f	nazwa pospolita	
+< potrzebnickości	potrzebnickość	subst:pl:gen:f	nazwa pospolita	
+< potrzebnickości	potrzebnickość	subst:pl:nom:f	nazwa pospolita	
+< potrzebnickości	potrzebnickość	subst:pl:voc:f	nazwa pospolita	
+< potrzebnickości	potrzebnickość	subst:sg:dat:f	nazwa pospolita	
+< potrzebnickości	potrzebnickość	subst:sg:gen:f	nazwa pospolita	
+< potrzebnickości	potrzebnickość	subst:sg:loc:f	nazwa pospolita	
+< potrzebnickości	potrzebnickość	subst:sg:voc:f	nazwa pospolita	
+< potrzebnickość	potrzebnickość	subst:sg:acc:f	nazwa pospolita	
+< potrzebnickość	potrzebnickość	subst:sg:nom:f	nazwa pospolita	
+4143354,4143368d4143158
+< potrzebowsko	potrzebowsko	adv:pos		
+< potrzebowskościach	potrzebowskość	subst:pl:loc:f	nazwa pospolita	
+< potrzebowskościami	potrzebowskość	subst:pl:inst:f	nazwa pospolita	
+< potrzebowskością	potrzebowskość	subst:sg:inst:f	nazwa pospolita	
+< potrzebowskościom	potrzebowskość	subst:pl:dat:f	nazwa pospolita	
+< potrzebowskości	potrzebowskość	subst:pl:acc:f	nazwa pospolita	
+< potrzebowskości	potrzebowskość	subst:pl:gen:f	nazwa pospolita	
+< potrzebowskości	potrzebowskość	subst:pl:nom:f	nazwa pospolita	
+< potrzebowskości	potrzebowskość	subst:pl:voc:f	nazwa pospolita	
+< potrzebowskości	potrzebowskość	subst:sg:dat:f	nazwa pospolita	
+< potrzebowskości	potrzebowskość	subst:sg:gen:f	nazwa pospolita	
+< potrzebowskości	potrzebowskość	subst:sg:loc:f	nazwa pospolita	
+< potrzebowskości	potrzebowskość	subst:sg:voc:f	nazwa pospolita	
+< potrzebowskość	potrzebowskość	subst:sg:acc:f	nazwa pospolita	
+< potrzebowskość	potrzebowskość	subst:sg:nom:f	nazwa pospolita	
+4249879a4249670
+> północnie	północnie	adv:pos		
+4267221a4267013,4267026
+> prawek	prawko	subst:pl:gen:n:ncol	nazwa pospolita	pot.
+> prawkach	prawko	subst:pl:loc:n:ncol	nazwa pospolita	pot.
+> prawkami	prawko	subst:pl:inst:n:ncol	nazwa pospolita	pot.
+> prawka	prawko	subst:pl:acc:n:ncol	nazwa pospolita	pot.
+> prawka	prawko	subst:pl:nom:n:ncol	nazwa pospolita	pot.
+> prawka	prawko	subst:pl:voc:n:ncol	nazwa pospolita	pot.
+> prawka	prawko	subst:sg:gen:n:ncol	nazwa pospolita	pot.
+> prawkiem	prawko	subst:sg:inst:n:ncol	nazwa pospolita	pot.
+> prawkom	prawko	subst:pl:dat:n:ncol	nazwa pospolita	pot.
+> prawko	prawko	subst:sg:acc:n:ncol	nazwa pospolita	pot.
+> prawko	prawko	subst:sg:nom:n:ncol	nazwa pospolita	pot.
+> prawko	prawko	subst:sg:voc:n:ncol	nazwa pospolita	pot.
+> prawku	prawko	subst:sg:dat:n:ncol	nazwa pospolita	pot.
+> prawku	prawko	subst:sg:loc:n:ncol	nazwa pospolita	pot.
+4306934a4306740
+> prrru	prrru	interj		rzad.
+4310110a4309917,4309918
+> najpryncypalniej	pryncypalnie	adv:sup		
+> pryncypalniej	pryncypalnie	adv:com		
+4310435a4310244,4310245
+> najpryncypialniej	pryncypialnie	adv:sup		
+> pryncypialniej	pryncypialnie	adv:com		
+4394125,4394164c4393935,4393948
+< przekrascy	przekraski	adj:pl:nom.voc:m1:pos		
+< przekraska	przekraski	adj:sg:nom.voc:f:pos		
+< przekraską	przekraski	adj:sg:acc:f:pos		
+< przekraską	przekraski	adj:sg:inst:f:pos		
+< przekraskich	przekraski	adj:pl:acc:m1:pos		
+< przekraskich	przekraski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< przekraskich	przekraski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< przekraskiego	przekraski	adj:sg:acc:m1.m2:pos		
+< przekraskiego	przekraski	adj:sg:gen:m1.m2.m3.n:pos		
+< przekraskiej	przekraski	adj:sg:dat:f:pos		
+< przekraskiej	przekraski	adj:sg:gen:f:pos		
+< przekraskiej	przekraski	adj:sg:loc:f:pos		
+< przekraskiemu	przekraski	adj:sg:dat:m1.m2.m3.n:pos		
+< przekraskie	przekraski	adj:pl:acc:m2.m3.f.n:pos		
+< przekraskie	przekraski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< przekraskie	przekraski	adj:sg:acc:n:pos		
+< przekraskie	przekraski	adj:sg:nom.voc:n:pos		
+< przekraskimi	przekraski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< przekraskim	przekraski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< przekraskim	przekraski	adj:sg:inst:m1.m2.m3.n:pos		
+< przekraskim	przekraski	adj:sg:loc:m1.m2.m3.n:pos		
+< przekraski	przekraski	adj:sg:acc:m3:pos		
+< przekraski	przekraski	adj:sg:nom.voc:m1.m2.m3:pos		
+< przekrasko	przekraski	adja		
+< przekrasku	przekraski	adjp		
+< przekrasko	przekrasko	adv:pos		
+< przekraskościach	przekraskość	subst:pl:loc:f	nazwa pospolita	
+< przekraskościami	przekraskość	subst:pl:inst:f	nazwa pospolita	
+< przekraskością	przekraskość	subst:sg:inst:f	nazwa pospolita	
+< przekraskościom	przekraskość	subst:pl:dat:f	nazwa pospolita	
+< przekraskości	przekraskość	subst:pl:acc:f	nazwa pospolita	
+< przekraskości	przekraskość	subst:pl:gen:f	nazwa pospolita	
+< przekraskości	przekraskość	subst:pl:nom:f	nazwa pospolita	
+< przekraskości	przekraskość	subst:pl:voc:f	nazwa pospolita	
+< przekraskości	przekraskość	subst:sg:dat:f	nazwa pospolita	
+< przekraskości	przekraskość	subst:sg:gen:f	nazwa pospolita	
+< przekraskości	przekraskość	subst:sg:loc:f	nazwa pospolita	
+< przekraskości	przekraskość	subst:sg:voc:f	nazwa pospolita	
+< przekraskość	przekraskość	subst:sg:acc:f	nazwa pospolita	
+< przekraskość	przekraskość	subst:sg:nom:f	nazwa pospolita	
+---
+> przekrasek	przekrasek	subst:sg:nom:m2	nazwa pospolita	
+> przekraskach	przekrasek	subst:pl:loc:m2	nazwa pospolita	
+> przekraskami	przekrasek	subst:pl:inst:m2	nazwa pospolita	
+> przekraska	przekrasek	subst:sg:acc:m2	nazwa pospolita	
+> przekraska	przekrasek	subst:sg:gen:m2	nazwa pospolita	
+> przekraskiem	przekrasek	subst:sg:inst:m2	nazwa pospolita	
+> przekraski	przekrasek	subst:pl:acc:m2	nazwa pospolita	
+> przekraski	przekrasek	subst:pl:nom:m2	nazwa pospolita	
+> przekraski	przekrasek	subst:pl:voc:m2	nazwa pospolita	
+> przekraskom	przekrasek	subst:pl:dat:m2	nazwa pospolita	
+> przekraskowi	przekrasek	subst:sg:dat:m2	nazwa pospolita	
+> przekrasków	przekrasek	subst:pl:gen:m2	nazwa pospolita	
+> przekrasku	przekrasek	subst:sg:loc:m2	nazwa pospolita	
+> przekrasku	przekrasek	subst:sg:voc:m2	nazwa pospolita	
+4406194,4406195c4405978
+< przełomowo	przełomowo:d1	adv:pos		
+< przełomowo	przełomowo:d2	adv:pos		
+---
+> przełomowo	przełomowo	adv:pos		
+4631562a4631346,4631362
+> psychofanach	psychofan	subst:pl:loc:m1	nazwa pospolita	
+> psychofanami	psychofan	subst:pl:inst:m1	nazwa pospolita	
+> psychofana	psychofan	subst:sg:acc:m1	nazwa pospolita	
+> psychofana	psychofan	subst:sg:gen:m1	nazwa pospolita	
+> psychofanem	psychofan	subst:sg:inst:m1	nazwa pospolita	
+> psychofanie	psychofan	subst:sg:loc:m1	nazwa pospolita	
+> psychofanie	psychofan	subst:sg:voc:m1	nazwa pospolita	
+> psychofani	psychofan	subst:pl:nom:m1	nazwa pospolita	
+> psychofani	psychofan	subst:pl:voc:m1	nazwa pospolita	
+> psychofanom	psychofan	subst:pl:dat:m1	nazwa pospolita	
+> psychofanowi	psychofan	subst:sg:dat:m1	nazwa pospolita	
+> psychofanów	psychofan	subst:pl:acc:m1	nazwa pospolita	
+> psychofanów	psychofan	subst:pl:gen:m1	nazwa pospolita	
+> psychofan	psychofan	subst:sg:nom:m1	nazwa pospolita	
+> psychofany	psychofan	depr:pl:acc:m2	nazwa pospolita	
+> psychofany	psychofan	depr:pl:nom:m2	nazwa pospolita	
+> psychofany	psychofan	depr:pl:voc:m2	nazwa pospolita	
+4659501c4659301
+< radiograficzno	radiograficzno	adv:pos		
+---
+> radiograficznie	radiograficznie	adv:pos		
+4679083,4679122d4678882
+< realizatoscy	realizatoski	adj:pl:nom.voc:m1:pos		
+< realizatoska	realizatoski	adj:sg:nom.voc:f:pos		
+< realizatoską	realizatoski	adj:sg:acc:f:pos		
+< realizatoską	realizatoski	adj:sg:inst:f:pos		
+< realizatoskich	realizatoski	adj:pl:acc:m1:pos		
+< realizatoskich	realizatoski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< realizatoskich	realizatoski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< realizatoskiego	realizatoski	adj:sg:acc:m1.m2:pos		
+< realizatoskiego	realizatoski	adj:sg:gen:m1.m2.m3.n:pos		
+< realizatoskiej	realizatoski	adj:sg:dat:f:pos		
+< realizatoskiej	realizatoski	adj:sg:gen:f:pos		
+< realizatoskiej	realizatoski	adj:sg:loc:f:pos		
+< realizatoskiemu	realizatoski	adj:sg:dat:m1.m2.m3.n:pos		
+< realizatoskie	realizatoski	adj:pl:acc:m2.m3.f.n:pos		
+< realizatoskie	realizatoski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< realizatoskie	realizatoski	adj:sg:acc:n:pos		
+< realizatoskie	realizatoski	adj:sg:nom.voc:n:pos		
+< realizatoskimi	realizatoski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< realizatoskim	realizatoski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< realizatoskim	realizatoski	adj:sg:inst:m1.m2.m3.n:pos		
+< realizatoskim	realizatoski	adj:sg:loc:m1.m2.m3.n:pos		
+< realizatoski	realizatoski	adj:sg:acc:m3:pos		
+< realizatoski	realizatoski	adj:sg:nom.voc:m1.m2.m3:pos		
+< realizatosko	realizatoski	adja		
+< realizatosku	realizatoski	adjp		
+< realizatosko	realizatosko	adv:pos		
+< realizatoskościach	realizatoskość	subst:pl:loc:f	nazwa pospolita	
+< realizatoskościami	realizatoskość	subst:pl:inst:f	nazwa pospolita	
+< realizatoskością	realizatoskość	subst:sg:inst:f	nazwa pospolita	
+< realizatoskościom	realizatoskość	subst:pl:dat:f	nazwa pospolita	
+< realizatoskości	realizatoskość	subst:pl:acc:f	nazwa pospolita	
+< realizatoskości	realizatoskość	subst:pl:gen:f	nazwa pospolita	
+< realizatoskości	realizatoskość	subst:pl:nom:f	nazwa pospolita	
+< realizatoskości	realizatoskość	subst:pl:voc:f	nazwa pospolita	
+< realizatoskości	realizatoskość	subst:sg:dat:f	nazwa pospolita	
+< realizatoskości	realizatoskość	subst:sg:gen:f	nazwa pospolita	
+< realizatoskości	realizatoskość	subst:sg:loc:f	nazwa pospolita	
+< realizatoskości	realizatoskość	subst:sg:voc:f	nazwa pospolita	
+< realizatoskość	realizatoskość	subst:sg:acc:f	nazwa pospolita	
+< realizatoskość	realizatoskość	subst:sg:nom:f	nazwa pospolita	
+4693275a4693036,4693089
+> rejkiawiccy	rejkiawicki	adj:pl:nom.voc:m1:pos		
+> rejkiawicka	rejkiawicki	adj:sg:nom.voc:f:pos		
+> rejkiawicką	rejkiawicki	adj:sg:acc:f:pos		
+> rejkiawicką	rejkiawicki	adj:sg:inst:f:pos		
+> rejkiawickich	rejkiawicki	adj:pl:acc:m1:pos		
+> rejkiawickich	rejkiawicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> rejkiawickich	rejkiawicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> rejkiawickiego	rejkiawicki	adj:sg:acc:m1.m2:pos		
+> rejkiawickiego	rejkiawicki	adj:sg:gen:m1.m2.m3.n:pos		
+> rejkiawickiej	rejkiawicki	adj:sg:dat:f:pos		
+> rejkiawickiej	rejkiawicki	adj:sg:gen:f:pos		
+> rejkiawickiej	rejkiawicki	adj:sg:loc:f:pos		
+> rejkiawickiemu	rejkiawicki	adj:sg:dat:m1.m2.m3.n:pos		
+> rejkiawickie	rejkiawicki	adj:pl:acc:m2.m3.f.n:pos		
+> rejkiawickie	rejkiawicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> rejkiawickie	rejkiawicki	adj:sg:acc:n:pos		
+> rejkiawickie	rejkiawicki	adj:sg:nom.voc:n:pos		
+> rejkiawickimi	rejkiawicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> rejkiawickim	rejkiawicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> rejkiawickim	rejkiawicki	adj:sg:inst:m1.m2.m3.n:pos		
+> rejkiawickim	rejkiawicki	adj:sg:loc:m1.m2.m3.n:pos		
+> rejkiawicki	rejkiawicki	adj:sg:acc:m3:pos		
+> rejkiawicki	rejkiawicki	adj:sg:nom.voc:m1.m2.m3:pos		
+> rejkiawicko	rejkiawicki	adja		
+> rejkiawicku	rejkiawicki	adjp		
+> rejkiawicko	rejkiawicko	adv:pos		
+> rejkiawickościach	rejkiawickość	subst:pl:loc:f		
+> rejkiawickościami	rejkiawickość	subst:pl:inst:f		
+> rejkiawickością	rejkiawickość	subst:sg:inst:f		
+> rejkiawickościom	rejkiawickość	subst:pl:dat:f		
+> rejkiawickości	rejkiawickość	subst:pl:acc:f		
+> rejkiawickości	rejkiawickość	subst:pl:gen:f		
+> rejkiawickości	rejkiawickość	subst:pl:nom:f		
+> rejkiawickości	rejkiawickość	subst:pl:voc:f		
+> rejkiawickości	rejkiawickość	subst:sg:dat:f		
+> rejkiawickości	rejkiawickość	subst:sg:gen:f		
+> rejkiawickości	rejkiawickość	subst:sg:loc:f		
+> rejkiawickości	rejkiawickość	subst:sg:voc:f		
+> rejkiawickość	rejkiawickość	subst:sg:acc:f		
+> rejkiawickość	rejkiawickość	subst:sg:nom:f		
+> Rejkiawikach	Rejkiawik	subst:pl:loc:m3	nazwa geograficzna	
+> Rejkiawikami	Rejkiawik	subst:pl:inst:m3	nazwa geograficzna	
+> Rejkiawikiem	Rejkiawik	subst:sg:inst:m3	nazwa geograficzna	
+> Rejkiawiki	Rejkiawik	subst:pl:acc:m3	nazwa geograficzna	
+> Rejkiawiki	Rejkiawik	subst:pl:nom:m3	nazwa geograficzna	
+> Rejkiawiki	Rejkiawik	subst:pl:voc:m3	nazwa geograficzna	
+> Rejkiawikom	Rejkiawik	subst:pl:dat:m3	nazwa geograficzna	
+> Rejkiawikowi	Rejkiawik	subst:sg:dat:m3	nazwa geograficzna	
+> Rejkiawików	Rejkiawik	subst:pl:gen:m3	nazwa geograficzna	
+> Rejkiawik	Rejkiawik	subst:sg:acc:m3	nazwa geograficzna	
+> Rejkiawik	Rejkiawik	subst:sg:nom:m3	nazwa geograficzna	
+> Rejkiawiku	Rejkiawik	subst:sg:gen:m3	nazwa geograficzna	
+> Rejkiawiku	Rejkiawik	subst:sg:loc:m3	nazwa geograficzna	
+> Rejkiawiku	Rejkiawik	subst:sg:voc:m3	nazwa geograficzna	
+4717251a4717066,4717105
+> reykjaviccy	reykjavicki	adj:pl:nom.voc:m1:pos		
+> reykjavicka	reykjavicki	adj:sg:nom.voc:f:pos		
+> reykjavicką	reykjavicki	adj:sg:acc:f:pos		
+> reykjavicką	reykjavicki	adj:sg:inst:f:pos		
+> reykjavickich	reykjavicki	adj:pl:acc:m1:pos		
+> reykjavickich	reykjavicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> reykjavickich	reykjavicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> reykjavickiego	reykjavicki	adj:sg:acc:m1.m2:pos		
+> reykjavickiego	reykjavicki	adj:sg:gen:m1.m2.m3.n:pos		
+> reykjavickiej	reykjavicki	adj:sg:dat:f:pos		
+> reykjavickiej	reykjavicki	adj:sg:gen:f:pos		
+> reykjavickiej	reykjavicki	adj:sg:loc:f:pos		
+> reykjavickiemu	reykjavicki	adj:sg:dat:m1.m2.m3.n:pos		
+> reykjavickie	reykjavicki	adj:pl:acc:m2.m3.f.n:pos		
+> reykjavickie	reykjavicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> reykjavickie	reykjavicki	adj:sg:acc:n:pos		
+> reykjavickie	reykjavicki	adj:sg:nom.voc:n:pos		
+> reykjavickimi	reykjavicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> reykjavickim	reykjavicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> reykjavickim	reykjavicki	adj:sg:inst:m1.m2.m3.n:pos		
+> reykjavickim	reykjavicki	adj:sg:loc:m1.m2.m3.n:pos		
+> reykjavicki	reykjavicki	adj:sg:acc:m3:pos		
+> reykjavicki	reykjavicki	adj:sg:nom.voc:m1.m2.m3:pos		
+> reykjavicko	reykjavicki	adja		
+> reykjavicku	reykjavicki	adjp		
+> reykjavicko	reykjavicko	adv:pos		
+> reykjavickościach	reykjavickość	subst:pl:loc:f	nazwa pospolita	
+> reykjavickościami	reykjavickość	subst:pl:inst:f	nazwa pospolita	
+> reykjavickością	reykjavickość	subst:sg:inst:f	nazwa pospolita	
+> reykjavickościom	reykjavickość	subst:pl:dat:f	nazwa pospolita	
+> reykjavickości	reykjavickość	subst:pl:acc:f	nazwa pospolita	
+> reykjavickości	reykjavickość	subst:pl:gen:f	nazwa pospolita	
+> reykjavickości	reykjavickość	subst:pl:nom:f	nazwa pospolita	
+> reykjavickości	reykjavickość	subst:pl:voc:f	nazwa pospolita	
+> reykjavickości	reykjavickość	subst:sg:dat:f	nazwa pospolita	
+> reykjavickości	reykjavickość	subst:sg:gen:f	nazwa pospolita	
+> reykjavickości	reykjavickość	subst:sg:loc:f	nazwa pospolita	
+> reykjavickości	reykjavickość	subst:sg:voc:f	nazwa pospolita	
+> reykjavickość	reykjavickość	subst:sg:acc:f	nazwa pospolita	
+> reykjavickość	reykjavickość	subst:sg:nom:f	nazwa pospolita	
+4717266,4717305d4717119
+< reykjawiccy	reykjawicki	adj:pl:nom.voc:m1:pos		
+< reykjawicka	reykjawicki	adj:sg:nom.voc:f:pos		
+< reykjawicką	reykjawicki	adj:sg:acc:f:pos		
+< reykjawicką	reykjawicki	adj:sg:inst:f:pos		
+< reykjawickich	reykjawicki	adj:pl:acc:m1:pos		
+< reykjawickich	reykjawicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+< reykjawickich	reykjawicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+< reykjawickiego	reykjawicki	adj:sg:acc:m1.m2:pos		
+< reykjawickiego	reykjawicki	adj:sg:gen:m1.m2.m3.n:pos		
+< reykjawickiej	reykjawicki	adj:sg:dat:f:pos		
+< reykjawickiej	reykjawicki	adj:sg:gen:f:pos		
+< reykjawickiej	reykjawicki	adj:sg:loc:f:pos		
+< reykjawickiemu	reykjawicki	adj:sg:dat:m1.m2.m3.n:pos		
+< reykjawickie	reykjawicki	adj:pl:acc:m2.m3.f.n:pos		
+< reykjawickie	reykjawicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+< reykjawickie	reykjawicki	adj:sg:acc:n:pos		
+< reykjawickie	reykjawicki	adj:sg:nom.voc:n:pos		
+< reykjawickimi	reykjawicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+< reykjawickim	reykjawicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+< reykjawickim	reykjawicki	adj:sg:inst:m1.m2.m3.n:pos		
+< reykjawickim	reykjawicki	adj:sg:loc:m1.m2.m3.n:pos		
+< reykjawicki	reykjawicki	adj:sg:acc:m3:pos		
+< reykjawicki	reykjawicki	adj:sg:nom.voc:m1.m2.m3:pos		
+< reykjawicko	reykjawicki	adja		
+< reykjawicku	reykjawicki	adjp		
+< reykjawicko	reykjawicko	adv:pos		
+< reykjawickościach	reykjawickość	subst:pl:loc:f	nazwa pospolita	
+< reykjawickościami	reykjawickość	subst:pl:inst:f	nazwa pospolita	
+< reykjawickością	reykjawickość	subst:sg:inst:f	nazwa pospolita	
+< reykjawickościom	reykjawickość	subst:pl:dat:f	nazwa pospolita	
+< reykjawickości	reykjawickość	subst:pl:acc:f	nazwa pospolita	
+< reykjawickości	reykjawickość	subst:pl:gen:f	nazwa pospolita	
+< reykjawickości	reykjawickość	subst:pl:nom:f	nazwa pospolita	
+< reykjawickości	reykjawickość	subst:pl:voc:f	nazwa pospolita	
+< reykjawickości	reykjawickość	subst:sg:dat:f	nazwa pospolita	
+< reykjawickości	reykjawickość	subst:sg:gen:f	nazwa pospolita	
+< reykjawickości	reykjawickość	subst:sg:loc:f	nazwa pospolita	
+< reykjawickości	reykjawickość	subst:sg:voc:f	nazwa pospolita	
+< reykjawickość	reykjawickość	subst:sg:acc:f	nazwa pospolita	
+< reykjawickość	reykjawickość	subst:sg:nom:f	nazwa pospolita	
+4756067a4755882,4755883
+> najrozciąglej	rozciągle	adv:sup		
+> rozciąglej	rozciągle	adv:com		
+4756170,4756192c4755986,4756031
+< najroziąglejsi	rozciągły	adj:pl:nom.voc:m1:sup		daw.|rzad.
+< najroziąglejsza	rozciągły	adj:sg:nom.voc:f:sup		daw.|rzad.
+< najroziąglejszą	rozciągły	adj:sg:acc:f:sup		daw.|rzad.
+< najroziąglejszą	rozciągły	adj:sg:inst:f:sup		daw.|rzad.
+< najroziąglejszego	rozciągły	adj:sg:acc:m1.m2:sup		daw.|rzad.
+< najroziąglejszego	rozciągły	adj:sg:gen:m1.m2.m3.n:sup		daw.|rzad.
+< najroziąglejszej	rozciągły	adj:sg:dat:f:sup		daw.|rzad.
+< najroziąglejszej	rozciągły	adj:sg:gen:f:sup		daw.|rzad.
+< najroziąglejszej	rozciągły	adj:sg:loc:f:sup		daw.|rzad.
+< najroziąglejszemu	rozciągły	adj:sg:dat:m1.m2.m3.n:sup		daw.|rzad.
+< najroziąglejsze	rozciągły	adj:pl:acc:m2.m3.f.n:sup		daw.|rzad.
+< najroziąglejsze	rozciągły	adj:pl:nom.voc:m2.m3.f.n:sup		daw.|rzad.
+< najroziąglejsze	rozciągły	adj:sg:acc:n:sup		daw.|rzad.
+< najroziąglejsze	rozciągły	adj:sg:nom.voc:n:sup		daw.|rzad.
+< najroziąglejszych	rozciągły	adj:pl:acc:m1:sup		daw.|rzad.
+< najroziąglejszych	rozciągły	adj:pl:gen:m1.m2.m3.f.n:sup		daw.|rzad.
+< najroziąglejszych	rozciągły	adj:pl:loc:m1.m2.m3.f.n:sup		daw.|rzad.
+< najroziąglejszymi	rozciągły	adj:pl:inst:m1.m2.m3.f.n:sup		daw.|rzad.
+< najroziąglejszym	rozciągły	adj:pl:dat:m1.m2.m3.f.n:sup		daw.|rzad.
+< najroziąglejszym	rozciągły	adj:sg:inst:m1.m2.m3.n:sup		daw.|rzad.
+< najroziąglejszym	rozciągły	adj:sg:loc:m1.m2.m3.n:sup		daw.|rzad.
+< najroziąglejszy	rozciągły	adj:sg:acc:m3:sup		daw.|rzad.
+< najroziąglejszy	rozciągły	adj:sg:nom.voc:m1.m2.m3:sup		daw.|rzad.
+---
+> najrozciąglejsi	rozciągły	adj:pl:nom.voc:m1:sup		daw.|rzad.
+> najrozciąglejsza	rozciągły	adj:sg:nom.voc:f:sup		daw.|rzad.
+> najrozciąglejszą	rozciągły	adj:sg:acc:f:sup		daw.|rzad.
+> najrozciąglejszą	rozciągły	adj:sg:inst:f:sup		daw.|rzad.
+> najrozciąglejszego	rozciągły	adj:sg:acc:m1.m2:sup		daw.|rzad.
+> najrozciąglejszego	rozciągły	adj:sg:gen:m1.m2.m3.n:sup		daw.|rzad.
+> najrozciąglejszej	rozciągły	adj:sg:dat:f:sup		daw.|rzad.
+> najrozciąglejszej	rozciągły	adj:sg:gen:f:sup		daw.|rzad.
+> najrozciąglejszej	rozciągły	adj:sg:loc:f:sup		daw.|rzad.
+> najrozciąglejszemu	rozciągły	adj:sg:dat:m1.m2.m3.n:sup		daw.|rzad.
+> najrozciąglejsze	rozciągły	adj:pl:acc:m2.m3.f.n:sup		daw.|rzad.
+> najrozciąglejsze	rozciągły	adj:pl:nom.voc:m2.m3.f.n:sup		daw.|rzad.
+> najrozciąglejsze	rozciągły	adj:sg:acc:n:sup		daw.|rzad.
+> najrozciąglejsze	rozciągły	adj:sg:nom.voc:n:sup		daw.|rzad.
+> najrozciąglejszych	rozciągły	adj:pl:acc:m1:sup		daw.|rzad.
+> najrozciąglejszych	rozciągły	adj:pl:gen:m1.m2.m3.f.n:sup		daw.|rzad.
+> najrozciąglejszych	rozciągły	adj:pl:loc:m1.m2.m3.f.n:sup		daw.|rzad.
+> najrozciąglejszymi	rozciągły	adj:pl:inst:m1.m2.m3.f.n:sup		daw.|rzad.
+> najrozciąglejszym	rozciągły	adj:pl:dat:m1.m2.m3.f.n:sup		daw.|rzad.
+> najrozciąglejszym	rozciągły	adj:sg:inst:m1.m2.m3.n:sup		daw.|rzad.
+> najrozciąglejszym	rozciągły	adj:sg:loc:m1.m2.m3.n:sup		daw.|rzad.
+> najrozciąglejszy	rozciągły	adj:sg:acc:m3:sup		daw.|rzad.
+> najrozciąglejszy	rozciągły	adj:sg:nom.voc:m1.m2.m3:sup		daw.|rzad.
+> rozciąglejsi	rozciągły	adj:pl:nom.voc:m1:com		daw.|rzad.
+> rozciąglejsza	rozciągły	adj:sg:nom.voc:f:com		daw.|rzad.
+> rozciąglejszą	rozciągły	adj:sg:acc:f:com		daw.|rzad.
+> rozciąglejszą	rozciągły	adj:sg:inst:f:com		daw.|rzad.
+> rozciąglejszego	rozciągły	adj:sg:acc:m1.m2:com		daw.|rzad.
+> rozciąglejszego	rozciągły	adj:sg:gen:m1.m2.m3.n:com		daw.|rzad.
+> rozciąglejszej	rozciągły	adj:sg:dat:f:com		daw.|rzad.
+> rozciąglejszej	rozciągły	adj:sg:gen:f:com		daw.|rzad.
+> rozciąglejszej	rozciągły	adj:sg:loc:f:com		daw.|rzad.
+> rozciąglejszemu	rozciągły	adj:sg:dat:m1.m2.m3.n:com		daw.|rzad.
+> rozciąglejsze	rozciągły	adj:pl:acc:m2.m3.f.n:com		daw.|rzad.
+> rozciąglejsze	rozciągły	adj:pl:nom.voc:m2.m3.f.n:com		daw.|rzad.
+> rozciąglejsze	rozciągły	adj:sg:acc:n:com		daw.|rzad.
+> rozciąglejsze	rozciągły	adj:sg:nom.voc:n:com		daw.|rzad.
+> rozciąglejszych	rozciągły	adj:pl:acc:m1:com		daw.|rzad.
+> rozciąglejszych	rozciągły	adj:pl:gen:m1.m2.m3.f.n:com		daw.|rzad.
+> rozciąglejszych	rozciągły	adj:pl:loc:m1.m2.m3.f.n:com		daw.|rzad.
+> rozciąglejszymi	rozciągły	adj:pl:inst:m1.m2.m3.f.n:com		daw.|rzad.
+> rozciąglejszym	rozciągły	adj:pl:dat:m1.m2.m3.f.n:com		daw.|rzad.
+> rozciąglejszym	rozciągły	adj:sg:inst:m1.m2.m3.n:com		daw.|rzad.
+> rozciąglejszym	rozciągły	adj:sg:loc:m1.m2.m3.n:com		daw.|rzad.
+> rozciąglejszy	rozciągły	adj:sg:acc:m3:com		daw.|rzad.
+> rozciąglejszy	rozciągły	adj:sg:nom.voc:m1.m2.m3:com		daw.|rzad.
+4756217,4756239d4756055
+< roziąglejsi	rozciągły	adj:pl:nom.voc:m1:com		daw.|rzad.
+< roziąglejsza	rozciągły	adj:sg:nom.voc:f:com		daw.|rzad.
+< roziąglejszą	rozciągły	adj:sg:acc:f:com		daw.|rzad.
+< roziąglejszą	rozciągły	adj:sg:inst:f:com		daw.|rzad.
+< roziąglejszego	rozciągły	adj:sg:acc:m1.m2:com		daw.|rzad.
+< roziąglejszego	rozciągły	adj:sg:gen:m1.m2.m3.n:com		daw.|rzad.
+< roziąglejszej	rozciągły	adj:sg:dat:f:com		daw.|rzad.
+< roziąglejszej	rozciągły	adj:sg:gen:f:com		daw.|rzad.
+< roziąglejszej	rozciągły	adj:sg:loc:f:com		daw.|rzad.
+< roziąglejszemu	rozciągły	adj:sg:dat:m1.m2.m3.n:com		daw.|rzad.
+< roziąglejsze	rozciągły	adj:pl:acc:m2.m3.f.n:com		daw.|rzad.
+< roziąglejsze	rozciągły	adj:pl:nom.voc:m2.m3.f.n:com		daw.|rzad.
+< roziąglejsze	rozciągły	adj:sg:acc:n:com		daw.|rzad.
+< roziąglejsze	rozciągły	adj:sg:nom.voc:n:com		daw.|rzad.
+< roziąglejszych	rozciągły	adj:pl:acc:m1:com		daw.|rzad.
+< roziąglejszych	rozciągły	adj:pl:gen:m1.m2.m3.f.n:com		daw.|rzad.
+< roziąglejszych	rozciągły	adj:pl:loc:m1.m2.m3.f.n:com		daw.|rzad.
+< roziąglejszymi	rozciągły	adj:pl:inst:m1.m2.m3.f.n:com		daw.|rzad.
+< roziąglejszym	rozciągły	adj:pl:dat:m1.m2.m3.f.n:com		daw.|rzad.
+< roziąglejszym	rozciągły	adj:sg:inst:m1.m2.m3.n:com		daw.|rzad.
+< roziąglejszym	rozciągły	adj:sg:loc:m1.m2.m3.n:com		daw.|rzad.
+< roziąglejszy	rozciągły	adj:sg:acc:m3:com		daw.|rzad.
+< roziąglejszy	rozciągły	adj:sg:nom.voc:m1.m2.m3:com		daw.|rzad.
+4929067c4928883
+< równoległoboczno	równoległoboczno	adv:pos		
+---
+> równoległobocznie	równoległobocznie	adv:pos		
+5103974a5103791
+> skórnie	skórnie	adv:pos		
+5104051d5103867
+< skórno	skórno	adv:pos		
+5104536a5104353,5104359
+> skórzniach	skórznie	subst:pl:loc:n:pt	nazwa pospolita	
+> skórzniami	skórznie	subst:pl:inst:n:pt	nazwa pospolita	
+> skórznie	skórznie	subst:pl:acc:n:pt	nazwa pospolita	
+> skórznie	skórznie	subst:pl:nom:n:pt	nazwa pospolita	
+> skórznie	skórznie	subst:pl:voc:n:pt	nazwa pospolita	
+> skórzniom	skórznie	subst:pl:dat:n:pt	nazwa pospolita	
+> skórzni	skórznie	subst:pl:gen:n:pt	nazwa pospolita	
+5153078c5152901
+< socjometryczno	socjometryczno	adv:pos		
+---
+> socjometrycznie	socjometrycznie	adv:pos		
+5195035a5194859
+> spłowiale	spłowiale	adv:pos		
+5215246,5215270c5215070,5215094
+< spóźnialscy	spóźnialski:a	adj:pl:nom.voc:m1:pos		
+< spóźnialska	spóźnialski:a	adj:sg:nom.voc:f:pos		
+< spóźnialską	spóźnialski:a	adj:sg:acc:f:pos		
+< spóźnialską	spóźnialski:a	adj:sg:inst:f:pos		
+< spóźnialskich	spóźnialski:a	adj:pl:acc:m1:pos		
+< spóźnialskich	spóźnialski:a	adj:pl:gen:m1.m2.m3.f.n:pos		
+< spóźnialskich	spóźnialski:a	adj:pl:loc:m1.m2.m3.f.n:pos		
+< spóźnialskiego	spóźnialski:a	adj:sg:acc:m1.m2:pos		
+< spóźnialskiego	spóźnialski:a	adj:sg:gen:m1.m2.m3.n:pos		
+< spóźnialskiej	spóźnialski:a	adj:sg:dat:f:pos		
+< spóźnialskiej	spóźnialski:a	adj:sg:gen:f:pos		
+< spóźnialskiej	spóźnialski:a	adj:sg:loc:f:pos		
+< spóźnialskiemu	spóźnialski:a	adj:sg:dat:m1.m2.m3.n:pos		
+< spóźnialskie	spóźnialski:a	adj:pl:acc:m2.m3.f.n:pos		
+< spóźnialskie	spóźnialski:a	adj:pl:nom.voc:m2.m3.f.n:pos		
+< spóźnialskie	spóźnialski:a	adj:sg:acc:n:pos		
+< spóźnialskie	spóźnialski:a	adj:sg:nom.voc:n:pos		
+< spóźnialskimi	spóźnialski:a	adj:pl:inst:m1.m2.m3.f.n:pos		
+< spóźnialskim	spóźnialski:a	adj:pl:dat:m1.m2.m3.f.n:pos		
+< spóźnialskim	spóźnialski:a	adj:sg:inst:m1.m2.m3.n:pos		
+< spóźnialskim	spóźnialski:a	adj:sg:loc:m1.m2.m3.n:pos		
+< spóźnialski	spóźnialski:a	adj:sg:acc:m3:pos		
+< spóźnialski	spóźnialski:a	adj:sg:nom.voc:m1.m2.m3:pos		
+< spóźnialsko	spóźnialski:a	adja		
+< spóźnialsku	spóźnialski:a	adjp		
+---
+> spóźnialscy	spóźnialski:a	adj:pl:nom.voc:m1:pos		rzad.
+> spóźnialska	spóźnialski:a	adj:sg:nom.voc:f:pos		rzad.
+> spóźnialską	spóźnialski:a	adj:sg:acc:f:pos		rzad.
+> spóźnialską	spóźnialski:a	adj:sg:inst:f:pos		rzad.
+> spóźnialskich	spóźnialski:a	adj:pl:acc:m1:pos		rzad.
+> spóźnialskich	spóźnialski:a	adj:pl:gen:m1.m2.m3.f.n:pos		rzad.
+> spóźnialskich	spóźnialski:a	adj:pl:loc:m1.m2.m3.f.n:pos		rzad.
+> spóźnialskiego	spóźnialski:a	adj:sg:acc:m1.m2:pos		rzad.
+> spóźnialskiego	spóźnialski:a	adj:sg:gen:m1.m2.m3.n:pos		rzad.
+> spóźnialskiej	spóźnialski:a	adj:sg:dat:f:pos		rzad.
+> spóźnialskiej	spóźnialski:a	adj:sg:gen:f:pos		rzad.
+> spóźnialskiej	spóźnialski:a	adj:sg:loc:f:pos		rzad.
+> spóźnialskiemu	spóźnialski:a	adj:sg:dat:m1.m2.m3.n:pos		rzad.
+> spóźnialskie	spóźnialski:a	adj:pl:acc:m2.m3.f.n:pos		rzad.
+> spóźnialskie	spóźnialski:a	adj:pl:nom.voc:m2.m3.f.n:pos		rzad.
+> spóźnialskie	spóźnialski:a	adj:sg:acc:n:pos		rzad.
+> spóźnialskie	spóźnialski:a	adj:sg:nom.voc:n:pos		rzad.
+> spóźnialskimi	spóźnialski:a	adj:pl:inst:m1.m2.m3.f.n:pos		rzad.
+> spóźnialskim	spóźnialski:a	adj:pl:dat:m1.m2.m3.f.n:pos		rzad.
+> spóźnialskim	spóźnialski:a	adj:sg:inst:m1.m2.m3.n:pos		rzad.
+> spóźnialskim	spóźnialski:a	adj:sg:loc:m1.m2.m3.n:pos		rzad.
+> spóźnialski	spóźnialski:a	adj:sg:acc:m3:pos		rzad.
+> spóźnialski	spóźnialski:a	adj:sg:nom.voc:m1.m2.m3:pos		rzad.
+> spóźnialsko	spóźnialski:a	adja		rzad.
+> spóźnialsku	spóźnialski:a	adjp		rzad.
+5242282c5242106
+< stanowo	stanowo	adv:pos		
+---
+> stanowo	stanowo	adv:pos		rzad.
+5258068c5257892
+< stereometryczno	stereometryczno	adv:pos		
+---
+> stereometrycznie	stereometrycznie	adv:pos		
+5280011,5280025c5279835,5279849
+< stróżach	stróża	subst:pl:loc:f	nazwa pospolita	
+< stróżami	stróża	subst:pl:inst:f	nazwa pospolita	
+< stróża	stróża	subst:sg:nom:f	nazwa pospolita	
+< stróżą	stróża	subst:sg:inst:f	nazwa pospolita	
+< stróże	stróża	subst:pl:acc:f	nazwa pospolita	
+< stróże	stróża	subst:pl:nom:f	nazwa pospolita	
+< stróże	stróża	subst:pl:voc:f	nazwa pospolita	
+< stróżę	stróża	subst:sg:acc:f	nazwa pospolita	
+< stróżom	stróża	subst:pl:dat:f	nazwa pospolita	
+< stróżo	stróża	subst:sg:voc:f	nazwa pospolita	
+< stróż	stróża	subst:pl:gen:f	nazwa pospolita	char.
+< stróży	stróża	subst:pl:gen:f	nazwa pospolita	hom.
+< stróży	stróża	subst:sg:dat:f	nazwa pospolita	
+< stróży	stróża	subst:sg:gen:f	nazwa pospolita	
+< stróży	stróża	subst:sg:loc:f	nazwa pospolita	
+---
+> stróżach	stróża	subst:pl:loc:f	nazwa pospolita	hist.
+> stróżami	stróża	subst:pl:inst:f	nazwa pospolita	hist.
+> stróża	stróża	subst:sg:nom:f	nazwa pospolita	hist.
+> stróżą	stróża	subst:sg:inst:f	nazwa pospolita	hist.
+> stróże	stróża	subst:pl:acc:f	nazwa pospolita	hist.
+> stróże	stróża	subst:pl:nom:f	nazwa pospolita	hist.
+> stróże	stróża	subst:pl:voc:f	nazwa pospolita	hist.
+> stróżę	stróża	subst:sg:acc:f	nazwa pospolita	hist.
+> stróżom	stróża	subst:pl:dat:f	nazwa pospolita	hist.
+> stróżo	stróża	subst:sg:voc:f	nazwa pospolita	hist.
+> stróż	stróża	subst:pl:gen:f	nazwa pospolita	char.|hist.
+> stróży	stróża	subst:pl:gen:f	nazwa pospolita	hom.|hist.
+> stróży	stróża	subst:sg:dat:f	nazwa pospolita	hist.
+> stróży	stróża	subst:sg:gen:f	nazwa pospolita	hist.
+> stróży	stróża	subst:sg:loc:f	nazwa pospolita	hist.
+5311155a5310980
+> superaśnie	superaśnie	adv:pos		rzad.
+5322575a5322401
+> syfiaście	syfiaście	adv:pos		
+5365926a5365753,5365791
+> szesnastokrotnie	szesnastokrotnie	adv:pos		
+> szesnastokrotnościach	szesnastokrotność	subst:pl:loc:f		
+> szesnastokrotnościami	szesnastokrotność	subst:pl:inst:f		
+> szesnastokrotnością	szesnastokrotność	subst:sg:inst:f		
+> szesnastokrotnościom	szesnastokrotność	subst:pl:dat:f		
+> szesnastokrotności	szesnastokrotność	subst:pl:acc:f		
+> szesnastokrotności	szesnastokrotność	subst:pl:gen:f		
+> szesnastokrotności	szesnastokrotność	subst:pl:nom:f		
+> szesnastokrotności	szesnastokrotność	subst:pl:voc:f		
+> szesnastokrotności	szesnastokrotność	subst:sg:dat:f		
+> szesnastokrotności	szesnastokrotność	subst:sg:gen:f		
+> szesnastokrotności	szesnastokrotność	subst:sg:loc:f		
+> szesnastokrotności	szesnastokrotność	subst:sg:voc:f		
+> szesnastokrotność	szesnastokrotność	subst:sg:acc:f		
+> szesnastokrotność	szesnastokrotność	subst:sg:nom:f		
+> szesnastokrotna	szesnastokrotny	adj:sg:nom.voc:f:pos		
+> szesnastokrotną	szesnastokrotny	adj:sg:acc:f:pos		
+> szesnastokrotną	szesnastokrotny	adj:sg:inst:f:pos		
+> szesnastokrotnego	szesnastokrotny	adj:sg:acc:m1.m2:pos		
+> szesnastokrotnego	szesnastokrotny	adj:sg:gen:m1.m2.m3.n:pos		
+> szesnastokrotnej	szesnastokrotny	adj:sg:dat:f:pos		
+> szesnastokrotnej	szesnastokrotny	adj:sg:gen:f:pos		
+> szesnastokrotnej	szesnastokrotny	adj:sg:loc:f:pos		
+> szesnastokrotnemu	szesnastokrotny	adj:sg:dat:m1.m2.m3.n:pos		
+> szesnastokrotne	szesnastokrotny	adj:pl:acc:m2.m3.f.n:pos		
+> szesnastokrotne	szesnastokrotny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> szesnastokrotne	szesnastokrotny	adj:sg:acc:n:pos		
+> szesnastokrotne	szesnastokrotny	adj:sg:nom.voc:n:pos		
+> szesnastokrotni	szesnastokrotny	adj:pl:nom.voc:m1:pos		
+> szesnastokrotno	szesnastokrotny	adja		
+> szesnastokrotnych	szesnastokrotny	adj:pl:acc:m1:pos		
+> szesnastokrotnych	szesnastokrotny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> szesnastokrotnych	szesnastokrotny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> szesnastokrotnymi	szesnastokrotny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> szesnastokrotnym	szesnastokrotny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> szesnastokrotnym	szesnastokrotny	adj:sg:inst:m1.m2.m3.n:pos		
+> szesnastokrotnym	szesnastokrotny	adj:sg:loc:m1.m2.m3.n:pos		
+> szesnastokrotny	szesnastokrotny	adj:sg:acc:m3:pos		
+> szesnastokrotny	szesnastokrotny	adj:sg:nom.voc:m1.m2.m3:pos		
+5415104d5414968
+< ściernie	ściernie	adv:pos		daw.
+5436494a5436359
+> światle	światle	adv:pos		rzad.
+5445166,5445190c5445031,5445070
+< świętoszkowscy	świętoszkowski	adj:pl:nom.voc:m1:pos		
+< świętoszkowska	świętoszkowski	adj:sg:nom.voc:f:pos		
+< świętoszkowską	świętoszkowski	adj:sg:acc:f:pos		
+< świętoszkowską	świętoszkowski	adj:sg:inst:f:pos		
+< świętoszkowskich	świętoszkowski	adj:pl:acc:m1:pos		
+< świętoszkowskich	świętoszkowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< świętoszkowskich	świętoszkowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< świętoszkowskiego	świętoszkowski	adj:sg:acc:m1.m2:pos		
+< świętoszkowskiego	świętoszkowski	adj:sg:gen:m1.m2.m3.n:pos		
+< świętoszkowskiej	świętoszkowski	adj:sg:dat:f:pos		
+< świętoszkowskiej	świętoszkowski	adj:sg:gen:f:pos		
+< świętoszkowskiej	świętoszkowski	adj:sg:loc:f:pos		
+< świętoszkowskiemu	świętoszkowski	adj:sg:dat:m1.m2.m3.n:pos		
+< świętoszkowskie	świętoszkowski	adj:pl:acc:m2.m3.f.n:pos		
+< świętoszkowskie	świętoszkowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< świętoszkowskie	świętoszkowski	adj:sg:acc:n:pos		
+< świętoszkowskie	świętoszkowski	adj:sg:nom.voc:n:pos		
+< świętoszkowskimi	świętoszkowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< świętoszkowskim	świętoszkowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< świętoszkowskim	świętoszkowski	adj:sg:inst:m1.m2.m3.n:pos		
+< świętoszkowskim	świętoszkowski	adj:sg:loc:m1.m2.m3.n:pos		
+< świętoszkowski	świętoszkowski	adj:sg:acc:m3:pos		
+< świętoszkowski	świętoszkowski	adj:sg:nom.voc:m1.m2.m3:pos		
+< świętoszkowsko	świętoszkowski	adja		
+< świętoszkowsku	świętoszkowski	adjp		
+---
+> świętoszkowo	świętoszkowo	adv:pos		
+> świętoszkowościach	świętoszkowość	subst:pl:loc:f		
+> świętoszkowościami	świętoszkowość	subst:pl:inst:f		
+> świętoszkowością	świętoszkowość	subst:sg:inst:f		
+> świętoszkowościom	świętoszkowość	subst:pl:dat:f		
+> świętoszkowości	świętoszkowość	subst:pl:acc:f		
+> świętoszkowości	świętoszkowość	subst:pl:gen:f		
+> świętoszkowości	świętoszkowość	subst:pl:nom:f		
+> świętoszkowości	świętoszkowość	subst:pl:voc:f		
+> świętoszkowości	świętoszkowość	subst:sg:dat:f		
+> świętoszkowości	świętoszkowość	subst:sg:gen:f		
+> świętoszkowości	świętoszkowość	subst:sg:loc:f		
+> świętoszkowości	świętoszkowość	subst:sg:voc:f		
+> świętoszkowość	świętoszkowość	subst:sg:acc:f		
+> świętoszkowość	świętoszkowość	subst:sg:nom:f		
+> świętoszkowscy	świętoszkowski	adj:pl:nom.voc:m1:pos		rzad.
+> świętoszkowska	świętoszkowski	adj:sg:nom.voc:f:pos		rzad.
+> świętoszkowską	świętoszkowski	adj:sg:acc:f:pos		rzad.
+> świętoszkowską	świętoszkowski	adj:sg:inst:f:pos		rzad.
+> świętoszkowskich	świętoszkowski	adj:pl:acc:m1:pos		rzad.
+> świętoszkowskich	świętoszkowski	adj:pl:gen:m1.m2.m3.f.n:pos		rzad.
+> świętoszkowskich	świętoszkowski	adj:pl:loc:m1.m2.m3.f.n:pos		rzad.
+> świętoszkowskiego	świętoszkowski	adj:sg:acc:m1.m2:pos		rzad.
+> świętoszkowskiego	świętoszkowski	adj:sg:gen:m1.m2.m3.n:pos		rzad.
+> świętoszkowskiej	świętoszkowski	adj:sg:dat:f:pos		rzad.
+> świętoszkowskiej	świętoszkowski	adj:sg:gen:f:pos		rzad.
+> świętoszkowskiej	świętoszkowski	adj:sg:loc:f:pos		rzad.
+> świętoszkowskiemu	świętoszkowski	adj:sg:dat:m1.m2.m3.n:pos		rzad.
+> świętoszkowskie	świętoszkowski	adj:pl:acc:m2.m3.f.n:pos		rzad.
+> świętoszkowskie	świętoszkowski	adj:pl:nom.voc:m2.m3.f.n:pos		rzad.
+> świętoszkowskie	świętoszkowski	adj:sg:acc:n:pos		rzad.
+> świętoszkowskie	świętoszkowski	adj:sg:nom.voc:n:pos		rzad.
+> świętoszkowskimi	świętoszkowski	adj:pl:inst:m1.m2.m3.f.n:pos		rzad.
+> świętoszkowskim	świętoszkowski	adj:pl:dat:m1.m2.m3.f.n:pos		rzad.
+> świętoszkowskim	świętoszkowski	adj:sg:inst:m1.m2.m3.n:pos		rzad.
+> świętoszkowskim	świętoszkowski	adj:sg:loc:m1.m2.m3.n:pos		rzad.
+> świętoszkowski	świętoszkowski	adj:sg:acc:m3:pos		rzad.
+> świętoszkowski	świętoszkowski	adj:sg:nom.voc:m1.m2.m3:pos		rzad.
+> świętoszkowsko	świętoszkowski	adja		rzad.
+> świętoszkowsku	świętoszkowski	adjp		rzad.
+5445205a5445086,5445109
+> świętoszkowa	świętoszkowy	adj:sg:nom.voc:f:pos		
+> świętoszkową	świętoszkowy	adj:sg:acc:f:pos		
+> świętoszkową	świętoszkowy	adj:sg:inst:f:pos		
+> świętoszkowego	świętoszkowy	adj:sg:acc:m1.m2:pos		
+> świętoszkowego	świętoszkowy	adj:sg:gen:m1.m2.m3.n:pos		
+> świętoszkowej	świętoszkowy	adj:sg:dat:f:pos		
+> świętoszkowej	świętoszkowy	adj:sg:gen:f:pos		
+> świętoszkowej	świętoszkowy	adj:sg:loc:f:pos		
+> świętoszkowemu	świętoszkowy	adj:sg:dat:m1.m2.m3.n:pos		
+> świętoszkowe	świętoszkowy	adj:pl:acc:m2.m3.f.n:pos		
+> świętoszkowe	świętoszkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> świętoszkowe	świętoszkowy	adj:sg:acc:n:pos		
+> świętoszkowe	świętoszkowy	adj:sg:nom.voc:n:pos		
+> świętoszkowi	świętoszkowy	adj:pl:nom.voc:m1:pos		
+> świętoszkowo	świętoszkowy	adja		
+> świętoszkowych	świętoszkowy	adj:pl:acc:m1:pos		
+> świętoszkowych	świętoszkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> świętoszkowych	świętoszkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> świętoszkowymi	świętoszkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> świętoszkowym	świętoszkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> świętoszkowym	świętoszkowy	adj:sg:inst:m1.m2.m3.n:pos		
+> świętoszkowym	świętoszkowy	adj:sg:loc:m1.m2.m3.n:pos		
+> świętoszkowy	świętoszkowy	adj:sg:acc:m3:pos		
+> świętoszkowy	świętoszkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+5511013,5511068c5510917,5510972
+< totumfacka	totumfacka	subst:sg:nom:f	nazwa pospolita	
+< totumfacka	totumfacka	subst:sg:voc:f	nazwa pospolita	
+< totumfacką	totumfacka	subst:sg:acc:f	nazwa pospolita	
+< totumfacką	totumfacka	subst:sg:inst:f	nazwa pospolita	
+< totumfackich	totumfacka	subst:pl:gen:f	nazwa pospolita	
+< totumfackich	totumfacka	subst:pl:loc:f	nazwa pospolita	
+< totumfackiej	totumfacka	subst:sg:dat:f	nazwa pospolita	
+< totumfackiej	totumfacka	subst:sg:gen:f	nazwa pospolita	
+< totumfackiej	totumfacka	subst:sg:loc:f	nazwa pospolita	
+< totumfackie	totumfacka	subst:pl:acc:f	nazwa pospolita	
+< totumfackie	totumfacka	subst:pl:nom:f	nazwa pospolita	
+< totumfackie	totumfacka	subst:pl:voc:f	nazwa pospolita	
+< totumfackimi	totumfacka	subst:pl:inst:f	nazwa pospolita	
+< totumfackim	totumfacka	subst:pl:dat:f	nazwa pospolita	
+< totumfaccy	totumfacki:a	adj:pl:nom.voc:m1:pos		
+< totumfacka	totumfacki:a	adj:sg:nom.voc:f:pos		
+< totumfacką	totumfacki:a	adj:sg:acc:f:pos		
+< totumfacką	totumfacki:a	adj:sg:inst:f:pos		
+< totumfackich	totumfacki:a	adj:pl:acc:m1:pos		
+< totumfackich	totumfacki:a	adj:pl:gen:m1.m2.m3.f.n:pos		
+< totumfackich	totumfacki:a	adj:pl:loc:m1.m2.m3.f.n:pos		
+< totumfackiego	totumfacki:a	adj:sg:acc:m1.m2:pos		
+< totumfackiego	totumfacki:a	adj:sg:gen:m1.m2.m3.n:pos		
+< totumfackiej	totumfacki:a	adj:sg:dat:f:pos		
+< totumfackiej	totumfacki:a	adj:sg:gen:f:pos		
+< totumfackiej	totumfacki:a	adj:sg:loc:f:pos		
+< totumfackiemu	totumfacki:a	adj:sg:dat:m1.m2.m3.n:pos		
+< totumfackie	totumfacki:a	adj:pl:acc:m2.m3.f.n:pos		
+< totumfackie	totumfacki:a	adj:pl:nom.voc:m2.m3.f.n:pos		
+< totumfackie	totumfacki:a	adj:sg:acc:n:pos		
+< totumfackie	totumfacki:a	adj:sg:nom.voc:n:pos		
+< totumfackimi	totumfacki:a	adj:pl:inst:m1.m2.m3.f.n:pos		
+< totumfackim	totumfacki:a	adj:pl:dat:m1.m2.m3.f.n:pos		
+< totumfackim	totumfacki:a	adj:sg:inst:m1.m2.m3.n:pos		
+< totumfackim	totumfacki:a	adj:sg:loc:m1.m2.m3.n:pos		
+< totumfacki	totumfacki:a	adj:sg:acc:m3:pos		
+< totumfacki	totumfacki:a	adj:sg:nom.voc:m1.m2.m3:pos		
+< totumfacko	totumfacki:a	adja		
+< totumfacku	totumfacki:a	adjp		
+< totumfaccy	totumfacki:s	subst:pl:nom:m1	nazwa pospolita	
+< totumfaccy	totumfacki:s	subst:pl:voc:m1	nazwa pospolita	
+< totumfackich	totumfacki:s	subst:pl:acc:m1	nazwa pospolita	
+< totumfackich	totumfacki:s	subst:pl:gen:m1	nazwa pospolita	
+< totumfackich	totumfacki:s	subst:pl:loc:m1	nazwa pospolita	
+< totumfackiego	totumfacki:s	subst:sg:acc:m1	nazwa pospolita	
+< totumfackiego	totumfacki:s	subst:sg:gen:m1	nazwa pospolita	
+< totumfackiemu	totumfacki:s	subst:sg:dat:m1	nazwa pospolita	
+< totumfackie	totumfacki:s	depr:pl:acc:m2	nazwa pospolita	
+< totumfackie	totumfacki:s	depr:pl:nom:m2	nazwa pospolita	
+< totumfackie	totumfacki:s	depr:pl:voc:m2	nazwa pospolita	
+< totumfackimi	totumfacki:s	subst:pl:inst:m1	nazwa pospolita	
+< totumfackim	totumfacki:s	subst:pl:dat:m1	nazwa pospolita	
+< totumfackim	totumfacki:s	subst:sg:inst:m1	nazwa pospolita	
+< totumfackim	totumfacki:s	subst:sg:loc:m1	nazwa pospolita	
+< totumfacki	totumfacki:s	subst:sg:nom:m1	nazwa pospolita	
+< totumfacki	totumfacki:s	subst:sg:voc:m1	nazwa pospolita	
+---
+> totumfacka	totumfacka	subst:sg:nom:f	nazwa pospolita	przest.
+> totumfacka	totumfacka	subst:sg:voc:f	nazwa pospolita	przest.
+> totumfacką	totumfacka	subst:sg:acc:f	nazwa pospolita	przest.
+> totumfacką	totumfacka	subst:sg:inst:f	nazwa pospolita	przest.
+> totumfackich	totumfacka	subst:pl:gen:f	nazwa pospolita	przest.
+> totumfackich	totumfacka	subst:pl:loc:f	nazwa pospolita	przest.
+> totumfackiej	totumfacka	subst:sg:dat:f	nazwa pospolita	przest.
+> totumfackiej	totumfacka	subst:sg:gen:f	nazwa pospolita	przest.
+> totumfackiej	totumfacka	subst:sg:loc:f	nazwa pospolita	przest.
+> totumfackie	totumfacka	subst:pl:acc:f	nazwa pospolita	przest.
+> totumfackie	totumfacka	subst:pl:nom:f	nazwa pospolita	przest.
+> totumfackie	totumfacka	subst:pl:voc:f	nazwa pospolita	przest.
+> totumfackimi	totumfacka	subst:pl:inst:f	nazwa pospolita	przest.
+> totumfackim	totumfacka	subst:pl:dat:f	nazwa pospolita	przest.
+> totumfaccy	totumfacki:a	adj:pl:nom.voc:m1:pos		rzad.
+> totumfacka	totumfacki:a	adj:sg:nom.voc:f:pos		rzad.
+> totumfacką	totumfacki:a	adj:sg:acc:f:pos		rzad.
+> totumfacką	totumfacki:a	adj:sg:inst:f:pos		rzad.
+> totumfackich	totumfacki:a	adj:pl:acc:m1:pos		rzad.
+> totumfackich	totumfacki:a	adj:pl:gen:m1.m2.m3.f.n:pos		rzad.
+> totumfackich	totumfacki:a	adj:pl:loc:m1.m2.m3.f.n:pos		rzad.
+> totumfackiego	totumfacki:a	adj:sg:acc:m1.m2:pos		rzad.
+> totumfackiego	totumfacki:a	adj:sg:gen:m1.m2.m3.n:pos		rzad.
+> totumfackiej	totumfacki:a	adj:sg:dat:f:pos		rzad.
+> totumfackiej	totumfacki:a	adj:sg:gen:f:pos		rzad.
+> totumfackiej	totumfacki:a	adj:sg:loc:f:pos		rzad.
+> totumfackiemu	totumfacki:a	adj:sg:dat:m1.m2.m3.n:pos		rzad.
+> totumfackie	totumfacki:a	adj:pl:acc:m2.m3.f.n:pos		rzad.
+> totumfackie	totumfacki:a	adj:pl:nom.voc:m2.m3.f.n:pos		rzad.
+> totumfackie	totumfacki:a	adj:sg:acc:n:pos		rzad.
+> totumfackie	totumfacki:a	adj:sg:nom.voc:n:pos		rzad.
+> totumfackimi	totumfacki:a	adj:pl:inst:m1.m2.m3.f.n:pos		rzad.
+> totumfackim	totumfacki:a	adj:pl:dat:m1.m2.m3.f.n:pos		rzad.
+> totumfackim	totumfacki:a	adj:sg:inst:m1.m2.m3.n:pos		rzad.
+> totumfackim	totumfacki:a	adj:sg:loc:m1.m2.m3.n:pos		rzad.
+> totumfacki	totumfacki:a	adj:sg:acc:m3:pos		rzad.
+> totumfacki	totumfacki:a	adj:sg:nom.voc:m1.m2.m3:pos		rzad.
+> totumfacko	totumfacki:a	adja		rzad.
+> totumfacku	totumfacki:a	adjp		rzad.
+> totumfaccy	totumfacki:s	subst:pl:nom:m1	nazwa pospolita	przest.
+> totumfaccy	totumfacki:s	subst:pl:voc:m1	nazwa pospolita	przest.
+> totumfackich	totumfacki:s	subst:pl:acc:m1	nazwa pospolita	przest.
+> totumfackich	totumfacki:s	subst:pl:gen:m1	nazwa pospolita	przest.
+> totumfackich	totumfacki:s	subst:pl:loc:m1	nazwa pospolita	przest.
+> totumfackiego	totumfacki:s	subst:sg:acc:m1	nazwa pospolita	przest.
+> totumfackiego	totumfacki:s	subst:sg:gen:m1	nazwa pospolita	przest.
+> totumfackiemu	totumfacki:s	subst:sg:dat:m1	nazwa pospolita	przest.
+> totumfackie	totumfacki:s	depr:pl:acc:m2	nazwa pospolita	przest.
+> totumfackie	totumfacki:s	depr:pl:nom:m2	nazwa pospolita	przest.
+> totumfackie	totumfacki:s	depr:pl:voc:m2	nazwa pospolita	przest.
+> totumfackimi	totumfacki:s	subst:pl:inst:m1	nazwa pospolita	przest.
+> totumfackim	totumfacki:s	subst:pl:dat:m1	nazwa pospolita	przest.
+> totumfackim	totumfacki:s	subst:sg:inst:m1	nazwa pospolita	przest.
+> totumfackim	totumfacki:s	subst:sg:loc:m1	nazwa pospolita	przest.
+> totumfacki	totumfacki:s	subst:sg:nom:m1	nazwa pospolita	przest.
+> totumfacki	totumfacki:s	subst:sg:voc:m1	nazwa pospolita	przest.
+5522400a5522305,5522343
+> transwestycznie	transwestycznie	adv:pos		
+> transwestycznościach	transwestyczność	subst:pl:loc:f		
+> transwestycznościami	transwestyczność	subst:pl:inst:f		
+> transwestycznością	transwestyczność	subst:sg:inst:f		
+> transwestycznościom	transwestyczność	subst:pl:dat:f		
+> transwestyczności	transwestyczność	subst:pl:acc:f		
+> transwestyczności	transwestyczność	subst:pl:gen:f		
+> transwestyczności	transwestyczność	subst:pl:nom:f		
+> transwestyczności	transwestyczność	subst:pl:voc:f		
+> transwestyczności	transwestyczność	subst:sg:dat:f		
+> transwestyczności	transwestyczność	subst:sg:gen:f		
+> transwestyczności	transwestyczność	subst:sg:loc:f		
+> transwestyczności	transwestyczność	subst:sg:voc:f		
+> transwestyczność	transwestyczność	subst:sg:acc:f		
+> transwestyczność	transwestyczność	subst:sg:nom:f		
+> transwestyczna	transwestyczny	adj:sg:nom.voc:f:pos		
+> transwestyczną	transwestyczny	adj:sg:acc:f:pos		
+> transwestyczną	transwestyczny	adj:sg:inst:f:pos		
+> transwestycznego	transwestyczny	adj:sg:acc:m1.m2:pos		
+> transwestycznego	transwestyczny	adj:sg:gen:m1.m2.m3.n:pos		
+> transwestycznej	transwestyczny	adj:sg:dat:f:pos		
+> transwestycznej	transwestyczny	adj:sg:gen:f:pos		
+> transwestycznej	transwestyczny	adj:sg:loc:f:pos		
+> transwestycznemu	transwestyczny	adj:sg:dat:m1.m2.m3.n:pos		
+> transwestyczne	transwestyczny	adj:pl:acc:m2.m3.f.n:pos		
+> transwestyczne	transwestyczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> transwestyczne	transwestyczny	adj:sg:acc:n:pos		
+> transwestyczne	transwestyczny	adj:sg:nom.voc:n:pos		
+> transwestyczni	transwestyczny	adj:pl:nom.voc:m1:pos		
+> transwestyczno	transwestyczny	adja		
+> transwestycznych	transwestyczny	adj:pl:acc:m1:pos		
+> transwestycznych	transwestyczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> transwestycznych	transwestyczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> transwestycznymi	transwestyczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> transwestycznym	transwestyczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> transwestycznym	transwestyczny	adj:sg:inst:m1.m2.m3.n:pos		
+> transwestycznym	transwestyczny	adj:sg:loc:m1.m2.m3.n:pos		
+> transwestyczny	transwestyczny	adj:sg:acc:m3:pos		
+> transwestyczny	transwestyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+5553094a5553038,5553076
+> trzeźwiutcy	trzeźwiutki	adj:pl:nom.voc:m1:pos		
+> trzeźwiutka	trzeźwiutki	adj:sg:nom.voc:f:pos		
+> trzeźwiutką	trzeźwiutki	adj:sg:acc:f:pos		
+> trzeźwiutką	trzeźwiutki	adj:sg:inst:f:pos		
+> trzeźwiutkich	trzeźwiutki	adj:pl:acc:m1:pos		
+> trzeźwiutkich	trzeźwiutki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> trzeźwiutkich	trzeźwiutki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> trzeźwiutkiego	trzeźwiutki	adj:sg:acc:m1.m2:pos		
+> trzeźwiutkiego	trzeźwiutki	adj:sg:gen:m1.m2.m3.n:pos		
+> trzeźwiutkiej	trzeźwiutki	adj:sg:dat:f:pos		
+> trzeźwiutkiej	trzeźwiutki	adj:sg:gen:f:pos		
+> trzeźwiutkiej	trzeźwiutki	adj:sg:loc:f:pos		
+> trzeźwiutkiemu	trzeźwiutki	adj:sg:dat:m1.m2.m3.n:pos		
+> trzeźwiutkie	trzeźwiutki	adj:pl:acc:m2.m3.f.n:pos		
+> trzeźwiutkie	trzeźwiutki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> trzeźwiutkie	trzeźwiutki	adj:sg:acc:n:pos		
+> trzeźwiutkie	trzeźwiutki	adj:sg:nom.voc:n:pos		
+> trzeźwiutkimi	trzeźwiutki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> trzeźwiutkim	trzeźwiutki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> trzeźwiutkim	trzeźwiutki	adj:sg:inst:m1.m2.m3.n:pos		
+> trzeźwiutkim	trzeźwiutki	adj:sg:loc:m1.m2.m3.n:pos		
+> trzeźwiutki	trzeźwiutki	adj:sg:acc:m3:pos		
+> trzeźwiutki	trzeźwiutki	adj:sg:nom.voc:m1.m2.m3:pos		
+> trzeźwiutko	trzeźwiutki	adja		
+> trzeźwiutko	trzeźwiutko	adv:pos		
+> trzeźwiutkościach	trzeźwiutkość	subst:pl:loc:f		
+> trzeźwiutkościami	trzeźwiutkość	subst:pl:inst:f		
+> trzeźwiutkością	trzeźwiutkość	subst:sg:inst:f		
+> trzeźwiutkościom	trzeźwiutkość	subst:pl:dat:f		
+> trzeźwiutkości	trzeźwiutkość	subst:pl:acc:f		
+> trzeźwiutkości	trzeźwiutkość	subst:pl:gen:f		
+> trzeźwiutkości	trzeźwiutkość	subst:pl:nom:f		
+> trzeźwiutkości	trzeźwiutkość	subst:pl:voc:f		
+> trzeźwiutkości	trzeźwiutkość	subst:sg:dat:f		
+> trzeźwiutkości	trzeźwiutkość	subst:sg:gen:f		
+> trzeźwiutkości	trzeźwiutkość	subst:sg:loc:f		
+> trzeźwiutkości	trzeźwiutkość	subst:sg:voc:f		
+> trzeźwiutkość	trzeźwiutkość	subst:sg:acc:f		
+> trzeźwiutkość	trzeźwiutkość	subst:sg:nom:f		
+5573038a5573021,5573098
+> tyciuścy	tyciuśki	adj:pl:nom.voc:m1:pos		
+> tyciuśka	tyciuśki	adj:sg:nom.voc:f:pos		
+> tyciuśką	tyciuśki	adj:sg:acc:f:pos		
+> tyciuśką	tyciuśki	adj:sg:inst:f:pos		
+> tyciuśkich	tyciuśki	adj:pl:acc:m1:pos		
+> tyciuśkich	tyciuśki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> tyciuśkich	tyciuśki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> tyciuśkiego	tyciuśki	adj:sg:acc:m1.m2:pos		
+> tyciuśkiego	tyciuśki	adj:sg:gen:m1.m2.m3.n:pos		
+> tyciuśkiej	tyciuśki	adj:sg:dat:f:pos		
+> tyciuśkiej	tyciuśki	adj:sg:gen:f:pos		
+> tyciuśkiej	tyciuśki	adj:sg:loc:f:pos		
+> tyciuśkiemu	tyciuśki	adj:sg:dat:m1.m2.m3.n:pos		
+> tyciuśkie	tyciuśki	adj:pl:acc:m2.m3.f.n:pos		
+> tyciuśkie	tyciuśki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> tyciuśkie	tyciuśki	adj:sg:acc:n:pos		
+> tyciuśkie	tyciuśki	adj:sg:nom.voc:n:pos		
+> tyciuśkimi	tyciuśki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> tyciuśkim	tyciuśki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> tyciuśkim	tyciuśki	adj:sg:inst:m1.m2.m3.n:pos		
+> tyciuśkim	tyciuśki	adj:sg:loc:m1.m2.m3.n:pos		
+> tyciuśki	tyciuśki	adj:sg:acc:m3:pos		
+> tyciuśki	tyciuśki	adj:sg:nom.voc:m1.m2.m3:pos		
+> tyciuśko	tyciuśki	adja		
+> tyciuśko	tyciuśko	adv:pos		
+> tyciuśkościach	tyciuśkość	subst:pl:loc:f		
+> tyciuśkościami	tyciuśkość	subst:pl:inst:f		
+> tyciuśkością	tyciuśkość	subst:sg:inst:f		
+> tyciuśkościom	tyciuśkość	subst:pl:dat:f		
+> tyciuśkości	tyciuśkość	subst:pl:acc:f		
+> tyciuśkości	tyciuśkość	subst:pl:gen:f		
+> tyciuśkości	tyciuśkość	subst:pl:nom:f		
+> tyciuśkości	tyciuśkość	subst:pl:voc:f		
+> tyciuśkości	tyciuśkość	subst:sg:dat:f		
+> tyciuśkości	tyciuśkość	subst:sg:gen:f		
+> tyciuśkości	tyciuśkość	subst:sg:loc:f		
+> tyciuśkości	tyciuśkość	subst:sg:voc:f		
+> tyciuśkość	tyciuśkość	subst:sg:acc:f		
+> tyciuśkość	tyciuśkość	subst:sg:nom:f		
+> tyciuteńcy	tyciuteńki	adj:pl:nom.voc:m1:pos		
+> tyciuteńka	tyciuteńki	adj:sg:nom.voc:f:pos		
+> tyciuteńką	tyciuteńki	adj:sg:acc:f:pos		
+> tyciuteńką	tyciuteńki	adj:sg:inst:f:pos		
+> tyciuteńkich	tyciuteńki	adj:pl:acc:m1:pos		
+> tyciuteńkich	tyciuteńki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> tyciuteńkich	tyciuteńki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> tyciuteńkiego	tyciuteńki	adj:sg:acc:m1.m2:pos		
+> tyciuteńkiego	tyciuteńki	adj:sg:gen:m1.m2.m3.n:pos		
+> tyciuteńkiej	tyciuteńki	adj:sg:dat:f:pos		
+> tyciuteńkiej	tyciuteńki	adj:sg:gen:f:pos		
+> tyciuteńkiej	tyciuteńki	adj:sg:loc:f:pos		
+> tyciuteńkiemu	tyciuteńki	adj:sg:dat:m1.m2.m3.n:pos		
+> tyciuteńkie	tyciuteńki	adj:pl:acc:m2.m3.f.n:pos		
+> tyciuteńkie	tyciuteńki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> tyciuteńkie	tyciuteńki	adj:sg:acc:n:pos		
+> tyciuteńkie	tyciuteńki	adj:sg:nom.voc:n:pos		
+> tyciuteńkimi	tyciuteńki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> tyciuteńkim	tyciuteńki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> tyciuteńkim	tyciuteńki	adj:sg:inst:m1.m2.m3.n:pos		
+> tyciuteńkim	tyciuteńki	adj:sg:loc:m1.m2.m3.n:pos		
+> tyciuteńki	tyciuteńki	adj:sg:acc:m3:pos		
+> tyciuteńki	tyciuteńki	adj:sg:nom.voc:m1.m2.m3:pos		
+> tyciuteńko	tyciuteńki	adja		
+> tyciuteńko	tyciuteńko	adv:pos		
+> tyciuteńkościach	tyciuteńkość	subst:pl:loc:f		
+> tyciuteńkościami	tyciuteńkość	subst:pl:inst:f		
+> tyciuteńkością	tyciuteńkość	subst:sg:inst:f		
+> tyciuteńkościom	tyciuteńkość	subst:pl:dat:f		
+> tyciuteńkości	tyciuteńkość	subst:pl:acc:f		
+> tyciuteńkości	tyciuteńkość	subst:pl:gen:f		
+> tyciuteńkości	tyciuteńkość	subst:pl:nom:f		
+> tyciuteńkości	tyciuteńkość	subst:pl:voc:f		
+> tyciuteńkości	tyciuteńkość	subst:sg:dat:f		
+> tyciuteńkości	tyciuteńkość	subst:sg:gen:f		
+> tyciuteńkości	tyciuteńkość	subst:sg:loc:f		
+> tyciuteńkości	tyciuteńkość	subst:sg:voc:f		
+> tyciuteńkość	tyciuteńkość	subst:sg:acc:f		
+> tyciuteńkość	tyciuteńkość	subst:sg:nom:f		
+5731708a5731769,5731770
+> najuroczniej	urocznie	adv:sup		
+> uroczniej	urocznie	adv:com		
+5857224,5857263d5857285
+< wegeteriańscy	wegeteriański	adj:pl:nom.voc:m1:pos		
+< wegeteriańska	wegeteriański	adj:sg:nom.voc:f:pos		
+< wegeteriańską	wegeteriański	adj:sg:acc:f:pos		
+< wegeteriańską	wegeteriański	adj:sg:inst:f:pos		
+< wegeteriańskich	wegeteriański	adj:pl:acc:m1:pos		
+< wegeteriańskich	wegeteriański	adj:pl:gen:m1.m2.m3.f.n:pos		
+< wegeteriańskich	wegeteriański	adj:pl:loc:m1.m2.m3.f.n:pos		
+< wegeteriańskiego	wegeteriański	adj:sg:acc:m1.m2:pos		
+< wegeteriańskiego	wegeteriański	adj:sg:gen:m1.m2.m3.n:pos		
+< wegeteriańskiej	wegeteriański	adj:sg:dat:f:pos		
+< wegeteriańskiej	wegeteriański	adj:sg:gen:f:pos		
+< wegeteriańskiej	wegeteriański	adj:sg:loc:f:pos		
+< wegeteriańskiemu	wegeteriański	adj:sg:dat:m1.m2.m3.n:pos		
+< wegeteriańskie	wegeteriański	adj:pl:acc:m2.m3.f.n:pos		
+< wegeteriańskie	wegeteriański	adj:pl:nom.voc:m2.m3.f.n:pos		
+< wegeteriańskie	wegeteriański	adj:sg:acc:n:pos		
+< wegeteriańskie	wegeteriański	adj:sg:nom.voc:n:pos		
+< wegeteriańskimi	wegeteriański	adj:pl:inst:m1.m2.m3.f.n:pos		
+< wegeteriańskim	wegeteriański	adj:pl:dat:m1.m2.m3.f.n:pos		
+< wegeteriańskim	wegeteriański	adj:sg:inst:m1.m2.m3.n:pos		
+< wegeteriańskim	wegeteriański	adj:sg:loc:m1.m2.m3.n:pos		
+< wegeteriański	wegeteriański	adj:sg:acc:m3:pos		
+< wegeteriański	wegeteriański	adj:sg:nom.voc:m1.m2.m3:pos		
+< wegeteriańsko	wegeteriański	adja		
+< wegeteriańsku	wegeteriański	adjp		
+< wegeteriańsko	wegeteriańsko	adv:pos		
+< wegeteriańskościach	wegeteriańskość	subst:pl:loc:f	nazwa pospolita	
+< wegeteriańskościami	wegeteriańskość	subst:pl:inst:f	nazwa pospolita	
+< wegeteriańskością	wegeteriańskość	subst:sg:inst:f	nazwa pospolita	
+< wegeteriańskościom	wegeteriańskość	subst:pl:dat:f	nazwa pospolita	
+< wegeteriańskości	wegeteriańskość	subst:pl:acc:f	nazwa pospolita	
+< wegeteriańskości	wegeteriańskość	subst:pl:gen:f	nazwa pospolita	
+< wegeteriańskości	wegeteriańskość	subst:pl:nom:f	nazwa pospolita	
+< wegeteriańskości	wegeteriańskość	subst:pl:voc:f	nazwa pospolita	
+< wegeteriańskości	wegeteriańskość	subst:sg:dat:f	nazwa pospolita	
+< wegeteriańskości	wegeteriańskość	subst:sg:gen:f	nazwa pospolita	
+< wegeteriańskości	wegeteriańskość	subst:sg:loc:f	nazwa pospolita	
+< wegeteriańskości	wegeteriańskość	subst:sg:voc:f	nazwa pospolita	
+< wegeteriańskość	wegeteriańskość	subst:sg:acc:f	nazwa pospolita	
+< wegeteriańskość	wegeteriańskość	subst:sg:nom:f	nazwa pospolita	
+5888641a5888664,5888665
+> najwieczorniej	wieczornie	adv:sup		
+> wieczorniej	wieczornie	adv:com		
+5914091a5914116,5914155
+> wilkołaccy	wilkołacki	adj:pl:nom.voc:m1:pos		
+> wilkołacka	wilkołacki	adj:sg:nom.voc:f:pos		
+> wilkołacką	wilkołacki	adj:sg:acc:f:pos		
+> wilkołacką	wilkołacki	adj:sg:inst:f:pos		
+> wilkołackich	wilkołacki	adj:pl:acc:m1:pos		
+> wilkołackich	wilkołacki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> wilkołackich	wilkołacki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> wilkołackiego	wilkołacki	adj:sg:acc:m1.m2:pos		
+> wilkołackiego	wilkołacki	adj:sg:gen:m1.m2.m3.n:pos		
+> wilkołackiej	wilkołacki	adj:sg:dat:f:pos		
+> wilkołackiej	wilkołacki	adj:sg:gen:f:pos		
+> wilkołackiej	wilkołacki	adj:sg:loc:f:pos		
+> wilkołackiemu	wilkołacki	adj:sg:dat:m1.m2.m3.n:pos		
+> wilkołackie	wilkołacki	adj:pl:acc:m2.m3.f.n:pos		
+> wilkołackie	wilkołacki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> wilkołackie	wilkołacki	adj:sg:acc:n:pos		
+> wilkołackie	wilkołacki	adj:sg:nom.voc:n:pos		
+> wilkołackimi	wilkołacki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> wilkołackim	wilkołacki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> wilkołackim	wilkołacki	adj:sg:inst:m1.m2.m3.n:pos		
+> wilkołackim	wilkołacki	adj:sg:loc:m1.m2.m3.n:pos		
+> wilkołacki	wilkołacki	adj:sg:acc:m3:pos		
+> wilkołacki	wilkołacki	adj:sg:nom.voc:m1.m2.m3:pos		
+> wilkołacko	wilkołacki	adja		
+> wilkołacku	wilkołacki	adjp		
+> wilkołacko	wilkołacko	adv:pos		
+> wilkołackościach	wilkołackość	subst:pl:loc:f		
+> wilkołackościami	wilkołackość	subst:pl:inst:f		
+> wilkołackością	wilkołackość	subst:sg:inst:f		
+> wilkołackościom	wilkołackość	subst:pl:dat:f		
+> wilkołackości	wilkołackość	subst:pl:acc:f		
+> wilkołackości	wilkołackość	subst:pl:gen:f		
+> wilkołackości	wilkołackość	subst:pl:nom:f		
+> wilkołackości	wilkołackość	subst:pl:voc:f		
+> wilkołackości	wilkołackość	subst:sg:dat:f		
+> wilkołackości	wilkołackość	subst:sg:gen:f		
+> wilkołackości	wilkołackość	subst:sg:loc:f		
+> wilkołackości	wilkołackość	subst:sg:voc:f		
+> wilkołackość	wilkołackość	subst:sg:acc:f		
+> wilkołackość	wilkołackość	subst:sg:nom:f		
+5960303,5960304c5960367
+< wokoluteńko	wokoluteńko:d	adv		rzad.
+< wokoluteńko	wokoluteńko:d	adv:pos		
+---
+> wokoluteńko	wokoluteńko	adv:pos		
+5989992a5990056,5990109
+> Wrzelowcach	Wrzelowiec	subst:pl:loc:m3	nazwa geograficzna	
+> Wrzelowcami	Wrzelowiec	subst:pl:inst:m3	nazwa geograficzna	
+> Wrzelowca	Wrzelowiec	subst:sg:gen:m3	nazwa geograficzna	
+> Wrzelowcem	Wrzelowiec	subst:sg:inst:m3	nazwa geograficzna	
+> Wrzelowce	Wrzelowiec	subst:pl:acc:m3	nazwa geograficzna	
+> Wrzelowce	Wrzelowiec	subst:pl:nom:m3	nazwa geograficzna	
+> Wrzelowce	Wrzelowiec	subst:pl:voc:m3	nazwa geograficzna	
+> Wrzelowcom	Wrzelowiec	subst:pl:dat:m3	nazwa geograficzna	
+> Wrzelowcowi	Wrzelowiec	subst:sg:dat:m3	nazwa geograficzna	
+> Wrzelowców	Wrzelowiec	subst:pl:gen:m3	nazwa geograficzna	
+> Wrzelowcu	Wrzelowiec	subst:sg:loc:m3	nazwa geograficzna	
+> Wrzelowcu	Wrzelowiec	subst:sg:voc:m3	nazwa geograficzna	
+> Wrzelowiec	Wrzelowiec	subst:sg:acc:m3	nazwa geograficzna	
+> Wrzelowiec	Wrzelowiec	subst:sg:nom:m3	nazwa geograficzna	
+> wrzelowieccy	wrzelowiecki	adj:pl:nom.voc:m1:pos		
+> wrzelowiecka	wrzelowiecki	adj:sg:nom.voc:f:pos		
+> wrzelowiecką	wrzelowiecki	adj:sg:acc:f:pos		
+> wrzelowiecką	wrzelowiecki	adj:sg:inst:f:pos		
+> wrzelowieckich	wrzelowiecki	adj:pl:acc:m1:pos		
+> wrzelowieckich	wrzelowiecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> wrzelowieckich	wrzelowiecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> wrzelowieckiego	wrzelowiecki	adj:sg:acc:m1.m2:pos		
+> wrzelowieckiego	wrzelowiecki	adj:sg:gen:m1.m2.m3.n:pos		
+> wrzelowieckiej	wrzelowiecki	adj:sg:dat:f:pos		
+> wrzelowieckiej	wrzelowiecki	adj:sg:gen:f:pos		
+> wrzelowieckiej	wrzelowiecki	adj:sg:loc:f:pos		
+> wrzelowieckiemu	wrzelowiecki	adj:sg:dat:m1.m2.m3.n:pos		
+> wrzelowieckie	wrzelowiecki	adj:pl:acc:m2.m3.f.n:pos		
+> wrzelowieckie	wrzelowiecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> wrzelowieckie	wrzelowiecki	adj:sg:acc:n:pos		
+> wrzelowieckie	wrzelowiecki	adj:sg:nom.voc:n:pos		
+> wrzelowieckimi	wrzelowiecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> wrzelowieckim	wrzelowiecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> wrzelowieckim	wrzelowiecki	adj:sg:inst:m1.m2.m3.n:pos		
+> wrzelowieckim	wrzelowiecki	adj:sg:loc:m1.m2.m3.n:pos		
+> wrzelowiecki	wrzelowiecki	adj:sg:acc:m3:pos		
+> wrzelowiecki	wrzelowiecki	adj:sg:nom.voc:m1.m2.m3:pos		
+> wrzelowiecko	wrzelowiecki	adja		
+> wrzelowiecku	wrzelowiecki	adjp		
+> wrzelowiecko	wrzelowiecko	adv:pos		
+> wrzelowieckościach	wrzelowieckość	subst:pl:loc:f		
+> wrzelowieckościami	wrzelowieckość	subst:pl:inst:f		
+> wrzelowieckością	wrzelowieckość	subst:sg:inst:f		
+> wrzelowieckościom	wrzelowieckość	subst:pl:dat:f		
+> wrzelowieckości	wrzelowieckość	subst:pl:acc:f		
+> wrzelowieckości	wrzelowieckość	subst:pl:gen:f		
+> wrzelowieckości	wrzelowieckość	subst:pl:nom:f		
+> wrzelowieckości	wrzelowieckość	subst:pl:voc:f		
+> wrzelowieckości	wrzelowieckość	subst:sg:dat:f		
+> wrzelowieckości	wrzelowieckość	subst:sg:gen:f		
+> wrzelowieckości	wrzelowieckość	subst:sg:loc:f		
+> wrzelowieckości	wrzelowieckość	subst:sg:voc:f		
+> wrzelowieckość	wrzelowieckość	subst:sg:acc:f		
+> wrzelowieckość	wrzelowieckość	subst:sg:nom:f		
+6459092,6459131c6459209,6459215
+< zakoscy	zakoski	adj:pl:nom.voc:m1:pos		
+< zakoska	zakoski	adj:sg:nom.voc:f:pos		
+< zakoską	zakoski	adj:sg:acc:f:pos		
+< zakoską	zakoski	adj:sg:inst:f:pos		
+< zakoskich	zakoski	adj:pl:acc:m1:pos		
+< zakoskich	zakoski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< zakoskich	zakoski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< zakoskiego	zakoski	adj:sg:acc:m1.m2:pos		
+< zakoskiego	zakoski	adj:sg:gen:m1.m2.m3.n:pos		
+< zakoskiej	zakoski	adj:sg:dat:f:pos		
+< zakoskiej	zakoski	adj:sg:gen:f:pos		
+< zakoskiej	zakoski	adj:sg:loc:f:pos		
+< zakoskiemu	zakoski	adj:sg:dat:m1.m2.m3.n:pos		
+< zakoskie	zakoski	adj:pl:acc:m2.m3.f.n:pos		
+< zakoskie	zakoski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< zakoskie	zakoski	adj:sg:acc:n:pos		
+< zakoskie	zakoski	adj:sg:nom.voc:n:pos		
+< zakoskimi	zakoski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< zakoskim	zakoski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< zakoskim	zakoski	adj:sg:inst:m1.m2.m3.n:pos		
+< zakoskim	zakoski	adj:sg:loc:m1.m2.m3.n:pos		
+< zakoski	zakoski	adj:sg:acc:m3:pos		
+< zakoski	zakoski	adj:sg:nom.voc:m1.m2.m3:pos		
+< zakosko	zakoski	adja		
+< zakosku	zakoski	adjp		
+< zakosko	zakosko	adv:pos		
+< zakoskościach	zakoskość	subst:pl:loc:f	nazwa pospolita	
+< zakoskościami	zakoskość	subst:pl:inst:f	nazwa pospolita	
+< zakoskością	zakoskość	subst:sg:inst:f	nazwa pospolita	
+< zakoskościom	zakoskość	subst:pl:dat:f	nazwa pospolita	
+< zakoskości	zakoskość	subst:pl:acc:f	nazwa pospolita	
+< zakoskości	zakoskość	subst:pl:gen:f	nazwa pospolita	
+< zakoskości	zakoskość	subst:pl:nom:f	nazwa pospolita	
+< zakoskości	zakoskość	subst:pl:voc:f	nazwa pospolita	
+< zakoskości	zakoskość	subst:sg:dat:f	nazwa pospolita	
+< zakoskości	zakoskość	subst:sg:gen:f	nazwa pospolita	
+< zakoskości	zakoskość	subst:sg:loc:f	nazwa pospolita	
+< zakoskości	zakoskość	subst:sg:voc:f	nazwa pospolita	
+< zakoskość	zakoskość	subst:sg:acc:f	nazwa pospolita	
+< zakoskość	zakoskość	subst:sg:nom:f	nazwa pospolita	
+---
+> zakoskach	zakoski	subst:pl:loc:n:pt	nazwa pospolita	hist.
+> zakoskami	zakoski	subst:pl:inst:n:pt	nazwa pospolita	hist.
+> zakoski	zakoski	subst:pl:acc:n:pt	nazwa pospolita	hist.
+> zakoski	zakoski	subst:pl:nom:n:pt	nazwa pospolita	hist.
+> zakoski	zakoski	subst:pl:voc:n:pt	nazwa pospolita	hist.
+> zakoskom	zakoski	subst:pl:dat:n:pt	nazwa pospolita	hist.
+> zakosków	zakoski	subst:pl:gen:n:pt	nazwa pospolita	hist.
+6523514,6523528c6523598,6523611
+< zapiecko	zapiecko:d	adv:pos		
+< zapieckach	zapiecko:s	subst:pl:loc:n:ncol	nazwa pospolita	
+< zapieckami	zapiecko:s	subst:pl:inst:n:ncol	nazwa pospolita	
+< zapiecka	zapiecko:s	subst:pl:acc:n:ncol	nazwa pospolita	
+< zapiecka	zapiecko:s	subst:pl:nom:n:ncol	nazwa pospolita	
+< zapiecka	zapiecko:s	subst:pl:voc:n:ncol	nazwa pospolita	
+< zapiecka	zapiecko:s	subst:sg:gen:n:ncol	nazwa pospolita	
+< zapieckiem	zapiecko:s	subst:sg:inst:n:ncol	nazwa pospolita	
+< zapieckom	zapiecko:s	subst:pl:dat:n:ncol	nazwa pospolita	
+< zapiecko	zapiecko:s	subst:sg:acc:n:ncol	nazwa pospolita	
+< zapiecko	zapiecko:s	subst:sg:nom:n:ncol	nazwa pospolita	
+< zapiecko	zapiecko:s	subst:sg:voc:n:ncol	nazwa pospolita	
+< zapiecków	zapiecko:s	subst:pl:gen:n:ncol	nazwa pospolita	
+< zapiecku	zapiecko:s	subst:sg:dat:n:ncol	nazwa pospolita	
+< zapiecku	zapiecko:s	subst:sg:loc:n:ncol	nazwa pospolita	
+---
+> zapieckach	zapiecko	subst:pl:loc:n:ncol	nazwa pospolita	daw.|rzad.
+> zapieckami	zapiecko	subst:pl:inst:n:ncol	nazwa pospolita	daw.|rzad.
+> zapiecka	zapiecko	subst:pl:acc:n:ncol	nazwa pospolita	daw.|rzad.
+> zapiecka	zapiecko	subst:pl:nom:n:ncol	nazwa pospolita	daw.|rzad.
+> zapiecka	zapiecko	subst:pl:voc:n:ncol	nazwa pospolita	daw.|rzad.
+> zapiecka	zapiecko	subst:sg:gen:n:ncol	nazwa pospolita	daw.|rzad.
+> zapieckiem	zapiecko	subst:sg:inst:n:ncol	nazwa pospolita	daw.|rzad.
+> zapieckom	zapiecko	subst:pl:dat:n:ncol	nazwa pospolita	daw.|rzad.
+> zapiecko	zapiecko	subst:sg:acc:n:ncol	nazwa pospolita	daw.|rzad.
+> zapiecko	zapiecko	subst:sg:nom:n:ncol	nazwa pospolita	daw.|rzad.
+> zapiecko	zapiecko	subst:sg:voc:n:ncol	nazwa pospolita	daw.|rzad.
+> zapiecków	zapiecko	subst:pl:gen:n:ncol	nazwa pospolita	daw.|rzad.
+> zapiecku	zapiecko	subst:sg:dat:n:ncol	nazwa pospolita	daw.|rzad.
+> zapiecku	zapiecko	subst:sg:loc:n:ncol	nazwa pospolita	daw.|rzad.
+6746818a6746902
+> zgrzybiale	zgrzybiale	adv:pos		
+6746834,6746881c6746918,6746941
+< zgrzybiali	zgrzybiały:a1	adj:pl:nom.voc:m1:pos		
+< zgrzybiała	zgrzybiały:a1	adj:sg:nom.voc:f:pos		
+< zgrzybiałą	zgrzybiały:a1	adj:sg:acc:f:pos		
+< zgrzybiałą	zgrzybiały:a1	adj:sg:inst:f:pos		
+< zgrzybiałego	zgrzybiały:a1	adj:sg:acc:m1.m2:pos		
+< zgrzybiałego	zgrzybiały:a1	adj:sg:gen:m1.m2.m3.n:pos		
+< zgrzybiałej	zgrzybiały:a1	adj:sg:dat:f:pos		
+< zgrzybiałej	zgrzybiały:a1	adj:sg:gen:f:pos		
+< zgrzybiałej	zgrzybiały:a1	adj:sg:loc:f:pos		
+< zgrzybiałemu	zgrzybiały:a1	adj:sg:dat:m1.m2.m3.n:pos		
+< zgrzybiałe	zgrzybiały:a1	adj:pl:acc:m2.m3.f.n:pos		
+< zgrzybiałe	zgrzybiały:a1	adj:pl:nom.voc:m2.m3.f.n:pos		
+< zgrzybiałe	zgrzybiały:a1	adj:sg:acc:n:pos		
+< zgrzybiałe	zgrzybiały:a1	adj:sg:nom.voc:n:pos		
+< zgrzybiało	zgrzybiały:a1	adja		
+< zgrzybiałych	zgrzybiały:a1	adj:pl:acc:m1:pos		
+< zgrzybiałych	zgrzybiały:a1	adj:pl:gen:m1.m2.m3.f.n:pos		
+< zgrzybiałych	zgrzybiały:a1	adj:pl:loc:m1.m2.m3.f.n:pos		
+< zgrzybiałymi	zgrzybiały:a1	adj:pl:inst:m1.m2.m3.f.n:pos		
+< zgrzybiałym	zgrzybiały:a1	adj:pl:dat:m1.m2.m3.f.n:pos		
+< zgrzybiałym	zgrzybiały:a1	adj:sg:inst:m1.m2.m3.n:pos		
+< zgrzybiałym	zgrzybiały:a1	adj:sg:loc:m1.m2.m3.n:pos		
+< zgrzybiały	zgrzybiały:a1	adj:sg:acc:m3:pos		
+< zgrzybiały	zgrzybiały:a1	adj:sg:nom.voc:m1.m2.m3:pos		
+< zgrzybiali	zgrzybiały:a2	adj:pl:nom.voc:m1:pos		
+< zgrzybiała	zgrzybiały:a2	adj:sg:nom.voc:f:pos		
+< zgrzybiałą	zgrzybiały:a2	adj:sg:acc:f:pos		
+< zgrzybiałą	zgrzybiały:a2	adj:sg:inst:f:pos		
+< zgrzybiałego	zgrzybiały:a2	adj:sg:acc:m1.m2:pos		
+< zgrzybiałego	zgrzybiały:a2	adj:sg:gen:m1.m2.m3.n:pos		
+< zgrzybiałej	zgrzybiały:a2	adj:sg:dat:f:pos		
+< zgrzybiałej	zgrzybiały:a2	adj:sg:gen:f:pos		
+< zgrzybiałej	zgrzybiały:a2	adj:sg:loc:f:pos		
+< zgrzybiałemu	zgrzybiały:a2	adj:sg:dat:m1.m2.m3.n:pos		
+< zgrzybiałe	zgrzybiały:a2	adj:pl:acc:m2.m3.f.n:pos		
+< zgrzybiałe	zgrzybiały:a2	adj:pl:nom.voc:m2.m3.f.n:pos		
+< zgrzybiałe	zgrzybiały:a2	adj:sg:acc:n:pos		
+< zgrzybiałe	zgrzybiały:a2	adj:sg:nom.voc:n:pos		
+< zgrzybiało	zgrzybiały:a2	adja		
+< zgrzybiałych	zgrzybiały:a2	adj:pl:acc:m1:pos		
+< zgrzybiałych	zgrzybiały:a2	adj:pl:gen:m1.m2.m3.f.n:pos		
+< zgrzybiałych	zgrzybiały:a2	adj:pl:loc:m1.m2.m3.f.n:pos		
+< zgrzybiałymi	zgrzybiały:a2	adj:pl:inst:m1.m2.m3.f.n:pos		
+< zgrzybiałym	zgrzybiały:a2	adj:pl:dat:m1.m2.m3.f.n:pos		
+< zgrzybiałym	zgrzybiały:a2	adj:sg:inst:m1.m2.m3.n:pos		
+< zgrzybiałym	zgrzybiały:a2	adj:sg:loc:m1.m2.m3.n:pos		
+< zgrzybiały	zgrzybiały:a2	adj:sg:acc:m3:pos		
+< zgrzybiały	zgrzybiały:a2	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> zgrzybiali	zgrzybiały	adj:pl:nom.voc:m1:pos		
+> zgrzybiała	zgrzybiały	adj:sg:nom.voc:f:pos		
+> zgrzybiałą	zgrzybiały	adj:sg:acc:f:pos		
+> zgrzybiałą	zgrzybiały	adj:sg:inst:f:pos		
+> zgrzybiałego	zgrzybiały	adj:sg:acc:m1.m2:pos		
+> zgrzybiałego	zgrzybiały	adj:sg:gen:m1.m2.m3.n:pos		
+> zgrzybiałej	zgrzybiały	adj:sg:dat:f:pos		
+> zgrzybiałej	zgrzybiały	adj:sg:gen:f:pos		
+> zgrzybiałej	zgrzybiały	adj:sg:loc:f:pos		
+> zgrzybiałemu	zgrzybiały	adj:sg:dat:m1.m2.m3.n:pos		
+> zgrzybiałe	zgrzybiały	adj:pl:acc:m2.m3.f.n:pos		
+> zgrzybiałe	zgrzybiały	adj:pl:nom.voc:m2.m3.f.n:pos		
+> zgrzybiałe	zgrzybiały	adj:sg:acc:n:pos		
+> zgrzybiałe	zgrzybiały	adj:sg:nom.voc:n:pos		
+> zgrzybiało	zgrzybiały	adja		
+> zgrzybiałych	zgrzybiały	adj:pl:acc:m1:pos		
+> zgrzybiałych	zgrzybiały	adj:pl:gen:m1.m2.m3.f.n:pos		
+> zgrzybiałych	zgrzybiały	adj:pl:loc:m1.m2.m3.f.n:pos		
+> zgrzybiałymi	zgrzybiały	adj:pl:inst:m1.m2.m3.f.n:pos		
+> zgrzybiałym	zgrzybiały	adj:pl:dat:m1.m2.m3.f.n:pos		
+> zgrzybiałym	zgrzybiały	adj:sg:inst:m1.m2.m3.n:pos		
+> zgrzybiałym	zgrzybiały	adj:sg:loc:m1.m2.m3.n:pos		
+> zgrzybiały	zgrzybiały	adj:sg:acc:m3:pos		
+> zgrzybiały	zgrzybiały	adj:sg:nom.voc:m1.m2.m3:pos		

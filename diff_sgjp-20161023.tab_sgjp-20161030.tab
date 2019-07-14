@@ -1,0 +1,547 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.10.23
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.10.30
+816976a816977,816978
+> najniefortunniej	fortunnie	adv:sup		
+> niefortunniej	fortunnie	adv:com		
+1025008a1025011,1025017
+> igrcach	igrce	subst:pl:loc:p3	nazwa pospolita	daw.
+> igrcami	igrce	subst:pl:inst:p3	nazwa pospolita	daw.
+> igrce	igrce	subst:pl:acc:p3	nazwa pospolita	daw.
+> igrce	igrce	subst:pl:nom:p3	nazwa pospolita	daw.
+> igrce	igrce	subst:pl:voc:p3	nazwa pospolita	daw.
+> igrcom	igrce	subst:pl:dat:p3	nazwa pospolita	daw.
+> igrców	igrce	subst:pl:gen:p3	nazwa pospolita	daw.
+1093992a1094002,1094056
+> jazydach	jazyda	subst:pl:loc:m1	nazwa pospolita	rel.
+> jazyda	jazyda	subst:sg:nom:m1	nazwa pospolita	rel.
+> jazydami	jazyda	subst:pl:inst:m1	nazwa pospolita	rel.
+> jazydą	jazyda	subst:sg:inst:m1	nazwa pospolita	rel.
+> jazydę	jazyda	subst:sg:acc:m1	nazwa pospolita	rel.
+> jazydo	jazyda	subst:sg:voc:m1	nazwa pospolita	rel.
+> jazydom	jazyda	subst:pl:dat:m1	nazwa pospolita	rel.
+> jazydów	jazyda	subst:pl:acc:m1	nazwa pospolita	rel.
+> jazydów	jazyda	subst:pl:gen:m1	nazwa pospolita	rel.
+> jazydy	jazyda	depr:pl:nom:m2	nazwa pospolita	rel.
+> jazydy	jazyda	depr:pl:voc:m2	nazwa pospolita	rel.
+> jazydy	jazyda	subst:sg:gen:m1	nazwa pospolita	rel.
+> jazydzie	jazyda	subst:sg:dat:m1	nazwa pospolita	rel.
+> jazydzie	jazyda	subst:sg:loc:m1	nazwa pospolita	rel.
+> jazydzi	jazyda	subst:pl:nom:m1	nazwa pospolita	rel.
+> jazydzi	jazyda	subst:pl:voc:m1	nazwa pospolita	rel.
+> jazydyzmach	jazydyzm	subst:pl:loc:m3	nazwa pospolita	rel.
+> jazydyzmami	jazydyzm	subst:pl:inst:m3	nazwa pospolita	rel.
+> jazydyzmem	jazydyzm	subst:sg:inst:m3	nazwa pospolita	rel.
+> jazydyzmie	jazydyzm	subst:sg:loc:m3	nazwa pospolita	rel.
+> jazydyzmie	jazydyzm	subst:sg:voc:m3	nazwa pospolita	rel.
+> jazydyzm	jazydyzm	subst:sg:acc:m3	nazwa pospolita	rel.
+> jazydyzm	jazydyzm	subst:sg:nom:m3	nazwa pospolita	rel.
+> jazydyzmom	jazydyzm	subst:pl:dat:m3	nazwa pospolita	rel.
+> jazydyzmowi	jazydyzm	subst:sg:dat:m3	nazwa pospolita	rel.
+> jazydyzmów	jazydyzm	subst:pl:gen:m3	nazwa pospolita	rel.
+> jazydyzmu	jazydyzm	subst:sg:gen:m3	nazwa pospolita	rel.
+> jazydyzmy	jazydyzm	subst:pl:acc:m3	nazwa pospolita	rel.
+> jazydyzmy	jazydyzm	subst:pl:nom:m3	nazwa pospolita	rel.
+> jazydyzmy	jazydyzm	subst:pl:voc:m3	nazwa pospolita	rel.
+> jazydzcy	jazydzki	adj:pl:nom.voc:m1.p1:pos		rel.
+> jazydzka	jazydzki	adj:sg:nom.voc:f:pos		rel.
+> jazydzką	jazydzki	adj:sg:acc:f:pos		rel.
+> jazydzką	jazydzki	adj:sg:inst:f:pos		rel.
+> jazydzkich	jazydzki	adj:pl:acc:m1.p1:pos		rel.
+> jazydzkich	jazydzki	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rel.
+> jazydzkich	jazydzki	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rel.
+> jazydzkiego	jazydzki	adj:sg:acc:m1.m2:pos		rel.
+> jazydzkiego	jazydzki	adj:sg:gen:m1.m2.m3.n1.n2:pos		rel.
+> jazydzkie	jazydzki	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		rel.
+> jazydzkie	jazydzki	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		rel.
+> jazydzkie	jazydzki	adj:sg:acc:n1.n2:pos		rel.
+> jazydzkie	jazydzki	adj:sg:nom.voc:n1.n2:pos		rel.
+> jazydzkiej	jazydzki	adj:sg:dat:f:pos		rel.
+> jazydzkiej	jazydzki	adj:sg:gen:f:pos		rel.
+> jazydzkiej	jazydzki	adj:sg:loc:f:pos		rel.
+> jazydzkiemu	jazydzki	adj:sg:dat:m1.m2.m3.n1.n2:pos		rel.
+> jazydzki	jazydzki	adj:sg:acc:m3:pos		rel.
+> jazydzki	jazydzki	adj:sg:nom.voc:m1.m2.m3:pos		rel.
+> jazydzkimi	jazydzki	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rel.
+> jazydzkim	jazydzki	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		rel.
+> jazydzkim	jazydzki	adj:sg:inst:m1.m2.m3.n1.n2:pos		rel.
+> jazydzkim	jazydzki	adj:sg:loc:m1.m2.m3.n1.n2:pos		rel.
+> jazydzko	jazydzki	adja		rel.
+> jazydzku	jazydzki	adjp		rel.
+1351187a1351252
+> kreatywniej	kreatywnie	adv:com		
+1351188a1351254
+> najkreatywniej	kreatywnie	adv:sup		
+1408366,1408381c1408432,1408447
+< Kurdach	Kurd	subst:pl:loc:m1	nazwa pospolita	
+< Kurda	Kurd	subst:sg:acc:m1	nazwa pospolita	
+< Kurda	Kurd	subst:sg:gen:m1	nazwa pospolita	
+< Kurdami	Kurd	subst:pl:inst:m1	nazwa pospolita	
+< Kurdem	Kurd	subst:sg:inst:m1	nazwa pospolita	
+< Kurd	Kurd	subst:sg:nom:m1	nazwa pospolita	
+< Kurdom	Kurd	subst:pl:dat:m1	nazwa pospolita	
+< Kurdowie	Kurd	subst:pl:nom:m1	nazwa pospolita	
+< Kurdowie	Kurd	subst:pl:voc:m1	nazwa pospolita	
+< Kurdowi	Kurd	subst:sg:dat:m1	nazwa pospolita	
+< Kurdów	Kurd	subst:pl:acc:m1	nazwa pospolita	
+< Kurdów	Kurd	subst:pl:gen:m1	nazwa pospolita	
+< Kurdy	Kurd	depr:pl:nom:m2	nazwa pospolita	
+< Kurdy	Kurd	depr:pl:voc:m2	nazwa pospolita	
+< Kurdzie	Kurd	subst:sg:loc:m1	nazwa pospolita	
+< Kurdzie	Kurd	subst:sg:voc:m1	nazwa pospolita	
+---
+> Kurdach	Kurd	subst:pl:loc:m1	nazwa pospolita	etn.
+> Kurda	Kurd	subst:sg:acc:m1	nazwa pospolita	etn.
+> Kurda	Kurd	subst:sg:gen:m1	nazwa pospolita	etn.
+> Kurdami	Kurd	subst:pl:inst:m1	nazwa pospolita	etn.
+> Kurdem	Kurd	subst:sg:inst:m1	nazwa pospolita	etn.
+> Kurd	Kurd	subst:sg:nom:m1	nazwa pospolita	etn.
+> Kurdom	Kurd	subst:pl:dat:m1	nazwa pospolita	etn.
+> Kurdowie	Kurd	subst:pl:nom:m1	nazwa pospolita	etn.
+> Kurdowie	Kurd	subst:pl:voc:m1	nazwa pospolita	etn.
+> Kurdowi	Kurd	subst:sg:dat:m1	nazwa pospolita	etn.
+> Kurdów	Kurd	subst:pl:acc:m1	nazwa pospolita	etn.
+> Kurdów	Kurd	subst:pl:gen:m1	nazwa pospolita	etn.
+> Kurdy	Kurd	depr:pl:nom:m2	nazwa pospolita	etn.
+> Kurdy	Kurd	depr:pl:voc:m2	nazwa pospolita	etn.
+> Kurdzie	Kurd	subst:sg:loc:m1	nazwa pospolita	etn.
+> Kurdzie	Kurd	subst:sg:voc:m1	nazwa pospolita	etn.
+1408835a1408902,1408915
+> Kurdyjce	Kurdyjka	subst:sg:dat:f	nazwa pospolita	etn.
+> Kurdyjce	Kurdyjka	subst:sg:loc:f	nazwa pospolita	etn.
+> Kurdyjek	Kurdyjka	subst:pl:gen:f	nazwa pospolita	etn.
+> Kurdyjkach	Kurdyjka	subst:pl:loc:f	nazwa pospolita	etn.
+> Kurdyjka	Kurdyjka	subst:sg:nom:f	nazwa pospolita	etn.
+> Kurdyjkami	Kurdyjka	subst:pl:inst:f	nazwa pospolita	etn.
+> Kurdyjką	Kurdyjka	subst:sg:inst:f	nazwa pospolita	etn.
+> Kurdyjkę	Kurdyjka	subst:sg:acc:f	nazwa pospolita	etn.
+> Kurdyjki	Kurdyjka	subst:pl:acc:f	nazwa pospolita	etn.
+> Kurdyjki	Kurdyjka	subst:pl:nom:f	nazwa pospolita	etn.
+> Kurdyjki	Kurdyjka	subst:pl:voc:f	nazwa pospolita	etn.
+> Kurdyjki	Kurdyjka	subst:sg:gen:f	nazwa pospolita	etn.
+> Kurdyjko	Kurdyjka	subst:sg:voc:f	nazwa pospolita	etn.
+> Kurdyjkom	Kurdyjka	subst:pl:dat:f	nazwa pospolita	etn.
+1548236a1548317,1548339
+> makabryczniejsi	makabryczny	adj:pl:nom.voc:m1.p1:com		
+> makabryczniejsza	makabryczny	adj:sg:nom.voc:f:com		
+> makabryczniejszą	makabryczny	adj:sg:acc:f:com		
+> makabryczniejszą	makabryczny	adj:sg:inst:f:com		
+> makabryczniejszego	makabryczny	adj:sg:acc:m1.m2:com		
+> makabryczniejszego	makabryczny	adj:sg:gen:m1.m2.m3.n1.n2:com		
+> makabryczniejszej	makabryczny	adj:sg:dat:f:com		
+> makabryczniejszej	makabryczny	adj:sg:gen:f:com		
+> makabryczniejszej	makabryczny	adj:sg:loc:f:com		
+> makabryczniejsze	makabryczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		
+> makabryczniejsze	makabryczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		
+> makabryczniejsze	makabryczny	adj:sg:acc:n1.n2:com		
+> makabryczniejsze	makabryczny	adj:sg:nom.voc:n1.n2:com		
+> makabryczniejszemu	makabryczny	adj:sg:dat:m1.m2.m3.n1.n2:com		
+> makabryczniejszych	makabryczny	adj:pl:acc:m1.p1:com		
+> makabryczniejszych	makabryczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+> makabryczniejszych	makabryczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+> makabryczniejszy	makabryczny	adj:sg:acc:m3:com		
+> makabryczniejszy	makabryczny	adj:sg:nom.voc:m1.m2.m3:com		
+> makabryczniejszymi	makabryczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+> makabryczniejszym	makabryczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+> makabryczniejszym	makabryczny	adj:sg:inst:m1.m2.m3.n1.n2:com		
+> makabryczniejszym	makabryczny	adj:sg:loc:m1.m2.m3.n1.n2:com		
+1548247a1548351,1548373
+> najmakabryczniejsi	makabryczny	adj:pl:nom.voc:m1.p1:sup		
+> najmakabryczniejsza	makabryczny	adj:sg:nom.voc:f:sup		
+> najmakabryczniejszą	makabryczny	adj:sg:acc:f:sup		
+> najmakabryczniejszą	makabryczny	adj:sg:inst:f:sup		
+> najmakabryczniejszego	makabryczny	adj:sg:acc:m1.m2:sup		
+> najmakabryczniejszego	makabryczny	adj:sg:gen:m1.m2.m3.n1.n2:sup		
+> najmakabryczniejszej	makabryczny	adj:sg:dat:f:sup		
+> najmakabryczniejszej	makabryczny	adj:sg:gen:f:sup		
+> najmakabryczniejszej	makabryczny	adj:sg:loc:f:sup		
+> najmakabryczniejsze	makabryczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:sup		
+> najmakabryczniejsze	makabryczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:sup		
+> najmakabryczniejsze	makabryczny	adj:sg:acc:n1.n2:sup		
+> najmakabryczniejsze	makabryczny	adj:sg:nom.voc:n1.n2:sup		
+> najmakabryczniejszemu	makabryczny	adj:sg:dat:m1.m2.m3.n1.n2:sup		
+> najmakabryczniejszych	makabryczny	adj:pl:acc:m1.p1:sup		
+> najmakabryczniejszych	makabryczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+> najmakabryczniejszych	makabryczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+> najmakabryczniejszy	makabryczny	adj:sg:acc:m3:sup		
+> najmakabryczniejszy	makabryczny	adj:sg:nom.voc:m1.m2.m3:sup		
+> najmakabryczniejszymi	makabryczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+> najmakabryczniejszym	makabryczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+> najmakabryczniejszym	makabryczny	adj:sg:inst:m1.m2.m3.n1.n2:sup		
+> najmakabryczniejszym	makabryczny	adj:sg:loc:m1.m2.m3.n1.n2:sup		
+2199121a2199248,2199249
+> najniegodziwiej	niegodziwie	adv:sup		
+> niegodziwiej	niegodziwie	adv:com		
+3667360a3667489
+> parchato	parchato	adv:pos		
+4253726a4253856,4253862
+> prawnukach	prawnuki	subst:pl:loc:p3	nazwa pospolita	
+> prawnukami	prawnuki	subst:pl:inst:p3	nazwa pospolita	
+> prawnuki	prawnuki	subst:pl:acc:p3	nazwa pospolita	
+> prawnuki	prawnuki	subst:pl:nom:p3	nazwa pospolita	
+> prawnuki	prawnuki	subst:pl:voc:p3	nazwa pospolita	
+> prawnukom	prawnuki	subst:pl:dat:p3	nazwa pospolita	
+> prawnuków	prawnuki	subst:pl:gen:p3	nazwa pospolita	
+4270949a4271086,4271087
+> najprofesjonalniej	profesjonalnie	adv:sup		
+> profesjonalniej	profesjonalnie	adv:com		
+4342418a4342557
+> przedszkolaczek	przedszkolaczek	subst:sg:nom:m1	nazwa pospolita	
+4342419a4342559
+> przedszkolaczkach	przedszkolaczek	subst:pl:loc:m1	nazwa pospolita	
+4342420a4342561
+> przedszkolaczkami	przedszkolaczek	subst:pl:inst:m1	nazwa pospolita	
+4342421a4342563
+> przedszkolaczka	przedszkolaczek	subst:sg:acc:m1	nazwa pospolita	
+4342422a4342565
+> przedszkolaczka	przedszkolaczek	subst:sg:gen:m1	nazwa pospolita	
+4342423a4342567
+> przedszkolaczkiem	przedszkolaczek	subst:sg:inst:m1	nazwa pospolita	
+4342424a4342569,4342570
+> przedszkolaczki	przedszkolaczek	depr:pl:nom:m2	nazwa pospolita	
+> przedszkolaczki	przedszkolaczek	depr:pl:voc:m2	nazwa pospolita	
+4342427a4342574
+> przedszkolaczkom	przedszkolaczek	subst:pl:dat:m1	nazwa pospolita	
+4342428a4342576,4342578
+> przedszkolaczkowie	przedszkolaczek	subst:pl:nom:m1	nazwa pospolita	
+> przedszkolaczkowie	przedszkolaczek	subst:pl:voc:m1	nazwa pospolita	
+> przedszkolaczkowi	przedszkolaczek	subst:sg:dat:m1	nazwa pospolita	
+4342429a4342580,4342581
+> przedszkolaczków	przedszkolaczek	subst:pl:acc:m1	nazwa pospolita	
+> przedszkolaczków	przedszkolaczek	subst:pl:gen:m1	nazwa pospolita	
+4342430a4342583
+> przedszkolaczku	przedszkolaczek	subst:sg:loc:m1	nazwa pospolita	
+4342431a4342585
+> przedszkolaczku	przedszkolaczek	subst:sg:voc:m1	nazwa pospolita	
+4342435a4342590
+> przedszkolakach	przedszkolak	subst:pl:loc:m2	nazwa pospolita	
+4342436a4342592
+> przedszkolakami	przedszkolak	subst:pl:inst:m2	nazwa pospolita	
+4342437a4342594
+> przedszkolaka	przedszkolak	subst:sg:acc:m2	nazwa pospolita	
+4342438a4342596
+> przedszkolaka	przedszkolak	subst:sg:gen:m2	nazwa pospolita	
+4342439a4342598
+> przedszkolakiem	przedszkolak	subst:sg:inst:m2	nazwa pospolita	
+4342441a4342601,4342603
+> przedszkolaki	przedszkolak	subst:pl:acc:m2	nazwa pospolita	
+> przedszkolaki	przedszkolak	subst:pl:nom:m2	nazwa pospolita	
+> przedszkolaki	przedszkolak	subst:pl:voc:m2	nazwa pospolita	
+4342442a4342605
+> przedszkolakom	przedszkolak	subst:pl:dat:m2	nazwa pospolita	
+4342443a4342607
+> przedszkolakowi	przedszkolak	subst:sg:dat:m2	nazwa pospolita	
+4342445a4342610
+> przedszkolaków	przedszkolak	subst:pl:gen:m2	nazwa pospolita	
+4342446a4342612
+> przedszkolak	przedszkolak	subst:sg:nom:m2	nazwa pospolita	
+4342447a4342614
+> przedszkolaku	przedszkolak	subst:sg:loc:m2	nazwa pospolita	
+4342448a4342616
+> przedszkolaku	przedszkolak	subst:sg:voc:m2	nazwa pospolita	
+4439826a4439995,4440017
+> najprzesądniejsi	przesądny	adj:pl:nom.voc:m1.p1:sup		
+> najprzesądniejsza	przesądny	adj:sg:nom.voc:f:sup		
+> najprzesądniejszą	przesądny	adj:sg:acc:f:sup		
+> najprzesądniejszą	przesądny	adj:sg:inst:f:sup		
+> najprzesądniejszego	przesądny	adj:sg:acc:m1.m2:sup		
+> najprzesądniejszego	przesądny	adj:sg:gen:m1.m2.m3.n1.n2:sup		
+> najprzesądniejszej	przesądny	adj:sg:dat:f:sup		
+> najprzesądniejszej	przesądny	adj:sg:gen:f:sup		
+> najprzesądniejszej	przesądny	adj:sg:loc:f:sup		
+> najprzesądniejszemu	przesądny	adj:sg:dat:m1.m2.m3.n1.n2:sup		
+> najprzesądniejsze	przesądny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:sup		
+> najprzesądniejsze	przesądny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:sup		
+> najprzesądniejsze	przesądny	adj:sg:acc:n1.n2:sup		
+> najprzesądniejsze	przesądny	adj:sg:nom.voc:n1.n2:sup		
+> najprzesądniejszych	przesądny	adj:pl:acc:m1.p1:sup		
+> najprzesądniejszych	przesądny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+> najprzesądniejszych	przesądny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+> najprzesądniejszymi	przesądny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+> najprzesądniejszym	przesądny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+> najprzesądniejszym	przesądny	adj:sg:inst:m1.m2.m3.n1.n2:sup		
+> najprzesądniejszym	przesądny	adj:sg:loc:m1.m2.m3.n1.n2:sup		
+> najprzesądniejszy	przesądny	adj:sg:acc:m3:sup		
+> najprzesądniejszy	przesądny	adj:sg:nom.voc:m1.m2.m3:sup		
+4439839a4440031,4440053
+> przesądniejsi	przesądny	adj:pl:nom.voc:m1.p1:com		
+> przesądniejsza	przesądny	adj:sg:nom.voc:f:com		
+> przesądniejszą	przesądny	adj:sg:acc:f:com		
+> przesądniejszą	przesądny	adj:sg:inst:f:com		
+> przesądniejszego	przesądny	adj:sg:acc:m1.m2:com		
+> przesądniejszego	przesądny	adj:sg:gen:m1.m2.m3.n1.n2:com		
+> przesądniejszej	przesądny	adj:sg:dat:f:com		
+> przesądniejszej	przesądny	adj:sg:gen:f:com		
+> przesądniejszej	przesądny	adj:sg:loc:f:com		
+> przesądniejszemu	przesądny	adj:sg:dat:m1.m2.m3.n1.n2:com		
+> przesądniejsze	przesądny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		
+> przesądniejsze	przesądny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		
+> przesądniejsze	przesądny	adj:sg:acc:n1.n2:com		
+> przesądniejsze	przesądny	adj:sg:nom.voc:n1.n2:com		
+> przesądniejszych	przesądny	adj:pl:acc:m1.p1:com		
+> przesądniejszych	przesądny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+> przesądniejszych	przesądny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+> przesądniejszymi	przesądny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+> przesądniejszym	przesądny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+> przesądniejszym	przesądny	adj:sg:inst:m1.m2.m3.n1.n2:com		
+> przesądniejszym	przesądny	adj:sg:loc:m1.m2.m3.n1.n2:com		
+> przesądniejszy	przesądny	adj:sg:acc:m3:com		
+> przesądniejszy	przesądny	adj:sg:nom.voc:m1.m2.m3:com		
+4966183a4966398,4966399
+> najsamoistniej	samoistnie	adv:sup		
+> samoistniej	samoistnie	adv:com		
+5425419a5425636,5425658
+> najświetlistsi	świetlisty	adj:pl:nom.voc:m1.p1:sup		rzad.
+> najświetlistsza	świetlisty	adj:sg:nom.voc:f:sup		rzad.
+> najświetlistszą	świetlisty	adj:sg:acc:f:sup		rzad.
+> najświetlistszą	świetlisty	adj:sg:inst:f:sup		rzad.
+> najświetlistszego	świetlisty	adj:sg:acc:m1.m2:sup		rzad.
+> najświetlistszego	świetlisty	adj:sg:gen:m1.m2.m3.n1.n2:sup		rzad.
+> najświetlistszej	świetlisty	adj:sg:dat:f:sup		rzad.
+> najświetlistszej	świetlisty	adj:sg:gen:f:sup		rzad.
+> najświetlistszej	świetlisty	adj:sg:loc:f:sup		rzad.
+> najświetlistszemu	świetlisty	adj:sg:dat:m1.m2.m3.n1.n2:sup		rzad.
+> najświetlistsze	świetlisty	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:sup		rzad.
+> najświetlistsze	świetlisty	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:sup		rzad.
+> najświetlistsze	świetlisty	adj:sg:acc:n1.n2:sup		rzad.
+> najświetlistsze	świetlisty	adj:sg:nom.voc:n1.n2:sup		rzad.
+> najświetlistszych	świetlisty	adj:pl:acc:m1.p1:sup		rzad.
+> najświetlistszych	świetlisty	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najświetlistszych	świetlisty	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najświetlistszymi	świetlisty	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najświetlistszym	świetlisty	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najświetlistszym	świetlisty	adj:sg:inst:m1.m2.m3.n1.n2:sup		rzad.
+> najświetlistszym	świetlisty	adj:sg:loc:m1.m2.m3.n1.n2:sup		rzad.
+> najświetlistszy	świetlisty	adj:sg:acc:m3:sup		rzad.
+> najświetlistszy	świetlisty	adj:sg:nom.voc:m1.m2.m3:sup		rzad.
+5425433a5425673,5425695
+> świetlistsi	świetlisty	adj:pl:nom.voc:m1.p1:com		rzad.
+> świetlistsza	świetlisty	adj:sg:nom.voc:f:com		rzad.
+> świetlistszą	świetlisty	adj:sg:acc:f:com		rzad.
+> świetlistszą	świetlisty	adj:sg:inst:f:com		rzad.
+> świetlistszego	świetlisty	adj:sg:acc:m1.m2:com		rzad.
+> świetlistszego	świetlisty	adj:sg:gen:m1.m2.m3.n1.n2:com		rzad.
+> świetlistszej	świetlisty	adj:sg:dat:f:com		rzad.
+> świetlistszej	świetlisty	adj:sg:gen:f:com		rzad.
+> świetlistszej	świetlisty	adj:sg:loc:f:com		rzad.
+> świetlistszemu	świetlisty	adj:sg:dat:m1.m2.m3.n1.n2:com		rzad.
+> świetlistsze	świetlisty	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		rzad.
+> świetlistsze	świetlisty	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		rzad.
+> świetlistsze	świetlisty	adj:sg:acc:n1.n2:com		rzad.
+> świetlistsze	świetlisty	adj:sg:nom.voc:n1.n2:com		rzad.
+> świetlistszych	świetlisty	adj:pl:acc:m1.p1:com		rzad.
+> świetlistszych	świetlisty	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> świetlistszych	świetlisty	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> świetlistszymi	świetlisty	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> świetlistszym	świetlisty	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> świetlistszym	świetlisty	adj:sg:inst:m1.m2.m3.n1.n2:com		rzad.
+> świetlistszym	świetlisty	adj:sg:loc:m1.m2.m3.n1.n2:com		rzad.
+> świetlistszy	świetlisty	adj:sg:acc:m3:com		rzad.
+> świetlistszy	świetlisty	adj:sg:nom.voc:m1.m2.m3:com		rzad.
+5934029,5934042c5934291,5934304
+< wnuce	wnuka	subst:sg:dat:f	nazwa pospolita	
+< wnuce	wnuka	subst:sg:loc:f	nazwa pospolita	
+< wnukach	wnuka	subst:pl:loc:f	nazwa pospolita	
+< wnukami	wnuka	subst:pl:inst:f	nazwa pospolita	
+< wnuka	wnuka	subst:sg:nom:f	nazwa pospolita	
+< wnuką	wnuka	subst:sg:inst:f	nazwa pospolita	
+< wnukę	wnuka	subst:sg:acc:f	nazwa pospolita	
+< wnuki	wnuka	subst:pl:acc:f	nazwa pospolita	
+< wnuki	wnuka	subst:pl:nom:f	nazwa pospolita	
+< wnuki	wnuka	subst:pl:voc:f	nazwa pospolita	
+< wnuki	wnuka	subst:sg:gen:f	nazwa pospolita	
+< wnukom	wnuka	subst:pl:dat:f	nazwa pospolita	
+< wnuko	wnuka	subst:sg:voc:f	nazwa pospolita	
+< wnuk	wnuka	subst:pl:gen:f	nazwa pospolita	
+---
+> wnuce	wnuka	subst:sg:dat:f	nazwa pospolita	daw.
+> wnuce	wnuka	subst:sg:loc:f	nazwa pospolita	daw.
+> wnukach	wnuka	subst:pl:loc:f	nazwa pospolita	daw.
+> wnukami	wnuka	subst:pl:inst:f	nazwa pospolita	daw.
+> wnuka	wnuka	subst:sg:nom:f	nazwa pospolita	daw.
+> wnuką	wnuka	subst:sg:inst:f	nazwa pospolita	daw.
+> wnukę	wnuka	subst:sg:acc:f	nazwa pospolita	daw.
+> wnuki	wnuka	subst:pl:acc:f	nazwa pospolita	daw.
+> wnuki	wnuka	subst:pl:nom:f	nazwa pospolita	daw.
+> wnuki	wnuka	subst:pl:voc:f	nazwa pospolita	daw.
+> wnuki	wnuka	subst:sg:gen:f	nazwa pospolita	daw.
+> wnukom	wnuka	subst:pl:dat:f	nazwa pospolita	daw.
+> wnuko	wnuka	subst:sg:voc:f	nazwa pospolita	daw.
+> wnuk	wnuka	subst:pl:gen:f	nazwa pospolita	daw.
+5947299a5947562,5947587
+> Woodstockach	Woodstock	subst:pl:loc:m3	nazwa geograficzna	
+> Woodstockami	Woodstock	subst:pl:inst:m3	nazwa geograficzna	
+> Woodstockiem	Woodstock	subst:sg:inst:m3	nazwa geograficzna	
+> Woodstocki	Woodstock	subst:pl:acc:m3	nazwa geograficzna	
+> Woodstocki	Woodstock	subst:pl:nom:m3	nazwa geograficzna	
+> Woodstocki	Woodstock	subst:pl:voc:m3	nazwa geograficzna	
+> Woodstockom	Woodstock	subst:pl:dat:m3	nazwa geograficzna	
+> Woodstockowi	Woodstock	subst:sg:dat:m3	nazwa geograficzna	
+> Woodstocków	Woodstock	subst:pl:gen:m3	nazwa geograficzna	
+> Woodstocku	Woodstock	subst:sg:gen:m3	nazwa geograficzna	
+> Woodstocku	Woodstock	subst:sg:loc:m3	nazwa geograficzna	
+> Woodstocku	Woodstock	subst:sg:voc:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:pl:acc:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:pl:dat:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:pl:gen:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:pl:inst:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:pl:loc:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:pl:nom:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:pl:voc:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:sg:acc:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:sg:dat:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:sg:gen:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:sg:inst:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:sg:loc:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:sg:nom:m3	nazwa geograficzna	
+> Woodstock	Woodstock	subst:sg:voc:m3	nazwa geograficzna	
+5981353a5981642,5981664
+> najwspółcześniejsi	współczesny:a	adj:pl:nom.voc:m1.p1:sup		rzad.
+> najwspółcześniejsza	współczesny:a	adj:sg:nom.voc:f:sup		rzad.
+> najwspółcześniejszą	współczesny:a	adj:sg:acc:f:sup		rzad.
+> najwspółcześniejszą	współczesny:a	adj:sg:inst:f:sup		rzad.
+> najwspółcześniejszego	współczesny:a	adj:sg:acc:m1.m2:sup		rzad.
+> najwspółcześniejszego	współczesny:a	adj:sg:gen:m1.m2.m3.n1.n2:sup		rzad.
+> najwspółcześniejszej	współczesny:a	adj:sg:dat:f:sup		rzad.
+> najwspółcześniejszej	współczesny:a	adj:sg:gen:f:sup		rzad.
+> najwspółcześniejszej	współczesny:a	adj:sg:loc:f:sup		rzad.
+> najwspółcześniejszemu	współczesny:a	adj:sg:dat:m1.m2.m3.n1.n2:sup		rzad.
+> najwspółcześniejsze	współczesny:a	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:sup		rzad.
+> najwspółcześniejsze	współczesny:a	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:sup		rzad.
+> najwspółcześniejsze	współczesny:a	adj:sg:acc:n1.n2:sup		rzad.
+> najwspółcześniejsze	współczesny:a	adj:sg:nom.voc:n1.n2:sup		rzad.
+> najwspółcześniejszych	współczesny:a	adj:pl:acc:m1.p1:sup		rzad.
+> najwspółcześniejszych	współczesny:a	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najwspółcześniejszych	współczesny:a	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najwspółcześniejszymi	współczesny:a	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najwspółcześniejszym	współczesny:a	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najwspółcześniejszym	współczesny:a	adj:sg:inst:m1.m2.m3.n1.n2:sup		rzad.
+> najwspółcześniejszym	współczesny:a	adj:sg:loc:m1.m2.m3.n1.n2:sup		rzad.
+> najwspółcześniejszy	współczesny:a	adj:sg:acc:m3:sup		rzad.
+> najwspółcześniejszy	współczesny:a	adj:sg:nom.voc:m1.m2.m3:sup		rzad.
+5981376a5981688,5981710
+> współcześniejsi	współczesny:a	adj:pl:nom.voc:m1.p1:com		rzad.
+> współcześniejsza	współczesny:a	adj:sg:nom.voc:f:com		rzad.
+> współcześniejszą	współczesny:a	adj:sg:acc:f:com		rzad.
+> współcześniejszą	współczesny:a	adj:sg:inst:f:com		rzad.
+> współcześniejszego	współczesny:a	adj:sg:acc:m1.m2:com		rzad.
+> współcześniejszego	współczesny:a	adj:sg:gen:m1.m2.m3.n1.n2:com		rzad.
+> współcześniejszej	współczesny:a	adj:sg:dat:f:com		rzad.
+> współcześniejszej	współczesny:a	adj:sg:gen:f:com		rzad.
+> współcześniejszej	współczesny:a	adj:sg:loc:f:com		rzad.
+> współcześniejszemu	współczesny:a	adj:sg:dat:m1.m2.m3.n1.n2:com		rzad.
+> współcześniejsze	współczesny:a	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		rzad.
+> współcześniejsze	współczesny:a	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		rzad.
+> współcześniejsze	współczesny:a	adj:sg:acc:n1.n2:com		rzad.
+> współcześniejsze	współczesny:a	adj:sg:nom.voc:n1.n2:com		rzad.
+> współcześniejszych	współczesny:a	adj:pl:acc:m1.p1:com		rzad.
+> współcześniejszych	współczesny:a	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> współcześniejszych	współczesny:a	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> współcześniejszymi	współczesny:a	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> współcześniejszym	współczesny:a	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> współcześniejszym	współczesny:a	adj:sg:inst:m1.m2.m3.n1.n2:com		rzad.
+> współcześniejszym	współczesny:a	adj:sg:loc:m1.m2.m3.n1.n2:com		rzad.
+> współcześniejszy	współczesny:a	adj:sg:acc:m3:com		rzad.
+> współcześniejszy	współczesny:a	adj:sg:nom.voc:m1.m2.m3:com		rzad.
+6495597a6495932,6495954
+> najzapaleńsi	zapalony	adj:pl:nom.voc:m1.p1:sup		rzad.
+> najzapaleńsza	zapalony	adj:sg:nom.voc:f:sup		rzad.
+> najzapaleńszą	zapalony	adj:sg:acc:f:sup		rzad.
+> najzapaleńszą	zapalony	adj:sg:inst:f:sup		rzad.
+> najzapaleńszego	zapalony	adj:sg:acc:m1.m2:sup		rzad.
+> najzapaleńszego	zapalony	adj:sg:gen:m1.m2.m3.n1.n2:sup		rzad.
+> najzapaleńszej	zapalony	adj:sg:dat:f:sup		rzad.
+> najzapaleńszej	zapalony	adj:sg:gen:f:sup		rzad.
+> najzapaleńszej	zapalony	adj:sg:loc:f:sup		rzad.
+> najzapaleńszemu	zapalony	adj:sg:dat:m1.m2.m3.n1.n2:sup		rzad.
+> najzapaleńsze	zapalony	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:sup		rzad.
+> najzapaleńsze	zapalony	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:sup		rzad.
+> najzapaleńsze	zapalony	adj:sg:acc:n1.n2:sup		rzad.
+> najzapaleńsze	zapalony	adj:sg:nom.voc:n1.n2:sup		rzad.
+> najzapaleńszych	zapalony	adj:pl:acc:m1.p1:sup		rzad.
+> najzapaleńszych	zapalony	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najzapaleńszych	zapalony	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najzapaleńszymi	zapalony	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najzapaleńszym	zapalony	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		rzad.
+> najzapaleńszym	zapalony	adj:sg:inst:m1.m2.m3.n1.n2:sup		rzad.
+> najzapaleńszym	zapalony	adj:sg:loc:m1.m2.m3.n1.n2:sup		rzad.
+> najzapaleńszy	zapalony	adj:sg:acc:m3:sup		rzad.
+> najzapaleńszy	zapalony	adj:sg:nom.voc:m1.m2.m3:sup		rzad.
+6495598a6495956,6495978
+> zapaleńsi	zapalony	adj:pl:nom.voc:m1.p1:com		rzad.
+> zapaleńsza	zapalony	adj:sg:nom.voc:f:com		rzad.
+> zapaleńszą	zapalony	adj:sg:acc:f:com		rzad.
+> zapaleńszą	zapalony	adj:sg:inst:f:com		rzad.
+> zapaleńszego	zapalony	adj:sg:acc:m1.m2:com		rzad.
+> zapaleńszego	zapalony	adj:sg:gen:m1.m2.m3.n1.n2:com		rzad.
+> zapaleńszej	zapalony	adj:sg:dat:f:com		rzad.
+> zapaleńszej	zapalony	adj:sg:gen:f:com		rzad.
+> zapaleńszej	zapalony	adj:sg:loc:f:com		rzad.
+> zapaleńszemu	zapalony	adj:sg:dat:m1.m2.m3.n1.n2:com		rzad.
+> zapaleńsze	zapalony	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		rzad.
+> zapaleńsze	zapalony	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		rzad.
+> zapaleńsze	zapalony	adj:sg:acc:n1.n2:com		rzad.
+> zapaleńsze	zapalony	adj:sg:nom.voc:n1.n2:com		rzad.
+> zapaleńszych	zapalony	adj:pl:acc:m1.p1:com		rzad.
+> zapaleńszych	zapalony	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> zapaleńszych	zapalony	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> zapaleńszymi	zapalony	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> zapaleńszym	zapalony	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		rzad.
+> zapaleńszym	zapalony	adj:sg:inst:m1.m2.m3.n1.n2:com		rzad.
+> zapaleńszym	zapalony	adj:sg:loc:m1.m2.m3.n1.n2:com		rzad.
+> zapaleńszy	zapalony	adj:sg:acc:m3:com		rzad.
+> zapaleńszy	zapalony	adj:sg:nom.voc:m1.m2.m3:com		rzad.
+6845805a6846186
+> zuchach	zuch	subst:pl:loc:m2	nazwa pospolita	
+6845806a6846188
+> zuchami	zuch	subst:pl:inst:m2	nazwa pospolita	
+6845807a6846190
+> zucha	zuch	subst:sg:acc:m2	nazwa pospolita	
+6845808a6846192
+> zucha	zuch	subst:sg:gen:m2	nazwa pospolita	
+6845809a6846194
+> zuchem	zuch	subst:sg:inst:m2	nazwa pospolita	
+6845810a6846196
+> zuchom	zuch	subst:pl:dat:m2	nazwa pospolita	
+6845813a6846200
+> zuchowi	zuch	subst:sg:dat:m2	nazwa pospolita	
+6845815a6846203
+> zuchów	zuch	subst:pl:gen:m2	nazwa pospolita	
+6845816a6846205
+> zuchu	zuch	subst:sg:loc:m2	nazwa pospolita	
+6845817a6846207
+> zuchu	zuch	subst:sg:voc:m2	nazwa pospolita	
+6845819a6846210,6846212
+> zuchy	zuch	subst:pl:acc:m2	nazwa pospolita	
+> zuchy	zuch	subst:pl:nom:m2	nazwa pospolita	
+> zuchy	zuch	subst:pl:voc:m2	nazwa pospolita	
+6845820a6846214
+> zuch	zuch	subst:sg:nom:m2	nazwa pospolita	
+6880562a6880957
+> żagiel	żagiel	subst:sg:acc:m3	nazwa pospolita	rzad.
+6880563a6880959
+> żagiel	żagiel	subst:sg:nom:m3	nazwa pospolita	rzad.
+6880564a6880961
+> żaglach	żagiel	subst:pl:loc:m3	nazwa pospolita	rzad.
+6880565a6880963
+> żaglami	żagiel	subst:pl:inst:m3	nazwa pospolita	rzad.
+6880566a6880965
+> żagla	żagiel	subst:sg:gen:m3	nazwa pospolita	rzad.
+6880567a6880967
+> żaglem	żagiel	subst:sg:inst:m3	nazwa pospolita	rzad.
+6880568a6880969
+> żagle	żagiel	subst:pl:acc:m3	nazwa pospolita	rzad.
+6880569a6880971
+> żagle	żagiel	subst:pl:nom:m3	nazwa pospolita	rzad.
+6880570a6880973
+> żagle	żagiel	subst:pl:voc:m3	nazwa pospolita	rzad.
+6880572a6880976
+> żaglom	żagiel	subst:pl:dat:m3	nazwa pospolita	rzad.
+6880573a6880978,6880979
+> żaglowi	żagiel	subst:sg:dat:m3	nazwa pospolita	rzad.
+> żaglów	żagiel	subst:pl:gen:m3	nazwa pospolita	rzad.
+6880574a6880981
+> żaglu	żagiel	subst:sg:loc:m3	nazwa pospolita	rzad.
+6880575a6880983
+> żaglu	żagiel	subst:sg:voc:m3	nazwa pospolita	rzad.

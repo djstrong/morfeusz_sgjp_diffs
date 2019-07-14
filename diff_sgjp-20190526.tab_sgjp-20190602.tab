@@ -1,0 +1,52 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.05.27
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.06.02
+3896438a3896439,3896449
+> orędownicach	orędownica	subst:pl:loc:f	nazwa_pospolita	daw.
+> orędownicami	orędownica	subst:pl:inst:f	nazwa_pospolita	daw.
+> orędownica	orędownica	subst:sg:nom:f	nazwa_pospolita	daw.
+> orędownicą	orędownica	subst:sg:inst:f	nazwa_pospolita	daw.
+> orędownice	orędownica	subst:pl:nom.acc.voc:f	nazwa_pospolita	daw.
+> orędownicę	orędownica	subst:sg:acc:f	nazwa_pospolita	daw.
+> orędownicom	orędownica	subst:pl:dat:f	nazwa_pospolita	daw.
+> orędownico	orędownica	subst:sg:voc:f	nazwa_pospolita	daw.
+> orędownic	orędownica	subst:pl:gen:f	nazwa_pospolita	daw.
+> orędownicy	orędownica	subst:sg:dat.loc:f	nazwa_pospolita	daw.
+> orędownicy	orędownica	subst:sg:gen:f	nazwa_pospolita	daw.
+3896449,3896459c3896460,3896470
+< orędowniczce	orędowniczka	subst:sg:dat.loc:f	nazwa_pospolita	
+< orędowniczek	orędowniczka	subst:pl:gen:f	nazwa_pospolita	
+< orędowniczkach	orędowniczka	subst:pl:loc:f	nazwa_pospolita	
+< orędowniczkami	orędowniczka	subst:pl:inst:f	nazwa_pospolita	
+< orędowniczka	orędowniczka	subst:sg:nom:f	nazwa_pospolita	
+< orędowniczką	orędowniczka	subst:sg:inst:f	nazwa_pospolita	
+< orędowniczkę	orędowniczka	subst:sg:acc:f	nazwa_pospolita	
+< orędowniczki	orędowniczka	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+< orędowniczki	orędowniczka	subst:sg:gen:f	nazwa_pospolita	
+< orędowniczkom	orędowniczka	subst:pl:dat:f	nazwa_pospolita	
+< orędowniczko	orędowniczka	subst:sg:voc:f	nazwa_pospolita	
+---
+> orędowniczce	orędowniczka	subst:sg:dat.loc:f	nazwa_pospolita	książk.
+> orędowniczek	orędowniczka	subst:pl:gen:f	nazwa_pospolita	książk.
+> orędowniczkach	orędowniczka	subst:pl:loc:f	nazwa_pospolita	książk.
+> orędowniczkami	orędowniczka	subst:pl:inst:f	nazwa_pospolita	książk.
+> orędowniczka	orędowniczka	subst:sg:nom:f	nazwa_pospolita	książk.
+> orędowniczką	orędowniczka	subst:sg:inst:f	nazwa_pospolita	książk.
+> orędowniczkę	orędowniczka	subst:sg:acc:f	nazwa_pospolita	książk.
+> orędowniczki	orędowniczka	subst:pl:nom.acc.voc:f	nazwa_pospolita	książk.
+> orędowniczki	orędowniczka	subst:sg:gen:f	nazwa_pospolita	książk.
+> orędowniczkom	orędowniczka	subst:pl:dat:f	nazwa_pospolita	książk.
+> orędowniczko	orędowniczka	subst:sg:voc:f	nazwa_pospolita	książk.
+5616395a5616407,5616417
+> SOR-ach	SOR	subst:pl:loc:m3	nazwa_pospolita	
+> SOR-ami	SOR	subst:pl:inst:m3	nazwa_pospolita	
+> SOR-em	SOR	subst:sg:inst:m3	nazwa_pospolita	
+> SOR-om	SOR	subst:pl:dat:m3	nazwa_pospolita	
+> SOR-owi	SOR	subst:sg:dat:m3	nazwa_pospolita	
+> SOR-ów	SOR	subst:pl:gen:m3	nazwa_pospolita	
+> SOR	SOR	subst:sg:nom.acc:m3	nazwa_pospolita	
+> SOR-u	SOR	subst:sg:gen:m3	nazwa_pospolita	
+> SOR-y	SOR	subst:pl:nom.acc.voc:m3	nazwa_pospolita	
+> SOR-ze	SOR	subst:sg:loc:m3	nazwa_pospolita	
+> SOR-ze	SOR	subst:sg:voc:m3	nazwa_pospolita	

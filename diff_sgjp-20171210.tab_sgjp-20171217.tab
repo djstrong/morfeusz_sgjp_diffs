@@ -1,0 +1,537 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.12.10
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.12.17
+359241a359242,359254
+> cywilach	cywil	subst:pl:loc:m1	nazwa pospolita	
+> cywila	cywil	subst:sg:gen.acc:m1	nazwa pospolita	
+> cywilami	cywil	subst:pl:inst:m1	nazwa pospolita	
+> cywil	cywil	subst:sg:nom:m1	nazwa pospolita	
+> cywile	cywil	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> cywile	cywil	subst:pl:nom.voc:m1	nazwa pospolita	
+> cywilem	cywil	subst:sg:inst:m1	nazwa pospolita	
+> cywili	cywil	subst:pl:gen.acc:m1	nazwa pospolita	
+> cywilom	cywil	subst:pl:dat:m1	nazwa pospolita	
+> cywilowi	cywil	subst:sg:dat:m1	nazwa pospolita	
+> cywilów	cywil	subst:pl:gen.acc:m1	nazwa pospolita	
+> cywilu	cywil	subst:sg:loc:m1	nazwa pospolita	
+> cywilu	cywil	subst:sg:voc:m1	nazwa pospolita	
+359609,359623d359621
+< cywilach	cywil:s1	subst:pl:loc:m1	nazwa pospolita	
+< cywila	cywil:s1	subst:sg:gen.acc:m1	nazwa pospolita	
+< cywilami	cywil:s1	subst:pl:inst:m1	nazwa pospolita	
+< cywil	cywil:s1	subst:sg:nom:m1	nazwa pospolita	
+< cywile	cywil:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< cywile	cywil:s1	subst:pl:nom.voc:m1	nazwa pospolita	
+< cywilem	cywil:s1	subst:sg:inst:m1	nazwa pospolita	
+< cywili	cywil:s1	subst:pl:gen.acc:m1	nazwa pospolita	
+< cywilom	cywil:s1	subst:pl:dat:m1	nazwa pospolita	
+< cywilowi	cywil:s1	subst:sg:dat:m1	nazwa pospolita	
+< cywilów	cywil:s1	subst:pl:gen.acc:m1	nazwa pospolita	
+< cywilu	cywil:s1	subst:sg:loc:m1	nazwa pospolita	
+< cywilu	cywil:s1	subst:sg:voc:m1	nazwa pospolita	
+< cywil	cywil:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
+< cywil	cywil:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+610201d610198
+< dziadulo	dziadulo	subst:sg:voc:m1	nazwa pospolita	
+610206a610204
+> dziadulu	dziadulo	subst:sg:voc:m1	nazwa pospolita	
+716502,716512c716500,716510
+< flaczek	flaczek	subst:sg:nom.acc:m3	nazwa pospolita	
+< flaczkach	flaczek	subst:pl:loc:m3	nazwa pospolita	
+< flaczka	flaczek	subst:sg:gen:m3	nazwa pospolita	
+< flaczkami	flaczek	subst:pl:inst:m3	nazwa pospolita	
+< flaczkiem	flaczek	subst:sg:inst:m3	nazwa pospolita	
+< flaczki	flaczek	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< flaczkom	flaczek	subst:pl:dat:m3	nazwa pospolita	
+< flaczkowi	flaczek	subst:sg:dat:m3	nazwa pospolita	
+< flaczków	flaczek	subst:pl:gen:m3	nazwa pospolita	
+< flaczku	flaczek	subst:sg:loc:m3	nazwa pospolita	
+< flaczku	flaczek	subst:sg:voc:m3	nazwa pospolita	
+---
+> flaczek	flaczek	subst:sg:nom:m2	nazwa pospolita	pot.
+> flaczkach	flaczek	subst:pl:loc:m2	nazwa pospolita	pot.
+> flaczka	flaczek	subst:sg:gen.acc:m2	nazwa pospolita	pot.
+> flaczkami	flaczek	subst:pl:inst:m2	nazwa pospolita	pot.
+> flaczkiem	flaczek	subst:sg:inst:m2	nazwa pospolita	pot.
+> flaczki	flaczek	subst:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+> flaczkom	flaczek	subst:pl:dat:m2	nazwa pospolita	pot.
+> flaczkowi	flaczek	subst:sg:dat:m2	nazwa pospolita	pot.
+> flaczków	flaczek	subst:pl:gen:m2	nazwa pospolita	pot.
+> flaczku	flaczek	subst:sg:loc:m2	nazwa pospolita	pot.
+> flaczku	flaczek	subst:sg:voc:m2	nazwa pospolita	pot.
+847414a847413,847447
+> grzybopodobnościach	grzybopodobność	subst:pl:loc:f		biol.
+> grzybopodobnościami	grzybopodobność	subst:pl:inst:f		biol.
+> grzybopodobnością	grzybopodobność	subst:sg:inst:f		biol.
+> grzybopodobności	grzybopodobność	subst:pl:gen:f		biol.
+> grzybopodobności	grzybopodobność	subst:pl:nom.acc.voc:f		biol.
+> grzybopodobności	grzybopodobność	subst:sg:dat.loc:f		biol.
+> grzybopodobności	grzybopodobność	subst:sg:gen:f		biol.
+> grzybopodobności	grzybopodobność	subst:sg:voc:f		biol.
+> grzybopodobnościom	grzybopodobność	subst:pl:dat:f		biol.
+> grzybopodobność	grzybopodobność	subst:sg:acc:f		biol.
+> grzybopodobność	grzybopodobność	subst:sg:nom:f		biol.
+> grzybopodobna	grzybopodobny	adj:sg:nom.voc:f:pos		biol.
+> grzybopodobną	grzybopodobny	adj:sg:acc:f:pos		biol.
+> grzybopodobną	grzybopodobny	adj:sg:inst:f:pos		biol.
+> grzybopodobnego	grzybopodobny	adj:sg:acc:m1.m2:pos		biol.
+> grzybopodobnego	grzybopodobny	adj:sg:gen:m1.m2.m3.n:pos		biol.
+> grzybopodobne	grzybopodobny	adj:pl:acc:m2.m3.f.n:pos		biol.
+> grzybopodobne	grzybopodobny	adj:pl:nom.voc:m2.m3.f.n:pos		biol.
+> grzybopodobne	grzybopodobny	adj:sg:acc:n:pos		biol.
+> grzybopodobne	grzybopodobny	adj:sg:nom.voc:n:pos		biol.
+> grzybopodobnej	grzybopodobny	adj:sg:dat:f:pos		biol.
+> grzybopodobnej	grzybopodobny	adj:sg:gen:f:pos		biol.
+> grzybopodobnej	grzybopodobny	adj:sg:loc:f:pos		biol.
+> grzybopodobnemu	grzybopodobny	adj:sg:dat:m1.m2.m3.n:pos		biol.
+> grzybopodobni	grzybopodobny	adj:pl:nom.voc:m1:pos		biol.
+> grzybopodobno	grzybopodobny	adja		biol.
+> grzybopodobnych	grzybopodobny	adj:pl:acc:m1:pos		biol.
+> grzybopodobnych	grzybopodobny	adj:pl:gen:m1.m2.m3.f.n:pos		biol.
+> grzybopodobnych	grzybopodobny	adj:pl:loc:m1.m2.m3.f.n:pos		biol.
+> grzybopodobny	grzybopodobny	adj:sg:acc:m3:pos		biol.
+> grzybopodobny	grzybopodobny	adj:sg:nom.voc:m1.m2.m3:pos		biol.
+> grzybopodobnym	grzybopodobny	adj:pl:dat:m1.m2.m3.f.n:pos		biol.
+> grzybopodobnym	grzybopodobny	adj:sg:inst:m1.m2.m3.n:pos		biol.
+> grzybopodobnym	grzybopodobny	adj:sg:loc:m1.m2.m3.n:pos		biol.
+> grzybopodobnymi	grzybopodobny	adj:pl:inst:m1.m2.m3.f.n:pos		biol.
+1000465d1000497
+< Julo	Julo	subst:sg:voc:m1	imię	
+1000470a1000503
+> Julu	Julo	subst:sg:voc:m1	imię	
+1196044a1196078,1196079
+> k,p.a.	k,p.a.	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
+> k,p.a.	k,p.a.	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+1236832d1236866
+< księżulo	księżulo	subst:sg:voc:m1	nazwa pospolita	pot.
+1236837a1236872
+> księżulu	księżulo	subst:sg:voc:m1	nazwa pospolita	pot.
+1278973a1279009,1279020
+> Laplace’ach	Laplace	subst:pl:loc:m1	nazwisko	
+> Laplace’a	Laplace	subst:sg:gen.acc:m1	nazwisko	
+> Laplace’ami	Laplace	subst:pl:inst:m1	nazwisko	
+> Laplace’em	Laplace	subst:sg:inst:m1	nazwisko	
+> Laplace	Laplace	subst:sg:nom:m1	nazwisko	
+> Laplace’om	Laplace	subst:pl:dat:m1	nazwisko	
+> Laplace’owie	Laplace	subst:pl:nom.voc:m1	nazwisko	
+> Laplace’owi	Laplace	subst:sg:dat:m1	nazwisko	
+> Laplace’ów	Laplace	subst:pl:gen.acc:m1	nazwisko	
+> Laplace’y	Laplace	depr:pl:nom.acc.voc:m2	nazwisko	
+> Laplasie	Laplace	subst:sg:loc:m1	nazwisko	
+> Laplasie	Laplace	subst:sg:voc:m1	nazwisko	
+1440860d1440906
+< mężulo	mężulo	subst:sg:voc:m1	nazwa pospolita	
+1440865a1440912
+> mężulu	mężulo	subst:sg:voc:m1	nazwa pospolita	
+1993691a1993739,1993749
+> niegrzybopodobnościach	niegrzybopodobność	subst:pl:loc:f		biol.
+> niegrzybopodobnościami	niegrzybopodobność	subst:pl:inst:f		biol.
+> niegrzybopodobnością	niegrzybopodobność	subst:sg:inst:f		biol.
+> niegrzybopodobności	niegrzybopodobność	subst:pl:gen:f		biol.
+> niegrzybopodobności	niegrzybopodobność	subst:pl:nom.acc.voc:f		biol.
+> niegrzybopodobności	niegrzybopodobność	subst:sg:dat.loc:f		biol.
+> niegrzybopodobności	niegrzybopodobność	subst:sg:gen:f		biol.
+> niegrzybopodobności	niegrzybopodobność	subst:sg:voc:f		biol.
+> niegrzybopodobnościom	niegrzybopodobność	subst:pl:dat:f		biol.
+> niegrzybopodobność	niegrzybopodobność	subst:sg:acc:f		biol.
+> niegrzybopodobność	niegrzybopodobność	subst:sg:nom:f		biol.
+2517704a2517763,2517797
+> nieroślinopodobnościach	nieroślinopodobność	subst:pl:loc:f		
+> nieroślinopodobnościami	nieroślinopodobność	subst:pl:inst:f		
+> nieroślinopodobnością	nieroślinopodobność	subst:sg:inst:f		
+> nieroślinopodobności	nieroślinopodobność	subst:pl:gen:f		
+> nieroślinopodobności	nieroślinopodobność	subst:pl:nom.acc.voc:f		
+> nieroślinopodobności	nieroślinopodobność	subst:sg:dat.loc:f		
+> nieroślinopodobności	nieroślinopodobność	subst:sg:gen:f		
+> nieroślinopodobności	nieroślinopodobność	subst:sg:voc:f		
+> nieroślinopodobnościom	nieroślinopodobność	subst:pl:dat:f		
+> nieroślinopodobność	nieroślinopodobność	subst:sg:acc:f		
+> nieroślinopodobność	nieroślinopodobność	subst:sg:nom:f		
+> nieroślinopodobna	nieroślinopodobny	adj:sg:nom.voc:f:pos		biol.
+> nieroślinopodobną	nieroślinopodobny	adj:sg:acc:f:pos		biol.
+> nieroślinopodobną	nieroślinopodobny	adj:sg:inst:f:pos		biol.
+> nieroślinopodobnego	nieroślinopodobny	adj:sg:acc:m1.m2:pos		biol.
+> nieroślinopodobnego	nieroślinopodobny	adj:sg:gen:m1.m2.m3.n:pos		biol.
+> nieroślinopodobnej	nieroślinopodobny	adj:sg:dat:f:pos		biol.
+> nieroślinopodobnej	nieroślinopodobny	adj:sg:gen:f:pos		biol.
+> nieroślinopodobnej	nieroślinopodobny	adj:sg:loc:f:pos		biol.
+> nieroślinopodobnemu	nieroślinopodobny	adj:sg:dat:m1.m2.m3.n:pos		biol.
+> nieroślinopodobne	nieroślinopodobny	adj:pl:acc:m2.m3.f.n:pos		biol.
+> nieroślinopodobne	nieroślinopodobny	adj:pl:nom.voc:m2.m3.f.n:pos		biol.
+> nieroślinopodobne	nieroślinopodobny	adj:sg:acc:n:pos		biol.
+> nieroślinopodobne	nieroślinopodobny	adj:sg:nom.voc:n:pos		biol.
+> nieroślinopodobni	nieroślinopodobny	adj:pl:nom.voc:m1:pos		biol.
+> nieroślinopodobno	nieroślinopodobny	adja		biol.
+> nieroślinopodobnych	nieroślinopodobny	adj:pl:acc:m1:pos		biol.
+> nieroślinopodobnych	nieroślinopodobny	adj:pl:gen:m1.m2.m3.f.n:pos		biol.
+> nieroślinopodobnych	nieroślinopodobny	adj:pl:loc:m1.m2.m3.f.n:pos		biol.
+> nieroślinopodobnymi	nieroślinopodobny	adj:pl:inst:m1.m2.m3.f.n:pos		biol.
+> nieroślinopodobnym	nieroślinopodobny	adj:pl:dat:m1.m2.m3.f.n:pos		biol.
+> nieroślinopodobnym	nieroślinopodobny	adj:sg:inst:m1.m2.m3.n:pos		biol.
+> nieroślinopodobnym	nieroślinopodobny	adj:sg:loc:m1.m2.m3.n:pos		biol.
+> nieroślinopodobny	nieroślinopodobny	adj:sg:acc:m3:pos		biol.
+> nieroślinopodobny	nieroślinopodobny	adj:sg:nom.voc:m1.m2.m3:pos		biol.
+3167761d3167853
+< ojczulo	ojczulo	subst:sg:voc:m1	nazwa pospolita	gwar.
+3167765a3167858
+> ojczulu	ojczulo	subst:sg:voc:m1	nazwa pospolita	gwar.
+3675045a3675139,3675235
+> niepooddzierana	pooddzierać	ppas:sg:nom.voc:f:perf:neg		
+> niepooddzieraną	pooddzierać	ppas:sg:acc.inst:f:perf:neg		
+> niepooddzieranego	pooddzierać	ppas:sg:acc:m1.m2:perf:neg		
+> niepooddzieranego	pooddzierać	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niepooddzieranej	pooddzierać	ppas:sg:gen.dat.loc:f:perf:neg		
+> niepooddzieranemu	pooddzierać	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niepooddzierane	pooddzierać	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niepooddzierane	pooddzierać	ppas:sg:nom.acc.voc:n:perf:neg		
+> niepooddzieraniach	pooddzierać	ger:pl:loc:n:perf:neg		
+> niepooddzieraniami	pooddzierać	ger:pl:inst:n:perf:neg		
+> niepooddzierania	pooddzierać	ger:pl:nom.acc:n:perf:neg		
+> niepooddzierania	pooddzierać	ger:sg:gen:n:perf:neg		
+> niepooddzieraniem	pooddzierać	ger:sg:inst:n:perf:neg		
+> niepooddzieranie	pooddzierać	ger:sg:nom.acc:n:perf:neg		
+> niepooddzieraniom	pooddzierać	ger:pl:dat:n:perf:neg		
+> niepooddzierani	pooddzierać	ppas:pl:nom.voc:m1:perf:neg		
+> niepooddzieraniu	pooddzierać	ger:sg:dat.loc:n:perf:neg		
+> niepooddzieranych	pooddzierać	ppas:pl:acc:m1:perf:neg		
+> niepooddzieranych	pooddzierać	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niepooddzieranymi	pooddzierać	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niepooddzieranym	pooddzierać	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niepooddzieranym	pooddzierać	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niepooddzierany	pooddzierać	ppas:sg:acc:m3:perf:neg		
+> niepooddzierany	pooddzierać	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niepooddzierań	pooddzierać	ger:pl:gen:n:perf:neg		
+> pooddzieracie	pooddzierać	fin:pl:sec:perf		
+> pooddzierać	pooddzierać	inf:perf		
+> pooddzierają	pooddzierać	fin:pl:ter:perf		
+> pooddzierajcie	pooddzierać	impt:pl:sec:perf		
+> pooddzierajmy	pooddzierać	impt:pl:pri:perf		
+> pooddzieraj	pooddzierać	impt:sg:sec:perf		
+> pooddzieraliby	pooddzierać	cond:pl:m1:ter:perf		
+> pooddzieralibyście	pooddzierać	cond:pl:m1:sec:perf		
+> pooddzieralibyśmy	pooddzierać	cond:pl:m1:pri:perf		
+> pooddzierali	pooddzierać	praet:pl:m1:perf		
+> pooddzierali	pooddzierać	praet:pl:m1:ter:perf		
+> pooddzieraliście	pooddzierać	praet:pl:m1:sec:perf		
+> pooddzieraliśmy	pooddzierać	praet:pl:m1:pri:perf		
+> pooddzierałabym	pooddzierać	cond:sg:f:pri:perf		
+> pooddzierałaby	pooddzierać	cond:sg:f:ter:perf		
+> pooddzierałabyś	pooddzierać	cond:sg:f:sec:perf		
+> pooddzierałam	pooddzierać	praet:sg:f:pri:perf		
+> pooddzierała	pooddzierać	praet:sg:f:perf		
+> pooddzierała	pooddzierać	praet:sg:f:ter:perf		
+> pooddzierałaś	pooddzierać	praet:sg:f:sec:perf		
+> pooddzierałbym	pooddzierać	cond:sg:m1.m2.m3:pri:perf		
+> pooddzierałby	pooddzierać	cond:sg:m1.m2.m3:ter:perf		
+> pooddzierałbyś	pooddzierać	cond:sg:m1.m2.m3:sec:perf		
+> pooddzierałem	pooddzierać	praet:sg:m1.m2.m3:pri:perf		
+> pooddzierałeś	pooddzierać	praet:sg:m1.m2.m3:sec:perf		
+> pooddzierałobym	pooddzierać	cond:sg:n:pri:perf		
+> pooddzierałoby	pooddzierać	cond:sg:n:ter:perf		
+> pooddzierałobyś	pooddzierać	cond:sg:n:sec:perf		
+> pooddzierałom	pooddzierać	praet:sg:n:pri:perf		
+> pooddzierało	pooddzierać	praet:sg:n:perf		
+> pooddzierało	pooddzierać	praet:sg:n:ter:perf		
+> pooddzierałoś	pooddzierać	praet:sg:n:sec:perf		
+> pooddzierał	pooddzierać	praet:sg:m1.m2.m3:perf		
+> pooddzierał	pooddzierać	praet:sg:m1.m2.m3:ter:perf		
+> pooddzierałyby	pooddzierać	cond:pl:m2.m3.f.n:ter:perf		
+> pooddzierałybyście	pooddzierać	cond:pl:m2.m3.f.n:sec:perf		
+> pooddzierałybyśmy	pooddzierać	cond:pl:m2.m3.f.n:pri:perf		
+> pooddzierały	pooddzierać	praet:pl:m2.m3.f.n:perf		
+> pooddzierały	pooddzierać	praet:pl:m2.m3.f.n:ter:perf		
+> pooddzierałyście	pooddzierać	praet:pl:m2.m3.f.n:sec:perf		
+> pooddzierałyśmy	pooddzierać	praet:pl:m2.m3.f.n:pri:perf		
+> pooddzieram	pooddzierać	fin:sg:pri:perf		
+> pooddzieramy	pooddzierać	fin:pl:pri:perf		
+> pooddzierana	pooddzierać	ppas:sg:nom.voc:f:perf:aff		
+> pooddzieraną	pooddzierać	ppas:sg:acc.inst:f:perf:aff		
+> pooddzieranego	pooddzierać	ppas:sg:acc:m1.m2:perf:aff		
+> pooddzieranego	pooddzierać	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> pooddzieranej	pooddzierać	ppas:sg:gen.dat.loc:f:perf:aff		
+> pooddzieranemu	pooddzierać	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> pooddzierane	pooddzierać	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> pooddzierane	pooddzierać	ppas:sg:nom.acc.voc:n:perf:aff		
+> pooddzieraniach	pooddzierać	ger:pl:loc:n:perf:aff		
+> pooddzieraniami	pooddzierać	ger:pl:inst:n:perf:aff		
+> pooddzierania	pooddzierać	ger:pl:nom.acc:n:perf:aff		
+> pooddzierania	pooddzierać	ger:sg:gen:n:perf:aff		
+> pooddzieraniem	pooddzierać	ger:sg:inst:n:perf:aff		
+> pooddzieranie	pooddzierać	ger:sg:nom.acc:n:perf:aff		
+> pooddzieraniom	pooddzierać	ger:pl:dat:n:perf:aff		
+> pooddzierani	pooddzierać	ppas:pl:nom.voc:m1:perf:aff		
+> pooddzieraniu	pooddzierać	ger:sg:dat.loc:n:perf:aff		
+> pooddzierano	pooddzierać	imps:perf		
+> pooddzieranych	pooddzierać	ppas:pl:acc:m1:perf:aff		
+> pooddzieranych	pooddzierać	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> pooddzieranymi	pooddzierać	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> pooddzieranym	pooddzierać	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> pooddzieranym	pooddzierać	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> pooddzierany	pooddzierać	ppas:sg:acc:m3:perf:aff		
+> pooddzierany	pooddzierać	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> pooddzierań	pooddzierać	ger:pl:gen:n:perf:aff		
+> pooddziera	pooddzierać	fin:sg:ter:perf		
+> pooddzierasz	pooddzierać	fin:sg:sec:perf		
+> pooddzierawszy	pooddzierać	pant:perf		
+4351899a4352090,4352148
+> roślinopodobnościach	roślinopodobność	subst:pl:loc:f		
+> roślinopodobnościami	roślinopodobność	subst:pl:inst:f		
+> roślinopodobnością	roślinopodobność	subst:sg:inst:f		
+> roślinopodobnościom	roślinopodobność	subst:pl:dat:f		
+> roślinopodobności	roślinopodobność	subst:pl:gen:f		
+> roślinopodobności	roślinopodobność	subst:pl:nom.acc.voc:f		
+> roślinopodobności	roślinopodobność	subst:sg:dat.loc:f		
+> roślinopodobności	roślinopodobność	subst:sg:gen:f		
+> roślinopodobności	roślinopodobność	subst:sg:voc:f		
+> roślinopodobność	roślinopodobność	subst:sg:acc:f		
+> roślinopodobność	roślinopodobność	subst:sg:nom:f		
+> roślinopodobna	roślinopodobny:a1	adj:sg:nom.voc:f:pos		
+> roślinopodobną	roślinopodobny:a1	adj:sg:acc:f:pos		
+> roślinopodobną	roślinopodobny:a1	adj:sg:inst:f:pos		
+> roślinopodobnego	roślinopodobny:a1	adj:sg:acc:m1.m2:pos		
+> roślinopodobnego	roślinopodobny:a1	adj:sg:gen:m1.m2.m3.n:pos		
+> roślinopodobnej	roślinopodobny:a1	adj:sg:dat:f:pos		
+> roślinopodobnej	roślinopodobny:a1	adj:sg:gen:f:pos		
+> roślinopodobnej	roślinopodobny:a1	adj:sg:loc:f:pos		
+> roślinopodobnemu	roślinopodobny:a1	adj:sg:dat:m1.m2.m3.n:pos		
+> roślinopodobne	roślinopodobny:a1	adj:pl:acc:m2.m3.f.n:pos		
+> roślinopodobne	roślinopodobny:a1	adj:pl:nom.voc:m2.m3.f.n:pos		
+> roślinopodobne	roślinopodobny:a1	adj:sg:acc:n:pos		
+> roślinopodobne	roślinopodobny:a1	adj:sg:nom.voc:n:pos		
+> roślinopodobni	roślinopodobny:a1	adj:pl:nom.voc:m1:pos		
+> roślinopodobno	roślinopodobny:a1	adja		
+> roślinopodobnych	roślinopodobny:a1	adj:pl:acc:m1:pos		
+> roślinopodobnych	roślinopodobny:a1	adj:pl:gen:m1.m2.m3.f.n:pos		
+> roślinopodobnych	roślinopodobny:a1	adj:pl:loc:m1.m2.m3.f.n:pos		
+> roślinopodobnymi	roślinopodobny:a1	adj:pl:inst:m1.m2.m3.f.n:pos		
+> roślinopodobnym	roślinopodobny:a1	adj:pl:dat:m1.m2.m3.f.n:pos		
+> roślinopodobnym	roślinopodobny:a1	adj:sg:inst:m1.m2.m3.n:pos		
+> roślinopodobnym	roślinopodobny:a1	adj:sg:loc:m1.m2.m3.n:pos		
+> roślinopodobny	roślinopodobny:a1	adj:sg:acc:m3:pos		
+> roślinopodobny	roślinopodobny:a1	adj:sg:nom.voc:m1.m2.m3:pos		
+> roślinopodobna	roślinopodobny:a2	adj:sg:nom.voc:f:pos		biol.
+> roślinopodobną	roślinopodobny:a2	adj:sg:acc:f:pos		biol.
+> roślinopodobną	roślinopodobny:a2	adj:sg:inst:f:pos		biol.
+> roślinopodobnego	roślinopodobny:a2	adj:sg:acc:m1.m2:pos		biol.
+> roślinopodobnego	roślinopodobny:a2	adj:sg:gen:m1.m2.m3.n:pos		biol.
+> roślinopodobnej	roślinopodobny:a2	adj:sg:dat:f:pos		biol.
+> roślinopodobnej	roślinopodobny:a2	adj:sg:gen:f:pos		biol.
+> roślinopodobnej	roślinopodobny:a2	adj:sg:loc:f:pos		biol.
+> roślinopodobnemu	roślinopodobny:a2	adj:sg:dat:m1.m2.m3.n:pos		biol.
+> roślinopodobne	roślinopodobny:a2	adj:pl:acc:m2.m3.f.n:pos		biol.
+> roślinopodobne	roślinopodobny:a2	adj:pl:nom.voc:m2.m3.f.n:pos		biol.
+> roślinopodobne	roślinopodobny:a2	adj:sg:acc:n:pos		biol.
+> roślinopodobne	roślinopodobny:a2	adj:sg:nom.voc:n:pos		biol.
+> roślinopodobni	roślinopodobny:a2	adj:pl:nom.voc:m1:pos		biol.
+> roślinopodobno	roślinopodobny:a2	adja		biol.
+> roślinopodobnych	roślinopodobny:a2	adj:pl:acc:m1:pos		biol.
+> roślinopodobnych	roślinopodobny:a2	adj:pl:gen:m1.m2.m3.f.n:pos		biol.
+> roślinopodobnych	roślinopodobny:a2	adj:pl:loc:m1.m2.m3.f.n:pos		biol.
+> roślinopodobnymi	roślinopodobny:a2	adj:pl:inst:m1.m2.m3.f.n:pos		biol.
+> roślinopodobnym	roślinopodobny:a2	adj:pl:dat:m1.m2.m3.f.n:pos		biol.
+> roślinopodobnym	roślinopodobny:a2	adj:sg:inst:m1.m2.m3.n:pos		biol.
+> roślinopodobnym	roślinopodobny:a2	adj:sg:loc:m1.m2.m3.n:pos		biol.
+> roślinopodobny	roślinopodobny:a2	adj:sg:acc:m3:pos		biol.
+> roślinopodobny	roślinopodobny:a2	adj:sg:nom.voc:m1.m2.m3:pos		biol.
+5035500d5035748
+< tatulo	tatulo	subst:sg:voc:m1	nazwa pospolita	
+5035504a5035753
+> tatulu	tatulo	subst:sg:voc:m1	nazwa pospolita	
+5553796a5554046,5554110
+> niewtłuczeniach	wtłuc	ger:pl:loc:n:perf:neg		
+> niewtłuczeniami	wtłuc	ger:pl:inst:n:perf:neg		
+> niewtłuczenia	wtłuc	ger:pl:nom.acc:n:perf:neg		
+> niewtłuczenia	wtłuc	ger:sg:gen:n:perf:neg		
+> niewtłuczeniem	wtłuc	ger:sg:inst:n:perf:neg		
+> niewtłuczenie	wtłuc	ger:sg:nom.acc:n:perf:neg		
+> niewtłuczeniom	wtłuc	ger:pl:dat:n:perf:neg		
+> niewtłuczeniu	wtłuc	ger:sg:dat.loc:n:perf:neg		
+> niewtłuczeń	wtłuc	ger:pl:gen:n:perf:neg		
+> wtłuc	wtłuc	inf:perf		
+> wtłuczcie	wtłuc	impt:pl:sec:perf		
+> wtłuczecie	wtłuc	fin:pl:sec:perf		
+> wtłuczemy	wtłuc	fin:pl:pri:perf		
+> wtłuczeniach	wtłuc	ger:pl:loc:n:perf:aff		
+> wtłuczeniami	wtłuc	ger:pl:inst:n:perf:aff		
+> wtłuczenia	wtłuc	ger:pl:nom.acc:n:perf:aff		
+> wtłuczenia	wtłuc	ger:sg:gen:n:perf:aff		
+> wtłuczeniem	wtłuc	ger:sg:inst:n:perf:aff		
+> wtłuczenie	wtłuc	ger:sg:nom.acc:n:perf:aff		
+> wtłuczeniom	wtłuc	ger:pl:dat:n:perf:aff		
+> wtłuczeniu	wtłuc	ger:sg:dat.loc:n:perf:aff		
+> wtłuczeń	wtłuc	ger:pl:gen:n:perf:aff		
+> wtłuczesz	wtłuc	fin:sg:sec:perf		
+> wtłucze	wtłuc	fin:sg:ter:perf		
+> wtłuczmy	wtłuc	impt:pl:pri:perf		
+> wtłuczono	wtłuc	imps:perf		
+> wtłucz	wtłuc	impt:sg:sec:perf		
+> wtłuką	wtłuc	fin:pl:ter:perf		
+> wtłukę	wtłuc	fin:sg:pri:perf		
+> wtłuklibyście	wtłuc	cond:pl:m1:sec:perf		
+> wtłuklibyśmy	wtłuc	cond:pl:m1:pri:perf		
+> wtłukliby	wtłuc	cond:pl:m1:ter:perf		
+> wtłukliście	wtłuc	praet:pl:m1:sec:perf		
+> wtłukliśmy	wtłuc	praet:pl:m1:pri:perf		
+> wtłukli	wtłuc	praet:pl:m1:perf		
+> wtłukli	wtłuc	praet:pl:m1:ter:perf		
+> wtłukłabym	wtłuc	cond:sg:f:pri:perf		
+> wtłukłabyś	wtłuc	cond:sg:f:sec:perf		
+> wtłukłaby	wtłuc	cond:sg:f:ter:perf		
+> wtłukłam	wtłuc	praet:sg:f:pri:perf		
+> wtłukłaś	wtłuc	praet:sg:f:sec:perf		
+> wtłukła	wtłuc	praet:sg:f:perf		
+> wtłukła	wtłuc	praet:sg:f:ter:perf		
+> wtłukłbym	wtłuc	cond:sg:m1.m2.m3:pri:perf		
+> wtłukłbyś	wtłuc	cond:sg:m1.m2.m3:sec:perf		
+> wtłukłby	wtłuc	cond:sg:m1.m2.m3:ter:perf		
+> wtłukłem	wtłuc	praet:sg:m1.m2.m3:pri:perf		
+> wtłukłeś	wtłuc	praet:sg:m1.m2.m3:sec:perf		
+> wtłukłobym	wtłuc	cond:sg:n:pri:perf		
+> wtłukłobyś	wtłuc	cond:sg:n:sec:perf		
+> wtłukłoby	wtłuc	cond:sg:n:ter:perf		
+> wtłukłom	wtłuc	praet:sg:n:pri:perf		
+> wtłukłoś	wtłuc	praet:sg:n:sec:perf		
+> wtłukło	wtłuc	praet:sg:n:perf		
+> wtłukło	wtłuc	praet:sg:n:ter:perf		
+> wtłukłszy	wtłuc	pant:perf		
+> wtłukł	wtłuc	praet:sg:m1.m2.m3:perf		
+> wtłukł	wtłuc	praet:sg:m1.m2.m3:ter:perf		
+> wtłukłybyście	wtłuc	cond:pl:m2.m3.f.n:sec:perf		
+> wtłukłybyśmy	wtłuc	cond:pl:m2.m3.f.n:pri:perf		
+> wtłukłyby	wtłuc	cond:pl:m2.m3.f.n:ter:perf		
+> wtłukłyście	wtłuc	praet:pl:m2.m3.f.n:sec:perf		
+> wtłukłyśmy	wtłuc	praet:pl:m2.m3.f.n:pri:perf		
+> wtłukły	wtłuc	praet:pl:m2.m3.f.n:perf		
+> wtłukły	wtłuc	praet:pl:m2.m3.f.n:ter:perf		
+5808996a5809311,5809440
+> niewyszykowująca	wyszykowywać	pact:sg:nom.voc:f:imperf:neg		
+> niewyszykowującą	wyszykowywać	pact:sg:acc.inst:f:imperf:neg		
+> niewyszykowującego	wyszykowywać	pact:sg:acc:m1.m2:imperf:neg		
+> niewyszykowującego	wyszykowywać	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> niewyszykowującej	wyszykowywać	pact:sg:gen.dat.loc:f:imperf:neg		
+> niewyszykowującemu	wyszykowywać	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> niewyszykowujące	wyszykowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niewyszykowujące	wyszykowywać	pact:sg:nom.acc.voc:n:imperf:neg		
+> niewyszykowujących	wyszykowywać	pact:pl:acc:m1:imperf:neg		
+> niewyszykowujących	wyszykowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niewyszykowującymi	wyszykowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niewyszykowującym	wyszykowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niewyszykowującym	wyszykowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niewyszykowujący	wyszykowywać	pact:pl:nom.voc:m1:imperf:neg		
+> niewyszykowujący	wyszykowywać	pact:sg:acc:m3:imperf:neg		
+> niewyszykowujący	wyszykowywać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niewyszykowywana	wyszykowywać	ppas:sg:nom.voc:f:imperf:neg		
+> niewyszykowywaną	wyszykowywać	ppas:sg:acc.inst:f:imperf:neg		
+> niewyszykowywanego	wyszykowywać	ppas:sg:acc:m1.m2:imperf:neg		
+> niewyszykowywanego	wyszykowywać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> niewyszykowywanej	wyszykowywać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> niewyszykowywanemu	wyszykowywać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> niewyszykowywane	wyszykowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niewyszykowywane	wyszykowywać	ppas:sg:nom.acc.voc:n:imperf:neg		
+> niewyszykowywaniach	wyszykowywać	ger:pl:loc:n:imperf:neg		
+> niewyszykowywaniami	wyszykowywać	ger:pl:inst:n:imperf:neg		
+> niewyszykowywania	wyszykowywać	ger:pl:nom.acc:n:imperf:neg		
+> niewyszykowywania	wyszykowywać	ger:sg:gen:n:imperf:neg		
+> niewyszykowywaniem	wyszykowywać	ger:sg:inst:n:imperf:neg		
+> niewyszykowywanie	wyszykowywać	ger:sg:nom.acc:n:imperf:neg		
+> niewyszykowywaniom	wyszykowywać	ger:pl:dat:n:imperf:neg		
+> niewyszykowywaniu	wyszykowywać	ger:sg:dat.loc:n:imperf:neg		
+> niewyszykowywani	wyszykowywać	ppas:pl:nom.voc:m1:imperf:neg		
+> niewyszykowywanych	wyszykowywać	ppas:pl:acc:m1:imperf:neg		
+> niewyszykowywanych	wyszykowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niewyszykowywanymi	wyszykowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niewyszykowywanym	wyszykowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niewyszykowywanym	wyszykowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niewyszykowywany	wyszykowywać	ppas:sg:acc:m3:imperf:neg		
+> niewyszykowywany	wyszykowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niewyszykowywań	wyszykowywać	ger:pl:gen:n:imperf:neg		
+> wyszykowująca	wyszykowywać	pact:sg:nom.voc:f:imperf:aff		
+> wyszykowującą	wyszykowywać	pact:sg:acc.inst:f:imperf:aff		
+> wyszykowującego	wyszykowywać	pact:sg:acc:m1.m2:imperf:aff		
+> wyszykowującego	wyszykowywać	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> wyszykowującej	wyszykowywać	pact:sg:gen.dat.loc:f:imperf:aff		
+> wyszykowującemu	wyszykowywać	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> wyszykowujące	wyszykowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> wyszykowujące	wyszykowywać	pact:sg:nom.acc.voc:n:imperf:aff		
+> wyszykowująco	wyszykowywać	pacta		
+> wyszykowując	wyszykowywać	pcon:imperf		
+> wyszykowujących	wyszykowywać	pact:pl:acc:m1:imperf:aff		
+> wyszykowujących	wyszykowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> wyszykowującymi	wyszykowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> wyszykowującym	wyszykowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> wyszykowującym	wyszykowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> wyszykowujący	wyszykowywać	pact:pl:nom.voc:m1:imperf:aff		
+> wyszykowujący	wyszykowywać	pact:sg:acc:m3:imperf:aff		
+> wyszykowujący	wyszykowywać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> wyszykowują	wyszykowywać	fin:pl:ter:imperf		
+> wyszykowujcie	wyszykowywać	impt:pl:sec:imperf		
+> wyszykowujecie	wyszykowywać	fin:pl:sec:imperf		
+> wyszykowujemy	wyszykowywać	fin:pl:pri:imperf		
+> wyszykowujesz	wyszykowywać	fin:sg:sec:imperf		
+> wyszykowuje	wyszykowywać	fin:sg:ter:imperf		
+> wyszykowuję	wyszykowywać	fin:sg:pri:imperf		
+> wyszykowujmy	wyszykowywać	impt:pl:pri:imperf		
+> wyszykowuj	wyszykowywać	impt:sg:sec:imperf		
+> wyszykowywać	wyszykowywać	inf:imperf		
+> wyszykowywalibyście	wyszykowywać	cond:pl:m1:sec:imperf		
+> wyszykowywalibyśmy	wyszykowywać	cond:pl:m1:pri:imperf		
+> wyszykowywaliby	wyszykowywać	cond:pl:m1:ter:imperf		
+> wyszykowywaliście	wyszykowywać	praet:pl:m1:sec:imperf		
+> wyszykowywaliśmy	wyszykowywać	praet:pl:m1:pri:imperf		
+> wyszykowywali	wyszykowywać	praet:pl:m1:imperf		
+> wyszykowywali	wyszykowywać	praet:pl:m1:ter:imperf		
+> wyszykowywałabym	wyszykowywać	cond:sg:f:pri:imperf		
+> wyszykowywałabyś	wyszykowywać	cond:sg:f:sec:imperf		
+> wyszykowywałaby	wyszykowywać	cond:sg:f:ter:imperf		
+> wyszykowywałam	wyszykowywać	praet:sg:f:pri:imperf		
+> wyszykowywałaś	wyszykowywać	praet:sg:f:sec:imperf		
+> wyszykowywała	wyszykowywać	praet:sg:f:imperf		
+> wyszykowywała	wyszykowywać	praet:sg:f:ter:imperf		
+> wyszykowywałbym	wyszykowywać	cond:sg:m1.m2.m3:pri:imperf		
+> wyszykowywałbyś	wyszykowywać	cond:sg:m1.m2.m3:sec:imperf		
+> wyszykowywałby	wyszykowywać	cond:sg:m1.m2.m3:ter:imperf		
+> wyszykowywałem	wyszykowywać	praet:sg:m1.m2.m3:pri:imperf		
+> wyszykowywałeś	wyszykowywać	praet:sg:m1.m2.m3:sec:imperf		
+> wyszykowywałobym	wyszykowywać	cond:sg:n:pri:imperf		
+> wyszykowywałobyś	wyszykowywać	cond:sg:n:sec:imperf		
+> wyszykowywałoby	wyszykowywać	cond:sg:n:ter:imperf		
+> wyszykowywałom	wyszykowywać	praet:sg:n:pri:imperf		
+> wyszykowywałoś	wyszykowywać	praet:sg:n:sec:imperf		
+> wyszykowywało	wyszykowywać	praet:sg:n:imperf		
+> wyszykowywało	wyszykowywać	praet:sg:n:ter:imperf		
+> wyszykowywał	wyszykowywać	praet:sg:m1.m2.m3:imperf		
+> wyszykowywał	wyszykowywać	praet:sg:m1.m2.m3:ter:imperf		
+> wyszykowywałybyście	wyszykowywać	cond:pl:m2.m3.f.n:sec:imperf		
+> wyszykowywałybyśmy	wyszykowywać	cond:pl:m2.m3.f.n:pri:imperf		
+> wyszykowywałyby	wyszykowywać	cond:pl:m2.m3.f.n:ter:imperf		
+> wyszykowywałyście	wyszykowywać	praet:pl:m2.m3.f.n:sec:imperf		
+> wyszykowywałyśmy	wyszykowywać	praet:pl:m2.m3.f.n:pri:imperf		
+> wyszykowywały	wyszykowywać	praet:pl:m2.m3.f.n:imperf		
+> wyszykowywały	wyszykowywać	praet:pl:m2.m3.f.n:ter:imperf		
+> wyszykowywana	wyszykowywać	ppas:sg:nom.voc:f:imperf:aff		
+> wyszykowywaną	wyszykowywać	ppas:sg:acc.inst:f:imperf:aff		
+> wyszykowywanego	wyszykowywać	ppas:sg:acc:m1.m2:imperf:aff		
+> wyszykowywanego	wyszykowywać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> wyszykowywanej	wyszykowywać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> wyszykowywanemu	wyszykowywać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> wyszykowywane	wyszykowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> wyszykowywane	wyszykowywać	ppas:sg:nom.acc.voc:n:imperf:aff		
+> wyszykowywaniach	wyszykowywać	ger:pl:loc:n:imperf:aff		
+> wyszykowywaniami	wyszykowywać	ger:pl:inst:n:imperf:aff		
+> wyszykowywania	wyszykowywać	ger:pl:nom.acc:n:imperf:aff		
+> wyszykowywania	wyszykowywać	ger:sg:gen:n:imperf:aff		
+> wyszykowywaniem	wyszykowywać	ger:sg:inst:n:imperf:aff		
+> wyszykowywanie	wyszykowywać	ger:sg:nom.acc:n:imperf:aff		
+> wyszykowywaniom	wyszykowywać	ger:pl:dat:n:imperf:aff		
+> wyszykowywaniu	wyszykowywać	ger:sg:dat.loc:n:imperf:aff		
+> wyszykowywani	wyszykowywać	ppas:pl:nom.voc:m1:imperf:aff		
+> wyszykowywano	wyszykowywać	imps:imperf		
+> wyszykowywanych	wyszykowywać	ppas:pl:acc:m1:imperf:aff		
+> wyszykowywanych	wyszykowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> wyszykowywanymi	wyszykowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> wyszykowywanym	wyszykowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> wyszykowywanym	wyszykowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> wyszykowywany	wyszykowywać	ppas:sg:acc:m3:imperf:aff		
+> wyszykowywany	wyszykowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> wyszykowywań	wyszykowywać	ger:pl:gen:n:imperf:aff		

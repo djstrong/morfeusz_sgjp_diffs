@@ -1,0 +1,3158 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.03.12
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.03.19
+15513a15514,15541
+> AF-ach	AF	subst:pl:loc:m3	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:pl:acc:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:pl:dat:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:pl:gen:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:pl:inst:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:pl:loc:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:pl:nom:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:pl:voc:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:sg:acc:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:sg:acc:m3	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:sg:dat:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:sg:gen:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:sg:inst:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:sg:loc:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:sg:nom:f	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:sg:nom:m3	nazwa organizacji|nazwa firmy	
+> AF	AF	subst:sg:voc:f	nazwa organizacji|nazwa firmy	
+> AF-ami	AF	subst:pl:inst:m3	nazwa organizacji|nazwa firmy	
+> AF-em	AF	subst:sg:inst:m3	nazwa organizacji|nazwa firmy	
+> AF-ie	AF	subst:sg:loc:m3	nazwa organizacji|nazwa firmy	
+> AF-ie	AF	subst:sg:voc:m3	nazwa organizacji|nazwa firmy	
+> AF-om	AF	subst:pl:dat:m3	nazwa organizacji|nazwa firmy	
+> AF-owi	AF	subst:sg:dat:m3	nazwa organizacji|nazwa firmy	
+> AF-ów	AF	subst:pl:gen:m3	nazwa organizacji|nazwa firmy	
+> AF-u	AF	subst:sg:gen:m3	nazwa organizacji|nazwa firmy	
+> AF-y	AF	subst:pl:acc:m3	nazwa organizacji|nazwa firmy	
+> AF-y	AF	subst:pl:nom:m3	nazwa organizacji|nazwa firmy	
+> AF-y	AF	subst:pl:voc:m3	nazwa organizacji|nazwa firmy	
+18282,18337d18309
+< AF-ach	AF:s1	subst:pl:loc:m3	nazwa organizacji	
+< AF	AF:s1	subst:pl:acc:f	nazwa organizacji	
+< AF	AF:s1	subst:pl:dat:f	nazwa organizacji	
+< AF	AF:s1	subst:pl:gen:f	nazwa organizacji	
+< AF	AF:s1	subst:pl:inst:f	nazwa organizacji	
+< AF	AF:s1	subst:pl:loc:f	nazwa organizacji	
+< AF	AF:s1	subst:pl:nom:f	nazwa organizacji	
+< AF	AF:s1	subst:pl:voc:f	nazwa organizacji	
+< AF	AF:s1	subst:sg:acc:f	nazwa organizacji	
+< AF	AF:s1	subst:sg:acc:m3	nazwa organizacji	
+< AF	AF:s1	subst:sg:dat:f	nazwa organizacji	
+< AF	AF:s1	subst:sg:gen:f	nazwa organizacji	
+< AF	AF:s1	subst:sg:inst:f	nazwa organizacji	
+< AF	AF:s1	subst:sg:loc:f	nazwa organizacji	
+< AF	AF:s1	subst:sg:nom:f	nazwa organizacji	
+< AF	AF:s1	subst:sg:nom:m3	nazwa organizacji	
+< AF	AF:s1	subst:sg:voc:f	nazwa organizacji	
+< AF-ami	AF:s1	subst:pl:inst:m3	nazwa organizacji	
+< AF-em	AF:s1	subst:sg:inst:m3	nazwa organizacji	
+< AF-ie	AF:s1	subst:sg:loc:m3	nazwa organizacji	
+< AF-ie	AF:s1	subst:sg:voc:m3	nazwa organizacji	
+< AF-om	AF:s1	subst:pl:dat:m3	nazwa organizacji	
+< AF-owi	AF:s1	subst:sg:dat:m3	nazwa organizacji	
+< AF-ów	AF:s1	subst:pl:gen:m3	nazwa organizacji	
+< AF-u	AF:s1	subst:sg:gen:m3	nazwa organizacji	
+< AF-y	AF:s1	subst:pl:acc:m3	nazwa organizacji	
+< AF-y	AF:s1	subst:pl:nom:m3	nazwa organizacji	
+< AF-y	AF:s1	subst:pl:voc:m3	nazwa organizacji	
+< AF-ach	AF:s2	subst:pl:loc:m3	nazwa firmy	
+< AF	AF:s2	subst:pl:acc:f	nazwa firmy	
+< AF	AF:s2	subst:pl:dat:f	nazwa firmy	
+< AF	AF:s2	subst:pl:gen:f	nazwa firmy	
+< AF	AF:s2	subst:pl:inst:f	nazwa firmy	
+< AF	AF:s2	subst:pl:loc:f	nazwa firmy	
+< AF	AF:s2	subst:pl:nom:f	nazwa firmy	
+< AF	AF:s2	subst:pl:voc:f	nazwa firmy	
+< AF	AF:s2	subst:sg:acc:f	nazwa firmy	
+< AF	AF:s2	subst:sg:acc:m3	nazwa firmy	
+< AF	AF:s2	subst:sg:dat:f	nazwa firmy	
+< AF	AF:s2	subst:sg:gen:f	nazwa firmy	
+< AF	AF:s2	subst:sg:inst:f	nazwa firmy	
+< AF	AF:s2	subst:sg:loc:f	nazwa firmy	
+< AF	AF:s2	subst:sg:nom:f	nazwa firmy	
+< AF	AF:s2	subst:sg:nom:m3	nazwa firmy	
+< AF	AF:s2	subst:sg:voc:f	nazwa firmy	
+< AF-ami	AF:s2	subst:pl:inst:m3	nazwa firmy	
+< AF-em	AF:s2	subst:sg:inst:m3	nazwa firmy	
+< AF-ie	AF:s2	subst:sg:loc:m3	nazwa firmy	
+< AF-ie	AF:s2	subst:sg:voc:m3	nazwa firmy	
+< AF-om	AF:s2	subst:pl:dat:m3	nazwa firmy	
+< AF-owi	AF:s2	subst:sg:dat:m3	nazwa firmy	
+< AF-ów	AF:s2	subst:pl:gen:m3	nazwa firmy	
+< AF-u	AF:s2	subst:sg:gen:m3	nazwa firmy	
+< AF-y	AF:s2	subst:pl:acc:m3	nazwa firmy	
+< AF-y	AF:s2	subst:pl:nom:m3	nazwa firmy	
+< AF-y	AF:s2	subst:pl:voc:m3	nazwa firmy	
+23614,23641c23586,23599
+< AI	AI:s2	subst:pl:acc:f	nazwa pospolita	
+< AI	AI:s2	subst:pl:dat:f	nazwa pospolita	
+< AI	AI:s2	subst:pl:gen:f	nazwa pospolita	
+< AI	AI:s2	subst:pl:inst:f	nazwa pospolita	
+< AI	AI:s2	subst:pl:loc:f	nazwa pospolita	
+< AI	AI:s2	subst:pl:nom:f	nazwa pospolita	
+< AI	AI:s2	subst:pl:voc:f	nazwa pospolita	
+< AI	AI:s2	subst:sg:acc:f	nazwa pospolita	
+< AI	AI:s2	subst:sg:dat:f	nazwa pospolita	
+< AI	AI:s2	subst:sg:gen:f	nazwa pospolita	
+< AI	AI:s2	subst:sg:inst:f	nazwa pospolita	
+< AI	AI:s2	subst:sg:loc:f	nazwa pospolita	
+< AI	AI:s2	subst:sg:nom:f	nazwa pospolita	
+< AI	AI:s2	subst:sg:voc:f	nazwa pospolita	
+< AI	AI:s3	subst:pl:acc:f	nazwa firmy	
+< AI	AI:s3	subst:pl:dat:f	nazwa firmy	
+< AI	AI:s3	subst:pl:gen:f	nazwa firmy	
+< AI	AI:s3	subst:pl:inst:f	nazwa firmy	
+< AI	AI:s3	subst:pl:loc:f	nazwa firmy	
+< AI	AI:s3	subst:pl:nom:f	nazwa firmy	
+< AI	AI:s3	subst:pl:voc:f	nazwa firmy	
+< AI	AI:s3	subst:sg:acc:f	nazwa firmy	
+< AI	AI:s3	subst:sg:dat:f	nazwa firmy	
+< AI	AI:s3	subst:sg:gen:f	nazwa firmy	
+< AI	AI:s3	subst:sg:inst:f	nazwa firmy	
+< AI	AI:s3	subst:sg:loc:f	nazwa firmy	
+< AI	AI:s3	subst:sg:nom:f	nazwa firmy	
+< AI	AI:s3	subst:sg:voc:f	nazwa firmy	
+---
+> AI	AI:s2	subst:pl:acc:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:pl:dat:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:pl:gen:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:pl:inst:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:pl:loc:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:pl:nom:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:pl:voc:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:sg:acc:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:sg:dat:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:sg:gen:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:sg:inst:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:sg:loc:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:sg:nom:f	nazwa pospolita|nazwa firmy	
+> AI	AI:s2	subst:sg:voc:f	nazwa pospolita|nazwa firmy	
+93548,93563d93505
+< argonauci	argonauta:s1	subst:pl:nom:m1	nazwa pospolita	przen.
+< argonauci	argonauta:s1	subst:pl:voc:m1	nazwa pospolita	przen.
+< argonaucie	argonauta:s1	subst:sg:dat:m1	nazwa pospolita	przen.
+< argonaucie	argonauta:s1	subst:sg:loc:m1	nazwa pospolita	przen.
+< argonauta	argonauta:s1	subst:sg:nom:m1	nazwa pospolita	przen.
+< argonautach	argonauta:s1	subst:pl:loc:m1	nazwa pospolita	przen.
+< argonautami	argonauta:s1	subst:pl:inst:m1	nazwa pospolita	przen.
+< argonautą	argonauta:s1	subst:sg:inst:m1	nazwa pospolita	przen.
+< argonautę	argonauta:s1	subst:sg:acc:m1	nazwa pospolita	przen.
+< argonauto	argonauta:s1	subst:sg:voc:m1	nazwa pospolita	przen.
+< argonautom	argonauta:s1	subst:pl:dat:m1	nazwa pospolita	przen.
+< argonautów	argonauta:s1	subst:pl:acc:m1	nazwa pospolita	przen.
+< argonautów	argonauta:s1	subst:pl:gen:m1	nazwa pospolita	przen.
+< argonauty	argonauta:s1	depr:pl:nom:m2	nazwa pospolita	przen.
+< argonauty	argonauta:s1	depr:pl:voc:m2	nazwa pospolita	przen.
+< argonauty	argonauta:s1	subst:sg:gen:m1	nazwa pospolita	przen.
+93578,93593c93520,93535
+< argonauci	argonauta:s3	subst:pl:nom:m1	nazwa pospolita	hist.
+< argonauci	argonauta:s3	subst:pl:voc:m1	nazwa pospolita	hist.
+< argonaucie	argonauta:s3	subst:sg:dat:m1	nazwa pospolita	hist.
+< argonaucie	argonauta:s3	subst:sg:loc:m1	nazwa pospolita	hist.
+< argonauta	argonauta:s3	subst:sg:nom:m1	nazwa pospolita	hist.
+< argonautach	argonauta:s3	subst:pl:loc:m1	nazwa pospolita	hist.
+< argonautami	argonauta:s3	subst:pl:inst:m1	nazwa pospolita	hist.
+< argonautą	argonauta:s3	subst:sg:inst:m1	nazwa pospolita	hist.
+< argonautę	argonauta:s3	subst:sg:acc:m1	nazwa pospolita	hist.
+< argonauto	argonauta:s3	subst:sg:voc:m1	nazwa pospolita	hist.
+< argonautom	argonauta:s3	subst:pl:dat:m1	nazwa pospolita	hist.
+< argonautów	argonauta:s3	subst:pl:acc:m1	nazwa pospolita	hist.
+< argonautów	argonauta:s3	subst:pl:gen:m1	nazwa pospolita	hist.
+< argonauty	argonauta:s3	depr:pl:nom:m2	nazwa pospolita	hist.
+< argonauty	argonauta:s3	depr:pl:voc:m2	nazwa pospolita	hist.
+< argonauty	argonauta:s3	subst:sg:gen:m1	nazwa pospolita	hist.
+---
+> argonauci	argonauta:s3	subst:pl:nom:m1	nazwa pospolita	
+> argonauci	argonauta:s3	subst:pl:voc:m1	nazwa pospolita	
+> argonaucie	argonauta:s3	subst:sg:dat:m1	nazwa pospolita	
+> argonaucie	argonauta:s3	subst:sg:loc:m1	nazwa pospolita	
+> argonauta	argonauta:s3	subst:sg:nom:m1	nazwa pospolita	
+> argonautach	argonauta:s3	subst:pl:loc:m1	nazwa pospolita	
+> argonautami	argonauta:s3	subst:pl:inst:m1	nazwa pospolita	
+> argonautą	argonauta:s3	subst:sg:inst:m1	nazwa pospolita	
+> argonautę	argonauta:s3	subst:sg:acc:m1	nazwa pospolita	
+> argonauto	argonauta:s3	subst:sg:voc:m1	nazwa pospolita	
+> argonautom	argonauta:s3	subst:pl:dat:m1	nazwa pospolita	
+> argonautów	argonauta:s3	subst:pl:acc:m1	nazwa pospolita	
+> argonautów	argonauta:s3	subst:pl:gen:m1	nazwa pospolita	
+> argonauty	argonauta:s3	depr:pl:nom:m2	nazwa pospolita	
+> argonauty	argonauta:s3	depr:pl:voc:m2	nazwa pospolita	
+> argonauty	argonauta:s3	subst:sg:gen:m1	nazwa pospolita	
+96926,96953c96868,96881
+< arseninach	arsenin:s1	subst:pl:loc:m3	nazwa pospolita	
+< arseninami	arsenin:s1	subst:pl:inst:m3	nazwa pospolita	
+< arsenin	arsenin:s1	subst:sg:acc:m3	nazwa pospolita	
+< arsenin	arsenin:s1	subst:sg:nom:m3	nazwa pospolita	
+< arseninem	arsenin:s1	subst:sg:inst:m3	nazwa pospolita	
+< arseninie	arsenin:s1	subst:sg:loc:m3	nazwa pospolita	
+< arseninie	arsenin:s1	subst:sg:voc:m3	nazwa pospolita	
+< arseninom	arsenin:s1	subst:pl:dat:m3	nazwa pospolita	
+< arseninowi	arsenin:s1	subst:sg:dat:m3	nazwa pospolita	
+< arseninów	arsenin:s1	subst:pl:gen:m3	nazwa pospolita	
+< arseninu	arsenin:s1	subst:sg:gen:m3	nazwa pospolita	
+< arseniny	arsenin:s1	subst:pl:acc:m3	nazwa pospolita	
+< arseniny	arsenin:s1	subst:pl:nom:m3	nazwa pospolita	
+< arseniny	arsenin:s1	subst:pl:voc:m3	nazwa pospolita	
+< arseninach	arsenin:s2	subst:pl:loc:m3	nazwa pospolita	
+< arseninami	arsenin:s2	subst:pl:inst:m3	nazwa pospolita	
+< arsenin	arsenin:s2	subst:sg:acc:m3	nazwa pospolita	
+< arsenin	arsenin:s2	subst:sg:nom:m3	nazwa pospolita	
+< arseninem	arsenin:s2	subst:sg:inst:m3	nazwa pospolita	
+< arseninie	arsenin:s2	subst:sg:loc:m3	nazwa pospolita	
+< arseninie	arsenin:s2	subst:sg:voc:m3	nazwa pospolita	
+< arseninom	arsenin:s2	subst:pl:dat:m3	nazwa pospolita	
+< arseninowi	arsenin:s2	subst:sg:dat:m3	nazwa pospolita	
+< arseninów	arsenin:s2	subst:pl:gen:m3	nazwa pospolita	
+< arseninu	arsenin:s2	subst:sg:gen:m3	nazwa pospolita	
+< arseniny	arsenin:s2	subst:pl:acc:m3	nazwa pospolita	
+< arseniny	arsenin:s2	subst:pl:nom:m3	nazwa pospolita	
+< arseniny	arsenin:s2	subst:pl:voc:m3	nazwa pospolita	
+---
+> arseninach	arsenin	subst:pl:loc:m3	nazwa pospolita	chem.
+> arseninami	arsenin	subst:pl:inst:m3	nazwa pospolita	chem.
+> arsenin	arsenin	subst:sg:acc:m3	nazwa pospolita	chem.
+> arsenin	arsenin	subst:sg:nom:m3	nazwa pospolita	chem.
+> arseninem	arsenin	subst:sg:inst:m3	nazwa pospolita	chem.
+> arseninie	arsenin	subst:sg:loc:m3	nazwa pospolita	chem.
+> arseninie	arsenin	subst:sg:voc:m3	nazwa pospolita	chem.
+> arseninom	arsenin	subst:pl:dat:m3	nazwa pospolita	chem.
+> arseninowi	arsenin	subst:sg:dat:m3	nazwa pospolita	chem.
+> arseninów	arsenin	subst:pl:gen:m3	nazwa pospolita	chem.
+> arseninu	arsenin	subst:sg:gen:m3	nazwa pospolita	chem.
+> arseniny	arsenin	subst:pl:acc:m3	nazwa pospolita	chem.
+> arseniny	arsenin	subst:pl:nom:m3	nazwa pospolita	chem.
+> arseniny	arsenin	subst:pl:voc:m3	nazwa pospolita	chem.
+246522,246549c246450,246463
+< bordo	bordo:s1	subst:pl:acc:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:pl:dat:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:pl:gen:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:pl:inst:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:pl:loc:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:pl:nom:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:pl:voc:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:sg:acc:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:sg:dat:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:sg:gen:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:sg:inst:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:sg:loc:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:sg:nom:n2	nazwa pospolita	kulin.
+< bordo	bordo:s1	subst:sg:voc:n2	nazwa pospolita	kulin.
+< bordo	bordo:s2	subst:pl:acc:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:pl:dat:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:pl:gen:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:pl:inst:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:pl:loc:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:pl:nom:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:pl:voc:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:sg:acc:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:sg:dat:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:sg:gen:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:sg:inst:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:sg:loc:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:sg:nom:n2	nazwa pospolita	
+< bordo	bordo:s2	subst:sg:voc:n2	nazwa pospolita	
+---
+> bordo	bordo:s	subst:pl:acc:n2	nazwa pospolita	
+> bordo	bordo:s	subst:pl:dat:n2	nazwa pospolita	
+> bordo	bordo:s	subst:pl:gen:n2	nazwa pospolita	
+> bordo	bordo:s	subst:pl:inst:n2	nazwa pospolita	
+> bordo	bordo:s	subst:pl:loc:n2	nazwa pospolita	
+> bordo	bordo:s	subst:pl:nom:n2	nazwa pospolita	
+> bordo	bordo:s	subst:pl:voc:n2	nazwa pospolita	
+> bordo	bordo:s	subst:sg:acc:n2	nazwa pospolita	
+> bordo	bordo:s	subst:sg:dat:n2	nazwa pospolita	
+> bordo	bordo:s	subst:sg:gen:n2	nazwa pospolita	
+> bordo	bordo:s	subst:sg:inst:n2	nazwa pospolita	
+> bordo	bordo:s	subst:sg:loc:n2	nazwa pospolita	
+> bordo	bordo:s	subst:sg:nom:n2	nazwa pospolita	
+> bordo	bordo:s	subst:sg:voc:n2	nazwa pospolita	
+252414,252441d252327
+< BP	BP:s2	subst:pl:acc:m3	nazwa firmy	
+< BP	BP:s2	subst:pl:acc:n2	nazwa firmy	
+< BP	BP:s2	subst:pl:dat:m3	nazwa firmy	
+< BP	BP:s2	subst:pl:dat:n2	nazwa firmy	
+< BP	BP:s2	subst:pl:gen:m3	nazwa firmy	
+< BP	BP:s2	subst:pl:gen:n2	nazwa firmy	
+< BP	BP:s2	subst:pl:inst:m3	nazwa firmy	
+< BP	BP:s2	subst:pl:inst:n2	nazwa firmy	
+< BP	BP:s2	subst:pl:loc:m3	nazwa firmy	
+< BP	BP:s2	subst:pl:loc:n2	nazwa firmy	
+< BP	BP:s2	subst:pl:nom:m3	nazwa firmy	
+< BP	BP:s2	subst:pl:nom:n2	nazwa firmy	
+< BP	BP:s2	subst:pl:voc:m3	nazwa firmy	
+< BP	BP:s2	subst:pl:voc:n2	nazwa firmy	
+< BP	BP:s2	subst:sg:acc:m3	nazwa firmy	
+< BP	BP:s2	subst:sg:acc:n2	nazwa firmy	
+< BP	BP:s2	subst:sg:dat:m3	nazwa firmy	
+< BP	BP:s2	subst:sg:dat:n2	nazwa firmy	
+< BP	BP:s2	subst:sg:gen:m3	nazwa firmy	
+< BP	BP:s2	subst:sg:gen:n2	nazwa firmy	
+< BP	BP:s2	subst:sg:inst:m3	nazwa firmy	
+< BP	BP:s2	subst:sg:inst:n2	nazwa firmy	
+< BP	BP:s2	subst:sg:loc:m3	nazwa firmy	
+< BP	BP:s2	subst:sg:loc:n2	nazwa firmy	
+< BP	BP:s2	subst:sg:nom:m3	nazwa firmy	
+< BP	BP:s2	subst:sg:nom:n2	nazwa firmy	
+< BP	BP:s2	subst:sg:voc:m3	nazwa firmy	
+< BP	BP:s2	subst:sg:voc:n2	nazwa firmy	
+306670,306725c306556,306583
+< CBS-ach	CBS:s1	subst:pl:loc:m3	nazwa organizacji	
+< CBS-ami	CBS:s1	subst:pl:inst:m3	nazwa organizacji	
+< CBS	CBS:s1	subst:pl:acc:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:pl:dat:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:pl:gen:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:pl:inst:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:pl:loc:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:pl:nom:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:pl:voc:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:sg:acc:m3	nazwa organizacji	
+< CBS	CBS:s1	subst:sg:acc:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:sg:dat:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:sg:gen:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:sg:inst:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:sg:loc:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:sg:nom:m3	nazwa organizacji	
+< CBS	CBS:s1	subst:sg:nom:n2	nazwa organizacji	
+< CBS	CBS:s1	subst:sg:voc:n2	nazwa organizacji	
+< CBS-em	CBS:s1	subst:sg:inst:m3	nazwa organizacji	
+< CBS-ie	CBS:s1	subst:sg:loc:m3	nazwa organizacji	
+< CBS-ie	CBS:s1	subst:sg:voc:m3	nazwa organizacji	
+< CBS-om	CBS:s1	subst:pl:dat:m3	nazwa organizacji	
+< CBS-owi	CBS:s1	subst:sg:dat:m3	nazwa organizacji	
+< CBS-ów	CBS:s1	subst:pl:gen:m3	nazwa organizacji	
+< CBS-u	CBS:s1	subst:sg:gen:m3	nazwa organizacji	
+< CBS-y	CBS:s1	subst:pl:acc:m3	nazwa organizacji	
+< CBS-y	CBS:s1	subst:pl:nom:m3	nazwa organizacji	
+< CBS-y	CBS:s1	subst:pl:voc:m3	nazwa organizacji	
+< CBS-ach	CBS:s2	subst:pl:loc:m3	nazwa firmy	
+< CBS-ami	CBS:s2	subst:pl:inst:m3	nazwa firmy	
+< CBS	CBS:s2	subst:pl:acc:n2	nazwa firmy	
+< CBS	CBS:s2	subst:pl:dat:n2	nazwa firmy	
+< CBS	CBS:s2	subst:pl:gen:n2	nazwa firmy	
+< CBS	CBS:s2	subst:pl:inst:n2	nazwa firmy	
+< CBS	CBS:s2	subst:pl:loc:n2	nazwa firmy	
+< CBS	CBS:s2	subst:pl:nom:n2	nazwa firmy	
+< CBS	CBS:s2	subst:pl:voc:n2	nazwa firmy	
+< CBS	CBS:s2	subst:sg:acc:m3	nazwa firmy	
+< CBS	CBS:s2	subst:sg:acc:n2	nazwa firmy	
+< CBS	CBS:s2	subst:sg:dat:n2	nazwa firmy	
+< CBS	CBS:s2	subst:sg:gen:n2	nazwa firmy	
+< CBS	CBS:s2	subst:sg:inst:n2	nazwa firmy	
+< CBS	CBS:s2	subst:sg:loc:n2	nazwa firmy	
+< CBS	CBS:s2	subst:sg:nom:m3	nazwa firmy	
+< CBS	CBS:s2	subst:sg:nom:n2	nazwa firmy	
+< CBS	CBS:s2	subst:sg:voc:n2	nazwa firmy	
+< CBS-em	CBS:s2	subst:sg:inst:m3	nazwa firmy	
+< CBS-ie	CBS:s2	subst:sg:loc:m3	nazwa firmy	
+< CBS-ie	CBS:s2	subst:sg:voc:m3	nazwa firmy	
+< CBS-om	CBS:s2	subst:pl:dat:m3	nazwa firmy	
+< CBS-owi	CBS:s2	subst:sg:dat:m3	nazwa firmy	
+< CBS-ów	CBS:s2	subst:pl:gen:m3	nazwa firmy	
+< CBS-u	CBS:s2	subst:sg:gen:m3	nazwa firmy	
+< CBS-y	CBS:s2	subst:pl:acc:m3	nazwa firmy	
+< CBS-y	CBS:s2	subst:pl:nom:m3	nazwa firmy	
+< CBS-y	CBS:s2	subst:pl:voc:m3	nazwa firmy	
+---
+> CBS-ach	CBS	subst:pl:loc:m3	nazwa organizacji|nazwa firmy	
+> CBS-ami	CBS	subst:pl:inst:m3	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:pl:acc:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:pl:dat:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:pl:gen:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:pl:inst:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:pl:loc:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:pl:nom:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:pl:voc:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:sg:acc:m3	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:sg:acc:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:sg:dat:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:sg:gen:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:sg:inst:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:sg:loc:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:sg:nom:m3	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:sg:nom:n2	nazwa organizacji|nazwa firmy	
+> CBS	CBS	subst:sg:voc:n2	nazwa organizacji|nazwa firmy	
+> CBS-em	CBS	subst:sg:inst:m3	nazwa organizacji|nazwa firmy	
+> CBS-ie	CBS	subst:sg:loc:m3	nazwa organizacji|nazwa firmy	
+> CBS-ie	CBS	subst:sg:voc:m3	nazwa organizacji|nazwa firmy	
+> CBS-om	CBS	subst:pl:dat:m3	nazwa organizacji|nazwa firmy	
+> CBS-owi	CBS	subst:sg:dat:m3	nazwa organizacji|nazwa firmy	
+> CBS-ów	CBS	subst:pl:gen:m3	nazwa organizacji|nazwa firmy	
+> CBS-u	CBS	subst:sg:gen:m3	nazwa organizacji|nazwa firmy	
+> CBS-y	CBS	subst:pl:acc:m3	nazwa organizacji|nazwa firmy	
+> CBS-y	CBS	subst:pl:nom:m3	nazwa organizacji|nazwa firmy	
+> CBS-y	CBS	subst:pl:voc:m3	nazwa organizacji|nazwa firmy	
+310214,310241c310072,310085
+< celebrytce	celebrytka:s1	subst:sg:dat:f	nazwa pospolita	
+< celebrytce	celebrytka:s1	subst:sg:loc:f	nazwa pospolita	
+< celebrytek	celebrytka:s1	subst:pl:gen:f	nazwa pospolita	
+< celebrytka	celebrytka:s1	subst:sg:nom:f	nazwa pospolita	
+< celebrytkach	celebrytka:s1	subst:pl:loc:f	nazwa pospolita	
+< celebrytkami	celebrytka:s1	subst:pl:inst:f	nazwa pospolita	
+< celebrytką	celebrytka:s1	subst:sg:inst:f	nazwa pospolita	
+< celebrytkę	celebrytka:s1	subst:sg:acc:f	nazwa pospolita	
+< celebrytki	celebrytka:s1	subst:pl:acc:f	nazwa pospolita	
+< celebrytki	celebrytka:s1	subst:pl:nom:f	nazwa pospolita	
+< celebrytki	celebrytka:s1	subst:pl:voc:f	nazwa pospolita	
+< celebrytki	celebrytka:s1	subst:sg:gen:f	nazwa pospolita	
+< celebrytko	celebrytka:s1	subst:sg:voc:f	nazwa pospolita	
+< celebrytkom	celebrytka:s1	subst:pl:dat:f	nazwa pospolita	
+< celebrytce	celebrytka:s2	subst:sg:dat:f	nazwa pospolita	
+< celebrytce	celebrytka:s2	subst:sg:loc:f	nazwa pospolita	
+< celebrytek	celebrytka:s2	subst:pl:gen:f	nazwa pospolita	
+< celebrytka	celebrytka:s2	subst:sg:nom:f	nazwa pospolita	
+< celebrytkach	celebrytka:s2	subst:pl:loc:f	nazwa pospolita	
+< celebrytkami	celebrytka:s2	subst:pl:inst:f	nazwa pospolita	
+< celebrytką	celebrytka:s2	subst:sg:inst:f	nazwa pospolita	
+< celebrytkę	celebrytka:s2	subst:sg:acc:f	nazwa pospolita	
+< celebrytki	celebrytka:s2	subst:pl:acc:f	nazwa pospolita	
+< celebrytki	celebrytka:s2	subst:pl:nom:f	nazwa pospolita	
+< celebrytki	celebrytka:s2	subst:pl:voc:f	nazwa pospolita	
+< celebrytki	celebrytka:s2	subst:sg:gen:f	nazwa pospolita	
+< celebrytko	celebrytka:s2	subst:sg:voc:f	nazwa pospolita	
+< celebrytkom	celebrytka:s2	subst:pl:dat:f	nazwa pospolita	
+---
+> celebrytce	celebrytka	subst:sg:dat:f	nazwa pospolita	
+> celebrytce	celebrytka	subst:sg:loc:f	nazwa pospolita	
+> celebrytek	celebrytka	subst:pl:gen:f	nazwa pospolita	
+> celebrytka	celebrytka	subst:sg:nom:f	nazwa pospolita	
+> celebrytkach	celebrytka	subst:pl:loc:f	nazwa pospolita	
+> celebrytkami	celebrytka	subst:pl:inst:f	nazwa pospolita	
+> celebrytką	celebrytka	subst:sg:inst:f	nazwa pospolita	
+> celebrytkę	celebrytka	subst:sg:acc:f	nazwa pospolita	
+> celebrytki	celebrytka	subst:pl:acc:f	nazwa pospolita	
+> celebrytki	celebrytka	subst:pl:nom:f	nazwa pospolita	
+> celebrytki	celebrytka	subst:pl:voc:f	nazwa pospolita	
+> celebrytki	celebrytka	subst:sg:gen:f	nazwa pospolita	
+> celebrytko	celebrytka	subst:sg:voc:f	nazwa pospolita	
+> celebrytkom	celebrytka	subst:pl:dat:f	nazwa pospolita	
+389832,389879c389676,389691
+< Cohenach	Cohen:s1	subst:pl:loc:m1	nazwisko	
+< Cohena	Cohen:s1	subst:sg:acc:m1	nazwisko	
+< Cohena	Cohen:s1	subst:sg:gen:m1	nazwisko	
+< Cohenami	Cohen:s1	subst:pl:inst:m1	nazwisko	
+< Cohen	Cohen:s1	subst:sg:nom:m1	nazwisko	
+< Cohenem	Cohen:s1	subst:sg:inst:m1	nazwisko	
+< Cohenie	Cohen:s1	subst:sg:loc:m1	nazwisko	
+< Cohenie	Cohen:s1	subst:sg:voc:m1	nazwisko	
+< Cohenom	Cohen:s1	subst:pl:dat:m1	nazwisko	
+< Cohenowi	Cohen:s1	subst:sg:dat:m1	nazwisko	
+< Cohenowie	Cohen:s1	subst:pl:nom:m1	nazwisko	
+< Cohenowie	Cohen:s1	subst:pl:voc:m1	nazwisko	
+< Cohenów	Cohen:s1	subst:pl:acc:m1	nazwisko	
+< Cohenów	Cohen:s1	subst:pl:gen:m1	nazwisko	
+< Coheny	Cohen:s1	depr:pl:nom:m2	nazwisko	
+< Coheny	Cohen:s1	depr:pl:voc:m2	nazwisko	
+< Cohenach	Cohen:s2	subst:pl:loc:m1	nazwisko	
+< Cohena	Cohen:s2	subst:sg:acc:m1	nazwisko	
+< Cohena	Cohen:s2	subst:sg:gen:m1	nazwisko	
+< Cohenami	Cohen:s2	subst:pl:inst:m1	nazwisko	
+< Cohen	Cohen:s2	subst:sg:nom:m1	nazwisko	
+< Cohenem	Cohen:s2	subst:sg:inst:m1	nazwisko	
+< Cohenie	Cohen:s2	subst:sg:loc:m1	nazwisko	
+< Cohenie	Cohen:s2	subst:sg:voc:m1	nazwisko	
+< Cohenom	Cohen:s2	subst:pl:dat:m1	nazwisko	
+< Cohenowi	Cohen:s2	subst:sg:dat:m1	nazwisko	
+< Cohenowie	Cohen:s2	subst:pl:nom:m1	nazwisko	
+< Cohenowie	Cohen:s2	subst:pl:voc:m1	nazwisko	
+< Cohenów	Cohen:s2	subst:pl:acc:m1	nazwisko	
+< Cohenów	Cohen:s2	subst:pl:gen:m1	nazwisko	
+< Coheny	Cohen:s2	depr:pl:nom:m2	nazwisko	
+< Coheny	Cohen:s2	depr:pl:voc:m2	nazwisko	
+< Cohenach	Cohen:s3	subst:pl:loc:m1	nazwisko	
+< Cohena	Cohen:s3	subst:sg:acc:m1	nazwisko	
+< Cohena	Cohen:s3	subst:sg:gen:m1	nazwisko	
+< Cohenami	Cohen:s3	subst:pl:inst:m1	nazwisko	
+< Cohen	Cohen:s3	subst:sg:nom:m1	nazwisko	
+< Cohenem	Cohen:s3	subst:sg:inst:m1	nazwisko	
+< Cohenie	Cohen:s3	subst:sg:loc:m1	nazwisko	
+< Cohenie	Cohen:s3	subst:sg:voc:m1	nazwisko	
+< Cohenom	Cohen:s3	subst:pl:dat:m1	nazwisko	
+< Cohenowi	Cohen:s3	subst:sg:dat:m1	nazwisko	
+< Cohenowie	Cohen:s3	subst:pl:nom:m1	nazwisko	
+< Cohenowie	Cohen:s3	subst:pl:voc:m1	nazwisko	
+< Cohenów	Cohen:s3	subst:pl:acc:m1	nazwisko	
+< Cohenów	Cohen:s3	subst:pl:gen:m1	nazwisko	
+< Coheny	Cohen:s3	depr:pl:nom:m2	nazwisko	
+< Coheny	Cohen:s3	depr:pl:voc:m2	nazwisko	
+---
+> Cohenach	Cohen	subst:pl:loc:m1	nazwisko	
+> Cohena	Cohen	subst:sg:acc:m1	nazwisko	
+> Cohena	Cohen	subst:sg:gen:m1	nazwisko	
+> Cohenami	Cohen	subst:pl:inst:m1	nazwisko	
+> Cohen	Cohen	subst:sg:nom:m1	nazwisko	
+> Cohenem	Cohen	subst:sg:inst:m1	nazwisko	
+> Cohenie	Cohen	subst:sg:loc:m1	nazwisko	
+> Cohenie	Cohen	subst:sg:voc:m1	nazwisko	
+> Cohenom	Cohen	subst:pl:dat:m1	nazwisko	
+> Cohenowi	Cohen	subst:sg:dat:m1	nazwisko	
+> Cohenowie	Cohen	subst:pl:nom:m1	nazwisko	
+> Cohenowie	Cohen	subst:pl:voc:m1	nazwisko	
+> Cohenów	Cohen	subst:pl:acc:m1	nazwisko	
+> Cohenów	Cohen	subst:pl:gen:m1	nazwisko	
+> Coheny	Cohen	depr:pl:nom:m2	nazwisko	
+> Coheny	Cohen	depr:pl:voc:m2	nazwisko	
+392903,392930c392715,392728
+< CTV	CTV:s1	subst:pl:acc:f	nazwa pospolita	
+< CTV	CTV:s1	subst:pl:dat:f	nazwa pospolita	
+< CTV	CTV:s1	subst:pl:gen:f	nazwa pospolita	
+< CTV	CTV:s1	subst:pl:inst:f	nazwa pospolita	
+< CTV	CTV:s1	subst:pl:loc:f	nazwa pospolita	
+< CTV	CTV:s1	subst:pl:nom:f	nazwa pospolita	
+< CTV	CTV:s1	subst:pl:voc:f	nazwa pospolita	
+< CTV	CTV:s1	subst:sg:acc:f	nazwa pospolita	
+< CTV	CTV:s1	subst:sg:dat:f	nazwa pospolita	
+< CTV	CTV:s1	subst:sg:gen:f	nazwa pospolita	
+< CTV	CTV:s1	subst:sg:inst:f	nazwa pospolita	
+< CTV	CTV:s1	subst:sg:loc:f	nazwa pospolita	
+< CTV	CTV:s1	subst:sg:nom:f	nazwa pospolita	
+< CTV	CTV:s1	subst:sg:voc:f	nazwa pospolita	
+< CTV	CTV:s2	subst:pl:acc:f	nazwa firmy	
+< CTV	CTV:s2	subst:pl:dat:f	nazwa firmy	
+< CTV	CTV:s2	subst:pl:gen:f	nazwa firmy	
+< CTV	CTV:s2	subst:pl:inst:f	nazwa firmy	
+< CTV	CTV:s2	subst:pl:loc:f	nazwa firmy	
+< CTV	CTV:s2	subst:pl:nom:f	nazwa firmy	
+< CTV	CTV:s2	subst:pl:voc:f	nazwa firmy	
+< CTV	CTV:s2	subst:sg:acc:f	nazwa firmy	
+< CTV	CTV:s2	subst:sg:dat:f	nazwa firmy	
+< CTV	CTV:s2	subst:sg:gen:f	nazwa firmy	
+< CTV	CTV:s2	subst:sg:inst:f	nazwa firmy	
+< CTV	CTV:s2	subst:sg:loc:f	nazwa firmy	
+< CTV	CTV:s2	subst:sg:nom:f	nazwa firmy	
+< CTV	CTV:s2	subst:sg:voc:f	nazwa firmy	
+---
+> CTV	CTV	subst:pl:acc:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:pl:dat:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:pl:gen:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:pl:inst:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:pl:loc:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:pl:nom:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:pl:voc:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:sg:acc:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:sg:dat:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:sg:gen:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:sg:inst:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:sg:loc:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:sg:nom:f	nazwa pospolita|nazwa firmy	
+> CTV	CTV	subst:sg:voc:f	nazwa pospolita|nazwa firmy	
+399909,399938c399707,399721
+< cyfryzacjach	cyfryzacja:s1	subst:pl:loc:f	nazwa pospolita	
+< cyfryzacja	cyfryzacja:s1	subst:sg:nom:f	nazwa pospolita	
+< cyfryzacjami	cyfryzacja:s1	subst:pl:inst:f	nazwa pospolita	
+< cyfryzacją	cyfryzacja:s1	subst:sg:inst:f	nazwa pospolita	
+< cyfryzacje	cyfryzacja:s1	subst:pl:acc:f	nazwa pospolita	
+< cyfryzacje	cyfryzacja:s1	subst:pl:nom:f	nazwa pospolita	
+< cyfryzacje	cyfryzacja:s1	subst:pl:voc:f	nazwa pospolita	
+< cyfryzację	cyfryzacja:s1	subst:sg:acc:f	nazwa pospolita	
+< cyfryzacji	cyfryzacja:s1	subst:pl:gen:f	nazwa pospolita	hom.
+< cyfryzacji	cyfryzacja:s1	subst:sg:dat:f	nazwa pospolita	
+< cyfryzacji	cyfryzacja:s1	subst:sg:gen:f	nazwa pospolita	
+< cyfryzacji	cyfryzacja:s1	subst:sg:loc:f	nazwa pospolita	
+< cyfryzacjo	cyfryzacja:s1	subst:sg:voc:f	nazwa pospolita	
+< cyfryzacjom	cyfryzacja:s1	subst:pl:dat:f	nazwa pospolita	
+< cyfryzacyj	cyfryzacja:s1	subst:pl:gen:f	nazwa pospolita	arch.|char.
+< cyfryzacjach	cyfryzacja:s2	subst:pl:loc:f	nazwa pospolita	
+< cyfryzacja	cyfryzacja:s2	subst:sg:nom:f	nazwa pospolita	
+< cyfryzacjami	cyfryzacja:s2	subst:pl:inst:f	nazwa pospolita	
+< cyfryzacją	cyfryzacja:s2	subst:sg:inst:f	nazwa pospolita	
+< cyfryzacje	cyfryzacja:s2	subst:pl:acc:f	nazwa pospolita	
+< cyfryzacje	cyfryzacja:s2	subst:pl:nom:f	nazwa pospolita	
+< cyfryzacje	cyfryzacja:s2	subst:pl:voc:f	nazwa pospolita	
+< cyfryzację	cyfryzacja:s2	subst:sg:acc:f	nazwa pospolita	
+< cyfryzacji	cyfryzacja:s2	subst:pl:gen:f	nazwa pospolita	hom.
+< cyfryzacji	cyfryzacja:s2	subst:sg:dat:f	nazwa pospolita	
+< cyfryzacji	cyfryzacja:s2	subst:sg:gen:f	nazwa pospolita	
+< cyfryzacji	cyfryzacja:s2	subst:sg:loc:f	nazwa pospolita	
+< cyfryzacjo	cyfryzacja:s2	subst:sg:voc:f	nazwa pospolita	
+< cyfryzacjom	cyfryzacja:s2	subst:pl:dat:f	nazwa pospolita	
+< cyfryzacyj	cyfryzacja:s2	subst:pl:gen:f	nazwa pospolita	arch.|char.
+---
+> cyfryzacjach	cyfryzacja	subst:pl:loc:f	nazwa pospolita	
+> cyfryzacja	cyfryzacja	subst:sg:nom:f	nazwa pospolita	
+> cyfryzacjami	cyfryzacja	subst:pl:inst:f	nazwa pospolita	
+> cyfryzacją	cyfryzacja	subst:sg:inst:f	nazwa pospolita	
+> cyfryzacje	cyfryzacja	subst:pl:acc:f	nazwa pospolita	
+> cyfryzacje	cyfryzacja	subst:pl:nom:f	nazwa pospolita	
+> cyfryzacje	cyfryzacja	subst:pl:voc:f	nazwa pospolita	
+> cyfryzację	cyfryzacja	subst:sg:acc:f	nazwa pospolita	
+> cyfryzacji	cyfryzacja	subst:pl:gen:f	nazwa pospolita	hom.
+> cyfryzacji	cyfryzacja	subst:sg:dat:f	nazwa pospolita	
+> cyfryzacji	cyfryzacja	subst:sg:gen:f	nazwa pospolita	
+> cyfryzacji	cyfryzacja	subst:sg:loc:f	nazwa pospolita	
+> cyfryzacjo	cyfryzacja	subst:sg:voc:f	nazwa pospolita	
+> cyfryzacjom	cyfryzacja	subst:pl:dat:f	nazwa pospolita	
+> cyfryzacyj	cyfryzacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
+402961a402745,402759
+> cykoriach	cykoria	subst:pl:loc:f	nazwa pospolita	bot.
+> cykoria	cykoria	subst:sg:nom:f	nazwa pospolita	bot.
+> cykoriami	cykoria	subst:pl:inst:f	nazwa pospolita	bot.
+> cykorią	cykoria	subst:sg:inst:f	nazwa pospolita	bot.
+> cykorie	cykoria	subst:pl:acc:f	nazwa pospolita	bot.
+> cykorie	cykoria	subst:pl:nom:f	nazwa pospolita	bot.
+> cykorie	cykoria	subst:pl:voc:f	nazwa pospolita	bot.
+> cykorię	cykoria	subst:sg:acc:f	nazwa pospolita	bot.
+> cykorii	cykoria	subst:pl:gen:f	nazwa pospolita	bot.|hom.
+> cykorii	cykoria	subst:sg:dat:f	nazwa pospolita	bot.
+> cykorii	cykoria	subst:sg:gen:f	nazwa pospolita	bot.
+> cykorii	cykoria	subst:sg:loc:f	nazwa pospolita	bot.
+> cykorio	cykoria	subst:sg:voc:f	nazwa pospolita	bot.
+> cykoriom	cykoria	subst:pl:dat:f	nazwa pospolita	bot.
+> cykoryj	cykoria	subst:pl:gen:f	nazwa pospolita	arch.|bot.|char.
+402978,403007d402775
+< cykoriach	cykoria:s1	subst:pl:loc:f	nazwa pospolita	bot.
+< cykoria	cykoria:s1	subst:sg:nom:f	nazwa pospolita	bot.
+< cykoriami	cykoria:s1	subst:pl:inst:f	nazwa pospolita	bot.
+< cykorią	cykoria:s1	subst:sg:inst:f	nazwa pospolita	bot.
+< cykorie	cykoria:s1	subst:pl:acc:f	nazwa pospolita	bot.
+< cykorie	cykoria:s1	subst:pl:nom:f	nazwa pospolita	bot.
+< cykorie	cykoria:s1	subst:pl:voc:f	nazwa pospolita	bot.
+< cykorię	cykoria:s1	subst:sg:acc:f	nazwa pospolita	bot.
+< cykorii	cykoria:s1	subst:pl:gen:f	nazwa pospolita	bot.|hom.
+< cykorii	cykoria:s1	subst:sg:dat:f	nazwa pospolita	bot.
+< cykorii	cykoria:s1	subst:sg:gen:f	nazwa pospolita	bot.
+< cykorii	cykoria:s1	subst:sg:loc:f	nazwa pospolita	bot.
+< cykorio	cykoria:s1	subst:sg:voc:f	nazwa pospolita	bot.
+< cykoriom	cykoria:s1	subst:pl:dat:f	nazwa pospolita	bot.
+< cykoryj	cykoria:s1	subst:pl:gen:f	nazwa pospolita	arch.|bot.|char.
+< cykoriach	cykoria:s2	subst:pl:loc:f	nazwa pospolita	pot.
+< cykoria	cykoria:s2	subst:sg:nom:f	nazwa pospolita	pot.
+< cykoriami	cykoria:s2	subst:pl:inst:f	nazwa pospolita	pot.
+< cykorią	cykoria:s2	subst:sg:inst:f	nazwa pospolita	pot.
+< cykorie	cykoria:s2	subst:pl:acc:f	nazwa pospolita	pot.
+< cykorie	cykoria:s2	subst:pl:nom:f	nazwa pospolita	pot.
+< cykorie	cykoria:s2	subst:pl:voc:f	nazwa pospolita	pot.
+< cykorię	cykoria:s2	subst:sg:acc:f	nazwa pospolita	pot.
+< cykorii	cykoria:s2	subst:pl:gen:f	nazwa pospolita	hom.|pot.
+< cykorii	cykoria:s2	subst:sg:dat:f	nazwa pospolita	pot.
+< cykorii	cykoria:s2	subst:sg:gen:f	nazwa pospolita	pot.
+< cykorii	cykoria:s2	subst:sg:loc:f	nazwa pospolita	pot.
+< cykorio	cykoria:s2	subst:sg:voc:f	nazwa pospolita	pot.
+< cykoriom	cykoria:s2	subst:pl:dat:f	nazwa pospolita	pot.
+< cykoryj	cykoria:s2	subst:pl:gen:f	nazwa pospolita	arch.|char.|pot.
+404770a404539,404552
+> cynkach	cynk	subst:pl:loc:m3	nazwa pospolita	chem.
+> cynkami	cynk	subst:pl:inst:m3	nazwa pospolita	chem.
+> cynk	cynk	subst:sg:acc:m3	nazwa pospolita	chem.
+> cynk	cynk	subst:sg:nom:m3	nazwa pospolita	chem.
+> cynki	cynk	subst:pl:acc:m3	nazwa pospolita	chem.
+> cynki	cynk	subst:pl:nom:m3	nazwa pospolita	chem.
+> cynki	cynk	subst:pl:voc:m3	nazwa pospolita	chem.
+> cynkiem	cynk	subst:sg:inst:m3	nazwa pospolita	chem.
+> cynkom	cynk	subst:pl:dat:m3	nazwa pospolita	chem.
+> cynkowi	cynk	subst:sg:dat:m3	nazwa pospolita	chem.
+> cynków	cynk	subst:pl:gen:m3	nazwa pospolita	chem.
+> cynku	cynk	subst:sg:gen:m3	nazwa pospolita	chem.
+> cynku	cynk	subst:sg:loc:m3	nazwa pospolita	chem.
+> cynku	cynk	subst:sg:voc:m3	nazwa pospolita	chem.
+405105,405132d404886
+< cynkach	cynk:s1	subst:pl:loc:m3	nazwa pospolita	chem.
+< cynkami	cynk:s1	subst:pl:inst:m3	nazwa pospolita	chem.
+< cynk	cynk:s1	subst:sg:acc:m3	nazwa pospolita	chem.
+< cynk	cynk:s1	subst:sg:nom:m3	nazwa pospolita	chem.
+< cynki	cynk:s1	subst:pl:acc:m3	nazwa pospolita	chem.
+< cynki	cynk:s1	subst:pl:nom:m3	nazwa pospolita	chem.
+< cynki	cynk:s1	subst:pl:voc:m3	nazwa pospolita	chem.
+< cynkiem	cynk:s1	subst:sg:inst:m3	nazwa pospolita	chem.
+< cynkom	cynk:s1	subst:pl:dat:m3	nazwa pospolita	chem.
+< cynkowi	cynk:s1	subst:sg:dat:m3	nazwa pospolita	chem.
+< cynków	cynk:s1	subst:pl:gen:m3	nazwa pospolita	chem.
+< cynku	cynk:s1	subst:sg:gen:m3	nazwa pospolita	chem.
+< cynku	cynk:s1	subst:sg:loc:m3	nazwa pospolita	chem.
+< cynku	cynk:s1	subst:sg:voc:m3	nazwa pospolita	chem.
+< cynkach	cynk:s2	subst:pl:loc:m3	nazwa pospolita	pot.
+< cynkami	cynk:s2	subst:pl:inst:m3	nazwa pospolita	pot.
+< cynk	cynk:s2	subst:sg:acc:m3	nazwa pospolita	pot.
+< cynk	cynk:s2	subst:sg:nom:m3	nazwa pospolita	pot.
+< cynki	cynk:s2	subst:pl:acc:m3	nazwa pospolita	pot.
+< cynki	cynk:s2	subst:pl:nom:m3	nazwa pospolita	pot.
+< cynki	cynk:s2	subst:pl:voc:m3	nazwa pospolita	pot.
+< cynkiem	cynk:s2	subst:sg:inst:m3	nazwa pospolita	pot.
+< cynkom	cynk:s2	subst:pl:dat:m3	nazwa pospolita	pot.
+< cynkowi	cynk:s2	subst:sg:dat:m3	nazwa pospolita	pot.
+< cynków	cynk:s2	subst:pl:gen:m3	nazwa pospolita	pot.
+< cynku	cynk:s2	subst:sg:gen:m3	nazwa pospolita	pot.
+< cynku	cynk:s2	subst:sg:loc:m3	nazwa pospolita	pot.
+< cynku	cynk:s2	subst:sg:voc:m3	nazwa pospolita	pot.
+405644,405657c405398,405411
+< Cypryjce	Cypryjka	subst:sg:dat:f	nazwa pospolita	
+< Cypryjce	Cypryjka	subst:sg:loc:f	nazwa pospolita	
+< Cypryjek	Cypryjka	subst:pl:gen:f	nazwa pospolita	
+< Cypryjkach	Cypryjka	subst:pl:loc:f	nazwa pospolita	
+< Cypryjka	Cypryjka	subst:sg:nom:f	nazwa pospolita	
+< Cypryjkami	Cypryjka	subst:pl:inst:f	nazwa pospolita	
+< Cypryjką	Cypryjka	subst:sg:inst:f	nazwa pospolita	
+< Cypryjkę	Cypryjka	subst:sg:acc:f	nazwa pospolita	
+< Cypryjki	Cypryjka	subst:pl:acc:f	nazwa pospolita	
+< Cypryjki	Cypryjka	subst:pl:nom:f	nazwa pospolita	
+< Cypryjki	Cypryjka	subst:pl:voc:f	nazwa pospolita	
+< Cypryjki	Cypryjka	subst:sg:gen:f	nazwa pospolita	
+< Cypryjko	Cypryjka	subst:sg:voc:f	nazwa pospolita	
+< Cypryjkom	Cypryjka	subst:pl:dat:f	nazwa pospolita	
+---
+> Cypryjce	Cypryjka	subst:sg:dat:f	nazwa pospolita	etn.
+> Cypryjce	Cypryjka	subst:sg:loc:f	nazwa pospolita	etn.
+> Cypryjek	Cypryjka	subst:pl:gen:f	nazwa pospolita	etn.
+> Cypryjkach	Cypryjka	subst:pl:loc:f	nazwa pospolita	etn.
+> Cypryjka	Cypryjka	subst:sg:nom:f	nazwa pospolita	etn.
+> Cypryjkami	Cypryjka	subst:pl:inst:f	nazwa pospolita	etn.
+> Cypryjką	Cypryjka	subst:sg:inst:f	nazwa pospolita	etn.
+> Cypryjkę	Cypryjka	subst:sg:acc:f	nazwa pospolita	etn.
+> Cypryjki	Cypryjka	subst:pl:acc:f	nazwa pospolita	etn.
+> Cypryjki	Cypryjka	subst:pl:nom:f	nazwa pospolita	etn.
+> Cypryjki	Cypryjka	subst:pl:voc:f	nazwa pospolita	etn.
+> Cypryjki	Cypryjka	subst:sg:gen:f	nazwa pospolita	etn.
+> Cypryjko	Cypryjka	subst:sg:voc:f	nazwa pospolita	etn.
+> Cypryjkom	Cypryjka	subst:pl:dat:f	nazwa pospolita	etn.
+412754,412781c412508,412521
+< czarna	czarna:s1	subst:sg:nom:f	nazwa pospolita	pogard.|pot.
+< czarna	czarna:s1	subst:sg:voc:f	nazwa pospolita	pogard.|pot.
+< czarną	czarna:s1	subst:sg:acc:f	nazwa pospolita	pogard.|pot.
+< czarną	czarna:s1	subst:sg:inst:f	nazwa pospolita	pogard.|pot.
+< czarne	czarna:s1	subst:pl:acc:f	nazwa pospolita	pogard.|pot.
+< czarne	czarna:s1	subst:pl:nom:f	nazwa pospolita	pogard.|pot.
+< czarne	czarna:s1	subst:pl:voc:f	nazwa pospolita	pogard.|pot.
+< czarnej	czarna:s1	subst:sg:dat:f	nazwa pospolita	pogard.|pot.
+< czarnej	czarna:s1	subst:sg:gen:f	nazwa pospolita	pogard.|pot.
+< czarnej	czarna:s1	subst:sg:loc:f	nazwa pospolita	pogard.|pot.
+< czarnych	czarna:s1	subst:pl:gen:f	nazwa pospolita	pogard.|pot.
+< czarnych	czarna:s1	subst:pl:loc:f	nazwa pospolita	pogard.|pot.
+< czarnym	czarna:s1	subst:pl:dat:f	nazwa pospolita	pogard.|pot.
+< czarnymi	czarna:s1	subst:pl:inst:f	nazwa pospolita	pogard.|pot.
+< czarna	czarna:s2	subst:sg:nom:f	nazwa pospolita	pot.
+< czarna	czarna:s2	subst:sg:voc:f	nazwa pospolita	pot.
+< czarną	czarna:s2	subst:sg:acc:f	nazwa pospolita	pot.
+< czarną	czarna:s2	subst:sg:inst:f	nazwa pospolita	pot.
+< czarne	czarna:s2	subst:pl:acc:f	nazwa pospolita	pot.
+< czarne	czarna:s2	subst:pl:nom:f	nazwa pospolita	pot.
+< czarne	czarna:s2	subst:pl:voc:f	nazwa pospolita	pot.
+< czarnej	czarna:s2	subst:sg:dat:f	nazwa pospolita	pot.
+< czarnej	czarna:s2	subst:sg:gen:f	nazwa pospolita	pot.
+< czarnej	czarna:s2	subst:sg:loc:f	nazwa pospolita	pot.
+< czarnych	czarna:s2	subst:pl:gen:f	nazwa pospolita	pot.
+< czarnych	czarna:s2	subst:pl:loc:f	nazwa pospolita	pot.
+< czarnym	czarna:s2	subst:pl:dat:f	nazwa pospolita	pot.
+< czarnymi	czarna:s2	subst:pl:inst:f	nazwa pospolita	pot.
+---
+> czarna	czarna	subst:sg:nom:f	nazwa pospolita	pot.
+> czarna	czarna	subst:sg:voc:f	nazwa pospolita	pot.
+> czarną	czarna	subst:sg:acc:f	nazwa pospolita	pot.
+> czarną	czarna	subst:sg:inst:f	nazwa pospolita	pot.
+> czarne	czarna	subst:pl:acc:f	nazwa pospolita	pot.
+> czarne	czarna	subst:pl:nom:f	nazwa pospolita	pot.
+> czarne	czarna	subst:pl:voc:f	nazwa pospolita	pot.
+> czarnej	czarna	subst:sg:dat:f	nazwa pospolita	pot.
+> czarnej	czarna	subst:sg:gen:f	nazwa pospolita	pot.
+> czarnej	czarna	subst:sg:loc:f	nazwa pospolita	pot.
+> czarnych	czarna	subst:pl:gen:f	nazwa pospolita	pot.
+> czarnych	czarna	subst:pl:loc:f	nazwa pospolita	pot.
+> czarnym	czarna	subst:pl:dat:f	nazwa pospolita	pot.
+> czarnymi	czarna	subst:pl:inst:f	nazwa pospolita	pot.
+434988,435019c434728,434759
+< Czukczach	Czukcza	subst:pl:loc:m1	nazwa pospolita	
+< Czukcza	Czukcza	subst:sg:nom:m1	nazwa pospolita	
+< Czukczami	Czukcza	subst:pl:inst:m1	nazwa pospolita	
+< Czukczą	Czukcza	subst:sg:inst:m1	nazwa pospolita	
+< Czukcze	Czukcza	depr:pl:nom:m2	nazwa pospolita	
+< Czukcze	Czukcza	depr:pl:voc:m2	nazwa pospolita	
+< Czukcze	Czukcza	subst:pl:nom:m1	nazwa pospolita	
+< Czukcze	Czukcza	subst:pl:voc:m1	nazwa pospolita	
+< Czukczę	Czukcza	subst:sg:acc:m1	nazwa pospolita	
+< Czukczo	Czukcza	subst:sg:voc:m1	nazwa pospolita	
+< Czukczom	Czukcza	subst:pl:dat:m1	nazwa pospolita	
+< Czukczowie	Czukcza	subst:pl:nom:m1	nazwa pospolita	
+< Czukczowie	Czukcza	subst:pl:voc:m1	nazwa pospolita	
+< Czukczów	Czukcza	subst:pl:acc:m1	nazwa pospolita	
+< Czukczów	Czukcza	subst:pl:gen:m1	nazwa pospolita	
+< Czukczy	Czukcza	subst:sg:dat:m1	nazwa pospolita	
+< Czukczy	Czukcza	subst:sg:gen:m1	nazwa pospolita	
+< Czukczy	Czukcza	subst:sg:loc:m1	nazwa pospolita	
+< Czukczyjce	Czukczyjka	subst:sg:dat:f	nazwa pospolita	
+< Czukczyjce	Czukczyjka	subst:sg:loc:f	nazwa pospolita	
+< Czukczyjek	Czukczyjka	subst:pl:gen:f	nazwa pospolita	
+< Czukczyjkach	Czukczyjka	subst:pl:loc:f	nazwa pospolita	
+< Czukczyjka	Czukczyjka	subst:sg:nom:f	nazwa pospolita	
+< Czukczyjkami	Czukczyjka	subst:pl:inst:f	nazwa pospolita	
+< Czukczyjką	Czukczyjka	subst:sg:inst:f	nazwa pospolita	
+< Czukczyjkę	Czukczyjka	subst:sg:acc:f	nazwa pospolita	
+< Czukczyjki	Czukczyjka	subst:pl:acc:f	nazwa pospolita	
+< Czukczyjki	Czukczyjka	subst:pl:nom:f	nazwa pospolita	
+< Czukczyjki	Czukczyjka	subst:pl:voc:f	nazwa pospolita	
+< Czukczyjki	Czukczyjka	subst:sg:gen:f	nazwa pospolita	
+< Czukczyjko	Czukczyjka	subst:sg:voc:f	nazwa pospolita	
+< Czukczyjkom	Czukczyjka	subst:pl:dat:f	nazwa pospolita	
+---
+> Czukczach	Czukcza	subst:pl:loc:m1	nazwa pospolita	etn.
+> Czukcza	Czukcza	subst:sg:nom:m1	nazwa pospolita	etn.
+> Czukczami	Czukcza	subst:pl:inst:m1	nazwa pospolita	etn.
+> Czukczą	Czukcza	subst:sg:inst:m1	nazwa pospolita	etn.
+> Czukcze	Czukcza	depr:pl:nom:m2	nazwa pospolita	etn.
+> Czukcze	Czukcza	depr:pl:voc:m2	nazwa pospolita	etn.
+> Czukcze	Czukcza	subst:pl:nom:m1	nazwa pospolita	etn.
+> Czukcze	Czukcza	subst:pl:voc:m1	nazwa pospolita	etn.
+> Czukczę	Czukcza	subst:sg:acc:m1	nazwa pospolita	etn.
+> Czukczo	Czukcza	subst:sg:voc:m1	nazwa pospolita	etn.
+> Czukczom	Czukcza	subst:pl:dat:m1	nazwa pospolita	etn.
+> Czukczowie	Czukcza	subst:pl:nom:m1	nazwa pospolita	etn.
+> Czukczowie	Czukcza	subst:pl:voc:m1	nazwa pospolita	etn.
+> Czukczów	Czukcza	subst:pl:acc:m1	nazwa pospolita	etn.
+> Czukczów	Czukcza	subst:pl:gen:m1	nazwa pospolita	etn.
+> Czukczy	Czukcza	subst:sg:dat:m1	nazwa pospolita	etn.
+> Czukczy	Czukcza	subst:sg:gen:m1	nazwa pospolita	etn.
+> Czukczy	Czukcza	subst:sg:loc:m1	nazwa pospolita	etn.
+> Czukczyjce	Czukczyjka	subst:sg:dat:f	nazwa pospolita	etn.
+> Czukczyjce	Czukczyjka	subst:sg:loc:f	nazwa pospolita	etn.
+> Czukczyjek	Czukczyjka	subst:pl:gen:f	nazwa pospolita	etn.
+> Czukczyjkach	Czukczyjka	subst:pl:loc:f	nazwa pospolita	etn.
+> Czukczyjka	Czukczyjka	subst:sg:nom:f	nazwa pospolita	etn.
+> Czukczyjkami	Czukczyjka	subst:pl:inst:f	nazwa pospolita	etn.
+> Czukczyjką	Czukczyjka	subst:sg:inst:f	nazwa pospolita	etn.
+> Czukczyjkę	Czukczyjka	subst:sg:acc:f	nazwa pospolita	etn.
+> Czukczyjki	Czukczyjka	subst:pl:acc:f	nazwa pospolita	etn.
+> Czukczyjki	Czukczyjka	subst:pl:nom:f	nazwa pospolita	etn.
+> Czukczyjki	Czukczyjka	subst:pl:voc:f	nazwa pospolita	etn.
+> Czukczyjki	Czukczyjka	subst:sg:gen:f	nazwa pospolita	etn.
+> Czukczyjko	Czukczyjka	subst:sg:voc:f	nazwa pospolita	etn.
+> Czukczyjkom	Czukczyjka	subst:pl:dat:f	nazwa pospolita	etn.
+454089,454116c453829,453842
+< Dąbrówce	Dąbrówka:s1	subst:sg:dat:f	imię	
+< Dąbrówce	Dąbrówka:s1	subst:sg:loc:f	imię	
+< Dąbrówek	Dąbrówka:s1	subst:pl:gen:f	imię	
+< Dąbrówkach	Dąbrówka:s1	subst:pl:loc:f	imię	
+< Dąbrówka	Dąbrówka:s1	subst:sg:nom:f	imię	
+< Dąbrówkami	Dąbrówka:s1	subst:pl:inst:f	imię	
+< Dąbrówką	Dąbrówka:s1	subst:sg:inst:f	imię	
+< Dąbrówkę	Dąbrówka:s1	subst:sg:acc:f	imię	
+< Dąbrówki	Dąbrówka:s1	subst:pl:acc:f	imię	
+< Dąbrówki	Dąbrówka:s1	subst:pl:nom:f	imię	
+< Dąbrówki	Dąbrówka:s1	subst:pl:voc:f	imię	
+< Dąbrówki	Dąbrówka:s1	subst:sg:gen:f	imię	
+< Dąbrówko	Dąbrówka:s1	subst:sg:voc:f	imię	
+< Dąbrówkom	Dąbrówka:s1	subst:pl:dat:f	imię	
+< Dąbrówce	Dąbrówka:s2	subst:sg:dat:f	nazwa geograficzna	
+< Dąbrówce	Dąbrówka:s2	subst:sg:loc:f	nazwa geograficzna	
+< Dąbrówek	Dąbrówka:s2	subst:pl:gen:f	nazwa geograficzna	
+< Dąbrówkach	Dąbrówka:s2	subst:pl:loc:f	nazwa geograficzna	
+< Dąbrówka	Dąbrówka:s2	subst:sg:nom:f	nazwa geograficzna	
+< Dąbrówkami	Dąbrówka:s2	subst:pl:inst:f	nazwa geograficzna	
+< Dąbrówką	Dąbrówka:s2	subst:sg:inst:f	nazwa geograficzna	
+< Dąbrówkę	Dąbrówka:s2	subst:sg:acc:f	nazwa geograficzna	
+< Dąbrówki	Dąbrówka:s2	subst:pl:acc:f	nazwa geograficzna	
+< Dąbrówki	Dąbrówka:s2	subst:pl:nom:f	nazwa geograficzna	
+< Dąbrówki	Dąbrówka:s2	subst:pl:voc:f	nazwa geograficzna	
+< Dąbrówki	Dąbrówka:s2	subst:sg:gen:f	nazwa geograficzna	
+< Dąbrówko	Dąbrówka:s2	subst:sg:voc:f	nazwa geograficzna	
+< Dąbrówkom	Dąbrówka:s2	subst:pl:dat:f	nazwa geograficzna	
+---
+> Dąbrówce	Dąbrówka	subst:sg:dat:f	imię|nazwa geograficzna	
+> Dąbrówce	Dąbrówka	subst:sg:loc:f	imię|nazwa geograficzna	
+> Dąbrówek	Dąbrówka	subst:pl:gen:f	imię|nazwa geograficzna	
+> Dąbrówkach	Dąbrówka	subst:pl:loc:f	imię|nazwa geograficzna	
+> Dąbrówka	Dąbrówka	subst:sg:nom:f	imię|nazwa geograficzna	
+> Dąbrówkami	Dąbrówka	subst:pl:inst:f	imię|nazwa geograficzna	
+> Dąbrówką	Dąbrówka	subst:sg:inst:f	imię|nazwa geograficzna	
+> Dąbrówkę	Dąbrówka	subst:sg:acc:f	imię|nazwa geograficzna	
+> Dąbrówki	Dąbrówka	subst:pl:acc:f	imię|nazwa geograficzna	
+> Dąbrówki	Dąbrówka	subst:pl:nom:f	imię|nazwa geograficzna	
+> Dąbrówki	Dąbrówka	subst:pl:voc:f	imię|nazwa geograficzna	
+> Dąbrówki	Dąbrówka	subst:sg:gen:f	imię|nazwa geograficzna	
+> Dąbrówko	Dąbrówka	subst:sg:voc:f	imię|nazwa geograficzna	
+> Dąbrówkom	Dąbrówka	subst:pl:dat:f	imię|nazwa geograficzna	
+962352a962079,962092
+> hakach	hak	subst:pl:loc:m3	nazwa pospolita	
+> haka	hak	subst:sg:gen:m3	nazwa pospolita	
+> hakami	hak	subst:pl:inst:m3	nazwa pospolita	
+> hak	hak	subst:sg:acc:m3	nazwa pospolita	
+> hak	hak	subst:sg:nom:m3	nazwa pospolita	
+> hakiem	hak	subst:sg:inst:m3	nazwa pospolita	
+> haki	hak	subst:pl:acc:m3	nazwa pospolita	
+> haki	hak	subst:pl:nom:m3	nazwa pospolita	
+> haki	hak	subst:pl:voc:m3	nazwa pospolita	
+> hakom	hak	subst:pl:dat:m3	nazwa pospolita	
+> hakowi	hak	subst:sg:dat:m3	nazwa pospolita	
+> haków	hak	subst:pl:gen:m3	nazwa pospolita	
+> haku	hak	subst:sg:loc:m3	nazwa pospolita	
+> haku	hak	subst:sg:voc:m3	nazwa pospolita	
+962764,962791d962503
+< hakach	hak:s1	subst:pl:loc:m3	nazwa pospolita	
+< haka	hak:s1	subst:sg:gen:m3	nazwa pospolita	
+< hakami	hak:s1	subst:pl:inst:m3	nazwa pospolita	
+< hak	hak:s1	subst:sg:acc:m3	nazwa pospolita	
+< hak	hak:s1	subst:sg:nom:m3	nazwa pospolita	
+< hakiem	hak:s1	subst:sg:inst:m3	nazwa pospolita	
+< haki	hak:s1	subst:pl:acc:m3	nazwa pospolita	
+< haki	hak:s1	subst:pl:nom:m3	nazwa pospolita	
+< haki	hak:s1	subst:pl:voc:m3	nazwa pospolita	
+< hakom	hak:s1	subst:pl:dat:m3	nazwa pospolita	
+< hakowi	hak:s1	subst:sg:dat:m3	nazwa pospolita	
+< haków	hak:s1	subst:pl:gen:m3	nazwa pospolita	
+< haku	hak:s1	subst:sg:loc:m3	nazwa pospolita	
+< haku	hak:s1	subst:sg:voc:m3	nazwa pospolita	
+< hakach	hak:s2	subst:pl:loc:m3	nazwa pospolita	sport.
+< haka	hak:s2	subst:sg:gen:m3	nazwa pospolita	sport.
+< hakami	hak:s2	subst:pl:inst:m3	nazwa pospolita	sport.
+< hak	hak:s2	subst:sg:acc:m3	nazwa pospolita	sport.
+< hak	hak:s2	subst:sg:nom:m3	nazwa pospolita	sport.
+< hakiem	hak:s2	subst:sg:inst:m3	nazwa pospolita	sport.
+< haki	hak:s2	subst:pl:acc:m3	nazwa pospolita	sport.
+< haki	hak:s2	subst:pl:nom:m3	nazwa pospolita	sport.
+< haki	hak:s2	subst:pl:voc:m3	nazwa pospolita	sport.
+< hakom	hak:s2	subst:pl:dat:m3	nazwa pospolita	sport.
+< hakowi	hak:s2	subst:sg:dat:m3	nazwa pospolita	sport.
+< haków	hak:s2	subst:pl:gen:m3	nazwa pospolita	sport.
+< haku	hak:s2	subst:sg:loc:m3	nazwa pospolita	sport.
+< haku	hak:s2	subst:sg:voc:m3	nazwa pospolita	sport.
+1028953,1028980c1028665,1028678
+< Iławce	Iławka:s1	subst:sg:dat:f	nazwa geograficzna	
+< Iławce	Iławka:s1	subst:sg:loc:f	nazwa geograficzna	
+< Iławek	Iławka:s1	subst:pl:gen:f	nazwa geograficzna	
+< Iławkach	Iławka:s1	subst:pl:loc:f	nazwa geograficzna	
+< Iławka	Iławka:s1	subst:sg:nom:f	nazwa geograficzna	
+< Iławkami	Iławka:s1	subst:pl:inst:f	nazwa geograficzna	
+< Iławką	Iławka:s1	subst:sg:inst:f	nazwa geograficzna	
+< Iławkę	Iławka:s1	subst:sg:acc:f	nazwa geograficzna	
+< Iławki	Iławka:s1	subst:pl:acc:f	nazwa geograficzna	
+< Iławki	Iławka:s1	subst:pl:nom:f	nazwa geograficzna	
+< Iławki	Iławka:s1	subst:pl:voc:f	nazwa geograficzna	
+< Iławki	Iławka:s1	subst:sg:gen:f	nazwa geograficzna	
+< Iławko	Iławka:s1	subst:sg:voc:f	nazwa geograficzna	
+< Iławkom	Iławka:s1	subst:pl:dat:f	nazwa geograficzna	
+< Iławce	Iławka:s2	subst:sg:dat:f	nazwa geograficzna	
+< Iławce	Iławka:s2	subst:sg:loc:f	nazwa geograficzna	
+< Iławek	Iławka:s2	subst:pl:gen:f	nazwa geograficzna	
+< Iławkach	Iławka:s2	subst:pl:loc:f	nazwa geograficzna	
+< Iławka	Iławka:s2	subst:sg:nom:f	nazwa geograficzna	
+< Iławkami	Iławka:s2	subst:pl:inst:f	nazwa geograficzna	
+< Iławką	Iławka:s2	subst:sg:inst:f	nazwa geograficzna	
+< Iławkę	Iławka:s2	subst:sg:acc:f	nazwa geograficzna	
+< Iławki	Iławka:s2	subst:pl:acc:f	nazwa geograficzna	
+< Iławki	Iławka:s2	subst:pl:nom:f	nazwa geograficzna	
+< Iławki	Iławka:s2	subst:pl:voc:f	nazwa geograficzna	
+< Iławki	Iławka:s2	subst:sg:gen:f	nazwa geograficzna	
+< Iławko	Iławka:s2	subst:sg:voc:f	nazwa geograficzna	
+< Iławkom	Iławka:s2	subst:pl:dat:f	nazwa geograficzna	
+---
+> Iławce	Iławka	subst:sg:dat:f	imię|nazwa geograficzna	
+> Iławce	Iławka	subst:sg:loc:f	imię|nazwa geograficzna	
+> Iławek	Iławka	subst:pl:gen:f	imię|nazwa geograficzna	
+> Iławkach	Iławka	subst:pl:loc:f	imię|nazwa geograficzna	
+> Iławka	Iławka	subst:sg:nom:f	imię|nazwa geograficzna	
+> Iławkami	Iławka	subst:pl:inst:f	imię|nazwa geograficzna	
+> Iławką	Iławka	subst:sg:inst:f	imię|nazwa geograficzna	
+> Iławkę	Iławka	subst:sg:acc:f	imię|nazwa geograficzna	
+> Iławki	Iławka	subst:pl:acc:f	imię|nazwa geograficzna	
+> Iławki	Iławka	subst:pl:nom:f	imię|nazwa geograficzna	
+> Iławki	Iławka	subst:pl:voc:f	imię|nazwa geograficzna	
+> Iławki	Iławka	subst:sg:gen:f	imię|nazwa geograficzna	
+> Iławko	Iławka	subst:sg:voc:f	imię|nazwa geograficzna	
+> Iławkom	Iławka	subst:pl:dat:f	imię|nazwa geograficzna	
+1039947,1039960c1039645,1039658
+< Indonezyjce	Indonezyjka	subst:sg:dat:f	nazwa pospolita	
+< Indonezyjce	Indonezyjka	subst:sg:loc:f	nazwa pospolita	
+< Indonezyjek	Indonezyjka	subst:pl:gen:f	nazwa pospolita	
+< Indonezyjkach	Indonezyjka	subst:pl:loc:f	nazwa pospolita	
+< Indonezyjka	Indonezyjka	subst:sg:nom:f	nazwa pospolita	
+< Indonezyjkami	Indonezyjka	subst:pl:inst:f	nazwa pospolita	
+< Indonezyjką	Indonezyjka	subst:sg:inst:f	nazwa pospolita	
+< Indonezyjkę	Indonezyjka	subst:sg:acc:f	nazwa pospolita	
+< Indonezyjki	Indonezyjka	subst:pl:acc:f	nazwa pospolita	
+< Indonezyjki	Indonezyjka	subst:pl:nom:f	nazwa pospolita	
+< Indonezyjki	Indonezyjka	subst:pl:voc:f	nazwa pospolita	
+< Indonezyjki	Indonezyjka	subst:sg:gen:f	nazwa pospolita	
+< Indonezyjko	Indonezyjka	subst:sg:voc:f	nazwa pospolita	
+< Indonezyjkom	Indonezyjka	subst:pl:dat:f	nazwa pospolita	
+---
+> Indonezyjce	Indonezyjka	subst:sg:dat:f	nazwa pospolita	etn.
+> Indonezyjce	Indonezyjka	subst:sg:loc:f	nazwa pospolita	etn.
+> Indonezyjek	Indonezyjka	subst:pl:gen:f	nazwa pospolita	etn.
+> Indonezyjkach	Indonezyjka	subst:pl:loc:f	nazwa pospolita	etn.
+> Indonezyjka	Indonezyjka	subst:sg:nom:f	nazwa pospolita	etn.
+> Indonezyjkami	Indonezyjka	subst:pl:inst:f	nazwa pospolita	etn.
+> Indonezyjką	Indonezyjka	subst:sg:inst:f	nazwa pospolita	etn.
+> Indonezyjkę	Indonezyjka	subst:sg:acc:f	nazwa pospolita	etn.
+> Indonezyjki	Indonezyjka	subst:pl:acc:f	nazwa pospolita	etn.
+> Indonezyjki	Indonezyjka	subst:pl:nom:f	nazwa pospolita	etn.
+> Indonezyjki	Indonezyjka	subst:pl:voc:f	nazwa pospolita	etn.
+> Indonezyjki	Indonezyjka	subst:sg:gen:f	nazwa pospolita	etn.
+> Indonezyjko	Indonezyjka	subst:sg:voc:f	nazwa pospolita	etn.
+> Indonezyjkom	Indonezyjka	subst:pl:dat:f	nazwa pospolita	etn.
+1082990,1083017c1082688,1082701
+< Jamajce	Jamajka:s1	subst:sg:dat:f	nazwa geograficzna	
+< Jamajce	Jamajka:s1	subst:sg:loc:f	nazwa geograficzna	
+< Jamajek	Jamajka:s1	subst:pl:gen:f	nazwa geograficzna	
+< Jamajkach	Jamajka:s1	subst:pl:loc:f	nazwa geograficzna	
+< Jamajka	Jamajka:s1	subst:sg:nom:f	nazwa geograficzna	
+< Jamajkami	Jamajka:s1	subst:pl:inst:f	nazwa geograficzna	
+< Jamajką	Jamajka:s1	subst:sg:inst:f	nazwa geograficzna	
+< Jamajkę	Jamajka:s1	subst:sg:acc:f	nazwa geograficzna	
+< Jamajki	Jamajka:s1	subst:pl:acc:f	nazwa geograficzna	
+< Jamajki	Jamajka:s1	subst:pl:nom:f	nazwa geograficzna	
+< Jamajki	Jamajka:s1	subst:pl:voc:f	nazwa geograficzna	
+< Jamajki	Jamajka:s1	subst:sg:gen:f	nazwa geograficzna	
+< Jamajko	Jamajka:s1	subst:sg:voc:f	nazwa geograficzna	
+< Jamajkom	Jamajka:s1	subst:pl:dat:f	nazwa geograficzna	
+< Jamajce	Jamajka:s2	subst:sg:dat:f	nazwa pospolita	
+< Jamajce	Jamajka:s2	subst:sg:loc:f	nazwa pospolita	
+< Jamajek	Jamajka:s2	subst:pl:gen:f	nazwa pospolita	
+< Jamajkach	Jamajka:s2	subst:pl:loc:f	nazwa pospolita	
+< Jamajka	Jamajka:s2	subst:sg:nom:f	nazwa pospolita	
+< Jamajkami	Jamajka:s2	subst:pl:inst:f	nazwa pospolita	
+< Jamajką	Jamajka:s2	subst:sg:inst:f	nazwa pospolita	
+< Jamajkę	Jamajka:s2	subst:sg:acc:f	nazwa pospolita	
+< Jamajki	Jamajka:s2	subst:pl:acc:f	nazwa pospolita	
+< Jamajki	Jamajka:s2	subst:pl:nom:f	nazwa pospolita	
+< Jamajki	Jamajka:s2	subst:pl:voc:f	nazwa pospolita	
+< Jamajki	Jamajka:s2	subst:sg:gen:f	nazwa pospolita	
+< Jamajko	Jamajka:s2	subst:sg:voc:f	nazwa pospolita	
+< Jamajkom	Jamajka:s2	subst:pl:dat:f	nazwa pospolita	
+---
+> Jamajce	Jamajka	subst:sg:dat:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajce	Jamajka	subst:sg:loc:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajek	Jamajka	subst:pl:gen:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajkach	Jamajka	subst:pl:loc:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajka	Jamajka	subst:sg:nom:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajkami	Jamajka	subst:pl:inst:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajką	Jamajka	subst:sg:inst:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajkę	Jamajka	subst:sg:acc:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajki	Jamajka	subst:pl:acc:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajki	Jamajka	subst:pl:nom:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajki	Jamajka	subst:pl:voc:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajki	Jamajka	subst:sg:gen:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajko	Jamajka	subst:sg:voc:f	nazwa geograficzna|nazwa pospolita	etn.
+> Jamajkom	Jamajka	subst:pl:dat:f	nazwa geograficzna|nazwa pospolita	etn.
+1117846,1117861d1117529
+< Jordanach	Jordan:s1	subst:pl:loc:m1	imię	
+< Jordana	Jordan:s1	subst:sg:acc:m1	imię	
+< Jordana	Jordan:s1	subst:sg:gen:m1	imię	
+< Jordanami	Jordan:s1	subst:pl:inst:m1	imię	
+< Jordanem	Jordan:s1	subst:sg:inst:m1	imię	
+< Jordanie	Jordan:s1	subst:sg:loc:m1	imię	
+< Jordanie	Jordan:s1	subst:sg:voc:m1	imię	
+< Jordan	Jordan:s1	subst:sg:nom:m1	imię	
+< Jordanom	Jordan:s1	subst:pl:dat:m1	imię	
+< Jordanowie	Jordan:s1	subst:pl:nom:m1	imię	
+< Jordanowie	Jordan:s1	subst:pl:voc:m1	imię	
+< Jordanowi	Jordan:s1	subst:sg:dat:m1	imię	
+< Jordanów	Jordan:s1	subst:pl:acc:m1	imię	
+< Jordanów	Jordan:s1	subst:pl:gen:m1	imię	
+< Jordany	Jordan:s1	depr:pl:nom:m2	imię	
+< Jordany	Jordan:s1	depr:pl:voc:m2	imię	
+1117876,1117907c1117544,1117559
+< Jordanach	Jordan:s3	subst:pl:loc:m1	nazwisko	
+< Jordana	Jordan:s3	subst:sg:acc:m1	nazwisko	
+< Jordana	Jordan:s3	subst:sg:gen:m1	nazwisko	
+< Jordanami	Jordan:s3	subst:pl:inst:m1	nazwisko	
+< Jordanem	Jordan:s3	subst:sg:inst:m1	nazwisko	
+< Jordanie	Jordan:s3	subst:sg:loc:m1	nazwisko	
+< Jordanie	Jordan:s3	subst:sg:voc:m1	nazwisko	
+< Jordan	Jordan:s3	subst:sg:nom:m1	nazwisko	
+< Jordanom	Jordan:s3	subst:pl:dat:m1	nazwisko	
+< Jordanowie	Jordan:s3	subst:pl:nom:m1	nazwisko	
+< Jordanowie	Jordan:s3	subst:pl:voc:m1	nazwisko	
+< Jordanowi	Jordan:s3	subst:sg:dat:m1	nazwisko	
+< Jordanów	Jordan:s3	subst:pl:acc:m1	nazwisko	
+< Jordanów	Jordan:s3	subst:pl:gen:m1	nazwisko	
+< Jordany	Jordan:s3	depr:pl:nom:m2	nazwisko	
+< Jordany	Jordan:s3	depr:pl:voc:m2	nazwisko	
+< Jordanach	Jordan:s4	subst:pl:loc:m1	nazwisko	
+< Jordana	Jordan:s4	subst:sg:acc:m1	nazwisko	
+< Jordana	Jordan:s4	subst:sg:gen:m1	nazwisko	
+< Jordanami	Jordan:s4	subst:pl:inst:m1	nazwisko	
+< Jordanem	Jordan:s4	subst:sg:inst:m1	nazwisko	
+< Jordanie	Jordan:s4	subst:sg:loc:m1	nazwisko	
+< Jordanie	Jordan:s4	subst:sg:voc:m1	nazwisko	
+< Jordan	Jordan:s4	subst:sg:nom:m1	nazwisko	
+< Jordanom	Jordan:s4	subst:pl:dat:m1	nazwisko	
+< Jordanowie	Jordan:s4	subst:pl:nom:m1	nazwisko	
+< Jordanowie	Jordan:s4	subst:pl:voc:m1	nazwisko	
+< Jordanowi	Jordan:s4	subst:sg:dat:m1	nazwisko	
+< Jordanów	Jordan:s4	subst:pl:acc:m1	nazwisko	
+< Jordanów	Jordan:s4	subst:pl:gen:m1	nazwisko	
+< Jordany	Jordan:s4	depr:pl:nom:m2	nazwisko	
+< Jordany	Jordan:s4	depr:pl:voc:m2	nazwisko	
+---
+> Jordanach	Jordan:s3	subst:pl:loc:m1	imię|nazwisko	
+> Jordana	Jordan:s3	subst:sg:acc:m1	imię|nazwisko	
+> Jordana	Jordan:s3	subst:sg:gen:m1	imię|nazwisko	
+> Jordanami	Jordan:s3	subst:pl:inst:m1	imię|nazwisko	
+> Jordanem	Jordan:s3	subst:sg:inst:m1	imię|nazwisko	
+> Jordanie	Jordan:s3	subst:sg:loc:m1	imię|nazwisko	
+> Jordanie	Jordan:s3	subst:sg:voc:m1	imię|nazwisko	
+> Jordan	Jordan:s3	subst:sg:nom:m1	imię|nazwisko	
+> Jordanom	Jordan:s3	subst:pl:dat:m1	imię|nazwisko	
+> Jordanowie	Jordan:s3	subst:pl:nom:m1	imię|nazwisko	
+> Jordanowie	Jordan:s3	subst:pl:voc:m1	imię|nazwisko	
+> Jordanowi	Jordan:s3	subst:sg:dat:m1	imię|nazwisko	
+> Jordanów	Jordan:s3	subst:pl:acc:m1	imię|nazwisko	
+> Jordanów	Jordan:s3	subst:pl:gen:m1	imię|nazwisko	
+> Jordany	Jordan:s3	depr:pl:nom:m2	imię|nazwisko	
+> Jordany	Jordan:s3	depr:pl:voc:m2	imię|nazwisko	
+1184737,1184764c1184389,1184402
+< katarakcie	katarakta:s1	subst:sg:dat:f	nazwa pospolita	med.
+< katarakcie	katarakta:s1	subst:sg:loc:f	nazwa pospolita	med.
+< kataraktach	katarakta:s1	subst:pl:loc:f	nazwa pospolita	med.
+< katarakta	katarakta:s1	subst:sg:nom:f	nazwa pospolita	med.
+< kataraktami	katarakta:s1	subst:pl:inst:f	nazwa pospolita	med.
+< kataraktą	katarakta:s1	subst:sg:inst:f	nazwa pospolita	med.
+< kataraktę	katarakta:s1	subst:sg:acc:f	nazwa pospolita	med.
+< katarakt	katarakta:s1	subst:pl:gen:f	nazwa pospolita	med.
+< katarakto	katarakta:s1	subst:sg:voc:f	nazwa pospolita	med.
+< kataraktom	katarakta:s1	subst:pl:dat:f	nazwa pospolita	med.
+< katarakty	katarakta:s1	subst:pl:acc:f	nazwa pospolita	med.
+< katarakty	katarakta:s1	subst:pl:nom:f	nazwa pospolita	med.
+< katarakty	katarakta:s1	subst:pl:voc:f	nazwa pospolita	med.
+< katarakty	katarakta:s1	subst:sg:gen:f	nazwa pospolita	med.
+< katarakcie	katarakta:s2	subst:sg:dat:f	nazwa pospolita	geol.
+< katarakcie	katarakta:s2	subst:sg:loc:f	nazwa pospolita	geol.
+< kataraktach	katarakta:s2	subst:pl:loc:f	nazwa pospolita	geol.
+< katarakta	katarakta:s2	subst:sg:nom:f	nazwa pospolita	geol.
+< kataraktami	katarakta:s2	subst:pl:inst:f	nazwa pospolita	geol.
+< kataraktą	katarakta:s2	subst:sg:inst:f	nazwa pospolita	geol.
+< kataraktę	katarakta:s2	subst:sg:acc:f	nazwa pospolita	geol.
+< katarakt	katarakta:s2	subst:pl:gen:f	nazwa pospolita	geol.
+< katarakto	katarakta:s2	subst:sg:voc:f	nazwa pospolita	geol.
+< kataraktom	katarakta:s2	subst:pl:dat:f	nazwa pospolita	geol.
+< katarakty	katarakta:s2	subst:pl:acc:f	nazwa pospolita	geol.
+< katarakty	katarakta:s2	subst:pl:nom:f	nazwa pospolita	geol.
+< katarakty	katarakta:s2	subst:pl:voc:f	nazwa pospolita	geol.
+< katarakty	katarakta:s2	subst:sg:gen:f	nazwa pospolita	geol.
+---
+> katarakcie	katarakta	subst:sg:dat:f	nazwa pospolita	geol.|med.
+> katarakcie	katarakta	subst:sg:loc:f	nazwa pospolita	geol.|med.
+> kataraktach	katarakta	subst:pl:loc:f	nazwa pospolita	geol.|med.
+> katarakta	katarakta	subst:sg:nom:f	nazwa pospolita	geol.|med.
+> kataraktami	katarakta	subst:pl:inst:f	nazwa pospolita	geol.|med.
+> kataraktą	katarakta	subst:sg:inst:f	nazwa pospolita	geol.|med.
+> kataraktę	katarakta	subst:sg:acc:f	nazwa pospolita	geol.|med.
+> katarakt	katarakta	subst:pl:gen:f	nazwa pospolita	geol.|med.
+> katarakto	katarakta	subst:sg:voc:f	nazwa pospolita	geol.|med.
+> kataraktom	katarakta	subst:pl:dat:f	nazwa pospolita	geol.|med.
+> katarakty	katarakta	subst:pl:acc:f	nazwa pospolita	geol.|med.
+> katarakty	katarakta	subst:pl:nom:f	nazwa pospolita	geol.|med.
+> katarakty	katarakta	subst:pl:voc:f	nazwa pospolita	geol.|med.
+> katarakty	katarakta	subst:sg:gen:f	nazwa pospolita	geol.|med.
+1190967,1190980c1190605,1190618
+< kawce	kawka:s2	subst:sg:dat:f	nazwa pospolita	zool.
+< kawce	kawka:s2	subst:sg:loc:f	nazwa pospolita	zool.
+< kawek	kawka:s2	subst:pl:gen:f	nazwa pospolita	zool.
+< kawkach	kawka:s2	subst:pl:loc:f	nazwa pospolita	zool.
+< kawka	kawka:s2	subst:sg:nom:f	nazwa pospolita	zool.
+< kawkami	kawka:s2	subst:pl:inst:f	nazwa pospolita	zool.
+< kawką	kawka:s2	subst:sg:inst:f	nazwa pospolita	zool.
+< kawkę	kawka:s2	subst:sg:acc:f	nazwa pospolita	zool.
+< kawki	kawka:s2	subst:pl:acc:f	nazwa pospolita	zool.
+< kawki	kawka:s2	subst:pl:nom:f	nazwa pospolita	zool.
+< kawki	kawka:s2	subst:pl:voc:f	nazwa pospolita	zool.
+< kawki	kawka:s2	subst:sg:gen:f	nazwa pospolita	zool.
+< kawko	kawka:s2	subst:sg:voc:f	nazwa pospolita	zool.
+< kawkom	kawka:s2	subst:pl:dat:f	nazwa pospolita	zool.
+---
+> kawce	kawka:s2	subst:sg:dat:f	nazwa pospolita	
+> kawce	kawka:s2	subst:sg:loc:f	nazwa pospolita	
+> kawek	kawka:s2	subst:pl:gen:f	nazwa pospolita	
+> kawkach	kawka:s2	subst:pl:loc:f	nazwa pospolita	
+> kawka	kawka:s2	subst:sg:nom:f	nazwa pospolita	
+> kawkami	kawka:s2	subst:pl:inst:f	nazwa pospolita	
+> kawką	kawka:s2	subst:sg:inst:f	nazwa pospolita	
+> kawkę	kawka:s2	subst:sg:acc:f	nazwa pospolita	
+> kawki	kawka:s2	subst:pl:acc:f	nazwa pospolita	
+> kawki	kawka:s2	subst:pl:nom:f	nazwa pospolita	
+> kawki	kawka:s2	subst:pl:voc:f	nazwa pospolita	
+> kawki	kawka:s2	subst:sg:gen:f	nazwa pospolita	
+> kawko	kawka:s2	subst:sg:voc:f	nazwa pospolita	
+> kawkom	kawka:s2	subst:pl:dat:f	nazwa pospolita	
+1240742a1240381,1240394
+> KNA	KNA	subst:pl:acc:f	nazwa firmy	
+> KNA	KNA	subst:pl:dat:f	nazwa firmy	
+> KNA	KNA	subst:pl:gen:f	nazwa firmy	
+> KNA	KNA	subst:pl:inst:f	nazwa firmy	
+> KNA	KNA	subst:pl:loc:f	nazwa firmy	
+> KNA	KNA	subst:pl:nom:f	nazwa firmy	
+> KNA	KNA	subst:pl:voc:f	nazwa firmy	
+> KNA	KNA	subst:sg:acc:f	nazwa firmy	
+> KNA	KNA	subst:sg:dat:f	nazwa firmy	
+> KNA	KNA	subst:sg:gen:f	nazwa firmy	
+> KNA	KNA	subst:sg:inst:f	nazwa firmy	
+> KNA	KNA	subst:sg:loc:f	nazwa firmy	
+> KNA	KNA	subst:sg:nom:f	nazwa firmy	
+> KNA	KNA	subst:sg:voc:f	nazwa firmy	
+1241291,1241318d1240942
+< KNA	KNA:s1	subst:pl:acc:f	nazwa firmy	
+< KNA	KNA:s1	subst:pl:dat:f	nazwa firmy	
+< KNA	KNA:s1	subst:pl:gen:f	nazwa firmy	
+< KNA	KNA:s1	subst:pl:inst:f	nazwa firmy	
+< KNA	KNA:s1	subst:pl:loc:f	nazwa firmy	
+< KNA	KNA:s1	subst:pl:nom:f	nazwa firmy	
+< KNA	KNA:s1	subst:pl:voc:f	nazwa firmy	
+< KNA	KNA:s1	subst:sg:acc:f	nazwa firmy	
+< KNA	KNA:s1	subst:sg:dat:f	nazwa firmy	
+< KNA	KNA:s1	subst:sg:gen:f	nazwa firmy	
+< KNA	KNA:s1	subst:sg:inst:f	nazwa firmy	
+< KNA	KNA:s1	subst:sg:loc:f	nazwa firmy	
+< KNA	KNA:s1	subst:sg:nom:f	nazwa firmy	
+< KNA	KNA:s1	subst:sg:voc:f	nazwa firmy	
+< KNA	KNA:s2	subst:pl:acc:f	nazwa firmy	
+< KNA	KNA:s2	subst:pl:dat:f	nazwa firmy	
+< KNA	KNA:s2	subst:pl:gen:f	nazwa firmy	
+< KNA	KNA:s2	subst:pl:inst:f	nazwa firmy	
+< KNA	KNA:s2	subst:pl:loc:f	nazwa firmy	
+< KNA	KNA:s2	subst:pl:nom:f	nazwa firmy	
+< KNA	KNA:s2	subst:pl:voc:f	nazwa firmy	
+< KNA	KNA:s2	subst:sg:acc:f	nazwa firmy	
+< KNA	KNA:s2	subst:sg:dat:f	nazwa firmy	
+< KNA	KNA:s2	subst:sg:gen:f	nazwa firmy	
+< KNA	KNA:s2	subst:sg:inst:f	nazwa firmy	
+< KNA	KNA:s2	subst:sg:loc:f	nazwa firmy	
+< KNA	KNA:s2	subst:sg:nom:f	nazwa firmy	
+< KNA	KNA:s2	subst:sg:voc:f	nazwa firmy	
+1248573a1248198,1248211
+> kocurek	kocurek	subst:sg:nom:m2	nazwa pospolita	
+> kocurkach	kocurek	subst:pl:loc:m2	nazwa pospolita	
+> kocurka	kocurek	subst:sg:acc:m2	nazwa pospolita	
+> kocurka	kocurek	subst:sg:gen:m2	nazwa pospolita	
+> kocurkami	kocurek	subst:pl:inst:m2	nazwa pospolita	
+> kocurkiem	kocurek	subst:sg:inst:m2	nazwa pospolita	
+> kocurki	kocurek	subst:pl:acc:m2	nazwa pospolita	
+> kocurki	kocurek	subst:pl:nom:m2	nazwa pospolita	
+> kocurki	kocurek	subst:pl:voc:m2	nazwa pospolita	
+> kocurkom	kocurek	subst:pl:dat:m2	nazwa pospolita	
+> kocurkowi	kocurek	subst:sg:dat:m2	nazwa pospolita	
+> kocurków	kocurek	subst:pl:gen:m2	nazwa pospolita	
+> kocurku	kocurek	subst:sg:loc:m2	nazwa pospolita	
+> kocurku	kocurek	subst:sg:voc:m2	nazwa pospolita	
+1278688a1278327,1278340
+> kompromacie	kompromat	subst:sg:loc:m3	nazwa pospolita	
+> kompromacie	kompromat	subst:sg:voc:m3	nazwa pospolita	
+> kompromatach	kompromat	subst:pl:loc:m3	nazwa pospolita	
+> kompromatami	kompromat	subst:pl:inst:m3	nazwa pospolita	
+> kompromatem	kompromat	subst:sg:inst:m3	nazwa pospolita	
+> kompromat	kompromat	subst:sg:acc:m3	nazwa pospolita	
+> kompromat	kompromat	subst:sg:nom:m3	nazwa pospolita	
+> kompromatom	kompromat	subst:pl:dat:m3	nazwa pospolita	
+> kompromatowi	kompromat	subst:sg:dat:m3	nazwa pospolita	
+> kompromatów	kompromat	subst:pl:gen:m3	nazwa pospolita	
+> kompromatu	kompromat	subst:sg:gen:m3	nazwa pospolita	
+> kompromaty	kompromat	subst:pl:acc:m3	nazwa pospolita	
+> kompromaty	kompromat	subst:pl:nom:m3	nazwa pospolita	
+> kompromaty	kompromat	subst:pl:voc:m3	nazwa pospolita	
+1314606,1314619c1314258,1314271
+< Koptyjce	Koptyjka	subst:sg:dat:f	nazwa pospolita	
+< Koptyjce	Koptyjka	subst:sg:loc:f	nazwa pospolita	
+< Koptyjek	Koptyjka	subst:pl:gen:f	nazwa pospolita	
+< Koptyjkach	Koptyjka	subst:pl:loc:f	nazwa pospolita	
+< Koptyjka	Koptyjka	subst:sg:nom:f	nazwa pospolita	
+< Koptyjkami	Koptyjka	subst:pl:inst:f	nazwa pospolita	
+< Koptyjką	Koptyjka	subst:sg:inst:f	nazwa pospolita	
+< Koptyjkę	Koptyjka	subst:sg:acc:f	nazwa pospolita	
+< Koptyjki	Koptyjka	subst:pl:acc:f	nazwa pospolita	
+< Koptyjki	Koptyjka	subst:pl:nom:f	nazwa pospolita	
+< Koptyjki	Koptyjka	subst:pl:voc:f	nazwa pospolita	
+< Koptyjki	Koptyjka	subst:sg:gen:f	nazwa pospolita	
+< Koptyjko	Koptyjka	subst:sg:voc:f	nazwa pospolita	
+< Koptyjkom	Koptyjka	subst:pl:dat:f	nazwa pospolita	
+---
+> Koptyjce	Koptyjka	subst:sg:dat:f	nazwa pospolita	etn.
+> Koptyjce	Koptyjka	subst:sg:loc:f	nazwa pospolita	etn.
+> Koptyjek	Koptyjka	subst:pl:gen:f	nazwa pospolita	etn.
+> Koptyjkach	Koptyjka	subst:pl:loc:f	nazwa pospolita	etn.
+> Koptyjka	Koptyjka	subst:sg:nom:f	nazwa pospolita	etn.
+> Koptyjkami	Koptyjka	subst:pl:inst:f	nazwa pospolita	etn.
+> Koptyjką	Koptyjka	subst:sg:inst:f	nazwa pospolita	etn.
+> Koptyjkę	Koptyjka	subst:sg:acc:f	nazwa pospolita	etn.
+> Koptyjki	Koptyjka	subst:pl:acc:f	nazwa pospolita	etn.
+> Koptyjki	Koptyjka	subst:pl:nom:f	nazwa pospolita	etn.
+> Koptyjki	Koptyjka	subst:pl:voc:f	nazwa pospolita	etn.
+> Koptyjki	Koptyjka	subst:sg:gen:f	nazwa pospolita	etn.
+> Koptyjko	Koptyjka	subst:sg:voc:f	nazwa pospolita	etn.
+> Koptyjkom	Koptyjka	subst:pl:dat:f	nazwa pospolita	etn.
+1362236a1361889,1361902
+> krokiecie	krokiet	subst:sg:loc:m2	nazwa pospolita	kulin.|sport.
+> krokiecie	krokiet	subst:sg:voc:m2	nazwa pospolita	kulin.|sport.
+> krokietach	krokiet	subst:pl:loc:m2	nazwa pospolita	kulin.|sport.
+> krokieta	krokiet	subst:sg:acc:m2	nazwa pospolita	kulin.|sport.
+> krokieta	krokiet	subst:sg:gen:m2	nazwa pospolita	kulin.|sport.
+> krokietami	krokiet	subst:pl:inst:m2	nazwa pospolita	kulin.|sport.
+> krokietem	krokiet	subst:sg:inst:m2	nazwa pospolita	kulin.|sport.
+> krokiet	krokiet	subst:sg:nom:m2	nazwa pospolita	kulin.|sport.
+> krokietom	krokiet	subst:pl:dat:m2	nazwa pospolita	kulin.|sport.
+> krokietowi	krokiet	subst:sg:dat:m2	nazwa pospolita	kulin.|sport.
+> krokietów	krokiet	subst:pl:gen:m2	nazwa pospolita	kulin.|sport.
+> krokiety	krokiet	subst:pl:acc:m2	nazwa pospolita	kulin.|sport.
+> krokiety	krokiet	subst:pl:nom:m2	nazwa pospolita	kulin.|sport.
+> krokiety	krokiet	subst:pl:voc:m2	nazwa pospolita	kulin.|sport.
+1362405,1362460d1362070
+< krokiecie	krokiet:s1	subst:sg:loc:m2	nazwa pospolita	sport.
+< krokiecie	krokiet:s1	subst:sg:loc:m3	nazwa pospolita	sport.
+< krokiecie	krokiet:s1	subst:sg:voc:m2	nazwa pospolita	sport.
+< krokiecie	krokiet:s1	subst:sg:voc:m3	nazwa pospolita	sport.
+< krokietach	krokiet:s1	subst:pl:loc:m2	nazwa pospolita	sport.
+< krokietach	krokiet:s1	subst:pl:loc:m3	nazwa pospolita	sport.
+< krokieta	krokiet:s1	subst:sg:acc:m2	nazwa pospolita	sport.
+< krokieta	krokiet:s1	subst:sg:gen:m2	nazwa pospolita	sport.
+< krokieta	krokiet:s1	subst:sg:gen:m3	nazwa pospolita	sport.
+< krokietami	krokiet:s1	subst:pl:inst:m2	nazwa pospolita	sport.
+< krokietami	krokiet:s1	subst:pl:inst:m3	nazwa pospolita	sport.
+< krokietem	krokiet:s1	subst:sg:inst:m2	nazwa pospolita	sport.
+< krokietem	krokiet:s1	subst:sg:inst:m3	nazwa pospolita	sport.
+< krokiet	krokiet:s1	subst:sg:acc:m3	nazwa pospolita	sport.
+< krokiet	krokiet:s1	subst:sg:nom:m2	nazwa pospolita	sport.
+< krokiet	krokiet:s1	subst:sg:nom:m3	nazwa pospolita	sport.
+< krokietom	krokiet:s1	subst:pl:dat:m2	nazwa pospolita	sport.
+< krokietom	krokiet:s1	subst:pl:dat:m3	nazwa pospolita	sport.
+< krokietowi	krokiet:s1	subst:sg:dat:m2	nazwa pospolita	sport.
+< krokietowi	krokiet:s1	subst:sg:dat:m3	nazwa pospolita	sport.
+< krokietów	krokiet:s1	subst:pl:gen:m2	nazwa pospolita	sport.
+< krokietów	krokiet:s1	subst:pl:gen:m3	nazwa pospolita	sport.
+< krokiety	krokiet:s1	subst:pl:acc:m2	nazwa pospolita	sport.
+< krokiety	krokiet:s1	subst:pl:acc:m3	nazwa pospolita	sport.
+< krokiety	krokiet:s1	subst:pl:nom:m2	nazwa pospolita	sport.
+< krokiety	krokiet:s1	subst:pl:nom:m3	nazwa pospolita	sport.
+< krokiety	krokiet:s1	subst:pl:voc:m2	nazwa pospolita	sport.
+< krokiety	krokiet:s1	subst:pl:voc:m3	nazwa pospolita	sport.
+< krokiecie	krokiet:s2	subst:sg:loc:m2	nazwa pospolita	kulin.
+< krokiecie	krokiet:s2	subst:sg:loc:m3	nazwa pospolita	kulin.
+< krokiecie	krokiet:s2	subst:sg:voc:m2	nazwa pospolita	kulin.
+< krokiecie	krokiet:s2	subst:sg:voc:m3	nazwa pospolita	kulin.
+< krokietach	krokiet:s2	subst:pl:loc:m2	nazwa pospolita	kulin.
+< krokietach	krokiet:s2	subst:pl:loc:m3	nazwa pospolita	kulin.
+< krokieta	krokiet:s2	subst:sg:acc:m2	nazwa pospolita	kulin.
+< krokieta	krokiet:s2	subst:sg:gen:m2	nazwa pospolita	kulin.
+< krokieta	krokiet:s2	subst:sg:gen:m3	nazwa pospolita	kulin.
+< krokietami	krokiet:s2	subst:pl:inst:m2	nazwa pospolita	kulin.
+< krokietami	krokiet:s2	subst:pl:inst:m3	nazwa pospolita	kulin.
+< krokietem	krokiet:s2	subst:sg:inst:m2	nazwa pospolita	kulin.
+< krokietem	krokiet:s2	subst:sg:inst:m3	nazwa pospolita	kulin.
+< krokiet	krokiet:s2	subst:sg:acc:m3	nazwa pospolita	kulin.
+< krokiet	krokiet:s2	subst:sg:nom:m2	nazwa pospolita	kulin.
+< krokiet	krokiet:s2	subst:sg:nom:m3	nazwa pospolita	kulin.
+< krokietom	krokiet:s2	subst:pl:dat:m2	nazwa pospolita	kulin.
+< krokietom	krokiet:s2	subst:pl:dat:m3	nazwa pospolita	kulin.
+< krokietowi	krokiet:s2	subst:sg:dat:m2	nazwa pospolita	kulin.
+< krokietowi	krokiet:s2	subst:sg:dat:m3	nazwa pospolita	kulin.
+< krokietów	krokiet:s2	subst:pl:gen:m2	nazwa pospolita	kulin.
+< krokietów	krokiet:s2	subst:pl:gen:m3	nazwa pospolita	kulin.
+< krokiety	krokiet:s2	subst:pl:acc:m2	nazwa pospolita	kulin.
+< krokiety	krokiet:s2	subst:pl:acc:m3	nazwa pospolita	kulin.
+< krokiety	krokiet:s2	subst:pl:nom:m2	nazwa pospolita	kulin.
+< krokiety	krokiet:s2	subst:pl:nom:m3	nazwa pospolita	kulin.
+< krokiety	krokiet:s2	subst:pl:voc:m2	nazwa pospolita	kulin.
+< krokiety	krokiet:s2	subst:pl:voc:m3	nazwa pospolita	kulin.
+1408991a1408602
+> kurcze	kurcze	interj		pot.
+1426830,1426885c1426441,1426468
+< KW	KW:s1	subst:pl:acc:f	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:acc:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:dat:f	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:dat:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:gen:f	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:gen:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:inst:f	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:inst:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:loc:f	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:loc:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:nom:f	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:nom:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:voc:f	człon nazwy instytucji	
+< KW	KW:s1	subst:pl:voc:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:acc:f	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:acc:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:dat:f	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:dat:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:gen:f	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:gen:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:inst:f	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:inst:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:loc:f	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:loc:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:nom:f	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:nom:n2	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:voc:f	człon nazwy instytucji	
+< KW	KW:s1	subst:sg:voc:n2	człon nazwy instytucji	
+< KW	KW:s2	subst:pl:acc:f	nazwa firmy	
+< KW	KW:s2	subst:pl:acc:n2	nazwa firmy	
+< KW	KW:s2	subst:pl:dat:f	nazwa firmy	
+< KW	KW:s2	subst:pl:dat:n2	nazwa firmy	
+< KW	KW:s2	subst:pl:gen:f	nazwa firmy	
+< KW	KW:s2	subst:pl:gen:n2	nazwa firmy	
+< KW	KW:s2	subst:pl:inst:f	nazwa firmy	
+< KW	KW:s2	subst:pl:inst:n2	nazwa firmy	
+< KW	KW:s2	subst:pl:loc:f	nazwa firmy	
+< KW	KW:s2	subst:pl:loc:n2	nazwa firmy	
+< KW	KW:s2	subst:pl:nom:f	nazwa firmy	
+< KW	KW:s2	subst:pl:nom:n2	nazwa firmy	
+< KW	KW:s2	subst:pl:voc:f	nazwa firmy	
+< KW	KW:s2	subst:pl:voc:n2	nazwa firmy	
+< KW	KW:s2	subst:sg:acc:f	nazwa firmy	
+< KW	KW:s2	subst:sg:acc:n2	nazwa firmy	
+< KW	KW:s2	subst:sg:dat:f	nazwa firmy	
+< KW	KW:s2	subst:sg:dat:n2	nazwa firmy	
+< KW	KW:s2	subst:sg:gen:f	nazwa firmy	
+< KW	KW:s2	subst:sg:gen:n2	nazwa firmy	
+< KW	KW:s2	subst:sg:inst:f	nazwa firmy	
+< KW	KW:s2	subst:sg:inst:n2	nazwa firmy	
+< KW	KW:s2	subst:sg:loc:f	nazwa firmy	
+< KW	KW:s2	subst:sg:loc:n2	nazwa firmy	
+< KW	KW:s2	subst:sg:nom:f	nazwa firmy	
+< KW	KW:s2	subst:sg:nom:n2	nazwa firmy	
+< KW	KW:s2	subst:sg:voc:f	nazwa firmy	
+< KW	KW:s2	subst:sg:voc:n2	nazwa firmy	
+---
+> KW	KW:s1	subst:pl:acc:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:acc:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:dat:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:dat:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:gen:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:gen:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:inst:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:inst:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:loc:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:loc:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:nom:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:nom:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:voc:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:pl:voc:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:acc:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:acc:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:dat:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:dat:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:gen:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:gen:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:inst:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:inst:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:loc:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:loc:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:nom:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:nom:n2	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:voc:f	nazwa firmy|człon nazwy instytucji	
+> KW	KW:s1	subst:sg:voc:n2	nazwa firmy|człon nazwy instytucji	
+1432188,1432215c1431771,1431784
+< lamach	lama:s1	subst:pl:loc:f	nazwa pospolita	zool.
+< lama	lama:s1	subst:sg:nom:f	nazwa pospolita	zool.
+< lamami	lama:s1	subst:pl:inst:f	nazwa pospolita	zool.
+< lamą	lama:s1	subst:sg:inst:f	nazwa pospolita	zool.
+< lamę	lama:s1	subst:sg:acc:f	nazwa pospolita	zool.
+< lamie	lama:s1	subst:sg:dat:f	nazwa pospolita	zool.
+< lamie	lama:s1	subst:sg:loc:f	nazwa pospolita	zool.
+< lam	lama:s1	subst:pl:gen:f	nazwa pospolita	zool.
+< lamo	lama:s1	subst:sg:voc:f	nazwa pospolita	zool.
+< lamom	lama:s1	subst:pl:dat:f	nazwa pospolita	zool.
+< lamy	lama:s1	subst:pl:acc:f	nazwa pospolita	zool.
+< lamy	lama:s1	subst:pl:nom:f	nazwa pospolita	zool.
+< lamy	lama:s1	subst:pl:voc:f	nazwa pospolita	zool.
+< lamy	lama:s1	subst:sg:gen:f	nazwa pospolita	zool.
+< lamach	lama:s2	subst:pl:loc:f	nazwa pospolita	włók.
+< lama	lama:s2	subst:sg:nom:f	nazwa pospolita	włók.
+< lamami	lama:s2	subst:pl:inst:f	nazwa pospolita	włók.
+< lamą	lama:s2	subst:sg:inst:f	nazwa pospolita	włók.
+< lamę	lama:s2	subst:sg:acc:f	nazwa pospolita	włók.
+< lamie	lama:s2	subst:sg:dat:f	nazwa pospolita	włók.
+< lamie	lama:s2	subst:sg:loc:f	nazwa pospolita	włók.
+< lam	lama:s2	subst:pl:gen:f	nazwa pospolita	włók.
+< lamo	lama:s2	subst:sg:voc:f	nazwa pospolita	włók.
+< lamom	lama:s2	subst:pl:dat:f	nazwa pospolita	włók.
+< lamy	lama:s2	subst:pl:acc:f	nazwa pospolita	włók.
+< lamy	lama:s2	subst:pl:nom:f	nazwa pospolita	włók.
+< lamy	lama:s2	subst:pl:voc:f	nazwa pospolita	włók.
+< lamy	lama:s2	subst:sg:gen:f	nazwa pospolita	włók.
+---
+> lamach	lama:s1	subst:pl:loc:f	nazwa pospolita	zool.|włók.
+> lama	lama:s1	subst:sg:nom:f	nazwa pospolita	zool.|włók.
+> lamami	lama:s1	subst:pl:inst:f	nazwa pospolita	zool.|włók.
+> lamą	lama:s1	subst:sg:inst:f	nazwa pospolita	zool.|włók.
+> lamę	lama:s1	subst:sg:acc:f	nazwa pospolita	zool.|włók.
+> lamie	lama:s1	subst:sg:dat:f	nazwa pospolita	zool.|włók.
+> lamie	lama:s1	subst:sg:loc:f	nazwa pospolita	zool.|włók.
+> lam	lama:s1	subst:pl:gen:f	nazwa pospolita	zool.|włók.
+> lamo	lama:s1	subst:sg:voc:f	nazwa pospolita	zool.|włók.
+> lamom	lama:s1	subst:pl:dat:f	nazwa pospolita	zool.|włók.
+> lamy	lama:s1	subst:pl:acc:f	nazwa pospolita	zool.|włók.
+> lamy	lama:s1	subst:pl:nom:f	nazwa pospolita	zool.|włók.
+> lamy	lama:s1	subst:pl:voc:f	nazwa pospolita	zool.|włók.
+> lamy	lama:s1	subst:sg:gen:f	nazwa pospolita	zool.|włók.
+1491368,1491395c1490937,1490950
+< LP	LP:s2	subst:pl:acc:n2	nazwa pospolita	
+< LP	LP:s2	subst:pl:dat:n2	nazwa pospolita	
+< LP	LP:s2	subst:pl:gen:n2	nazwa pospolita	
+< LP	LP:s2	subst:pl:inst:n2	nazwa pospolita	
+< LP	LP:s2	subst:pl:loc:n2	nazwa pospolita	
+< LP	LP:s2	subst:pl:nom:n2	nazwa pospolita	
+< LP	LP:s2	subst:pl:voc:n2	nazwa pospolita	
+< LP	LP:s2	subst:sg:acc:n2	nazwa pospolita	
+< LP	LP:s2	subst:sg:dat:n2	nazwa pospolita	
+< LP	LP:s2	subst:sg:gen:n2	nazwa pospolita	
+< LP	LP:s2	subst:sg:inst:n2	nazwa pospolita	
+< LP	LP:s2	subst:sg:loc:n2	nazwa pospolita	
+< LP	LP:s2	subst:sg:nom:n2	nazwa pospolita	
+< LP	LP:s2	subst:sg:voc:n2	nazwa pospolita	
+< LP	LP:s3	subst:pl:acc:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:pl:dat:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:pl:gen:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:pl:inst:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:pl:loc:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:pl:nom:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:pl:voc:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:sg:acc:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:sg:dat:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:sg:gen:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:sg:inst:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:sg:loc:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:sg:nom:n2	człon nazwy instytucji	
+< LP	LP:s3	subst:sg:voc:n2	człon nazwy instytucji	
+---
+> LP	LP:s3	subst:pl:acc:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:pl:dat:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:pl:gen:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:pl:inst:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:pl:loc:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:pl:nom:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:pl:voc:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:sg:acc:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:sg:dat:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:sg:gen:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:sg:inst:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:sg:loc:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:sg:nom:n2	nazwa pospolita|człon nazwy instytucji	
+> LP	LP:s3	subst:sg:voc:n2	nazwa pospolita|człon nazwy instytucji	
+1503062,1503077d1502616
+< luzacy	luzak:s3	subst:pl:nom:m1	nazwa pospolita	hist.
+< luzacy	luzak:s3	subst:pl:voc:m1	nazwa pospolita	hist.
+< luzakach	luzak:s3	subst:pl:loc:m1	nazwa pospolita	hist.
+< luzaka	luzak:s3	subst:sg:acc:m1	nazwa pospolita	hist.
+< luzaka	luzak:s3	subst:sg:gen:m1	nazwa pospolita	hist.
+< luzakami	luzak:s3	subst:pl:inst:m1	nazwa pospolita	hist.
+< luzakiem	luzak:s3	subst:sg:inst:m1	nazwa pospolita	hist.
+< luzaki	luzak:s3	depr:pl:nom:m2	nazwa pospolita	hist.
+< luzaki	luzak:s3	depr:pl:voc:m2	nazwa pospolita	hist.
+< luzak	luzak:s3	subst:sg:nom:m1	nazwa pospolita	hist.
+< luzakom	luzak:s3	subst:pl:dat:m1	nazwa pospolita	hist.
+< luzakowi	luzak:s3	subst:sg:dat:m1	nazwa pospolita	hist.
+< luzaków	luzak:s3	subst:pl:acc:m1	nazwa pospolita	hist.
+< luzaków	luzak:s3	subst:pl:gen:m1	nazwa pospolita	hist.
+< luzaku	luzak:s3	subst:sg:loc:m1	nazwa pospolita	hist.
+< luzaku	luzak:s3	subst:sg:voc:m1	nazwa pospolita	hist.
+1513224a1512764,1512777
+> łacie	łata	subst:sg:dat:f	nazwa pospolita	
+> łacie	łata	subst:sg:loc:f	nazwa pospolita	
+> łatach	łata	subst:pl:loc:f	nazwa pospolita	
+> łata	łata	subst:sg:nom:f	nazwa pospolita	
+> łatami	łata	subst:pl:inst:f	nazwa pospolita	
+> łatą	łata	subst:sg:inst:f	nazwa pospolita	
+> łatę	łata	subst:sg:acc:f	nazwa pospolita	
+> łat	łata	subst:pl:gen:f	nazwa pospolita	
+> łato	łata	subst:sg:voc:f	nazwa pospolita	
+> łatom	łata	subst:pl:dat:f	nazwa pospolita	
+> łaty	łata	subst:pl:acc:f	nazwa pospolita	
+> łaty	łata	subst:pl:nom:f	nazwa pospolita	
+> łaty	łata	subst:pl:voc:f	nazwa pospolita	
+> łaty	łata	subst:sg:gen:f	nazwa pospolita	
+1513426,1513453d1512978
+< łacie	łata:s1	subst:sg:dat:f	nazwa pospolita	
+< łacie	łata:s1	subst:sg:loc:f	nazwa pospolita	
+< łatach	łata:s1	subst:pl:loc:f	nazwa pospolita	
+< łata	łata:s1	subst:sg:nom:f	nazwa pospolita	
+< łatami	łata:s1	subst:pl:inst:f	nazwa pospolita	
+< łatą	łata:s1	subst:sg:inst:f	nazwa pospolita	
+< łatę	łata:s1	subst:sg:acc:f	nazwa pospolita	
+< łat	łata:s1	subst:pl:gen:f	nazwa pospolita	
+< łato	łata:s1	subst:sg:voc:f	nazwa pospolita	
+< łatom	łata:s1	subst:pl:dat:f	nazwa pospolita	
+< łaty	łata:s1	subst:pl:acc:f	nazwa pospolita	
+< łaty	łata:s1	subst:pl:nom:f	nazwa pospolita	
+< łaty	łata:s1	subst:pl:voc:f	nazwa pospolita	
+< łaty	łata:s1	subst:sg:gen:f	nazwa pospolita	
+< łacie	łata:s2	subst:sg:dat:f	nazwa pospolita	
+< łacie	łata:s2	subst:sg:loc:f	nazwa pospolita	
+< łatach	łata:s2	subst:pl:loc:f	nazwa pospolita	
+< łata	łata:s2	subst:sg:nom:f	nazwa pospolita	
+< łatami	łata:s2	subst:pl:inst:f	nazwa pospolita	
+< łatą	łata:s2	subst:sg:inst:f	nazwa pospolita	
+< łatę	łata:s2	subst:sg:acc:f	nazwa pospolita	
+< łat	łata:s2	subst:pl:gen:f	nazwa pospolita	
+< łato	łata:s2	subst:sg:voc:f	nazwa pospolita	
+< łatom	łata:s2	subst:pl:dat:f	nazwa pospolita	
+< łaty	łata:s2	subst:pl:acc:f	nazwa pospolita	
+< łaty	łata:s2	subst:pl:nom:f	nazwa pospolita	
+< łaty	łata:s2	subst:pl:voc:f	nazwa pospolita	
+< łaty	łata:s2	subst:sg:gen:f	nazwa pospolita	
+1621469a1620995
+> mhm	mhm	interj		
+1671410a1670937,1670964
+> MN-ach	MN	subst:pl:loc:m3	nazwa instytucji	
+> MN-ami	MN	subst:pl:inst:m3	nazwa instytucji	
+> MN-em	MN	subst:sg:inst:m3	nazwa instytucji	
+> MN-ie	MN	subst:sg:loc:m3	nazwa instytucji	
+> MN-ie	MN	subst:sg:voc:m3	nazwa instytucji	
+> MN	MN	subst:pl:acc:n2	nazwa instytucji	
+> MN	MN	subst:pl:dat:n2	nazwa instytucji	
+> MN	MN	subst:pl:gen:n2	nazwa instytucji	
+> MN	MN	subst:pl:inst:n2	nazwa instytucji	
+> MN	MN	subst:pl:loc:n2	nazwa instytucji	
+> MN	MN	subst:pl:nom:n2	nazwa instytucji	
+> MN	MN	subst:pl:voc:n2	nazwa instytucji	
+> MN	MN	subst:sg:acc:m3	nazwa instytucji	
+> MN	MN	subst:sg:acc:n2	nazwa instytucji	
+> MN	MN	subst:sg:dat:n2	nazwa instytucji	
+> MN	MN	subst:sg:gen:n2	nazwa instytucji	
+> MN	MN	subst:sg:inst:n2	nazwa instytucji	
+> MN	MN	subst:sg:loc:n2	nazwa instytucji	
+> MN	MN	subst:sg:nom:m3	nazwa instytucji	
+> MN	MN	subst:sg:nom:n2	nazwa instytucji	
+> MN	MN	subst:sg:voc:n2	nazwa instytucji	
+> MN-om	MN	subst:pl:dat:m3	nazwa instytucji	
+> MN-owi	MN	subst:sg:dat:m3	nazwa instytucji	
+> MN-ów	MN	subst:pl:gen:m3	nazwa instytucji	
+> MN-u	MN	subst:sg:gen:m3	nazwa instytucji	
+> MN-y	MN	subst:pl:acc:m3	nazwa instytucji	
+> MN-y	MN	subst:pl:nom:m3	nazwa instytucji	
+> MN-y	MN	subst:pl:voc:m3	nazwa instytucji	
+1673319,1673374d1672872
+< MN-ach	MN:s1	subst:pl:loc:m3	nazwa instytucji	
+< MN-ami	MN:s1	subst:pl:inst:m3	nazwa instytucji	
+< MN-em	MN:s1	subst:sg:inst:m3	nazwa instytucji	
+< MN-ie	MN:s1	subst:sg:loc:m3	nazwa instytucji	
+< MN-ie	MN:s1	subst:sg:voc:m3	nazwa instytucji	
+< MN	MN:s1	subst:pl:acc:n2	nazwa instytucji	
+< MN	MN:s1	subst:pl:dat:n2	nazwa instytucji	
+< MN	MN:s1	subst:pl:gen:n2	nazwa instytucji	
+< MN	MN:s1	subst:pl:inst:n2	nazwa instytucji	
+< MN	MN:s1	subst:pl:loc:n2	nazwa instytucji	
+< MN	MN:s1	subst:pl:nom:n2	nazwa instytucji	
+< MN	MN:s1	subst:pl:voc:n2	nazwa instytucji	
+< MN	MN:s1	subst:sg:acc:m3	nazwa instytucji	
+< MN	MN:s1	subst:sg:acc:n2	nazwa instytucji	
+< MN	MN:s1	subst:sg:dat:n2	nazwa instytucji	
+< MN	MN:s1	subst:sg:gen:n2	nazwa instytucji	
+< MN	MN:s1	subst:sg:inst:n2	nazwa instytucji	
+< MN	MN:s1	subst:sg:loc:n2	nazwa instytucji	
+< MN	MN:s1	subst:sg:nom:m3	nazwa instytucji	
+< MN	MN:s1	subst:sg:nom:n2	nazwa instytucji	
+< MN	MN:s1	subst:sg:voc:n2	nazwa instytucji	
+< MN-om	MN:s1	subst:pl:dat:m3	nazwa instytucji	
+< MN-owi	MN:s1	subst:sg:dat:m3	nazwa instytucji	
+< MN-ów	MN:s1	subst:pl:gen:m3	nazwa instytucji	
+< MN-u	MN:s1	subst:sg:gen:m3	nazwa instytucji	
+< MN-y	MN:s1	subst:pl:acc:m3	nazwa instytucji	
+< MN-y	MN:s1	subst:pl:nom:m3	nazwa instytucji	
+< MN-y	MN:s1	subst:pl:voc:m3	nazwa instytucji	
+< MN-ach	MN:s2	subst:pl:loc:m3	nazwa instytucji	
+< MN-ami	MN:s2	subst:pl:inst:m3	nazwa instytucji	
+< MN-em	MN:s2	subst:sg:inst:m3	nazwa instytucji	
+< MN-ie	MN:s2	subst:sg:loc:m3	nazwa instytucji	
+< MN-ie	MN:s2	subst:sg:voc:m3	nazwa instytucji	
+< MN	MN:s2	subst:pl:acc:n2	nazwa instytucji	
+< MN	MN:s2	subst:pl:dat:n2	nazwa instytucji	
+< MN	MN:s2	subst:pl:gen:n2	nazwa instytucji	
+< MN	MN:s2	subst:pl:inst:n2	nazwa instytucji	
+< MN	MN:s2	subst:pl:loc:n2	nazwa instytucji	
+< MN	MN:s2	subst:pl:nom:n2	nazwa instytucji	
+< MN	MN:s2	subst:pl:voc:n2	nazwa instytucji	
+< MN	MN:s2	subst:sg:acc:m3	nazwa instytucji	
+< MN	MN:s2	subst:sg:acc:n2	nazwa instytucji	
+< MN	MN:s2	subst:sg:dat:n2	nazwa instytucji	
+< MN	MN:s2	subst:sg:gen:n2	nazwa instytucji	
+< MN	MN:s2	subst:sg:inst:n2	nazwa instytucji	
+< MN	MN:s2	subst:sg:loc:n2	nazwa instytucji	
+< MN	MN:s2	subst:sg:nom:m3	nazwa instytucji	
+< MN	MN:s2	subst:sg:nom:n2	nazwa instytucji	
+< MN	MN:s2	subst:sg:voc:n2	nazwa instytucji	
+< MN-om	MN:s2	subst:pl:dat:m3	nazwa instytucji	
+< MN-owi	MN:s2	subst:sg:dat:m3	nazwa instytucji	
+< MN-ów	MN:s2	subst:pl:gen:m3	nazwa instytucji	
+< MN-u	MN:s2	subst:sg:gen:m3	nazwa instytucji	
+< MN-y	MN:s2	subst:pl:acc:m3	nazwa instytucji	
+< MN-y	MN:s2	subst:pl:nom:m3	nazwa instytucji	
+< MN-y	MN:s2	subst:pl:voc:m3	nazwa instytucji	
+1704058,1704085c1703556,1703569
+< MPW	MPW:s1	subst:pl:acc:n2	nazwa firmy	
+< MPW	MPW:s1	subst:pl:dat:n2	nazwa firmy	
+< MPW	MPW:s1	subst:pl:gen:n2	nazwa firmy	
+< MPW	MPW:s1	subst:pl:inst:n2	nazwa firmy	
+< MPW	MPW:s1	subst:pl:loc:n2	nazwa firmy	
+< MPW	MPW:s1	subst:pl:nom:n2	nazwa firmy	
+< MPW	MPW:s1	subst:pl:voc:n2	nazwa firmy	
+< MPW	MPW:s1	subst:sg:acc:n2	nazwa firmy	
+< MPW	MPW:s1	subst:sg:dat:n2	nazwa firmy	
+< MPW	MPW:s1	subst:sg:gen:n2	nazwa firmy	
+< MPW	MPW:s1	subst:sg:inst:n2	nazwa firmy	
+< MPW	MPW:s1	subst:sg:loc:n2	nazwa firmy	
+< MPW	MPW:s1	subst:sg:nom:n2	nazwa firmy	
+< MPW	MPW:s1	subst:sg:voc:n2	nazwa firmy	
+< MPW	MPW:s2	subst:pl:acc:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:pl:dat:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:pl:gen:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:pl:inst:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:pl:loc:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:pl:nom:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:pl:voc:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:sg:acc:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:sg:dat:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:sg:gen:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:sg:inst:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:sg:loc:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:sg:nom:n2	nazwa pospolita	
+< MPW	MPW:s2	subst:sg:voc:n2	nazwa pospolita	
+---
+> MPW	MPW	subst:pl:acc:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:pl:dat:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:pl:gen:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:pl:inst:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:pl:loc:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:pl:nom:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:pl:voc:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:sg:acc:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:sg:dat:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:sg:gen:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:sg:inst:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:sg:loc:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:sg:nom:n2	nazwa pospolita|nazwa firmy	
+> MPW	MPW	subst:sg:voc:n2	nazwa pospolita|nazwa firmy	
+1707667a1707152,1707179
+> MS-ach	MS	subst:pl:loc:m3	nazwa instytucji	
+> MS-ami	MS	subst:pl:inst:m3	nazwa instytucji	
+> MS-em	MS	subst:sg:inst:m3	nazwa instytucji	
+> MS-ie	MS	subst:sg:loc:m3	nazwa instytucji	
+> MS-ie	MS	subst:sg:voc:m3	nazwa instytucji	
+> MS	MS	subst:pl:acc:n2	nazwa instytucji	
+> MS	MS	subst:pl:dat:n2	nazwa instytucji	
+> MS	MS	subst:pl:gen:n2	nazwa instytucji	
+> MS	MS	subst:pl:inst:n2	nazwa instytucji	
+> MS	MS	subst:pl:loc:n2	nazwa instytucji	
+> MS	MS	subst:pl:nom:n2	nazwa instytucji	
+> MS	MS	subst:pl:voc:n2	nazwa instytucji	
+> MS	MS	subst:sg:acc:m3	nazwa instytucji	
+> MS	MS	subst:sg:acc:n2	nazwa instytucji	
+> MS	MS	subst:sg:dat:n2	nazwa instytucji	
+> MS	MS	subst:sg:gen:n2	nazwa instytucji	
+> MS	MS	subst:sg:inst:n2	nazwa instytucji	
+> MS	MS	subst:sg:loc:n2	nazwa instytucji	
+> MS	MS	subst:sg:nom:m3	nazwa instytucji	
+> MS	MS	subst:sg:nom:n2	nazwa instytucji	
+> MS	MS	subst:sg:voc:n2	nazwa instytucji	
+> MS-om	MS	subst:pl:dat:m3	nazwa instytucji	
+> MS-owi	MS	subst:sg:dat:m3	nazwa instytucji	
+> MS-ów	MS	subst:pl:gen:m3	nazwa instytucji	
+> MS-u	MS	subst:sg:gen:m3	nazwa instytucji	
+> MS-y	MS	subst:pl:acc:m3	nazwa instytucji	
+> MS-y	MS	subst:pl:nom:m3	nazwa instytucji	
+> MS-y	MS	subst:pl:voc:m3	nazwa instytucji	
+1707696,1707751d1707207
+< MS-ach	MS:s1	subst:pl:loc:m3	nazwa instytucji	
+< MS-ami	MS:s1	subst:pl:inst:m3	nazwa instytucji	
+< MS-em	MS:s1	subst:sg:inst:m3	nazwa instytucji	
+< MS-ie	MS:s1	subst:sg:loc:m3	nazwa instytucji	
+< MS-ie	MS:s1	subst:sg:voc:m3	nazwa instytucji	
+< MS	MS:s1	subst:pl:acc:n2	nazwa instytucji	
+< MS	MS:s1	subst:pl:dat:n2	nazwa instytucji	
+< MS	MS:s1	subst:pl:gen:n2	nazwa instytucji	
+< MS	MS:s1	subst:pl:inst:n2	nazwa instytucji	
+< MS	MS:s1	subst:pl:loc:n2	nazwa instytucji	
+< MS	MS:s1	subst:pl:nom:n2	nazwa instytucji	
+< MS	MS:s1	subst:pl:voc:n2	nazwa instytucji	
+< MS	MS:s1	subst:sg:acc:m3	nazwa instytucji	
+< MS	MS:s1	subst:sg:acc:n2	nazwa instytucji	
+< MS	MS:s1	subst:sg:dat:n2	nazwa instytucji	
+< MS	MS:s1	subst:sg:gen:n2	nazwa instytucji	
+< MS	MS:s1	subst:sg:inst:n2	nazwa instytucji	
+< MS	MS:s1	subst:sg:loc:n2	nazwa instytucji	
+< MS	MS:s1	subst:sg:nom:m3	nazwa instytucji	
+< MS	MS:s1	subst:sg:nom:n2	nazwa instytucji	
+< MS	MS:s1	subst:sg:voc:n2	nazwa instytucji	
+< MS-om	MS:s1	subst:pl:dat:m3	nazwa instytucji	
+< MS-owi	MS:s1	subst:sg:dat:m3	nazwa instytucji	
+< MS-ów	MS:s1	subst:pl:gen:m3	nazwa instytucji	
+< MS-u	MS:s1	subst:sg:gen:m3	nazwa instytucji	
+< MS-y	MS:s1	subst:pl:acc:m3	nazwa instytucji	
+< MS-y	MS:s1	subst:pl:nom:m3	nazwa instytucji	
+< MS-y	MS:s1	subst:pl:voc:m3	nazwa instytucji	
+< MS-ach	MS:s2	subst:pl:loc:m3	nazwa instytucji	
+< MS-ami	MS:s2	subst:pl:inst:m3	nazwa instytucji	
+< MS-em	MS:s2	subst:sg:inst:m3	nazwa instytucji	
+< MS-ie	MS:s2	subst:sg:loc:m3	nazwa instytucji	
+< MS-ie	MS:s2	subst:sg:voc:m3	nazwa instytucji	
+< MS	MS:s2	subst:pl:acc:n2	nazwa instytucji	
+< MS	MS:s2	subst:pl:dat:n2	nazwa instytucji	
+< MS	MS:s2	subst:pl:gen:n2	nazwa instytucji	
+< MS	MS:s2	subst:pl:inst:n2	nazwa instytucji	
+< MS	MS:s2	subst:pl:loc:n2	nazwa instytucji	
+< MS	MS:s2	subst:pl:nom:n2	nazwa instytucji	
+< MS	MS:s2	subst:pl:voc:n2	nazwa instytucji	
+< MS	MS:s2	subst:sg:acc:m3	nazwa instytucji	
+< MS	MS:s2	subst:sg:acc:n2	nazwa instytucji	
+< MS	MS:s2	subst:sg:dat:n2	nazwa instytucji	
+< MS	MS:s2	subst:sg:gen:n2	nazwa instytucji	
+< MS	MS:s2	subst:sg:inst:n2	nazwa instytucji	
+< MS	MS:s2	subst:sg:loc:n2	nazwa instytucji	
+< MS	MS:s2	subst:sg:nom:m3	nazwa instytucji	
+< MS	MS:s2	subst:sg:nom:n2	nazwa instytucji	
+< MS	MS:s2	subst:sg:voc:n2	nazwa instytucji	
+< MS-om	MS:s2	subst:pl:dat:m3	nazwa instytucji	
+< MS-owi	MS:s2	subst:sg:dat:m3	nazwa instytucji	
+< MS-ów	MS:s2	subst:pl:gen:m3	nazwa instytucji	
+< MS-u	MS:s2	subst:sg:gen:m3	nazwa instytucji	
+< MS-y	MS:s2	subst:pl:acc:m3	nazwa instytucji	
+< MS-y	MS:s2	subst:pl:nom:m3	nazwa instytucji	
+< MS-y	MS:s2	subst:pl:voc:m3	nazwa instytucji	
+1713640,1713667c1713096,1713109
+< murarce	murarka:s1	subst:sg:dat:f	nazwa pospolita	pot.
+< murarce	murarka:s1	subst:sg:loc:f	nazwa pospolita	pot.
+< murarek	murarka:s1	subst:pl:gen:f	nazwa pospolita	pot.
+< murarkach	murarka:s1	subst:pl:loc:f	nazwa pospolita	pot.
+< murarkami	murarka:s1	subst:pl:inst:f	nazwa pospolita	pot.
+< murarka	murarka:s1	subst:sg:nom:f	nazwa pospolita	pot.
+< murarką	murarka:s1	subst:sg:inst:f	nazwa pospolita	pot.
+< murarkę	murarka:s1	subst:sg:acc:f	nazwa pospolita	pot.
+< murarki	murarka:s1	subst:pl:acc:f	nazwa pospolita	pot.
+< murarki	murarka:s1	subst:pl:nom:f	nazwa pospolita	pot.
+< murarki	murarka:s1	subst:pl:voc:f	nazwa pospolita	pot.
+< murarki	murarka:s1	subst:sg:gen:f	nazwa pospolita	pot.
+< murarkom	murarka:s1	subst:pl:dat:f	nazwa pospolita	pot.
+< murarko	murarka:s1	subst:sg:voc:f	nazwa pospolita	pot.
+< murarce	murarka:s2	subst:sg:dat:f	nazwa pospolita	rzad.
+< murarce	murarka:s2	subst:sg:loc:f	nazwa pospolita	rzad.
+< murarek	murarka:s2	subst:pl:gen:f	nazwa pospolita	rzad.
+< murarkach	murarka:s2	subst:pl:loc:f	nazwa pospolita	rzad.
+< murarkami	murarka:s2	subst:pl:inst:f	nazwa pospolita	rzad.
+< murarka	murarka:s2	subst:sg:nom:f	nazwa pospolita	rzad.
+< murarką	murarka:s2	subst:sg:inst:f	nazwa pospolita	rzad.
+< murarkę	murarka:s2	subst:sg:acc:f	nazwa pospolita	rzad.
+< murarki	murarka:s2	subst:pl:acc:f	nazwa pospolita	rzad.
+< murarki	murarka:s2	subst:pl:nom:f	nazwa pospolita	rzad.
+< murarki	murarka:s2	subst:pl:voc:f	nazwa pospolita	rzad.
+< murarki	murarka:s2	subst:sg:gen:f	nazwa pospolita	rzad.
+< murarkom	murarka:s2	subst:pl:dat:f	nazwa pospolita	rzad.
+< murarko	murarka:s2	subst:sg:voc:f	nazwa pospolita	rzad.
+---
+> murarce	murarka	subst:sg:dat:f	nazwa pospolita	rzad.|pot.
+> murarce	murarka	subst:sg:loc:f	nazwa pospolita	rzad.|pot.
+> murarek	murarka	subst:pl:gen:f	nazwa pospolita	rzad.|pot.
+> murarkach	murarka	subst:pl:loc:f	nazwa pospolita	rzad.|pot.
+> murarkami	murarka	subst:pl:inst:f	nazwa pospolita	rzad.|pot.
+> murarka	murarka	subst:sg:nom:f	nazwa pospolita	rzad.|pot.
+> murarką	murarka	subst:sg:inst:f	nazwa pospolita	rzad.|pot.
+> murarkę	murarka	subst:sg:acc:f	nazwa pospolita	rzad.|pot.
+> murarki	murarka	subst:pl:acc:f	nazwa pospolita	rzad.|pot.
+> murarki	murarka	subst:pl:nom:f	nazwa pospolita	rzad.|pot.
+> murarki	murarka	subst:pl:voc:f	nazwa pospolita	rzad.|pot.
+> murarki	murarka	subst:sg:gen:f	nazwa pospolita	rzad.|pot.
+> murarkom	murarka	subst:pl:dat:f	nazwa pospolita	rzad.|pot.
+> murarko	murarka	subst:sg:voc:f	nazwa pospolita	rzad.|pot.
+1892162,1892189c1891604,1891617
+< nawijce	nawijka:s1	subst:sg:dat:f	nazwa pospolita	pot.
+< nawijce	nawijka:s1	subst:sg:loc:f	nazwa pospolita	pot.
+< nawijek	nawijka:s1	subst:pl:gen:f	nazwa pospolita	pot.
+< nawijkach	nawijka:s1	subst:pl:loc:f	nazwa pospolita	pot.
+< nawijkami	nawijka:s1	subst:pl:inst:f	nazwa pospolita	pot.
+< nawijka	nawijka:s1	subst:sg:nom:f	nazwa pospolita	pot.
+< nawijką	nawijka:s1	subst:sg:inst:f	nazwa pospolita	pot.
+< nawijkę	nawijka:s1	subst:sg:acc:f	nazwa pospolita	pot.
+< nawijki	nawijka:s1	subst:pl:acc:f	nazwa pospolita	pot.
+< nawijki	nawijka:s1	subst:pl:nom:f	nazwa pospolita	pot.
+< nawijki	nawijka:s1	subst:pl:voc:f	nazwa pospolita	pot.
+< nawijki	nawijka:s1	subst:sg:gen:f	nazwa pospolita	pot.
+< nawijkom	nawijka:s1	subst:pl:dat:f	nazwa pospolita	pot.
+< nawijko	nawijka:s1	subst:sg:voc:f	nazwa pospolita	pot.
+< nawijce	nawijka:s2	subst:sg:dat:f	nazwa pospolita	
+< nawijce	nawijka:s2	subst:sg:loc:f	nazwa pospolita	
+< nawijek	nawijka:s2	subst:pl:gen:f	nazwa pospolita	
+< nawijkach	nawijka:s2	subst:pl:loc:f	nazwa pospolita	
+< nawijkami	nawijka:s2	subst:pl:inst:f	nazwa pospolita	
+< nawijka	nawijka:s2	subst:sg:nom:f	nazwa pospolita	
+< nawijką	nawijka:s2	subst:sg:inst:f	nazwa pospolita	
+< nawijkę	nawijka:s2	subst:sg:acc:f	nazwa pospolita	
+< nawijki	nawijka:s2	subst:pl:acc:f	nazwa pospolita	
+< nawijki	nawijka:s2	subst:pl:nom:f	nazwa pospolita	
+< nawijki	nawijka:s2	subst:pl:voc:f	nazwa pospolita	
+< nawijki	nawijka:s2	subst:sg:gen:f	nazwa pospolita	
+< nawijkom	nawijka:s2	subst:pl:dat:f	nazwa pospolita	
+< nawijko	nawijka:s2	subst:sg:voc:f	nazwa pospolita	
+---
+> nawijce	nawijka	subst:sg:dat:f	nazwa pospolita	pot.
+> nawijce	nawijka	subst:sg:loc:f	nazwa pospolita	pot.
+> nawijek	nawijka	subst:pl:gen:f	nazwa pospolita	pot.
+> nawijkach	nawijka	subst:pl:loc:f	nazwa pospolita	pot.
+> nawijkami	nawijka	subst:pl:inst:f	nazwa pospolita	pot.
+> nawijka	nawijka	subst:sg:nom:f	nazwa pospolita	pot.
+> nawijką	nawijka	subst:sg:inst:f	nazwa pospolita	pot.
+> nawijkę	nawijka	subst:sg:acc:f	nazwa pospolita	pot.
+> nawijki	nawijka	subst:pl:acc:f	nazwa pospolita	pot.
+> nawijki	nawijka	subst:pl:nom:f	nazwa pospolita	pot.
+> nawijki	nawijka	subst:pl:voc:f	nazwa pospolita	pot.
+> nawijki	nawijka	subst:sg:gen:f	nazwa pospolita	pot.
+> nawijkom	nawijka	subst:pl:dat:f	nazwa pospolita	pot.
+> nawijko	nawijka	subst:sg:voc:f	nazwa pospolita	pot.
+3472041,3472096c3471469,3471496
+< Oicie	OIT:s1	subst:sg:loc:m3	nazwa instytucji	
+< OI-cie	OIT:s1	subst:sg:loc:m3	nazwa instytucji	
+< Oicie	OIT:s1	subst:sg:voc:m3	nazwa instytucji	
+< OI-cie	OIT:s1	subst:sg:voc:m3	nazwa instytucji	
+< OIT-ach	OIT:s1	subst:pl:loc:m3	nazwa instytucji	
+< OIT-ami	OIT:s1	subst:pl:inst:m3	nazwa instytucji	
+< OIT-em	OIT:s1	subst:sg:inst:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:pl:acc:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:pl:dat:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:pl:gen:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:pl:inst:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:pl:loc:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:pl:nom:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:pl:voc:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:sg:acc:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:sg:dat:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:sg:gen:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:sg:inst:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:sg:loc:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:sg:nom:m3	nazwa instytucji	
+< OIT	OIT:s1	subst:sg:voc:m3	nazwa instytucji	
+< OIT-om	OIT:s1	subst:pl:dat:m3	nazwa instytucji	
+< OIT-owi	OIT:s1	subst:sg:dat:m3	nazwa instytucji	
+< OIT-ów	OIT:s1	subst:pl:gen:m3	nazwa instytucji	
+< OIT-u	OIT:s1	subst:sg:gen:m3	nazwa instytucji	
+< OIT-y	OIT:s1	subst:pl:acc:m3	nazwa instytucji	
+< OIT-y	OIT:s1	subst:pl:nom:m3	nazwa instytucji	
+< OIT-y	OIT:s1	subst:pl:voc:m3	nazwa instytucji	
+< Oicie	OIT:s2	subst:sg:loc:m3	nazwa instytucji	
+< OI-cie	OIT:s2	subst:sg:loc:m3	nazwa instytucji	
+< Oicie	OIT:s2	subst:sg:voc:m3	nazwa instytucji	
+< OI-cie	OIT:s2	subst:sg:voc:m3	nazwa instytucji	
+< OIT-ach	OIT:s2	subst:pl:loc:m3	nazwa instytucji	
+< OIT-ami	OIT:s2	subst:pl:inst:m3	nazwa instytucji	
+< OIT-em	OIT:s2	subst:sg:inst:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:pl:acc:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:pl:dat:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:pl:gen:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:pl:inst:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:pl:loc:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:pl:nom:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:pl:voc:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:sg:acc:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:sg:dat:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:sg:gen:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:sg:inst:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:sg:loc:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:sg:nom:m3	nazwa instytucji	
+< OIT	OIT:s2	subst:sg:voc:m3	nazwa instytucji	
+< OIT-om	OIT:s2	subst:pl:dat:m3	nazwa instytucji	
+< OIT-owi	OIT:s2	subst:sg:dat:m3	nazwa instytucji	
+< OIT-ów	OIT:s2	subst:pl:gen:m3	nazwa instytucji	
+< OIT-u	OIT:s2	subst:sg:gen:m3	nazwa instytucji	
+< OIT-y	OIT:s2	subst:pl:acc:m3	nazwa instytucji	
+< OIT-y	OIT:s2	subst:pl:nom:m3	nazwa instytucji	
+< OIT-y	OIT:s2	subst:pl:voc:m3	nazwa instytucji	
+---
+> Oicie	OIT	subst:sg:loc:m3	nazwa instytucji	
+> OI-cie	OIT	subst:sg:loc:m3	nazwa instytucji	
+> Oicie	OIT	subst:sg:voc:m3	nazwa instytucji	
+> OI-cie	OIT	subst:sg:voc:m3	nazwa instytucji	
+> OIT-ach	OIT	subst:pl:loc:m3	nazwa instytucji	
+> OIT-ami	OIT	subst:pl:inst:m3	nazwa instytucji	
+> OIT-em	OIT	subst:sg:inst:m3	nazwa instytucji	
+> OIT	OIT	subst:pl:acc:m3	nazwa instytucji	
+> OIT	OIT	subst:pl:dat:m3	nazwa instytucji	
+> OIT	OIT	subst:pl:gen:m3	nazwa instytucji	
+> OIT	OIT	subst:pl:inst:m3	nazwa instytucji	
+> OIT	OIT	subst:pl:loc:m3	nazwa instytucji	
+> OIT	OIT	subst:pl:nom:m3	nazwa instytucji	
+> OIT	OIT	subst:pl:voc:m3	nazwa instytucji	
+> OIT	OIT	subst:sg:acc:m3	nazwa instytucji	
+> OIT	OIT	subst:sg:dat:m3	nazwa instytucji	
+> OIT	OIT	subst:sg:gen:m3	nazwa instytucji	
+> OIT	OIT	subst:sg:inst:m3	nazwa instytucji	
+> OIT	OIT	subst:sg:loc:m3	nazwa instytucji	
+> OIT	OIT	subst:sg:nom:m3	nazwa instytucji	
+> OIT	OIT	subst:sg:voc:m3	nazwa instytucji	
+> OIT-om	OIT	subst:pl:dat:m3	nazwa instytucji	
+> OIT-owi	OIT	subst:sg:dat:m3	nazwa instytucji	
+> OIT-ów	OIT	subst:pl:gen:m3	nazwa instytucji	
+> OIT-u	OIT	subst:sg:gen:m3	nazwa instytucji	
+> OIT-y	OIT	subst:pl:acc:m3	nazwa instytucji	
+> OIT-y	OIT	subst:pl:nom:m3	nazwa instytucji	
+> OIT-y	OIT	subst:pl:voc:m3	nazwa instytucji	
+3593669a3593070,3593085
+> Oswaldach	Oswald	subst:pl:loc:m1	imię|nazwisko	
+> Oswaldami	Oswald	subst:pl:inst:m1	imię|nazwisko	
+> Oswalda	Oswald	subst:sg:acc:m1	imię|nazwisko	
+> Oswalda	Oswald	subst:sg:gen:m1	imię|nazwisko	
+> Oswaldem	Oswald	subst:sg:inst:m1	imię|nazwisko	
+> Oswaldom	Oswald	subst:pl:dat:m1	imię|nazwisko	
+> Oswald	Oswald	subst:sg:nom:m1	imię|nazwisko	
+> Oswaldowie	Oswald	subst:pl:nom:m1	imię|nazwisko	
+> Oswaldowie	Oswald	subst:pl:voc:m1	imię|nazwisko	
+> Oswaldowi	Oswald	subst:sg:dat:m1	imię|nazwisko	
+> Oswaldów	Oswald	subst:pl:acc:m1	imię|nazwisko	
+> Oswaldów	Oswald	subst:pl:gen:m1	imię|nazwisko	
+> Oswaldy	Oswald	depr:pl:nom:m2	imię|nazwisko	
+> Oswaldy	Oswald	depr:pl:voc:m2	imię|nazwisko	
+> Oswaldzie	Oswald	subst:sg:loc:m1	imię|nazwisko	
+> Oswaldzie	Oswald	subst:sg:voc:m1	imię|nazwisko	
+3593684,3593715d3593099
+< Oswaldach	Oswald:s1	subst:pl:loc:m1	nazwisko	
+< Oswaldami	Oswald:s1	subst:pl:inst:m1	nazwisko	
+< Oswalda	Oswald:s1	subst:sg:acc:m1	nazwisko	
+< Oswalda	Oswald:s1	subst:sg:gen:m1	nazwisko	
+< Oswaldem	Oswald:s1	subst:sg:inst:m1	nazwisko	
+< Oswaldom	Oswald:s1	subst:pl:dat:m1	nazwisko	
+< Oswald	Oswald:s1	subst:sg:nom:m1	nazwisko	
+< Oswaldowie	Oswald:s1	subst:pl:nom:m1	nazwisko	
+< Oswaldowie	Oswald:s1	subst:pl:voc:m1	nazwisko	
+< Oswaldowi	Oswald:s1	subst:sg:dat:m1	nazwisko	
+< Oswaldów	Oswald:s1	subst:pl:acc:m1	nazwisko	
+< Oswaldów	Oswald:s1	subst:pl:gen:m1	nazwisko	
+< Oswaldy	Oswald:s1	depr:pl:nom:m2	nazwisko	
+< Oswaldy	Oswald:s1	depr:pl:voc:m2	nazwisko	
+< Oswaldzie	Oswald:s1	subst:sg:loc:m1	nazwisko	
+< Oswaldzie	Oswald:s1	subst:sg:voc:m1	nazwisko	
+< Oswaldach	Oswald:s2	subst:pl:loc:m1	imię	
+< Oswaldami	Oswald:s2	subst:pl:inst:m1	imię	
+< Oswalda	Oswald:s2	subst:sg:acc:m1	imię	
+< Oswalda	Oswald:s2	subst:sg:gen:m1	imię	
+< Oswaldem	Oswald:s2	subst:sg:inst:m1	imię	
+< Oswaldom	Oswald:s2	subst:pl:dat:m1	imię	
+< Oswald	Oswald:s2	subst:sg:nom:m1	imię	
+< Oswaldowie	Oswald:s2	subst:pl:nom:m1	imię	
+< Oswaldowie	Oswald:s2	subst:pl:voc:m1	imię	
+< Oswaldowi	Oswald:s2	subst:sg:dat:m1	imię	
+< Oswaldów	Oswald:s2	subst:pl:acc:m1	imię	
+< Oswaldów	Oswald:s2	subst:pl:gen:m1	imię	
+< Oswaldy	Oswald:s2	depr:pl:nom:m2	imię	
+< Oswaldy	Oswald:s2	depr:pl:voc:m2	imię	
+< Oswaldzie	Oswald:s2	subst:sg:loc:m1	imię	
+< Oswaldzie	Oswald:s2	subst:sg:voc:m1	imię	
+3653489,3653504d3652872
+< panach	pan	subst:pl:loc:m1	nazwa pospolita	
+< panami	pan	subst:pl:inst:m1	nazwa pospolita	
+< pana	pan	subst:sg:acc:m1	nazwa pospolita	
+< pana	pan	subst:sg:gen:m1	nazwa pospolita	
+< panem	pan	subst:sg:inst:m1	nazwa pospolita	
+< panie	pan	subst:sg:voc:m1	nazwa pospolita	
+< panom	pan	subst:pl:dat:m1	nazwa pospolita	
+< panowie	pan	subst:pl:nom:m1	nazwa pospolita	
+< panowie	pan	subst:pl:voc:m1	nazwa pospolita	
+< panów	pan	subst:pl:acc:m1	nazwa pospolita	
+< panów	pan	subst:pl:gen:m1	nazwa pospolita	
+< pan	pan	subst:sg:nom:m1	nazwa pospolita	
+< panu	pan	subst:sg:dat:m1	nazwa pospolita	
+< panu	pan	subst:sg:loc:m1	nazwa pospolita	
+< pany	pan	depr:pl:nom:m2	nazwa pospolita	
+< pany	pan	depr:pl:voc:m2	nazwa pospolita	
+3655320,3655333d3654687
+< paniach	pani	subst:pl:loc:f	nazwa pospolita	
+< paniami	pani	subst:pl:inst:f	nazwa pospolita	
+< panią	pani	subst:sg:acc:f	nazwa pospolita	
+< panią	pani	subst:sg:inst:f	nazwa pospolita	
+< panie	pani	subst:pl:acc:f	nazwa pospolita	
+< panie	pani	subst:pl:nom:f	nazwa pospolita	
+< panie	pani	subst:pl:voc:f	nazwa pospolita	
+< paniom	pani	subst:pl:dat:f	nazwa pospolita	
+< pani	pani	subst:sg:dat:f	nazwa pospolita	
+< pani	pani	subst:sg:gen:f	nazwa pospolita	
+< pani	pani	subst:sg:loc:f	nazwa pospolita	
+< pani	pani	subst:sg:nom:f	nazwa pospolita	
+< pani	pani	subst:sg:voc:f	nazwa pospolita	
+< pań	pani	subst:pl:gen:f	nazwa pospolita	
+3696264a3695619,3695646
+> PB	PB	subst:pl:acc:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:acc:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:dat:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:dat:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:gen:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:gen:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:inst:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:inst:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:loc:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:loc:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:nom:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:nom:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:voc:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:pl:voc:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:acc:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:acc:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:dat:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:dat:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:gen:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:gen:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:inst:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:inst:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:loc:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:loc:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:nom:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:nom:n2	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:voc:m3	tytuł|nazwa instytucji	
+> PB	PB	subst:sg:voc:n2	tytuł|nazwa instytucji	
+3696405,3696460c3695787,3695814
+< PB	PB:s1	subst:pl:acc:m3	nazwa instytucji	
+< PB	PB:s1	subst:pl:acc:n2	nazwa instytucji	
+< PB	PB:s1	subst:pl:dat:m3	nazwa instytucji	
+< PB	PB:s1	subst:pl:dat:n2	nazwa instytucji	
+< PB	PB:s1	subst:pl:gen:m3	nazwa instytucji	
+< PB	PB:s1	subst:pl:gen:n2	nazwa instytucji	
+< PB	PB:s1	subst:pl:inst:m3	nazwa instytucji	
+< PB	PB:s1	subst:pl:inst:n2	nazwa instytucji	
+< PB	PB:s1	subst:pl:loc:m3	nazwa instytucji	
+< PB	PB:s1	subst:pl:loc:n2	nazwa instytucji	
+< PB	PB:s1	subst:pl:nom:m3	nazwa instytucji	
+< PB	PB:s1	subst:pl:nom:n2	nazwa instytucji	
+< PB	PB:s1	subst:pl:voc:m3	nazwa instytucji	
+< PB	PB:s1	subst:pl:voc:n2	nazwa instytucji	
+< PB	PB:s1	subst:sg:acc:m3	nazwa instytucji	
+< PB	PB:s1	subst:sg:acc:n2	nazwa instytucji	
+< PB	PB:s1	subst:sg:dat:m3	nazwa instytucji	
+< PB	PB:s1	subst:sg:dat:n2	nazwa instytucji	
+< PB	PB:s1	subst:sg:gen:m3	nazwa instytucji	
+< PB	PB:s1	subst:sg:gen:n2	nazwa instytucji	
+< PB	PB:s1	subst:sg:inst:m3	nazwa instytucji	
+< PB	PB:s1	subst:sg:inst:n2	nazwa instytucji	
+< PB	PB:s1	subst:sg:loc:m3	nazwa instytucji	
+< PB	PB:s1	subst:sg:loc:n2	nazwa instytucji	
+< PB	PB:s1	subst:sg:nom:m3	nazwa instytucji	
+< PB	PB:s1	subst:sg:nom:n2	nazwa instytucji	
+< PB	PB:s1	subst:sg:voc:m3	nazwa instytucji	
+< PB	PB:s1	subst:sg:voc:n2	nazwa instytucji	
+< PB	PB:s2	subst:pl:acc:m3	tytuł	
+< PB	PB:s2	subst:pl:acc:n2	tytuł	
+< PB	PB:s2	subst:pl:dat:m3	tytuł	
+< PB	PB:s2	subst:pl:dat:n2	tytuł	
+< PB	PB:s2	subst:pl:gen:m3	tytuł	
+< PB	PB:s2	subst:pl:gen:n2	tytuł	
+< PB	PB:s2	subst:pl:inst:m3	tytuł	
+< PB	PB:s2	subst:pl:inst:n2	tytuł	
+< PB	PB:s2	subst:pl:loc:m3	tytuł	
+< PB	PB:s2	subst:pl:loc:n2	tytuł	
+< PB	PB:s2	subst:pl:nom:m3	tytuł	
+< PB	PB:s2	subst:pl:nom:n2	tytuł	
+< PB	PB:s2	subst:pl:voc:m3	tytuł	
+< PB	PB:s2	subst:pl:voc:n2	tytuł	
+< PB	PB:s2	subst:sg:acc:m3	tytuł	
+< PB	PB:s2	subst:sg:acc:n2	tytuł	
+< PB	PB:s2	subst:sg:dat:m3	tytuł	
+< PB	PB:s2	subst:sg:dat:n2	tytuł	
+< PB	PB:s2	subst:sg:gen:m3	tytuł	
+< PB	PB:s2	subst:sg:gen:n2	tytuł	
+< PB	PB:s2	subst:sg:inst:m3	tytuł	
+< PB	PB:s2	subst:sg:inst:n2	tytuł	
+< PB	PB:s2	subst:sg:loc:m3	tytuł	
+< PB	PB:s2	subst:sg:loc:n2	tytuł	
+< PB	PB:s2	subst:sg:nom:m3	tytuł	
+< PB	PB:s2	subst:sg:nom:n2	tytuł	
+< PB	PB:s2	subst:sg:voc:m3	tytuł	
+< PB	PB:s2	subst:sg:voc:n2	tytuł	
+---
+> PC	PC	subst:pl:acc:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:acc:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:dat:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:dat:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:gen:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:gen:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:inst:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:inst:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:loc:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:loc:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:nom:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:nom:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:voc:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:pl:voc:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:acc:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:acc:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:dat:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:dat:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:gen:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:gen:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:inst:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:inst:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:loc:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:loc:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:nom:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:nom:n2	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:voc:m3	nazwa organizacji|nazwa pospolita	
+> PC	PC	subst:sg:voc:n2	nazwa organizacji|nazwa pospolita	
+3697033,3697088d3696386
+< PC	PC:s1	subst:pl:acc:m3	nazwa organizacji	
+< PC	PC:s1	subst:pl:acc:n2	nazwa organizacji	
+< PC	PC:s1	subst:pl:dat:m3	nazwa organizacji	
+< PC	PC:s1	subst:pl:dat:n2	nazwa organizacji	
+< PC	PC:s1	subst:pl:gen:m3	nazwa organizacji	
+< PC	PC:s1	subst:pl:gen:n2	nazwa organizacji	
+< PC	PC:s1	subst:pl:inst:m3	nazwa organizacji	
+< PC	PC:s1	subst:pl:inst:n2	nazwa organizacji	
+< PC	PC:s1	subst:pl:loc:m3	nazwa organizacji	
+< PC	PC:s1	subst:pl:loc:n2	nazwa organizacji	
+< PC	PC:s1	subst:pl:nom:m3	nazwa organizacji	
+< PC	PC:s1	subst:pl:nom:n2	nazwa organizacji	
+< PC	PC:s1	subst:pl:voc:m3	nazwa organizacji	
+< PC	PC:s1	subst:pl:voc:n2	nazwa organizacji	
+< PC	PC:s1	subst:sg:acc:m3	nazwa organizacji	
+< PC	PC:s1	subst:sg:acc:n2	nazwa organizacji	
+< PC	PC:s1	subst:sg:dat:m3	nazwa organizacji	
+< PC	PC:s1	subst:sg:dat:n2	nazwa organizacji	
+< PC	PC:s1	subst:sg:gen:m3	nazwa organizacji	
+< PC	PC:s1	subst:sg:gen:n2	nazwa organizacji	
+< PC	PC:s1	subst:sg:inst:m3	nazwa organizacji	
+< PC	PC:s1	subst:sg:inst:n2	nazwa organizacji	
+< PC	PC:s1	subst:sg:loc:m3	nazwa organizacji	
+< PC	PC:s1	subst:sg:loc:n2	nazwa organizacji	
+< PC	PC:s1	subst:sg:nom:m3	nazwa organizacji	
+< PC	PC:s1	subst:sg:nom:n2	nazwa organizacji	
+< PC	PC:s1	subst:sg:voc:m3	nazwa organizacji	
+< PC	PC:s1	subst:sg:voc:n2	nazwa organizacji	
+< PC	PC:s2	subst:pl:acc:m3	nazwa pospolita	
+< PC	PC:s2	subst:pl:acc:n2	nazwa pospolita	
+< PC	PC:s2	subst:pl:dat:m3	nazwa pospolita	
+< PC	PC:s2	subst:pl:dat:n2	nazwa pospolita	
+< PC	PC:s2	subst:pl:gen:m3	nazwa pospolita	
+< PC	PC:s2	subst:pl:gen:n2	nazwa pospolita	
+< PC	PC:s2	subst:pl:inst:m3	nazwa pospolita	
+< PC	PC:s2	subst:pl:inst:n2	nazwa pospolita	
+< PC	PC:s2	subst:pl:loc:m3	nazwa pospolita	
+< PC	PC:s2	subst:pl:loc:n2	nazwa pospolita	
+< PC	PC:s2	subst:pl:nom:m3	nazwa pospolita	
+< PC	PC:s2	subst:pl:nom:n2	nazwa pospolita	
+< PC	PC:s2	subst:pl:voc:m3	nazwa pospolita	
+< PC	PC:s2	subst:pl:voc:n2	nazwa pospolita	
+< PC	PC:s2	subst:sg:acc:m3	nazwa pospolita	
+< PC	PC:s2	subst:sg:acc:n2	nazwa pospolita	
+< PC	PC:s2	subst:sg:dat:m3	nazwa pospolita	
+< PC	PC:s2	subst:sg:dat:n2	nazwa pospolita	
+< PC	PC:s2	subst:sg:gen:m3	nazwa pospolita	
+< PC	PC:s2	subst:sg:gen:n2	nazwa pospolita	
+< PC	PC:s2	subst:sg:inst:m3	nazwa pospolita	
+< PC	PC:s2	subst:sg:inst:n2	nazwa pospolita	
+< PC	PC:s2	subst:sg:loc:m3	nazwa pospolita	
+< PC	PC:s2	subst:sg:loc:n2	nazwa pospolita	
+< PC	PC:s2	subst:sg:nom:m3	nazwa pospolita	
+< PC	PC:s2	subst:sg:nom:n2	nazwa pospolita	
+< PC	PC:s2	subst:sg:voc:m3	nazwa pospolita	
+< PC	PC:s2	subst:sg:voc:n2	nazwa pospolita	
+3712203a3711502,3711515
+> persach	pers	subst:pl:loc:m2	nazwa pospolita	
+> persami	pers	subst:pl:inst:m2	nazwa pospolita	
+> persa	pers	subst:sg:acc:m2	nazwa pospolita	
+> persa	pers	subst:sg:gen:m2	nazwa pospolita	
+> persem	pers	subst:sg:inst:m2	nazwa pospolita	
+> persie	pers	subst:sg:loc:m2	nazwa pospolita	
+> persie	pers	subst:sg:voc:m2	nazwa pospolita	
+> persom	pers	subst:pl:dat:m2	nazwa pospolita	
+> persowi	pers	subst:sg:dat:m2	nazwa pospolita	
+> persów	pers	subst:pl:gen:m2	nazwa pospolita	
+> pers	pers	subst:sg:nom:m2	nazwa pospolita	
+> persy	pers	subst:pl:acc:m2	nazwa pospolita	
+> persy	pers	subst:pl:nom:m2	nazwa pospolita	
+> persy	pers	subst:pl:voc:m2	nazwa pospolita	
+3713385,3713412d3712696
+< persach	pers:s1	subst:pl:loc:m2	nazwa pospolita	
+< persami	pers:s1	subst:pl:inst:m2	nazwa pospolita	
+< persa	pers:s1	subst:sg:acc:m2	nazwa pospolita	
+< persa	pers:s1	subst:sg:gen:m2	nazwa pospolita	
+< persem	pers:s1	subst:sg:inst:m2	nazwa pospolita	
+< persie	pers:s1	subst:sg:loc:m2	nazwa pospolita	
+< persie	pers:s1	subst:sg:voc:m2	nazwa pospolita	
+< persom	pers:s1	subst:pl:dat:m2	nazwa pospolita	
+< persowi	pers:s1	subst:sg:dat:m2	nazwa pospolita	
+< persów	pers:s1	subst:pl:gen:m2	nazwa pospolita	
+< pers	pers:s1	subst:sg:nom:m2	nazwa pospolita	
+< persy	pers:s1	subst:pl:acc:m2	nazwa pospolita	
+< persy	pers:s1	subst:pl:nom:m2	nazwa pospolita	
+< persy	pers:s1	subst:pl:voc:m2	nazwa pospolita	
+< persach	pers:s2	subst:pl:loc:m2	nazwa pospolita	zool.
+< persami	pers:s2	subst:pl:inst:m2	nazwa pospolita	zool.
+< persa	pers:s2	subst:sg:acc:m2	nazwa pospolita	zool.
+< persa	pers:s2	subst:sg:gen:m2	nazwa pospolita	zool.
+< persem	pers:s2	subst:sg:inst:m2	nazwa pospolita	zool.
+< persie	pers:s2	subst:sg:loc:m2	nazwa pospolita	zool.
+< persie	pers:s2	subst:sg:voc:m2	nazwa pospolita	zool.
+< persom	pers:s2	subst:pl:dat:m2	nazwa pospolita	zool.
+< persowi	pers:s2	subst:sg:dat:m2	nazwa pospolita	zool.
+< persów	pers:s2	subst:pl:gen:m2	nazwa pospolita	zool.
+< pers	pers:s2	subst:sg:nom:m2	nazwa pospolita	zool.
+< persy	pers:s2	subst:pl:acc:m2	nazwa pospolita	zool.
+< persy	pers:s2	subst:pl:nom:m2	nazwa pospolita	zool.
+< persy	pers:s2	subst:pl:voc:m2	nazwa pospolita	zool.
+3713687a3712972,3712985
+> Persyjce	Persyjka	subst:sg:dat:f	nazwa pospolita	etn.
+> Persyjce	Persyjka	subst:sg:loc:f	nazwa pospolita	etn.
+> Persyjek	Persyjka	subst:pl:gen:f	nazwa pospolita	etn.
+> Persyjkach	Persyjka	subst:pl:loc:f	nazwa pospolita	etn.
+> Persyjkami	Persyjka	subst:pl:inst:f	nazwa pospolita	etn.
+> Persyjka	Persyjka	subst:sg:nom:f	nazwa pospolita	etn.
+> Persyjką	Persyjka	subst:sg:inst:f	nazwa pospolita	etn.
+> Persyjkę	Persyjka	subst:sg:acc:f	nazwa pospolita	etn.
+> Persyjki	Persyjka	subst:pl:acc:f	nazwa pospolita	etn.
+> Persyjki	Persyjka	subst:pl:nom:f	nazwa pospolita	etn.
+> Persyjki	Persyjka	subst:pl:voc:f	nazwa pospolita	etn.
+> Persyjki	Persyjka	subst:sg:gen:f	nazwa pospolita	etn.
+> Persyjkom	Persyjka	subst:pl:dat:f	nazwa pospolita	etn.
+> Persyjko	Persyjka	subst:sg:voc:f	nazwa pospolita	etn.
+3775233a3774532,3774545
+> plutonach	pluton	subst:pl:loc:m3	nazwa pospolita	chem.|wojsk.
+> plutonami	pluton	subst:pl:inst:m3	nazwa pospolita	chem.|wojsk.
+> plutonem	pluton	subst:sg:inst:m3	nazwa pospolita	chem.|wojsk.
+> plutonie	pluton	subst:sg:loc:m3	nazwa pospolita	chem.|wojsk.
+> plutonie	pluton	subst:sg:voc:m3	nazwa pospolita	chem.|wojsk.
+> plutonom	pluton	subst:pl:dat:m3	nazwa pospolita	chem.|wojsk.
+> plutonowi	pluton	subst:sg:dat:m3	nazwa pospolita	chem.|wojsk.
+> plutonów	pluton	subst:pl:gen:m3	nazwa pospolita	chem.|wojsk.
+> pluton	pluton	subst:sg:acc:m3	nazwa pospolita	chem.|wojsk.
+> pluton	pluton	subst:sg:nom:m3	nazwa pospolita	chem.|wojsk.
+> plutonu	pluton	subst:sg:gen:m3	nazwa pospolita	chem.|wojsk.
+> plutony	pluton	subst:pl:acc:m3	nazwa pospolita	chem.|wojsk.
+> plutony	pluton	subst:pl:nom:m3	nazwa pospolita	chem.|wojsk.
+> plutony	pluton	subst:pl:voc:m3	nazwa pospolita	chem.|wojsk.
+3775368,3775381d3774679
+< plutonach	pluton:s1	subst:pl:loc:m3	nazwa pospolita	wojsk.
+< plutonami	pluton:s1	subst:pl:inst:m3	nazwa pospolita	wojsk.
+< plutonem	pluton:s1	subst:sg:inst:m3	nazwa pospolita	wojsk.
+< plutonie	pluton:s1	subst:sg:loc:m3	nazwa pospolita	wojsk.
+< plutonie	pluton:s1	subst:sg:voc:m3	nazwa pospolita	wojsk.
+< plutonom	pluton:s1	subst:pl:dat:m3	nazwa pospolita	wojsk.
+< plutonowi	pluton:s1	subst:sg:dat:m3	nazwa pospolita	wojsk.
+< plutonów	pluton:s1	subst:pl:gen:m3	nazwa pospolita	wojsk.
+< pluton	pluton:s1	subst:sg:acc:m3	nazwa pospolita	wojsk.
+< pluton	pluton:s1	subst:sg:nom:m3	nazwa pospolita	wojsk.
+< plutonu	pluton:s1	subst:sg:gen:m3	nazwa pospolita	wojsk.
+< plutony	pluton:s1	subst:pl:acc:m3	nazwa pospolita	wojsk.
+< plutony	pluton:s1	subst:pl:nom:m3	nazwa pospolita	wojsk.
+< plutony	pluton:s1	subst:pl:voc:m3	nazwa pospolita	wojsk.
+3775398,3775411d3774695
+< plutonach	pluton:s2	subst:pl:loc:m3	nazwa pospolita	chem.
+< plutonami	pluton:s2	subst:pl:inst:m3	nazwa pospolita	chem.
+< plutonem	pluton:s2	subst:sg:inst:m3	nazwa pospolita	chem.
+< plutonie	pluton:s2	subst:sg:loc:m3	nazwa pospolita	chem.
+< plutonie	pluton:s2	subst:sg:voc:m3	nazwa pospolita	chem.
+< plutonom	pluton:s2	subst:pl:dat:m3	nazwa pospolita	chem.
+< plutonowi	pluton:s2	subst:sg:dat:m3	nazwa pospolita	chem.
+< plutonów	pluton:s2	subst:pl:gen:m3	nazwa pospolita	chem.
+< pluton	pluton:s2	subst:sg:acc:m3	nazwa pospolita	chem.
+< pluton	pluton:s2	subst:sg:nom:m3	nazwa pospolita	chem.
+< plutonu	pluton:s2	subst:sg:gen:m3	nazwa pospolita	chem.
+< plutony	pluton:s2	subst:pl:acc:m3	nazwa pospolita	chem.
+< plutony	pluton:s2	subst:pl:nom:m3	nazwa pospolita	chem.
+< plutony	pluton:s2	subst:pl:voc:m3	nazwa pospolita	chem.
+3970966,3970993c3970250,3970263
+< Polce	Polka:s1	subst:sg:dat:f	nazwa pospolita	etn.
+< Polce	Polka:s1	subst:sg:loc:f	nazwa pospolita	etn.
+< Polek	Polka:s1	subst:pl:gen:f	nazwa pospolita	etn.
+< Polkach	Polka:s1	subst:pl:loc:f	nazwa pospolita	etn.
+< Polkami	Polka:s1	subst:pl:inst:f	nazwa pospolita	etn.
+< Polka	Polka:s1	subst:sg:nom:f	nazwa pospolita	etn.
+< Polką	Polka:s1	subst:sg:inst:f	nazwa pospolita	etn.
+< Polkę	Polka:s1	subst:sg:acc:f	nazwa pospolita	etn.
+< Polki	Polka:s1	subst:pl:acc:f	nazwa pospolita	etn.
+< Polki	Polka:s1	subst:pl:nom:f	nazwa pospolita	etn.
+< Polki	Polka:s1	subst:pl:voc:f	nazwa pospolita	etn.
+< Polki	Polka:s1	subst:sg:gen:f	nazwa pospolita	etn.
+< Polkom	Polka:s1	subst:pl:dat:f	nazwa pospolita	etn.
+< Polko	Polka:s1	subst:sg:voc:f	nazwa pospolita	etn.
+< Polce	Polka:s2	subst:sg:dat:f	nazwa pospolita	
+< Polce	Polka:s2	subst:sg:loc:f	nazwa pospolita	
+< Polek	Polka:s2	subst:pl:gen:f	nazwa pospolita	
+< Polkach	Polka:s2	subst:pl:loc:f	nazwa pospolita	
+< Polkami	Polka:s2	subst:pl:inst:f	nazwa pospolita	
+< Polka	Polka:s2	subst:sg:nom:f	nazwa pospolita	
+< Polką	Polka:s2	subst:sg:inst:f	nazwa pospolita	
+< Polkę	Polka:s2	subst:sg:acc:f	nazwa pospolita	
+< Polki	Polka:s2	subst:pl:acc:f	nazwa pospolita	
+< Polki	Polka:s2	subst:pl:nom:f	nazwa pospolita	
+< Polki	Polka:s2	subst:pl:voc:f	nazwa pospolita	
+< Polki	Polka:s2	subst:sg:gen:f	nazwa pospolita	
+< Polkom	Polka:s2	subst:pl:dat:f	nazwa pospolita	
+< Polko	Polka:s2	subst:sg:voc:f	nazwa pospolita	
+---
+> Polce	Polka	subst:sg:dat:f	nazwa pospolita	etn.
+> Polce	Polka	subst:sg:loc:f	nazwa pospolita	etn.
+> Polek	Polka	subst:pl:gen:f	nazwa pospolita	etn.
+> Polkach	Polka	subst:pl:loc:f	nazwa pospolita	etn.
+> Polkami	Polka	subst:pl:inst:f	nazwa pospolita	etn.
+> Polka	Polka	subst:sg:nom:f	nazwa pospolita	etn.
+> Polką	Polka	subst:sg:inst:f	nazwa pospolita	etn.
+> Polkę	Polka	subst:sg:acc:f	nazwa pospolita	etn.
+> Polki	Polka	subst:pl:acc:f	nazwa pospolita	etn.
+> Polki	Polka	subst:pl:nom:f	nazwa pospolita	etn.
+> Polki	Polka	subst:pl:voc:f	nazwa pospolita	etn.
+> Polki	Polka	subst:sg:gen:f	nazwa pospolita	etn.
+> Polkom	Polka	subst:pl:dat:f	nazwa pospolita	etn.
+> Polko	Polka	subst:sg:voc:f	nazwa pospolita	etn.
+3990157a3989428,3989441
+> pompach	pompa	subst:pl:loc:f	nazwa pospolita	
+> pompami	pompa	subst:pl:inst:f	nazwa pospolita	
+> pompa	pompa	subst:sg:nom:f	nazwa pospolita	
+> pompą	pompa	subst:sg:inst:f	nazwa pospolita	
+> pompę	pompa	subst:sg:acc:f	nazwa pospolita	
+> pompie	pompa	subst:sg:dat:f	nazwa pospolita	
+> pompie	pompa	subst:sg:loc:f	nazwa pospolita	
+> pompom	pompa	subst:pl:dat:f	nazwa pospolita	
+> pompo	pompa	subst:sg:voc:f	nazwa pospolita	
+> pomp	pompa	subst:pl:gen:f	nazwa pospolita	
+> pompy	pompa	subst:pl:acc:f	nazwa pospolita	
+> pompy	pompa	subst:pl:nom:f	nazwa pospolita	
+> pompy	pompa	subst:pl:voc:f	nazwa pospolita	
+> pompy	pompa	subst:sg:gen:f	nazwa pospolita	
+3990181,3990208d3989464
+< pompach	pompa:s1	subst:pl:loc:f	nazwa pospolita	
+< pompami	pompa:s1	subst:pl:inst:f	nazwa pospolita	
+< pompa	pompa:s1	subst:sg:nom:f	nazwa pospolita	
+< pompą	pompa:s1	subst:sg:inst:f	nazwa pospolita	
+< pompę	pompa:s1	subst:sg:acc:f	nazwa pospolita	
+< pompie	pompa:s1	subst:sg:dat:f	nazwa pospolita	
+< pompie	pompa:s1	subst:sg:loc:f	nazwa pospolita	
+< pompom	pompa:s1	subst:pl:dat:f	nazwa pospolita	
+< pompo	pompa:s1	subst:sg:voc:f	nazwa pospolita	
+< pomp	pompa:s1	subst:pl:gen:f	nazwa pospolita	
+< pompy	pompa:s1	subst:pl:acc:f	nazwa pospolita	
+< pompy	pompa:s1	subst:pl:nom:f	nazwa pospolita	
+< pompy	pompa:s1	subst:pl:voc:f	nazwa pospolita	
+< pompy	pompa:s1	subst:sg:gen:f	nazwa pospolita	
+< pompach	pompa:s2	subst:pl:loc:f	nazwa pospolita	
+< pompami	pompa:s2	subst:pl:inst:f	nazwa pospolita	
+< pompa	pompa:s2	subst:sg:nom:f	nazwa pospolita	
+< pompą	pompa:s2	subst:sg:inst:f	nazwa pospolita	
+< pompę	pompa:s2	subst:sg:acc:f	nazwa pospolita	
+< pompie	pompa:s2	subst:sg:dat:f	nazwa pospolita	
+< pompie	pompa:s2	subst:sg:loc:f	nazwa pospolita	
+< pompom	pompa:s2	subst:pl:dat:f	nazwa pospolita	
+< pompo	pompa:s2	subst:sg:voc:f	nazwa pospolita	
+< pomp	pompa:s2	subst:pl:gen:f	nazwa pospolita	
+< pompy	pompa:s2	subst:pl:acc:f	nazwa pospolita	
+< pompy	pompa:s2	subst:pl:nom:f	nazwa pospolita	
+< pompy	pompa:s2	subst:pl:voc:f	nazwa pospolita	
+< pompy	pompa:s2	subst:sg:gen:f	nazwa pospolita	
+4621651,4621706c4620907,4620934
+< PŚ-ach	PŚ:s1	subst:pl:loc:m3	nazwa instytucji	
+< PŚ-ami	PŚ:s1	subst:pl:inst:m3	nazwa instytucji	
+< PŚ-em	PŚ:s1	subst:sg:inst:m3	nazwa instytucji	
+< PŚ-e	PŚ:s1	subst:pl:acc:m3	nazwa instytucji	
+< PŚ-e	PŚ:s1	subst:pl:nom:m3	nazwa instytucji	
+< PŚ-e	PŚ:s1	subst:pl:voc:m3	nazwa instytucji	
+< PŚ-om	PŚ:s1	subst:pl:dat:m3	nazwa instytucji	
+< PŚ-owi	PŚ:s1	subst:sg:dat:m3	nazwa instytucji	
+< PŚ-ów	PŚ:s1	subst:pl:gen:m3	nazwa instytucji	
+< PŚ	PŚ:s1	subst:pl:acc:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:pl:dat:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:pl:gen:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:pl:inst:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:pl:loc:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:pl:nom:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:pl:voc:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:sg:acc:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:sg:acc:m3	nazwa instytucji	
+< PŚ	PŚ:s1	subst:sg:dat:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:sg:gen:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:sg:inst:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:sg:loc:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:sg:nom:f	nazwa instytucji	
+< PŚ	PŚ:s1	subst:sg:nom:m3	nazwa instytucji	
+< PŚ	PŚ:s1	subst:sg:voc:f	nazwa instytucji	
+< PŚ-u	PŚ:s1	subst:sg:gen:m3	nazwa instytucji	
+< PŚ-u	PŚ:s1	subst:sg:loc:m3	nazwa instytucji	
+< PŚ-u	PŚ:s1	subst:sg:voc:m3	nazwa instytucji	
+< PŚ-ach	PŚ:s2	subst:pl:loc:m3	nazwa instytucji	
+< PŚ-ami	PŚ:s2	subst:pl:inst:m3	nazwa instytucji	
+< PŚ-em	PŚ:s2	subst:sg:inst:m3	nazwa instytucji	
+< PŚ-e	PŚ:s2	subst:pl:acc:m3	nazwa instytucji	
+< PŚ-e	PŚ:s2	subst:pl:nom:m3	nazwa instytucji	
+< PŚ-e	PŚ:s2	subst:pl:voc:m3	nazwa instytucji	
+< PŚ-om	PŚ:s2	subst:pl:dat:m3	nazwa instytucji	
+< PŚ-owi	PŚ:s2	subst:sg:dat:m3	nazwa instytucji	
+< PŚ-ów	PŚ:s2	subst:pl:gen:m3	nazwa instytucji	
+< PŚ	PŚ:s2	subst:pl:acc:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:pl:dat:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:pl:gen:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:pl:inst:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:pl:loc:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:pl:nom:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:pl:voc:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:sg:acc:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:sg:acc:m3	nazwa instytucji	
+< PŚ	PŚ:s2	subst:sg:dat:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:sg:gen:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:sg:inst:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:sg:loc:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:sg:nom:f	nazwa instytucji	
+< PŚ	PŚ:s2	subst:sg:nom:m3	nazwa instytucji	
+< PŚ	PŚ:s2	subst:sg:voc:f	nazwa instytucji	
+< PŚ-u	PŚ:s2	subst:sg:gen:m3	nazwa instytucji	
+< PŚ-u	PŚ:s2	subst:sg:loc:m3	nazwa instytucji	
+< PŚ-u	PŚ:s2	subst:sg:voc:m3	nazwa instytucji	
+---
+> PŚ-ach	PŚ	subst:pl:loc:m3	nazwa instytucji	
+> PŚ-ami	PŚ	subst:pl:inst:m3	nazwa instytucji	
+> PŚ-em	PŚ	subst:sg:inst:m3	nazwa instytucji	
+> PŚ-e	PŚ	subst:pl:acc:m3	nazwa instytucji	
+> PŚ-e	PŚ	subst:pl:nom:m3	nazwa instytucji	
+> PŚ-e	PŚ	subst:pl:voc:m3	nazwa instytucji	
+> PŚ-om	PŚ	subst:pl:dat:m3	nazwa instytucji	
+> PŚ-owi	PŚ	subst:sg:dat:m3	nazwa instytucji	
+> PŚ-ów	PŚ	subst:pl:gen:m3	nazwa instytucji	
+> PŚ	PŚ	subst:pl:acc:f	nazwa instytucji	
+> PŚ	PŚ	subst:pl:dat:f	nazwa instytucji	
+> PŚ	PŚ	subst:pl:gen:f	nazwa instytucji	
+> PŚ	PŚ	subst:pl:inst:f	nazwa instytucji	
+> PŚ	PŚ	subst:pl:loc:f	nazwa instytucji	
+> PŚ	PŚ	subst:pl:nom:f	nazwa instytucji	
+> PŚ	PŚ	subst:pl:voc:f	nazwa instytucji	
+> PŚ	PŚ	subst:sg:acc:f	nazwa instytucji	
+> PŚ	PŚ	subst:sg:acc:m3	nazwa instytucji	
+> PŚ	PŚ	subst:sg:dat:f	nazwa instytucji	
+> PŚ	PŚ	subst:sg:gen:f	nazwa instytucji	
+> PŚ	PŚ	subst:sg:inst:f	nazwa instytucji	
+> PŚ	PŚ	subst:sg:loc:f	nazwa instytucji	
+> PŚ	PŚ	subst:sg:nom:f	nazwa instytucji	
+> PŚ	PŚ	subst:sg:nom:m3	nazwa instytucji	
+> PŚ	PŚ	subst:sg:voc:f	nazwa instytucji	
+> PŚ-u	PŚ	subst:sg:gen:m3	nazwa instytucji	
+> PŚ-u	PŚ	subst:sg:loc:m3	nazwa instytucji	
+> PŚ-u	PŚ	subst:sg:voc:m3	nazwa instytucji	
+4930505a4929734,4929747
+> RUP-ach	RUP	subst:pl:loc:m3	nazwa instytucji	
+> RUP-ami	RUP	subst:pl:inst:m3	nazwa instytucji	
+> RUP-em	RUP	subst:sg:inst:m3	nazwa instytucji	
+> RUP-ie	RUP	subst:sg:loc:m3	nazwa instytucji	
+> RUP-ie	RUP	subst:sg:voc:m3	nazwa instytucji	
+> RUP-om	RUP	subst:pl:dat:m3	nazwa instytucji	
+> RUP-owi	RUP	subst:sg:dat:m3	nazwa instytucji	
+> RUP-ów	RUP	subst:pl:gen:m3	nazwa instytucji	
+> RUP	RUP	subst:sg:acc:m3	nazwa instytucji	
+> RUP	RUP	subst:sg:nom:m3	nazwa instytucji	
+> RUP-u	RUP	subst:sg:gen:m3	nazwa instytucji	
+> RUP-y	RUP	subst:pl:acc:m3	nazwa instytucji	
+> RUP-y	RUP	subst:pl:nom:m3	nazwa instytucji	
+> RUP-y	RUP	subst:pl:voc:m3	nazwa instytucji	
+4930888,4930915d4930129
+< RUP-ach	RUP:s1	subst:pl:loc:m3	nazwa instytucji	
+< RUP-ami	RUP:s1	subst:pl:inst:m3	nazwa instytucji	
+< RUP-em	RUP:s1	subst:sg:inst:m3	nazwa instytucji	
+< RUP-ie	RUP:s1	subst:sg:loc:m3	nazwa instytucji	
+< RUP-ie	RUP:s1	subst:sg:voc:m3	nazwa instytucji	
+< RUP-om	RUP:s1	subst:pl:dat:m3	nazwa instytucji	
+< RUP-owi	RUP:s1	subst:sg:dat:m3	nazwa instytucji	
+< RUP-ów	RUP:s1	subst:pl:gen:m3	nazwa instytucji	
+< RUP	RUP:s1	subst:sg:acc:m3	nazwa instytucji	
+< RUP	RUP:s1	subst:sg:nom:m3	nazwa instytucji	
+< RUP-u	RUP:s1	subst:sg:gen:m3	nazwa instytucji	
+< RUP-y	RUP:s1	subst:pl:acc:m3	nazwa instytucji	
+< RUP-y	RUP:s1	subst:pl:nom:m3	nazwa instytucji	
+< RUP-y	RUP:s1	subst:pl:voc:m3	nazwa instytucji	
+< RUP-ach	RUP:s2	subst:pl:loc:m3	nazwa instytucji	
+< RUP-ami	RUP:s2	subst:pl:inst:m3	nazwa instytucji	
+< RUP-em	RUP:s2	subst:sg:inst:m3	nazwa instytucji	
+< RUP-ie	RUP:s2	subst:sg:loc:m3	nazwa instytucji	
+< RUP-ie	RUP:s2	subst:sg:voc:m3	nazwa instytucji	
+< RUP-om	RUP:s2	subst:pl:dat:m3	nazwa instytucji	
+< RUP-owi	RUP:s2	subst:sg:dat:m3	nazwa instytucji	
+< RUP-ów	RUP:s2	subst:pl:gen:m3	nazwa instytucji	
+< RUP	RUP:s2	subst:sg:acc:m3	nazwa instytucji	
+< RUP	RUP:s2	subst:sg:nom:m3	nazwa instytucji	
+< RUP-u	RUP:s2	subst:sg:gen:m3	nazwa instytucji	
+< RUP-y	RUP:s2	subst:pl:acc:m3	nazwa instytucji	
+< RUP-y	RUP:s2	subst:pl:nom:m3	nazwa instytucji	
+< RUP-y	RUP:s2	subst:pl:voc:m3	nazwa instytucji	
+5029087a5028302,5028329
+> SG	SG	subst:pl:acc:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:acc:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:dat:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:dat:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:gen:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:gen:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:inst:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:inst:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:loc:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:loc:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:nom:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:nom:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:voc:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:pl:voc:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:acc:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:acc:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:dat:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:dat:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:gen:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:gen:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:inst:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:inst:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:loc:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:loc:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:nom:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:nom:n2	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:voc:f	nazwa firmy|nazwa instytucji	
+> SG	SG	subst:sg:voc:n2	nazwa firmy|nazwa instytucji	
+5029281,5029336d5028522
+< SG	SG:s1	subst:pl:acc:f	nazwa firmy	
+< SG	SG:s1	subst:pl:acc:n2	nazwa firmy	
+< SG	SG:s1	subst:pl:dat:f	nazwa firmy	
+< SG	SG:s1	subst:pl:dat:n2	nazwa firmy	
+< SG	SG:s1	subst:pl:gen:f	nazwa firmy	
+< SG	SG:s1	subst:pl:gen:n2	nazwa firmy	
+< SG	SG:s1	subst:pl:inst:f	nazwa firmy	
+< SG	SG:s1	subst:pl:inst:n2	nazwa firmy	
+< SG	SG:s1	subst:pl:loc:f	nazwa firmy	
+< SG	SG:s1	subst:pl:loc:n2	nazwa firmy	
+< SG	SG:s1	subst:pl:nom:f	nazwa firmy	
+< SG	SG:s1	subst:pl:nom:n2	nazwa firmy	
+< SG	SG:s1	subst:pl:voc:f	nazwa firmy	
+< SG	SG:s1	subst:pl:voc:n2	nazwa firmy	
+< SG	SG:s1	subst:sg:acc:f	nazwa firmy	
+< SG	SG:s1	subst:sg:acc:n2	nazwa firmy	
+< SG	SG:s1	subst:sg:dat:f	nazwa firmy	
+< SG	SG:s1	subst:sg:dat:n2	nazwa firmy	
+< SG	SG:s1	subst:sg:gen:f	nazwa firmy	
+< SG	SG:s1	subst:sg:gen:n2	nazwa firmy	
+< SG	SG:s1	subst:sg:inst:f	nazwa firmy	
+< SG	SG:s1	subst:sg:inst:n2	nazwa firmy	
+< SG	SG:s1	subst:sg:loc:f	nazwa firmy	
+< SG	SG:s1	subst:sg:loc:n2	nazwa firmy	
+< SG	SG:s1	subst:sg:nom:f	nazwa firmy	
+< SG	SG:s1	subst:sg:nom:n2	nazwa firmy	
+< SG	SG:s1	subst:sg:voc:f	nazwa firmy	
+< SG	SG:s1	subst:sg:voc:n2	nazwa firmy	
+< SG	SG:s2	subst:pl:acc:f	nazwa organizacji	
+< SG	SG:s2	subst:pl:acc:n2	nazwa organizacji	
+< SG	SG:s2	subst:pl:dat:f	nazwa organizacji	
+< SG	SG:s2	subst:pl:dat:n2	nazwa organizacji	
+< SG	SG:s2	subst:pl:gen:f	nazwa organizacji	
+< SG	SG:s2	subst:pl:gen:n2	nazwa organizacji	
+< SG	SG:s2	subst:pl:inst:f	nazwa organizacji	
+< SG	SG:s2	subst:pl:inst:n2	nazwa organizacji	
+< SG	SG:s2	subst:pl:loc:f	nazwa organizacji	
+< SG	SG:s2	subst:pl:loc:n2	nazwa organizacji	
+< SG	SG:s2	subst:pl:nom:f	nazwa organizacji	
+< SG	SG:s2	subst:pl:nom:n2	nazwa organizacji	
+< SG	SG:s2	subst:pl:voc:f	nazwa organizacji	
+< SG	SG:s2	subst:pl:voc:n2	nazwa organizacji	
+< SG	SG:s2	subst:sg:acc:f	nazwa organizacji	
+< SG	SG:s2	subst:sg:acc:n2	nazwa organizacji	
+< SG	SG:s2	subst:sg:dat:f	nazwa organizacji	
+< SG	SG:s2	subst:sg:dat:n2	nazwa organizacji	
+< SG	SG:s2	subst:sg:gen:f	nazwa organizacji	
+< SG	SG:s2	subst:sg:gen:n2	nazwa organizacji	
+< SG	SG:s2	subst:sg:inst:f	nazwa organizacji	
+< SG	SG:s2	subst:sg:inst:n2	nazwa organizacji	
+< SG	SG:s2	subst:sg:loc:f	nazwa organizacji	
+< SG	SG:s2	subst:sg:loc:n2	nazwa organizacji	
+< SG	SG:s2	subst:sg:nom:f	nazwa organizacji	
+< SG	SG:s2	subst:sg:nom:n2	nazwa organizacji	
+< SG	SG:s2	subst:sg:voc:f	nazwa organizacji	
+< SG	SG:s2	subst:sg:voc:n2	nazwa organizacji	
+5048760,5048773c5047946,5047959
+< Siuksyjce	Siuksyjka	subst:sg:dat:f	nazwa pospolita	
+< Siuksyjce	Siuksyjka	subst:sg:loc:f	nazwa pospolita	
+< Siuksyjek	Siuksyjka	subst:pl:gen:f	nazwa pospolita	
+< Siuksyjkach	Siuksyjka	subst:pl:loc:f	nazwa pospolita	
+< Siuksyjkami	Siuksyjka	subst:pl:inst:f	nazwa pospolita	
+< Siuksyjka	Siuksyjka	subst:sg:nom:f	nazwa pospolita	
+< Siuksyjką	Siuksyjka	subst:sg:inst:f	nazwa pospolita	
+< Siuksyjkę	Siuksyjka	subst:sg:acc:f	nazwa pospolita	
+< Siuksyjki	Siuksyjka	subst:pl:acc:f	nazwa pospolita	
+< Siuksyjki	Siuksyjka	subst:pl:nom:f	nazwa pospolita	
+< Siuksyjki	Siuksyjka	subst:pl:voc:f	nazwa pospolita	
+< Siuksyjki	Siuksyjka	subst:sg:gen:f	nazwa pospolita	
+< Siuksyjkom	Siuksyjka	subst:pl:dat:f	nazwa pospolita	
+< Siuksyjko	Siuksyjka	subst:sg:voc:f	nazwa pospolita	
+---
+> Siuksyjce	Siuksyjka	subst:sg:dat:f	nazwa pospolita	etn.
+> Siuksyjce	Siuksyjka	subst:sg:loc:f	nazwa pospolita	etn.
+> Siuksyjek	Siuksyjka	subst:pl:gen:f	nazwa pospolita	etn.
+> Siuksyjkach	Siuksyjka	subst:pl:loc:f	nazwa pospolita	etn.
+> Siuksyjkami	Siuksyjka	subst:pl:inst:f	nazwa pospolita	etn.
+> Siuksyjka	Siuksyjka	subst:sg:nom:f	nazwa pospolita	etn.
+> Siuksyjką	Siuksyjka	subst:sg:inst:f	nazwa pospolita	etn.
+> Siuksyjkę	Siuksyjka	subst:sg:acc:f	nazwa pospolita	etn.
+> Siuksyjki	Siuksyjka	subst:pl:acc:f	nazwa pospolita	etn.
+> Siuksyjki	Siuksyjka	subst:pl:nom:f	nazwa pospolita	etn.
+> Siuksyjki	Siuksyjka	subst:pl:voc:f	nazwa pospolita	etn.
+> Siuksyjki	Siuksyjka	subst:sg:gen:f	nazwa pospolita	etn.
+> Siuksyjkom	Siuksyjka	subst:pl:dat:f	nazwa pospolita	etn.
+> Siuksyjko	Siuksyjka	subst:sg:voc:f	nazwa pospolita	etn.
+5120931,5120958c5120117,5120130
+< słowiaństwach	słowiaństwo:s1	subst:pl:loc:n2	nazwa pospolita	
+< słowiaństwami	słowiaństwo:s1	subst:pl:inst:n2	nazwa pospolita	
+< słowiaństwa	słowiaństwo:s1	subst:pl:acc:n2	nazwa pospolita	
+< słowiaństwa	słowiaństwo:s1	subst:pl:nom:n2	nazwa pospolita	
+< słowiaństwa	słowiaństwo:s1	subst:pl:voc:n2	nazwa pospolita	
+< słowiaństwa	słowiaństwo:s1	subst:sg:gen:n2	nazwa pospolita	
+< słowiaństwem	słowiaństwo:s1	subst:sg:inst:n2	nazwa pospolita	
+< słowiaństwie	słowiaństwo:s1	subst:sg:loc:n2	nazwa pospolita	
+< słowiaństwom	słowiaństwo:s1	subst:pl:dat:n2	nazwa pospolita	
+< słowiaństwo	słowiaństwo:s1	subst:sg:acc:n2	nazwa pospolita	
+< słowiaństwo	słowiaństwo:s1	subst:sg:nom:n2	nazwa pospolita	
+< słowiaństwo	słowiaństwo:s1	subst:sg:voc:n2	nazwa pospolita	
+< słowiaństw	słowiaństwo:s1	subst:pl:gen:n2	nazwa pospolita	
+< słowiaństwu	słowiaństwo:s1	subst:sg:dat:n2	nazwa pospolita	
+< słowiaństwach	słowiaństwo:s2	subst:pl:loc:n2	nazwa pospolita	
+< słowiaństwami	słowiaństwo:s2	subst:pl:inst:n2	nazwa pospolita	
+< słowiaństwa	słowiaństwo:s2	subst:pl:acc:n2	nazwa pospolita	
+< słowiaństwa	słowiaństwo:s2	subst:pl:nom:n2	nazwa pospolita	
+< słowiaństwa	słowiaństwo:s2	subst:pl:voc:n2	nazwa pospolita	
+< słowiaństwa	słowiaństwo:s2	subst:sg:gen:n2	nazwa pospolita	
+< słowiaństwem	słowiaństwo:s2	subst:sg:inst:n2	nazwa pospolita	
+< słowiaństwie	słowiaństwo:s2	subst:sg:loc:n2	nazwa pospolita	
+< słowiaństwom	słowiaństwo:s2	subst:pl:dat:n2	nazwa pospolita	
+< słowiaństwo	słowiaństwo:s2	subst:sg:acc:n2	nazwa pospolita	
+< słowiaństwo	słowiaństwo:s2	subst:sg:nom:n2	nazwa pospolita	
+< słowiaństwo	słowiaństwo:s2	subst:sg:voc:n2	nazwa pospolita	
+< słowiaństw	słowiaństwo:s2	subst:pl:gen:n2	nazwa pospolita	
+< słowiaństwu	słowiaństwo:s2	subst:sg:dat:n2	nazwa pospolita	
+---
+> słowiaństwach	słowiaństwo	subst:pl:loc:n2	nazwa pospolita	
+> słowiaństwami	słowiaństwo	subst:pl:inst:n2	nazwa pospolita	
+> słowiaństwa	słowiaństwo	subst:pl:acc:n2	nazwa pospolita	
+> słowiaństwa	słowiaństwo	subst:pl:nom:n2	nazwa pospolita	
+> słowiaństwa	słowiaństwo	subst:pl:voc:n2	nazwa pospolita	
+> słowiaństwa	słowiaństwo	subst:sg:gen:n2	nazwa pospolita	
+> słowiaństwem	słowiaństwo	subst:sg:inst:n2	nazwa pospolita	
+> słowiaństwie	słowiaństwo	subst:sg:loc:n2	nazwa pospolita	
+> słowiaństwom	słowiaństwo	subst:pl:dat:n2	nazwa pospolita	
+> słowiaństwo	słowiaństwo	subst:sg:acc:n2	nazwa pospolita	
+> słowiaństwo	słowiaństwo	subst:sg:nom:n2	nazwa pospolita	
+> słowiaństwo	słowiaństwo	subst:sg:voc:n2	nazwa pospolita	
+> słowiaństw	słowiaństwo	subst:pl:gen:n2	nazwa pospolita	
+> słowiaństwu	słowiaństwo	subst:sg:dat:n2	nazwa pospolita	
+5131555,5131582d5130726
+< SM-ach	SM:s3	subst:pl:loc:m3	nazwa organizacji	
+< SM-ami	SM:s3	subst:pl:inst:m3	nazwa organizacji	
+< SM-em	SM:s3	subst:sg:inst:m3	nazwa organizacji	
+< SM-ie	SM:s3	subst:sg:loc:m3	nazwa organizacji	
+< SM-ie	SM:s3	subst:sg:voc:m3	nazwa organizacji	
+< SM-om	SM:s3	subst:pl:dat:m3	nazwa organizacji	
+< SM-owi	SM:s3	subst:sg:dat:m3	nazwa organizacji	
+< SM-ów	SM:s3	subst:pl:gen:m3	nazwa organizacji	
+< SM	SM:s3	subst:pl:acc:f	nazwa organizacji	
+< SM	SM:s3	subst:pl:dat:f	nazwa organizacji	
+< SM	SM:s3	subst:pl:gen:f	nazwa organizacji	
+< SM	SM:s3	subst:pl:inst:f	nazwa organizacji	
+< SM	SM:s3	subst:pl:loc:f	nazwa organizacji	
+< SM	SM:s3	subst:pl:nom:f	nazwa organizacji	
+< SM	SM:s3	subst:pl:voc:f	nazwa organizacji	
+< SM	SM:s3	subst:sg:acc:f	nazwa organizacji	
+< SM	SM:s3	subst:sg:acc:m3	nazwa organizacji	
+< SM	SM:s3	subst:sg:dat:f	nazwa organizacji	
+< SM	SM:s3	subst:sg:gen:f	nazwa organizacji	
+< SM	SM:s3	subst:sg:inst:f	nazwa organizacji	
+< SM	SM:s3	subst:sg:loc:f	nazwa organizacji	
+< SM	SM:s3	subst:sg:nom:f	nazwa organizacji	
+< SM	SM:s3	subst:sg:nom:m3	nazwa organizacji	
+< SM	SM:s3	subst:sg:voc:f	nazwa organizacji	
+< SM-u	SM:s3	subst:sg:gen:m3	nazwa organizacji	
+< SM-y	SM:s3	subst:pl:acc:m3	nazwa organizacji	
+< SM-y	SM:s3	subst:pl:nom:m3	nazwa organizacji	
+< SM-y	SM:s3	subst:pl:voc:m3	nazwa organizacji	
+5150855a5150000,5150027
+> SP	SP	subst:pl:acc:f	nazwa organizacji	
+> SP	SP	subst:pl:acc:n2	nazwa organizacji	
+> SP	SP	subst:pl:dat:f	nazwa organizacji	
+> SP	SP	subst:pl:dat:n2	nazwa organizacji	
+> SP	SP	subst:pl:gen:f	nazwa organizacji	
+> SP	SP	subst:pl:gen:n2	nazwa organizacji	
+> SP	SP	subst:pl:inst:f	nazwa organizacji	
+> SP	SP	subst:pl:inst:n2	nazwa organizacji	
+> SP	SP	subst:pl:loc:f	nazwa organizacji	
+> SP	SP	subst:pl:loc:n2	nazwa organizacji	
+> SP	SP	subst:pl:nom:f	nazwa organizacji	
+> SP	SP	subst:pl:nom:n2	nazwa organizacji	
+> SP	SP	subst:pl:voc:f	nazwa organizacji	
+> SP	SP	subst:pl:voc:n2	nazwa organizacji	
+> SP	SP	subst:sg:acc:f	nazwa organizacji	
+> SP	SP	subst:sg:acc:n2	nazwa organizacji	
+> SP	SP	subst:sg:dat:f	nazwa organizacji	
+> SP	SP	subst:sg:dat:n2	nazwa organizacji	
+> SP	SP	subst:sg:gen:f	nazwa organizacji	
+> SP	SP	subst:sg:gen:n2	nazwa organizacji	
+> SP	SP	subst:sg:inst:f	nazwa organizacji	
+> SP	SP	subst:sg:inst:n2	nazwa organizacji	
+> SP	SP	subst:sg:loc:f	nazwa organizacji	
+> SP	SP	subst:sg:loc:n2	nazwa organizacji	
+> SP	SP	subst:sg:nom:f	nazwa organizacji	
+> SP	SP	subst:sg:nom:n2	nazwa organizacji	
+> SP	SP	subst:sg:voc:f	nazwa organizacji	
+> SP	SP	subst:sg:voc:n2	nazwa organizacji	
+5214121,5214176d5213292
+< SP	SP:s1	subst:pl:acc:f	nazwa organizacji	
+< SP	SP:s1	subst:pl:acc:n2	nazwa organizacji	
+< SP	SP:s1	subst:pl:dat:f	nazwa organizacji	
+< SP	SP:s1	subst:pl:dat:n2	nazwa organizacji	
+< SP	SP:s1	subst:pl:gen:f	nazwa organizacji	
+< SP	SP:s1	subst:pl:gen:n2	nazwa organizacji	
+< SP	SP:s1	subst:pl:inst:f	nazwa organizacji	
+< SP	SP:s1	subst:pl:inst:n2	nazwa organizacji	
+< SP	SP:s1	subst:pl:loc:f	nazwa organizacji	
+< SP	SP:s1	subst:pl:loc:n2	nazwa organizacji	
+< SP	SP:s1	subst:pl:nom:f	nazwa organizacji	
+< SP	SP:s1	subst:pl:nom:n2	nazwa organizacji	
+< SP	SP:s1	subst:pl:voc:f	nazwa organizacji	
+< SP	SP:s1	subst:pl:voc:n2	nazwa organizacji	
+< SP	SP:s1	subst:sg:acc:f	nazwa organizacji	
+< SP	SP:s1	subst:sg:acc:n2	nazwa organizacji	
+< SP	SP:s1	subst:sg:dat:f	nazwa organizacji	
+< SP	SP:s1	subst:sg:dat:n2	nazwa organizacji	
+< SP	SP:s1	subst:sg:gen:f	nazwa organizacji	
+< SP	SP:s1	subst:sg:gen:n2	nazwa organizacji	
+< SP	SP:s1	subst:sg:inst:f	nazwa organizacji	
+< SP	SP:s1	subst:sg:inst:n2	nazwa organizacji	
+< SP	SP:s1	subst:sg:loc:f	nazwa organizacji	
+< SP	SP:s1	subst:sg:loc:n2	nazwa organizacji	
+< SP	SP:s1	subst:sg:nom:f	nazwa organizacji	
+< SP	SP:s1	subst:sg:nom:n2	nazwa organizacji	
+< SP	SP:s1	subst:sg:voc:f	nazwa organizacji	
+< SP	SP:s1	subst:sg:voc:n2	nazwa organizacji	
+< SP	SP:s2	subst:pl:acc:f	nazwa organizacji	
+< SP	SP:s2	subst:pl:acc:n2	nazwa organizacji	
+< SP	SP:s2	subst:pl:dat:f	nazwa organizacji	
+< SP	SP:s2	subst:pl:dat:n2	nazwa organizacji	
+< SP	SP:s2	subst:pl:gen:f	nazwa organizacji	
+< SP	SP:s2	subst:pl:gen:n2	nazwa organizacji	
+< SP	SP:s2	subst:pl:inst:f	nazwa organizacji	
+< SP	SP:s2	subst:pl:inst:n2	nazwa organizacji	
+< SP	SP:s2	subst:pl:loc:f	nazwa organizacji	
+< SP	SP:s2	subst:pl:loc:n2	nazwa organizacji	
+< SP	SP:s2	subst:pl:nom:f	nazwa organizacji	
+< SP	SP:s2	subst:pl:nom:n2	nazwa organizacji	
+< SP	SP:s2	subst:pl:voc:f	nazwa organizacji	
+< SP	SP:s2	subst:pl:voc:n2	nazwa organizacji	
+< SP	SP:s2	subst:sg:acc:f	nazwa organizacji	
+< SP	SP:s2	subst:sg:acc:n2	nazwa organizacji	
+< SP	SP:s2	subst:sg:dat:f	nazwa organizacji	
+< SP	SP:s2	subst:sg:dat:n2	nazwa organizacji	
+< SP	SP:s2	subst:sg:gen:f	nazwa organizacji	
+< SP	SP:s2	subst:sg:gen:n2	nazwa organizacji	
+< SP	SP:s2	subst:sg:inst:f	nazwa organizacji	
+< SP	SP:s2	subst:sg:inst:n2	nazwa organizacji	
+< SP	SP:s2	subst:sg:loc:f	nazwa organizacji	
+< SP	SP:s2	subst:sg:loc:n2	nazwa organizacji	
+< SP	SP:s2	subst:sg:nom:f	nazwa organizacji	
+< SP	SP:s2	subst:sg:nom:n2	nazwa organizacji	
+< SP	SP:s2	subst:sg:voc:f	nazwa organizacji	
+< SP	SP:s2	subst:sg:voc:n2	nazwa organizacji	
+5317950,5317963c5317066,5317079
+< Syryjce	Syryjka	subst:sg:dat:f	nazwa pospolita	
+< Syryjce	Syryjka	subst:sg:loc:f	nazwa pospolita	
+< Syryjek	Syryjka	subst:pl:gen:f	nazwa pospolita	
+< Syryjkach	Syryjka	subst:pl:loc:f	nazwa pospolita	
+< Syryjkami	Syryjka	subst:pl:inst:f	nazwa pospolita	
+< Syryjka	Syryjka	subst:sg:nom:f	nazwa pospolita	
+< Syryjką	Syryjka	subst:sg:inst:f	nazwa pospolita	
+< Syryjkę	Syryjka	subst:sg:acc:f	nazwa pospolita	
+< Syryjki	Syryjka	subst:pl:acc:f	nazwa pospolita	
+< Syryjki	Syryjka	subst:pl:nom:f	nazwa pospolita	
+< Syryjki	Syryjka	subst:pl:voc:f	nazwa pospolita	
+< Syryjki	Syryjka	subst:sg:gen:f	nazwa pospolita	
+< Syryjkom	Syryjka	subst:pl:dat:f	nazwa pospolita	
+< Syryjko	Syryjka	subst:sg:voc:f	nazwa pospolita	
+---
+> Syryjce	Syryjka	subst:sg:dat:f	nazwa pospolita	etn.
+> Syryjce	Syryjka	subst:sg:loc:f	nazwa pospolita	etn.
+> Syryjek	Syryjka	subst:pl:gen:f	nazwa pospolita	etn.
+> Syryjkach	Syryjka	subst:pl:loc:f	nazwa pospolita	etn.
+> Syryjkami	Syryjka	subst:pl:inst:f	nazwa pospolita	etn.
+> Syryjka	Syryjka	subst:sg:nom:f	nazwa pospolita	etn.
+> Syryjką	Syryjka	subst:sg:inst:f	nazwa pospolita	etn.
+> Syryjkę	Syryjka	subst:sg:acc:f	nazwa pospolita	etn.
+> Syryjki	Syryjka	subst:pl:acc:f	nazwa pospolita	etn.
+> Syryjki	Syryjka	subst:pl:nom:f	nazwa pospolita	etn.
+> Syryjki	Syryjka	subst:pl:voc:f	nazwa pospolita	etn.
+> Syryjki	Syryjka	subst:sg:gen:f	nazwa pospolita	etn.
+> Syryjkom	Syryjka	subst:pl:dat:f	nazwa pospolita	etn.
+> Syryjko	Syryjka	subst:sg:voc:f	nazwa pospolita	etn.
+5435735,5435748c5434851,5434864
+< Tadżyjce	Tadżyjka	subst:sg:dat:f	nazwa pospolita	
+< Tadżyjce	Tadżyjka	subst:sg:loc:f	nazwa pospolita	
+< Tadżyjek	Tadżyjka	subst:pl:gen:f	nazwa pospolita	
+< Tadżyjkach	Tadżyjka	subst:pl:loc:f	nazwa pospolita	
+< Tadżyjkami	Tadżyjka	subst:pl:inst:f	nazwa pospolita	
+< Tadżyjka	Tadżyjka	subst:sg:nom:f	nazwa pospolita	
+< Tadżyjką	Tadżyjka	subst:sg:inst:f	nazwa pospolita	
+< Tadżyjkę	Tadżyjka	subst:sg:acc:f	nazwa pospolita	
+< Tadżyjki	Tadżyjka	subst:pl:acc:f	nazwa pospolita	
+< Tadżyjki	Tadżyjka	subst:pl:nom:f	nazwa pospolita	
+< Tadżyjki	Tadżyjka	subst:pl:voc:f	nazwa pospolita	
+< Tadżyjki	Tadżyjka	subst:sg:gen:f	nazwa pospolita	
+< Tadżyjkom	Tadżyjka	subst:pl:dat:f	nazwa pospolita	
+< Tadżyjko	Tadżyjka	subst:sg:voc:f	nazwa pospolita	
+---
+> Tadżyjce	Tadżyjka	subst:sg:dat:f	nazwa pospolita	etn.
+> Tadżyjce	Tadżyjka	subst:sg:loc:f	nazwa pospolita	etn.
+> Tadżyjek	Tadżyjka	subst:pl:gen:f	nazwa pospolita	etn.
+> Tadżyjkach	Tadżyjka	subst:pl:loc:f	nazwa pospolita	etn.
+> Tadżyjkami	Tadżyjka	subst:pl:inst:f	nazwa pospolita	etn.
+> Tadżyjka	Tadżyjka	subst:sg:nom:f	nazwa pospolita	etn.
+> Tadżyjką	Tadżyjka	subst:sg:inst:f	nazwa pospolita	etn.
+> Tadżyjkę	Tadżyjka	subst:sg:acc:f	nazwa pospolita	etn.
+> Tadżyjki	Tadżyjka	subst:pl:acc:f	nazwa pospolita	etn.
+> Tadżyjki	Tadżyjka	subst:pl:nom:f	nazwa pospolita	etn.
+> Tadżyjki	Tadżyjka	subst:pl:voc:f	nazwa pospolita	etn.
+> Tadżyjki	Tadżyjka	subst:sg:gen:f	nazwa pospolita	etn.
+> Tadżyjkom	Tadżyjka	subst:pl:dat:f	nazwa pospolita	etn.
+> Tadżyjko	Tadżyjka	subst:sg:voc:f	nazwa pospolita	etn.
+5542628a5541745,5541758
+> TS-ach	TS	subst:pl:loc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-ami	TS	subst:pl:inst:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-em	TS	subst:sg:inst:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-ie	TS	subst:sg:loc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-ie	TS	subst:sg:voc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-om	TS	subst:pl:dat:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-owi	TS	subst:sg:dat:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-ów	TS	subst:pl:gen:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS	TS	subst:sg:acc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS	TS	subst:sg:nom:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-u	TS	subst:sg:gen:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-y	TS	subst:pl:acc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-y	TS	subst:pl:nom:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+> TS-y	TS	subst:pl:voc:m3	nazwa organizacji|nazwa firmy|nazwa instytucji	
+5542674,5542701d5541803
+< TS-ach	TS:s1	subst:pl:loc:m3	nazwa instytucji	
+< TS-ami	TS:s1	subst:pl:inst:m3	nazwa instytucji	
+< TS-em	TS:s1	subst:sg:inst:m3	nazwa instytucji	
+< TS-ie	TS:s1	subst:sg:loc:m3	nazwa instytucji	
+< TS-ie	TS:s1	subst:sg:voc:m3	nazwa instytucji	
+< TS-om	TS:s1	subst:pl:dat:m3	nazwa instytucji	
+< TS-owi	TS:s1	subst:sg:dat:m3	nazwa instytucji	
+< TS-ów	TS:s1	subst:pl:gen:m3	nazwa instytucji	
+< TS	TS:s1	subst:sg:acc:m3	nazwa instytucji	
+< TS	TS:s1	subst:sg:nom:m3	nazwa instytucji	
+< TS-u	TS:s1	subst:sg:gen:m3	nazwa instytucji	
+< TS-y	TS:s1	subst:pl:acc:m3	nazwa instytucji	
+< TS-y	TS:s1	subst:pl:nom:m3	nazwa instytucji	
+< TS-y	TS:s1	subst:pl:voc:m3	nazwa instytucji	
+< TS-ach	TS:s2	subst:pl:loc:m3	nazwa firmy	
+< TS-ami	TS:s2	subst:pl:inst:m3	nazwa firmy	
+< TS-em	TS:s2	subst:sg:inst:m3	nazwa firmy	
+< TS-ie	TS:s2	subst:sg:loc:m3	nazwa firmy	
+< TS-ie	TS:s2	subst:sg:voc:m3	nazwa firmy	
+< TS-om	TS:s2	subst:pl:dat:m3	nazwa firmy	
+< TS-owi	TS:s2	subst:sg:dat:m3	nazwa firmy	
+< TS-ów	TS:s2	subst:pl:gen:m3	nazwa firmy	
+< TS	TS:s2	subst:sg:acc:m3	nazwa firmy	
+< TS	TS:s2	subst:sg:nom:m3	nazwa firmy	
+< TS-u	TS:s2	subst:sg:gen:m3	nazwa firmy	
+< TS-y	TS:s2	subst:pl:acc:m3	nazwa firmy	
+< TS-y	TS:s2	subst:pl:nom:m3	nazwa firmy	
+< TS-y	TS:s2	subst:pl:voc:m3	nazwa firmy	
+5650084a5649187,5649200
+> UM-ach	UM	subst:pl:loc:m3	nazwa instytucji	
+> UM-ami	UM	subst:pl:inst:m3	nazwa instytucji	
+> UM-em	UM	subst:sg:inst:m3	nazwa instytucji	
+> UM-ie	UM	subst:sg:loc:m3	nazwa instytucji	
+> UM-ie	UM	subst:sg:voc:m3	nazwa instytucji	
+> UM-om	UM	subst:pl:dat:m3	nazwa instytucji	
+> UM-owi	UM	subst:sg:dat:m3	nazwa instytucji	
+> UM-ów	UM	subst:pl:gen:m3	nazwa instytucji	
+> UM	UM	subst:sg:acc:m3	nazwa instytucji	
+> UM	UM	subst:sg:nom:m3	nazwa instytucji	
+> UM-u	UM	subst:sg:gen:m3	nazwa instytucji	
+> UM-y	UM	subst:pl:acc:m3	nazwa instytucji	
+> UM-y	UM	subst:pl:nom:m3	nazwa instytucji	
+> UM-y	UM	subst:pl:voc:m3	nazwa instytucji	
+5663214,5663241d5662329
+< UM-ach	UM:s1	subst:pl:loc:m3	nazwa pospolita	
+< UM-ami	UM:s1	subst:pl:inst:m3	nazwa pospolita	
+< UM-em	UM:s1	subst:sg:inst:m3	nazwa pospolita	
+< UM-ie	UM:s1	subst:sg:loc:m3	nazwa pospolita	
+< UM-ie	UM:s1	subst:sg:voc:m3	nazwa pospolita	
+< UM-om	UM:s1	subst:pl:dat:m3	nazwa pospolita	
+< UM-owi	UM:s1	subst:sg:dat:m3	nazwa pospolita	
+< UM-ów	UM:s1	subst:pl:gen:m3	nazwa pospolita	
+< UM	UM:s1	subst:sg:acc:m3	nazwa pospolita	
+< UM	UM:s1	subst:sg:nom:m3	nazwa pospolita	
+< UM-u	UM:s1	subst:sg:gen:m3	nazwa pospolita	
+< UM-y	UM:s1	subst:pl:acc:m3	nazwa pospolita	
+< UM-y	UM:s1	subst:pl:nom:m3	nazwa pospolita	
+< UM-y	UM:s1	subst:pl:voc:m3	nazwa pospolita	
+< UM-ach	UM:s2	subst:pl:loc:m3	nazwa instytucji	
+< UM-ami	UM:s2	subst:pl:inst:m3	nazwa instytucji	
+< UM-em	UM:s2	subst:sg:inst:m3	nazwa instytucji	
+< UM-ie	UM:s2	subst:sg:loc:m3	nazwa instytucji	
+< UM-ie	UM:s2	subst:sg:voc:m3	nazwa instytucji	
+< UM-om	UM:s2	subst:pl:dat:m3	nazwa instytucji	
+< UM-owi	UM:s2	subst:sg:dat:m3	nazwa instytucji	
+< UM-ów	UM:s2	subst:pl:gen:m3	nazwa instytucji	
+< UM	UM:s2	subst:sg:acc:m3	nazwa instytucji	
+< UM	UM:s2	subst:sg:nom:m3	nazwa instytucji	
+< UM-u	UM:s2	subst:sg:gen:m3	nazwa instytucji	
+< UM-y	UM:s2	subst:pl:acc:m3	nazwa instytucji	
+< UM-y	UM:s2	subst:pl:nom:m3	nazwa instytucji	
+< UM-y	UM:s2	subst:pl:voc:m3	nazwa instytucji	
+5724175a5723264,5723277
+> US-ach	US	subst:pl:loc:m3	nazwa instytucji	
+> US-ami	US	subst:pl:inst:m3	nazwa instytucji	
+> US-em	US	subst:sg:inst:m3	nazwa instytucji	
+> US-ie	US	subst:sg:loc:m3	nazwa instytucji	
+> US-ie	US	subst:sg:voc:m3	nazwa instytucji	
+> US-om	US	subst:pl:dat:m3	nazwa instytucji	
+> US-owi	US	subst:sg:dat:m3	nazwa instytucji	
+> US-ów	US	subst:pl:gen:m3	nazwa instytucji	
+> US	US	subst:sg:acc:m3	nazwa instytucji	
+> US	US	subst:sg:nom:m3	nazwa instytucji	
+> US-u	US	subst:sg:gen:m3	nazwa instytucji	
+> US-y	US	subst:pl:acc:m3	nazwa instytucji	
+> US-y	US	subst:pl:nom:m3	nazwa instytucji	
+> US-y	US	subst:pl:voc:m3	nazwa instytucji	
+5736399,5736426d5735500
+< US-ach	US:s1	subst:pl:loc:m3	nazwa instytucji	
+< US-ami	US:s1	subst:pl:inst:m3	nazwa instytucji	
+< US-em	US:s1	subst:sg:inst:m3	nazwa instytucji	
+< US-ie	US:s1	subst:sg:loc:m3	nazwa instytucji	
+< US-ie	US:s1	subst:sg:voc:m3	nazwa instytucji	
+< US-om	US:s1	subst:pl:dat:m3	nazwa instytucji	
+< US-owi	US:s1	subst:sg:dat:m3	nazwa instytucji	
+< US-ów	US:s1	subst:pl:gen:m3	nazwa instytucji	
+< US	US:s1	subst:sg:acc:m3	nazwa instytucji	
+< US	US:s1	subst:sg:nom:m3	nazwa instytucji	
+< US-u	US:s1	subst:sg:gen:m3	nazwa instytucji	
+< US-y	US:s1	subst:pl:acc:m3	nazwa instytucji	
+< US-y	US:s1	subst:pl:nom:m3	nazwa instytucji	
+< US-y	US:s1	subst:pl:voc:m3	nazwa instytucji	
+< US-ach	US:s2	subst:pl:loc:m3	nazwa instytucji	
+< US-ami	US:s2	subst:pl:inst:m3	nazwa instytucji	
+< US-em	US:s2	subst:sg:inst:m3	nazwa instytucji	
+< US-ie	US:s2	subst:sg:loc:m3	nazwa instytucji	
+< US-ie	US:s2	subst:sg:voc:m3	nazwa instytucji	
+< US-om	US:s2	subst:pl:dat:m3	nazwa instytucji	
+< US-owi	US:s2	subst:sg:dat:m3	nazwa instytucji	
+< US-ów	US:s2	subst:pl:gen:m3	nazwa instytucji	
+< US	US:s2	subst:sg:acc:m3	nazwa instytucji	
+< US	US:s2	subst:sg:nom:m3	nazwa instytucji	
+< US-u	US:s2	subst:sg:gen:m3	nazwa instytucji	
+< US-y	US:s2	subst:pl:acc:m3	nazwa instytucji	
+< US-y	US:s2	subst:pl:nom:m3	nazwa instytucji	
+< US-y	US:s2	subst:pl:voc:m3	nazwa instytucji	
+5884339,5884370c5883413,5883428
+< Wienerach	Wiener:s1	subst:pl:loc:m1	nazwisko	
+< Wienerami	Wiener:s1	subst:pl:inst:m1	nazwisko	
+< Wienera	Wiener:s1	subst:sg:acc:m1	nazwisko	
+< Wienera	Wiener:s1	subst:sg:gen:m1	nazwisko	
+< Wienerem	Wiener:s1	subst:sg:inst:m1	nazwisko	
+< Wienerom	Wiener:s1	subst:pl:dat:m1	nazwisko	
+< Wienerowie	Wiener:s1	subst:pl:nom:m1	nazwisko	
+< Wienerowie	Wiener:s1	subst:pl:voc:m1	nazwisko	
+< Wienerowi	Wiener:s1	subst:sg:dat:m1	nazwisko	
+< Wienerów	Wiener:s1	subst:pl:acc:m1	nazwisko	
+< Wienerów	Wiener:s1	subst:pl:gen:m1	nazwisko	
+< Wiener	Wiener:s1	subst:sg:nom:m1	nazwisko	
+< Wienery	Wiener:s1	depr:pl:nom:m2	nazwisko	
+< Wienery	Wiener:s1	depr:pl:voc:m2	nazwisko	
+< Wienerze	Wiener:s1	subst:sg:loc:m1	nazwisko	
+< Wienerze	Wiener:s1	subst:sg:voc:m1	nazwisko	
+< Wienerach	Wiener:s2	subst:pl:loc:m1	nazwisko	
+< Wienerami	Wiener:s2	subst:pl:inst:m1	nazwisko	
+< Wienera	Wiener:s2	subst:sg:acc:m1	nazwisko	
+< Wienera	Wiener:s2	subst:sg:gen:m1	nazwisko	
+< Wienerem	Wiener:s2	subst:sg:inst:m1	nazwisko	
+< Wienerom	Wiener:s2	subst:pl:dat:m1	nazwisko	
+< Wienerowie	Wiener:s2	subst:pl:nom:m1	nazwisko	
+< Wienerowie	Wiener:s2	subst:pl:voc:m1	nazwisko	
+< Wienerowi	Wiener:s2	subst:sg:dat:m1	nazwisko	
+< Wienerów	Wiener:s2	subst:pl:acc:m1	nazwisko	
+< Wienerów	Wiener:s2	subst:pl:gen:m1	nazwisko	
+< Wiener	Wiener:s2	subst:sg:nom:m1	nazwisko	
+< Wienery	Wiener:s2	depr:pl:nom:m2	nazwisko	
+< Wienery	Wiener:s2	depr:pl:voc:m2	nazwisko	
+< Wienerze	Wiener:s2	subst:sg:loc:m1	nazwisko	
+< Wienerze	Wiener:s2	subst:sg:voc:m1	nazwisko	
+---
+> Wienerach	Wiener	subst:pl:loc:m1	nazwisko	
+> Wienerami	Wiener	subst:pl:inst:m1	nazwisko	
+> Wienera	Wiener	subst:sg:acc:m1	nazwisko	
+> Wienera	Wiener	subst:sg:gen:m1	nazwisko	
+> Wienerem	Wiener	subst:sg:inst:m1	nazwisko	
+> Wienerom	Wiener	subst:pl:dat:m1	nazwisko	
+> Wienerowie	Wiener	subst:pl:nom:m1	nazwisko	
+> Wienerowie	Wiener	subst:pl:voc:m1	nazwisko	
+> Wienerowi	Wiener	subst:sg:dat:m1	nazwisko	
+> Wienerów	Wiener	subst:pl:acc:m1	nazwisko	
+> Wienerów	Wiener	subst:pl:gen:m1	nazwisko	
+> Wiener	Wiener	subst:sg:nom:m1	nazwisko	
+> Wienery	Wiener	depr:pl:nom:m2	nazwisko	
+> Wienery	Wiener	depr:pl:voc:m2	nazwisko	
+> Wienerze	Wiener	subst:sg:loc:m1	nazwisko	
+> Wienerze	Wiener	subst:sg:voc:m1	nazwisko	
+6327460a6326519,6326520
+> yhm	yhm	interj		
+> yhy	yhy	interj		
+6327704a6326765
+> yyy	yyy	interj		
+6789693,6789720c6788754,6788767
+< ZMS-ach	ZMS:s1	subst:pl:loc:m3	nazwa instytucji	
+< ZMS-ami	ZMS:s1	subst:pl:inst:m3	nazwa instytucji	
+< ZMS-em	ZMS:s1	subst:sg:inst:m3	nazwa instytucji	
+< ZMS-ie	ZMS:s1	subst:sg:loc:m3	nazwa instytucji	
+< ZMS-ie	ZMS:s1	subst:sg:voc:m3	nazwa instytucji	
+< ZMS-om	ZMS:s1	subst:pl:dat:m3	nazwa instytucji	
+< ZMS-owi	ZMS:s1	subst:sg:dat:m3	nazwa instytucji	
+< ZMS-ów	ZMS:s1	subst:pl:gen:m3	nazwa instytucji	
+< ZMS-u	ZMS:s1	subst:sg:gen:m3	nazwa instytucji	
+< ZMS-y	ZMS:s1	subst:pl:acc:m3	nazwa instytucji	
+< ZMS-y	ZMS:s1	subst:pl:nom:m3	nazwa instytucji	
+< ZMS-y	ZMS:s1	subst:pl:voc:m3	nazwa instytucji	
+< ZMS	ZMS:s1	subst:sg:acc:m3	nazwa instytucji	
+< ZMS	ZMS:s1	subst:sg:nom:m3	nazwa instytucji	
+< ZMS-ach	ZMS:s2	subst:pl:loc:m3	nazwa organizacji	
+< ZMS-ami	ZMS:s2	subst:pl:inst:m3	nazwa organizacji	
+< ZMS-em	ZMS:s2	subst:sg:inst:m3	nazwa organizacji	
+< ZMS-ie	ZMS:s2	subst:sg:loc:m3	nazwa organizacji	
+< ZMS-ie	ZMS:s2	subst:sg:voc:m3	nazwa organizacji	
+< ZMS-om	ZMS:s2	subst:pl:dat:m3	nazwa organizacji	
+< ZMS-owi	ZMS:s2	subst:sg:dat:m3	nazwa organizacji	
+< ZMS-ów	ZMS:s2	subst:pl:gen:m3	nazwa organizacji	
+< ZMS-u	ZMS:s2	subst:sg:gen:m3	nazwa organizacji	
+< ZMS-y	ZMS:s2	subst:pl:acc:m3	nazwa organizacji	
+< ZMS-y	ZMS:s2	subst:pl:nom:m3	nazwa organizacji	
+< ZMS-y	ZMS:s2	subst:pl:voc:m3	nazwa organizacji	
+< ZMS	ZMS:s2	subst:sg:acc:m3	nazwa organizacji	
+< ZMS	ZMS:s2	subst:sg:nom:m3	nazwa organizacji	
+---
+> ZMS-ach	ZMS	subst:pl:loc:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-ami	ZMS	subst:pl:inst:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-em	ZMS	subst:sg:inst:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-ie	ZMS	subst:sg:loc:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-ie	ZMS	subst:sg:voc:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-om	ZMS	subst:pl:dat:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-owi	ZMS	subst:sg:dat:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-ów	ZMS	subst:pl:gen:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-u	ZMS	subst:sg:gen:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-y	ZMS	subst:pl:acc:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-y	ZMS	subst:pl:nom:m3	nazwa organizacji|nazwa instytucji	
+> ZMS-y	ZMS	subst:pl:voc:m3	nazwa organizacji|nazwa instytucji	
+> ZMS	ZMS	subst:sg:acc:m3	nazwa organizacji|nazwa instytucji	
+> ZMS	ZMS	subst:sg:nom:m3	nazwa organizacji|nazwa instytucji	
+6837846a6836894,6836907
+> ZS-ach	ZS	subst:pl:loc:m3	nazwa organizacji	
+> ZS-ami	ZS	subst:pl:inst:m3	nazwa organizacji	
+> ZS-em	ZS	subst:sg:inst:m3	nazwa organizacji	
+> ZS-ie	ZS	subst:sg:loc:m3	nazwa organizacji	
+> ZS-ie	ZS	subst:sg:voc:m3	nazwa organizacji	
+> ZS-om	ZS	subst:pl:dat:m3	nazwa organizacji	
+> ZS-owi	ZS	subst:sg:dat:m3	nazwa organizacji	
+> ZS-ów	ZS	subst:pl:gen:m3	nazwa organizacji	
+> ZS-u	ZS	subst:sg:gen:m3	nazwa organizacji	
+> ZS-y	ZS	subst:pl:acc:m3	nazwa organizacji	
+> ZS-y	ZS	subst:pl:nom:m3	nazwa organizacji	
+> ZS-y	ZS	subst:pl:voc:m3	nazwa organizacji	
+> ZS	ZS	subst:sg:acc:m3	nazwa organizacji	
+> ZS	ZS	subst:sg:nom:m3	nazwa organizacji	
+6841872,6841899d6840932
+< ZS-ach	ZS:s1	subst:pl:loc:m3	nazwa organizacji	
+< ZS-ami	ZS:s1	subst:pl:inst:m3	nazwa organizacji	
+< ZS-em	ZS:s1	subst:sg:inst:m3	nazwa organizacji	
+< ZS-ie	ZS:s1	subst:sg:loc:m3	nazwa organizacji	
+< ZS-ie	ZS:s1	subst:sg:voc:m3	nazwa organizacji	
+< ZS-om	ZS:s1	subst:pl:dat:m3	nazwa organizacji	
+< ZS-owi	ZS:s1	subst:sg:dat:m3	nazwa organizacji	
+< ZS-ów	ZS:s1	subst:pl:gen:m3	nazwa organizacji	
+< ZS-u	ZS:s1	subst:sg:gen:m3	nazwa organizacji	
+< ZS-y	ZS:s1	subst:pl:acc:m3	nazwa organizacji	
+< ZS-y	ZS:s1	subst:pl:nom:m3	nazwa organizacji	
+< ZS-y	ZS:s1	subst:pl:voc:m3	nazwa organizacji	
+< ZS	ZS:s1	subst:sg:acc:m3	nazwa organizacji	
+< ZS	ZS:s1	subst:sg:nom:m3	nazwa organizacji	
+< ZS-ach	ZS:s2	subst:pl:loc:m3	nazwa organizacji	
+< ZS-ami	ZS:s2	subst:pl:inst:m3	nazwa organizacji	
+< ZS-em	ZS:s2	subst:sg:inst:m3	nazwa organizacji	
+< ZS-ie	ZS:s2	subst:sg:loc:m3	nazwa organizacji	
+< ZS-ie	ZS:s2	subst:sg:voc:m3	nazwa organizacji	
+< ZS-om	ZS:s2	subst:pl:dat:m3	nazwa organizacji	
+< ZS-owi	ZS:s2	subst:sg:dat:m3	nazwa organizacji	
+< ZS-ów	ZS:s2	subst:pl:gen:m3	nazwa organizacji	
+< ZS-u	ZS:s2	subst:sg:gen:m3	nazwa organizacji	
+< ZS-y	ZS:s2	subst:pl:acc:m3	nazwa organizacji	
+< ZS-y	ZS:s2	subst:pl:nom:m3	nazwa organizacji	
+< ZS-y	ZS:s2	subst:pl:voc:m3	nazwa organizacji	
+< ZS	ZS:s2	subst:sg:acc:m3	nazwa organizacji	
+< ZS	ZS:s2	subst:sg:nom:m3	nazwa organizacji	

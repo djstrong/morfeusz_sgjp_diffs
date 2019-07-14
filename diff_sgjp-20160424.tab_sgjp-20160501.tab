@@ -1,0 +1,382 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.04.24
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.05.01
+390603,390604c390603,390605
+< co	co:p	prep:acc		
+< co	co:p	prep:nom		
+---
+> co	co:p1	prep:acc		
+> co	co:p1	prep:nom		
+> co	co:p2	prep:gen		przest.
+1397427,1397440d1397427
+< kuligach	kulig	subst:pl:loc:m3	nazwa pospolita	
+< kuligami	kulig	subst:pl:inst:m3	nazwa pospolita	
+< kuligiem	kulig	subst:sg:inst:m3	nazwa pospolita	
+< kuligi	kulig	subst:pl:acc:m3	nazwa pospolita	
+< kuligi	kulig	subst:pl:nom:m3	nazwa pospolita	
+< kuligi	kulig	subst:pl:voc:m3	nazwa pospolita	
+< kulig	kulig	subst:sg:acc:m3	nazwa pospolita	
+< kulig	kulig	subst:sg:nom:m3	nazwa pospolita	
+< kuligom	kulig	subst:pl:dat:m3	nazwa pospolita	
+< kuligowi	kulig	subst:sg:dat:m3	nazwa pospolita	
+< kuligów	kulig	subst:pl:gen:m3	nazwa pospolita	
+< kuligu	kulig	subst:sg:gen:m3	nazwa pospolita	
+< kuligu	kulig	subst:sg:loc:m3	nazwa pospolita	
+< kuligu	kulig	subst:sg:voc:m3	nazwa pospolita	
+1397524a1397512,1397539
+> kuligach	kulig:s1	subst:pl:loc:m3	nazwa pospolita	
+> kuligami	kulig:s1	subst:pl:inst:m3	nazwa pospolita	
+> kuligiem	kulig:s1	subst:sg:inst:m3	nazwa pospolita	
+> kuligi	kulig:s1	subst:pl:acc:m3	nazwa pospolita	
+> kuligi	kulig:s1	subst:pl:nom:m3	nazwa pospolita	
+> kuligi	kulig:s1	subst:pl:voc:m3	nazwa pospolita	
+> kulig	kulig:s1	subst:sg:acc:m3	nazwa pospolita	
+> kulig	kulig:s1	subst:sg:nom:m3	nazwa pospolita	
+> kuligom	kulig:s1	subst:pl:dat:m3	nazwa pospolita	
+> kuligowi	kulig:s1	subst:sg:dat:m3	nazwa pospolita	
+> kuligów	kulig:s1	subst:pl:gen:m3	nazwa pospolita	
+> kuligu	kulig:s1	subst:sg:gen:m3	nazwa pospolita	
+> kuligu	kulig:s1	subst:sg:loc:m3	nazwa pospolita	
+> kuligu	kulig:s1	subst:sg:voc:m3	nazwa pospolita	
+> kuligach	kulig:s2	subst:pl:loc:m2	nazwa pospolita	zool.
+> kuliga	kulig:s2	subst:sg:acc:m2	nazwa pospolita	zool.
+> kuliga	kulig:s2	subst:sg:gen:m2	nazwa pospolita	zool.
+> kuligami	kulig:s2	subst:pl:inst:m2	nazwa pospolita	zool.
+> kuligiem	kulig:s2	subst:sg:inst:m2	nazwa pospolita	zool.
+> kuligi	kulig:s2	subst:pl:acc:m2	nazwa pospolita	zool.
+> kuligi	kulig:s2	subst:pl:nom:m2	nazwa pospolita	zool.
+> kuligi	kulig:s2	subst:pl:voc:m2	nazwa pospolita	zool.
+> kulig	kulig:s2	subst:sg:nom:m2	nazwa pospolita	zool.
+> kuligom	kulig:s2	subst:pl:dat:m2	nazwa pospolita	zool.
+> kuligowi	kulig:s2	subst:sg:dat:m2	nazwa pospolita	zool.
+> kuligów	kulig:s2	subst:pl:gen:m2	nazwa pospolita	zool.
+> kuligu	kulig:s2	subst:sg:loc:m2	nazwa pospolita	zool.
+> kuligu	kulig:s2	subst:sg:voc:m2	nazwa pospolita	zool.
+1721453a1721469
+> MZK	MZK	subst:pl:acc:m3	nazwa firmy	
+1721454a1721471
+> MZK	MZK	subst:pl:dat:m3	nazwa firmy	
+1721455a1721473
+> MZK	MZK	subst:pl:gen:m3	nazwa firmy	
+1721456a1721475
+> MZK	MZK	subst:pl:inst:m3	nazwa firmy	
+1721457a1721477
+> MZK	MZK	subst:pl:loc:m3	nazwa firmy	
+1721458a1721479
+> MZK	MZK	subst:pl:nom:m3	nazwa firmy	
+1721459a1721481
+> MZK	MZK	subst:pl:voc:m3	nazwa firmy	
+1721460a1721483
+> MZK	MZK	subst:sg:acc:m3	nazwa firmy	
+1721461a1721485
+> MZK	MZK	subst:sg:dat:m3	nazwa firmy	
+1721462a1721487
+> MZK	MZK	subst:sg:gen:m3	nazwa firmy	
+1721463a1721489
+> MZK	MZK	subst:sg:inst:m3	nazwa firmy	
+1721464a1721491
+> MZK	MZK	subst:sg:loc:m3	nazwa firmy	
+1721465a1721493
+> MZK	MZK	subst:sg:nom:m3	nazwa firmy	
+1721466a1721495
+> MZK	MZK	subst:sg:voc:m3	nazwa firmy	
+1887082a1887112,1887125
+> nawęzach	nawęza	subst:pl:loc:f	nazwa pospolita	
+> nawęzami	nawęza	subst:pl:inst:f	nazwa pospolita	
+> nawęza	nawęza	subst:sg:nom:f	nazwa pospolita	
+> nawęzą	nawęza	subst:sg:inst:f	nazwa pospolita	
+> nawęzę	nawęza	subst:sg:acc:f	nazwa pospolita	
+> nawęzie	nawęza	subst:sg:dat:f	nazwa pospolita	
+> nawęzie	nawęza	subst:sg:loc:f	nazwa pospolita	
+> nawęz	nawęza	subst:pl:gen:f	nazwa pospolita	
+> nawęzom	nawęza	subst:pl:dat:f	nazwa pospolita	
+> nawęzo	nawęza	subst:sg:voc:f	nazwa pospolita	
+> nawęzy	nawęza	subst:pl:acc:f	nazwa pospolita	
+> nawęzy	nawęza	subst:pl:nom:f	nazwa pospolita	
+> nawęzy	nawęza	subst:pl:voc:f	nazwa pospolita	
+> nawęzy	nawęza	subst:sg:gen:f	nazwa pospolita	
+3317246a3317290,3317386
+> nieoddramatyzowana	oddramatyzować	ppas:sg:nom.voc:f:perf:neg		
+> nieoddramatyzowaną	oddramatyzować	ppas:sg:acc.inst:f:perf:neg		
+> nieoddramatyzowanego	oddramatyzować	ppas:sg:acc:m1.m2:perf:neg		
+> nieoddramatyzowanego	oddramatyzować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> nieoddramatyzowanej	oddramatyzować	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieoddramatyzowanemu	oddramatyzować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> nieoddramatyzowane	oddramatyzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> nieoddramatyzowane	oddramatyzować	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> nieoddramatyzowaniach	oddramatyzować	ger:pl:loc:n2:perf:neg		
+> nieoddramatyzowaniami	oddramatyzować	ger:pl:inst:n2:perf:neg		
+> nieoddramatyzowania	oddramatyzować	ger:pl:nom.acc:n2:perf:neg		
+> nieoddramatyzowania	oddramatyzować	ger:sg:gen:n2:perf:neg		
+> nieoddramatyzowaniem	oddramatyzować	ger:sg:inst:n2:perf:neg		
+> nieoddramatyzowanie	oddramatyzować	ger:sg:nom.acc:n2:perf:neg		
+> nieoddramatyzowani	oddramatyzować	ppas:pl:nom.voc:m1.p1:perf:neg		
+> nieoddramatyzowaniom	oddramatyzować	ger:pl:dat:n2:perf:neg		
+> nieoddramatyzowaniu	oddramatyzować	ger:sg:dat.loc:n2:perf:neg		
+> nieoddramatyzowanych	oddramatyzować	ppas:pl:acc:m1.p1:perf:neg		
+> nieoddramatyzowanych	oddramatyzować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieoddramatyzowanymi	oddramatyzować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieoddramatyzowanym	oddramatyzować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieoddramatyzowanym	oddramatyzować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> nieoddramatyzowany	oddramatyzować	ppas:sg:acc:m3:perf:neg		
+> nieoddramatyzowany	oddramatyzować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nieoddramatyzowań	oddramatyzować	ger:pl:gen:n2:perf:neg		
+> oddramatyzować	oddramatyzować	inf:perf		
+> oddramatyzowaliby	oddramatyzować	cond:pl:m1.p1:ter:perf		
+> oddramatyzowalibyście	oddramatyzować	cond:pl:m1.p1:sec:perf		
+> oddramatyzowalibyśmy	oddramatyzować	cond:pl:m1.p1:pri:perf		
+> oddramatyzowali	oddramatyzować	praet:pl:m1.p1:perf		
+> oddramatyzowali	oddramatyzować	praet:pl:m1.p1:ter:perf		
+> oddramatyzowaliście	oddramatyzować	praet:pl:m1.p1:sec:perf		
+> oddramatyzowaliśmy	oddramatyzować	praet:pl:m1.p1:pri:perf		
+> oddramatyzowałabym	oddramatyzować	cond:sg:f:pri:perf		
+> oddramatyzowałaby	oddramatyzować	cond:sg:f:ter:perf		
+> oddramatyzowałabyś	oddramatyzować	cond:sg:f:sec:perf		
+> oddramatyzowałam	oddramatyzować	praet:sg:f:pri:perf		
+> oddramatyzowała	oddramatyzować	praet:sg:f:perf		
+> oddramatyzowała	oddramatyzować	praet:sg:f:ter:perf		
+> oddramatyzowałaś	oddramatyzować	praet:sg:f:sec:perf		
+> oddramatyzowałbym	oddramatyzować	cond:sg:m1.m2.m3:pri:perf		
+> oddramatyzowałby	oddramatyzować	cond:sg:m1.m2.m3:ter:perf		
+> oddramatyzowałbyś	oddramatyzować	cond:sg:m1.m2.m3:sec:perf		
+> oddramatyzowałem	oddramatyzować	praet:sg:m1.m2.m3:pri:perf		
+> oddramatyzowałeś	oddramatyzować	praet:sg:m1.m2.m3:sec:perf		
+> oddramatyzowałobym	oddramatyzować	cond:sg:n1.n2:pri:perf		
+> oddramatyzowałoby	oddramatyzować	cond:sg:n1.n2:ter:perf		
+> oddramatyzowałobyś	oddramatyzować	cond:sg:n1.n2:sec:perf		
+> oddramatyzował	oddramatyzować	praet:sg:m1.m2.m3:perf		
+> oddramatyzował	oddramatyzować	praet:sg:m1.m2.m3:ter:perf		
+> oddramatyzowałom	oddramatyzować	praet:sg:n1.n2:pri:perf		
+> oddramatyzowało	oddramatyzować	praet:sg:n1.n2:perf		
+> oddramatyzowało	oddramatyzować	praet:sg:n1.n2:ter:perf		
+> oddramatyzowałoś	oddramatyzować	praet:sg:n1.n2:sec:perf		
+> oddramatyzowałyby	oddramatyzować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> oddramatyzowałybyście	oddramatyzować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> oddramatyzowałybyśmy	oddramatyzować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> oddramatyzowały	oddramatyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> oddramatyzowały	oddramatyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> oddramatyzowałyście	oddramatyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> oddramatyzowałyśmy	oddramatyzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> oddramatyzowana	oddramatyzować	ppas:sg:nom.voc:f:perf:aff		
+> oddramatyzowaną	oddramatyzować	ppas:sg:acc.inst:f:perf:aff		
+> oddramatyzowanego	oddramatyzować	ppas:sg:acc:m1.m2:perf:aff		
+> oddramatyzowanego	oddramatyzować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> oddramatyzowanej	oddramatyzować	ppas:sg:gen.dat.loc:f:perf:aff		
+> oddramatyzowanemu	oddramatyzować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> oddramatyzowane	oddramatyzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> oddramatyzowane	oddramatyzować	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> oddramatyzowaniach	oddramatyzować	ger:pl:loc:n2:perf:aff		
+> oddramatyzowaniami	oddramatyzować	ger:pl:inst:n2:perf:aff		
+> oddramatyzowania	oddramatyzować	ger:pl:nom.acc:n2:perf:aff		
+> oddramatyzowania	oddramatyzować	ger:sg:gen:n2:perf:aff		
+> oddramatyzowaniem	oddramatyzować	ger:sg:inst:n2:perf:aff		
+> oddramatyzowanie	oddramatyzować	ger:sg:nom.acc:n2:perf:aff		
+> oddramatyzowani	oddramatyzować	ppas:pl:nom.voc:m1.p1:perf:aff		
+> oddramatyzowaniom	oddramatyzować	ger:pl:dat:n2:perf:aff		
+> oddramatyzowaniu	oddramatyzować	ger:sg:dat.loc:n2:perf:aff		
+> oddramatyzowano	oddramatyzować	imps:perf		
+> oddramatyzowanych	oddramatyzować	ppas:pl:acc:m1.p1:perf:aff		
+> oddramatyzowanych	oddramatyzować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> oddramatyzowanymi	oddramatyzować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> oddramatyzowanym	oddramatyzować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> oddramatyzowanym	oddramatyzować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> oddramatyzowany	oddramatyzować	ppas:sg:acc:m3:perf:aff		
+> oddramatyzowany	oddramatyzować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> oddramatyzowań	oddramatyzować	ger:pl:gen:n2:perf:aff		
+> oddramatyzowawszy	oddramatyzować	pant:perf		
+> oddramatyzują	oddramatyzować	fin:pl:ter:perf		
+> oddramatyzujcie	oddramatyzować	impt:pl:sec:perf		
+> oddramatyzujecie	oddramatyzować	fin:pl:sec:perf		
+> oddramatyzujemy	oddramatyzować	fin:pl:pri:perf		
+> oddramatyzuje	oddramatyzować	fin:sg:ter:perf		
+> oddramatyzujesz	oddramatyzować	fin:sg:sec:perf		
+> oddramatyzuję	oddramatyzować	fin:sg:pri:perf		
+> oddramatyzujmy	oddramatyzować	impt:pl:pri:perf		
+> oddramatyzuj	oddramatyzować	impt:sg:sec:perf		
+3382302a3382443,3382539
+> nieodpolityzowana	odpolityzować	ppas:sg:nom.voc:f:perf:neg		
+> nieodpolityzowaną	odpolityzować	ppas:sg:acc.inst:f:perf:neg		
+> nieodpolityzowanego	odpolityzować	ppas:sg:acc:m1.m2:perf:neg		
+> nieodpolityzowanego	odpolityzować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> nieodpolityzowanej	odpolityzować	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieodpolityzowanemu	odpolityzować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> nieodpolityzowane	odpolityzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> nieodpolityzowane	odpolityzować	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> nieodpolityzowaniach	odpolityzować	ger:pl:loc:n2:perf:neg		
+> nieodpolityzowaniami	odpolityzować	ger:pl:inst:n2:perf:neg		
+> nieodpolityzowania	odpolityzować	ger:pl:nom.acc:n2:perf:neg		
+> nieodpolityzowania	odpolityzować	ger:sg:gen:n2:perf:neg		
+> nieodpolityzowaniem	odpolityzować	ger:sg:inst:n2:perf:neg		
+> nieodpolityzowanie	odpolityzować	ger:sg:nom.acc:n2:perf:neg		
+> nieodpolityzowani	odpolityzować	ppas:pl:nom.voc:m1.p1:perf:neg		
+> nieodpolityzowaniom	odpolityzować	ger:pl:dat:n2:perf:neg		
+> nieodpolityzowaniu	odpolityzować	ger:sg:dat.loc:n2:perf:neg		
+> nieodpolityzowanych	odpolityzować	ppas:pl:acc:m1.p1:perf:neg		
+> nieodpolityzowanych	odpolityzować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieodpolityzowanymi	odpolityzować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieodpolityzowanym	odpolityzować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieodpolityzowanym	odpolityzować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> nieodpolityzowany	odpolityzować	ppas:sg:acc:m3:perf:neg		
+> nieodpolityzowany	odpolityzować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nieodpolityzowań	odpolityzować	ger:pl:gen:n2:perf:neg		
+> odpolityzować	odpolityzować	inf:perf		
+> odpolityzowaliby	odpolityzować	cond:pl:m1.p1:ter:perf		
+> odpolityzowalibyście	odpolityzować	cond:pl:m1.p1:sec:perf		
+> odpolityzowalibyśmy	odpolityzować	cond:pl:m1.p1:pri:perf		
+> odpolityzowali	odpolityzować	praet:pl:m1.p1:perf		
+> odpolityzowali	odpolityzować	praet:pl:m1.p1:ter:perf		
+> odpolityzowaliście	odpolityzować	praet:pl:m1.p1:sec:perf		
+> odpolityzowaliśmy	odpolityzować	praet:pl:m1.p1:pri:perf		
+> odpolityzowałabym	odpolityzować	cond:sg:f:pri:perf		
+> odpolityzowałaby	odpolityzować	cond:sg:f:ter:perf		
+> odpolityzowałabyś	odpolityzować	cond:sg:f:sec:perf		
+> odpolityzowałam	odpolityzować	praet:sg:f:pri:perf		
+> odpolityzowała	odpolityzować	praet:sg:f:perf		
+> odpolityzowała	odpolityzować	praet:sg:f:ter:perf		
+> odpolityzowałaś	odpolityzować	praet:sg:f:sec:perf		
+> odpolityzowałbym	odpolityzować	cond:sg:m1.m2.m3:pri:perf		
+> odpolityzowałby	odpolityzować	cond:sg:m1.m2.m3:ter:perf		
+> odpolityzowałbyś	odpolityzować	cond:sg:m1.m2.m3:sec:perf		
+> odpolityzowałem	odpolityzować	praet:sg:m1.m2.m3:pri:perf		
+> odpolityzowałeś	odpolityzować	praet:sg:m1.m2.m3:sec:perf		
+> odpolityzowałobym	odpolityzować	cond:sg:n1.n2:pri:perf		
+> odpolityzowałoby	odpolityzować	cond:sg:n1.n2:ter:perf		
+> odpolityzowałobyś	odpolityzować	cond:sg:n1.n2:sec:perf		
+> odpolityzował	odpolityzować	praet:sg:m1.m2.m3:perf		
+> odpolityzował	odpolityzować	praet:sg:m1.m2.m3:ter:perf		
+> odpolityzowałom	odpolityzować	praet:sg:n1.n2:pri:perf		
+> odpolityzowało	odpolityzować	praet:sg:n1.n2:perf		
+> odpolityzowało	odpolityzować	praet:sg:n1.n2:ter:perf		
+> odpolityzowałoś	odpolityzować	praet:sg:n1.n2:sec:perf		
+> odpolityzowałyby	odpolityzować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> odpolityzowałybyście	odpolityzować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> odpolityzowałybyśmy	odpolityzować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> odpolityzowały	odpolityzować	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> odpolityzowały	odpolityzować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> odpolityzowałyście	odpolityzować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> odpolityzowałyśmy	odpolityzować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> odpolityzowana	odpolityzować	ppas:sg:nom.voc:f:perf:aff		
+> odpolityzowaną	odpolityzować	ppas:sg:acc.inst:f:perf:aff		
+> odpolityzowanego	odpolityzować	ppas:sg:acc:m1.m2:perf:aff		
+> odpolityzowanego	odpolityzować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> odpolityzowanej	odpolityzować	ppas:sg:gen.dat.loc:f:perf:aff		
+> odpolityzowanemu	odpolityzować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> odpolityzowane	odpolityzować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> odpolityzowane	odpolityzować	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> odpolityzowaniach	odpolityzować	ger:pl:loc:n2:perf:aff		
+> odpolityzowaniami	odpolityzować	ger:pl:inst:n2:perf:aff		
+> odpolityzowania	odpolityzować	ger:pl:nom.acc:n2:perf:aff		
+> odpolityzowania	odpolityzować	ger:sg:gen:n2:perf:aff		
+> odpolityzowaniem	odpolityzować	ger:sg:inst:n2:perf:aff		
+> odpolityzowanie	odpolityzować	ger:sg:nom.acc:n2:perf:aff		
+> odpolityzowani	odpolityzować	ppas:pl:nom.voc:m1.p1:perf:aff		
+> odpolityzowaniom	odpolityzować	ger:pl:dat:n2:perf:aff		
+> odpolityzowaniu	odpolityzować	ger:sg:dat.loc:n2:perf:aff		
+> odpolityzowano	odpolityzować	imps:perf		
+> odpolityzowanych	odpolityzować	ppas:pl:acc:m1.p1:perf:aff		
+> odpolityzowanych	odpolityzować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> odpolityzowanymi	odpolityzować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> odpolityzowanym	odpolityzować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> odpolityzowanym	odpolityzować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> odpolityzowany	odpolityzować	ppas:sg:acc:m3:perf:aff		
+> odpolityzowany	odpolityzować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> odpolityzowań	odpolityzować	ger:pl:gen:n2:perf:aff		
+> odpolityzowawszy	odpolityzować	pant:perf		
+> odpolityzują	odpolityzować	fin:pl:ter:perf		
+> odpolityzujcie	odpolityzować	impt:pl:sec:perf		
+> odpolityzujecie	odpolityzować	fin:pl:sec:perf		
+> odpolityzujemy	odpolityzować	fin:pl:pri:perf		
+> odpolityzuje	odpolityzować	fin:sg:ter:perf		
+> odpolityzujesz	odpolityzować	fin:sg:sec:perf		
+> odpolityzuję	odpolityzować	fin:sg:pri:perf		
+> odpolityzujmy	odpolityzować	impt:pl:pri:perf		
+> odpolityzuj	odpolityzować	impt:sg:sec:perf		
+4934809,4934822c4935046,4935059
+< rydzykach	rydzyk	subst:pl:loc:m3	nazwa pospolita	
+< rydzykami	rydzyk	subst:pl:inst:m3	nazwa pospolita	
+< rydzyka	rydzyk	subst:sg:gen:m3	nazwa pospolita	
+< rydzykiem	rydzyk	subst:sg:inst:m3	nazwa pospolita	
+< rydzyki	rydzyk	subst:pl:acc:m3	nazwa pospolita	
+< rydzyki	rydzyk	subst:pl:nom:m3	nazwa pospolita	
+< rydzyki	rydzyk	subst:pl:voc:m3	nazwa pospolita	
+< rydzykom	rydzyk	subst:pl:dat:m3	nazwa pospolita	
+< rydzykowi	rydzyk	subst:sg:dat:m3	nazwa pospolita	
+< rydzyków	rydzyk	subst:pl:gen:m3	nazwa pospolita	
+< rydzyk	rydzyk	subst:sg:acc:m3	nazwa pospolita	
+< rydzyk	rydzyk	subst:sg:nom:m3	nazwa pospolita	
+< rydzyku	rydzyk	subst:sg:loc:m3	nazwa pospolita	
+< rydzyku	rydzyk	subst:sg:voc:m3	nazwa pospolita	
+---
+> rydzykach	rydzyk	subst:pl:loc:m2	nazwa pospolita	
+> rydzykami	rydzyk	subst:pl:inst:m2	nazwa pospolita	
+> rydzyka	rydzyk	subst:sg:acc:m2	nazwa pospolita	
+> rydzyka	rydzyk	subst:sg:gen:m2	nazwa pospolita	
+> rydzykiem	rydzyk	subst:sg:inst:m2	nazwa pospolita	
+> rydzyki	rydzyk	subst:pl:acc:m2	nazwa pospolita	
+> rydzyki	rydzyk	subst:pl:nom:m2	nazwa pospolita	
+> rydzyki	rydzyk	subst:pl:voc:m2	nazwa pospolita	
+> rydzykom	rydzyk	subst:pl:dat:m2	nazwa pospolita	
+> rydzykowi	rydzyk	subst:sg:dat:m2	nazwa pospolita	
+> rydzyków	rydzyk	subst:pl:gen:m2	nazwa pospolita	
+> rydzyk	rydzyk	subst:sg:nom:m2	nazwa pospolita	
+> rydzyku	rydzyk	subst:sg:loc:m2	nazwa pospolita	
+> rydzyku	rydzyk	subst:sg:voc:m2	nazwa pospolita	
+4975307,4975334c4975544,4975571
+< sandwiczach	sandwicz:s2	subst:pl:loc:m3	nazwa pospolita	
+< sandwiczach	sandwicz:s2	subst:pl:loc:m3	nazwa pospolita	rzad.
+< sandwiczami	sandwicz:s2	subst:pl:inst:m3	nazwa pospolita	
+< sandwiczami	sandwicz:s2	subst:pl:inst:m3	nazwa pospolita	rzad.
+< sandwicza	sandwicz:s2	subst:sg:gen:m3	nazwa pospolita	
+< sandwicza	sandwicz:s2	subst:sg:gen:m3	nazwa pospolita	rzad.
+< sandwiczem	sandwicz:s2	subst:sg:inst:m3	nazwa pospolita	
+< sandwiczem	sandwicz:s2	subst:sg:inst:m3	nazwa pospolita	rzad.
+< sandwicze	sandwicz:s2	subst:pl:acc:m3	nazwa pospolita	
+< sandwicze	sandwicz:s2	subst:pl:acc:m3	nazwa pospolita	rzad.
+< sandwicze	sandwicz:s2	subst:pl:nom:m3	nazwa pospolita	
+< sandwicze	sandwicz:s2	subst:pl:nom:m3	nazwa pospolita	rzad.
+< sandwicze	sandwicz:s2	subst:pl:voc:m3	nazwa pospolita	
+< sandwicze	sandwicz:s2	subst:pl:voc:m3	nazwa pospolita	rzad.
+< sandwiczom	sandwicz:s2	subst:pl:dat:m3	nazwa pospolita	
+< sandwiczom	sandwicz:s2	subst:pl:dat:m3	nazwa pospolita	rzad.
+< sandwiczowi	sandwicz:s2	subst:sg:dat:m3	nazwa pospolita	
+< sandwiczowi	sandwicz:s2	subst:sg:dat:m3	nazwa pospolita	rzad.
+< sandwiczów	sandwicz:s2	subst:pl:gen:m3	nazwa pospolita	rzad.
+< sandwicz	sandwicz:s2	subst:sg:acc:m3	nazwa pospolita	
+< sandwicz	sandwicz:s2	subst:sg:acc:m3	nazwa pospolita	rzad.
+< sandwicz	sandwicz:s2	subst:sg:nom:m3	nazwa pospolita	
+< sandwicz	sandwicz:s2	subst:sg:nom:m3	nazwa pospolita	rzad.
+< sandwiczu	sandwicz:s2	subst:sg:loc:m3	nazwa pospolita	
+< sandwiczu	sandwicz:s2	subst:sg:loc:m3	nazwa pospolita	rzad.
+< sandwiczu	sandwicz:s2	subst:sg:voc:m3	nazwa pospolita	
+< sandwiczu	sandwicz:s2	subst:sg:voc:m3	nazwa pospolita	rzad.
+< sandwiczy	sandwicz:s2	subst:pl:gen:m3	nazwa pospolita	
+---
+> sandwiczach	sandwicz:s2	subst:pl:loc:m2	nazwa pospolita	
+> sandwiczach	sandwicz:s2	subst:pl:loc:m2	nazwa pospolita	rzad.
+> sandwiczami	sandwicz:s2	subst:pl:inst:m2	nazwa pospolita	
+> sandwiczami	sandwicz:s2	subst:pl:inst:m2	nazwa pospolita	rzad.
+> sandwicza	sandwicz:s2	subst:sg:acc:m2	nazwa pospolita	
+> sandwicza	sandwicz:s2	subst:sg:acc:m2	nazwa pospolita	rzad.
+> sandwicza	sandwicz:s2	subst:sg:gen:m2	nazwa pospolita	
+> sandwicza	sandwicz:s2	subst:sg:gen:m2	nazwa pospolita	rzad.
+> sandwiczem	sandwicz:s2	subst:sg:inst:m2	nazwa pospolita	
+> sandwiczem	sandwicz:s2	subst:sg:inst:m2	nazwa pospolita	rzad.
+> sandwicze	sandwicz:s2	subst:pl:acc:m2	nazwa pospolita	
+> sandwicze	sandwicz:s2	subst:pl:acc:m2	nazwa pospolita	rzad.
+> sandwicze	sandwicz:s2	subst:pl:nom:m2	nazwa pospolita	
+> sandwicze	sandwicz:s2	subst:pl:nom:m2	nazwa pospolita	rzad.
+> sandwicze	sandwicz:s2	subst:pl:voc:m2	nazwa pospolita	
+> sandwicze	sandwicz:s2	subst:pl:voc:m2	nazwa pospolita	rzad.
+> sandwiczom	sandwicz:s2	subst:pl:dat:m2	nazwa pospolita	
+> sandwiczom	sandwicz:s2	subst:pl:dat:m2	nazwa pospolita	rzad.
+> sandwiczowi	sandwicz:s2	subst:sg:dat:m2	nazwa pospolita	
+> sandwiczowi	sandwicz:s2	subst:sg:dat:m2	nazwa pospolita	rzad.
+> sandwiczów	sandwicz:s2	subst:pl:gen:m2	nazwa pospolita	rzad.
+> sandwicz	sandwicz:s2	subst:sg:nom:m2	nazwa pospolita	
+> sandwicz	sandwicz:s2	subst:sg:nom:m2	nazwa pospolita	rzad.
+> sandwiczu	sandwicz:s2	subst:sg:loc:m2	nazwa pospolita	
+> sandwiczu	sandwicz:s2	subst:sg:loc:m2	nazwa pospolita	rzad.
+> sandwiczu	sandwicz:s2	subst:sg:voc:m2	nazwa pospolita	
+> sandwiczu	sandwicz:s2	subst:sg:voc:m2	nazwa pospolita	rzad.
+> sandwiczy	sandwicz:s2	subst:pl:gen:m2	nazwa pospolita	

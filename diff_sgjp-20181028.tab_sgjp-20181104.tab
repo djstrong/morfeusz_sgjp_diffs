@@ -1,0 +1,416 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.10.28
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.11.04
+233101a233102,233231
+> blendować	blendować	inf:imperf		
+> blendowali	blendować	praet:pl:m1:imperf		
+> blendowali	blendować	praet:pl:m1:ter:imperf		
+> blendowaliby	blendować	cond:pl:m1:ter:imperf		
+> blendowalibyście	blendować	cond:pl:m1:sec:imperf		
+> blendowalibyśmy	blendować	cond:pl:m1:pri:imperf		
+> blendowaliście	blendować	praet:pl:m1:sec:imperf		
+> blendowaliśmy	blendować	praet:pl:m1:pri:imperf		
+> blendowała	blendować	praet:sg:f:imperf		
+> blendowała	blendować	praet:sg:f:ter:imperf		
+> blendowałaby	blendować	cond:sg:f:ter:imperf		
+> blendowałabym	blendować	cond:sg:f:pri:imperf		
+> blendowałabyś	blendować	cond:sg:f:sec:imperf		
+> blendowałam	blendować	praet:sg:f:pri:imperf		
+> blendowałaś	blendować	praet:sg:f:sec:imperf		
+> blendował	blendować	praet:sg:m1.m2.m3:imperf		
+> blendował	blendować	praet:sg:m1.m2.m3:ter:imperf		
+> blendowałby	blendować	cond:sg:m1.m2.m3:ter:imperf		
+> blendowałbym	blendować	cond:sg:m1.m2.m3:pri:imperf		
+> blendowałbyś	blendować	cond:sg:m1.m2.m3:sec:imperf		
+> blendowałem	blendować	praet:sg:m1.m2.m3:pri:imperf		
+> blendowałeś	blendować	praet:sg:m1.m2.m3:sec:imperf		
+> blendowało	blendować	praet:sg:n:imperf		
+> blendowało	blendować	praet:sg:n:ter:imperf		
+> blendowałoby	blendować	cond:sg:n:ter:imperf		
+> blendowałobym	blendować	cond:sg:n:pri:imperf		
+> blendowałobyś	blendować	cond:sg:n:sec:imperf		
+> blendowałom	blendować	praet:sg:n:pri:imperf		
+> blendowałoś	blendować	praet:sg:n:sec:imperf		
+> blendowały	blendować	praet:pl:m2.m3.f.n:imperf		
+> blendowały	blendować	praet:pl:m2.m3.f.n:ter:imperf		
+> blendowałyby	blendować	cond:pl:m2.m3.f.n:ter:imperf		
+> blendowałybyście	blendować	cond:pl:m2.m3.f.n:sec:imperf		
+> blendowałybyśmy	blendować	cond:pl:m2.m3.f.n:pri:imperf		
+> blendowałyście	blendować	praet:pl:m2.m3.f.n:sec:imperf		
+> blendowałyśmy	blendować	praet:pl:m2.m3.f.n:pri:imperf		
+> blendowana	blendować	ppas:sg:nom.voc:f:imperf:aff		
+> blendowaną	blendować	ppas:sg:acc.inst:f:imperf:aff		
+> blendowane	blendować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> blendowane	blendować	ppas:sg:nom.acc.voc:n:imperf:aff		
+> blendowanego	blendować	ppas:sg:acc:m1.m2:imperf:aff		
+> blendowanego	blendować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> blendowanej	blendować	ppas:sg:gen.dat.loc:f:imperf:aff		
+> blendowanemu	blendować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> blendowania	blendować	ger:pl:nom.acc:n:imperf:aff		
+> blendowania	blendować	ger:sg:gen:n:imperf:aff		
+> blendowaniach	blendować	ger:pl:loc:n:imperf:aff		
+> blendowaniami	blendować	ger:pl:inst:n:imperf:aff		
+> blendowani	blendować	ppas:pl:nom.voc:m1:imperf:aff		
+> blendowanie	blendować	ger:sg:nom.acc:n:imperf:aff		
+> blendowaniem	blendować	ger:sg:inst:n:imperf:aff		
+> blendowaniom	blendować	ger:pl:dat:n:imperf:aff		
+> blendowaniu	blendować	ger:sg:dat.loc:n:imperf:aff		
+> blendowano	blendować	imps:imperf		
+> blendowany	blendować	ppas:sg:acc:m3:imperf:aff		
+> blendowany	blendować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> blendowanych	blendować	ppas:pl:acc:m1:imperf:aff		
+> blendowanych	blendować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> blendowanym	blendować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> blendowanym	blendować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> blendowanymi	blendować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> blendowań	blendować	ger:pl:gen:n:imperf:aff		
+> blendują	blendować	fin:pl:ter:imperf		
+> blendująca	blendować	pact:sg:nom.voc:f:imperf:aff		
+> blendującą	blendować	pact:sg:acc.inst:f:imperf:aff		
+> blendując	blendować	pcon:imperf		
+> blendujące	blendować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> blendujące	blendować	pact:sg:nom.acc.voc:n:imperf:aff		
+> blendującego	blendować	pact:sg:acc:m1.m2:imperf:aff		
+> blendującego	blendować	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> blendującej	blendować	pact:sg:gen.dat.loc:f:imperf:aff		
+> blendującemu	blendować	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> blendująco	blendować	pacta		
+> blendujący	blendować	pact:pl:nom.voc:m1:imperf:aff		
+> blendujący	blendować	pact:sg:acc:m3:imperf:aff		
+> blendujący	blendować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> blendujących	blendować	pact:pl:acc:m1:imperf:aff		
+> blendujących	blendować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> blendującym	blendować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> blendującym	blendować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> blendującymi	blendować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> blenduj	blendować	impt:sg:sec:imperf		
+> blendujcie	blendować	impt:pl:sec:imperf		
+> blenduje	blendować	fin:sg:ter:imperf		
+> blendujecie	blendować	fin:pl:sec:imperf		
+> blendujemy	blendować	fin:pl:pri:imperf		
+> blendujesz	blendować	fin:sg:sec:imperf		
+> blenduję	blendować	fin:sg:pri:imperf		
+> blendujmy	blendować	impt:pl:pri:imperf		
+> nieblendowana	blendować	ppas:sg:nom.voc:f:imperf:neg		
+> nieblendowaną	blendować	ppas:sg:acc.inst:f:imperf:neg		
+> nieblendowane	blendować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieblendowane	blendować	ppas:sg:nom.acc.voc:n:imperf:neg		
+> nieblendowanego	blendować	ppas:sg:acc:m1.m2:imperf:neg		
+> nieblendowanego	blendować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieblendowanej	blendować	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieblendowanemu	blendować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieblendowania	blendować	ger:pl:nom.acc:n:imperf:neg		
+> nieblendowania	blendować	ger:sg:gen:n:imperf:neg		
+> nieblendowaniach	blendować	ger:pl:loc:n:imperf:neg		
+> nieblendowaniami	blendować	ger:pl:inst:n:imperf:neg		
+> nieblendowani	blendować	ppas:pl:nom.voc:m1:imperf:neg		
+> nieblendowanie	blendować	ger:sg:nom.acc:n:imperf:neg		
+> nieblendowaniem	blendować	ger:sg:inst:n:imperf:neg		
+> nieblendowaniom	blendować	ger:pl:dat:n:imperf:neg		
+> nieblendowaniu	blendować	ger:sg:dat.loc:n:imperf:neg		
+> nieblendowany	blendować	ppas:sg:acc:m3:imperf:neg		
+> nieblendowany	blendować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieblendowanych	blendować	ppas:pl:acc:m1:imperf:neg		
+> nieblendowanych	blendować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieblendowanym	blendować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieblendowanym	blendować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieblendowanymi	blendować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieblendowań	blendować	ger:pl:gen:n:imperf:neg		
+> nieblendująca	blendować	pact:sg:nom.voc:f:imperf:neg		
+> nieblendującą	blendować	pact:sg:acc.inst:f:imperf:neg		
+> nieblendujące	blendować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieblendujące	blendować	pact:sg:nom.acc.voc:n:imperf:neg		
+> nieblendującego	blendować	pact:sg:acc:m1.m2:imperf:neg		
+> nieblendującego	blendować	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieblendującej	blendować	pact:sg:gen.dat.loc:f:imperf:neg		
+> nieblendującemu	blendować	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieblendujący	blendować	pact:pl:nom.voc:m1:imperf:neg		
+> nieblendujący	blendować	pact:sg:acc:m3:imperf:neg		
+> nieblendujący	blendować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieblendujących	blendować	pact:pl:acc:m1:imperf:neg		
+> nieblendujących	blendować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieblendującym	blendować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieblendującym	blendować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieblendującymi	blendować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+1261910,1261920c1262040,1262050
+< juzach	juz	subst:pl:loc:m3	nazwa pospolita	
+< juzami	juz	subst:pl:inst:m3	nazwa pospolita	
+< juzem	juz	subst:sg:inst:m3	nazwa pospolita	
+< juzie	juz	subst:sg:loc:m3	nazwa pospolita	
+< juzie	juz	subst:sg:voc:m3	nazwa pospolita	
+< juz	juz	subst:sg:nom.acc:m3	nazwa pospolita	
+< juzom	juz	subst:pl:dat:m3	nazwa pospolita	
+< juzowi	juz	subst:sg:dat:m3	nazwa pospolita	
+< juzów	juz	subst:pl:gen:m3	nazwa pospolita	
+< juzu	juz	subst:sg:gen:m3	nazwa pospolita	
+< juzy	juz	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+---
+> juzach	juz	subst:pl:loc:m3	nazwa pospolita	techn.|hist.
+> juzami	juz	subst:pl:inst:m3	nazwa pospolita	techn.|hist.
+> juzem	juz	subst:sg:inst:m3	nazwa pospolita	techn.|hist.
+> juzie	juz	subst:sg:loc:m3	nazwa pospolita	techn.|hist.
+> juzie	juz	subst:sg:voc:m3	nazwa pospolita	techn.|hist.
+> juz	juz	subst:sg:nom.acc:m3	nazwa pospolita	techn.|hist.
+> juzom	juz	subst:pl:dat:m3	nazwa pospolita	techn.|hist.
+> juzowi	juz	subst:sg:dat:m3	nazwa pospolita	techn.|hist.
+> juzów	juz	subst:pl:gen:m3	nazwa pospolita	techn.|hist.
+> juzu	juz	subst:sg:gen:m3	nazwa pospolita	techn.|hist.
+> juzy	juz	subst:pl:nom.acc.voc:m3	nazwa pospolita	techn.|hist.
+1341653a1341784,1341794
+> keksówce	keksówka	subst:sg:dat.loc:f	nazwa pospolita	
+> keksówek	keksówka	subst:pl:gen:f	nazwa pospolita	
+> keksówkach	keksówka	subst:pl:loc:f	nazwa pospolita	
+> keksówka	keksówka	subst:sg:nom:f	nazwa pospolita	
+> keksówkami	keksówka	subst:pl:inst:f	nazwa pospolita	
+> keksówką	keksówka	subst:sg:inst:f	nazwa pospolita	
+> keksówkę	keksówka	subst:sg:acc:f	nazwa pospolita	
+> keksówki	keksówka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> keksówki	keksówka	subst:sg:gen:f	nazwa pospolita	
+> keksówko	keksówka	subst:sg:voc:f	nazwa pospolita	
+> keksówkom	keksówka	subst:pl:dat:f	nazwa pospolita	
+1518848a1518990,1519012
+> kórniczanach	kórniczanin	subst:pl:loc:m1	nazwa pospolita	
+> kórniczanami	kórniczanin	subst:pl:inst:m1	nazwa pospolita	
+> kórniczanie	kórniczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+> kórniczanina	kórniczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+> kórniczaninem	kórniczanin	subst:sg:inst:m1	nazwa pospolita	
+> kórniczaninie	kórniczanin	subst:sg:loc:m1	nazwa pospolita	
+> kórniczaninie	kórniczanin	subst:sg:voc:m1	nazwa pospolita	
+> kórniczanin	kórniczanin	subst:sg:nom:m1	nazwa pospolita	
+> kórniczaninowi	kórniczanin	subst:sg:dat:m1	nazwa pospolita	
+> kórniczan	kórniczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+> kórniczanom	kórniczanin	subst:pl:dat:m1	nazwa pospolita	
+> kórniczany	kórniczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> kórniczance	kórniczanka	subst:sg:dat.loc:f	nazwa pospolita	
+> kórniczanek	kórniczanka	subst:pl:gen:f	nazwa pospolita	
+> kórniczankach	kórniczanka	subst:pl:loc:f	nazwa pospolita	
+> kórniczanka	kórniczanka	subst:sg:nom:f	nazwa pospolita	
+> kórniczankami	kórniczanka	subst:pl:inst:f	nazwa pospolita	
+> kórniczanką	kórniczanka	subst:sg:inst:f	nazwa pospolita	
+> kórniczankę	kórniczanka	subst:sg:acc:f	nazwa pospolita	
+> kórniczanki	kórniczanka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> kórniczanki	kórniczanka	subst:sg:gen:f	nazwa pospolita	
+> kórniczanko	kórniczanka	subst:sg:voc:f	nazwa pospolita	
+> kórniczankom	kórniczanka	subst:pl:dat:f	nazwa pospolita	
+1877956a1878121,1878128
+> migana	migać	ppas:sg:nom.voc:f:imperf:aff		
+> miganą	migać	ppas:sg:acc.inst:f:imperf:aff		
+> miganego	migać	ppas:sg:acc:m1.m2:imperf:aff		
+> miganego	migać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> miganej	migać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> migane	migać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> migane	migać	ppas:sg:nom.acc.voc:n:imperf:aff		
+> miganemu	migać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+1877962a1878135
+> migani	migać	ppas:pl:nom.voc:m1:imperf:aff		
+1877965a1878139,1878145
+> miganych	migać	ppas:pl:acc:m1:imperf:aff		
+> miganych	migać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> migany	migać	ppas:sg:acc:m3:imperf:aff		
+> migany	migać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> miganymi	migać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> miganym	migać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> miganym	migać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+1877983a1878164,1878171
+> niemigana	migać	ppas:sg:nom.voc:f:imperf:neg		
+> niemiganą	migać	ppas:sg:acc.inst:f:imperf:neg		
+> niemiganego	migać	ppas:sg:acc:m1.m2:imperf:neg		
+> niemiganego	migać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> niemiganej	migać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> niemigane	migać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niemigane	migać	ppas:sg:nom.acc.voc:n:imperf:neg		
+> niemiganemu	migać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+1877989a1878178
+> niemigani	migać	ppas:pl:nom.voc:m1:imperf:neg		
+1877991a1878181,1878187
+> niemiganych	migać	ppas:pl:acc:m1:imperf:neg		
+> niemiganych	migać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niemigany	migać	ppas:sg:acc:m3:imperf:neg		
+> niemigany	migać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niemiganymi	migać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niemiganym	migać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niemiganym	migać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+5705384a5705581,5705591
+> tahinach	tahina	subst:pl:loc:f	nazwa pospolita	kulin.
+> tahinami	tahina	subst:pl:inst:f	nazwa pospolita	kulin.
+> tahina	tahina	subst:sg:nom:f	nazwa pospolita	kulin.
+> tahiną	tahina	subst:sg:inst:f	nazwa pospolita	kulin.
+> tahinę	tahina	subst:sg:acc:f	nazwa pospolita	kulin.
+> tahinie	tahina	subst:sg:dat.loc:f	nazwa pospolita	kulin.
+> tahinom	tahina	subst:pl:dat:f	nazwa pospolita	kulin.
+> tahino	tahina	subst:sg:voc:f	nazwa pospolita	kulin.
+> tahin	tahina	subst:pl:gen:f	nazwa pospolita	kulin.
+> tahiny	tahina	subst:pl:nom.acc.voc:f	nazwa pospolita	kulin.
+> tahiny	tahina	subst:sg:gen:f	nazwa pospolita	kulin.
+5770954,5770977c5771161,5771184
+< tragarzach	tragarz	subst:pl:loc:m1	nazwa pospolita	
+< tragarzach	tragarz	subst:pl:loc:m1	nazwa pospolita	rzad.
+< tragarzami	tragarz	subst:pl:inst:m1	nazwa pospolita	
+< tragarzami	tragarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+< tragarza	tragarz	subst:sg:gen.acc:m1	nazwa pospolita	
+< tragarza	tragarz	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
+< tragarzem	tragarz	subst:sg:inst:m1	nazwa pospolita	
+< tragarzem	tragarz	subst:sg:inst:m1	nazwa pospolita	rzad.
+< tragarze	tragarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< tragarze	tragarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
+< tragarze	tragarz	subst:pl:nom.voc:m1	nazwa pospolita	
+< tragarze	tragarz	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+< tragarzom	tragarz	subst:pl:dat:m1	nazwa pospolita	
+< tragarzom	tragarz	subst:pl:dat:m1	nazwa pospolita	rzad.
+< tragarzowi	tragarz	subst:sg:dat:m1	nazwa pospolita	
+< tragarzowi	tragarz	subst:sg:dat:m1	nazwa pospolita	rzad.
+< tragarzów	tragarz	subst:pl:gen.acc:m1	nazwa pospolita	rzad.
+< tragarz	tragarz	subst:sg:nom:m1	nazwa pospolita	
+< tragarz	tragarz	subst:sg:nom:m1	nazwa pospolita	rzad.
+< tragarzu	tragarz	subst:sg:loc:m1	nazwa pospolita	
+< tragarzu	tragarz	subst:sg:loc:m1	nazwa pospolita	rzad.
+< tragarzu	tragarz	subst:sg:voc:m1	nazwa pospolita	
+< tragarzu	tragarz	subst:sg:voc:m1	nazwa pospolita	rzad.
+< tragarzy	tragarz	subst:pl:gen.acc:m1	nazwa pospolita	
+---
+> tragarzach	tragarz:s1	subst:pl:loc:m1	nazwa pospolita	
+> tragarzach	tragarz:s1	subst:pl:loc:m1	nazwa pospolita	rzad.
+> tragarzami	tragarz:s1	subst:pl:inst:m1	nazwa pospolita	
+> tragarzami	tragarz:s1	subst:pl:inst:m1	nazwa pospolita	rzad.
+> tragarza	tragarz:s1	subst:sg:gen.acc:m1	nazwa pospolita	
+> tragarza	tragarz:s1	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
+> tragarzem	tragarz:s1	subst:sg:inst:m1	nazwa pospolita	
+> tragarzem	tragarz:s1	subst:sg:inst:m1	nazwa pospolita	rzad.
+> tragarze	tragarz:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> tragarze	tragarz:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
+> tragarze	tragarz:s1	subst:pl:nom.voc:m1	nazwa pospolita	
+> tragarze	tragarz:s1	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+> tragarzom	tragarz:s1	subst:pl:dat:m1	nazwa pospolita	
+> tragarzom	tragarz:s1	subst:pl:dat:m1	nazwa pospolita	rzad.
+> tragarzowi	tragarz:s1	subst:sg:dat:m1	nazwa pospolita	
+> tragarzowi	tragarz:s1	subst:sg:dat:m1	nazwa pospolita	rzad.
+> tragarzów	tragarz:s1	subst:pl:gen.acc:m1	nazwa pospolita	rzad.
+> tragarz	tragarz:s1	subst:sg:nom:m1	nazwa pospolita	
+> tragarz	tragarz:s1	subst:sg:nom:m1	nazwa pospolita	rzad.
+> tragarzu	tragarz:s1	subst:sg:loc:m1	nazwa pospolita	
+> tragarzu	tragarz:s1	subst:sg:loc:m1	nazwa pospolita	rzad.
+> tragarzu	tragarz:s1	subst:sg:voc:m1	nazwa pospolita	
+> tragarzu	tragarz:s1	subst:sg:voc:m1	nazwa pospolita	rzad.
+> tragarzy	tragarz:s1	subst:pl:gen.acc:m1	nazwa pospolita	
+5770989a5771197,5771218
+> tragarzach	tragarz:s2	subst:pl:loc:m3	nazwa pospolita	archit.|gwar.
+> tragarzach	tragarz:s2	subst:pl:loc:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarzami	tragarz:s2	subst:pl:inst:m3	nazwa pospolita	archit.|gwar.
+> tragarzami	tragarz:s2	subst:pl:inst:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarza	tragarz:s2	subst:sg:gen:m3	nazwa pospolita	archit.|gwar.
+> tragarza	tragarz:s2	subst:sg:gen:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarzem	tragarz:s2	subst:sg:inst:m3	nazwa pospolita	archit.|gwar.
+> tragarzem	tragarz:s2	subst:sg:inst:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarze	tragarz:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	archit.|gwar.
+> tragarze	tragarz:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarzom	tragarz:s2	subst:pl:dat:m3	nazwa pospolita	archit.|gwar.
+> tragarzom	tragarz:s2	subst:pl:dat:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarzowi	tragarz:s2	subst:sg:dat:m3	nazwa pospolita	archit.|gwar.
+> tragarzowi	tragarz:s2	subst:sg:dat:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarzów	tragarz:s2	subst:pl:gen:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarz	tragarz:s2	subst:sg:nom.acc:m3	nazwa pospolita	archit.|gwar.
+> tragarz	tragarz:s2	subst:sg:nom.acc:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarzu	tragarz:s2	subst:sg:loc:m3	nazwa pospolita	archit.|gwar.
+> tragarzu	tragarz:s2	subst:sg:loc:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarzu	tragarz:s2	subst:sg:voc:m3	nazwa pospolita	archit.|gwar.
+> tragarzu	tragarz:s2	subst:sg:voc:m3	nazwa pospolita	archit.|gwar.|rzad.
+> tragarzy	tragarz:s2	subst:pl:gen:m3	nazwa pospolita	archit.|gwar.
+6939523a6939753,6939849
+> niezblendowana	zblendować	ppas:sg:nom.voc:f:perf:neg		
+> niezblendowaną	zblendować	ppas:sg:acc.inst:f:perf:neg		
+> niezblendowanego	zblendować	ppas:sg:acc:m1.m2:perf:neg		
+> niezblendowanego	zblendować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niezblendowanej	zblendować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezblendowanemu	zblendować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niezblendowane	zblendować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niezblendowane	zblendować	ppas:sg:nom.acc.voc:n:perf:neg		
+> niezblendowaniach	zblendować	ger:pl:loc:n:perf:neg		
+> niezblendowaniami	zblendować	ger:pl:inst:n:perf:neg		
+> niezblendowania	zblendować	ger:pl:nom.acc:n:perf:neg		
+> niezblendowania	zblendować	ger:sg:gen:n:perf:neg		
+> niezblendowaniem	zblendować	ger:sg:inst:n:perf:neg		
+> niezblendowanie	zblendować	ger:sg:nom.acc:n:perf:neg		
+> niezblendowaniom	zblendować	ger:pl:dat:n:perf:neg		
+> niezblendowaniu	zblendować	ger:sg:dat.loc:n:perf:neg		
+> niezblendowani	zblendować	ppas:pl:nom.voc:m1:perf:neg		
+> niezblendowanych	zblendować	ppas:pl:acc:m1:perf:neg		
+> niezblendowanych	zblendować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niezblendowanymi	zblendować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niezblendowanym	zblendować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niezblendowanym	zblendować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niezblendowany	zblendować	ppas:sg:acc:m3:perf:neg		
+> niezblendowany	zblendować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezblendowań	zblendować	ger:pl:gen:n:perf:neg		
+> zblendować	zblendować	inf:perf		
+> zblendowalibyście	zblendować	cond:pl:m1:sec:perf		
+> zblendowalibyśmy	zblendować	cond:pl:m1:pri:perf		
+> zblendowaliby	zblendować	cond:pl:m1:ter:perf		
+> zblendowaliście	zblendować	praet:pl:m1:sec:perf		
+> zblendowaliśmy	zblendować	praet:pl:m1:pri:perf		
+> zblendowali	zblendować	praet:pl:m1:perf		
+> zblendowali	zblendować	praet:pl:m1:ter:perf		
+> zblendowałabym	zblendować	cond:sg:f:pri:perf		
+> zblendowałabyś	zblendować	cond:sg:f:sec:perf		
+> zblendowałaby	zblendować	cond:sg:f:ter:perf		
+> zblendowałam	zblendować	praet:sg:f:pri:perf		
+> zblendowałaś	zblendować	praet:sg:f:sec:perf		
+> zblendowała	zblendować	praet:sg:f:perf		
+> zblendowała	zblendować	praet:sg:f:ter:perf		
+> zblendowałbym	zblendować	cond:sg:m1.m2.m3:pri:perf		
+> zblendowałbyś	zblendować	cond:sg:m1.m2.m3:sec:perf		
+> zblendowałby	zblendować	cond:sg:m1.m2.m3:ter:perf		
+> zblendowałem	zblendować	praet:sg:m1.m2.m3:pri:perf		
+> zblendowałeś	zblendować	praet:sg:m1.m2.m3:sec:perf		
+> zblendowałobym	zblendować	cond:sg:n:pri:perf		
+> zblendowałobyś	zblendować	cond:sg:n:sec:perf		
+> zblendowałoby	zblendować	cond:sg:n:ter:perf		
+> zblendowałom	zblendować	praet:sg:n:pri:perf		
+> zblendowałoś	zblendować	praet:sg:n:sec:perf		
+> zblendowało	zblendować	praet:sg:n:perf		
+> zblendowało	zblendować	praet:sg:n:ter:perf		
+> zblendowałybyście	zblendować	cond:pl:m2.m3.f.n:sec:perf		
+> zblendowałybyśmy	zblendować	cond:pl:m2.m3.f.n:pri:perf		
+> zblendowałyby	zblendować	cond:pl:m2.m3.f.n:ter:perf		
+> zblendowałyście	zblendować	praet:pl:m2.m3.f.n:sec:perf		
+> zblendowałyśmy	zblendować	praet:pl:m2.m3.f.n:pri:perf		
+> zblendowały	zblendować	praet:pl:m2.m3.f.n:perf		
+> zblendowały	zblendować	praet:pl:m2.m3.f.n:ter:perf		
+> zblendował	zblendować	praet:sg:m1.m2.m3:perf		
+> zblendował	zblendować	praet:sg:m1.m2.m3:ter:perf		
+> zblendowana	zblendować	ppas:sg:nom.voc:f:perf:aff		
+> zblendowaną	zblendować	ppas:sg:acc.inst:f:perf:aff		
+> zblendowanego	zblendować	ppas:sg:acc:m1.m2:perf:aff		
+> zblendowanego	zblendować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> zblendowanej	zblendować	ppas:sg:gen.dat.loc:f:perf:aff		
+> zblendowanemu	zblendować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> zblendowane	zblendować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> zblendowane	zblendować	ppas:sg:nom.acc.voc:n:perf:aff		
+> zblendowaniach	zblendować	ger:pl:loc:n:perf:aff		
+> zblendowaniami	zblendować	ger:pl:inst:n:perf:aff		
+> zblendowania	zblendować	ger:pl:nom.acc:n:perf:aff		
+> zblendowania	zblendować	ger:sg:gen:n:perf:aff		
+> zblendowaniem	zblendować	ger:sg:inst:n:perf:aff		
+> zblendowanie	zblendować	ger:sg:nom.acc:n:perf:aff		
+> zblendowaniom	zblendować	ger:pl:dat:n:perf:aff		
+> zblendowaniu	zblendować	ger:sg:dat.loc:n:perf:aff		
+> zblendowani	zblendować	ppas:pl:nom.voc:m1:perf:aff		
+> zblendowano	zblendować	imps:perf		
+> zblendowanych	zblendować	ppas:pl:acc:m1:perf:aff		
+> zblendowanych	zblendować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> zblendowanymi	zblendować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> zblendowanym	zblendować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> zblendowanym	zblendować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> zblendowany	zblendować	ppas:sg:acc:m3:perf:aff		
+> zblendowany	zblendować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zblendowań	zblendować	ger:pl:gen:n:perf:aff		
+> zblendowawszy	zblendować	pant:perf		
+> zblendują	zblendować	fin:pl:ter:perf		
+> zblendujcie	zblendować	impt:pl:sec:perf		
+> zblendujecie	zblendować	fin:pl:sec:perf		
+> zblendujemy	zblendować	fin:pl:pri:perf		
+> zblendujesz	zblendować	fin:sg:sec:perf		
+> zblenduje	zblendować	fin:sg:ter:perf		
+> zblenduję	zblendować	fin:sg:pri:perf		
+> zblendujmy	zblendować	impt:pl:pri:perf		
+> zblenduj	zblendować	impt:sg:sec:perf		

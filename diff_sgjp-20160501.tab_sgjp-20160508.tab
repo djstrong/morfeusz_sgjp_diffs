@@ -1,0 +1,120 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.05.01
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.05.08
+121517a121518,121525
+> AWS	AWS	subst:pl:acc:f	nazwa organizacji	
+> AWS	AWS	subst:pl:dat:f	nazwa organizacji	
+> AWS	AWS	subst:pl:gen:f	nazwa organizacji	
+> AWS	AWS	subst:pl:inst:f	nazwa organizacji	
+> AWS	AWS	subst:pl:loc:f	nazwa organizacji	
+> AWS	AWS	subst:pl:nom:f	nazwa organizacji	
+> AWS	AWS	subst:pl:voc:f	nazwa organizacji	
+> AWS	AWS	subst:sg:acc:f	nazwa organizacji	
+121518a121527,121531
+> AWS	AWS	subst:sg:dat:f	nazwa organizacji	
+> AWS	AWS	subst:sg:gen:f	nazwa organizacji	
+> AWS	AWS	subst:sg:inst:f	nazwa organizacji	
+> AWS	AWS	subst:sg:loc:f	nazwa organizacji	
+> AWS	AWS	subst:sg:nom:f	nazwa organizacji	
+121519a121533
+> AWS	AWS	subst:sg:voc:f	nazwa organizacji	
+1677779,1677794c1677793,1677822
+< modyfikatorach	modyfikator	subst:pl:loc:m1	nazwa pospolita	
+< modyfikatorami	modyfikator	subst:pl:inst:m1	nazwa pospolita	
+< modyfikatora	modyfikator	subst:sg:acc:m1	nazwa pospolita	
+< modyfikatora	modyfikator	subst:sg:gen:m1	nazwa pospolita	
+< modyfikatorem	modyfikator	subst:sg:inst:m1	nazwa pospolita	
+< modyfikator	modyfikator	subst:sg:nom:m1	nazwa pospolita	
+< modyfikatorom	modyfikator	subst:pl:dat:m1	nazwa pospolita	
+< modyfikatorowi	modyfikator	subst:sg:dat:m1	nazwa pospolita	
+< modyfikatorów	modyfikator	subst:pl:acc:m1	nazwa pospolita	
+< modyfikatorów	modyfikator	subst:pl:gen:m1	nazwa pospolita	
+< modyfikatory	modyfikator	depr:pl:nom:m2	nazwa pospolita	
+< modyfikatory	modyfikator	depr:pl:voc:m2	nazwa pospolita	
+< modyfikatorze	modyfikator	subst:sg:loc:m1	nazwa pospolita	
+< modyfikatorze	modyfikator	subst:sg:voc:m1	nazwa pospolita	
+< modyfikatorzy	modyfikator	subst:pl:nom:m1	nazwa pospolita	
+< modyfikatorzy	modyfikator	subst:pl:voc:m1	nazwa pospolita	
+---
+> modyfikatorach	modyfikator:s1	subst:pl:loc:m1	nazwa pospolita	
+> modyfikatorami	modyfikator:s1	subst:pl:inst:m1	nazwa pospolita	
+> modyfikatora	modyfikator:s1	subst:sg:acc:m1	nazwa pospolita	
+> modyfikatora	modyfikator:s1	subst:sg:gen:m1	nazwa pospolita	
+> modyfikatorem	modyfikator:s1	subst:sg:inst:m1	nazwa pospolita	
+> modyfikator	modyfikator:s1	subst:sg:nom:m1	nazwa pospolita	
+> modyfikatorom	modyfikator:s1	subst:pl:dat:m1	nazwa pospolita	
+> modyfikatorowi	modyfikator:s1	subst:sg:dat:m1	nazwa pospolita	
+> modyfikatorów	modyfikator:s1	subst:pl:acc:m1	nazwa pospolita	
+> modyfikatorów	modyfikator:s1	subst:pl:gen:m1	nazwa pospolita	
+> modyfikatory	modyfikator:s1	depr:pl:nom:m2	nazwa pospolita	
+> modyfikatory	modyfikator:s1	depr:pl:voc:m2	nazwa pospolita	
+> modyfikatorze	modyfikator:s1	subst:sg:loc:m1	nazwa pospolita	
+> modyfikatorze	modyfikator:s1	subst:sg:voc:m1	nazwa pospolita	
+> modyfikatorzy	modyfikator:s1	subst:pl:nom:m1	nazwa pospolita	
+> modyfikatorzy	modyfikator:s1	subst:pl:voc:m1	nazwa pospolita	
+> modyfikatorach	modyfikator:s2	subst:pl:loc:m3	nazwa pospolita	
+> modyfikatorami	modyfikator:s2	subst:pl:inst:m3	nazwa pospolita	
+> modyfikatora	modyfikator:s2	subst:sg:gen:m3	nazwa pospolita	
+> modyfikatorem	modyfikator:s2	subst:sg:inst:m3	nazwa pospolita	
+> modyfikator	modyfikator:s2	subst:sg:acc:m3	nazwa pospolita	
+> modyfikator	modyfikator:s2	subst:sg:nom:m3	nazwa pospolita	
+> modyfikatorom	modyfikator:s2	subst:pl:dat:m3	nazwa pospolita	
+> modyfikatorowi	modyfikator:s2	subst:sg:dat:m3	nazwa pospolita	
+> modyfikatorów	modyfikator:s2	subst:pl:gen:m3	nazwa pospolita	
+> modyfikatory	modyfikator:s2	subst:pl:acc:m3	nazwa pospolita	
+> modyfikatory	modyfikator:s2	subst:pl:nom:m3	nazwa pospolita	
+> modyfikatory	modyfikator:s2	subst:pl:voc:m3	nazwa pospolita	
+> modyfikatorze	modyfikator:s2	subst:sg:loc:m3	nazwa pospolita	
+> modyfikatorze	modyfikator:s2	subst:sg:voc:m3	nazwa pospolita	
+1682310a1682339,1682352
+> monarchach	monarch	subst:pl:loc:m2	nazwa pospolita	zool.
+> monarchami	monarch	subst:pl:inst:m2	nazwa pospolita	zool.
+> monarcha	monarch	subst:sg:acc:m2	nazwa pospolita	zool.
+> monarcha	monarch	subst:sg:gen:m2	nazwa pospolita	zool.
+> monarchem	monarch	subst:sg:inst:m2	nazwa pospolita	zool.
+> monarch	monarch	subst:sg:nom:m2	nazwa pospolita	zool.
+> monarchom	monarch	subst:pl:dat:m2	nazwa pospolita	zool.
+> monarchowi	monarch	subst:sg:dat:m2	nazwa pospolita	zool.
+> monarchów	monarch	subst:pl:gen:m2	nazwa pospolita	zool.
+> monarchu	monarch	subst:sg:loc:m2	nazwa pospolita	zool.
+> monarchu	monarch	subst:sg:voc:m2	nazwa pospolita	zool.
+> monarchy	monarch	subst:pl:acc:m2	nazwa pospolita	zool.
+> monarchy	monarch	subst:pl:nom:m2	nazwa pospolita	zool.
+> monarchy	monarch	subst:pl:voc:m2	nazwa pospolita	zool.
+4772361a4772404,4772419
+> rozgrywającego	rozgrywający	subst:sg:acc:m1	nazwa pospolita	sport.
+> rozgrywającego	rozgrywający	subst:sg:gen:m1	nazwa pospolita	sport.
+> rozgrywającemu	rozgrywający	subst:sg:dat:m1	nazwa pospolita	sport.
+> rozgrywające	rozgrywający	depr:pl:nom:m2	nazwa pospolita	sport.
+> rozgrywające	rozgrywający	depr:pl:voc:m2	nazwa pospolita	sport.
+> rozgrywających	rozgrywający	subst:pl:acc:m1	nazwa pospolita	sport.
+> rozgrywających	rozgrywający	subst:pl:gen:m1	nazwa pospolita	sport.
+> rozgrywających	rozgrywający	subst:pl:loc:m1	nazwa pospolita	sport.
+> rozgrywającymi	rozgrywający	subst:pl:inst:m1	nazwa pospolita	sport.
+> rozgrywającym	rozgrywający	subst:pl:dat:m1	nazwa pospolita	sport.
+> rozgrywającym	rozgrywający	subst:sg:inst:m1	nazwa pospolita	sport.
+> rozgrywającym	rozgrywający	subst:sg:loc:m1	nazwa pospolita	sport.
+> rozgrywający	rozgrywający	subst:pl:nom:m1	nazwa pospolita	sport.
+> rozgrywający	rozgrywający	subst:pl:voc:m1	nazwa pospolita	sport.
+> rozgrywający	rozgrywający	subst:sg:nom:m1	nazwa pospolita	sport.
+> rozgrywający	rozgrywający	subst:sg:voc:m1	nazwa pospolita	sport.
+5558763a5558822
+> tysiące	tysiące	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		pot.
+5945966a5946026,5946033
+> WOŚP	WOŚP	subst:pl:acc:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:pl:dat:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:pl:gen:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:pl:inst:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:pl:loc:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:pl:nom:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:pl:voc:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:sg:acc:f	nazwa organizacji	
+5945967a5946035,5946039
+> WOŚP	WOŚP	subst:sg:dat:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:sg:gen:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:sg:inst:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:sg:loc:f	nazwa organizacji	
+> WOŚP	WOŚP	subst:sg:nom:f	nazwa organizacji	
+5945968a5946041
+> WOŚP	WOŚP	subst:sg:voc:f	nazwa organizacji	

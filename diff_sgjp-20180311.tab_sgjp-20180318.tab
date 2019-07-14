@@ -1,0 +1,289 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.03.11
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.03.18
+499459a499460,499470
+> Dalmatynce	Dalmatynka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+> Dalmatynek	Dalmatynka	subst:pl:gen:f	nazwa pospolita	etn.
+> Dalmatynkach	Dalmatynka	subst:pl:loc:f	nazwa pospolita	etn.
+> Dalmatynka	Dalmatynka	subst:sg:nom:f	nazwa pospolita	etn.
+> Dalmatynkami	Dalmatynka	subst:pl:inst:f	nazwa pospolita	etn.
+> Dalmatynką	Dalmatynka	subst:sg:inst:f	nazwa pospolita	etn.
+> Dalmatynkę	Dalmatynka	subst:sg:acc:f	nazwa pospolita	etn.
+> Dalmatynki	Dalmatynka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+> Dalmatynki	Dalmatynka	subst:sg:gen:f	nazwa pospolita	etn.
+> Dalmatynko	Dalmatynka	subst:sg:voc:f	nazwa pospolita	etn.
+> Dalmatynkom	Dalmatynka	subst:pl:dat:f	nazwa pospolita	etn.
+499471,499482c499482,499493
+< Dalmatyńczycy	Dalmatyńczyk	subst:pl:nom.voc:m1	nazwa pospolita	
+< Dalmatyńczykach	Dalmatyńczyk	subst:pl:loc:m1	nazwa pospolita	
+< Dalmatyńczyka	Dalmatyńczyk	subst:sg:gen.acc:m1	nazwa pospolita	
+< Dalmatyńczykami	Dalmatyńczyk	subst:pl:inst:m1	nazwa pospolita	
+< Dalmatyńczyk	Dalmatyńczyk	subst:sg:nom:m1	nazwa pospolita	
+< Dalmatyńczyki	Dalmatyńczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< Dalmatyńczykiem	Dalmatyńczyk	subst:sg:inst:m1	nazwa pospolita	
+< Dalmatyńczykom	Dalmatyńczyk	subst:pl:dat:m1	nazwa pospolita	
+< Dalmatyńczykowi	Dalmatyńczyk	subst:sg:dat:m1	nazwa pospolita	
+< Dalmatyńczyków	Dalmatyńczyk	subst:pl:gen.acc:m1	nazwa pospolita	
+< Dalmatyńczyku	Dalmatyńczyk	subst:sg:loc:m1	nazwa pospolita	
+< Dalmatyńczyku	Dalmatyńczyk	subst:sg:voc:m1	nazwa pospolita	
+---
+> Dalmatyńczycy	Dalmatyńczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Dalmatyńczykach	Dalmatyńczyk	subst:pl:loc:m1	nazwa pospolita	etn.
+> Dalmatyńczyka	Dalmatyńczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Dalmatyńczykami	Dalmatyńczyk	subst:pl:inst:m1	nazwa pospolita	etn.
+> Dalmatyńczyk	Dalmatyńczyk	subst:sg:nom:m1	nazwa pospolita	etn.
+> Dalmatyńczyki	Dalmatyńczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+> Dalmatyńczykiem	Dalmatyńczyk	subst:sg:inst:m1	nazwa pospolita	etn.
+> Dalmatyńczykom	Dalmatyńczyk	subst:pl:dat:m1	nazwa pospolita	etn.
+> Dalmatyńczykowi	Dalmatyńczyk	subst:sg:dat:m1	nazwa pospolita	etn.
+> Dalmatyńczyków	Dalmatyńczyk	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Dalmatyńczyku	Dalmatyńczyk	subst:sg:loc:m1	nazwa pospolita	etn.
+> Dalmatyńczyku	Dalmatyńczyk	subst:sg:voc:m1	nazwa pospolita	etn.
+1210333a1210345,1210357
+> Janusach	Janus:s1	subst:pl:loc:m1	imię	mit.
+> Janusa	Janus:s1	subst:sg:gen.acc:m1	imię	mit.
+> Janusami	Janus:s1	subst:pl:inst:m1	imię	mit.
+> Janusem	Janus:s1	subst:sg:inst:m1	imię	mit.
+> Janusie	Janus:s1	subst:sg:loc:m1	imię	mit.
+> Janusie	Janus:s1	subst:sg:voc:m1	imię	mit.
+> Janusi	Janus:s1	subst:pl:nom.voc:m1	imię	mit.
+> Janus	Janus:s1	subst:sg:nom:m1	imię	mit.
+> Janusom	Janus:s1	subst:pl:dat:m1	imię	mit.
+> Janusowie	Janus:s1	subst:pl:nom.voc:m1	imię	mit.
+> Janusowi	Janus:s1	subst:sg:dat:m1	imię	mit.
+> Janusów	Janus:s1	subst:pl:gen.acc:m1	imię	mit.
+> Janusy	Janus:s1	depr:pl:nom.acc.voc:m2	imię	mit.
+1263164,1263176c1263188,1263200
+< kacapach	kacap	subst:pl:loc:m1	nazwa pospolita	przest.
+< kacapa	kacap	subst:sg:gen.acc:m1	nazwa pospolita	przest.
+< kacapami	kacap	subst:pl:inst:m1	nazwa pospolita	przest.
+< kacapem	kacap	subst:sg:inst:m1	nazwa pospolita	przest.
+< kacapie	kacap	subst:sg:loc:m1	nazwa pospolita	przest.
+< kacapie	kacap	subst:sg:voc:m1	nazwa pospolita	przest.
+< kacapi	kacap	subst:pl:nom.voc:m1	nazwa pospolita	przest.
+< kacap	kacap	subst:sg:nom:m1	nazwa pospolita	przest.
+< kacapom	kacap	subst:pl:dat:m1	nazwa pospolita	przest.
+< kacapowie	kacap	subst:pl:nom.voc:m1	nazwa pospolita	przest.
+< kacapowi	kacap	subst:sg:dat:m1	nazwa pospolita	przest.
+< kacapów	kacap	subst:pl:gen.acc:m1	nazwa pospolita	przest.
+< kacapy	kacap	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.
+---
+> kacapach	kacap	subst:pl:loc:m1	nazwa pospolita	pogard.|pot.
+> kacapa	kacap	subst:sg:gen.acc:m1	nazwa pospolita	pogard.|pot.
+> kacapami	kacap	subst:pl:inst:m1	nazwa pospolita	pogard.|pot.
+> kacapem	kacap	subst:sg:inst:m1	nazwa pospolita	pogard.|pot.
+> kacapie	kacap	subst:sg:loc:m1	nazwa pospolita	pogard.|pot.
+> kacapie	kacap	subst:sg:voc:m1	nazwa pospolita	pogard.|pot.
+> kacapi	kacap	subst:pl:nom.voc:m1	nazwa pospolita	pogard.|pot.
+> kacap	kacap	subst:sg:nom:m1	nazwa pospolita	pogard.|pot.
+> kacapom	kacap	subst:pl:dat:m1	nazwa pospolita	pogard.|pot.
+> kacapowie	kacap	subst:pl:nom.voc:m1	nazwa pospolita	pogard.|pot.
+> kacapowi	kacap	subst:sg:dat:m1	nazwa pospolita	pogard.|pot.
+> kacapów	kacap	subst:pl:gen.acc:m1	nazwa pospolita	pogard.|pot.
+> kacapy	kacap	depr:pl:nom.acc.voc:m2	nazwa pospolita	pogard.|pot.
+1307096a1307121,1307155
+> karcinogennościach	karcinogenność	subst:pl:loc:f		med.
+> karcinogennościami	karcinogenność	subst:pl:inst:f		med.
+> karcinogennością	karcinogenność	subst:sg:inst:f		med.
+> karcinogenności	karcinogenność	subst:pl:gen:f		med.
+> karcinogenności	karcinogenność	subst:pl:nom.acc.voc:f		med.
+> karcinogenności	karcinogenność	subst:sg:dat.loc:f		med.
+> karcinogenności	karcinogenność	subst:sg:gen:f		med.
+> karcinogenności	karcinogenność	subst:sg:voc:f		med.
+> karcinogennościom	karcinogenność	subst:pl:dat:f		med.
+> karcinogenność	karcinogenność	subst:sg:acc:f		med.
+> karcinogenność	karcinogenność	subst:sg:nom:f		med.
+> karcinogenna	karcinogenny	adj:sg:nom.voc:f:pos		med.
+> karcinogenną	karcinogenny	adj:sg:acc:f:pos		med.
+> karcinogenną	karcinogenny	adj:sg:inst:f:pos		med.
+> karcinogennego	karcinogenny	adj:sg:acc:m1.m2:pos		med.
+> karcinogennego	karcinogenny	adj:sg:gen:m1.m2.m3.n:pos		med.
+> karcinogennej	karcinogenny	adj:sg:dat:f:pos		med.
+> karcinogennej	karcinogenny	adj:sg:gen:f:pos		med.
+> karcinogennej	karcinogenny	adj:sg:loc:f:pos		med.
+> karcinogenne	karcinogenny	adj:pl:acc:m2.m3.f.n:pos		med.
+> karcinogenne	karcinogenny	adj:pl:nom.voc:m2.m3.f.n:pos		med.
+> karcinogenne	karcinogenny	adj:sg:acc:n:pos		med.
+> karcinogenne	karcinogenny	adj:sg:nom.voc:n:pos		med.
+> karcinogennemu	karcinogenny	adj:sg:dat:m1.m2.m3.n:pos		med.
+> karcinogenni	karcinogenny	adj:pl:nom.voc:m1:pos		med.
+> karcinogenno	karcinogenny	adja		med.
+> karcinogennych	karcinogenny	adj:pl:acc:m1:pos		med.
+> karcinogennych	karcinogenny	adj:pl:gen:m1.m2.m3.f.n:pos		med.
+> karcinogennych	karcinogenny	adj:pl:loc:m1.m2.m3.f.n:pos		med.
+> karcinogenny	karcinogenny	adj:sg:acc:m3:pos		med.
+> karcinogenny	karcinogenny	adj:sg:nom.voc:m1.m2.m3:pos		med.
+> karcinogennymi	karcinogenny	adj:pl:inst:m1.m2.m3.f.n:pos		med.
+> karcinogennym	karcinogenny	adj:pl:dat:m1.m2.m3.f.n:pos		med.
+> karcinogennym	karcinogenny	adj:sg:inst:m1.m2.m3.n:pos		med.
+> karcinogennym	karcinogenny	adj:sg:loc:m1.m2.m3.n:pos		med.
+2510862a2510922,2510955
+> niekarcinogennościach	niekarcinogenność	subst:pl:loc:f		med.
+> niekarcinogennościami	niekarcinogenność	subst:pl:inst:f		med.
+> niekarcinogennością	niekarcinogenność	subst:sg:inst:f		med.
+> niekarcinogenności	niekarcinogenność	subst:pl:gen:f		med.
+> niekarcinogenności	niekarcinogenność	subst:pl:nom.acc.voc:f		med.
+> niekarcinogenności	niekarcinogenność	subst:sg:dat.loc:f		med.
+> niekarcinogenności	niekarcinogenność	subst:sg:gen:f		med.
+> niekarcinogenności	niekarcinogenność	subst:sg:voc:f		med.
+> niekarcinogennościom	niekarcinogenność	subst:pl:dat:f		med.
+> niekarcinogenność	niekarcinogenność	subst:sg:acc:f		med.
+> niekarcinogenność	niekarcinogenność	subst:sg:nom:f		med.
+> niekarcinogenna	niekarcinogenny	adj:sg:nom.voc:f:pos		
+> niekarcinogenną	niekarcinogenny	adj:sg:acc:f:pos		
+> niekarcinogenną	niekarcinogenny	adj:sg:inst:f:pos		
+> niekarcinogennego	niekarcinogenny	adj:sg:acc:m1.m2:pos		
+> niekarcinogennego	niekarcinogenny	adj:sg:gen:m1.m2.m3.n:pos		
+> niekarcinogennej	niekarcinogenny	adj:sg:dat:f:pos		
+> niekarcinogennej	niekarcinogenny	adj:sg:gen:f:pos		
+> niekarcinogennej	niekarcinogenny	adj:sg:loc:f:pos		
+> niekarcinogennemu	niekarcinogenny	adj:sg:dat:m1.m2.m3.n:pos		
+> niekarcinogenne	niekarcinogenny	adj:pl:acc:m2.m3.f.n:pos		
+> niekarcinogenne	niekarcinogenny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niekarcinogenne	niekarcinogenny	adj:sg:acc:n:pos		
+> niekarcinogenne	niekarcinogenny	adj:sg:nom.voc:n:pos		
+> niekarcinogenni	niekarcinogenny	adj:pl:nom.voc:m1:pos		
+> niekarcinogennych	niekarcinogenny	adj:pl:acc:m1:pos		
+> niekarcinogennych	niekarcinogenny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niekarcinogennych	niekarcinogenny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niekarcinogennymi	niekarcinogenny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niekarcinogennym	niekarcinogenny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niekarcinogennym	niekarcinogenny	adj:sg:inst:m1.m2.m3.n:pos		
+> niekarcinogennym	niekarcinogenny	adj:sg:loc:m1.m2.m3.n:pos		
+> niekarcinogenny	niekarcinogenny	adj:sg:acc:m3:pos		
+> niekarcinogenny	niekarcinogenny	adj:sg:nom.voc:m1.m2.m3:pos		
+3328592,3328602c3328685,3328695
+< norwegach	norweg	subst:pl:loc:m2	nazwa pospolita	
+< norwegami	norweg	subst:pl:inst:m2	nazwa pospolita	
+< norwega	norweg	subst:sg:gen.acc:m2	nazwa pospolita	
+< norwegiem	norweg	subst:sg:inst:m2	nazwa pospolita	
+< norwegi	norweg	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+< norweg	norweg	subst:sg:nom:m2	nazwa pospolita	
+< norwegom	norweg	subst:pl:dat:m2	nazwa pospolita	
+< norwegowi	norweg	subst:sg:dat:m2	nazwa pospolita	
+< norwegów	norweg	subst:pl:gen:m2	nazwa pospolita	
+< norwegu	norweg	subst:sg:loc:m2	nazwa pospolita	
+< norwegu	norweg	subst:sg:voc:m2	nazwa pospolita	
+---
+> norwegach	norweg	subst:pl:loc:m2	nazwa pospolita	pot.
+> norwegami	norweg	subst:pl:inst:m2	nazwa pospolita	pot.
+> norwega	norweg	subst:sg:gen.acc:m2	nazwa pospolita	pot.
+> norwegiem	norweg	subst:sg:inst:m2	nazwa pospolita	pot.
+> norwegi	norweg	subst:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+> norweg	norweg	subst:sg:nom:m2	nazwa pospolita	pot.
+> norwegom	norweg	subst:pl:dat:m2	nazwa pospolita	pot.
+> norwegowi	norweg	subst:sg:dat:m2	nazwa pospolita	pot.
+> norwegów	norweg	subst:pl:gen:m2	nazwa pospolita	pot.
+> norwegu	norweg	subst:sg:loc:m2	nazwa pospolita	pot.
+> norwegu	norweg	subst:sg:voc:m2	nazwa pospolita	pot.
+3451628a3451722,3451732
+> oczeretniakach	oczeretniak	subst:pl:loc:m2	nazwa pospolita	
+> oczeretniakami	oczeretniak	subst:pl:inst:m2	nazwa pospolita	
+> oczeretniaka	oczeretniak	subst:sg:gen.acc:m2	nazwa pospolita	
+> oczeretniakiem	oczeretniak	subst:sg:inst:m2	nazwa pospolita	
+> oczeretniaki	oczeretniak	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+> oczeretniak	oczeretniak	subst:sg:nom:m2	nazwa pospolita	
+> oczeretniakom	oczeretniak	subst:pl:dat:m2	nazwa pospolita	
+> oczeretniakowi	oczeretniak	subst:sg:dat:m2	nazwa pospolita	
+> oczeretniaków	oczeretniak	subst:pl:gen:m2	nazwa pospolita	
+> oczeretniaku	oczeretniak	subst:sg:loc:m2	nazwa pospolita	
+> oczeretniaku	oczeretniak	subst:sg:voc:m2	nazwa pospolita	
+5543344a5543449,5543471
+> syberyjczykach	syberyjczyk	subst:pl:loc:m2	nazwa pospolita	pot.
+> syberyjczykami	syberyjczyk	subst:pl:inst:m2	nazwa pospolita	pot.
+> syberyjczyka	syberyjczyk	subst:sg:gen.acc:m2	nazwa pospolita	pot.
+> syberyjczykiem	syberyjczyk	subst:sg:inst:m2	nazwa pospolita	pot.
+> syberyjczyki	syberyjczyk	subst:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+> syberyjczykom	syberyjczyk	subst:pl:dat:m2	nazwa pospolita	pot.
+> syberyjczykowi	syberyjczyk	subst:sg:dat:m2	nazwa pospolita	pot.
+> syberyjczyków	syberyjczyk	subst:pl:gen:m2	nazwa pospolita	pot.
+> syberyjczyk	syberyjczyk	subst:sg:nom:m2	nazwa pospolita	pot.
+> syberyjczyku	syberyjczyk	subst:sg:loc:m2	nazwa pospolita	pot.
+> syberyjczyku	syberyjczyk	subst:sg:voc:m2	nazwa pospolita	pot.
+> Syberyjczycy	Syberyjczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Syberyjczykach	Syberyjczyk	subst:pl:loc:m1	nazwa pospolita	etn.
+> Syberyjczykami	Syberyjczyk	subst:pl:inst:m1	nazwa pospolita	etn.
+> Syberyjczyka	Syberyjczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Syberyjczykiem	Syberyjczyk	subst:sg:inst:m1	nazwa pospolita	etn.
+> Syberyjczyki	Syberyjczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+> Syberyjczykom	Syberyjczyk	subst:pl:dat:m1	nazwa pospolita	etn.
+> Syberyjczykowi	Syberyjczyk	subst:sg:dat:m1	nazwa pospolita	etn.
+> Syberyjczyków	Syberyjczyk	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Syberyjczyk	Syberyjczyk	subst:sg:nom:m1	nazwa pospolita	etn.
+> Syberyjczyku	Syberyjczyk	subst:sg:loc:m1	nazwa pospolita	etn.
+> Syberyjczyku	Syberyjczyk	subst:sg:voc:m1	nazwa pospolita	etn.
+5546198a5546326,5546348
+> syjamczykach	syjamczyk	subst:pl:loc:m2	nazwa pospolita	pot.
+> syjamczykami	syjamczyk	subst:pl:inst:m2	nazwa pospolita	pot.
+> syjamczyka	syjamczyk	subst:sg:gen.acc:m2	nazwa pospolita	pot.
+> syjamczykiem	syjamczyk	subst:sg:inst:m2	nazwa pospolita	pot.
+> syjamczyki	syjamczyk	subst:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+> syjamczykom	syjamczyk	subst:pl:dat:m2	nazwa pospolita	pot.
+> syjamczykowi	syjamczyk	subst:sg:dat:m2	nazwa pospolita	pot.
+> syjamczyków	syjamczyk	subst:pl:gen:m2	nazwa pospolita	pot.
+> syjamczyk	syjamczyk	subst:sg:nom:m2	nazwa pospolita	pot.
+> syjamczyku	syjamczyk	subst:sg:loc:m2	nazwa pospolita	pot.
+> syjamczyku	syjamczyk	subst:sg:voc:m2	nazwa pospolita	pot.
+> Syjamczycy	Syjamczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Syjamczykach	Syjamczyk	subst:pl:loc:m1	nazwa pospolita	etn.
+> Syjamczykami	Syjamczyk	subst:pl:inst:m1	nazwa pospolita	etn.
+> Syjamczyka	Syjamczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Syjamczykiem	Syjamczyk	subst:sg:inst:m1	nazwa pospolita	etn.
+> Syjamczyki	Syjamczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+> Syjamczykom	Syjamczyk	subst:pl:dat:m1	nazwa pospolita	etn.
+> Syjamczykowi	Syjamczyk	subst:sg:dat:m1	nazwa pospolita	etn.
+> Syjamczyków	Syjamczyk	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Syjamczyk	Syjamczyk	subst:sg:nom:m1	nazwa pospolita	etn.
+> Syjamczyku	Syjamczyk	subst:sg:loc:m1	nazwa pospolita	etn.
+> Syjamczyku	Syjamczyk	subst:sg:voc:m1	nazwa pospolita	etn.
+5992822a5992973,5992983
+> urywakach	urywak	subst:pl:loc:m3	nazwa pospolita	geol.
+> urywakami	urywak	subst:pl:inst:m3	nazwa pospolita	geol.
+> urywaka	urywak	subst:sg:gen:m3	nazwa pospolita	geol.
+> urywakiem	urywak	subst:sg:inst:m3	nazwa pospolita	geol.
+> urywaki	urywak	subst:pl:nom.acc.voc:m3	nazwa pospolita	geol.
+> urywakom	urywak	subst:pl:dat:m3	nazwa pospolita	geol.
+> urywakowi	urywak	subst:sg:dat:m3	nazwa pospolita	geol.
+> urywaków	urywak	subst:pl:gen:m3	nazwa pospolita	geol.
+> urywak	urywak	subst:sg:nom.acc:m3	nazwa pospolita	geol.
+> urywaku	urywak	subst:sg:loc:m3	nazwa pospolita	geol.
+> urywaku	urywak	subst:sg:voc:m3	nazwa pospolita	geol.
+6035530a6035692,6035699
+> nieutrafiana	utrafiać	ppas:sg:nom.voc:f:imperf:neg		
+> nieutrafianą	utrafiać	ppas:sg:acc.inst:f:imperf:neg		
+> nieutrafianego	utrafiać	ppas:sg:acc:m1.m2:imperf:neg		
+> nieutrafianego	utrafiać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieutrafianej	utrafiać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieutrafianemu	utrafiać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieutrafiane	utrafiać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieutrafiane	utrafiać	ppas:sg:nom.acc.voc:n:imperf:neg		
+6035537a6035707
+> nieutrafiani	utrafiać	ppas:pl:nom.voc:m1:imperf:neg		
+6035538a6035709,6035715
+> nieutrafianych	utrafiać	ppas:pl:acc:m1:imperf:neg		
+> nieutrafianych	utrafiać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieutrafianymi	utrafiać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieutrafianym	utrafiać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieutrafianym	utrafiać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieutrafiany	utrafiać	ppas:sg:acc:m3:imperf:neg		
+> nieutrafiany	utrafiać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+6035600a6035778,6035785
+> utrafiana	utrafiać	ppas:sg:nom.voc:f:imperf:aff		
+> utrafianą	utrafiać	ppas:sg:acc.inst:f:imperf:aff		
+> utrafianego	utrafiać	ppas:sg:acc:m1.m2:imperf:aff		
+> utrafianego	utrafiać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> utrafianej	utrafiać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> utrafianemu	utrafiać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> utrafiane	utrafiać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> utrafiane	utrafiać	ppas:sg:nom.acc.voc:n:imperf:aff		
+6035607a6035793
+> utrafiani	utrafiać	ppas:pl:nom.voc:m1:imperf:aff		
+6035609a6035796,6035802
+> utrafianych	utrafiać	ppas:pl:acc:m1:imperf:aff		
+> utrafianych	utrafiać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> utrafianymi	utrafiać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> utrafianym	utrafiać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> utrafianym	utrafiać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> utrafiany	utrafiać	ppas:sg:acc:m3:imperf:aff		
+> utrafiany	utrafiać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		

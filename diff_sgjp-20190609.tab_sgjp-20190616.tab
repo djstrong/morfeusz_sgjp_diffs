@@ -1,0 +1,221 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.06.10
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.06.16
+396543,396553d396542
+< chlorach	chlor	subst:pl:loc:m3	nazwa_pospolita	chem.
+< chlorami	chlor	subst:pl:inst:m3	nazwa_pospolita	chem.
+< chlor	chlor	subst:sg:nom.acc:m3	nazwa_pospolita	chem.
+< chlorem	chlor	subst:sg:inst:m3	nazwa_pospolita	chem.
+< chlorom	chlor	subst:pl:dat:m3	nazwa_pospolita	chem.
+< chlorowi	chlor	subst:sg:dat:m3	nazwa_pospolita	chem.
+< chlorów	chlor	subst:pl:gen:m3	nazwa_pospolita	chem.
+< chloru	chlor	subst:sg:gen:m3	nazwa_pospolita	chem.
+< chlory	chlor	subst:pl:nom.acc.voc:m3	nazwa_pospolita	chem.
+< chlorze	chlor	subst:sg:loc:m3	nazwa_pospolita	chem.
+< chlorze	chlor	subst:sg:voc:m3	nazwa_pospolita	chem.
+397804a397794,397817
+> chlorach	chlor:s1	subst:pl:loc:m3	nazwa_pospolita	chem.
+> chlorami	chlor:s1	subst:pl:inst:m3	nazwa_pospolita	chem.
+> chlor	chlor:s1	subst:sg:nom.acc:m3	nazwa_pospolita	chem.
+> chlorem	chlor:s1	subst:sg:inst:m3	nazwa_pospolita	chem.
+> chlorom	chlor:s1	subst:pl:dat:m3	nazwa_pospolita	chem.
+> chlorowi	chlor:s1	subst:sg:dat:m3	nazwa_pospolita	chem.
+> chlorów	chlor:s1	subst:pl:gen:m3	nazwa_pospolita	chem.
+> chloru	chlor:s1	subst:sg:gen:m3	nazwa_pospolita	chem.
+> chlory	chlor:s1	subst:pl:nom.acc.voc:m3	nazwa_pospolita	chem.
+> chlorze	chlor:s1	subst:sg:loc:m3	nazwa_pospolita	chem.
+> chlorze	chlor:s1	subst:sg:voc:m3	nazwa_pospolita	chem.
+> chlorach	chlor:s3	subst:pl:loc:m1	nazwa_pospolita	pot.
+> chlora	chlor:s3	subst:sg:gen.acc:m1	nazwa_pospolita	pot.
+> chlorami	chlor:s3	subst:pl:inst:m1	nazwa_pospolita	pot.
+> chlor	chlor:s3	subst:sg:nom:m1	nazwa_pospolita	pot.
+> chlorem	chlor:s3	subst:sg:inst:m1	nazwa_pospolita	pot.
+> chlorom	chlor:s3	subst:pl:dat:m1	nazwa_pospolita	pot.
+> chlorowi	chlor:s3	subst:sg:dat:m1	nazwa_pospolita	pot.
+> chlorowie	chlor:s3	subst:pl:nom.voc:m1	nazwa_pospolita	pot.
+> chlorów	chlor:s3	subst:pl:gen.acc:m1	nazwa_pospolita	pot.
+> chlory	chlor:s3	depr:pl:nom.acc.voc:m2	nazwa_pospolita	pot.
+> chlorze	chlor:s3	subst:sg:loc:m1	nazwa_pospolita	pot.
+> chlorze	chlor:s3	subst:sg:voc:m1	nazwa_pospolita	pot.
+> chlorzy	chlor:s3	subst:pl:nom.voc:m1	nazwa_pospolita	pot.
+397873a397887,398016
+> chlorząca	chlorzyć	pact:sg:nom.voc:f:imperf:aff		pot.
+> chlorzącą	chlorzyć	pact:sg:acc.inst:f:imperf:aff		pot.
+> chlorząc	chlorzyć	pcon:imperf		pot.
+> chlorzące	chlorzyć	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		pot.
+> chlorzące	chlorzyć	pact:sg:nom.acc.voc:n:imperf:aff		pot.
+> chlorzącego	chlorzyć	pact:sg:acc:m1.m2:imperf:aff		pot.
+> chlorzącego	chlorzyć	pact:sg:gen:m1.m2.m3.n:imperf:aff		pot.
+> chlorzącej	chlorzyć	pact:sg:gen.dat.loc:f:imperf:aff		pot.
+> chlorzącemu	chlorzyć	pact:sg:dat:m1.m2.m3.n:imperf:aff		pot.
+> chlorzą	chlorzyć	fin:pl:ter:imperf		pot.
+> chlorząco	chlorzyć	pacta		pot.
+> chlorzących	chlorzyć	pact:pl:acc:m1:imperf:aff		pot.
+> chlorzących	chlorzyć	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		pot.
+> chlorzący	chlorzyć	pact:pl:nom.voc:m1:imperf:aff		pot.
+> chlorzący	chlorzyć	pact:sg:acc:m3:imperf:aff		pot.
+> chlorzący	chlorzyć	pact:sg:nom.voc:m1.m2.m3:imperf:aff		pot.
+> chlorzącym	chlorzyć	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		pot.
+> chlorzącym	chlorzyć	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		pot.
+> chlorzącymi	chlorzyć	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		pot.
+> chlorzeniach	chlorzyć	ger:pl:loc:n:imperf:aff		pot.
+> chlorzenia	chlorzyć	ger:pl:nom.acc:n:imperf:aff		pot.
+> chlorzenia	chlorzyć	ger:sg:gen:n:imperf:aff		pot.
+> chlorzeniami	chlorzyć	ger:pl:inst:n:imperf:aff		pot.
+> chlorzeni	chlorzyć	ppas:pl:nom.voc:m1:imperf:aff		pot.
+> chlorzenie	chlorzyć	ger:sg:nom.acc:n:imperf:aff		pot.
+> chlorzeniem	chlorzyć	ger:sg:inst:n:imperf:aff		pot.
+> chlorzeniom	chlorzyć	ger:pl:dat:n:imperf:aff		pot.
+> chlorzeniu	chlorzyć	ger:sg:dat.loc:n:imperf:aff		pot.
+> chlorzeń	chlorzyć	ger:pl:gen:n:imperf:aff		pot.
+> chlorzę	chlorzyć	fin:sg:pri:imperf		pot.
+> chlorzona	chlorzyć	ppas:sg:nom.voc:f:imperf:aff		pot.
+> chlorzoną	chlorzyć	ppas:sg:acc.inst:f:imperf:aff		pot.
+> chlorzone	chlorzyć	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		pot.
+> chlorzone	chlorzyć	ppas:sg:nom.acc.voc:n:imperf:aff		pot.
+> chlorzonego	chlorzyć	ppas:sg:acc:m1.m2:imperf:aff		pot.
+> chlorzonego	chlorzyć	ppas:sg:gen:m1.m2.m3.n:imperf:aff		pot.
+> chlorzonej	chlorzyć	ppas:sg:gen.dat.loc:f:imperf:aff		pot.
+> chlorzonemu	chlorzyć	ppas:sg:dat:m1.m2.m3.n:imperf:aff		pot.
+> chlorzono	chlorzyć	imps:imperf		pot.
+> chlorzonych	chlorzyć	ppas:pl:acc:m1:imperf:aff		pot.
+> chlorzonych	chlorzyć	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		pot.
+> chlorzony	chlorzyć	ppas:sg:acc:m3:imperf:aff		pot.
+> chlorzony	chlorzyć	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		pot.
+> chlorzonym	chlorzyć	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		pot.
+> chlorzonym	chlorzyć	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		pot.
+> chlorzonymi	chlorzyć	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		pot.
+> chlorzy	chlorzyć	fin:sg:ter:imperf		pot.
+> chlorzycie	chlorzyć	fin:pl:sec:imperf		pot.
+> chlorzyć	chlorzyć	inf:imperf		pot.
+> chlorzyliby	chlorzyć	cond:pl:m1:ter:imperf		pot.
+> chlorzylibyście	chlorzyć	cond:pl:m1:sec:imperf		pot.
+> chlorzylibyśmy	chlorzyć	cond:pl:m1:pri:imperf		pot.
+> chlorzyli	chlorzyć	praet:pl:m1:imperf		pot.
+> chlorzyli	chlorzyć	praet:pl:m1:ter:imperf		pot.
+> chlorzyliście	chlorzyć	praet:pl:m1:sec:imperf		pot.
+> chlorzyliśmy	chlorzyć	praet:pl:m1:pri:imperf		pot.
+> chlorzyłaby	chlorzyć	cond:sg:f:ter:imperf		pot.
+> chlorzyłabym	chlorzyć	cond:sg:f:pri:imperf		pot.
+> chlorzyłabyś	chlorzyć	cond:sg:f:sec:imperf		pot.
+> chlorzyła	chlorzyć	praet:sg:f:imperf		pot.
+> chlorzyła	chlorzyć	praet:sg:f:ter:imperf		pot.
+> chlorzyłam	chlorzyć	praet:sg:f:pri:imperf		pot.
+> chlorzyłaś	chlorzyć	praet:sg:f:sec:imperf		pot.
+> chlorzyłby	chlorzyć	cond:sg:m1.m2.m3:ter:imperf		pot.
+> chlorzyłbym	chlorzyć	cond:sg:m1.m2.m3:pri:imperf		pot.
+> chlorzyłbyś	chlorzyć	cond:sg:m1.m2.m3:sec:imperf		pot.
+> chlorzył	chlorzyć	praet:sg:m1.m2.m3:imperf		pot.
+> chlorzył	chlorzyć	praet:sg:m1.m2.m3:ter:imperf		pot.
+> chlorzyłem	chlorzyć	praet:sg:m1.m2.m3:pri:imperf		pot.
+> chlorzyłeś	chlorzyć	praet:sg:m1.m2.m3:sec:imperf		pot.
+> chlorzyłoby	chlorzyć	cond:sg:n:ter:imperf		pot.
+> chlorzyłobym	chlorzyć	cond:sg:n:pri:imperf		pot.
+> chlorzyłobyś	chlorzyć	cond:sg:n:sec:imperf		pot.
+> chlorzyło	chlorzyć	praet:sg:n:imperf		pot.
+> chlorzyło	chlorzyć	praet:sg:n:ter:imperf		pot.
+> chlorzyłom	chlorzyć	praet:sg:n:pri:imperf		pot.
+> chlorzyłoś	chlorzyć	praet:sg:n:sec:imperf		pot.
+> chlorzyłyby	chlorzyć	cond:pl:m2.m3.f.n:ter:imperf		pot.
+> chlorzyłybyście	chlorzyć	cond:pl:m2.m3.f.n:sec:imperf		pot.
+> chlorzyłybyśmy	chlorzyć	cond:pl:m2.m3.f.n:pri:imperf		pot.
+> chlorzyły	chlorzyć	praet:pl:m2.m3.f.n:imperf		pot.
+> chlorzyły	chlorzyć	praet:pl:m2.m3.f.n:ter:imperf		pot.
+> chlorzyłyście	chlorzyć	praet:pl:m2.m3.f.n:sec:imperf		pot.
+> chlorzyłyśmy	chlorzyć	praet:pl:m2.m3.f.n:pri:imperf		pot.
+> chlorzymy	chlorzyć	fin:pl:pri:imperf		pot.
+> chlorzysz	chlorzyć	fin:sg:sec:imperf		pot.
+> chlórz	chlorzyć	impt:sg:sec:imperf		pot.
+> chlórzcie	chlorzyć	impt:pl:sec:imperf		pot.
+> chlórzmy	chlorzyć	impt:pl:pri:imperf		pot.
+> niechlorząca	chlorzyć	pact:sg:nom.voc:f:imperf:neg		pot.
+> niechlorzącą	chlorzyć	pact:sg:acc.inst:f:imperf:neg		pot.
+> niechlorzące	chlorzyć	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+> niechlorzące	chlorzyć	pact:sg:nom.acc.voc:n:imperf:neg		pot.
+> niechlorzącego	chlorzyć	pact:sg:acc:m1.m2:imperf:neg		pot.
+> niechlorzącego	chlorzyć	pact:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+> niechlorzącej	chlorzyć	pact:sg:gen.dat.loc:f:imperf:neg		pot.
+> niechlorzącemu	chlorzyć	pact:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+> niechlorzących	chlorzyć	pact:pl:acc:m1:imperf:neg		pot.
+> niechlorzących	chlorzyć	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+> niechlorzący	chlorzyć	pact:pl:nom.voc:m1:imperf:neg		pot.
+> niechlorzący	chlorzyć	pact:sg:acc:m3:imperf:neg		pot.
+> niechlorzący	chlorzyć	pact:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+> niechlorzącym	chlorzyć	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+> niechlorzącym	chlorzyć	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
+> niechlorzącymi	chlorzyć	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
+> niechlorzeniach	chlorzyć	ger:pl:loc:n:imperf:neg		pot.
+> niechlorzenia	chlorzyć	ger:pl:nom.acc:n:imperf:neg		pot.
+> niechlorzenia	chlorzyć	ger:sg:gen:n:imperf:neg		pot.
+> niechlorzeniami	chlorzyć	ger:pl:inst:n:imperf:neg		pot.
+> niechlorzeni	chlorzyć	ppas:pl:nom.voc:m1:imperf:neg		pot.
+> niechlorzenie	chlorzyć	ger:sg:nom.acc:n:imperf:neg		pot.
+> niechlorzeniem	chlorzyć	ger:sg:inst:n:imperf:neg		pot.
+> niechlorzeniom	chlorzyć	ger:pl:dat:n:imperf:neg		pot.
+> niechlorzeniu	chlorzyć	ger:sg:dat.loc:n:imperf:neg		pot.
+> niechlorzeń	chlorzyć	ger:pl:gen:n:imperf:neg		pot.
+> niechlorzona	chlorzyć	ppas:sg:nom.voc:f:imperf:neg		pot.
+> niechlorzoną	chlorzyć	ppas:sg:acc.inst:f:imperf:neg		pot.
+> niechlorzone	chlorzyć	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+> niechlorzone	chlorzyć	ppas:sg:nom.acc.voc:n:imperf:neg		pot.
+> niechlorzonego	chlorzyć	ppas:sg:acc:m1.m2:imperf:neg		pot.
+> niechlorzonego	chlorzyć	ppas:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+> niechlorzonej	chlorzyć	ppas:sg:gen.dat.loc:f:imperf:neg		pot.
+> niechlorzonemu	chlorzyć	ppas:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+> niechlorzonych	chlorzyć	ppas:pl:acc:m1:imperf:neg		pot.
+> niechlorzonych	chlorzyć	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+> niechlorzony	chlorzyć	ppas:sg:acc:m3:imperf:neg		pot.
+> niechlorzony	chlorzyć	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+> niechlorzonym	chlorzyć	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+> niechlorzonym	chlorzyć	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
+> niechlorzonymi	chlorzyć	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
+1648541,1648551c1648684,1648705
+< krętek	krętek	subst:sg:nom:m2	nazwa_pospolita	
+< krętkach	krętek	subst:pl:loc:m2	nazwa_pospolita	
+< krętka	krętek	subst:sg:gen.acc:m2	nazwa_pospolita	
+< krętkami	krętek	subst:pl:inst:m2	nazwa_pospolita	
+< krętkiem	krętek	subst:sg:inst:m2	nazwa_pospolita	
+< krętki	krętek	subst:pl:nom.acc.voc:m2	nazwa_pospolita	
+< krętkom	krętek	subst:pl:dat:m2	nazwa_pospolita	
+< krętkowi	krętek	subst:sg:dat:m2	nazwa_pospolita	
+< krętków	krętek	subst:pl:gen:m2	nazwa_pospolita	
+< krętku	krętek	subst:sg:loc:m2	nazwa_pospolita	
+< krętku	krętek	subst:sg:voc:m2	nazwa_pospolita	
+---
+> krętek	krętek	subst:sg:nom.acc:m3	nazwa_pospolita	biol.
+> krętek	krętek	subst:sg:nom:m2	nazwa_pospolita	biol.
+> krętkach	krętek	subst:pl:loc:m2	nazwa_pospolita	biol.
+> krętkach	krętek	subst:pl:loc:m3	nazwa_pospolita	biol.
+> krętka	krętek	subst:sg:gen.acc:m2	nazwa_pospolita	biol.
+> krętka	krętek	subst:sg:gen:m3	nazwa_pospolita	biol.
+> krętkami	krętek	subst:pl:inst:m2	nazwa_pospolita	biol.
+> krętkami	krętek	subst:pl:inst:m3	nazwa_pospolita	biol.
+> krętkiem	krętek	subst:sg:inst:m2	nazwa_pospolita	biol.
+> krętkiem	krętek	subst:sg:inst:m3	nazwa_pospolita	biol.
+> krętki	krętek	subst:pl:nom.acc.voc:m2	nazwa_pospolita	biol.
+> krętki	krętek	subst:pl:nom.acc.voc:m3	nazwa_pospolita	biol.
+> krętkom	krętek	subst:pl:dat:m2	nazwa_pospolita	biol.
+> krętkom	krętek	subst:pl:dat:m3	nazwa_pospolita	biol.
+> krętkowi	krętek	subst:sg:dat:m2	nazwa_pospolita	biol.
+> krętkowi	krętek	subst:sg:dat:m3	nazwa_pospolita	biol.
+> krętków	krętek	subst:pl:gen:m2	nazwa_pospolita	biol.
+> krętków	krętek	subst:pl:gen:m3	nazwa_pospolita	biol.
+> krętku	krętek	subst:sg:loc:m2	nazwa_pospolita	biol.
+> krętku	krętek	subst:sg:loc:m3	nazwa_pospolita	biol.
+> krętku	krętek	subst:sg:voc:m2	nazwa_pospolita	biol.
+> krętku	krętek	subst:sg:voc:m3	nazwa_pospolita	biol.
+1690133a1690288
+> KTG	KTG	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_pospolita	
+6301971a6302127,6302137
+> uszczęśliwiaczce	uszczęśliwiaczka	subst:sg:dat.loc:f	nazwa_pospolita	
+> uszczęśliwiaczek	uszczęśliwiaczka	subst:pl:gen:f	nazwa_pospolita	
+> uszczęśliwiaczkach	uszczęśliwiaczka	subst:pl:loc:f	nazwa_pospolita	
+> uszczęśliwiaczkami	uszczęśliwiaczka	subst:pl:inst:f	nazwa_pospolita	
+> uszczęśliwiaczka	uszczęśliwiaczka	subst:sg:nom:f	nazwa_pospolita	
+> uszczęśliwiaczką	uszczęśliwiaczka	subst:sg:inst:f	nazwa_pospolita	
+> uszczęśliwiaczkę	uszczęśliwiaczka	subst:sg:acc:f	nazwa_pospolita	
+> uszczęśliwiaczki	uszczęśliwiaczka	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> uszczęśliwiaczki	uszczęśliwiaczka	subst:sg:gen:f	nazwa_pospolita	
+> uszczęśliwiaczkom	uszczęśliwiaczka	subst:pl:dat:f	nazwa_pospolita	
+> uszczęśliwiaczko	uszczęśliwiaczka	subst:sg:voc:f	nazwa_pospolita	

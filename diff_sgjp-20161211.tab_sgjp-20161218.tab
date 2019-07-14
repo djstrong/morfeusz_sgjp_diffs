@@ -1,0 +1,462 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.12.11
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.12.18
+62749,62790c62749,62776
+< angora	angora:s1	subst:sg:nom:f	nazwa pospolita	
+< angorach	angora:s1	subst:pl:loc:f	nazwa pospolita	
+< angorami	angora:s1	subst:pl:inst:f	nazwa pospolita	
+< angor	angora:s1	subst:pl:gen:f	nazwa pospolita	
+< angorą	angora:s1	subst:sg:inst:f	nazwa pospolita	
+< angorę	angora:s1	subst:sg:acc:f	nazwa pospolita	
+< angoro	angora:s1	subst:sg:voc:f	nazwa pospolita	
+< angorom	angora:s1	subst:pl:dat:f	nazwa pospolita	
+< angory	angora:s1	subst:pl:acc:f	nazwa pospolita	
+< angory	angora:s1	subst:pl:nom:f	nazwa pospolita	
+< angory	angora:s1	subst:pl:voc:f	nazwa pospolita	
+< angory	angora:s1	subst:sg:gen:f	nazwa pospolita	
+< angorze	angora:s1	subst:sg:dat:f	nazwa pospolita	
+< angorze	angora:s1	subst:sg:loc:f	nazwa pospolita	
+< angora	angora:s2	subst:sg:nom:f	nazwa pospolita	
+< angora	angora:s2	subst:sg:nom:m2	nazwa pospolita	
+< angorach	angora:s2	subst:pl:loc:f	nazwa pospolita	
+< angorach	angora:s2	subst:pl:loc:m2	nazwa pospolita	
+< angorami	angora:s2	subst:pl:inst:f	nazwa pospolita	
+< angorami	angora:s2	subst:pl:inst:m2	nazwa pospolita	
+< angor	angora:s2	subst:pl:gen:f	nazwa pospolita	
+< angorą	angora:s2	subst:sg:inst:f	nazwa pospolita	
+< angorą	angora:s2	subst:sg:inst:m2	nazwa pospolita	
+< angorę	angora:s2	subst:sg:acc:f	nazwa pospolita	
+< angorę	angora:s2	subst:sg:acc:m2	nazwa pospolita	
+< angoro	angora:s2	subst:sg:voc:f	nazwa pospolita	
+< angoro	angora:s2	subst:sg:voc:m2	nazwa pospolita	
+< angorom	angora:s2	subst:pl:dat:f	nazwa pospolita	
+< angorom	angora:s2	subst:pl:dat:m2	nazwa pospolita	
+< angorów	angora:s2	subst:pl:gen:m2	nazwa pospolita	
+< angory	angora:s2	subst:pl:acc:f	nazwa pospolita	
+< angory	angora:s2	subst:pl:acc:m2	nazwa pospolita	
+< angory	angora:s2	subst:pl:nom:f	nazwa pospolita	
+< angory	angora:s2	subst:pl:nom:m2	nazwa pospolita	
+< angory	angora:s2	subst:pl:voc:f	nazwa pospolita	
+< angory	angora:s2	subst:pl:voc:m2	nazwa pospolita	
+< angory	angora:s2	subst:sg:gen:f	nazwa pospolita	
+< angory	angora:s2	subst:sg:gen:m2	nazwa pospolita	
+< angorze	angora:s2	subst:sg:dat:f	nazwa pospolita	
+< angorze	angora:s2	subst:sg:dat:m2	nazwa pospolita	
+< angorze	angora:s2	subst:sg:loc:f	nazwa pospolita	
+< angorze	angora:s2	subst:sg:loc:m2	nazwa pospolita	
+---
+> angora	angora	subst:sg:nom:f	nazwa pospolita	
+> angora	angora	subst:sg:nom:m2	nazwa pospolita	
+> angorach	angora	subst:pl:loc:f	nazwa pospolita	
+> angorach	angora	subst:pl:loc:m2	nazwa pospolita	
+> angorami	angora	subst:pl:inst:f	nazwa pospolita	
+> angorami	angora	subst:pl:inst:m2	nazwa pospolita	
+> angor	angora	subst:pl:gen:f	nazwa pospolita	
+> angorą	angora	subst:sg:inst:f	nazwa pospolita	
+> angorą	angora	subst:sg:inst:m2	nazwa pospolita	
+> angorę	angora	subst:sg:acc:f	nazwa pospolita	
+> angorę	angora	subst:sg:acc:m2	nazwa pospolita	
+> angoro	angora	subst:sg:voc:f	nazwa pospolita	
+> angoro	angora	subst:sg:voc:m2	nazwa pospolita	
+> angorom	angora	subst:pl:dat:f	nazwa pospolita	
+> angorom	angora	subst:pl:dat:m2	nazwa pospolita	
+> angorów	angora	subst:pl:gen:m2	nazwa pospolita	
+> angory	angora	subst:pl:acc:f	nazwa pospolita	
+> angory	angora	subst:pl:acc:m2	nazwa pospolita	
+> angory	angora	subst:pl:nom:f	nazwa pospolita	
+> angory	angora	subst:pl:nom:m2	nazwa pospolita	
+> angory	angora	subst:pl:voc:f	nazwa pospolita	
+> angory	angora	subst:pl:voc:m2	nazwa pospolita	
+> angory	angora	subst:sg:gen:f	nazwa pospolita	
+> angory	angora	subst:sg:gen:m2	nazwa pospolita	
+> angorze	angora	subst:sg:dat:f	nazwa pospolita	
+> angorze	angora	subst:sg:dat:m2	nazwa pospolita	
+> angorze	angora	subst:sg:loc:f	nazwa pospolita	
+> angorze	angora	subst:sg:loc:m2	nazwa pospolita	
+339854a339841,339856
+> chłopach	chłop	subst:pl:loc:m1	nazwa pospolita	
+> chłopa	chłop	subst:sg:acc:m1	nazwa pospolita	
+> chłopa	chłop	subst:sg:gen:m1	nazwa pospolita	
+> chłopami	chłop	subst:pl:inst:m1	nazwa pospolita	
+> chłop	chłop	subst:sg:nom:m1	nazwa pospolita	
+> chłopem	chłop	subst:sg:inst:m1	nazwa pospolita	
+> chłopi	chłop	subst:pl:nom:m1	nazwa pospolita	
+> chłopi	chłop	subst:pl:voc:m1	nazwa pospolita	
+> chłopie	chłop	subst:sg:loc:m1	nazwa pospolita	
+> chłopie	chłop	subst:sg:voc:m1	nazwa pospolita	
+> chłopom	chłop	subst:pl:dat:m1	nazwa pospolita	
+> chłopów	chłop	subst:pl:acc:m1	nazwa pospolita	
+> chłopów	chłop	subst:pl:gen:m1	nazwa pospolita	
+> chłopu	chłop	subst:sg:dat:m1	nazwa pospolita	
+> chłopy	chłop	depr:pl:nom:m2	nazwa pospolita	
+> chłopy	chłop	depr:pl:voc:m2	nazwa pospolita	
+340899,340930d340900
+< chłopach	chłop:s1	subst:pl:loc:m1	nazwa pospolita	
+< chłopa	chłop:s1	subst:sg:acc:m1	nazwa pospolita	
+< chłopa	chłop:s1	subst:sg:gen:m1	nazwa pospolita	
+< chłopami	chłop:s1	subst:pl:inst:m1	nazwa pospolita	
+< chłop	chłop:s1	subst:sg:nom:m1	nazwa pospolita	
+< chłopem	chłop:s1	subst:sg:inst:m1	nazwa pospolita	
+< chłopi	chłop:s1	subst:pl:nom:m1	nazwa pospolita	
+< chłopi	chłop:s1	subst:pl:voc:m1	nazwa pospolita	
+< chłopie	chłop:s1	subst:sg:loc:m1	nazwa pospolita	
+< chłopie	chłop:s1	subst:sg:voc:m1	nazwa pospolita	
+< chłopom	chłop:s1	subst:pl:dat:m1	nazwa pospolita	
+< chłopów	chłop:s1	subst:pl:acc:m1	nazwa pospolita	
+< chłopów	chłop:s1	subst:pl:gen:m1	nazwa pospolita	
+< chłopu	chłop:s1	subst:sg:dat:m1	nazwa pospolita	
+< chłopy	chłop:s1	depr:pl:nom:m2	nazwa pospolita	
+< chłopy	chłop:s1	depr:pl:voc:m2	nazwa pospolita	
+< chłopach	chłop:s2	subst:pl:loc:m1	nazwa pospolita	
+< chłopa	chłop:s2	subst:sg:acc:m1	nazwa pospolita	
+< chłopa	chłop:s2	subst:sg:gen:m1	nazwa pospolita	
+< chłopami	chłop:s2	subst:pl:inst:m1	nazwa pospolita	
+< chłop	chłop:s2	subst:sg:nom:m1	nazwa pospolita	
+< chłopem	chłop:s2	subst:sg:inst:m1	nazwa pospolita	
+< chłopi	chłop:s2	subst:pl:nom:m1	nazwa pospolita	
+< chłopi	chłop:s2	subst:pl:voc:m1	nazwa pospolita	
+< chłopie	chłop:s2	subst:sg:loc:m1	nazwa pospolita	
+< chłopie	chłop:s2	subst:sg:voc:m1	nazwa pospolita	
+< chłopom	chłop:s2	subst:pl:dat:m1	nazwa pospolita	
+< chłopów	chłop:s2	subst:pl:acc:m1	nazwa pospolita	
+< chłopów	chłop:s2	subst:pl:gen:m1	nazwa pospolita	
+< chłopu	chłop:s2	subst:sg:dat:m1	nazwa pospolita	
+< chłopy	chłop:s2	depr:pl:nom:m2	nazwa pospolita	
+< chłopy	chłop:s2	depr:pl:voc:m2	nazwa pospolita	
+3652420a3652391,3652406
+> panach	pan	subst:pl:loc:m1	nazwa pospolita	
+> panami	pan	subst:pl:inst:m1	nazwa pospolita	
+> pana	pan	subst:sg:acc:m1	nazwa pospolita	
+> pana	pan	subst:sg:gen:m1	nazwa pospolita	
+> panem	pan	subst:sg:inst:m1	nazwa pospolita	
+> panie	pan	subst:sg:voc:m1	nazwa pospolita	
+> panom	pan	subst:pl:dat:m1	nazwa pospolita	
+> panowie	pan	subst:pl:nom:m1	nazwa pospolita	
+> panowie	pan	subst:pl:voc:m1	nazwa pospolita	
+> panów	pan	subst:pl:acc:m1	nazwa pospolita	
+> panów	pan	subst:pl:gen:m1	nazwa pospolita	
+> pan	pan	subst:sg:nom:m1	nazwa pospolita	
+> panu	pan	subst:sg:dat:m1	nazwa pospolita	
+> panu	pan	subst:sg:loc:m1	nazwa pospolita	
+> pany	pan	depr:pl:nom:m2	nazwa pospolita	
+> pany	pan	depr:pl:voc:m2	nazwa pospolita	
+3654235a3654222,3654235
+> paniach	pani	subst:pl:loc:f	nazwa pospolita	
+> paniami	pani	subst:pl:inst:f	nazwa pospolita	
+> panią	pani	subst:sg:acc:f	nazwa pospolita	
+> panią	pani	subst:sg:inst:f	nazwa pospolita	
+> panie	pani	subst:pl:acc:f	nazwa pospolita	
+> panie	pani	subst:pl:nom:f	nazwa pospolita	
+> panie	pani	subst:pl:voc:f	nazwa pospolita	
+> paniom	pani	subst:pl:dat:f	nazwa pospolita	
+> pani	pani	subst:sg:dat:f	nazwa pospolita	
+> pani	pani	subst:sg:gen:f	nazwa pospolita	
+> pani	pani	subst:sg:loc:f	nazwa pospolita	
+> pani	pani	subst:sg:nom:f	nazwa pospolita	
+> pani	pani	subst:sg:voc:f	nazwa pospolita	
+> pań	pani	subst:pl:gen:f	nazwa pospolita	
+3655248,3655275d3655247
+< paniach	pani:s1	subst:pl:loc:f	nazwa pospolita	
+< paniami	pani:s1	subst:pl:inst:f	nazwa pospolita	
+< panią	pani:s1	subst:sg:acc:f	nazwa pospolita	
+< panią	pani:s1	subst:sg:inst:f	nazwa pospolita	
+< panie	pani:s1	subst:pl:acc:f	nazwa pospolita	
+< panie	pani:s1	subst:pl:nom:f	nazwa pospolita	
+< panie	pani:s1	subst:pl:voc:f	nazwa pospolita	
+< paniom	pani:s1	subst:pl:dat:f	nazwa pospolita	
+< pani	pani:s1	subst:sg:dat:f	nazwa pospolita	
+< pani	pani:s1	subst:sg:gen:f	nazwa pospolita	
+< pani	pani:s1	subst:sg:loc:f	nazwa pospolita	
+< pani	pani:s1	subst:sg:nom:f	nazwa pospolita	
+< pani	pani:s1	subst:sg:voc:f	nazwa pospolita	
+< pań	pani:s1	subst:pl:gen:f	nazwa pospolita	
+< paniach	pani:s2	subst:pl:loc:f	nazwa pospolita	
+< paniami	pani:s2	subst:pl:inst:f	nazwa pospolita	
+< panią	pani:s2	subst:sg:acc:f	nazwa pospolita	
+< panią	pani:s2	subst:sg:inst:f	nazwa pospolita	
+< panie	pani:s2	subst:pl:acc:f	nazwa pospolita	
+< panie	pani:s2	subst:pl:nom:f	nazwa pospolita	
+< panie	pani:s2	subst:pl:voc:f	nazwa pospolita	
+< paniom	pani:s2	subst:pl:dat:f	nazwa pospolita	
+< pani	pani:s2	subst:sg:dat:f	nazwa pospolita	
+< pani	pani:s2	subst:sg:gen:f	nazwa pospolita	
+< pani	pani:s2	subst:sg:loc:f	nazwa pospolita	
+< pani	pani:s2	subst:sg:nom:f	nazwa pospolita	
+< pani	pani:s2	subst:sg:voc:f	nazwa pospolita	
+< pań	pani:s2	subst:pl:gen:f	nazwa pospolita	
+3656534,3656565d3656505
+< panach	pan:s1	subst:pl:loc:m1	nazwa pospolita	
+< panami	pan:s1	subst:pl:inst:m1	nazwa pospolita	
+< pana	pan:s1	subst:sg:acc:m1	nazwa pospolita	
+< pana	pan:s1	subst:sg:gen:m1	nazwa pospolita	
+< panem	pan:s1	subst:sg:inst:m1	nazwa pospolita	
+< panie	pan:s1	subst:sg:voc:m1	nazwa pospolita	
+< panom	pan:s1	subst:pl:dat:m1	nazwa pospolita	
+< panowie	pan:s1	subst:pl:nom:m1	nazwa pospolita	
+< panowie	pan:s1	subst:pl:voc:m1	nazwa pospolita	
+< panów	pan:s1	subst:pl:acc:m1	nazwa pospolita	
+< panów	pan:s1	subst:pl:gen:m1	nazwa pospolita	
+< pan	pan:s1	subst:sg:nom:m1	nazwa pospolita	
+< panu	pan:s1	subst:sg:dat:m1	nazwa pospolita	
+< panu	pan:s1	subst:sg:loc:m1	nazwa pospolita	
+< pany	pan:s1	depr:pl:nom:m2	nazwa pospolita	
+< pany	pan:s1	depr:pl:voc:m2	nazwa pospolita	
+< panach	pan:s2	subst:pl:loc:m1	nazwa pospolita	
+< panami	pan:s2	subst:pl:inst:m1	nazwa pospolita	
+< pana	pan:s2	subst:sg:acc:m1	nazwa pospolita	
+< pana	pan:s2	subst:sg:gen:m1	nazwa pospolita	
+< panem	pan:s2	subst:sg:inst:m1	nazwa pospolita	
+< panie	pan:s2	subst:sg:voc:m1	nazwa pospolita	
+< panom	pan:s2	subst:pl:dat:m1	nazwa pospolita	
+< panowie	pan:s2	subst:pl:nom:m1	nazwa pospolita	
+< panowie	pan:s2	subst:pl:voc:m1	nazwa pospolita	
+< panów	pan:s2	subst:pl:acc:m1	nazwa pospolita	
+< panów	pan:s2	subst:pl:gen:m1	nazwa pospolita	
+< pan	pan:s2	subst:sg:nom:m1	nazwa pospolita	
+< panu	pan:s2	subst:sg:dat:m1	nazwa pospolita	
+< panu	pan:s2	subst:sg:loc:m1	nazwa pospolita	
+< pany	pan:s2	depr:pl:nom:m2	nazwa pospolita	
+< pany	pan:s2	depr:pl:voc:m2	nazwa pospolita	
+3657962,3657968d3657901
+< państwa	państwo:s3	subst:pl:acc:p1	nazwa pospolita	
+< państwa	państwo:s3	subst:pl:gen:p1	nazwa pospolita	
+< państwem	państwo:s3	subst:pl:inst:p1	nazwa pospolita	
+< państwo	państwo:s3	subst:pl:nom:p1	nazwa pospolita	
+< państwo	państwo:s3	subst:pl:voc:p1	nazwa pospolita	
+< państwu	państwo:s3	subst:pl:dat:p1	nazwa pospolita	
+< państwu	państwo:s3	subst:pl:loc:p1	nazwa pospolita	
+3806217a3806151,3806164
+> pociągach	pociąg	subst:pl:loc:m3	nazwa pospolita	
+> pociągami	pociąg	subst:pl:inst:m3	nazwa pospolita	
+> pociągiem	pociąg	subst:sg:inst:m3	nazwa pospolita	
+> pociągi	pociąg	subst:pl:acc:m3	nazwa pospolita	
+> pociągi	pociąg	subst:pl:nom:m3	nazwa pospolita	
+> pociągi	pociąg	subst:pl:voc:m3	nazwa pospolita	
+> pociągom	pociąg	subst:pl:dat:m3	nazwa pospolita	
+> pociągowi	pociąg	subst:sg:dat:m3	nazwa pospolita	
+> pociągów	pociąg	subst:pl:gen:m3	nazwa pospolita	
+> pociąg	pociąg	subst:sg:acc:m3	nazwa pospolita	
+> pociąg	pociąg	subst:sg:nom:m3	nazwa pospolita	
+> pociągu	pociąg	subst:sg:gen:m3	nazwa pospolita	
+> pociągu	pociąg	subst:sg:loc:m3	nazwa pospolita	
+> pociągu	pociąg	subst:sg:voc:m3	nazwa pospolita	
+3806724,3806751d3806670
+< pociągach	pociąg:s1	subst:pl:loc:m3	nazwa pospolita	
+< pociągami	pociąg:s1	subst:pl:inst:m3	nazwa pospolita	
+< pociągiem	pociąg:s1	subst:sg:inst:m3	nazwa pospolita	
+< pociągi	pociąg:s1	subst:pl:acc:m3	nazwa pospolita	
+< pociągi	pociąg:s1	subst:pl:nom:m3	nazwa pospolita	
+< pociągi	pociąg:s1	subst:pl:voc:m3	nazwa pospolita	
+< pociągom	pociąg:s1	subst:pl:dat:m3	nazwa pospolita	
+< pociągowi	pociąg:s1	subst:sg:dat:m3	nazwa pospolita	
+< pociągów	pociąg:s1	subst:pl:gen:m3	nazwa pospolita	
+< pociąg	pociąg:s1	subst:sg:acc:m3	nazwa pospolita	
+< pociąg	pociąg:s1	subst:sg:nom:m3	nazwa pospolita	
+< pociągu	pociąg:s1	subst:sg:gen:m3	nazwa pospolita	
+< pociągu	pociąg:s1	subst:sg:loc:m3	nazwa pospolita	
+< pociągu	pociąg:s1	subst:sg:voc:m3	nazwa pospolita	
+< pociągach	pociąg:s2	subst:pl:loc:m3	nazwa pospolita	
+< pociągami	pociąg:s2	subst:pl:inst:m3	nazwa pospolita	
+< pociągiem	pociąg:s2	subst:sg:inst:m3	nazwa pospolita	
+< pociągi	pociąg:s2	subst:pl:acc:m3	nazwa pospolita	
+< pociągi	pociąg:s2	subst:pl:nom:m3	nazwa pospolita	
+< pociągi	pociąg:s2	subst:pl:voc:m3	nazwa pospolita	
+< pociągom	pociąg:s2	subst:pl:dat:m3	nazwa pospolita	
+< pociągowi	pociąg:s2	subst:sg:dat:m3	nazwa pospolita	
+< pociągów	pociąg:s2	subst:pl:gen:m3	nazwa pospolita	
+< pociąg	pociąg:s2	subst:sg:acc:m3	nazwa pospolita	
+< pociąg	pociąg:s2	subst:sg:nom:m3	nazwa pospolita	
+< pociągu	pociąg:s2	subst:sg:gen:m3	nazwa pospolita	
+< pociągu	pociąg:s2	subst:sg:loc:m3	nazwa pospolita	
+< pociągu	pociąg:s2	subst:sg:voc:m3	nazwa pospolita	
+3969891,3969904c3969810,3969823
+< Polce	Polka:s1	subst:sg:dat:f	nazwa pospolita	
+< Polce	Polka:s1	subst:sg:loc:f	nazwa pospolita	
+< Polek	Polka:s1	subst:pl:gen:f	nazwa pospolita	
+< Polkach	Polka:s1	subst:pl:loc:f	nazwa pospolita	
+< Polkami	Polka:s1	subst:pl:inst:f	nazwa pospolita	
+< Polka	Polka:s1	subst:sg:nom:f	nazwa pospolita	
+< Polką	Polka:s1	subst:sg:inst:f	nazwa pospolita	
+< Polkę	Polka:s1	subst:sg:acc:f	nazwa pospolita	
+< Polki	Polka:s1	subst:pl:acc:f	nazwa pospolita	
+< Polki	Polka:s1	subst:pl:nom:f	nazwa pospolita	
+< Polki	Polka:s1	subst:pl:voc:f	nazwa pospolita	
+< Polki	Polka:s1	subst:sg:gen:f	nazwa pospolita	
+< Polkom	Polka:s1	subst:pl:dat:f	nazwa pospolita	
+< Polko	Polka:s1	subst:sg:voc:f	nazwa pospolita	
+---
+> Polce	Polka:s1	subst:sg:dat:f	nazwa pospolita	etn.
+> Polce	Polka:s1	subst:sg:loc:f	nazwa pospolita	etn.
+> Polek	Polka:s1	subst:pl:gen:f	nazwa pospolita	etn.
+> Polkach	Polka:s1	subst:pl:loc:f	nazwa pospolita	etn.
+> Polkami	Polka:s1	subst:pl:inst:f	nazwa pospolita	etn.
+> Polka	Polka:s1	subst:sg:nom:f	nazwa pospolita	etn.
+> Polką	Polka:s1	subst:sg:inst:f	nazwa pospolita	etn.
+> Polkę	Polka:s1	subst:sg:acc:f	nazwa pospolita	etn.
+> Polki	Polka:s1	subst:pl:acc:f	nazwa pospolita	etn.
+> Polki	Polka:s1	subst:pl:nom:f	nazwa pospolita	etn.
+> Polki	Polka:s1	subst:pl:voc:f	nazwa pospolita	etn.
+> Polki	Polka:s1	subst:sg:gen:f	nazwa pospolita	etn.
+> Polkom	Polka:s1	subst:pl:dat:f	nazwa pospolita	etn.
+> Polko	Polka:s1	subst:sg:voc:f	nazwa pospolita	etn.
+5043885,5043926c5043804,5043831
+< siniakach	siniak:s1	subst:pl:loc:m2	nazwa pospolita	
+< siniakach	siniak:s1	subst:pl:loc:m3	nazwa pospolita	
+< siniakami	siniak:s1	subst:pl:inst:m2	nazwa pospolita	
+< siniakami	siniak:s1	subst:pl:inst:m3	nazwa pospolita	
+< siniaka	siniak:s1	subst:sg:acc:m2	nazwa pospolita	
+< siniaka	siniak:s1	subst:sg:gen:m2	nazwa pospolita	
+< siniaka	siniak:s1	subst:sg:gen:m3	nazwa pospolita	
+< siniakiem	siniak:s1	subst:sg:inst:m2	nazwa pospolita	
+< siniakiem	siniak:s1	subst:sg:inst:m3	nazwa pospolita	
+< siniaki	siniak:s1	subst:pl:acc:m2	nazwa pospolita	
+< siniaki	siniak:s1	subst:pl:acc:m3	nazwa pospolita	
+< siniaki	siniak:s1	subst:pl:nom:m2	nazwa pospolita	
+< siniaki	siniak:s1	subst:pl:nom:m3	nazwa pospolita	
+< siniaki	siniak:s1	subst:pl:voc:m2	nazwa pospolita	
+< siniaki	siniak:s1	subst:pl:voc:m3	nazwa pospolita	
+< siniakom	siniak:s1	subst:pl:dat:m2	nazwa pospolita	
+< siniakom	siniak:s1	subst:pl:dat:m3	nazwa pospolita	
+< siniakowi	siniak:s1	subst:sg:dat:m2	nazwa pospolita	
+< siniakowi	siniak:s1	subst:sg:dat:m3	nazwa pospolita	
+< siniaków	siniak:s1	subst:pl:gen:m2	nazwa pospolita	
+< siniaków	siniak:s1	subst:pl:gen:m3	nazwa pospolita	
+< siniak	siniak:s1	subst:sg:acc:m3	nazwa pospolita	
+< siniak	siniak:s1	subst:sg:nom:m2	nazwa pospolita	
+< siniak	siniak:s1	subst:sg:nom:m3	nazwa pospolita	
+< siniaku	siniak:s1	subst:sg:loc:m2	nazwa pospolita	
+< siniaku	siniak:s1	subst:sg:loc:m3	nazwa pospolita	
+< siniaku	siniak:s1	subst:sg:voc:m2	nazwa pospolita	
+< siniaku	siniak:s1	subst:sg:voc:m3	nazwa pospolita	
+< siniakach	siniak:s2	subst:pl:loc:m2	nazwa pospolita	
+< siniakami	siniak:s2	subst:pl:inst:m2	nazwa pospolita	
+< siniaka	siniak:s2	subst:sg:acc:m2	nazwa pospolita	
+< siniaka	siniak:s2	subst:sg:gen:m2	nazwa pospolita	
+< siniakiem	siniak:s2	subst:sg:inst:m2	nazwa pospolita	
+< siniaki	siniak:s2	subst:pl:acc:m2	nazwa pospolita	
+< siniaki	siniak:s2	subst:pl:nom:m2	nazwa pospolita	
+< siniaki	siniak:s2	subst:pl:voc:m2	nazwa pospolita	
+< siniakom	siniak:s2	subst:pl:dat:m2	nazwa pospolita	
+< siniakowi	siniak:s2	subst:sg:dat:m2	nazwa pospolita	
+< siniaków	siniak:s2	subst:pl:gen:m2	nazwa pospolita	
+< siniak	siniak:s2	subst:sg:nom:m2	nazwa pospolita	
+< siniaku	siniak:s2	subst:sg:loc:m2	nazwa pospolita	
+< siniaku	siniak:s2	subst:sg:voc:m2	nazwa pospolita	
+---
+> siniakach	siniak	subst:pl:loc:m2	nazwa pospolita	
+> siniakach	siniak	subst:pl:loc:m3	nazwa pospolita	
+> siniakami	siniak	subst:pl:inst:m2	nazwa pospolita	
+> siniakami	siniak	subst:pl:inst:m3	nazwa pospolita	
+> siniaka	siniak	subst:sg:acc:m2	nazwa pospolita	
+> siniaka	siniak	subst:sg:gen:m2	nazwa pospolita	
+> siniaka	siniak	subst:sg:gen:m3	nazwa pospolita	
+> siniakiem	siniak	subst:sg:inst:m2	nazwa pospolita	
+> siniakiem	siniak	subst:sg:inst:m3	nazwa pospolita	
+> siniaki	siniak	subst:pl:acc:m2	nazwa pospolita	
+> siniaki	siniak	subst:pl:acc:m3	nazwa pospolita	
+> siniaki	siniak	subst:pl:nom:m2	nazwa pospolita	
+> siniaki	siniak	subst:pl:nom:m3	nazwa pospolita	
+> siniaki	siniak	subst:pl:voc:m2	nazwa pospolita	
+> siniaki	siniak	subst:pl:voc:m3	nazwa pospolita	
+> siniakom	siniak	subst:pl:dat:m2	nazwa pospolita	
+> siniakom	siniak	subst:pl:dat:m3	nazwa pospolita	
+> siniakowi	siniak	subst:sg:dat:m2	nazwa pospolita	
+> siniakowi	siniak	subst:sg:dat:m3	nazwa pospolita	
+> siniaków	siniak	subst:pl:gen:m2	nazwa pospolita	
+> siniaków	siniak	subst:pl:gen:m3	nazwa pospolita	
+> siniak	siniak	subst:sg:acc:m3	nazwa pospolita	
+> siniak	siniak	subst:sg:nom:m2	nazwa pospolita	
+> siniak	siniak	subst:sg:nom:m3	nazwa pospolita	
+> siniaku	siniak	subst:sg:loc:m2	nazwa pospolita	
+> siniaku	siniak	subst:sg:loc:m3	nazwa pospolita	
+> siniaku	siniak	subst:sg:voc:m2	nazwa pospolita	
+> siniaku	siniak	subst:sg:voc:m3	nazwa pospolita	
+5447665,5447692c5447570,5447583
+< tarce	tarka:s1	subst:sg:dat:f	nazwa pospolita	
+< tarce	tarka:s1	subst:sg:loc:f	nazwa pospolita	
+< tarek	tarka:s1	subst:pl:gen:f	nazwa pospolita	
+< tarkach	tarka:s1	subst:pl:loc:f	nazwa pospolita	
+< tarkami	tarka:s1	subst:pl:inst:f	nazwa pospolita	
+< tarka	tarka:s1	subst:sg:nom:f	nazwa pospolita	
+< tarką	tarka:s1	subst:sg:inst:f	nazwa pospolita	
+< tarkę	tarka:s1	subst:sg:acc:f	nazwa pospolita	
+< tarki	tarka:s1	subst:pl:acc:f	nazwa pospolita	
+< tarki	tarka:s1	subst:pl:nom:f	nazwa pospolita	
+< tarki	tarka:s1	subst:pl:voc:f	nazwa pospolita	
+< tarki	tarka:s1	subst:sg:gen:f	nazwa pospolita	
+< tarkom	tarka:s1	subst:pl:dat:f	nazwa pospolita	
+< tarko	tarka:s1	subst:sg:voc:f	nazwa pospolita	
+< tarce	tarka:s2	subst:sg:dat:f	nazwa pospolita	
+< tarce	tarka:s2	subst:sg:loc:f	nazwa pospolita	
+< tarek	tarka:s2	subst:pl:gen:f	nazwa pospolita	
+< tarkach	tarka:s2	subst:pl:loc:f	nazwa pospolita	
+< tarkami	tarka:s2	subst:pl:inst:f	nazwa pospolita	
+< tarka	tarka:s2	subst:sg:nom:f	nazwa pospolita	
+< tarką	tarka:s2	subst:sg:inst:f	nazwa pospolita	
+< tarkę	tarka:s2	subst:sg:acc:f	nazwa pospolita	
+< tarki	tarka:s2	subst:pl:acc:f	nazwa pospolita	
+< tarki	tarka:s2	subst:pl:nom:f	nazwa pospolita	
+< tarki	tarka:s2	subst:pl:voc:f	nazwa pospolita	
+< tarki	tarka:s2	subst:sg:gen:f	nazwa pospolita	
+< tarkom	tarka:s2	subst:pl:dat:f	nazwa pospolita	
+< tarko	tarka:s2	subst:sg:voc:f	nazwa pospolita	
+---
+> tarce	tarka	subst:sg:dat:f	nazwa pospolita	
+> tarce	tarka	subst:sg:loc:f	nazwa pospolita	
+> tarek	tarka	subst:pl:gen:f	nazwa pospolita	
+> tarkach	tarka	subst:pl:loc:f	nazwa pospolita	
+> tarkami	tarka	subst:pl:inst:f	nazwa pospolita	
+> tarka	tarka	subst:sg:nom:f	nazwa pospolita	
+> tarką	tarka	subst:sg:inst:f	nazwa pospolita	
+> tarkę	tarka	subst:sg:acc:f	nazwa pospolita	
+> tarki	tarka	subst:pl:acc:f	nazwa pospolita	
+> tarki	tarka	subst:pl:nom:f	nazwa pospolita	
+> tarki	tarka	subst:pl:voc:f	nazwa pospolita	
+> tarki	tarka	subst:sg:gen:f	nazwa pospolita	
+> tarkom	tarka	subst:pl:dat:f	nazwa pospolita	
+> tarko	tarka	subst:sg:voc:f	nazwa pospolita	
+5807531,5807558c5807422,5807435
+< walucie	waluta:s1	subst:sg:dat:f	nazwa pospolita	ekon.
+< walucie	waluta:s1	subst:sg:loc:f	nazwa pospolita	ekon.
+< walutach	waluta:s1	subst:pl:loc:f	nazwa pospolita	ekon.
+< walutami	waluta:s1	subst:pl:inst:f	nazwa pospolita	ekon.
+< waluta	waluta:s1	subst:sg:nom:f	nazwa pospolita	ekon.
+< walutą	waluta:s1	subst:sg:inst:f	nazwa pospolita	ekon.
+< walutę	waluta:s1	subst:sg:acc:f	nazwa pospolita	ekon.
+< walutom	waluta:s1	subst:pl:dat:f	nazwa pospolita	ekon.
+< waluto	waluta:s1	subst:sg:voc:f	nazwa pospolita	ekon.
+< walut	waluta:s1	subst:pl:gen:f	nazwa pospolita	ekon.
+< waluty	waluta:s1	subst:pl:acc:f	nazwa pospolita	ekon.
+< waluty	waluta:s1	subst:pl:nom:f	nazwa pospolita	ekon.
+< waluty	waluta:s1	subst:pl:voc:f	nazwa pospolita	ekon.
+< waluty	waluta:s1	subst:sg:gen:f	nazwa pospolita	ekon.
+< walucie	waluta:s2	subst:sg:dat:f	nazwa pospolita	pot.
+< walucie	waluta:s2	subst:sg:loc:f	nazwa pospolita	pot.
+< walutach	waluta:s2	subst:pl:loc:f	nazwa pospolita	pot.
+< walutami	waluta:s2	subst:pl:inst:f	nazwa pospolita	pot.
+< waluta	waluta:s2	subst:sg:nom:f	nazwa pospolita	pot.
+< walutą	waluta:s2	subst:sg:inst:f	nazwa pospolita	pot.
+< walutę	waluta:s2	subst:sg:acc:f	nazwa pospolita	pot.
+< walutom	waluta:s2	subst:pl:dat:f	nazwa pospolita	pot.
+< waluto	waluta:s2	subst:sg:voc:f	nazwa pospolita	pot.
+< walut	waluta:s2	subst:pl:gen:f	nazwa pospolita	pot.
+< waluty	waluta:s2	subst:pl:acc:f	nazwa pospolita	pot.
+< waluty	waluta:s2	subst:pl:nom:f	nazwa pospolita	pot.
+< waluty	waluta:s2	subst:pl:voc:f	nazwa pospolita	pot.
+< waluty	waluta:s2	subst:sg:gen:f	nazwa pospolita	pot.
+---
+> walucie	waluta	subst:sg:dat:f	nazwa pospolita	ekon.
+> walucie	waluta	subst:sg:loc:f	nazwa pospolita	ekon.
+> walutach	waluta	subst:pl:loc:f	nazwa pospolita	ekon.
+> walutami	waluta	subst:pl:inst:f	nazwa pospolita	ekon.
+> waluta	waluta	subst:sg:nom:f	nazwa pospolita	ekon.
+> walutą	waluta	subst:sg:inst:f	nazwa pospolita	ekon.
+> walutę	waluta	subst:sg:acc:f	nazwa pospolita	ekon.
+> walutom	waluta	subst:pl:dat:f	nazwa pospolita	ekon.
+> waluto	waluta	subst:sg:voc:f	nazwa pospolita	ekon.
+> walut	waluta	subst:pl:gen:f	nazwa pospolita	ekon.
+> waluty	waluta	subst:pl:acc:f	nazwa pospolita	ekon.
+> waluty	waluta	subst:pl:nom:f	nazwa pospolita	ekon.
+> waluty	waluta	subst:pl:voc:f	nazwa pospolita	ekon.
+> waluty	waluta	subst:sg:gen:f	nazwa pospolita	ekon.

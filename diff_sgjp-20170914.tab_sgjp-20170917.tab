@@ -1,0 +1,942 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.09.14
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.09.17
+384951c384951
+< czym	czym	conj		niepopr.
+---
+> czym	czym	comp		niepopr.
+664445c664445
+< ergo	ergo	conj		
+---
+> ergo	ergo	comp		
+963031c963031
+< jakokolwiek	jakokolwiek	conj		daw.
+---
+> jakokolwiek	jakokolwiek	comp		daw.
+963303c963303
+< jakoż	jakoż	conj		przest.
+---
+> jakoż	jakoż	comp		przest.
+1724420a1724421,1724444
+> nieajurwedyczna	nieajurwedyczny	adj:sg:nom.voc:f:pos		
+> nieajurwedyczną	nieajurwedyczny	adj:sg:acc:f:pos		
+> nieajurwedyczną	nieajurwedyczny	adj:sg:inst:f:pos		
+> nieajurwedycznego	nieajurwedyczny	adj:sg:acc:m1.m2:pos		
+> nieajurwedycznego	nieajurwedyczny	adj:sg:gen:m1.m2.m3.n:pos		
+> nieajurwedycznej	nieajurwedyczny	adj:sg:dat:f:pos		
+> nieajurwedycznej	nieajurwedyczny	adj:sg:gen:f:pos		
+> nieajurwedycznej	nieajurwedyczny	adj:sg:loc:f:pos		
+> nieajurwedycznemu	nieajurwedyczny	adj:sg:dat:m1.m2.m3.n:pos		
+> nieajurwedyczne	nieajurwedyczny	adj:pl:acc:m2.m3.f.n:pos		
+> nieajurwedyczne	nieajurwedyczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieajurwedyczne	nieajurwedyczny	adj:sg:acc:n:pos		
+> nieajurwedyczne	nieajurwedyczny	adj:sg:nom.voc:n:pos		
+> nieajurwedyczni	nieajurwedyczny	adj:pl:nom.voc:m1:pos		
+> nieajurwedyczno	nieajurwedyczny	adja		
+> nieajurwedycznych	nieajurwedyczny	adj:pl:acc:m1:pos		
+> nieajurwedycznych	nieajurwedyczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieajurwedycznych	nieajurwedyczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieajurwedycznymi	nieajurwedyczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieajurwedycznym	nieajurwedyczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieajurwedycznym	nieajurwedyczny	adj:sg:inst:m1.m2.m3.n:pos		
+> nieajurwedycznym	nieajurwedyczny	adj:sg:loc:m1.m2.m3.n:pos		
+> nieajurwedyczny	nieajurwedyczny	adj:sg:acc:m3:pos		
+> nieajurwedyczny	nieajurwedyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+1735094a1735119,1735142
+> nieandrogyniczna	nieandrogyniczny	adj:sg:nom.voc:f:pos		
+> nieandrogyniczną	nieandrogyniczny	adj:sg:acc:f:pos		
+> nieandrogyniczną	nieandrogyniczny	adj:sg:inst:f:pos		
+> nieandrogynicznego	nieandrogyniczny	adj:sg:acc:m1.m2:pos		
+> nieandrogynicznego	nieandrogyniczny	adj:sg:gen:m1.m2.m3.n:pos		
+> nieandrogynicznej	nieandrogyniczny	adj:sg:dat:f:pos		
+> nieandrogynicznej	nieandrogyniczny	adj:sg:gen:f:pos		
+> nieandrogynicznej	nieandrogyniczny	adj:sg:loc:f:pos		
+> nieandrogynicznemu	nieandrogyniczny	adj:sg:dat:m1.m2.m3.n:pos		
+> nieandrogyniczne	nieandrogyniczny	adj:pl:acc:m2.m3.f.n:pos		
+> nieandrogyniczne	nieandrogyniczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieandrogyniczne	nieandrogyniczny	adj:sg:acc:n:pos		
+> nieandrogyniczne	nieandrogyniczny	adj:sg:nom.voc:n:pos		
+> nieandrogyniczni	nieandrogyniczny	adj:pl:nom.voc:m1:pos		
+> nieandrogyniczno	nieandrogyniczny	adja		
+> nieandrogynicznych	nieandrogyniczny	adj:pl:acc:m1:pos		
+> nieandrogynicznych	nieandrogyniczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieandrogynicznych	nieandrogyniczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieandrogynicznymi	nieandrogyniczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieandrogynicznym	nieandrogyniczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieandrogynicznym	nieandrogyniczny	adj:sg:inst:m1.m2.m3.n:pos		
+> nieandrogynicznym	nieandrogyniczny	adj:sg:loc:m1.m2.m3.n:pos		
+> nieandrogyniczny	nieandrogyniczny	adj:sg:acc:m3:pos		
+> nieandrogyniczny	nieandrogyniczny	adj:sg:nom.voc:m1.m2.m3:pos		
+1790035a1790084,1790108
+> niebieruńscy	niebieruński	adj:pl:nom.voc:m1:pos		
+> niebieruńska	niebieruński	adj:sg:nom.voc:f:pos		
+> niebieruńską	niebieruński	adj:sg:acc:f:pos		
+> niebieruńską	niebieruński	adj:sg:inst:f:pos		
+> niebieruńskich	niebieruński	adj:pl:acc:m1:pos		
+> niebieruńskich	niebieruński	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niebieruńskich	niebieruński	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niebieruńskiego	niebieruński	adj:sg:acc:m1.m2:pos		
+> niebieruńskiego	niebieruński	adj:sg:gen:m1.m2.m3.n:pos		
+> niebieruńskiej	niebieruński	adj:sg:dat:f:pos		
+> niebieruńskiej	niebieruński	adj:sg:gen:f:pos		
+> niebieruńskiej	niebieruński	adj:sg:loc:f:pos		
+> niebieruńskiemu	niebieruński	adj:sg:dat:m1.m2.m3.n:pos		
+> niebieruńskie	niebieruński	adj:pl:acc:m2.m3.f.n:pos		
+> niebieruńskie	niebieruński	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niebieruńskie	niebieruński	adj:sg:acc:n:pos		
+> niebieruńskie	niebieruński	adj:sg:nom.voc:n:pos		
+> niebieruńskimi	niebieruński	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niebieruńskim	niebieruński	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niebieruńskim	niebieruński	adj:sg:inst:m1.m2.m3.n:pos		
+> niebieruńskim	niebieruński	adj:sg:loc:m1.m2.m3.n:pos		
+> niebieruński	niebieruński	adj:sg:acc:m3:pos		
+> niebieruński	niebieruński	adj:sg:nom.voc:m1.m2.m3:pos		
+> niebieruńsko	niebieruński	adja		
+> niebieruńsku	niebieruński	adjp		
+1908827a1908901,1908925
+> niedylewscy	niedylewski	adj:pl:nom.voc:m1:pos		
+> niedylewska	niedylewski	adj:sg:nom.voc:f:pos		
+> niedylewską	niedylewski	adj:sg:acc:f:pos		
+> niedylewską	niedylewski	adj:sg:inst:f:pos		
+> niedylewskich	niedylewski	adj:pl:acc:m1:pos		
+> niedylewskich	niedylewski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niedylewskich	niedylewski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niedylewskiego	niedylewski	adj:sg:acc:m1.m2:pos		
+> niedylewskiego	niedylewski	adj:sg:gen:m1.m2.m3.n:pos		
+> niedylewskiej	niedylewski	adj:sg:dat:f:pos		
+> niedylewskiej	niedylewski	adj:sg:gen:f:pos		
+> niedylewskiej	niedylewski	adj:sg:loc:f:pos		
+> niedylewskiemu	niedylewski	adj:sg:dat:m1.m2.m3.n:pos		
+> niedylewskie	niedylewski	adj:pl:acc:m2.m3.f.n:pos		
+> niedylewskie	niedylewski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niedylewskie	niedylewski	adj:sg:acc:n:pos		
+> niedylewskie	niedylewski	adj:sg:nom.voc:n:pos		
+> niedylewskimi	niedylewski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niedylewskim	niedylewski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niedylewskim	niedylewski	adj:sg:inst:m1.m2.m3.n:pos		
+> niedylewskim	niedylewski	adj:sg:loc:m1.m2.m3.n:pos		
+> niedylewski	niedylewski	adj:sg:acc:m3:pos		
+> niedylewski	niedylewski	adj:sg:nom.voc:m1.m2.m3:pos		
+> niedylewsko	niedylewski	adja		
+> niedylewsku	niedylewski	adjp		
+2081447a2081546,2081570
+> niekłobuccy	niekłobucki	adj:pl:nom.voc:m1:pos		
+> niekłobucka	niekłobucki	adj:sg:nom.voc:f:pos		
+> niekłobucką	niekłobucki	adj:sg:acc:f:pos		
+> niekłobucką	niekłobucki	adj:sg:inst:f:pos		
+> niekłobuckich	niekłobucki	adj:pl:acc:m1:pos		
+> niekłobuckich	niekłobucki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niekłobuckich	niekłobucki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niekłobuckiego	niekłobucki	adj:sg:acc:m1.m2:pos		
+> niekłobuckiego	niekłobucki	adj:sg:gen:m1.m2.m3.n:pos		
+> niekłobuckiej	niekłobucki	adj:sg:dat:f:pos		
+> niekłobuckiej	niekłobucki	adj:sg:gen:f:pos		
+> niekłobuckiej	niekłobucki	adj:sg:loc:f:pos		
+> niekłobuckiemu	niekłobucki	adj:sg:dat:m1.m2.m3.n:pos		
+> niekłobuckie	niekłobucki	adj:pl:acc:m2.m3.f.n:pos		
+> niekłobuckie	niekłobucki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niekłobuckie	niekłobucki	adj:sg:acc:n:pos		
+> niekłobuckie	niekłobucki	adj:sg:nom.voc:n:pos		
+> niekłobuckimi	niekłobucki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niekłobuckim	niekłobucki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niekłobuckim	niekłobucki	adj:sg:inst:m1.m2.m3.n:pos		
+> niekłobuckim	niekłobucki	adj:sg:loc:m1.m2.m3.n:pos		
+> niekłobucki	niekłobucki	adj:sg:acc:m3:pos		
+> niekłobucki	niekłobucki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niekłobucko	niekłobucki	adja		
+> niekłobucku	niekłobucki	adjp		
+2095805a2095929,2095953
+> niekoneccy	niekonecki	adj:pl:nom.voc:m1:pos		
+> niekonecka	niekonecki	adj:sg:nom.voc:f:pos		
+> niekonecką	niekonecki	adj:sg:acc:f:pos		
+> niekonecką	niekonecki	adj:sg:inst:f:pos		
+> niekoneckich	niekonecki	adj:pl:acc:m1:pos		
+> niekoneckich	niekonecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niekoneckich	niekonecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niekoneckiego	niekonecki	adj:sg:acc:m1.m2:pos		
+> niekoneckiego	niekonecki	adj:sg:gen:m1.m2.m3.n:pos		
+> niekoneckiej	niekonecki	adj:sg:dat:f:pos		
+> niekoneckiej	niekonecki	adj:sg:gen:f:pos		
+> niekoneckiej	niekonecki	adj:sg:loc:f:pos		
+> niekoneckiemu	niekonecki	adj:sg:dat:m1.m2.m3.n:pos		
+> niekoneckie	niekonecki	adj:pl:acc:m2.m3.f.n:pos		
+> niekoneckie	niekonecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niekoneckie	niekonecki	adj:sg:acc:n:pos		
+> niekoneckie	niekonecki	adj:sg:nom.voc:n:pos		
+> niekoneckimi	niekonecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niekoneckim	niekonecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niekoneckim	niekonecki	adj:sg:inst:m1.m2.m3.n:pos		
+> niekoneckim	niekonecki	adj:sg:loc:m1.m2.m3.n:pos		
+> niekonecki	niekonecki	adj:sg:acc:m3:pos		
+> niekonecki	niekonecki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niekonecko	niekonecki	adja		
+> niekonecku	niekonecki	adjp		
+2122013a2122162,2122186
+> niekrupscy	niekrupski	adj:pl:nom.voc:m1:pos		
+> niekrupska	niekrupski	adj:sg:nom.voc:f:pos		
+> niekrupską	niekrupski	adj:sg:acc:f:pos		
+> niekrupską	niekrupski	adj:sg:inst:f:pos		
+> niekrupskich	niekrupski	adj:pl:acc:m1:pos		
+> niekrupskich	niekrupski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niekrupskich	niekrupski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niekrupskiego	niekrupski	adj:sg:acc:m1.m2:pos		
+> niekrupskiego	niekrupski	adj:sg:gen:m1.m2.m3.n:pos		
+> niekrupskiej	niekrupski	adj:sg:dat:f:pos		
+> niekrupskiej	niekrupski	adj:sg:gen:f:pos		
+> niekrupskiej	niekrupski	adj:sg:loc:f:pos		
+> niekrupskiemu	niekrupski	adj:sg:dat:m1.m2.m3.n:pos		
+> niekrupskie	niekrupski	adj:pl:acc:m2.m3.f.n:pos		
+> niekrupskie	niekrupski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niekrupskie	niekrupski	adj:sg:acc:n:pos		
+> niekrupskie	niekrupski	adj:sg:nom.voc:n:pos		
+> niekrupskimi	niekrupski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niekrupskim	niekrupski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niekrupskim	niekrupski	adj:sg:inst:m1.m2.m3.n:pos		
+> niekrupskim	niekrupski	adj:sg:loc:m1.m2.m3.n:pos		
+> niekrupski	niekrupski	adj:sg:acc:m3:pos		
+> niekrupski	niekrupski	adj:sg:nom.voc:m1.m2.m3:pos		
+> niekrupsko	niekrupski	adja		
+> niekrupsku	niekrupski	adjp		
+2149424a2149598,2149621
+> nieliftingowa	nieliftingowy	adj:sg:nom.voc:f:pos		
+> nieliftingową	nieliftingowy	adj:sg:acc:f:pos		
+> nieliftingową	nieliftingowy	adj:sg:inst:f:pos		
+> nieliftingowego	nieliftingowy	adj:sg:acc:m1.m2:pos		
+> nieliftingowego	nieliftingowy	adj:sg:gen:m1.m2.m3.n:pos		
+> nieliftingowej	nieliftingowy	adj:sg:dat:f:pos		
+> nieliftingowej	nieliftingowy	adj:sg:gen:f:pos		
+> nieliftingowej	nieliftingowy	adj:sg:loc:f:pos		
+> nieliftingowemu	nieliftingowy	adj:sg:dat:m1.m2.m3.n:pos		
+> nieliftingowe	nieliftingowy	adj:pl:acc:m2.m3.f.n:pos		
+> nieliftingowe	nieliftingowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieliftingowe	nieliftingowy	adj:sg:acc:n:pos		
+> nieliftingowe	nieliftingowy	adj:sg:nom.voc:n:pos		
+> nieliftingowi	nieliftingowy	adj:pl:nom.voc:m1:pos		
+> nieliftingowo	nieliftingowy	adja		
+> nieliftingowych	nieliftingowy	adj:pl:acc:m1:pos		
+> nieliftingowych	nieliftingowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieliftingowych	nieliftingowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieliftingowymi	nieliftingowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieliftingowym	nieliftingowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieliftingowym	nieliftingowy	adj:sg:inst:m1.m2.m3.n:pos		
+> nieliftingowym	nieliftingowy	adj:sg:loc:m1.m2.m3.n:pos		
+> nieliftingowy	nieliftingowy	adj:sg:acc:m3:pos		
+> nieliftingowy	nieliftingowy	adj:sg:nom.voc:m1.m2.m3:pos		
+2157316a2157514,2157538
+> nielublinieccy	nielubliniecki	adj:pl:nom.voc:m1:pos		
+> nielubliniecka	nielubliniecki	adj:sg:nom.voc:f:pos		
+> nielubliniecką	nielubliniecki	adj:sg:acc:f:pos		
+> nielubliniecką	nielubliniecki	adj:sg:inst:f:pos		
+> nielublinieckich	nielubliniecki	adj:pl:acc:m1:pos		
+> nielublinieckich	nielubliniecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nielublinieckich	nielubliniecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nielublinieckiego	nielubliniecki	adj:sg:acc:m1.m2:pos		
+> nielublinieckiego	nielubliniecki	adj:sg:gen:m1.m2.m3.n:pos		
+> nielublinieckiej	nielubliniecki	adj:sg:dat:f:pos		
+> nielublinieckiej	nielubliniecki	adj:sg:gen:f:pos		
+> nielublinieckiej	nielubliniecki	adj:sg:loc:f:pos		
+> nielublinieckiemu	nielubliniecki	adj:sg:dat:m1.m2.m3.n:pos		
+> nielublinieckie	nielubliniecki	adj:pl:acc:m2.m3.f.n:pos		
+> nielublinieckie	nielubliniecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nielublinieckie	nielubliniecki	adj:sg:acc:n:pos		
+> nielublinieckie	nielubliniecki	adj:sg:nom.voc:n:pos		
+> nielublinieckimi	nielubliniecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nielublinieckim	nielubliniecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nielublinieckim	nielubliniecki	adj:sg:inst:m1.m2.m3.n:pos		
+> nielublinieckim	nielubliniecki	adj:sg:loc:m1.m2.m3.n:pos		
+> nielubliniecki	nielubliniecki	adj:sg:acc:m3:pos		
+> nielubliniecki	nielubliniecki	adj:sg:nom.voc:m1.m2.m3:pos		
+> nielubliniecko	nielubliniecki	adja		
+> nielubliniecku	nielubliniecki	adjp		
+2160500a2160723,2160747
+> nielwóweccy	nielwówecki	adj:pl:nom.voc:m1:pos		
+> nielwówecka	nielwówecki	adj:sg:nom.voc:f:pos		
+> nielwówecką	nielwówecki	adj:sg:acc:f:pos		
+> nielwówecką	nielwówecki	adj:sg:inst:f:pos		
+> nielwóweckich	nielwówecki	adj:pl:acc:m1:pos		
+> nielwóweckich	nielwówecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nielwóweckich	nielwówecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nielwóweckiego	nielwówecki	adj:sg:acc:m1.m2:pos		
+> nielwóweckiego	nielwówecki	adj:sg:gen:m1.m2.m3.n:pos		
+> nielwóweckiej	nielwówecki	adj:sg:dat:f:pos		
+> nielwóweckiej	nielwówecki	adj:sg:gen:f:pos		
+> nielwóweckiej	nielwówecki	adj:sg:loc:f:pos		
+> nielwóweckiemu	nielwówecki	adj:sg:dat:m1.m2.m3.n:pos		
+> nielwóweckie	nielwówecki	adj:pl:acc:m2.m3.f.n:pos		
+> nielwóweckie	nielwówecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nielwóweckie	nielwówecki	adj:sg:acc:n:pos		
+> nielwóweckie	nielwówecki	adj:sg:nom.voc:n:pos		
+> nielwóweckimi	nielwówecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nielwóweckim	nielwówecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nielwóweckim	nielwówecki	adj:sg:inst:m1.m2.m3.n:pos		
+> nielwóweckim	nielwówecki	adj:sg:loc:m1.m2.m3.n:pos		
+> nielwówecki	nielwówecki	adj:sg:acc:m3:pos		
+> nielwówecki	nielwówecki	adj:sg:nom.voc:m1.m2.m3:pos		
+> nielwówecko	nielwówecki	adja		
+> nielwówecku	nielwówecki	adjp		
+2165404a2165652,2165676
+> niełęczyńscy	niełęczyński	adj:pl:nom.voc:m1:pos		
+> niełęczyńska	niełęczyński	adj:sg:nom.voc:f:pos		
+> niełęczyńską	niełęczyński	adj:sg:acc:f:pos		
+> niełęczyńską	niełęczyński	adj:sg:inst:f:pos		
+> niełęczyńskich	niełęczyński	adj:pl:acc:m1:pos		
+> niełęczyńskich	niełęczyński	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niełęczyńskich	niełęczyński	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niełęczyńskiego	niełęczyński	adj:sg:acc:m1.m2:pos		
+> niełęczyńskiego	niełęczyński	adj:sg:gen:m1.m2.m3.n:pos		
+> niełęczyńskiej	niełęczyński	adj:sg:dat:f:pos		
+> niełęczyńskiej	niełęczyński	adj:sg:gen:f:pos		
+> niełęczyńskiej	niełęczyński	adj:sg:loc:f:pos		
+> niełęczyńskiemu	niełęczyński	adj:sg:dat:m1.m2.m3.n:pos		
+> niełęczyńskie	niełęczyński	adj:pl:acc:m2.m3.f.n:pos		
+> niełęczyńskie	niełęczyński	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niełęczyńskie	niełęczyński	adj:sg:acc:n:pos		
+> niełęczyńskie	niełęczyński	adj:sg:nom.voc:n:pos		
+> niełęczyńskimi	niełęczyński	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niełęczyńskim	niełęczyński	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niełęczyńskim	niełęczyński	adj:sg:inst:m1.m2.m3.n:pos		
+> niełęczyńskim	niełęczyński	adj:sg:loc:m1.m2.m3.n:pos		
+> niełęczyński	niełęczyński	adj:sg:acc:m3:pos		
+> niełęczyński	niełęczyński	adj:sg:nom.voc:m1.m2.m3:pos		
+> niełęczyńsko	niełęczyński	adja		
+> niełęczyńsku	niełęczyński	adjp		
+2201213a2201486,2201510
+> niemiędzychodzcy	niemiędzychodzki	adj:pl:nom.voc:m1:pos		
+> niemiędzychodzka	niemiędzychodzki	adj:sg:nom.voc:f:pos		
+> niemiędzychodzką	niemiędzychodzki	adj:sg:acc:f:pos		
+> niemiędzychodzką	niemiędzychodzki	adj:sg:inst:f:pos		
+> niemiędzychodzkich	niemiędzychodzki	adj:pl:acc:m1:pos		
+> niemiędzychodzkich	niemiędzychodzki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niemiędzychodzkich	niemiędzychodzki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niemiędzychodzkiego	niemiędzychodzki	adj:sg:acc:m1.m2:pos		
+> niemiędzychodzkiego	niemiędzychodzki	adj:sg:gen:m1.m2.m3.n:pos		
+> niemiędzychodzkiej	niemiędzychodzki	adj:sg:dat:f:pos		
+> niemiędzychodzkiej	niemiędzychodzki	adj:sg:gen:f:pos		
+> niemiędzychodzkiej	niemiędzychodzki	adj:sg:loc:f:pos		
+> niemiędzychodzkiemu	niemiędzychodzki	adj:sg:dat:m1.m2.m3.n:pos		
+> niemiędzychodzkie	niemiędzychodzki	adj:pl:acc:m2.m3.f.n:pos		
+> niemiędzychodzkie	niemiędzychodzki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niemiędzychodzkie	niemiędzychodzki	adj:sg:acc:n:pos		
+> niemiędzychodzkie	niemiędzychodzki	adj:sg:nom.voc:n:pos		
+> niemiędzychodzkimi	niemiędzychodzki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niemiędzychodzkim	niemiędzychodzki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niemiędzychodzkim	niemiędzychodzki	adj:sg:inst:m1.m2.m3.n:pos		
+> niemiędzychodzkim	niemiędzychodzki	adj:sg:loc:m1.m2.m3.n:pos		
+> niemiędzychodzki	niemiędzychodzki	adj:sg:acc:m3:pos		
+> niemiędzychodzki	niemiędzychodzki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niemiędzychodzko	niemiędzychodzki	adja		
+> niemiędzychodzku	niemiędzychodzki	adjp		
+2202831a2203129,2203153
+> niemiędzyrzeccy	niemiędzyrzecki	adj:pl:nom.voc:m1:pos		
+> niemiędzyrzecka	niemiędzyrzecki	adj:sg:nom.voc:f:pos		
+> niemiędzyrzecką	niemiędzyrzecki	adj:sg:acc:f:pos		
+> niemiędzyrzecką	niemiędzyrzecki	adj:sg:inst:f:pos		
+> niemiędzyrzeckich	niemiędzyrzecki	adj:pl:acc:m1:pos		
+> niemiędzyrzeckich	niemiędzyrzecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niemiędzyrzeckich	niemiędzyrzecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niemiędzyrzeckiego	niemiędzyrzecki	adj:sg:acc:m1.m2:pos		
+> niemiędzyrzeckiego	niemiędzyrzecki	adj:sg:gen:m1.m2.m3.n:pos		
+> niemiędzyrzeckiej	niemiędzyrzecki	adj:sg:dat:f:pos		
+> niemiędzyrzeckiej	niemiędzyrzecki	adj:sg:gen:f:pos		
+> niemiędzyrzeckiej	niemiędzyrzecki	adj:sg:loc:f:pos		
+> niemiędzyrzeckiemu	niemiędzyrzecki	adj:sg:dat:m1.m2.m3.n:pos		
+> niemiędzyrzeckie	niemiędzyrzecki	adj:pl:acc:m2.m3.f.n:pos		
+> niemiędzyrzeckie	niemiędzyrzecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niemiędzyrzeckie	niemiędzyrzecki	adj:sg:acc:n:pos		
+> niemiędzyrzeckie	niemiędzyrzecki	adj:sg:nom.voc:n:pos		
+> niemiędzyrzeckimi	niemiędzyrzecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niemiędzyrzeckim	niemiędzyrzecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niemiędzyrzeckim	niemiędzyrzecki	adj:sg:inst:m1.m2.m3.n:pos		
+> niemiędzyrzeckim	niemiędzyrzecki	adj:sg:loc:m1.m2.m3.n:pos		
+> niemiędzyrzecki	niemiędzyrzecki	adj:sg:acc:m3:pos		
+> niemiędzyrzecki	niemiędzyrzecki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niemiędzyrzecko	niemiędzyrzecki	adja		
+> niemiędzyrzecku	niemiędzyrzecki	adjp		
+2206978a2207301,2207325
+> niemiliccy	niemilicki	adj:pl:nom.voc:m1:pos		
+> niemilicka	niemilicki	adj:sg:nom.voc:f:pos		
+> niemilicką	niemilicki	adj:sg:acc:f:pos		
+> niemilicką	niemilicki	adj:sg:inst:f:pos		
+> niemilickich	niemilicki	adj:pl:acc:m1:pos		
+> niemilickich	niemilicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niemilickich	niemilicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niemilickiego	niemilicki	adj:sg:acc:m1.m2:pos		
+> niemilickiego	niemilicki	adj:sg:gen:m1.m2.m3.n:pos		
+> niemilickiej	niemilicki	adj:sg:dat:f:pos		
+> niemilickiej	niemilicki	adj:sg:gen:f:pos		
+> niemilickiej	niemilicki	adj:sg:loc:f:pos		
+> niemilickiemu	niemilicki	adj:sg:dat:m1.m2.m3.n:pos		
+> niemilickie	niemilicki	adj:pl:acc:m2.m3.f.n:pos		
+> niemilickie	niemilicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niemilickie	niemilicki	adj:sg:acc:n:pos		
+> niemilickie	niemilicki	adj:sg:nom.voc:n:pos		
+> niemilickimi	niemilicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niemilickim	niemilicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niemilickim	niemilicki	adj:sg:inst:m1.m2.m3.n:pos		
+> niemilickim	niemilicki	adj:sg:loc:m1.m2.m3.n:pos		
+> niemilicki	niemilicki	adj:sg:acc:m3:pos		
+> niemilicki	niemilicki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niemilicko	niemilicki	adja		
+> niemilicku	niemilicki	adjp		
+2297877a2298225,2298248
+> nieondulacyjna	nieondulacyjny	adj:sg:nom.voc:f:pos		
+> nieondulacyjną	nieondulacyjny	adj:sg:acc:f:pos		
+> nieondulacyjną	nieondulacyjny	adj:sg:inst:f:pos		
+> nieondulacyjnego	nieondulacyjny	adj:sg:acc:m1.m2:pos		
+> nieondulacyjnego	nieondulacyjny	adj:sg:gen:m1.m2.m3.n:pos		
+> nieondulacyjnej	nieondulacyjny	adj:sg:dat:f:pos		
+> nieondulacyjnej	nieondulacyjny	adj:sg:gen:f:pos		
+> nieondulacyjnej	nieondulacyjny	adj:sg:loc:f:pos		
+> nieondulacyjnemu	nieondulacyjny	adj:sg:dat:m1.m2.m3.n:pos		
+> nieondulacyjne	nieondulacyjny	adj:pl:acc:m2.m3.f.n:pos		
+> nieondulacyjne	nieondulacyjny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieondulacyjne	nieondulacyjny	adj:sg:acc:n:pos		
+> nieondulacyjne	nieondulacyjny	adj:sg:nom.voc:n:pos		
+> nieondulacyjni	nieondulacyjny	adj:pl:nom.voc:m1:pos		
+> nieondulacyjno	nieondulacyjny	adja		
+> nieondulacyjnych	nieondulacyjny	adj:pl:acc:m1:pos		
+> nieondulacyjnych	nieondulacyjny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieondulacyjnych	nieondulacyjny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieondulacyjnymi	nieondulacyjny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieondulacyjnym	nieondulacyjny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieondulacyjnym	nieondulacyjny	adj:sg:inst:m1.m2.m3.n:pos		
+> nieondulacyjnym	nieondulacyjny	adj:sg:loc:m1.m2.m3.n:pos		
+> nieondulacyjny	nieondulacyjny	adj:sg:acc:m3:pos		
+> nieondulacyjny	nieondulacyjny	adj:sg:nom.voc:m1.m2.m3:pos		
+2386198a2386570,2386594
+> niepolańscy	niepolański	adj:pl:nom.voc:m1:pos		
+> niepolańska	niepolański	adj:sg:nom.voc:f:pos		
+> niepolańską	niepolański	adj:sg:acc:f:pos		
+> niepolańską	niepolański	adj:sg:inst:f:pos		
+> niepolańskich	niepolański	adj:pl:acc:m1:pos		
+> niepolańskich	niepolański	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niepolańskich	niepolański	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niepolańskiego	niepolański	adj:sg:acc:m1.m2:pos		
+> niepolańskiego	niepolański	adj:sg:gen:m1.m2.m3.n:pos		
+> niepolańskiej	niepolański	adj:sg:dat:f:pos		
+> niepolańskiej	niepolański	adj:sg:gen:f:pos		
+> niepolańskiej	niepolański	adj:sg:loc:f:pos		
+> niepolańskiemu	niepolański	adj:sg:dat:m1.m2.m3.n:pos		
+> niepolańskie	niepolański	adj:pl:acc:m2.m3.f.n:pos		
+> niepolańskie	niepolański	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niepolańskie	niepolański	adj:sg:acc:n:pos		
+> niepolańskie	niepolański	adj:sg:nom.voc:n:pos		
+> niepolańskimi	niepolański	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niepolańskim	niepolański	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niepolańskim	niepolański	adj:sg:inst:m1.m2.m3.n:pos		
+> niepolańskim	niepolański	adj:sg:loc:m1.m2.m3.n:pos		
+> niepolański	niepolański	adj:sg:acc:m3:pos		
+> niepolański	niepolański	adj:sg:nom.voc:m1.m2.m3:pos		
+> niepolańsko	niepolański	adja		
+> niepolańsku	niepolański	adjp		
+2389450a2389847,2389871
+> niepolsatowscy	niepolsatowski	adj:pl:nom.voc:m1:pos		
+> niepolsatowska	niepolsatowski	adj:sg:nom.voc:f:pos		
+> niepolsatowską	niepolsatowski	adj:sg:acc:f:pos		
+> niepolsatowską	niepolsatowski	adj:sg:inst:f:pos		
+> niepolsatowskich	niepolsatowski	adj:pl:acc:m1:pos		
+> niepolsatowskich	niepolsatowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niepolsatowskich	niepolsatowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niepolsatowskiego	niepolsatowski	adj:sg:acc:m1.m2:pos		
+> niepolsatowskiego	niepolsatowski	adj:sg:gen:m1.m2.m3.n:pos		
+> niepolsatowskiej	niepolsatowski	adj:sg:dat:f:pos		
+> niepolsatowskiej	niepolsatowski	adj:sg:gen:f:pos		
+> niepolsatowskiej	niepolsatowski	adj:sg:loc:f:pos		
+> niepolsatowskiemu	niepolsatowski	adj:sg:dat:m1.m2.m3.n:pos		
+> niepolsatowskie	niepolsatowski	adj:pl:acc:m2.m3.f.n:pos		
+> niepolsatowskie	niepolsatowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niepolsatowskie	niepolsatowski	adj:sg:acc:n:pos		
+> niepolsatowskie	niepolsatowski	adj:sg:nom.voc:n:pos		
+> niepolsatowskimi	niepolsatowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niepolsatowskim	niepolsatowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niepolsatowskim	niepolsatowski	adj:sg:inst:m1.m2.m3.n:pos		
+> niepolsatowskim	niepolsatowski	adj:sg:loc:m1.m2.m3.n:pos		
+> niepolsatowski	niepolsatowski	adj:sg:acc:m3:pos		
+> niepolsatowski	niepolsatowski	adj:sg:nom.voc:m1.m2.m3:pos		
+> niepolsatowsko	niepolsatowski	adja		
+> niepolsatowsku	niepolsatowski	adjp		
+2486202a2486624,2486647
+> niepudrowa	niepudrowy	adj:sg:nom.voc:f:pos		
+> niepudrową	niepudrowy	adj:sg:acc:f:pos		
+> niepudrową	niepudrowy	adj:sg:inst:f:pos		
+> niepudrowego	niepudrowy	adj:sg:acc:m1.m2:pos		
+> niepudrowego	niepudrowy	adj:sg:gen:m1.m2.m3.n:pos		
+> niepudrowej	niepudrowy	adj:sg:dat:f:pos		
+> niepudrowej	niepudrowy	adj:sg:gen:f:pos		
+> niepudrowej	niepudrowy	adj:sg:loc:f:pos		
+> niepudrowemu	niepudrowy	adj:sg:dat:m1.m2.m3.n:pos		
+> niepudrowe	niepudrowy	adj:pl:acc:m2.m3.f.n:pos		
+> niepudrowe	niepudrowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niepudrowe	niepudrowy	adj:sg:acc:n:pos		
+> niepudrowe	niepudrowy	adj:sg:nom.voc:n:pos		
+> niepudrowi	niepudrowy	adj:pl:nom.voc:m1:pos		
+> niepudrowo	niepudrowy	adja		
+> niepudrowych	niepudrowy	adj:pl:acc:m1:pos		
+> niepudrowych	niepudrowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niepudrowych	niepudrowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niepudrowymi	niepudrowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niepudrowym	niepudrowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niepudrowym	niepudrowy	adj:sg:inst:m1.m2.m3.n:pos		
+> niepudrowym	niepudrowy	adj:sg:loc:m1.m2.m3.n:pos		
+> niepudrowy	niepudrowy	adj:sg:acc:m3:pos		
+> niepudrowy	niepudrowy	adj:sg:nom.voc:m1.m2.m3:pos		
+2501823a2502269,2502293
+> nierejkiawiccy	nierejkiawicki	adj:pl:nom.voc:m1:pos		
+> nierejkiawicka	nierejkiawicki	adj:sg:nom.voc:f:pos		
+> nierejkiawicką	nierejkiawicki	adj:sg:acc:f:pos		
+> nierejkiawicką	nierejkiawicki	adj:sg:inst:f:pos		
+> nierejkiawickich	nierejkiawicki	adj:pl:acc:m1:pos		
+> nierejkiawickich	nierejkiawicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nierejkiawickich	nierejkiawicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nierejkiawickiego	nierejkiawicki	adj:sg:acc:m1.m2:pos		
+> nierejkiawickiego	nierejkiawicki	adj:sg:gen:m1.m2.m3.n:pos		
+> nierejkiawickiej	nierejkiawicki	adj:sg:dat:f:pos		
+> nierejkiawickiej	nierejkiawicki	adj:sg:gen:f:pos		
+> nierejkiawickiej	nierejkiawicki	adj:sg:loc:f:pos		
+> nierejkiawickiemu	nierejkiawicki	adj:sg:dat:m1.m2.m3.n:pos		
+> nierejkiawickie	nierejkiawicki	adj:pl:acc:m2.m3.f.n:pos		
+> nierejkiawickie	nierejkiawicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nierejkiawickie	nierejkiawicki	adj:sg:acc:n:pos		
+> nierejkiawickie	nierejkiawicki	adj:sg:nom.voc:n:pos		
+> nierejkiawickimi	nierejkiawicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nierejkiawickim	nierejkiawicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nierejkiawickim	nierejkiawicki	adj:sg:inst:m1.m2.m3.n:pos		
+> nierejkiawickim	nierejkiawicki	adj:sg:loc:m1.m2.m3.n:pos		
+> nierejkiawicki	nierejkiawicki	adj:sg:acc:m3:pos		
+> nierejkiawicki	nierejkiawicki	adj:sg:nom.voc:m1.m2.m3:pos		
+> nierejkiawicko	nierejkiawicki	adja		
+> nierejkiawicku	nierejkiawicki	adjp		
+2553310a2553781,2553804
+> niesederowa	niesederowy	adj:sg:nom.voc:f:pos		
+> niesederową	niesederowy	adj:sg:acc:f:pos		
+> niesederową	niesederowy	adj:sg:inst:f:pos		
+> niesederowego	niesederowy	adj:sg:acc:m1.m2:pos		
+> niesederowego	niesederowy	adj:sg:gen:m1.m2.m3.n:pos		
+> niesederowej	niesederowy	adj:sg:dat:f:pos		
+> niesederowej	niesederowy	adj:sg:gen:f:pos		
+> niesederowej	niesederowy	adj:sg:loc:f:pos		
+> niesederowemu	niesederowy	adj:sg:dat:m1.m2.m3.n:pos		
+> niesederowe	niesederowy	adj:pl:acc:m2.m3.f.n:pos		
+> niesederowe	niesederowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niesederowe	niesederowy	adj:sg:acc:n:pos		
+> niesederowe	niesederowy	adj:sg:nom.voc:n:pos		
+> niesederowi	niesederowy	adj:pl:nom.voc:m1:pos		
+> niesederowo	niesederowy	adja		
+> niesederowych	niesederowy	adj:pl:acc:m1:pos		
+> niesederowych	niesederowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niesederowych	niesederowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niesederowymi	niesederowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niesederowym	niesederowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niesederowym	niesederowy	adj:sg:inst:m1.m2.m3.n:pos		
+> niesederowym	niesederowy	adj:sg:loc:m1.m2.m3.n:pos		
+> niesederowy	niesederowy	adj:sg:acc:m3:pos		
+> niesederowy	niesederowy	adj:sg:nom.voc:m1.m2.m3:pos		
+2562535a2563030,2563054
+> niesiemiatyccy	niesiemiatycki	adj:pl:nom.voc:m1:pos		
+> niesiemiatycka	niesiemiatycki	adj:sg:nom.voc:f:pos		
+> niesiemiatycką	niesiemiatycki	adj:sg:acc:f:pos		
+> niesiemiatycką	niesiemiatycki	adj:sg:inst:f:pos		
+> niesiemiatyckich	niesiemiatycki	adj:pl:acc:m1:pos		
+> niesiemiatyckich	niesiemiatycki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niesiemiatyckich	niesiemiatycki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niesiemiatyckiego	niesiemiatycki	adj:sg:acc:m1.m2:pos		
+> niesiemiatyckiego	niesiemiatycki	adj:sg:gen:m1.m2.m3.n:pos		
+> niesiemiatyckiej	niesiemiatycki	adj:sg:dat:f:pos		
+> niesiemiatyckiej	niesiemiatycki	adj:sg:gen:f:pos		
+> niesiemiatyckiej	niesiemiatycki	adj:sg:loc:f:pos		
+> niesiemiatyckiemu	niesiemiatycki	adj:sg:dat:m1.m2.m3.n:pos		
+> niesiemiatyckie	niesiemiatycki	adj:pl:acc:m2.m3.f.n:pos		
+> niesiemiatyckie	niesiemiatycki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niesiemiatyckie	niesiemiatycki	adj:sg:acc:n:pos		
+> niesiemiatyckie	niesiemiatycki	adj:sg:nom.voc:n:pos		
+> niesiemiatyckimi	niesiemiatycki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niesiemiatyckim	niesiemiatycki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niesiemiatyckim	niesiemiatycki	adj:sg:inst:m1.m2.m3.n:pos		
+> niesiemiatyckim	niesiemiatycki	adj:sg:loc:m1.m2.m3.n:pos		
+> niesiemiatycki	niesiemiatycki	adj:sg:acc:m3:pos		
+> niesiemiatycki	niesiemiatycki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niesiemiatycko	niesiemiatycki	adja		
+> niesiemiatycku	niesiemiatycki	adjp		
+2563485a2564005,2564029
+> niesierpeccy	niesierpecki	adj:pl:nom.voc:m1:pos		
+> niesierpecka	niesierpecki	adj:sg:nom.voc:f:pos		
+> niesierpecką	niesierpecki	adj:sg:acc:f:pos		
+> niesierpecką	niesierpecki	adj:sg:inst:f:pos		
+> niesierpeckich	niesierpecki	adj:pl:acc:m1:pos		
+> niesierpeckich	niesierpecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niesierpeckich	niesierpecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niesierpeckiego	niesierpecki	adj:sg:acc:m1.m2:pos		
+> niesierpeckiego	niesierpecki	adj:sg:gen:m1.m2.m3.n:pos		
+> niesierpeckiej	niesierpecki	adj:sg:dat:f:pos		
+> niesierpeckiej	niesierpecki	adj:sg:gen:f:pos		
+> niesierpeckiej	niesierpecki	adj:sg:loc:f:pos		
+> niesierpeckiemu	niesierpecki	adj:sg:dat:m1.m2.m3.n:pos		
+> niesierpeckie	niesierpecki	adj:pl:acc:m2.m3.f.n:pos		
+> niesierpeckie	niesierpecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niesierpeckie	niesierpecki	adj:sg:acc:n:pos		
+> niesierpeckie	niesierpecki	adj:sg:nom.voc:n:pos		
+> niesierpeckimi	niesierpecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niesierpeckim	niesierpecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niesierpeckim	niesierpecki	adj:sg:inst:m1.m2.m3.n:pos		
+> niesierpeckim	niesierpecki	adj:sg:loc:m1.m2.m3.n:pos		
+> niesierpecki	niesierpecki	adj:sg:acc:m3:pos		
+> niesierpecki	niesierpecki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niesierpecko	niesierpecki	adja		
+> niesierpecku	niesierpecki	adjp		
+2636091a2636636,2636659
+> nieszesnastokrotna	nieszesnastokrotny	adj:sg:nom.voc:f:pos		
+> nieszesnastokrotną	nieszesnastokrotny	adj:sg:acc:f:pos		
+> nieszesnastokrotną	nieszesnastokrotny	adj:sg:inst:f:pos		
+> nieszesnastokrotnego	nieszesnastokrotny	adj:sg:acc:m1.m2:pos		
+> nieszesnastokrotnego	nieszesnastokrotny	adj:sg:gen:m1.m2.m3.n:pos		
+> nieszesnastokrotnej	nieszesnastokrotny	adj:sg:dat:f:pos		
+> nieszesnastokrotnej	nieszesnastokrotny	adj:sg:gen:f:pos		
+> nieszesnastokrotnej	nieszesnastokrotny	adj:sg:loc:f:pos		
+> nieszesnastokrotnemu	nieszesnastokrotny	adj:sg:dat:m1.m2.m3.n:pos		
+> nieszesnastokrotne	nieszesnastokrotny	adj:pl:acc:m2.m3.f.n:pos		
+> nieszesnastokrotne	nieszesnastokrotny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieszesnastokrotne	nieszesnastokrotny	adj:sg:acc:n:pos		
+> nieszesnastokrotne	nieszesnastokrotny	adj:sg:nom.voc:n:pos		
+> nieszesnastokrotni	nieszesnastokrotny	adj:pl:nom.voc:m1:pos		
+> nieszesnastokrotno	nieszesnastokrotny	adja		
+> nieszesnastokrotnych	nieszesnastokrotny	adj:pl:acc:m1:pos		
+> nieszesnastokrotnych	nieszesnastokrotny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieszesnastokrotnych	nieszesnastokrotny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieszesnastokrotnymi	nieszesnastokrotny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieszesnastokrotnym	nieszesnastokrotny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieszesnastokrotnym	nieszesnastokrotny	adj:sg:inst:m1.m2.m3.n:pos		
+> nieszesnastokrotnym	nieszesnastokrotny	adj:sg:loc:m1.m2.m3.n:pos		
+> nieszesnastokrotny	nieszesnastokrotny	adj:sg:acc:m3:pos		
+> nieszesnastokrotny	nieszesnastokrotny	adj:sg:nom.voc:m1.m2.m3:pos		
+2646770a2647339,2647363
+> nieszydłowieccy	nieszydłowiecki	adj:pl:nom.voc:m1:pos		
+> nieszydłowiecka	nieszydłowiecki	adj:sg:nom.voc:f:pos		
+> nieszydłowiecką	nieszydłowiecki	adj:sg:acc:f:pos		
+> nieszydłowiecką	nieszydłowiecki	adj:sg:inst:f:pos		
+> nieszydłowieckich	nieszydłowiecki	adj:pl:acc:m1:pos		
+> nieszydłowieckich	nieszydłowiecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieszydłowieckich	nieszydłowiecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieszydłowieckiego	nieszydłowiecki	adj:sg:acc:m1.m2:pos		
+> nieszydłowieckiego	nieszydłowiecki	adj:sg:gen:m1.m2.m3.n:pos		
+> nieszydłowieckiej	nieszydłowiecki	adj:sg:dat:f:pos		
+> nieszydłowieckiej	nieszydłowiecki	adj:sg:gen:f:pos		
+> nieszydłowieckiej	nieszydłowiecki	adj:sg:loc:f:pos		
+> nieszydłowieckiemu	nieszydłowiecki	adj:sg:dat:m1.m2.m3.n:pos		
+> nieszydłowieckie	nieszydłowiecki	adj:pl:acc:m2.m3.f.n:pos		
+> nieszydłowieckie	nieszydłowiecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieszydłowieckie	nieszydłowiecki	adj:sg:acc:n:pos		
+> nieszydłowieckie	nieszydłowiecki	adj:sg:nom.voc:n:pos		
+> nieszydłowieckimi	nieszydłowiecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieszydłowieckim	nieszydłowiecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieszydłowieckim	nieszydłowiecki	adj:sg:inst:m1.m2.m3.n:pos		
+> nieszydłowieckim	nieszydłowiecki	adj:sg:loc:m1.m2.m3.n:pos		
+> nieszydłowiecki	nieszydłowiecki	adj:sg:acc:m3:pos		
+> nieszydłowiecki	nieszydłowiecki	adj:sg:nom.voc:m1.m2.m3:pos		
+> nieszydłowiecko	nieszydłowiecki	adja		
+> nieszydłowiecku	nieszydłowiecki	adjp		
+2658186a2658780,2658803
+> nieświętoszkowa	nieświętoszkowy	adj:sg:nom.voc:f:pos		
+> nieświętoszkową	nieświętoszkowy	adj:sg:acc:f:pos		
+> nieświętoszkową	nieświętoszkowy	adj:sg:inst:f:pos		
+> nieświętoszkowego	nieświętoszkowy	adj:sg:acc:m1.m2:pos		
+> nieświętoszkowego	nieświętoszkowy	adj:sg:gen:m1.m2.m3.n:pos		
+> nieświętoszkowej	nieświętoszkowy	adj:sg:dat:f:pos		
+> nieświętoszkowej	nieświętoszkowy	adj:sg:gen:f:pos		
+> nieświętoszkowej	nieświętoszkowy	adj:sg:loc:f:pos		
+> nieświętoszkowemu	nieświętoszkowy	adj:sg:dat:m1.m2.m3.n:pos		
+> nieświętoszkowe	nieświętoszkowy	adj:pl:acc:m2.m3.f.n:pos		
+> nieświętoszkowe	nieświętoszkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieświętoszkowe	nieświętoszkowy	adj:sg:acc:n:pos		
+> nieświętoszkowe	nieświętoszkowy	adj:sg:nom.voc:n:pos		
+> nieświętoszkowi	nieświętoszkowy	adj:pl:nom.voc:m1:pos		
+> nieświętoszkowo	nieświętoszkowy	adja		
+> nieświętoszkowych	nieświętoszkowy	adj:pl:acc:m1:pos		
+> nieświętoszkowych	nieświętoszkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieświętoszkowych	nieświętoszkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieświętoszkowymi	nieświętoszkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieświętoszkowym	nieświętoszkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieświętoszkowym	nieświętoszkowy	adj:sg:inst:m1.m2.m3.n:pos		
+> nieświętoszkowym	nieświętoszkowy	adj:sg:loc:m1.m2.m3.n:pos		
+> nieświętoszkowy	nieświętoszkowy	adj:sg:acc:m3:pos		
+> nieświętoszkowy	nieświętoszkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+2678936a2679554,2679577
+> nietranswestyczna	nietranswestyczny	adj:sg:nom.voc:f:pos		
+> nietranswestyczną	nietranswestyczny	adj:sg:acc:f:pos		
+> nietranswestyczną	nietranswestyczny	adj:sg:inst:f:pos		
+> nietranswestycznego	nietranswestyczny	adj:sg:acc:m1.m2:pos		
+> nietranswestycznego	nietranswestyczny	adj:sg:gen:m1.m2.m3.n:pos		
+> nietranswestycznej	nietranswestyczny	adj:sg:dat:f:pos		
+> nietranswestycznej	nietranswestyczny	adj:sg:gen:f:pos		
+> nietranswestycznej	nietranswestyczny	adj:sg:loc:f:pos		
+> nietranswestycznemu	nietranswestyczny	adj:sg:dat:m1.m2.m3.n:pos		
+> nietranswestyczne	nietranswestyczny	adj:pl:acc:m2.m3.f.n:pos		
+> nietranswestyczne	nietranswestyczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nietranswestyczne	nietranswestyczny	adj:sg:acc:n:pos		
+> nietranswestyczne	nietranswestyczny	adj:sg:nom.voc:n:pos		
+> nietranswestyczni	nietranswestyczny	adj:pl:nom.voc:m1:pos		
+> nietranswestyczno	nietranswestyczny	adja		
+> nietranswestycznych	nietranswestyczny	adj:pl:acc:m1:pos		
+> nietranswestycznych	nietranswestyczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nietranswestycznych	nietranswestyczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nietranswestycznymi	nietranswestyczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nietranswestycznym	nietranswestyczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nietranswestycznym	nietranswestyczny	adj:sg:inst:m1.m2.m3.n:pos		
+> nietranswestycznym	nietranswestyczny	adj:sg:loc:m1.m2.m3.n:pos		
+> nietranswestyczny	nietranswestyczny	adj:sg:acc:m3:pos		
+> nietranswestyczny	nietranswestyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+2679965a2680607,2680630
+> nietrądzikowa	nietrądzikowy	adj:sg:nom.voc:f:pos		
+> nietrądzikową	nietrądzikowy	adj:sg:acc:f:pos		
+> nietrądzikową	nietrądzikowy	adj:sg:inst:f:pos		
+> nietrądzikowego	nietrądzikowy	adj:sg:acc:m1.m2:pos		
+> nietrądzikowego	nietrądzikowy	adj:sg:gen:m1.m2.m3.n:pos		
+> nietrądzikowej	nietrądzikowy	adj:sg:dat:f:pos		
+> nietrądzikowej	nietrądzikowy	adj:sg:gen:f:pos		
+> nietrądzikowej	nietrądzikowy	adj:sg:loc:f:pos		
+> nietrądzikowemu	nietrądzikowy	adj:sg:dat:m1.m2.m3.n:pos		
+> nietrądzikowe	nietrądzikowy	adj:pl:acc:m2.m3.f.n:pos		
+> nietrądzikowe	nietrądzikowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nietrądzikowe	nietrądzikowy	adj:sg:acc:n:pos		
+> nietrądzikowe	nietrądzikowy	adj:sg:nom.voc:n:pos		
+> nietrądzikowi	nietrądzikowy	adj:pl:nom.voc:m1:pos		
+> nietrądzikowo	nietrądzikowy	adja		
+> nietrądzikowych	nietrądzikowy	adj:pl:acc:m1:pos		
+> nietrądzikowych	nietrądzikowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nietrądzikowych	nietrądzikowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nietrądzikowymi	nietrądzikowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nietrądzikowym	nietrądzikowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nietrądzikowym	nietrądzikowy	adj:sg:inst:m1.m2.m3.n:pos		
+> nietrądzikowym	nietrądzikowy	adj:sg:loc:m1.m2.m3.n:pos		
+> nietrądzikowy	nietrądzikowy	adj:sg:acc:m3:pos		
+> nietrądzikowy	nietrądzikowy	adj:sg:nom.voc:m1.m2.m3:pos		
+2695629a2696295,2696318
+> nietyciuścy	nietyciuśki	adj:pl:nom.voc:m1:pos		
+> nietyciuśka	nietyciuśki	adj:sg:nom.voc:f:pos		
+> nietyciuśką	nietyciuśki	adj:sg:acc:f:pos		
+> nietyciuśką	nietyciuśki	adj:sg:inst:f:pos		
+> nietyciuśkich	nietyciuśki	adj:pl:acc:m1:pos		
+> nietyciuśkich	nietyciuśki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nietyciuśkich	nietyciuśki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nietyciuśkiego	nietyciuśki	adj:sg:acc:m1.m2:pos		
+> nietyciuśkiego	nietyciuśki	adj:sg:gen:m1.m2.m3.n:pos		
+> nietyciuśkiej	nietyciuśki	adj:sg:dat:f:pos		
+> nietyciuśkiej	nietyciuśki	adj:sg:gen:f:pos		
+> nietyciuśkiej	nietyciuśki	adj:sg:loc:f:pos		
+> nietyciuśkiemu	nietyciuśki	adj:sg:dat:m1.m2.m3.n:pos		
+> nietyciuśkie	nietyciuśki	adj:pl:acc:m2.m3.f.n:pos		
+> nietyciuśkie	nietyciuśki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nietyciuśkie	nietyciuśki	adj:sg:acc:n:pos		
+> nietyciuśkie	nietyciuśki	adj:sg:nom.voc:n:pos		
+> nietyciuśkimi	nietyciuśki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nietyciuśkim	nietyciuśki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nietyciuśkim	nietyciuśki	adj:sg:inst:m1.m2.m3.n:pos		
+> nietyciuśkim	nietyciuśki	adj:sg:loc:m1.m2.m3.n:pos		
+> nietyciuśki	nietyciuśki	adj:sg:acc:m3:pos		
+> nietyciuśki	nietyciuśki	adj:sg:nom.voc:m1.m2.m3:pos		
+> nietyciuśko	nietyciuśki	adja		
+2695642a2696332,2696355
+> nietyciuteńcy	nietyciuteńki	adj:pl:nom.voc:m1:pos		
+> nietyciuteńka	nietyciuteńki	adj:sg:nom.voc:f:pos		
+> nietyciuteńką	nietyciuteńki	adj:sg:acc:f:pos		
+> nietyciuteńką	nietyciuteńki	adj:sg:inst:f:pos		
+> nietyciuteńkich	nietyciuteńki	adj:pl:acc:m1:pos		
+> nietyciuteńkich	nietyciuteńki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nietyciuteńkich	nietyciuteńki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nietyciuteńkiego	nietyciuteńki	adj:sg:acc:m1.m2:pos		
+> nietyciuteńkiego	nietyciuteńki	adj:sg:gen:m1.m2.m3.n:pos		
+> nietyciuteńkiej	nietyciuteńki	adj:sg:dat:f:pos		
+> nietyciuteńkiej	nietyciuteńki	adj:sg:gen:f:pos		
+> nietyciuteńkiej	nietyciuteńki	adj:sg:loc:f:pos		
+> nietyciuteńkiemu	nietyciuteńki	adj:sg:dat:m1.m2.m3.n:pos		
+> nietyciuteńkie	nietyciuteńki	adj:pl:acc:m2.m3.f.n:pos		
+> nietyciuteńkie	nietyciuteńki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nietyciuteńkie	nietyciuteńki	adj:sg:acc:n:pos		
+> nietyciuteńkie	nietyciuteńki	adj:sg:nom.voc:n:pos		
+> nietyciuteńkimi	nietyciuteńki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nietyciuteńkim	nietyciuteńki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nietyciuteńkim	nietyciuteńki	adj:sg:inst:m1.m2.m3.n:pos		
+> nietyciuteńkim	nietyciuteńki	adj:sg:loc:m1.m2.m3.n:pos		
+> nietyciuteńki	nietyciuteńki	adj:sg:acc:m3:pos		
+> nietyciuteńki	nietyciuteńki	adj:sg:nom.voc:m1.m2.m3:pos		
+> nietyciuteńko	nietyciuteńki	adja		
+2719258a2719972,2719996
+> niewałeccy	niewałecki	adj:pl:nom.voc:m1:pos		
+> niewałecka	niewałecki	adj:sg:nom.voc:f:pos		
+> niewałecką	niewałecki	adj:sg:acc:f:pos		
+> niewałecką	niewałecki	adj:sg:inst:f:pos		
+> niewałeckich	niewałecki	adj:pl:acc:m1:pos		
+> niewałeckich	niewałecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niewałeckich	niewałecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niewałeckiego	niewałecki	adj:sg:acc:m1.m2:pos		
+> niewałeckiego	niewałecki	adj:sg:gen:m1.m2.m3.n:pos		
+> niewałeckiej	niewałecki	adj:sg:dat:f:pos		
+> niewałeckiej	niewałecki	adj:sg:gen:f:pos		
+> niewałeckiej	niewałecki	adj:sg:loc:f:pos		
+> niewałeckiemu	niewałecki	adj:sg:dat:m1.m2.m3.n:pos		
+> niewałeckie	niewałecki	adj:pl:acc:m2.m3.f.n:pos		
+> niewałeckie	niewałecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niewałeckie	niewałecki	adj:sg:acc:n:pos		
+> niewałeckie	niewałecki	adj:sg:nom.voc:n:pos		
+> niewałeckimi	niewałecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niewałeckim	niewałecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niewałeckim	niewałecki	adj:sg:inst:m1.m2.m3.n:pos		
+> niewałeckim	niewałecki	adj:sg:loc:m1.m2.m3.n:pos		
+> niewałecki	niewałecki	adj:sg:acc:m3:pos		
+> niewałecki	niewałecki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niewałecko	niewałecki	adja		
+> niewałecku	niewałecki	adjp		
+2723589a2724328,2724352
+> niewągrowieccy	niewągrowiecki	adj:pl:nom.voc:m1:pos		
+> niewągrowiecka	niewągrowiecki	adj:sg:nom.voc:f:pos		
+> niewągrowiecką	niewągrowiecki	adj:sg:acc:f:pos		
+> niewągrowiecką	niewągrowiecki	adj:sg:inst:f:pos		
+> niewągrowieckich	niewągrowiecki	adj:pl:acc:m1:pos		
+> niewągrowieckich	niewągrowiecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niewągrowieckich	niewągrowiecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niewągrowieckiego	niewągrowiecki	adj:sg:acc:m1.m2:pos		
+> niewągrowieckiego	niewągrowiecki	adj:sg:gen:m1.m2.m3.n:pos		
+> niewągrowieckiej	niewągrowiecki	adj:sg:dat:f:pos		
+> niewągrowieckiej	niewągrowiecki	adj:sg:gen:f:pos		
+> niewągrowieckiej	niewągrowiecki	adj:sg:loc:f:pos		
+> niewągrowieckiemu	niewągrowiecki	adj:sg:dat:m1.m2.m3.n:pos		
+> niewągrowieckie	niewągrowiecki	adj:pl:acc:m2.m3.f.n:pos		
+> niewągrowieckie	niewągrowiecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niewągrowieckie	niewągrowiecki	adj:sg:acc:n:pos		
+> niewągrowieckie	niewągrowiecki	adj:sg:nom.voc:n:pos		
+> niewągrowieckimi	niewągrowiecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niewągrowieckim	niewągrowiecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niewągrowieckim	niewągrowiecki	adj:sg:inst:m1.m2.m3.n:pos		
+> niewągrowieckim	niewągrowiecki	adj:sg:loc:m1.m2.m3.n:pos		
+> niewągrowiecki	niewągrowiecki	adj:sg:acc:m3:pos		
+> niewągrowiecki	niewągrowiecki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niewągrowiecko	niewągrowiecki	adja		
+> niewągrowiecku	niewągrowiecki	adjp		
+2747940a2748704,2748728
+> niewilkołaccy	niewilkołacki	adj:pl:nom.voc:m1:pos		
+> niewilkołacka	niewilkołacki	adj:sg:nom.voc:f:pos		
+> niewilkołacką	niewilkołacki	adj:sg:acc:f:pos		
+> niewilkołacką	niewilkołacki	adj:sg:inst:f:pos		
+> niewilkołackich	niewilkołacki	adj:pl:acc:m1:pos		
+> niewilkołackich	niewilkołacki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niewilkołackich	niewilkołacki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niewilkołackiego	niewilkołacki	adj:sg:acc:m1.m2:pos		
+> niewilkołackiego	niewilkołacki	adj:sg:gen:m1.m2.m3.n:pos		
+> niewilkołackiej	niewilkołacki	adj:sg:dat:f:pos		
+> niewilkołackiej	niewilkołacki	adj:sg:gen:f:pos		
+> niewilkołackiej	niewilkołacki	adj:sg:loc:f:pos		
+> niewilkołackiemu	niewilkołacki	adj:sg:dat:m1.m2.m3.n:pos		
+> niewilkołackie	niewilkołacki	adj:pl:acc:m2.m3.f.n:pos		
+> niewilkołackie	niewilkołacki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niewilkołackie	niewilkołacki	adj:sg:acc:n:pos		
+> niewilkołackie	niewilkołacki	adj:sg:nom.voc:n:pos		
+> niewilkołackimi	niewilkołacki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niewilkołackim	niewilkołacki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niewilkołackim	niewilkołacki	adj:sg:inst:m1.m2.m3.n:pos		
+> niewilkołackim	niewilkołacki	adj:sg:loc:m1.m2.m3.n:pos		
+> niewilkołacki	niewilkołacki	adj:sg:acc:m3:pos		
+> niewilkołacki	niewilkołacki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niewilkołacko	niewilkołacki	adja		
+> niewilkołacku	niewilkołacki	adjp		
+2759446a2760235,2760259
+> niewolontariaccy	niewolontariacki	adj:pl:nom.voc:m1:pos		daw.
+> niewolontariacka	niewolontariacki	adj:sg:nom.voc:f:pos		daw.
+> niewolontariacką	niewolontariacki	adj:sg:acc:f:pos		daw.
+> niewolontariacką	niewolontariacki	adj:sg:inst:f:pos		daw.
+> niewolontariackich	niewolontariacki	adj:pl:acc:m1:pos		daw.
+> niewolontariackich	niewolontariacki	adj:pl:gen:m1.m2.m3.f.n:pos		daw.
+> niewolontariackich	niewolontariacki	adj:pl:loc:m1.m2.m3.f.n:pos		daw.
+> niewolontariackiego	niewolontariacki	adj:sg:acc:m1.m2:pos		daw.
+> niewolontariackiego	niewolontariacki	adj:sg:gen:m1.m2.m3.n:pos		daw.
+> niewolontariackiej	niewolontariacki	adj:sg:dat:f:pos		daw.
+> niewolontariackiej	niewolontariacki	adj:sg:gen:f:pos		daw.
+> niewolontariackiej	niewolontariacki	adj:sg:loc:f:pos		daw.
+> niewolontariackiemu	niewolontariacki	adj:sg:dat:m1.m2.m3.n:pos		daw.
+> niewolontariackie	niewolontariacki	adj:pl:acc:m2.m3.f.n:pos		daw.
+> niewolontariackie	niewolontariacki	adj:pl:nom.voc:m2.m3.f.n:pos		daw.
+> niewolontariackie	niewolontariacki	adj:sg:acc:n:pos		daw.
+> niewolontariackie	niewolontariacki	adj:sg:nom.voc:n:pos		daw.
+> niewolontariackimi	niewolontariacki	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+> niewolontariackim	niewolontariacki	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
+> niewolontariackim	niewolontariacki	adj:sg:inst:m1.m2.m3.n:pos		daw.
+> niewolontariackim	niewolontariacki	adj:sg:loc:m1.m2.m3.n:pos		daw.
+> niewolontariacki	niewolontariacki	adj:sg:acc:m3:pos		daw.
+> niewolontariacki	niewolontariacki	adj:sg:nom.voc:m1.m2.m3:pos		daw.
+> niewolontariacko	niewolontariacki	adja		daw.
+> niewolontariacku	niewolontariacki	adjp		daw.
+2764390a2765204,2765228
+> niewrzelowieccy	niewrzelowiecki	adj:pl:nom.voc:m1:pos		
+> niewrzelowiecka	niewrzelowiecki	adj:sg:nom.voc:f:pos		
+> niewrzelowiecką	niewrzelowiecki	adj:sg:acc:f:pos		
+> niewrzelowiecką	niewrzelowiecki	adj:sg:inst:f:pos		
+> niewrzelowieckich	niewrzelowiecki	adj:pl:acc:m1:pos		
+> niewrzelowieckich	niewrzelowiecki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niewrzelowieckich	niewrzelowiecki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niewrzelowieckiego	niewrzelowiecki	adj:sg:acc:m1.m2:pos		
+> niewrzelowieckiego	niewrzelowiecki	adj:sg:gen:m1.m2.m3.n:pos		
+> niewrzelowieckiej	niewrzelowiecki	adj:sg:dat:f:pos		
+> niewrzelowieckiej	niewrzelowiecki	adj:sg:gen:f:pos		
+> niewrzelowieckiej	niewrzelowiecki	adj:sg:loc:f:pos		
+> niewrzelowieckiemu	niewrzelowiecki	adj:sg:dat:m1.m2.m3.n:pos		
+> niewrzelowieckie	niewrzelowiecki	adj:pl:acc:m2.m3.f.n:pos		
+> niewrzelowieckie	niewrzelowiecki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niewrzelowieckie	niewrzelowiecki	adj:sg:acc:n:pos		
+> niewrzelowieckie	niewrzelowiecki	adj:sg:nom.voc:n:pos		
+> niewrzelowieckimi	niewrzelowiecki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niewrzelowieckim	niewrzelowiecki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niewrzelowieckim	niewrzelowiecki	adj:sg:inst:m1.m2.m3.n:pos		
+> niewrzelowieckim	niewrzelowiecki	adj:sg:loc:m1.m2.m3.n:pos		
+> niewrzelowiecki	niewrzelowiecki	adj:sg:acc:m3:pos		
+> niewrzelowiecki	niewrzelowiecki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niewrzelowiecko	niewrzelowiecki	adja		
+> niewrzelowiecku	niewrzelowiecki	adjp		
+2793290a2794129,2794153
+> niezachodniopomorscy	niezachodniopomorski	adj:pl:nom.voc:m1:pos		
+> niezachodniopomorska	niezachodniopomorski	adj:sg:nom.voc:f:pos		
+> niezachodniopomorską	niezachodniopomorski	adj:sg:acc:f:pos		
+> niezachodniopomorską	niezachodniopomorski	adj:sg:inst:f:pos		
+> niezachodniopomorskich	niezachodniopomorski	adj:pl:acc:m1:pos		
+> niezachodniopomorskich	niezachodniopomorski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niezachodniopomorskich	niezachodniopomorski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niezachodniopomorskiego	niezachodniopomorski	adj:sg:acc:m1.m2:pos		
+> niezachodniopomorskiego	niezachodniopomorski	adj:sg:gen:m1.m2.m3.n:pos		
+> niezachodniopomorskiej	niezachodniopomorski	adj:sg:dat:f:pos		
+> niezachodniopomorskiej	niezachodniopomorski	adj:sg:gen:f:pos		
+> niezachodniopomorskiej	niezachodniopomorski	adj:sg:loc:f:pos		
+> niezachodniopomorskiemu	niezachodniopomorski	adj:sg:dat:m1.m2.m3.n:pos		
+> niezachodniopomorskie	niezachodniopomorski	adj:pl:acc:m2.m3.f.n:pos		
+> niezachodniopomorskie	niezachodniopomorski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niezachodniopomorskie	niezachodniopomorski	adj:sg:acc:n:pos		
+> niezachodniopomorskie	niezachodniopomorski	adj:sg:nom.voc:n:pos		
+> niezachodniopomorskimi	niezachodniopomorski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niezachodniopomorskim	niezachodniopomorski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niezachodniopomorskim	niezachodniopomorski	adj:sg:inst:m1.m2.m3.n:pos		
+> niezachodniopomorskim	niezachodniopomorski	adj:sg:loc:m1.m2.m3.n:pos		
+> niezachodniopomorski	niezachodniopomorski	adj:sg:acc:m3:pos		
+> niezachodniopomorski	niezachodniopomorski	adj:sg:nom.voc:m1.m2.m3:pos		
+> niezachodniopomorsko	niezachodniopomorski	adja		
+> niezachodniopomorsku	niezachodniopomorski	adjp		
+4110304c4111167
+< przeto	przeto	conj		książk.
+---
+> przeto	przeto	comp		książk.
+5028686c5029549
+< tedy	tedy	conj		książk.
+---
+> tedy	tedy	comp		książk.
+5051883a5052747
+> to	to:c	comp		
+5052606d5053469
+< to	to:j	conj		
+5060663c5061526
+< toteż	toteż	conj		
+---
+> toteż	toteż	comp		
+5434788c5435651
+< więc	więc	conj		
+---
+> więc	więc	comp		
+6110075c6110938
+< zatem	zatem	conj		
+---
+> zatem	zatem	comp		

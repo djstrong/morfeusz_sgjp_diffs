@@ -1,0 +1,134 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.06.23
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.06.30
+1647073a1647074,1647084
+> kręciszek	kręciszek	subst:sg:nom.acc:m3	nazwa_pospolita	bot.
+> kręciszkach	kręciszek	subst:pl:loc:m3	nazwa_pospolita	bot.
+> kręciszka	kręciszek	subst:sg:gen:m3	nazwa_pospolita	bot.
+> kręciszkami	kręciszek	subst:pl:inst:m3	nazwa_pospolita	bot.
+> kręciszkiem	kręciszek	subst:sg:inst:m3	nazwa_pospolita	bot.
+> kręciszki	kręciszek	subst:pl:nom.acc.voc:m3	nazwa_pospolita	bot.
+> kręciszkom	kręciszek	subst:pl:dat:m3	nazwa_pospolita	bot.
+> kręciszkowi	kręciszek	subst:sg:dat:m3	nazwa_pospolita	bot.
+> kręciszków	kręciszek	subst:pl:gen:m3	nazwa_pospolita	bot.
+> kręciszku	kręciszek	subst:sg:loc:m3	nazwa_pospolita	bot.
+> kręciszku	kręciszek	subst:sg:voc:m3	nazwa_pospolita	bot.
+2083432a2083444
+> monotonicznie	monotonicznie	adv:pos		
+2840448a2840461
+> niemonotonicznie	niemonotonicznie	adv:pos		
+6355069,6355079c6355082,6355092
+< wacek	wacek	subst:sg:nom.acc:m3	nazwa_pospolita	daw.
+< wackach	wacek	subst:pl:loc:m3	nazwa_pospolita	daw.
+< wackami	wacek	subst:pl:inst:m3	nazwa_pospolita	daw.
+< wacka	wacek	subst:sg:gen:m3	nazwa_pospolita	daw.
+< wackiem	wacek	subst:sg:inst:m3	nazwa_pospolita	daw.
+< wacki	wacek	subst:pl:nom.acc.voc:m3	nazwa_pospolita	daw.
+< wackom	wacek	subst:pl:dat:m3	nazwa_pospolita	daw.
+< wackowi	wacek	subst:sg:dat:m3	nazwa_pospolita	daw.
+< wacków	wacek	subst:pl:gen:m3	nazwa_pospolita	daw.
+< wacku	wacek	subst:sg:loc:m3	nazwa_pospolita	daw.
+< wacku	wacek	subst:sg:voc:m3	nazwa_pospolita	daw.
+---
+> wacek	wacek:s1	subst:sg:nom.acc:m3	nazwa_pospolita	daw.
+> wackach	wacek:s1	subst:pl:loc:m3	nazwa_pospolita	daw.
+> wackami	wacek:s1	subst:pl:inst:m3	nazwa_pospolita	daw.
+> wacka	wacek:s1	subst:sg:gen:m3	nazwa_pospolita	daw.
+> wackiem	wacek:s1	subst:sg:inst:m3	nazwa_pospolita	daw.
+> wacki	wacek:s1	subst:pl:nom.acc.voc:m3	nazwa_pospolita	daw.
+> wackom	wacek:s1	subst:pl:dat:m3	nazwa_pospolita	daw.
+> wackowi	wacek:s1	subst:sg:dat:m3	nazwa_pospolita	daw.
+> wacków	wacek:s1	subst:pl:gen:m3	nazwa_pospolita	daw.
+> wacku	wacek:s1	subst:sg:loc:m3	nazwa_pospolita	daw.
+> wacku	wacek:s1	subst:sg:voc:m3	nazwa_pospolita	daw.
+6355091a6355105,6355115
+> wacek	wacek:s2	subst:sg:nom:m2	nazwa_pospolita	żart.|pot.
+> wackach	wacek:s2	subst:pl:loc:m2	nazwa_pospolita	żart.|pot.
+> wackami	wacek:s2	subst:pl:inst:m2	nazwa_pospolita	żart.|pot.
+> wacka	wacek:s2	subst:sg:gen.acc:m2	nazwa_pospolita	żart.|pot.
+> wackiem	wacek:s2	subst:sg:inst:m2	nazwa_pospolita	żart.|pot.
+> wacki	wacek:s2	subst:pl:nom.acc.voc:m2	nazwa_pospolita	żart.|pot.
+> wackom	wacek:s2	subst:pl:dat:m2	nazwa_pospolita	żart.|pot.
+> wackowi	wacek:s2	subst:sg:dat:m2	nazwa_pospolita	żart.|pot.
+> wacków	wacek:s2	subst:pl:gen:m2	nazwa_pospolita	żart.|pot.
+> wacku	wacek:s2	subst:sg:loc:m2	nazwa_pospolita	żart.|pot.
+> wacku	wacek:s2	subst:sg:voc:m2	nazwa_pospolita	żart.|pot.
+6366566a6366591,6366601
+> waltornistyce	waltornistyka	subst:sg:dat.loc:f	nazwa_pospolita	
+> waltornistykach	waltornistyka	subst:pl:loc:f	nazwa_pospolita	
+> waltornistykami	waltornistyka	subst:pl:inst:f	nazwa_pospolita	
+> waltornistyka	waltornistyka	subst:sg:nom:f	nazwa_pospolita	
+> waltornistyką	waltornistyka	subst:sg:inst:f	nazwa_pospolita	
+> waltornistykę	waltornistyka	subst:sg:acc:f	nazwa_pospolita	
+> waltornistyki	waltornistyka	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> waltornistyki	waltornistyka	subst:sg:gen:f	nazwa_pospolita	
+> waltornistykom	waltornistyka	subst:pl:dat:f	nazwa_pospolita	
+> waltornistyko	waltornistyka	subst:sg:voc:f	nazwa_pospolita	
+> waltornistyk	waltornistyka	subst:pl:gen:f	nazwa_pospolita	
+7496100a7496136,7496200
+> niezżarzeniach	zżarzyć	ger:pl:loc:n:perf:neg		książk.
+> niezżarzeniami	zżarzyć	ger:pl:inst:n:perf:neg		książk.
+> niezżarzenia	zżarzyć	ger:pl:nom.acc:n:perf:neg		książk.
+> niezżarzenia	zżarzyć	ger:sg:gen:n:perf:neg		książk.
+> niezżarzeniem	zżarzyć	ger:sg:inst:n:perf:neg		książk.
+> niezżarzenie	zżarzyć	ger:sg:nom.acc:n:perf:neg		książk.
+> niezżarzeniom	zżarzyć	ger:pl:dat:n:perf:neg		książk.
+> niezżarzeniu	zżarzyć	ger:sg:dat.loc:n:perf:neg		książk.
+> niezżarzeń	zżarzyć	ger:pl:gen:n:perf:neg		książk.
+> zżarzą	zżarzyć	fin:pl:ter:perf		książk.
+> zżarzcie	zżarzyć	impt:pl:sec:perf		książk.
+> zżarzeniach	zżarzyć	ger:pl:loc:n:perf:aff		książk.
+> zżarzeniami	zżarzyć	ger:pl:inst:n:perf:aff		książk.
+> zżarzenia	zżarzyć	ger:pl:nom.acc:n:perf:aff		książk.
+> zżarzenia	zżarzyć	ger:sg:gen:n:perf:aff		książk.
+> zżarzeniem	zżarzyć	ger:sg:inst:n:perf:aff		książk.
+> zżarzenie	zżarzyć	ger:sg:nom.acc:n:perf:aff		książk.
+> zżarzeniom	zżarzyć	ger:pl:dat:n:perf:aff		książk.
+> zżarzeniu	zżarzyć	ger:sg:dat.loc:n:perf:aff		książk.
+> zżarzeń	zżarzyć	ger:pl:gen:n:perf:aff		książk.
+> zżarzę	zżarzyć	fin:sg:pri:perf		książk.
+> zżarzmy	zżarzyć	impt:pl:pri:perf		książk.
+> zżarzono	zżarzyć	imps:perf		książk.
+> zżarzycie	zżarzyć	fin:pl:sec:perf		książk.
+> zżarzyć	zżarzyć	inf:perf		książk.
+> zżarzylibyście	zżarzyć	cond:pl:m1:sec:perf		książk.
+> zżarzylibyśmy	zżarzyć	cond:pl:m1:pri:perf		książk.
+> zżarzyliby	zżarzyć	cond:pl:m1:ter:perf		książk.
+> zżarzyliście	zżarzyć	praet:pl:m1:sec:perf		książk.
+> zżarzyliśmy	zżarzyć	praet:pl:m1:pri:perf		książk.
+> zżarzyli	zżarzyć	praet:pl:m1:perf		książk.
+> zżarzyli	zżarzyć	praet:pl:m1:ter:perf		książk.
+> zżarzyłabym	zżarzyć	cond:sg:f:pri:perf		książk.
+> zżarzyłabyś	zżarzyć	cond:sg:f:sec:perf		książk.
+> zżarzyłaby	zżarzyć	cond:sg:f:ter:perf		książk.
+> zżarzyłam	zżarzyć	praet:sg:f:pri:perf		książk.
+> zżarzyłaś	zżarzyć	praet:sg:f:sec:perf		książk.
+> zżarzyła	zżarzyć	praet:sg:f:perf		książk.
+> zżarzyła	zżarzyć	praet:sg:f:ter:perf		książk.
+> zżarzyłbym	zżarzyć	cond:sg:m1.m2.m3:pri:perf		książk.
+> zżarzyłbyś	zżarzyć	cond:sg:m1.m2.m3:sec:perf		książk.
+> zżarzyłby	zżarzyć	cond:sg:m1.m2.m3:ter:perf		książk.
+> zżarzyłem	zżarzyć	praet:sg:m1.m2.m3:pri:perf		książk.
+> zżarzyłeś	zżarzyć	praet:sg:m1.m2.m3:sec:perf		książk.
+> zżarzyłobym	zżarzyć	cond:sg:n:pri:perf		książk.
+> zżarzyłobyś	zżarzyć	cond:sg:n:sec:perf		książk.
+> zżarzyłoby	zżarzyć	cond:sg:n:ter:perf		książk.
+> zżarzyłom	zżarzyć	praet:sg:n:pri:perf		książk.
+> zżarzyłoś	zżarzyć	praet:sg:n:sec:perf		książk.
+> zżarzyło	zżarzyć	praet:sg:n:perf		książk.
+> zżarzyło	zżarzyć	praet:sg:n:ter:perf		książk.
+> zżarzyłybyście	zżarzyć	cond:pl:m2.m3.f.n:sec:perf		książk.
+> zżarzyłybyśmy	zżarzyć	cond:pl:m2.m3.f.n:pri:perf		książk.
+> zżarzyłyby	zżarzyć	cond:pl:m2.m3.f.n:ter:perf		książk.
+> zżarzyłyście	zżarzyć	praet:pl:m2.m3.f.n:sec:perf		książk.
+> zżarzyłyśmy	zżarzyć	praet:pl:m2.m3.f.n:pri:perf		książk.
+> zżarzyły	zżarzyć	praet:pl:m2.m3.f.n:perf		książk.
+> zżarzyły	zżarzyć	praet:pl:m2.m3.f.n:ter:perf		książk.
+> zżarzył	zżarzyć	praet:sg:m1.m2.m3:perf		książk.
+> zżarzył	zżarzyć	praet:sg:m1.m2.m3:ter:perf		książk.
+> zżarzymy	zżarzyć	fin:pl:pri:perf		książk.
+> zżarzysz	zżarzyć	fin:sg:sec:perf		książk.
+> zżarzywszy	zżarzyć	pant:perf		książk.
+> zżarzy	zżarzyć	fin:sg:ter:perf		książk.
+> zżarz	zżarzyć	impt:sg:sec:perf		książk.

@@ -1,0 +1,328 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.04.09
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.04.18
+109343a109344
+> atoksycznie	atoksycznie	adv:pos		
+1033667a1033669
+> imperialistycznie	imperialistycznie	adv:pos		
+1062711a1062714
+> introwertycznie	introwertycznie	adv:pos		
+1322605a1322609
+> korpulentnie	korpulentnie	adv:pos		
+1407806a1407811
+> kuracyjnie	kuracyjnie	adv:pos		
+1572242,1572248c1572247,1572262
+< marines	marines	subst:pl:acc:m1:pt	nazwa pospolita	
+< marines	marines	subst:pl:dat:m1:pt	nazwa pospolita	
+< marines	marines	subst:pl:gen:m1:pt	nazwa pospolita	
+< marines	marines	subst:pl:inst:m1:pt	nazwa pospolita	
+< marines	marines	subst:pl:loc:m1:pt	nazwa pospolita	
+< marines	marines	subst:pl:nom:m1:pt	nazwa pospolita	
+< marines	marines	subst:pl:voc:m1:pt	nazwa pospolita	
+---
+> marines	marines	depr:pl:nom:m2	nazwa pospolita	
+> marines	marines	depr:pl:voc:m2	nazwa pospolita	
+> marines	marines	subst:pl:acc:m1	nazwa pospolita	
+> marines	marines	subst:pl:dat:m1	nazwa pospolita	
+> marines	marines	subst:pl:gen:m1	nazwa pospolita	
+> marines	marines	subst:pl:inst:m1	nazwa pospolita	
+> marines	marines	subst:pl:loc:m1	nazwa pospolita	
+> marines	marines	subst:pl:nom:m1	nazwa pospolita	
+> marines	marines	subst:pl:voc:m1	nazwa pospolita	
+> marines	marines	subst:sg:acc:m1	nazwa pospolita	
+> marines	marines	subst:sg:dat:m1	nazwa pospolita	
+> marines	marines	subst:sg:gen:m1	nazwa pospolita	
+> marines	marines	subst:sg:inst:m1	nazwa pospolita	
+> marines	marines	subst:sg:loc:m1	nazwa pospolita	
+> marines	marines	subst:sg:nom:m1	nazwa pospolita	
+> marines	marines	subst:sg:voc:m1	nazwa pospolita	
+1630142a1630157
+> mierzalnie	mierzalnie	adv:pos		
+1701411a1701427
+> mozaistycznie	mozaistycznie	adv:pos		
+1718975,1718981c1718991,1718997
+< my	my	ppron12:pl:nom:_:pri		
+< my	my	ppron12:pl:voc:_:pri		
+< nami	my	ppron12:pl:inst:_:pri		
+< nam	my	ppron12:pl:dat:_:pri		
+< nas	my	ppron12:pl:acc:_:pri		
+< nas	my	ppron12:pl:gen:_:pri		
+< nas	my	ppron12:pl:loc:_:pri		
+---
+> my	my	ppron12:pl:nom:m1.m2.m3.f.n:pri		
+> my	my	ppron12:pl:voc:m1.m2.m3.f.n:pri		
+> nami	my	ppron12:pl:inst:m1.m2.m3.f.n:pri		
+> nam	my	ppron12:pl:dat:m1.m2.m3.f.n:pri		
+> nas	my	ppron12:pl:acc:m1.m2.m3.f.n:pri		
+> nas	my	ppron12:pl:gen:m1.m2.m3.f.n:pri		
+> nas	my	ppron12:pl:loc:m1.m2.m3.f.n:pri		
+1957658a1957675
+> nieatoksycznie	nieatoksycznie	adv:pos		
+2243469a2243487
+> nieimperialistycznie	nieimperialistycznie	adv:pos		
+2252365a2252384
+> nieintrowertycznie	nieintrowertycznie	adv:pos		
+2342379a2342399
+> niekorpulentnie	niekorpulentnie	adv:pos		
+2370173a2370194
+> niekuracyjnie	niekuracyjnie	adv:pos		
+2443872c2443893,2443894
+< niemierzalnie	niemierzalnie	adv:pos		
+---
+> niemierzalnie	niemierzalnie:d1	adv:pos		
+> niemierzalnie	niemierzalnie:d2	adv:pos		
+2469987a2470010
+> niemozaistycznie	niemozaistycznie	adv:pos		
+2518955c2518978,2518979
+< nieobliczalnie	nieobliczalnie	adv:pos		
+---
+> nieobliczalnie	nieobliczalnie:d1	adv:pos		
+> nieobliczalnie	nieobliczalnie:d2	adv:pos		
+2525895a2525920
+> nieoceanologicznie	nieoceanologicznie	adv:pos		
+2651845,2651891c2651870,2651892
+< niepomijalna	niepomijalny:a1	adj:sg:nom.voc:f:pos		
+< niepomijalną	niepomijalny:a1	adj:sg:acc:f:pos		
+< niepomijalną	niepomijalny:a1	adj:sg:inst:f:pos		
+< niepomijalnego	niepomijalny:a1	adj:sg:acc:m1.m2:pos		
+< niepomijalnego	niepomijalny:a1	adj:sg:gen:m1.m2.m3.n:pos		
+< niepomijalnej	niepomijalny:a1	adj:sg:dat:f:pos		
+< niepomijalnej	niepomijalny:a1	adj:sg:gen:f:pos		
+< niepomijalnej	niepomijalny:a1	adj:sg:loc:f:pos		
+< niepomijalnemu	niepomijalny:a1	adj:sg:dat:m1.m2.m3.n:pos		
+< niepomijalne	niepomijalny:a1	adj:pl:acc:m2.m3.f.n:pos		
+< niepomijalne	niepomijalny:a1	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niepomijalne	niepomijalny:a1	adj:sg:acc:n:pos		
+< niepomijalne	niepomijalny:a1	adj:sg:nom.voc:n:pos		
+< niepomijalni	niepomijalny:a1	adj:pl:nom.voc:m1:pos		
+< niepomijalno	niepomijalny:a1	adja		
+< niepomijalnych	niepomijalny:a1	adj:pl:acc:m1:pos		
+< niepomijalnych	niepomijalny:a1	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niepomijalnych	niepomijalny:a1	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niepomijalnymi	niepomijalny:a1	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niepomijalnym	niepomijalny:a1	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niepomijalnym	niepomijalny:a1	adj:sg:inst:m1.m2.m3.n:pos		
+< niepomijalnym	niepomijalny:a1	adj:sg:loc:m1.m2.m3.n:pos		
+< niepomijalny	niepomijalny:a1	adj:sg:acc:m3:pos		
+< niepomijalny	niepomijalny:a1	adj:sg:nom.voc:m1.m2.m3:pos		
+< niepomijalna	niepomijalny:a2	adj:sg:nom.voc:f:pos		
+< niepomijalną	niepomijalny:a2	adj:sg:acc:f:pos		
+< niepomijalną	niepomijalny:a2	adj:sg:inst:f:pos		
+< niepomijalnego	niepomijalny:a2	adj:sg:acc:m1.m2:pos		
+< niepomijalnego	niepomijalny:a2	adj:sg:gen:m1.m2.m3.n:pos		
+< niepomijalnej	niepomijalny:a2	adj:sg:dat:f:pos		
+< niepomijalnej	niepomijalny:a2	adj:sg:gen:f:pos		
+< niepomijalnej	niepomijalny:a2	adj:sg:loc:f:pos		
+< niepomijalnemu	niepomijalny:a2	adj:sg:dat:m1.m2.m3.n:pos		
+< niepomijalne	niepomijalny:a2	adj:pl:acc:m2.m3.f.n:pos		
+< niepomijalne	niepomijalny:a2	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niepomijalne	niepomijalny:a2	adj:sg:acc:n:pos		
+< niepomijalne	niepomijalny:a2	adj:sg:nom.voc:n:pos		
+< niepomijalni	niepomijalny:a2	adj:pl:nom.voc:m1:pos		
+< niepomijalnych	niepomijalny:a2	adj:pl:acc:m1:pos		
+< niepomijalnych	niepomijalny:a2	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niepomijalnych	niepomijalny:a2	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niepomijalnymi	niepomijalny:a2	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niepomijalnym	niepomijalny:a2	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niepomijalnym	niepomijalny:a2	adj:sg:inst:m1.m2.m3.n:pos		
+< niepomijalnym	niepomijalny:a2	adj:sg:loc:m1.m2.m3.n:pos		
+< niepomijalny	niepomijalny:a2	adj:sg:acc:m3:pos		
+< niepomijalny	niepomijalny:a2	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> niepomijalna	niepomijalny	adj:sg:nom.voc:f:pos		
+> niepomijalną	niepomijalny	adj:sg:acc:f:pos		
+> niepomijalną	niepomijalny	adj:sg:inst:f:pos		
+> niepomijalnego	niepomijalny	adj:sg:acc:m1.m2:pos		
+> niepomijalnego	niepomijalny	adj:sg:gen:m1.m2.m3.n:pos		
+> niepomijalnej	niepomijalny	adj:sg:dat:f:pos		
+> niepomijalnej	niepomijalny	adj:sg:gen:f:pos		
+> niepomijalnej	niepomijalny	adj:sg:loc:f:pos		
+> niepomijalnemu	niepomijalny	adj:sg:dat:m1.m2.m3.n:pos		
+> niepomijalne	niepomijalny	adj:pl:acc:m2.m3.f.n:pos		
+> niepomijalne	niepomijalny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niepomijalne	niepomijalny	adj:sg:acc:n:pos		
+> niepomijalne	niepomijalny	adj:sg:nom.voc:n:pos		
+> niepomijalni	niepomijalny	adj:pl:nom.voc:m1:pos		
+> niepomijalnych	niepomijalny	adj:pl:acc:m1:pos		
+> niepomijalnych	niepomijalny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niepomijalnych	niepomijalny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niepomijalnymi	niepomijalny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niepomijalnym	niepomijalny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niepomijalnym	niepomijalny	adj:sg:inst:m1.m2.m3.n:pos		
+> niepomijalnym	niepomijalny	adj:sg:loc:m1.m2.m3.n:pos		
+> niepomijalny	niepomijalny	adj:sg:acc:m3:pos		
+> niepomijalny	niepomijalny	adj:sg:nom.voc:m1.m2.m3:pos		
+2690361a2690363
+> niepracochłonnie	niepracochłonnie	adv:pos		
+2951258a2951261
+> nieteocentrycznie	nieteocentrycznie	adv:pos		
+3157992a3157996
+> nieżyworodnie	nieżyworodnie	adv:pos		
+3219742a3219747
+> obliczalnie	obliczalnie	adv:pos		
+3279382a3279388
+> oceanologicznie	oceanologicznie	adv:pos		
+3472746a3472753,3472776
+> ojnologiczna	ojnologiczny	adj:sg:nom.voc:f:pos		
+> ojnologiczną	ojnologiczny	adj:sg:acc:f:pos		
+> ojnologiczną	ojnologiczny	adj:sg:inst:f:pos		
+> ojnologicznego	ojnologiczny	adj:sg:acc:m1.m2:pos		
+> ojnologicznego	ojnologiczny	adj:sg:gen:m1.m2.m3.n:pos		
+> ojnologicznej	ojnologiczny	adj:sg:dat:f:pos		
+> ojnologicznej	ojnologiczny	adj:sg:gen:f:pos		
+> ojnologicznej	ojnologiczny	adj:sg:loc:f:pos		
+> ojnologicznemu	ojnologiczny	adj:sg:dat:m1.m2.m3.n:pos		
+> ojnologiczne	ojnologiczny	adj:pl:acc:m2.m3.f.n:pos		
+> ojnologiczne	ojnologiczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> ojnologiczne	ojnologiczny	adj:sg:acc:n:pos		
+> ojnologiczne	ojnologiczny	adj:sg:nom.voc:n:pos		
+> ojnologiczni	ojnologiczny	adj:pl:nom.voc:m1:pos		
+> ojnologiczno	ojnologiczny	adja		
+> ojnologicznych	ojnologiczny	adj:pl:acc:m1:pos		
+> ojnologicznych	ojnologiczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> ojnologicznych	ojnologiczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> ojnologicznymi	ojnologiczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> ojnologicznym	ojnologiczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> ojnologicznym	ojnologiczny	adj:sg:inst:m1.m2.m3.n:pos		
+> ojnologicznym	ojnologiczny	adj:sg:loc:m1.m2.m3.n:pos		
+> ojnologiczny	ojnologiczny	adj:sg:acc:m3:pos		
+> ojnologiczny	ojnologiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+3514959,3514960c3514989,3514990
+< ich	on:o	ppron3:pl:gen:_:ter:akc.nakc:npraep		
+< im	on:o	ppron3:pl:dat:_:ter:akc.nakc:npraep		
+---
+> ich	on:o	ppron3:pl:gen:m1.m2.m3.f.n:ter:akc.nakc:npraep		
+> im	on:o	ppron3:pl:dat:m1.m2.m3.f.n:ter:akc.nakc:npraep		
+3514976,3514977c3515006,3515007
+< nich	on:o	ppron3:pl:gen:_:ter:akc.nakc:praep		
+< nich	on:o	ppron3:pl:loc:_:ter:akc.nakc:praep.npraep		
+---
+> nich	on:o	ppron3:pl:gen:m1.m2.m3.f.n:ter:akc.nakc:praep		
+> nich	on:o	ppron3:pl:loc:m1.m2.m3.f.n:ter:akc.nakc:praep.npraep		
+3514988,3514989c3515018,3515019
+< nimi	on:o	ppron3:pl:inst:_:ter:akc.nakc:praep.npraep		
+< nim	on:o	ppron3:pl:dat:_:ter:akc.nakc:praep		
+---
+> nimi	on:o	ppron3:pl:inst:m1.m2.m3.f.n:ter:akc.nakc:praep.npraep		
+> nim	on:o	ppron3:pl:dat:m1.m2.m3.f.n:ter:akc.nakc:praep		
+4247435a4247466
+> pracochłonnie	pracochłonnie	adv:pos		
+5465173a5465205
+> teocentrycznie	teocentrycznie	adv:pos		
+6016701,6016707c6016733,6016739
+< wami	wy	ppron12:pl:inst:_:sec		
+< wam	wy	ppron12:pl:dat:_:sec		
+< was	wy	ppron12:pl:acc:_:sec		
+< was	wy	ppron12:pl:gen:_:sec		
+< was	wy	ppron12:pl:loc:_:sec		
+< wy	wy	ppron12:pl:nom:_:sec		
+< wy	wy	ppron12:pl:voc:_:sec		
+---
+> wami	wy	ppron12:pl:inst:m1.m2.m3.f.n:sec		
+> wam	wy	ppron12:pl:dat:m1.m2.m3.f.n:sec		
+> was	wy	ppron12:pl:acc:m1.m2.m3.f.n:sec		
+> was	wy	ppron12:pl:gen:m1.m2.m3.f.n:sec		
+> was	wy	ppron12:pl:loc:m1.m2.m3.f.n:sec		
+> wy	wy	ppron12:pl:nom:m1.m2.m3.f.n:sec		
+> wy	wy	ppron12:pl:voc:m1.m2.m3.f.n:sec		
+6793782,6793827c6793814,6793859
+< znajdując	znajdywać	pcon:imperf		
+< znajdują	znajdywać	fin:pl:ter:imperf		
+< znajdujcie	znajdywać	impt:pl:sec:imperf		
+< znajdujecie	znajdywać	fin:pl:sec:imperf		
+< znajdujemy	znajdywać	fin:pl:pri:imperf		
+< znajdujesz	znajdywać	fin:sg:sec:imperf		
+< znajduje	znajdywać	fin:sg:ter:imperf		
+< znajduję	znajdywać	fin:sg:pri:imperf		
+< znajdujmy	znajdywać	impt:pl:pri:imperf		
+< znajduj	znajdywać	impt:sg:sec:imperf		
+< znajdywać	znajdywać	inf:imperf		
+< znajdywalibyście	znajdywać	cond:pl:m1:sec:imperf		
+< znajdywalibyśmy	znajdywać	cond:pl:m1:pri:imperf		
+< znajdywaliby	znajdywać	cond:pl:m1:ter:imperf		
+< znajdywaliście	znajdywać	praet:pl:m1:sec:imperf		
+< znajdywaliśmy	znajdywać	praet:pl:m1:pri:imperf		
+< znajdywali	znajdywać	praet:pl:m1:imperf		
+< znajdywali	znajdywać	praet:pl:m1:ter:imperf		
+< znajdywałabym	znajdywać	cond:sg:f:pri:imperf		
+< znajdywałabyś	znajdywać	cond:sg:f:sec:imperf		
+< znajdywałaby	znajdywać	cond:sg:f:ter:imperf		
+< znajdywałam	znajdywać	praet:sg:f:pri:imperf		
+< znajdywałaś	znajdywać	praet:sg:f:sec:imperf		
+< znajdywała	znajdywać	praet:sg:f:imperf		
+< znajdywała	znajdywać	praet:sg:f:ter:imperf		
+< znajdywałbym	znajdywać	cond:sg:m1.m2.m3:pri:imperf		
+< znajdywałbyś	znajdywać	cond:sg:m1.m2.m3:sec:imperf		
+< znajdywałby	znajdywać	cond:sg:m1.m2.m3:ter:imperf		
+< znajdywałem	znajdywać	praet:sg:m1.m2.m3:pri:imperf		
+< znajdywałeś	znajdywać	praet:sg:m1.m2.m3:sec:imperf		
+< znajdywałobym	znajdywać	cond:sg:n:pri:imperf		
+< znajdywałobyś	znajdywać	cond:sg:n:sec:imperf		
+< znajdywałoby	znajdywać	cond:sg:n:ter:imperf		
+< znajdywałom	znajdywać	praet:sg:n:pri:imperf		
+< znajdywałoś	znajdywać	praet:sg:n:sec:imperf		
+< znajdywało	znajdywać	praet:sg:n:imperf		
+< znajdywało	znajdywać	praet:sg:n:ter:imperf		
+< znajdywałybyście	znajdywać	cond:pl:m2.m3.f.n:sec:imperf		
+< znajdywałybyśmy	znajdywać	cond:pl:m2.m3.f.n:pri:imperf		
+< znajdywałyby	znajdywać	cond:pl:m2.m3.f.n:ter:imperf		
+< znajdywałyście	znajdywać	praet:pl:m2.m3.f.n:sec:imperf		
+< znajdywałyśmy	znajdywać	praet:pl:m2.m3.f.n:pri:imperf		
+< znajdywały	znajdywać	praet:pl:m2.m3.f.n:imperf		
+< znajdywały	znajdywać	praet:pl:m2.m3.f.n:ter:imperf		
+< znajdywał	znajdywać	praet:sg:m1.m2.m3:imperf		
+< znajdywał	znajdywać	praet:sg:m1.m2.m3:ter:imperf		
+---
+> znajdując	znajdywać	pcon:imperf		rzad.
+> znajdują	znajdywać	fin:pl:ter:imperf		rzad.
+> znajdujcie	znajdywać	impt:pl:sec:imperf		rzad.
+> znajdujecie	znajdywać	fin:pl:sec:imperf		rzad.
+> znajdujemy	znajdywać	fin:pl:pri:imperf		rzad.
+> znajdujesz	znajdywać	fin:sg:sec:imperf		rzad.
+> znajduje	znajdywać	fin:sg:ter:imperf		rzad.
+> znajduję	znajdywać	fin:sg:pri:imperf		rzad.
+> znajdujmy	znajdywać	impt:pl:pri:imperf		rzad.
+> znajduj	znajdywać	impt:sg:sec:imperf		rzad.
+> znajdywać	znajdywać	inf:imperf		rzad.
+> znajdywalibyście	znajdywać	cond:pl:m1:sec:imperf		rzad.
+> znajdywalibyśmy	znajdywać	cond:pl:m1:pri:imperf		rzad.
+> znajdywaliby	znajdywać	cond:pl:m1:ter:imperf		rzad.
+> znajdywaliście	znajdywać	praet:pl:m1:sec:imperf		rzad.
+> znajdywaliśmy	znajdywać	praet:pl:m1:pri:imperf		rzad.
+> znajdywali	znajdywać	praet:pl:m1:imperf		rzad.
+> znajdywali	znajdywać	praet:pl:m1:ter:imperf		rzad.
+> znajdywałabym	znajdywać	cond:sg:f:pri:imperf		rzad.
+> znajdywałabyś	znajdywać	cond:sg:f:sec:imperf		rzad.
+> znajdywałaby	znajdywać	cond:sg:f:ter:imperf		rzad.
+> znajdywałam	znajdywać	praet:sg:f:pri:imperf		rzad.
+> znajdywałaś	znajdywać	praet:sg:f:sec:imperf		rzad.
+> znajdywała	znajdywać	praet:sg:f:imperf		rzad.
+> znajdywała	znajdywać	praet:sg:f:ter:imperf		rzad.
+> znajdywałbym	znajdywać	cond:sg:m1.m2.m3:pri:imperf		rzad.
+> znajdywałbyś	znajdywać	cond:sg:m1.m2.m3:sec:imperf		rzad.
+> znajdywałby	znajdywać	cond:sg:m1.m2.m3:ter:imperf		rzad.
+> znajdywałem	znajdywać	praet:sg:m1.m2.m3:pri:imperf		rzad.
+> znajdywałeś	znajdywać	praet:sg:m1.m2.m3:sec:imperf		rzad.
+> znajdywałobym	znajdywać	cond:sg:n:pri:imperf		rzad.
+> znajdywałobyś	znajdywać	cond:sg:n:sec:imperf		rzad.
+> znajdywałoby	znajdywać	cond:sg:n:ter:imperf		rzad.
+> znajdywałom	znajdywać	praet:sg:n:pri:imperf		rzad.
+> znajdywałoś	znajdywać	praet:sg:n:sec:imperf		rzad.
+> znajdywało	znajdywać	praet:sg:n:imperf		rzad.
+> znajdywało	znajdywać	praet:sg:n:ter:imperf		rzad.
+> znajdywałybyście	znajdywać	cond:pl:m2.m3.f.n:sec:imperf		rzad.
+> znajdywałybyśmy	znajdywać	cond:pl:m2.m3.f.n:pri:imperf		rzad.
+> znajdywałyby	znajdywać	cond:pl:m2.m3.f.n:ter:imperf		rzad.
+> znajdywałyście	znajdywać	praet:pl:m2.m3.f.n:sec:imperf		rzad.
+> znajdywałyśmy	znajdywać	praet:pl:m2.m3.f.n:pri:imperf		rzad.
+> znajdywały	znajdywać	praet:pl:m2.m3.f.n:imperf		rzad.
+> znajdywały	znajdywać	praet:pl:m2.m3.f.n:ter:imperf		rzad.
+> znajdywał	znajdywać	praet:sg:m1.m2.m3:imperf		rzad.
+> znajdywał	znajdywać	praet:sg:m1.m2.m3:ter:imperf		rzad.
+6793845c6793877
+< znajdywano	znajdywać	imps:imperf		
+---
+> znajdywano	znajdywać	imps:imperf		rzad.
+6910227a6910260
+> żyworodnie	żyworodnie	adv:pos		

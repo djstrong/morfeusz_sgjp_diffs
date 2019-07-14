@@ -1,0 +1,665 @@
+1307749,1307784c1307749,1307792
+< kosztować	kosztować:v3	inf:imperf		daw.
+< kosztowaliby	kosztować:v3	cond:pl:m1.p1:ter:imperf		daw.
+< kosztowalibyście	kosztować:v3	cond:pl:m1.p1:sec:imperf		daw.
+< kosztowalibyśmy	kosztować:v3	cond:pl:m1.p1:pri:imperf		daw.
+< kosztowali	kosztować:v3	praet:pl:m1.p1:imperf		daw.
+< kosztowali	kosztować:v3	praet:pl:m1.p1:ter:imperf		daw.
+< kosztowaliście	kosztować:v3	praet:pl:m1.p1:sec:imperf		daw.
+< kosztowaliśmy	kosztować:v3	praet:pl:m1.p1:pri:imperf		daw.
+< kosztowałaby	kosztować:v3	cond:sg:f:ter:imperf		daw.
+< kosztowałabym	kosztować:v3	cond:sg:f:pri:imperf		daw.
+< kosztowałabyś	kosztować:v3	cond:sg:f:sec:imperf		daw.
+< kosztowała	kosztować:v3	praet:sg:f:imperf		daw.
+< kosztowała	kosztować:v3	praet:sg:f:ter:imperf		daw.
+< kosztowałam	kosztować:v3	praet:sg:f:pri:imperf		daw.
+< kosztowałaś	kosztować:v3	praet:sg:f:sec:imperf		daw.
+< kosztowałby	kosztować:v3	cond:sg:m1.m2.m3:ter:imperf		daw.
+< kosztowałbym	kosztować:v3	cond:sg:m1.m2.m3:pri:imperf		daw.
+< kosztowałbyś	kosztować:v3	cond:sg:m1.m2.m3:sec:imperf		daw.
+< kosztowałem	kosztować:v3	praet:sg:m1.m2.m3:pri:imperf		daw.
+< kosztowałeś	kosztować:v3	praet:sg:m1.m2.m3:sec:imperf		daw.
+< kosztował	kosztować:v3	praet:sg:m1.m2.m3:imperf		daw.
+< kosztował	kosztować:v3	praet:sg:m1.m2.m3:ter:imperf		daw.
+< kosztowałoby	kosztować:v3	cond:sg:n1.n2:ter:imperf		daw.
+< kosztowałobym	kosztować:v3	cond:sg:n1.n2:pri:imperf		daw.
+< kosztowałobyś	kosztować:v3	cond:sg:n1.n2:sec:imperf		daw.
+< kosztowało	kosztować:v3	praet:sg:n1.n2:imperf		daw.
+< kosztowało	kosztować:v3	praet:sg:n1.n2:ter:imperf		daw.
+< kosztowałom	kosztować:v3	praet:sg:n1.n2:pri:imperf		daw.
+< kosztowałoś	kosztować:v3	praet:sg:n1.n2:sec:imperf		daw.
+< kosztowałyby	kosztować:v3	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
+< kosztowałybyście	kosztować:v3	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
+< kosztowałybyśmy	kosztować:v3	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+< kosztowały	kosztować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
+< kosztowały	kosztować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
+< kosztowałyście	kosztować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
+< kosztowałyśmy	kosztować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+---
+> kosztować	kosztować:v3	inf:imperf		przest.
+> kosztowaliby	kosztować:v3	cond:pl:m1.p1:ter:imperf		przest.
+> kosztowalibyście	kosztować:v3	cond:pl:m1.p1:sec:imperf		przest.
+> kosztowalibyśmy	kosztować:v3	cond:pl:m1.p1:pri:imperf		przest.
+> kosztowali	kosztować:v3	praet:pl:m1.p1:imperf		przest.
+> kosztowali	kosztować:v3	praet:pl:m1.p1:ter:imperf		przest.
+> kosztowaliście	kosztować:v3	praet:pl:m1.p1:sec:imperf		przest.
+> kosztowaliśmy	kosztować:v3	praet:pl:m1.p1:pri:imperf		przest.
+> kosztowałaby	kosztować:v3	cond:sg:f:ter:imperf		przest.
+> kosztowałabym	kosztować:v3	cond:sg:f:pri:imperf		przest.
+> kosztowałabyś	kosztować:v3	cond:sg:f:sec:imperf		przest.
+> kosztowała	kosztować:v3	praet:sg:f:imperf		przest.
+> kosztowała	kosztować:v3	praet:sg:f:ter:imperf		przest.
+> kosztowałam	kosztować:v3	praet:sg:f:pri:imperf		przest.
+> kosztowałaś	kosztować:v3	praet:sg:f:sec:imperf		przest.
+> kosztowałby	kosztować:v3	cond:sg:m1.m2.m3:ter:imperf		przest.
+> kosztowałbym	kosztować:v3	cond:sg:m1.m2.m3:pri:imperf		przest.
+> kosztowałbyś	kosztować:v3	cond:sg:m1.m2.m3:sec:imperf		przest.
+> kosztowałem	kosztować:v3	praet:sg:m1.m2.m3:pri:imperf		przest.
+> kosztowałeś	kosztować:v3	praet:sg:m1.m2.m3:sec:imperf		przest.
+> kosztował	kosztować:v3	praet:sg:m1.m2.m3:imperf		przest.
+> kosztował	kosztować:v3	praet:sg:m1.m2.m3:ter:imperf		przest.
+> kosztowałoby	kosztować:v3	cond:sg:n1.n2:ter:imperf		przest.
+> kosztowałobym	kosztować:v3	cond:sg:n1.n2:pri:imperf		przest.
+> kosztowałobyś	kosztować:v3	cond:sg:n1.n2:sec:imperf		przest.
+> kosztowało	kosztować:v3	praet:sg:n1.n2:imperf		przest.
+> kosztowało	kosztować:v3	praet:sg:n1.n2:ter:imperf		przest.
+> kosztowałom	kosztować:v3	praet:sg:n1.n2:pri:imperf		przest.
+> kosztowałoś	kosztować:v3	praet:sg:n1.n2:sec:imperf		przest.
+> kosztowałyby	kosztować:v3	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
+> kosztowałybyście	kosztować:v3	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
+> kosztowałybyśmy	kosztować:v3	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+> kosztowały	kosztować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
+> kosztowały	kosztować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
+> kosztowałyście	kosztować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
+> kosztowałyśmy	kosztować:v3	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+> kosztowana	kosztować:v3	ppas:sg:nom.voc:f:imperf:aff		przest.
+> kosztowaną	kosztować:v3	ppas:sg:acc.inst:f:imperf:aff		przest.
+> kosztowanego	kosztować:v3	ppas:sg:acc:m1.m2:imperf:aff		przest.
+> kosztowanego	kosztować:v3	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		przest.
+> kosztowanej	kosztować:v3	ppas:sg:gen.dat.loc:f:imperf:aff		przest.
+> kosztowane	kosztować:v3	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		przest.
+> kosztowane	kosztować:v3	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		przest.
+> kosztowanemu	kosztować:v3	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		przest.
+1307789a1307798
+> kosztowani	kosztować:v3	ppas:pl:nom.voc:m1.p1:imperf:aff		przest.
+1307792c1307801,1307808
+< kosztowano	kosztować:v3	imps:imperf		daw.
+---
+> kosztowano	kosztować:v3	imps:imperf		przest.
+> kosztowanych	kosztować:v3	ppas:pl:acc:m1.p1:imperf:aff		przest.
+> kosztowanych	kosztować:v3	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		przest.
+> kosztowany	kosztować:v3	ppas:sg:acc:m3:imperf:aff		przest.
+> kosztowany	kosztować:v3	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		przest.
+> kosztowanymi	kosztować:v3	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		przest.
+> kosztowanym	kosztować:v3	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		przest.
+> kosztowanym	kosztować:v3	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		przest.
+1307802c1307818
+< kosztując	kosztować:v3	pcon:imperf		daw.
+---
+> kosztując	kosztować:v3	pcon:imperf		przest.
+1307811,1307819c1307827,1307843
+< kosztują	kosztować:v3	fin:pl:ter:imperf		daw.
+< kosztujcie	kosztować:v3	impt:pl:sec:imperf		daw.
+< kosztujecie	kosztować:v3	fin:pl:sec:imperf		daw.
+< kosztuje	kosztować:v3	fin:sg:ter:imperf		daw.
+< kosztujemy	kosztować:v3	fin:pl:pri:imperf		daw.
+< kosztujesz	kosztować:v3	fin:sg:sec:imperf		daw.
+< kosztuję	kosztować:v3	fin:sg:pri:imperf		daw.
+< kosztuj	kosztować:v3	impt:sg:sec:imperf		daw.
+< kosztujmy	kosztować:v3	impt:pl:pri:imperf		daw.
+---
+> kosztują	kosztować:v3	fin:pl:ter:imperf		przest.
+> kosztujcie	kosztować:v3	impt:pl:sec:imperf		przest.
+> kosztujecie	kosztować:v3	fin:pl:sec:imperf		przest.
+> kosztuje	kosztować:v3	fin:sg:ter:imperf		przest.
+> kosztujemy	kosztować:v3	fin:pl:pri:imperf		przest.
+> kosztujesz	kosztować:v3	fin:sg:sec:imperf		przest.
+> kosztuję	kosztować:v3	fin:sg:pri:imperf		przest.
+> kosztuj	kosztować:v3	impt:sg:sec:imperf		przest.
+> kosztujmy	kosztować:v3	impt:pl:pri:imperf		przest.
+> niekosztowana	kosztować:v3	ppas:sg:nom.voc:f:imperf:neg		przest.
+> niekosztowaną	kosztować:v3	ppas:sg:acc.inst:f:imperf:neg		przest.
+> niekosztowanego	kosztować:v3	ppas:sg:acc:m1.m2:imperf:neg		przest.
+> niekosztowanego	kosztować:v3	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		przest.
+> niekosztowanej	kosztować:v3	ppas:sg:gen.dat.loc:f:imperf:neg		przest.
+> niekosztowane	kosztować:v3	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		przest.
+> niekosztowane	kosztować:v3	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		przest.
+> niekosztowanemu	kosztować:v3	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		przest.
+1307824a1307849
+> niekosztowani	kosztować:v3	ppas:pl:nom.voc:m1.p1:imperf:neg		przest.
+1307826a1307852,1307858
+> niekosztowanych	kosztować:v3	ppas:pl:acc:m1.p1:imperf:neg		przest.
+> niekosztowanych	kosztować:v3	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		przest.
+> niekosztowany	kosztować:v3	ppas:sg:acc:m3:imperf:neg		przest.
+> niekosztowany	kosztować:v3	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		przest.
+> niekosztowanymi	kosztować:v3	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		przest.
+> niekosztowanym	kosztować:v3	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		przest.
+> niekosztowanym	kosztować:v3	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		przest.
+4522780,4522787d4522811
+< nieprzyświecana	przyświecać	ppas:sg:nom.voc:f:imperf:neg		
+< nieprzyświecaną	przyświecać	ppas:sg:acc.inst:f:imperf:neg		
+< nieprzyświecanego	przyświecać	ppas:sg:acc:m1.m2:imperf:neg		
+< nieprzyświecanego	przyświecać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+< nieprzyświecanej	przyświecać	ppas:sg:gen.dat.loc:f:imperf:neg		
+< nieprzyświecanemu	przyświecać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+< nieprzyświecane	przyświecać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+< nieprzyświecane	przyświecać	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+4522794d4522817
+< nieprzyświecani	przyświecać	ppas:pl:nom.voc:m1.p1:imperf:neg		
+4522796,4522802d4522818
+< nieprzyświecanych	przyświecać	ppas:pl:acc:m1.p1:imperf:neg		
+< nieprzyświecanych	przyświecać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nieprzyświecanymi	przyświecać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nieprzyświecanym	przyświecać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nieprzyświecanym	przyświecać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+< nieprzyświecany	przyświecać	ppas:sg:acc:m3:imperf:neg		
+< nieprzyświecany	przyświecać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+4522864,4522871d4522879
+< przyświecana	przyświecać	ppas:sg:nom.voc:f:imperf:aff		
+< przyświecaną	przyświecać	ppas:sg:acc.inst:f:imperf:aff		
+< przyświecanego	przyświecać	ppas:sg:acc:m1.m2:imperf:aff		
+< przyświecanego	przyświecać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+< przyświecanej	przyświecać	ppas:sg:gen.dat.loc:f:imperf:aff		
+< przyświecanemu	przyświecać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+< przyświecane	przyświecać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+< przyświecane	przyświecać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+4522878d4522885
+< przyświecani	przyświecać	ppas:pl:nom.voc:m1.p1:imperf:aff		
+4522881,4522887d4522887
+< przyświecanych	przyświecać	ppas:pl:acc:m1.p1:imperf:aff		
+< przyświecanych	przyświecać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< przyświecanymi	przyświecać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< przyświecanym	przyświecać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< przyświecanym	przyświecać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+< przyświecany	przyświecać	ppas:sg:acc:m3:imperf:aff		
+< przyświecany	przyświecać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+4522897d4522896
+< nieprzyświeceni	przyświecić	ppas:pl:nom.voc:m1.p1:perf:neg		
+4522900,4522914d4522898
+< nieprzyświecona	przyświecić	ppas:sg:nom.voc:f:perf:neg		
+< nieprzyświeconą	przyświecić	ppas:sg:acc.inst:f:perf:neg		
+< nieprzyświeconego	przyświecić	ppas:sg:acc:m1.m2:perf:neg		
+< nieprzyświeconego	przyświecić	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+< nieprzyświeconej	przyświecić	ppas:sg:gen.dat.loc:f:perf:neg		
+< nieprzyświeconemu	przyświecić	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+< nieprzyświecone	przyświecić	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+< nieprzyświecone	przyświecić	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+< nieprzyświeconych	przyświecić	ppas:pl:acc:m1.p1:perf:neg		
+< nieprzyświeconych	przyświecić	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+< nieprzyświeconymi	przyświecić	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+< nieprzyświeconym	przyświecić	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+< nieprzyświeconym	przyświecić	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+< nieprzyświecony	przyświecić	ppas:sg:acc:m3:perf:neg		
+< nieprzyświecony	przyświecić	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+4522922d4522905
+< przyświeceni	przyświecić	ppas:pl:nom.voc:m1.p1:perf:aff		
+4522967,4522974d4522949
+< przyświecona	przyświecić	ppas:sg:nom.voc:f:perf:aff		
+< przyświeconą	przyświecić	ppas:sg:acc.inst:f:perf:aff		
+< przyświeconego	przyświecić	ppas:sg:acc:m1.m2:perf:aff		
+< przyświeconego	przyświecić	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+< przyświeconej	przyświecić	ppas:sg:gen.dat.loc:f:perf:aff		
+< przyświeconemu	przyświecić	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+< przyświecone	przyświecić	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+< przyświecone	przyświecić	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+4522976,4522982d4522950
+< przyświeconych	przyświecić	ppas:pl:acc:m1.p1:perf:aff		
+< przyświeconych	przyświecić	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+< przyświeconymi	przyświecić	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+< przyświeconym	przyświecić	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+< przyświeconym	przyświecić	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+< przyświecony	przyświecić	ppas:sg:acc:m3:perf:aff		
+< przyświecony	przyświecić	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+4581137,4581144d4581104
+< nierajcowana	rajcować	ppas:sg:nom.voc:f:imperf:neg		
+< nierajcowaną	rajcować	ppas:sg:acc.inst:f:imperf:neg		
+< nierajcowanego	rajcować	ppas:sg:acc:m1.m2:imperf:neg		
+< nierajcowanego	rajcować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+< nierajcowanej	rajcować	ppas:sg:gen.dat.loc:f:imperf:neg		
+< nierajcowanemu	rajcować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+< nierajcowane	rajcować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+< nierajcowane	rajcować	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+4581151d4581110
+< nierajcowani	rajcować	ppas:pl:nom.voc:m1.p1:imperf:neg		
+4581153,4581159d4581111
+< nierajcowanych	rajcować	ppas:pl:acc:m1.p1:imperf:neg		
+< nierajcowanych	rajcować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nierajcowanymi	rajcować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nierajcowanym	rajcować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nierajcowanym	rajcować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+< nierajcowany	rajcować	ppas:sg:acc:m3:imperf:neg		
+< nierajcowany	rajcować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+4581213,4581220d4581164
+< rajcowana	rajcować	ppas:sg:nom.voc:f:imperf:aff		
+< rajcowaną	rajcować	ppas:sg:acc.inst:f:imperf:aff		
+< rajcowanego	rajcować	ppas:sg:acc:m1.m2:imperf:aff		
+< rajcowanego	rajcować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+< rajcowanej	rajcować	ppas:sg:gen.dat.loc:f:imperf:aff		
+< rajcowanemu	rajcować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+< rajcowane	rajcować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+< rajcowane	rajcować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+4581227d4581170
+< rajcowani	rajcować	ppas:pl:nom.voc:m1.p1:imperf:aff		
+4581230,4581236d4581172
+< rajcowanych	rajcować	ppas:pl:acc:m1.p1:imperf:aff		
+< rajcowanych	rajcować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< rajcowanymi	rajcować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< rajcowanym	rajcować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< rajcowanym	rajcować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+< rajcowany	rajcować	ppas:sg:acc:m3:imperf:aff		
+< rajcowany	rajcować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+4638893a4638830
+> rodeu	rodeo	subst:sg:loc:n2	pospolita	rzad.
+5099285d5099221
+< niespoczęci	spocząć	ppas:pl:nom.voc:m1.p1:perf:neg		
+5099288,5099302d5099223
+< niespoczęta	spocząć	ppas:sg:nom.voc:f:perf:neg		
+< niespoczętą	spocząć	ppas:sg:acc.inst:f:perf:neg		
+< niespoczętego	spocząć	ppas:sg:acc:m1.m2:perf:neg		
+< niespoczętego	spocząć	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+< niespoczętej	spocząć	ppas:sg:gen.dat.loc:f:perf:neg		
+< niespoczętemu	spocząć	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+< niespoczęte	spocząć	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+< niespoczęte	spocząć	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+< niespoczętych	spocząć	ppas:pl:acc:m1.p1:perf:neg		
+< niespoczętych	spocząć	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+< niespoczętymi	spocząć	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+< niespoczętym	spocząć	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+< niespoczętym	spocząć	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+< niespoczęty	spocząć	ppas:sg:acc:m3:perf:neg		
+< niespoczęty	spocząć	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+5099318d5099238
+< spoczęci	spocząć	ppas:pl:nom.voc:m1.p1:perf:aff		
+5099349,5099356d5099268
+< spoczęta	spocząć	ppas:sg:nom.voc:f:perf:aff		
+< spoczętą	spocząć	ppas:sg:acc.inst:f:perf:aff		
+< spoczętego	spocząć	ppas:sg:acc:m1.m2:perf:aff		
+< spoczętego	spocząć	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+< spoczętej	spocząć	ppas:sg:gen.dat.loc:f:perf:aff		
+< spoczętemu	spocząć	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+< spoczęte	spocząć	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+< spoczęte	spocząć	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+5099358,5099364d5099269
+< spoczętych	spocząć	ppas:pl:acc:m1.p1:perf:aff		
+< spoczętych	spocząć	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+< spoczętymi	spocząć	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+< spoczętym	spocząć	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+< spoczętym	spocząć	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+< spoczęty	spocząć	ppas:sg:acc:m3:perf:aff		
+< spoczęty	spocząć	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+5099730,5099737d5099634
+< niespoczywana	spoczywać	ppas:sg:nom.voc:f:imperf:neg		
+< niespoczywaną	spoczywać	ppas:sg:acc.inst:f:imperf:neg		
+< niespoczywanego	spoczywać	ppas:sg:acc:m1.m2:imperf:neg		
+< niespoczywanego	spoczywać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+< niespoczywanej	spoczywać	ppas:sg:gen.dat.loc:f:imperf:neg		
+< niespoczywanemu	spoczywać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+< niespoczywane	spoczywać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+< niespoczywane	spoczywać	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+5099744d5099640
+< niespoczywani	spoczywać	ppas:pl:nom.voc:m1.p1:imperf:neg		
+5099746,5099752d5099641
+< niespoczywanych	spoczywać	ppas:pl:acc:m1.p1:imperf:neg		
+< niespoczywanych	spoczywać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< niespoczywanymi	spoczywać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< niespoczywanym	spoczywać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< niespoczywanym	spoczywać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+< niespoczywany	spoczywać	ppas:sg:acc:m3:imperf:neg		
+< niespoczywany	spoczywać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+5099814,5099821d5099702
+< spoczywana	spoczywać	ppas:sg:nom.voc:f:imperf:aff		
+< spoczywaną	spoczywać	ppas:sg:acc.inst:f:imperf:aff		
+< spoczywanego	spoczywać	ppas:sg:acc:m1.m2:imperf:aff		
+< spoczywanego	spoczywać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+< spoczywanej	spoczywać	ppas:sg:gen.dat.loc:f:imperf:aff		
+< spoczywanemu	spoczywać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+< spoczywane	spoczywać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+< spoczywane	spoczywać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+5099828d5099708
+< spoczywani	spoczywać	ppas:pl:nom.voc:m1.p1:imperf:aff		
+5099831,5099837d5099710
+< spoczywanych	spoczywać	ppas:pl:acc:m1.p1:imperf:aff		
+< spoczywanych	spoczywać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< spoczywanymi	spoczywać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< spoczywanym	spoczywać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< spoczywanym	spoczywać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+< spoczywany	spoczywać	ppas:sg:acc:m3:imperf:aff		
+< spoczywany	spoczywać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+5706307a5706181
+> videu	video:s	subst:sg:loc:n2	pospolita	rzad.
+5773752a5773627
+> wideu	wideo:s	subst:sg:loc:n2	pospolita	rzad.
+5891883,5891890d5891757
+< niewspółpracowana	współpracować	ppas:sg:nom.voc:f:imperf:neg		
+< niewspółpracowaną	współpracować	ppas:sg:acc.inst:f:imperf:neg		
+< niewspółpracowanego	współpracować	ppas:sg:acc:m1.m2:imperf:neg		
+< niewspółpracowanego	współpracować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+< niewspółpracowanej	współpracować	ppas:sg:gen.dat.loc:f:imperf:neg		
+< niewspółpracowanemu	współpracować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+< niewspółpracowane	współpracować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+< niewspółpracowane	współpracować	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+5891898,5891905d5891764
+< niewspółpracowani	współpracować	ppas:pl:nom.voc:m1.p1:imperf:neg		
+< niewspółpracowanych	współpracować	ppas:pl:acc:m1.p1:imperf:neg		
+< niewspółpracowanych	współpracować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< niewspółpracowanymi	współpracować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< niewspółpracowanym	współpracować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< niewspółpracowanym	współpracować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+< niewspółpracowany	współpracować	ppas:sg:acc:m3:imperf:neg		
+< niewspółpracowany	współpracować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+5891959,5891966d5891817
+< współpracowana	współpracować	ppas:sg:nom.voc:f:imperf:aff		
+< współpracowaną	współpracować	ppas:sg:acc.inst:f:imperf:aff		
+< współpracowanego	współpracować	ppas:sg:acc:m1.m2:imperf:aff		
+< współpracowanego	współpracować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+< współpracowanej	współpracować	ppas:sg:gen.dat.loc:f:imperf:aff		
+< współpracowanemu	współpracować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+< współpracowane	współpracować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+< współpracowane	współpracować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+5891974d5891824
+< współpracowani	współpracować	ppas:pl:nom.voc:m1.p1:imperf:aff		
+5891976,5891982d5891825
+< współpracowanych	współpracować	ppas:pl:acc:m1.p1:imperf:aff		
+< współpracowanych	współpracować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< współpracowanymi	współpracować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< współpracowanym	współpracować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< współpracowanym	współpracować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+< współpracowany	współpracować	ppas:sg:acc:m3:imperf:aff		
+< współpracowany	współpracować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+6212086d6211928
+< niewyżyci	wyżyć:v2	ppas:pl:nom.voc:m1.p1:perf:neg		
+6212088,6212102d6211929
+< niewyżyta	wyżyć:v2	ppas:sg:nom.voc:f:perf:neg		
+< niewyżytą	wyżyć:v2	ppas:sg:acc.inst:f:perf:neg		
+< niewyżytego	wyżyć:v2	ppas:sg:acc:m1.m2:perf:neg		
+< niewyżytego	wyżyć:v2	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+< niewyżytej	wyżyć:v2	ppas:sg:gen.dat.loc:f:perf:neg		
+< niewyżytemu	wyżyć:v2	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+< niewyżyte	wyżyć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+< niewyżyte	wyżyć:v2	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+< niewyżytych	wyżyć:v2	ppas:pl:acc:m1.p1:perf:neg		
+< niewyżytych	wyżyć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+< niewyżytymi	wyżyć:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+< niewyżytym	wyżyć:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+< niewyżytym	wyżyć:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+< niewyżyty	wyżyć:v2	ppas:sg:acc:m3:perf:neg		
+< niewyżyty	wyżyć:v2	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+6212110d6211936
+< wyżyci	wyżyć:v2	ppas:pl:nom.voc:m1.p1:perf:aff		
+6212157,6212164d6211982
+< wyżyta	wyżyć:v2	ppas:sg:nom.voc:f:perf:aff		
+< wyżytą	wyżyć:v2	ppas:sg:acc.inst:f:perf:aff		
+< wyżytego	wyżyć:v2	ppas:sg:acc:m1.m2:perf:aff		
+< wyżytego	wyżyć:v2	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+< wyżytej	wyżyć:v2	ppas:sg:gen.dat.loc:f:perf:aff		
+< wyżytemu	wyżyć:v2	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+< wyżyte	wyżyć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+< wyżyte	wyżyć:v2	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+6212166,6212172d6211983
+< wyżytych	wyżyć:v2	ppas:pl:acc:m1.p1:perf:aff		
+< wyżytych	wyżyć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+< wyżytymi	wyżyć:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+< wyżytym	wyżyć:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+< wyżytym	wyżyć:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+< wyżyty	wyżyć:v2	ppas:sg:acc:m3:perf:aff		
+< wyżyty	wyżyć:v2	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+6762046a6761858,6761865
+> niezżymana	zżymać:v1	ppas:sg:nom.voc:f:imperf:neg		
+> niezżymaną	zżymać:v1	ppas:sg:acc.inst:f:imperf:neg		
+> niezżymanego	zżymać:v1	ppas:sg:acc:m1.m2:imperf:neg		
+> niezżymanego	zżymać:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> niezżymanej	zżymać:v1	ppas:sg:gen.dat.loc:f:imperf:neg		
+> niezżymanemu	zżymać:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+> niezżymane	zżymać:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> niezżymane	zżymać:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+6762053a6761873,6761880
+> niezżymani	zżymać:v1	ppas:pl:nom.voc:m1.p1:imperf:neg		
+> niezżymanych	zżymać:v1	ppas:pl:acc:m1.p1:imperf:neg		
+> niezżymanych	zżymać:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> niezżymanymi	zżymać:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> niezżymanym	zżymać:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> niezżymanym	zżymać:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> niezżymany	zżymać:v1	ppas:sg:acc:m3:imperf:neg		
+> niezżymany	zżymać:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+6762114a6761942,6761949
+> zżymana	zżymać:v1	ppas:sg:nom.voc:f:imperf:aff		
+> zżymaną	zżymać:v1	ppas:sg:acc.inst:f:imperf:aff		
+> zżymanego	zżymać:v1	ppas:sg:acc:m1.m2:imperf:aff		
+> zżymanego	zżymać:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> zżymanej	zżymać:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
+> zżymanemu	zżymać:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+> zżymane	zżymać:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> zżymane	zżymać:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+6762121a6761957
+> zżymani	zżymać:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
+6762122a6761959,6761965
+> zżymanych	zżymać:v1	ppas:pl:acc:m1.p1:imperf:aff		
+> zżymanych	zżymać:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> zżymanymi	zżymać:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> zżymanym	zżymać:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> zżymanym	zżymać:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> zżymany	zżymać:v1	ppas:sg:acc:m3:imperf:aff		
+> zżymany	zżymać:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+6762253,6762315c6762096,6762253
+< niezżymnięciami	zżymnąć	ger:pl:inst:n2:perf:neg		
+< niezżymnięcia	zżymnąć	ger:pl:nom.acc:n2:perf:neg		
+< niezżymnięcia	zżymnąć	ger:sg:gen:n2:perf:neg		
+< niezżymnięciem	zżymnąć	ger:sg:inst:n2:perf:neg		
+< niezżymnięcie	zżymnąć	ger:sg:nom.acc:n2:perf:neg		
+< niezżymnięciom	zżymnąć	ger:pl:dat.loc:n2:perf:neg		
+< niezżymnięciu	zżymnąć	ger:sg:dat.loc:n2:perf:neg		
+< niezżymnięć	zżymnąć	ger:pl:gen:n2:perf:neg		
+< zżymnąć	zżymnąć	inf:perf		
+< zżymnąłbym	zżymnąć	cond:sg:m1.m2.m3:pri:perf		
+< zżymnąłbyś	zżymnąć	cond:sg:m1.m2.m3:sec:perf		
+< zżymnąłby	zżymnąć	cond:sg:m1.m2.m3:ter:perf		
+< zżymnąłem	zżymnąć	praet:sg:m1.m2.m3:pri:perf		
+< zżymnąłeś	zżymnąć	praet:sg:m1.m2.m3:sec:perf		
+< zżymnął	zżymnąć	praet:sg:m1.m2.m3:perf		
+< zżymnął	zżymnąć	praet:sg:m1.m2.m3:ter:perf		
+< zżymnąwszy	zżymnąć	pant:perf		
+< zżymną	zżymnąć	fin:pl:ter:perf		
+< zżymnęlibyście	zżymnąć	cond:pl:m1.p1:sec:perf		
+< zżymnęlibyśmy	zżymnąć	cond:pl:m1.p1:pri:perf		
+< zżymnęliby	zżymnąć	cond:pl:m1.p1:ter:perf		
+< zżymnęliście	zżymnąć	praet:pl:m1.p1:sec:perf		
+< zżymnęliśmy	zżymnąć	praet:pl:m1.p1:pri:perf		
+< zżymnęli	zżymnąć	praet:pl:m1.p1:perf		
+< zżymnęli	zżymnąć	praet:pl:m1.p1:ter:perf		
+< zżymnęłabym	zżymnąć	cond:sg:f:pri:perf		
+< zżymnęłabyś	zżymnąć	cond:sg:f:sec:perf		
+< zżymnęłaby	zżymnąć	cond:sg:f:ter:perf		
+< zżymnęłam	zżymnąć	praet:sg:f:pri:perf		
+< zżymnęłaś	zżymnąć	praet:sg:f:sec:perf		
+< zżymnęła	zżymnąć	praet:sg:f:perf		
+< zżymnęła	zżymnąć	praet:sg:f:ter:perf		
+< zżymnęłobym	zżymnąć	cond:sg:n1.n2:pri:perf		
+< zżymnęłobyś	zżymnąć	cond:sg:n1.n2:sec:perf		
+< zżymnęłoby	zżymnąć	cond:sg:n1.n2:ter:perf		
+< zżymnęłom	zżymnąć	praet:sg:n1.n2:pri:perf		
+< zżymnęłoś	zżymnąć	praet:sg:n1.n2:sec:perf		
+< zżymnęło	zżymnąć	praet:sg:n1.n2:perf		
+< zżymnęło	zżymnąć	praet:sg:n1.n2:ter:perf		
+< zżymnęłybyście	zżymnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+< zżymnęłybyśmy	zżymnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+< zżymnęłyby	zżymnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+< zżymnęłyście	zżymnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+< zżymnęłyśmy	zżymnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+< zżymnęły	zżymnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+< zżymnęły	zżymnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+< zżymnę	zżymnąć	fin:sg:pri:perf		
+< zżymniecie	zżymnąć	fin:pl:sec:perf		
+< zżymniemy	zżymnąć	fin:pl:pri:perf		
+< zżymniesz	zżymnąć	fin:sg:sec:perf		
+< zżymnie	zżymnąć	fin:sg:ter:perf		
+< zżymnięciami	zżymnąć	ger:pl:inst:n2:perf:aff		
+< zżymnięcia	zżymnąć	ger:pl:nom.acc:n2:perf:aff		
+< zżymnięcia	zżymnąć	ger:sg:gen:n2:perf:aff		
+< zżymnięciem	zżymnąć	ger:sg:inst:n2:perf:aff		
+< zżymnięcie	zżymnąć	ger:sg:nom.acc:n2:perf:aff		
+< zżymnięciom	zżymnąć	ger:pl:dat.loc:n2:perf:aff		
+< zżymnięciu	zżymnąć	ger:sg:dat.loc:n2:perf:aff		
+< zżymnięć	zżymnąć	ger:pl:gen:n2:perf:aff		
+< zżymnięto	zżymnąć	imps:perf		
+< zżymnijcie	zżymnąć	impt:pl:sec:perf		
+< zżymnijmy	zżymnąć	impt:pl:pri:perf		
+< zżymnij	zżymnąć	impt:sg:sec:perf		
+---
+> niezżymnięciami	zżymnąć:v1	ger:pl:inst:n2:perf:neg		
+> niezżymnięcia	zżymnąć:v1	ger:pl:nom.acc:n2:perf:neg		
+> niezżymnięcia	zżymnąć:v1	ger:sg:gen:n2:perf:neg		
+> niezżymnięciem	zżymnąć:v1	ger:sg:inst:n2:perf:neg		
+> niezżymnięcie	zżymnąć:v1	ger:sg:nom.acc:n2:perf:neg		
+> niezżymnięciom	zżymnąć:v1	ger:pl:dat.loc:n2:perf:neg		
+> niezżymnięciu	zżymnąć:v1	ger:sg:dat.loc:n2:perf:neg		
+> niezżymnięć	zżymnąć:v1	ger:pl:gen:n2:perf:neg		
+> zżymnąć	zżymnąć:v1	inf:perf		
+> zżymnąłbym	zżymnąć:v1	cond:sg:m1.m2.m3:pri:perf		
+> zżymnąłbyś	zżymnąć:v1	cond:sg:m1.m2.m3:sec:perf		
+> zżymnąłby	zżymnąć:v1	cond:sg:m1.m2.m3:ter:perf		
+> zżymnąłem	zżymnąć:v1	praet:sg:m1.m2.m3:pri:perf		
+> zżymnąłeś	zżymnąć:v1	praet:sg:m1.m2.m3:sec:perf		
+> zżymnął	zżymnąć:v1	praet:sg:m1.m2.m3:perf		
+> zżymnął	zżymnąć:v1	praet:sg:m1.m2.m3:ter:perf		
+> zżymnąwszy	zżymnąć:v1	pant:perf		
+> zżymną	zżymnąć:v1	fin:pl:ter:perf		
+> zżymnęlibyście	zżymnąć:v1	cond:pl:m1.p1:sec:perf		
+> zżymnęlibyśmy	zżymnąć:v1	cond:pl:m1.p1:pri:perf		
+> zżymnęliby	zżymnąć:v1	cond:pl:m1.p1:ter:perf		
+> zżymnęliście	zżymnąć:v1	praet:pl:m1.p1:sec:perf		
+> zżymnęliśmy	zżymnąć:v1	praet:pl:m1.p1:pri:perf		
+> zżymnęli	zżymnąć:v1	praet:pl:m1.p1:perf		
+> zżymnęli	zżymnąć:v1	praet:pl:m1.p1:ter:perf		
+> zżymnęłabym	zżymnąć:v1	cond:sg:f:pri:perf		
+> zżymnęłabyś	zżymnąć:v1	cond:sg:f:sec:perf		
+> zżymnęłaby	zżymnąć:v1	cond:sg:f:ter:perf		
+> zżymnęłam	zżymnąć:v1	praet:sg:f:pri:perf		
+> zżymnęłaś	zżymnąć:v1	praet:sg:f:sec:perf		
+> zżymnęła	zżymnąć:v1	praet:sg:f:perf		
+> zżymnęła	zżymnąć:v1	praet:sg:f:ter:perf		
+> zżymnęłobym	zżymnąć:v1	cond:sg:n1.n2:pri:perf		
+> zżymnęłobyś	zżymnąć:v1	cond:sg:n1.n2:sec:perf		
+> zżymnęłoby	zżymnąć:v1	cond:sg:n1.n2:ter:perf		
+> zżymnęłom	zżymnąć:v1	praet:sg:n1.n2:pri:perf		
+> zżymnęłoś	zżymnąć:v1	praet:sg:n1.n2:sec:perf		
+> zżymnęło	zżymnąć:v1	praet:sg:n1.n2:perf		
+> zżymnęło	zżymnąć:v1	praet:sg:n1.n2:ter:perf		
+> zżymnęłybyście	zżymnąć:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zżymnęłybyśmy	zżymnąć:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zżymnęłyby	zżymnąć:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zżymnęłyście	zżymnąć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zżymnęłyśmy	zżymnąć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zżymnęły	zżymnąć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> zżymnęły	zżymnąć:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zżymnę	zżymnąć:v1	fin:sg:pri:perf		
+> zżymniecie	zżymnąć:v1	fin:pl:sec:perf		
+> zżymniemy	zżymnąć:v1	fin:pl:pri:perf		
+> zżymniesz	zżymnąć:v1	fin:sg:sec:perf		
+> zżymnie	zżymnąć:v1	fin:sg:ter:perf		
+> zżymnięciami	zżymnąć:v1	ger:pl:inst:n2:perf:aff		
+> zżymnięcia	zżymnąć:v1	ger:pl:nom.acc:n2:perf:aff		
+> zżymnięcia	zżymnąć:v1	ger:sg:gen:n2:perf:aff		
+> zżymnięciem	zżymnąć:v1	ger:sg:inst:n2:perf:aff		
+> zżymnięcie	zżymnąć:v1	ger:sg:nom.acc:n2:perf:aff		
+> zżymnięciom	zżymnąć:v1	ger:pl:dat.loc:n2:perf:aff		
+> zżymnięciu	zżymnąć:v1	ger:sg:dat.loc:n2:perf:aff		
+> zżymnięć	zżymnąć:v1	ger:pl:gen:n2:perf:aff		
+> zżymnięto	zżymnąć:v1	imps:perf		
+> zżymnijcie	zżymnąć:v1	impt:pl:sec:perf		
+> zżymnijmy	zżymnąć:v1	impt:pl:pri:perf		
+> zżymnij	zżymnąć:v1	impt:sg:sec:perf		
+> niezżymnięciami	zżymnąć:v2	ger:pl:inst:n2:perf:neg		
+> niezżymnięcia	zżymnąć:v2	ger:pl:nom.acc:n2:perf:neg		
+> niezżymnięcia	zżymnąć:v2	ger:sg:gen:n2:perf:neg		
+> niezżymnięciem	zżymnąć:v2	ger:sg:inst:n2:perf:neg		
+> niezżymnięcie	zżymnąć:v2	ger:sg:nom.acc:n2:perf:neg		
+> niezżymnięciom	zżymnąć:v2	ger:pl:dat.loc:n2:perf:neg		
+> niezżymnięciu	zżymnąć:v2	ger:sg:dat.loc:n2:perf:neg		
+> niezżymnięci	zżymnąć:v2	ppas:pl:nom.voc:m1.p1:perf:neg		
+> niezżymnięć	zżymnąć:v2	ger:pl:gen:n2:perf:neg		
+> niezżymnięta	zżymnąć:v2	ppas:sg:nom.voc:f:perf:neg		
+> niezżymniętą	zżymnąć:v2	ppas:sg:acc.inst:f:perf:neg		
+> niezżymniętego	zżymnąć:v2	ppas:sg:acc:m1.m2:perf:neg		
+> niezżymniętego	zżymnąć:v2	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> niezżymniętej	zżymnąć:v2	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezżymniętemu	zżymnąć:v2	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> niezżymnięte	zżymnąć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> niezżymnięte	zżymnąć:v2	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> niezżymniętych	zżymnąć:v2	ppas:pl:acc:m1.p1:perf:neg		
+> niezżymniętych	zżymnąć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezżymniętymi	zżymnąć:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezżymniętym	zżymnąć:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezżymniętym	zżymnąć:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> niezżymnięty	zżymnąć:v2	ppas:sg:acc:m3:perf:neg		
+> niezżymnięty	zżymnąć:v2	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> zżymnąć	zżymnąć:v2	inf:perf		
+> zżymnąłbym	zżymnąć:v2	cond:sg:m1.m2.m3:pri:perf		
+> zżymnąłbyś	zżymnąć:v2	cond:sg:m1.m2.m3:sec:perf		
+> zżymnąłby	zżymnąć:v2	cond:sg:m1.m2.m3:ter:perf		
+> zżymnąłem	zżymnąć:v2	praet:sg:m1.m2.m3:pri:perf		
+> zżymnąłeś	zżymnąć:v2	praet:sg:m1.m2.m3:sec:perf		
+> zżymnął	zżymnąć:v2	praet:sg:m1.m2.m3:perf		
+> zżymnął	zżymnąć:v2	praet:sg:m1.m2.m3:ter:perf		
+> zżymnąwszy	zżymnąć:v2	pant:perf		
+> zżymną	zżymnąć:v2	fin:pl:ter:perf		
+> zżymnęlibyście	zżymnąć:v2	cond:pl:m1.p1:sec:perf		
+> zżymnęlibyśmy	zżymnąć:v2	cond:pl:m1.p1:pri:perf		
+> zżymnęliby	zżymnąć:v2	cond:pl:m1.p1:ter:perf		
+> zżymnęliście	zżymnąć:v2	praet:pl:m1.p1:sec:perf		
+> zżymnęliśmy	zżymnąć:v2	praet:pl:m1.p1:pri:perf		
+> zżymnęli	zżymnąć:v2	praet:pl:m1.p1:perf		
+> zżymnęli	zżymnąć:v2	praet:pl:m1.p1:ter:perf		
+> zżymnęłabym	zżymnąć:v2	cond:sg:f:pri:perf		
+> zżymnęłabyś	zżymnąć:v2	cond:sg:f:sec:perf		
+> zżymnęłaby	zżymnąć:v2	cond:sg:f:ter:perf		
+> zżymnęłam	zżymnąć:v2	praet:sg:f:pri:perf		
+> zżymnęłaś	zżymnąć:v2	praet:sg:f:sec:perf		
+> zżymnęła	zżymnąć:v2	praet:sg:f:perf		
+> zżymnęła	zżymnąć:v2	praet:sg:f:ter:perf		
+> zżymnęłobym	zżymnąć:v2	cond:sg:n1.n2:pri:perf		
+> zżymnęłobyś	zżymnąć:v2	cond:sg:n1.n2:sec:perf		
+> zżymnęłoby	zżymnąć:v2	cond:sg:n1.n2:ter:perf		
+> zżymnęłom	zżymnąć:v2	praet:sg:n1.n2:pri:perf		
+> zżymnęłoś	zżymnąć:v2	praet:sg:n1.n2:sec:perf		
+> zżymnęło	zżymnąć:v2	praet:sg:n1.n2:perf		
+> zżymnęło	zżymnąć:v2	praet:sg:n1.n2:ter:perf		
+> zżymnęłybyście	zżymnąć:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zżymnęłybyśmy	zżymnąć:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zżymnęłyby	zżymnąć:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zżymnęłyście	zżymnąć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zżymnęłyśmy	zżymnąć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zżymnęły	zżymnąć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> zżymnęły	zżymnąć:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zżymnę	zżymnąć:v2	fin:sg:pri:perf		
+> zżymniecie	zżymnąć:v2	fin:pl:sec:perf		
+> zżymniemy	zżymnąć:v2	fin:pl:pri:perf		
+> zżymniesz	zżymnąć:v2	fin:sg:sec:perf		
+> zżymnie	zżymnąć:v2	fin:sg:ter:perf		
+> zżymnięciami	zżymnąć:v2	ger:pl:inst:n2:perf:aff		
+> zżymnięcia	zżymnąć:v2	ger:pl:nom.acc:n2:perf:aff		
+> zżymnięcia	zżymnąć:v2	ger:sg:gen:n2:perf:aff		
+> zżymnięciem	zżymnąć:v2	ger:sg:inst:n2:perf:aff		
+> zżymnięcie	zżymnąć:v2	ger:sg:nom.acc:n2:perf:aff		
+> zżymnięciom	zżymnąć:v2	ger:pl:dat.loc:n2:perf:aff		
+> zżymnięciu	zżymnąć:v2	ger:sg:dat.loc:n2:perf:aff		
+> zżymnięci	zżymnąć:v2	ppas:pl:nom.voc:m1.p1:perf:aff		
+> zżymnięć	zżymnąć:v2	ger:pl:gen:n2:perf:aff		
+> zżymnięta	zżymnąć:v2	ppas:sg:nom.voc:f:perf:aff		
+> zżymniętą	zżymnąć:v2	ppas:sg:acc.inst:f:perf:aff		
+> zżymniętego	zżymnąć:v2	ppas:sg:acc:m1.m2:perf:aff		
+> zżymniętego	zżymnąć:v2	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> zżymniętej	zżymnąć:v2	ppas:sg:gen.dat.loc:f:perf:aff		
+> zżymniętemu	zżymnąć:v2	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> zżymnięte	zżymnąć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> zżymnięte	zżymnąć:v2	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> zżymnięto	zżymnąć:v2	imps:perf		
+> zżymniętych	zżymnąć:v2	ppas:pl:acc:m1.p1:perf:aff		
+> zżymniętych	zżymnąć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zżymniętymi	zżymnąć:v2	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zżymniętym	zżymnąć:v2	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zżymniętym	zżymnąć:v2	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> zżymnięty	zżymnąć:v2	ppas:sg:acc:m3:perf:aff		
+> zżymnięty	zżymnąć:v2	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zżymnijcie	zżymnąć:v2	impt:pl:sec:perf		
+> zżymnijmy	zżymnąć:v2	impt:pl:pri:perf		
+> zżymnij	zżymnąć:v2	impt:sg:sec:perf		

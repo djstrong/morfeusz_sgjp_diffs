@@ -1,0 +1,986 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.04.15
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.04.21
+262319a262320,262365
+> bodziaczek	bodziaczek	subst:sg:nom.acc:m3	nazwa_pospolita	pot.
+> bodziaczka	bodziaczek	subst:sg:gen:m3	nazwa_pospolita	pot.
+> bodziaczkach	bodziaczek	subst:pl:loc:m3	nazwa_pospolita	pot.
+> bodziaczkami	bodziaczek	subst:pl:inst:m3	nazwa_pospolita	pot.
+> bodziaczki	bodziaczek	subst:pl:nom.acc.voc:m3	nazwa_pospolita	pot.
+> bodziaczkiem	bodziaczek	subst:sg:inst:m3	nazwa_pospolita	pot.
+> bodziaczkom	bodziaczek	subst:pl:dat:m3	nazwa_pospolita	pot.
+> bodziaczkowi	bodziaczek	subst:sg:dat:m3	nazwa_pospolita	pot.
+> bodziaczków	bodziaczek	subst:pl:gen:m3	nazwa_pospolita	pot.
+> bodziaczku	bodziaczek	subst:sg:loc:m3	nazwa_pospolita	pot.
+> bodziaczku	bodziaczek	subst:sg:voc:m3	nazwa_pospolita	pot.
+> bodziaczkowościach	bodziaczkowość	subst:pl:loc:f		
+> bodziaczkowościami	bodziaczkowość	subst:pl:inst:f		
+> bodziaczkowością	bodziaczkowość	subst:sg:inst:f		
+> bodziaczkowości	bodziaczkowość	subst:pl:gen:f		
+> bodziaczkowości	bodziaczkowość	subst:pl:nom.acc.voc:f		
+> bodziaczkowości	bodziaczkowość	subst:sg:dat.loc:f		
+> bodziaczkowości	bodziaczkowość	subst:sg:gen:f		
+> bodziaczkowości	bodziaczkowość	subst:sg:voc:f		
+> bodziaczkowościom	bodziaczkowość	subst:pl:dat:f		
+> bodziaczkowość	bodziaczkowość	subst:sg:acc:f		
+> bodziaczkowość	bodziaczkowość	subst:sg:nom:f		
+> bodziaczkowa	bodziaczkowy	adj:sg:nom.voc:f:pos		
+> bodziaczkową	bodziaczkowy	adj:sg:acc:f:pos		
+> bodziaczkową	bodziaczkowy	adj:sg:inst:f:pos		
+> bodziaczkowe	bodziaczkowy	adj:pl:acc:m2.m3.f.n:pos		
+> bodziaczkowe	bodziaczkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> bodziaczkowe	bodziaczkowy	adj:sg:acc:n:pos		
+> bodziaczkowe	bodziaczkowy	adj:sg:nom.voc:n:pos		
+> bodziaczkowego	bodziaczkowy	adj:sg:acc:m1.m2:pos		
+> bodziaczkowego	bodziaczkowy	adj:sg:gen:m1.m2.m3.n:pos		
+> bodziaczkowej	bodziaczkowy	adj:sg:dat:f:pos		
+> bodziaczkowej	bodziaczkowy	adj:sg:gen:f:pos		
+> bodziaczkowej	bodziaczkowy	adj:sg:loc:f:pos		
+> bodziaczkowemu	bodziaczkowy	adj:sg:dat:m1.m2.m3.n:pos		
+> bodziaczkowi	bodziaczkowy	adj:pl:nom.voc:m1:pos		
+> bodziaczkowo	bodziaczkowy	adja		
+> bodziaczkowy	bodziaczkowy	adj:sg:acc:m3:pos		
+> bodziaczkowy	bodziaczkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> bodziaczkowych	bodziaczkowy	adj:pl:acc:m1:pos		
+> bodziaczkowych	bodziaczkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> bodziaczkowych	bodziaczkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> bodziaczkowym	bodziaczkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> bodziaczkowym	bodziaczkowy	adj:sg:inst:m1.m2.m3.n:pos		
+> bodziaczkowym	bodziaczkowy	adj:sg:loc:m1.m2.m3.n:pos		
+> bodziaczkowymi	bodziaczkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+262330a262377,262411
+> bodziakowościach	bodziakowość	subst:pl:loc:f		
+> bodziakowościami	bodziakowość	subst:pl:inst:f		
+> bodziakowością	bodziakowość	subst:sg:inst:f		
+> bodziakowości	bodziakowość	subst:pl:gen:f		
+> bodziakowości	bodziakowość	subst:pl:nom.acc.voc:f		
+> bodziakowości	bodziakowość	subst:sg:dat.loc:f		
+> bodziakowości	bodziakowość	subst:sg:gen:f		
+> bodziakowości	bodziakowość	subst:sg:voc:f		
+> bodziakowościom	bodziakowość	subst:pl:dat:f		
+> bodziakowość	bodziakowość	subst:sg:acc:f		
+> bodziakowość	bodziakowość	subst:sg:nom:f		
+> bodziakowa	bodziakowy	adj:sg:nom.voc:f:pos		
+> bodziakową	bodziakowy	adj:sg:acc:f:pos		
+> bodziakową	bodziakowy	adj:sg:inst:f:pos		
+> bodziakowe	bodziakowy	adj:pl:acc:m2.m3.f.n:pos		
+> bodziakowe	bodziakowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> bodziakowe	bodziakowy	adj:sg:acc:n:pos		
+> bodziakowe	bodziakowy	adj:sg:nom.voc:n:pos		
+> bodziakowego	bodziakowy	adj:sg:acc:m1.m2:pos		
+> bodziakowego	bodziakowy	adj:sg:gen:m1.m2.m3.n:pos		
+> bodziakowej	bodziakowy	adj:sg:dat:f:pos		
+> bodziakowej	bodziakowy	adj:sg:gen:f:pos		
+> bodziakowej	bodziakowy	adj:sg:loc:f:pos		
+> bodziakowemu	bodziakowy	adj:sg:dat:m1.m2.m3.n:pos		
+> bodziakowi	bodziakowy	adj:pl:nom.voc:m1:pos		
+> bodziakowo	bodziakowy	adja		
+> bodziakowy	bodziakowy	adj:sg:acc:m3:pos		
+> bodziakowy	bodziakowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> bodziakowych	bodziakowy	adj:pl:acc:m1:pos		
+> bodziakowych	bodziakowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> bodziakowych	bodziakowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> bodziakowym	bodziakowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> bodziakowym	bodziakowy	adj:sg:inst:m1.m2.m3.n:pos		
+> bodziakowym	bodziakowy	adj:sg:loc:m1.m2.m3.n:pos		
+> bodziakowymi	bodziakowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+331962a332044,332066
+> bukowianach	bukowianin	subst:pl:loc:m1	nazwa_pospolita	
+> bukowianami	bukowianin	subst:pl:inst:m1	nazwa_pospolita	
+> bukowian	bukowianin	subst:pl:gen.acc:m1	nazwa_pospolita	
+> bukowianie	bukowianin	subst:pl:nom.voc:m1	nazwa_pospolita	
+> bukowianina	bukowianin	subst:sg:gen.acc:m1	nazwa_pospolita	
+> bukowianin	bukowianin	subst:sg:nom:m1	nazwa_pospolita	
+> bukowianinem	bukowianin	subst:sg:inst:m1	nazwa_pospolita	
+> bukowianinie	bukowianin	subst:sg:loc:m1	nazwa_pospolita	
+> bukowianinie	bukowianin	subst:sg:voc:m1	nazwa_pospolita	
+> bukowianinowi	bukowianin	subst:sg:dat:m1	nazwa_pospolita	
+> bukowianom	bukowianin	subst:pl:dat:m1	nazwa_pospolita	
+> bukowiany	bukowianin	depr:pl:nom.acc.voc:m2	nazwa_pospolita	
+> bukowiance	bukowianka	subst:sg:dat.loc:f	nazwa_pospolita	
+> bukowianek	bukowianka	subst:pl:gen:f	nazwa_pospolita	
+> bukowianka	bukowianka	subst:sg:nom:f	nazwa_pospolita	
+> bukowiankach	bukowianka	subst:pl:loc:f	nazwa_pospolita	
+> bukowiankami	bukowianka	subst:pl:inst:f	nazwa_pospolita	
+> bukowianką	bukowianka	subst:sg:inst:f	nazwa_pospolita	
+> bukowiankę	bukowianka	subst:sg:acc:f	nazwa_pospolita	
+> bukowianki	bukowianka	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> bukowianki	bukowianka	subst:sg:gen:f	nazwa_pospolita	
+> bukowianko	bukowianka	subst:sg:voc:f	nazwa_pospolita	
+> bukowiankom	bukowianka	subst:pl:dat:f	nazwa_pospolita	
+372211a372316,372326
+> CEPiK-ach	CEPiK	subst:pl:loc:m3	nazwa_instytucji	
+> CEPiK-ami	CEPiK	subst:pl:inst:m3	nazwa_instytucji	
+> CEPiK	CEPiK	subst:sg:nom.acc:m3	nazwa_instytucji	
+> CEPiK-i	CEPiK	subst:pl:nom.acc.voc:m3	nazwa_instytucji	
+> CEPiK-iem	CEPiK	subst:sg:inst:m3	nazwa_instytucji	
+> CEPiK-om	CEPiK	subst:pl:dat:m3	nazwa_instytucji	
+> CEPiK-owi	CEPiK	subst:sg:dat:m3	nazwa_instytucji	
+> CEPiK-ów	CEPiK	subst:pl:gen:m3	nazwa_instytucji	
+> CEPiK-u	CEPiK	subst:sg:gen:m3	nazwa_instytucji	
+> CEPiK-u	CEPiK	subst:sg:loc:m3	nazwa_instytucji	
+> CEPiK-u	CEPiK	subst:sg:voc:m3	nazwa_instytucji	
+748644a748760,748770
+> dubeltówach	dubeltówa	subst:pl:loc:f	nazwa_pospolita	pot.
+> dubeltówa	dubeltówa	subst:sg:nom:f	nazwa_pospolita	pot.
+> dubeltówami	dubeltówa	subst:pl:inst:f	nazwa_pospolita	pot.
+> dubeltówą	dubeltówa	subst:sg:inst:f	nazwa_pospolita	pot.
+> dubeltów	dubeltówa	subst:pl:gen:f	nazwa_pospolita	pot.
+> dubeltówę	dubeltówa	subst:sg:acc:f	nazwa_pospolita	pot.
+> dubeltówie	dubeltówa	subst:sg:dat.loc:f	nazwa_pospolita	pot.
+> dubeltówo	dubeltówa	subst:sg:voc:f	nazwa_pospolita	pot.
+> dubeltówom	dubeltówa	subst:pl:dat:f	nazwa_pospolita	pot.
+> dubeltówy	dubeltówa	subst:pl:nom.acc.voc:f	nazwa_pospolita	pot.
+> dubeltówy	dubeltówa	subst:sg:gen:f	nazwa_pospolita	pot.
+1340158a1340285,1340344
+> judeofobach	judeofob	subst:pl:loc:m1	nazwa_pospolita	
+> judeofoba	judeofob	subst:sg:gen.acc:m1	nazwa_pospolita	
+> judeofobami	judeofob	subst:pl:inst:m1	nazwa_pospolita	
+> judeofobem	judeofob	subst:sg:inst:m1	nazwa_pospolita	
+> judeofobie	judeofob	subst:sg:loc:m1	nazwa_pospolita	
+> judeofobie	judeofob	subst:sg:voc:m1	nazwa_pospolita	
+> judeofobi	judeofob	subst:pl:nom.voc:m1	nazwa_pospolita	
+> judeofob	judeofob	subst:sg:nom:m1	nazwa_pospolita	
+> judeofobom	judeofob	subst:pl:dat:m1	nazwa_pospolita	
+> judeofobowie	judeofob	subst:pl:nom.voc:m1	nazwa_pospolita	
+> judeofobowi	judeofob	subst:sg:dat:m1	nazwa_pospolita	
+> judeofobów	judeofob	subst:pl:gen.acc:m1	nazwa_pospolita	
+> judeofoby	judeofob	depr:pl:nom.acc.voc:m2	nazwa_pospolita	
+> judeofobiach	judeofobia	subst:pl:loc:f	nazwa_pospolita	
+> judeofobia	judeofobia	subst:sg:nom:f	nazwa_pospolita	
+> judeofobiami	judeofobia	subst:pl:inst:f	nazwa_pospolita	
+> judeofobią	judeofobia	subst:sg:inst:f	nazwa_pospolita	
+> judeofobie	judeofobia	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> judeofobię	judeofobia	subst:sg:acc:f	nazwa_pospolita	
+> judeofobii	judeofobia	subst:pl:gen:f	nazwa_pospolita	hom.
+> judeofobii	judeofobia	subst:sg:dat.loc:f	nazwa_pospolita	
+> judeofobii	judeofobia	subst:sg:gen:f	nazwa_pospolita	
+> judeofobij	judeofobia	subst:pl:gen:f	nazwa_pospolita	arch.|char.
+> judeofobio	judeofobia	subst:sg:voc:f	nazwa_pospolita	
+> judeofobiom	judeofobia	subst:pl:dat:f	nazwa_pospolita	
+> judeofobicznościach	judeofobiczność	subst:pl:loc:f		
+> judeofobicznościami	judeofobiczność	subst:pl:inst:f		
+> judeofobicznością	judeofobiczność	subst:sg:inst:f		
+> judeofobiczności	judeofobiczność	subst:pl:gen:f		
+> judeofobiczności	judeofobiczność	subst:pl:nom.acc.voc:f		
+> judeofobiczności	judeofobiczność	subst:sg:dat.loc:f		
+> judeofobiczności	judeofobiczność	subst:sg:gen:f		
+> judeofobiczności	judeofobiczność	subst:sg:voc:f		
+> judeofobicznościom	judeofobiczność	subst:pl:dat:f		
+> judeofobiczność	judeofobiczność	subst:sg:acc:f		
+> judeofobiczność	judeofobiczność	subst:sg:nom:f		
+> judeofobiczna	judeofobiczny	adj:sg:nom.voc:f:pos		
+> judeofobiczną	judeofobiczny	adj:sg:acc:f:pos		
+> judeofobiczną	judeofobiczny	adj:sg:inst:f:pos		
+> judeofobicznego	judeofobiczny	adj:sg:acc:m1.m2:pos		
+> judeofobicznego	judeofobiczny	adj:sg:gen:m1.m2.m3.n:pos		
+> judeofobicznej	judeofobiczny	adj:sg:dat:f:pos		
+> judeofobicznej	judeofobiczny	adj:sg:gen:f:pos		
+> judeofobicznej	judeofobiczny	adj:sg:loc:f:pos		
+> judeofobiczne	judeofobiczny	adj:pl:acc:m2.m3.f.n:pos		
+> judeofobiczne	judeofobiczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> judeofobiczne	judeofobiczny	adj:sg:acc:n:pos		
+> judeofobiczne	judeofobiczny	adj:sg:nom.voc:n:pos		
+> judeofobicznemu	judeofobiczny	adj:sg:dat:m1.m2.m3.n:pos		
+> judeofobiczni	judeofobiczny	adj:pl:nom.voc:m1:pos		
+> judeofobiczno	judeofobiczny	adja		
+> judeofobicznych	judeofobiczny	adj:pl:acc:m1:pos		
+> judeofobicznych	judeofobiczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> judeofobicznych	judeofobiczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> judeofobiczny	judeofobiczny	adj:sg:acc:m3:pos		
+> judeofobiczny	judeofobiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+> judeofobicznymi	judeofobiczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> judeofobicznym	judeofobiczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> judeofobicznym	judeofobiczny	adj:sg:inst:m1.m2.m3.n:pos		
+> judeofobicznym	judeofobiczny	adj:sg:loc:m1.m2.m3.n:pos		
+1906636a1906823,1906846
+> majteczkowa	majteczkowy	adj:sg:nom.voc:f:pos		
+> majteczkową	majteczkowy	adj:sg:acc:f:pos		
+> majteczkową	majteczkowy	adj:sg:inst:f:pos		
+> majteczkowego	majteczkowy	adj:sg:acc:m1.m2:pos		
+> majteczkowego	majteczkowy	adj:sg:gen:m1.m2.m3.n:pos		
+> majteczkowej	majteczkowy	adj:sg:dat:f:pos		
+> majteczkowej	majteczkowy	adj:sg:gen:f:pos		
+> majteczkowej	majteczkowy	adj:sg:loc:f:pos		
+> majteczkowe	majteczkowy	adj:pl:acc:m2.m3.f.n:pos		
+> majteczkowe	majteczkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> majteczkowe	majteczkowy	adj:sg:acc:n:pos		
+> majteczkowe	majteczkowy	adj:sg:nom.voc:n:pos		
+> majteczkowemu	majteczkowy	adj:sg:dat:m1.m2.m3.n:pos		
+> majteczkowi	majteczkowy	adj:pl:nom.voc:m1:pos		
+> majteczkowo	majteczkowy	adja		
+> majteczkowych	majteczkowy	adj:pl:acc:m1:pos		
+> majteczkowych	majteczkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> majteczkowych	majteczkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> majteczkowy	majteczkowy	adj:sg:acc:m3:pos		
+> majteczkowy	majteczkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> majteczkowymi	majteczkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> majteczkowym	majteczkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> majteczkowym	majteczkowy	adj:sg:inst:m1.m2.m3.n:pos		
+> majteczkowym	majteczkowy	adj:sg:loc:m1.m2.m3.n:pos		
+1906676a1906887,1906910
+> majtkowa	majtkowy	adj:sg:nom.voc:f:pos		
+> majtkową	majtkowy	adj:sg:acc:f:pos		
+> majtkową	majtkowy	adj:sg:inst:f:pos		
+> majtkowego	majtkowy	adj:sg:acc:m1.m2:pos		
+> majtkowego	majtkowy	adj:sg:gen:m1.m2.m3.n:pos		
+> majtkowej	majtkowy	adj:sg:dat:f:pos		
+> majtkowej	majtkowy	adj:sg:gen:f:pos		
+> majtkowej	majtkowy	adj:sg:loc:f:pos		
+> majtkowe	majtkowy	adj:pl:acc:m2.m3.f.n:pos		
+> majtkowe	majtkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> majtkowe	majtkowy	adj:sg:acc:n:pos		
+> majtkowe	majtkowy	adj:sg:nom.voc:n:pos		
+> majtkowemu	majtkowy	adj:sg:dat:m1.m2.m3.n:pos		
+> majtkowi	majtkowy	adj:pl:nom.voc:m1:pos		
+> majtkowo	majtkowy	adja		
+> majtkowych	majtkowy	adj:pl:acc:m1:pos		
+> majtkowych	majtkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> majtkowych	majtkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> majtkowy	majtkowy	adj:sg:acc:m3:pos		
+> majtkowy	majtkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> majtkowymi	majtkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> majtkowym	majtkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> majtkowym	majtkowy	adj:sg:inst:m1.m2.m3.n:pos		
+> majtkowym	majtkowy	adj:sg:loc:m1.m2.m3.n:pos		
+2408835a2409070,2409139
+> niebodziaczkowościach	niebodziaczkowość	subst:pl:loc:f		
+> niebodziaczkowościami	niebodziaczkowość	subst:pl:inst:f		
+> niebodziaczkowością	niebodziaczkowość	subst:sg:inst:f		
+> niebodziaczkowości	niebodziaczkowość	subst:pl:gen:f		
+> niebodziaczkowości	niebodziaczkowość	subst:pl:nom.acc.voc:f		
+> niebodziaczkowości	niebodziaczkowość	subst:sg:dat.loc:f		
+> niebodziaczkowości	niebodziaczkowość	subst:sg:gen:f		
+> niebodziaczkowości	niebodziaczkowość	subst:sg:voc:f		
+> niebodziaczkowościom	niebodziaczkowość	subst:pl:dat:f		
+> niebodziaczkowość	niebodziaczkowość	subst:sg:acc:f		
+> niebodziaczkowość	niebodziaczkowość	subst:sg:nom:f		
+> niebodziaczkowa	niebodziaczkowy	adj:sg:nom.voc:f:pos		
+> niebodziaczkową	niebodziaczkowy	adj:sg:acc:f:pos		
+> niebodziaczkową	niebodziaczkowy	adj:sg:inst:f:pos		
+> niebodziaczkowego	niebodziaczkowy	adj:sg:acc:m1.m2:pos		
+> niebodziaczkowego	niebodziaczkowy	adj:sg:gen:m1.m2.m3.n:pos		
+> niebodziaczkowej	niebodziaczkowy	adj:sg:dat:f:pos		
+> niebodziaczkowej	niebodziaczkowy	adj:sg:gen:f:pos		
+> niebodziaczkowej	niebodziaczkowy	adj:sg:loc:f:pos		
+> niebodziaczkowemu	niebodziaczkowy	adj:sg:dat:m1.m2.m3.n:pos		
+> niebodziaczkowe	niebodziaczkowy	adj:pl:acc:m2.m3.f.n:pos		
+> niebodziaczkowe	niebodziaczkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niebodziaczkowe	niebodziaczkowy	adj:sg:acc:n:pos		
+> niebodziaczkowe	niebodziaczkowy	adj:sg:nom.voc:n:pos		
+> niebodziaczkowi	niebodziaczkowy	adj:pl:nom.voc:m1:pos		
+> niebodziaczkowo	niebodziaczkowy	adja		
+> niebodziaczkowych	niebodziaczkowy	adj:pl:acc:m1:pos		
+> niebodziaczkowych	niebodziaczkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niebodziaczkowych	niebodziaczkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niebodziaczkowymi	niebodziaczkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niebodziaczkowym	niebodziaczkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niebodziaczkowym	niebodziaczkowy	adj:sg:inst:m1.m2.m3.n:pos		
+> niebodziaczkowym	niebodziaczkowy	adj:sg:loc:m1.m2.m3.n:pos		
+> niebodziaczkowy	niebodziaczkowy	adj:sg:acc:m3:pos		
+> niebodziaczkowy	niebodziaczkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> niebodziakowościach	niebodziakowość	subst:pl:loc:f		
+> niebodziakowościami	niebodziakowość	subst:pl:inst:f		
+> niebodziakowością	niebodziakowość	subst:sg:inst:f		
+> niebodziakowości	niebodziakowość	subst:pl:gen:f		
+> niebodziakowości	niebodziakowość	subst:pl:nom.acc.voc:f		
+> niebodziakowości	niebodziakowość	subst:sg:dat.loc:f		
+> niebodziakowości	niebodziakowość	subst:sg:gen:f		
+> niebodziakowości	niebodziakowość	subst:sg:voc:f		
+> niebodziakowościom	niebodziakowość	subst:pl:dat:f		
+> niebodziakowość	niebodziakowość	subst:sg:acc:f		
+> niebodziakowość	niebodziakowość	subst:sg:nom:f		
+> niebodziakowa	niebodziakowy	adj:sg:nom.voc:f:pos		
+> niebodziakową	niebodziakowy	adj:sg:acc:f:pos		
+> niebodziakową	niebodziakowy	adj:sg:inst:f:pos		
+> niebodziakowego	niebodziakowy	adj:sg:acc:m1.m2:pos		
+> niebodziakowego	niebodziakowy	adj:sg:gen:m1.m2.m3.n:pos		
+> niebodziakowej	niebodziakowy	adj:sg:dat:f:pos		
+> niebodziakowej	niebodziakowy	adj:sg:gen:f:pos		
+> niebodziakowej	niebodziakowy	adj:sg:loc:f:pos		
+> niebodziakowemu	niebodziakowy	adj:sg:dat:m1.m2.m3.n:pos		
+> niebodziakowe	niebodziakowy	adj:pl:acc:m2.m3.f.n:pos		
+> niebodziakowe	niebodziakowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niebodziakowe	niebodziakowy	adj:sg:acc:n:pos		
+> niebodziakowe	niebodziakowy	adj:sg:nom.voc:n:pos		
+> niebodziakowi	niebodziakowy	adj:pl:nom.voc:m1:pos		
+> niebodziakowo	niebodziakowy	adja		
+> niebodziakowych	niebodziakowy	adj:pl:acc:m1:pos		
+> niebodziakowych	niebodziakowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niebodziakowych	niebodziakowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niebodziakowymi	niebodziakowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niebodziakowym	niebodziakowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niebodziakowym	niebodziakowy	adj:sg:inst:m1.m2.m3.n:pos		
+> niebodziakowym	niebodziakowy	adj:sg:loc:m1.m2.m3.n:pos		
+> niebodziakowy	niebodziakowy	adj:sg:acc:m3:pos		
+> niebodziakowy	niebodziakowy	adj:sg:nom.voc:m1.m2.m3:pos		
+2661025a2661330,2661364
+> niejudeofobicznościach	niejudeofobiczność	subst:pl:loc:f		
+> niejudeofobicznościami	niejudeofobiczność	subst:pl:inst:f		
+> niejudeofobicznością	niejudeofobiczność	subst:sg:inst:f		
+> niejudeofobiczności	niejudeofobiczność	subst:pl:gen:f		
+> niejudeofobiczności	niejudeofobiczność	subst:pl:nom.acc.voc:f		
+> niejudeofobiczności	niejudeofobiczność	subst:sg:dat.loc:f		
+> niejudeofobiczności	niejudeofobiczność	subst:sg:gen:f		
+> niejudeofobiczności	niejudeofobiczność	subst:sg:voc:f		
+> niejudeofobicznościom	niejudeofobiczność	subst:pl:dat:f		
+> niejudeofobiczność	niejudeofobiczność	subst:sg:acc:f		
+> niejudeofobiczność	niejudeofobiczność	subst:sg:nom:f		
+> niejudeofobiczna	niejudeofobiczny	adj:sg:nom.voc:f:pos		
+> niejudeofobiczną	niejudeofobiczny	adj:sg:acc:f:pos		
+> niejudeofobiczną	niejudeofobiczny	adj:sg:inst:f:pos		
+> niejudeofobicznego	niejudeofobiczny	adj:sg:acc:m1.m2:pos		
+> niejudeofobicznego	niejudeofobiczny	adj:sg:gen:m1.m2.m3.n:pos		
+> niejudeofobicznej	niejudeofobiczny	adj:sg:dat:f:pos		
+> niejudeofobicznej	niejudeofobiczny	adj:sg:gen:f:pos		
+> niejudeofobicznej	niejudeofobiczny	adj:sg:loc:f:pos		
+> niejudeofobicznemu	niejudeofobiczny	adj:sg:dat:m1.m2.m3.n:pos		
+> niejudeofobiczne	niejudeofobiczny	adj:pl:acc:m2.m3.f.n:pos		
+> niejudeofobiczne	niejudeofobiczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niejudeofobiczne	niejudeofobiczny	adj:sg:acc:n:pos		
+> niejudeofobiczne	niejudeofobiczny	adj:sg:nom.voc:n:pos		
+> niejudeofobiczni	niejudeofobiczny	adj:pl:nom.voc:m1:pos		
+> niejudeofobiczno	niejudeofobiczny	adja		
+> niejudeofobicznych	niejudeofobiczny	adj:pl:acc:m1:pos		
+> niejudeofobicznych	niejudeofobiczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niejudeofobicznych	niejudeofobiczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niejudeofobicznymi	niejudeofobiczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niejudeofobicznym	niejudeofobiczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niejudeofobicznym	niejudeofobiczny	adj:sg:inst:m1.m2.m3.n:pos		
+> niejudeofobicznym	niejudeofobiczny	adj:sg:loc:m1.m2.m3.n:pos		
+> niejudeofobiczny	niejudeofobiczny	adj:sg:acc:m3:pos		
+> niejudeofobiczny	niejudeofobiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+2792151a2792491,2792537
+> niemajteczkowa	niemajteczkowy	adj:sg:nom.voc:f:pos		
+> niemajteczkową	niemajteczkowy	adj:sg:acc:f:pos		
+> niemajteczkową	niemajteczkowy	adj:sg:inst:f:pos		
+> niemajteczkowego	niemajteczkowy	adj:sg:acc:m1.m2:pos		
+> niemajteczkowego	niemajteczkowy	adj:sg:gen:m1.m2.m3.n:pos		
+> niemajteczkowej	niemajteczkowy	adj:sg:dat:f:pos		
+> niemajteczkowej	niemajteczkowy	adj:sg:gen:f:pos		
+> niemajteczkowej	niemajteczkowy	adj:sg:loc:f:pos		
+> niemajteczkowemu	niemajteczkowy	adj:sg:dat:m1.m2.m3.n:pos		
+> niemajteczkowe	niemajteczkowy	adj:pl:acc:m2.m3.f.n:pos		
+> niemajteczkowe	niemajteczkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niemajteczkowe	niemajteczkowy	adj:sg:acc:n:pos		
+> niemajteczkowe	niemajteczkowy	adj:sg:nom.voc:n:pos		
+> niemajteczkowi	niemajteczkowy	adj:pl:nom.voc:m1:pos		
+> niemajteczkowo	niemajteczkowy	adja		
+> niemajteczkowych	niemajteczkowy	adj:pl:acc:m1:pos		
+> niemajteczkowych	niemajteczkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niemajteczkowych	niemajteczkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niemajteczkowymi	niemajteczkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niemajteczkowym	niemajteczkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niemajteczkowym	niemajteczkowy	adj:sg:inst:m1.m2.m3.n:pos		
+> niemajteczkowym	niemajteczkowy	adj:sg:loc:m1.m2.m3.n:pos		
+> niemajteczkowy	niemajteczkowy	adj:sg:acc:m3:pos		
+> niemajteczkowy	niemajteczkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> niemajtkowa	niemajtkowy	adj:sg:nom.voc:f:pos		
+> niemajtkową	niemajtkowy	adj:sg:acc:f:pos		
+> niemajtkową	niemajtkowy	adj:sg:inst:f:pos		
+> niemajtkowego	niemajtkowy	adj:sg:acc:m1.m2:pos		
+> niemajtkowego	niemajtkowy	adj:sg:gen:m1.m2.m3.n:pos		
+> niemajtkowej	niemajtkowy	adj:sg:dat:f:pos		
+> niemajtkowej	niemajtkowy	adj:sg:gen:f:pos		
+> niemajtkowej	niemajtkowy	adj:sg:loc:f:pos		
+> niemajtkowemu	niemajtkowy	adj:sg:dat:m1.m2.m3.n:pos		
+> niemajtkowe	niemajtkowy	adj:pl:acc:m2.m3.f.n:pos		
+> niemajtkowe	niemajtkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niemajtkowe	niemajtkowy	adj:sg:acc:n:pos		
+> niemajtkowe	niemajtkowy	adj:sg:nom.voc:n:pos		
+> niemajtkowi	niemajtkowy	adj:pl:nom.voc:m1:pos		
+> niemajtkowych	niemajtkowy	adj:pl:acc:m1:pos		
+> niemajtkowych	niemajtkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niemajtkowych	niemajtkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niemajtkowymi	niemajtkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niemajtkowym	niemajtkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niemajtkowym	niemajtkowy	adj:sg:inst:m1.m2.m3.n:pos		
+> niemajtkowym	niemajtkowy	adj:sg:loc:m1.m2.m3.n:pos		
+> niemajtkowy	niemajtkowy	adj:sg:acc:m3:pos		
+> niemajtkowy	niemajtkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+3082936a3083323,3083357
+> nieprzeorowościach	nieprzeorowość	subst:pl:loc:f		
+> nieprzeorowościami	nieprzeorowość	subst:pl:inst:f		
+> nieprzeorowością	nieprzeorowość	subst:sg:inst:f		
+> nieprzeorowości	nieprzeorowość	subst:pl:gen:f		
+> nieprzeorowości	nieprzeorowość	subst:pl:nom.acc.voc:f		
+> nieprzeorowości	nieprzeorowość	subst:sg:dat.loc:f		
+> nieprzeorowości	nieprzeorowość	subst:sg:gen:f		
+> nieprzeorowości	nieprzeorowość	subst:sg:voc:f		
+> nieprzeorowościom	nieprzeorowość	subst:pl:dat:f		
+> nieprzeorowość	nieprzeorowość	subst:sg:acc:f		
+> nieprzeorowość	nieprzeorowość	subst:sg:nom:f		
+> nieprzeorowa	nieprzeorowy	adj:sg:nom.voc:f:pos		
+> nieprzeorową	nieprzeorowy	adj:sg:acc:f:pos		
+> nieprzeorową	nieprzeorowy	adj:sg:inst:f:pos		
+> nieprzeorowego	nieprzeorowy	adj:sg:acc:m1.m2:pos		
+> nieprzeorowego	nieprzeorowy	adj:sg:gen:m1.m2.m3.n:pos		
+> nieprzeorowej	nieprzeorowy	adj:sg:dat:f:pos		
+> nieprzeorowej	nieprzeorowy	adj:sg:gen:f:pos		
+> nieprzeorowej	nieprzeorowy	adj:sg:loc:f:pos		
+> nieprzeorowemu	nieprzeorowy	adj:sg:dat:m1.m2.m3.n:pos		
+> nieprzeorowe	nieprzeorowy	adj:pl:acc:m2.m3.f.n:pos		
+> nieprzeorowe	nieprzeorowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieprzeorowe	nieprzeorowy	adj:sg:acc:n:pos		
+> nieprzeorowe	nieprzeorowy	adj:sg:nom.voc:n:pos		
+> nieprzeorowi	nieprzeorowy	adj:pl:nom.voc:m1:pos		
+> nieprzeorowo	nieprzeorowy	adja		
+> nieprzeorowych	nieprzeorowy	adj:pl:acc:m1:pos		
+> nieprzeorowych	nieprzeorowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieprzeorowych	nieprzeorowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieprzeorowymi	nieprzeorowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieprzeorowym	nieprzeorowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieprzeorowym	nieprzeorowy	adj:sg:inst:m1.m2.m3.n:pos		
+> nieprzeorowym	nieprzeorowy	adj:sg:loc:m1.m2.m3.n:pos		
+> nieprzeorowy	nieprzeorowy	adj:sg:acc:m3:pos		
+> nieprzeorowy	nieprzeorowy	adj:sg:nom.voc:m1.m2.m3:pos		
+3271686a3272108,3272118
+> nieszydłowościach	nieszydłowość	subst:pl:loc:f		
+> nieszydłowościami	nieszydłowość	subst:pl:inst:f		
+> nieszydłowością	nieszydłowość	subst:sg:inst:f		
+> nieszydłowości	nieszydłowość	subst:pl:gen:f		
+> nieszydłowości	nieszydłowość	subst:pl:nom.acc.voc:f		
+> nieszydłowości	nieszydłowość	subst:sg:dat.loc:f		
+> nieszydłowości	nieszydłowość	subst:sg:gen:f		
+> nieszydłowości	nieszydłowość	subst:sg:voc:f		
+> nieszydłowościom	nieszydłowość	subst:pl:dat:f		
+> nieszydłowość	nieszydłowość	subst:sg:acc:f		
+> nieszydłowość	nieszydłowość	subst:sg:nom:f		
+3271721a3272154,3272177
+> nieszydłowa	nieszydłowy	adj:sg:nom.voc:f:pos		
+> nieszydłową	nieszydłowy	adj:sg:acc:f:pos		
+> nieszydłową	nieszydłowy	adj:sg:inst:f:pos		
+> nieszydłowego	nieszydłowy	adj:sg:acc:m1.m2:pos		
+> nieszydłowego	nieszydłowy	adj:sg:gen:m1.m2.m3.n:pos		
+> nieszydłowej	nieszydłowy	adj:sg:dat:f:pos		
+> nieszydłowej	nieszydłowy	adj:sg:gen:f:pos		
+> nieszydłowej	nieszydłowy	adj:sg:loc:f:pos		
+> nieszydłowemu	nieszydłowy	adj:sg:dat:m1.m2.m3.n:pos		
+> nieszydłowe	nieszydłowy	adj:pl:acc:m2.m3.f.n:pos		
+> nieszydłowe	nieszydłowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieszydłowe	nieszydłowy	adj:sg:acc:n:pos		
+> nieszydłowe	nieszydłowy	adj:sg:nom.voc:n:pos		
+> nieszydłowi	nieszydłowy	adj:pl:nom.voc:m1:pos		
+> nieszydłowo	nieszydłowy	adja		
+> nieszydłowych	nieszydłowy	adj:pl:acc:m1:pos		
+> nieszydłowych	nieszydłowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieszydłowych	nieszydłowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieszydłowymi	nieszydłowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieszydłowym	nieszydłowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieszydłowym	nieszydłowy	adj:sg:inst:m1.m2.m3.n:pos		
+> nieszydłowym	nieszydłowy	adj:sg:loc:m1.m2.m3.n:pos		
+> nieszydłowy	nieszydłowy	adj:sg:acc:m3:pos		
+> nieszydłowy	nieszydłowy	adj:sg:nom.voc:m1.m2.m3:pos		
+3287946a3288403,3288438
+> nietapeciarscy	nietapeciarski	adj:pl:nom.voc:m1:pos		
+> nietapeciarska	nietapeciarski	adj:sg:nom.voc:f:pos		
+> nietapeciarską	nietapeciarski	adj:sg:acc:f:pos		
+> nietapeciarską	nietapeciarski	adj:sg:inst:f:pos		
+> nietapeciarskich	nietapeciarski	adj:pl:acc:m1:pos		
+> nietapeciarskich	nietapeciarski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nietapeciarskich	nietapeciarski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nietapeciarskiego	nietapeciarski	adj:sg:acc:m1.m2:pos		
+> nietapeciarskiego	nietapeciarski	adj:sg:gen:m1.m2.m3.n:pos		
+> nietapeciarskiej	nietapeciarski	adj:sg:dat:f:pos		
+> nietapeciarskiej	nietapeciarski	adj:sg:gen:f:pos		
+> nietapeciarskiej	nietapeciarski	adj:sg:loc:f:pos		
+> nietapeciarskiemu	nietapeciarski	adj:sg:dat:m1.m2.m3.n:pos		
+> nietapeciarskie	nietapeciarski	adj:pl:acc:m2.m3.f.n:pos		
+> nietapeciarskie	nietapeciarski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nietapeciarskie	nietapeciarski	adj:sg:acc:n:pos		
+> nietapeciarskie	nietapeciarski	adj:sg:nom.voc:n:pos		
+> nietapeciarskimi	nietapeciarski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nietapeciarskim	nietapeciarski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nietapeciarskim	nietapeciarski	adj:sg:inst:m1.m2.m3.n:pos		
+> nietapeciarskim	nietapeciarski	adj:sg:loc:m1.m2.m3.n:pos		
+> nietapeciarski	nietapeciarski	adj:sg:acc:m3:pos		
+> nietapeciarski	nietapeciarski	adj:sg:nom.voc:m1.m2.m3:pos		
+> nietapeciarsko	nietapeciarski	adja		
+> nietapeciarsku	nietapeciarski	adjp:dat		
+> nietapeciarskościach	nietapeciarskość	subst:pl:loc:f		
+> nietapeciarskościami	nietapeciarskość	subst:pl:inst:f		
+> nietapeciarskością	nietapeciarskość	subst:sg:inst:f		
+> nietapeciarskości	nietapeciarskość	subst:pl:gen:f		
+> nietapeciarskości	nietapeciarskość	subst:pl:nom.acc.voc:f		
+> nietapeciarskości	nietapeciarskość	subst:sg:dat.loc:f		
+> nietapeciarskości	nietapeciarskość	subst:sg:gen:f		
+> nietapeciarskości	nietapeciarskość	subst:sg:voc:f		
+> nietapeciarskościom	nietapeciarskość	subst:pl:dat:f		
+> nietapeciarskość	nietapeciarskość	subst:sg:acc:f		
+> nietapeciarskość	nietapeciarskość	subst:sg:nom:f		
+3391328a3391821,3391855
+> niewroniastościach	niewroniastość	subst:pl:loc:f		
+> niewroniastościami	niewroniastość	subst:pl:inst:f		
+> niewroniastością	niewroniastość	subst:sg:inst:f		
+> niewroniastości	niewroniastość	subst:pl:gen:f		
+> niewroniastości	niewroniastość	subst:pl:nom.acc.voc:f		
+> niewroniastości	niewroniastość	subst:sg:dat.loc:f		
+> niewroniastości	niewroniastość	subst:sg:gen:f		
+> niewroniastości	niewroniastość	subst:sg:voc:f		
+> niewroniastościom	niewroniastość	subst:pl:dat:f		
+> niewroniastość	niewroniastość	subst:sg:acc:f		
+> niewroniastość	niewroniastość	subst:sg:nom:f		
+> niewroniasta	niewroniasty	adj:sg:nom.voc:f:pos		
+> niewroniastą	niewroniasty	adj:sg:acc:f:pos		
+> niewroniastą	niewroniasty	adj:sg:inst:f:pos		
+> niewroniastego	niewroniasty	adj:sg:acc:m1.m2:pos		
+> niewroniastego	niewroniasty	adj:sg:gen:m1.m2.m3.n:pos		
+> niewroniastej	niewroniasty	adj:sg:dat:f:pos		
+> niewroniastej	niewroniasty	adj:sg:gen:f:pos		
+> niewroniastej	niewroniasty	adj:sg:loc:f:pos		
+> niewroniastemu	niewroniasty	adj:sg:dat:m1.m2.m3.n:pos		
+> niewroniaste	niewroniasty	adj:pl:acc:m2.m3.f.n:pos		
+> niewroniaste	niewroniasty	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niewroniaste	niewroniasty	adj:sg:acc:n:pos		
+> niewroniaste	niewroniasty	adj:sg:nom.voc:n:pos		
+> niewroniasto	niewroniasty	adja		
+> niewroniastych	niewroniasty	adj:pl:acc:m1:pos		
+> niewroniastych	niewroniasty	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niewroniastych	niewroniasty	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niewroniastymi	niewroniasty	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niewroniastym	niewroniasty	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niewroniastym	niewroniasty	adj:sg:inst:m1.m2.m3.n:pos		
+> niewroniastym	niewroniasty	adj:sg:loc:m1.m2.m3.n:pos		
+> niewroniasty	niewroniasty	adj:sg:acc:m3:pos		
+> niewroniasty	niewroniasty	adj:sg:nom.voc:m1.m2.m3:pos		
+> niewroniaści	niewroniasty	adj:pl:nom.voc:m1:pos		
+4324559a4325087,4325097
+> pokerzystce	pokerzystka	subst:sg:dat.loc:f	nazwa_pospolita	
+> pokerzystek	pokerzystka	subst:pl:gen:f	nazwa_pospolita	
+> pokerzystkach	pokerzystka	subst:pl:loc:f	nazwa_pospolita	
+> pokerzystkami	pokerzystka	subst:pl:inst:f	nazwa_pospolita	
+> pokerzystka	pokerzystka	subst:sg:nom:f	nazwa_pospolita	
+> pokerzystką	pokerzystka	subst:sg:inst:f	nazwa_pospolita	
+> pokerzystkę	pokerzystka	subst:sg:acc:f	nazwa_pospolita	
+> pokerzystki	pokerzystka	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> pokerzystki	pokerzystka	subst:sg:gen:f	nazwa_pospolita	
+> pokerzystkom	pokerzystka	subst:pl:dat:f	nazwa_pospolita	
+> pokerzystko	pokerzystka	subst:sg:voc:f	nazwa_pospolita	
+4370292a4370831,4370930
+> niepomiędleniach	pomiędlić	ger:pl:loc:n:perf:neg		
+> niepomiędleniami	pomiędlić	ger:pl:inst:n:perf:neg		
+> niepomiędlenia	pomiędlić	ger:pl:nom.acc:n:perf:neg		
+> niepomiędlenia	pomiędlić	ger:sg:gen:n:perf:neg		
+> niepomiędleniem	pomiędlić	ger:sg:inst:n:perf:neg		
+> niepomiędlenie	pomiędlić	ger:sg:nom.acc:n:perf:neg		
+> niepomiędleniom	pomiędlić	ger:pl:dat:n:perf:neg		
+> niepomiędleni	pomiędlić	ppas:pl:nom.voc:m1:perf:neg		
+> niepomiędleniu	pomiędlić	ger:sg:dat.loc:n:perf:neg		
+> niepomiędleń	pomiędlić	ger:pl:gen:n:perf:neg		
+> niepomiędlona	pomiędlić	ppas:sg:nom.voc:f:perf:neg		
+> niepomiędloną	pomiędlić	ppas:sg:acc.inst:f:perf:neg		
+> niepomiędlonego	pomiędlić	ppas:sg:acc:m1.m2:perf:neg		
+> niepomiędlonego	pomiędlić	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niepomiędlonej	pomiędlić	ppas:sg:gen.dat.loc:f:perf:neg		
+> niepomiędlonemu	pomiędlić	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niepomiędlone	pomiędlić	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niepomiędlone	pomiędlić	ppas:sg:nom.acc.voc:n:perf:neg		
+> niepomiędlonych	pomiędlić	ppas:pl:acc:m1:perf:neg		
+> niepomiędlonych	pomiędlić	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niepomiędlonymi	pomiędlić	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niepomiędlonym	pomiędlić	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niepomiędlonym	pomiędlić	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niepomiędlony	pomiędlić	ppas:sg:acc:m3:perf:neg		
+> niepomiędlony	pomiędlić	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> pomiędlą	pomiędlić	fin:pl:ter:perf		
+> pomiędlcie	pomiędlić	impt:pl:sec:perf		
+> pomiędleniach	pomiędlić	ger:pl:loc:n:perf:aff		
+> pomiędleniami	pomiędlić	ger:pl:inst:n:perf:aff		
+> pomiędlenia	pomiędlić	ger:pl:nom.acc:n:perf:aff		
+> pomiędlenia	pomiędlić	ger:sg:gen:n:perf:aff		
+> pomiędleniem	pomiędlić	ger:sg:inst:n:perf:aff		
+> pomiędlenie	pomiędlić	ger:sg:nom.acc:n:perf:aff		
+> pomiędleniom	pomiędlić	ger:pl:dat:n:perf:aff		
+> pomiędleni	pomiędlić	ppas:pl:nom.voc:m1:perf:aff		
+> pomiędleniu	pomiędlić	ger:sg:dat.loc:n:perf:aff		
+> pomiędleń	pomiędlić	ger:pl:gen:n:perf:aff		
+> pomiędlę	pomiędlić	fin:sg:pri:perf		
+> pomiędlicie	pomiędlić	fin:pl:sec:perf		
+> pomiędlić	pomiędlić	inf:perf		
+> pomiędlijcie	pomiędlić	impt:pl:sec:perf		
+> pomiędlijmy	pomiędlić	impt:pl:pri:perf		
+> pomiędlij	pomiędlić	impt:sg:sec:perf		
+> pomiędliliby	pomiędlić	cond:pl:m1:ter:perf		
+> pomiędlilibyście	pomiędlić	cond:pl:m1:sec:perf		
+> pomiędlilibyśmy	pomiędlić	cond:pl:m1:pri:perf		
+> pomiędlili	pomiędlić	praet:pl:m1:perf		
+> pomiędlili	pomiędlić	praet:pl:m1:ter:perf		
+> pomiędliliście	pomiędlić	praet:pl:m1:sec:perf		
+> pomiędliliśmy	pomiędlić	praet:pl:m1:pri:perf		
+> pomiędliłabym	pomiędlić	cond:sg:f:pri:perf		
+> pomiędliłaby	pomiędlić	cond:sg:f:ter:perf		
+> pomiędliłabyś	pomiędlić	cond:sg:f:sec:perf		
+> pomiędliłam	pomiędlić	praet:sg:f:pri:perf		
+> pomiędliła	pomiędlić	praet:sg:f:perf		
+> pomiędliła	pomiędlić	praet:sg:f:ter:perf		
+> pomiędliłaś	pomiędlić	praet:sg:f:sec:perf		
+> pomiędliłbym	pomiędlić	cond:sg:m1.m2.m3:pri:perf		
+> pomiędliłby	pomiędlić	cond:sg:m1.m2.m3:ter:perf		
+> pomiędliłbyś	pomiędlić	cond:sg:m1.m2.m3:sec:perf		
+> pomiędliłem	pomiędlić	praet:sg:m1.m2.m3:pri:perf		
+> pomiędliłeś	pomiędlić	praet:sg:m1.m2.m3:sec:perf		
+> pomiędliłobym	pomiędlić	cond:sg:n:pri:perf		
+> pomiędliłoby	pomiędlić	cond:sg:n:ter:perf		
+> pomiędliłobyś	pomiędlić	cond:sg:n:sec:perf		
+> pomiędliłom	pomiędlić	praet:sg:n:pri:perf		
+> pomiędliło	pomiędlić	praet:sg:n:perf		
+> pomiędliło	pomiędlić	praet:sg:n:ter:perf		
+> pomiędliłoś	pomiędlić	praet:sg:n:sec:perf		
+> pomiędlił	pomiędlić	praet:sg:m1.m2.m3:perf		
+> pomiędlił	pomiędlić	praet:sg:m1.m2.m3:ter:perf		
+> pomiędliłyby	pomiędlić	cond:pl:m2.m3.f.n:ter:perf		
+> pomiędliłybyście	pomiędlić	cond:pl:m2.m3.f.n:sec:perf		
+> pomiędliłybyśmy	pomiędlić	cond:pl:m2.m3.f.n:pri:perf		
+> pomiędliły	pomiędlić	praet:pl:m2.m3.f.n:perf		
+> pomiędliły	pomiędlić	praet:pl:m2.m3.f.n:ter:perf		
+> pomiędliłyście	pomiędlić	praet:pl:m2.m3.f.n:sec:perf		
+> pomiędliłyśmy	pomiędlić	praet:pl:m2.m3.f.n:pri:perf		
+> pomiędlimy	pomiędlić	fin:pl:pri:perf		
+> pomiędli	pomiędlić	fin:sg:ter:perf		
+> pomiędlisz	pomiędlić	fin:sg:sec:perf		
+> pomiędliwszy	pomiędlić	pant:perf		
+> pomiędlmy	pomiędlić	impt:pl:pri:perf		
+> pomiędlona	pomiędlić	ppas:sg:nom.voc:f:perf:aff		
+> pomiędloną	pomiędlić	ppas:sg:acc.inst:f:perf:aff		
+> pomiędlonego	pomiędlić	ppas:sg:acc:m1.m2:perf:aff		
+> pomiędlonego	pomiędlić	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> pomiędlonej	pomiędlić	ppas:sg:gen.dat.loc:f:perf:aff		
+> pomiędlonemu	pomiędlić	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> pomiędlone	pomiędlić	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> pomiędlone	pomiędlić	ppas:sg:nom.acc.voc:n:perf:aff		
+> pomiędlono	pomiędlić	imps:perf		
+> pomiędlonych	pomiędlić	ppas:pl:acc:m1:perf:aff		
+> pomiędlonych	pomiędlić	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> pomiędlonymi	pomiędlić	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> pomiędlonym	pomiędlić	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> pomiędlonym	pomiędlić	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> pomiędlony	pomiędlić	ppas:sg:acc:m3:perf:aff		
+> pomiędlony	pomiędlić	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> pomiędl	pomiędlić	impt:sg:sec:perf		
+4799151a4799790,4799824
+> przeorowościach	przeorowość	subst:pl:loc:f		
+> przeorowościami	przeorowość	subst:pl:inst:f		
+> przeorowością	przeorowość	subst:sg:inst:f		
+> przeorowościom	przeorowość	subst:pl:dat:f		
+> przeorowości	przeorowość	subst:pl:gen:f		
+> przeorowości	przeorowość	subst:pl:nom.acc.voc:f		
+> przeorowości	przeorowość	subst:sg:dat.loc:f		
+> przeorowości	przeorowość	subst:sg:gen:f		
+> przeorowości	przeorowość	subst:sg:voc:f		
+> przeorowość	przeorowość	subst:sg:acc:f		
+> przeorowość	przeorowość	subst:sg:nom:f		
+> przeorowa	przeorowy	adj:sg:nom.voc:f:pos		
+> przeorową	przeorowy	adj:sg:acc:f:pos		
+> przeorową	przeorowy	adj:sg:inst:f:pos		
+> przeorowego	przeorowy	adj:sg:acc:m1.m2:pos		
+> przeorowego	przeorowy	adj:sg:gen:m1.m2.m3.n:pos		
+> przeorowej	przeorowy	adj:sg:dat:f:pos		
+> przeorowej	przeorowy	adj:sg:gen:f:pos		
+> przeorowej	przeorowy	adj:sg:loc:f:pos		
+> przeorowemu	przeorowy	adj:sg:dat:m1.m2.m3.n:pos		
+> przeorowe	przeorowy	adj:pl:acc:m2.m3.f.n:pos		
+> przeorowe	przeorowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> przeorowe	przeorowy	adj:sg:acc:n:pos		
+> przeorowe	przeorowy	adj:sg:nom.voc:n:pos		
+> przeorowi	przeorowy	adj:pl:nom.voc:m1:pos		
+> przeorowo	przeorowy	adja		
+> przeorowych	przeorowy	adj:pl:acc:m1:pos		
+> przeorowych	przeorowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> przeorowych	przeorowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> przeorowymi	przeorowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> przeorowym	przeorowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> przeorowym	przeorowy	adj:sg:inst:m1.m2.m3.n:pos		
+> przeorowym	przeorowy	adj:sg:loc:m1.m2.m3.n:pos		
+> przeorowy	przeorowy	adj:sg:acc:m3:pos		
+> przeorowy	przeorowy	adj:sg:nom.voc:m1.m2.m3:pos		
+5408086,5408096c5408759,5408769
+< sanach	san	subst:pl:loc:m3	nazwa_pospolita	
+< sanami	san	subst:pl:inst:m3	nazwa_pospolita	
+< sana	san	subst:sg:gen:m3	nazwa_pospolita	
+< sanem	san	subst:sg:inst:m3	nazwa_pospolita	
+< sanie	san	subst:sg:loc:m3	nazwa_pospolita	
+< sanie	san	subst:sg:voc:m3	nazwa_pospolita	
+< sanom	san	subst:pl:dat:m3	nazwa_pospolita	
+< sanowi	san	subst:sg:dat:m3	nazwa_pospolita	
+< sanów	san	subst:pl:gen:m3	nazwa_pospolita	
+< san	san	subst:sg:nom.acc:m3	nazwa_pospolita	
+< sany	san	subst:pl:nom.acc.voc:m3	nazwa_pospolita	
+---
+> sanach	san	subst:pl:loc:m2	nazwa_pospolita	
+> sanami	san	subst:pl:inst:m2	nazwa_pospolita	
+> sana	san	subst:sg:gen.acc:m2	nazwa_pospolita	
+> sanem	san	subst:sg:inst:m2	nazwa_pospolita	
+> sanie	san	subst:sg:loc:m2	nazwa_pospolita	
+> sanie	san	subst:sg:voc:m2	nazwa_pospolita	
+> sanom	san	subst:pl:dat:m2	nazwa_pospolita	
+> sanowi	san	subst:sg:dat:m2	nazwa_pospolita	
+> sanów	san	subst:pl:gen:m2	nazwa_pospolita	
+> san	san	subst:sg:nom:m2	nazwa_pospolita	
+> sany	san	subst:pl:nom.acc.voc:m2	nazwa_pospolita	
+5699568,5699578c5700241,5700251
+< starach	star	subst:pl:loc:m3	nazwa_pospolita	
+< starami	star	subst:pl:inst:m3	nazwa_pospolita	
+< stara	star	subst:sg:gen:m3	nazwa_pospolita	
+< starem	star	subst:sg:inst:m3	nazwa_pospolita	
+< starom	star	subst:pl:dat:m3	nazwa_pospolita	
+< starowi	star	subst:sg:dat:m3	nazwa_pospolita	
+< starów	star	subst:pl:gen:m3	nazwa_pospolita	
+< star	star	subst:sg:nom.acc:m3	nazwa_pospolita	
+< stary	star	subst:pl:nom.acc.voc:m3	nazwa_pospolita	
+< starze	star	subst:sg:loc:m3	nazwa_pospolita	
+< starze	star	subst:sg:voc:m3	nazwa_pospolita	
+---
+> starach	star	subst:pl:loc:m2	nazwa_pospolita	
+> starami	star	subst:pl:inst:m2	nazwa_pospolita	
+> stara	star	subst:sg:gen.acc:m2	nazwa_pospolita	
+> starem	star	subst:sg:inst:m2	nazwa_pospolita	
+> starom	star	subst:pl:dat:m2	nazwa_pospolita	
+> starowi	star	subst:sg:dat:m2	nazwa_pospolita	
+> starów	star	subst:pl:gen:m2	nazwa_pospolita	
+> star	star	subst:sg:nom:m2	nazwa_pospolita	
+> stary	star	subst:pl:nom.acc.voc:m2	nazwa_pospolita	
+> starze	star	subst:sg:loc:m2	nazwa_pospolita	
+> starze	star	subst:sg:voc:m2	nazwa_pospolita	
+5909213,5909236c5909886,5909931
+< szydlarzach	szydlarz	subst:pl:loc:m1	nazwa_pospolita	
+< szydlarzach	szydlarz	subst:pl:loc:m1	nazwa_pospolita	rzad.
+< szydlarzami	szydlarz	subst:pl:inst:m1	nazwa_pospolita	
+< szydlarzami	szydlarz	subst:pl:inst:m1	nazwa_pospolita	rzad.
+< szydlarza	szydlarz	subst:sg:gen.acc:m1	nazwa_pospolita	
+< szydlarza	szydlarz	subst:sg:gen.acc:m1	nazwa_pospolita	rzad.
+< szydlarzem	szydlarz	subst:sg:inst:m1	nazwa_pospolita	
+< szydlarzem	szydlarz	subst:sg:inst:m1	nazwa_pospolita	rzad.
+< szydlarze	szydlarz	depr:pl:nom.acc.voc:m2	nazwa_pospolita	
+< szydlarze	szydlarz	depr:pl:nom.acc.voc:m2	nazwa_pospolita	rzad.
+< szydlarze	szydlarz	subst:pl:nom.voc:m1	nazwa_pospolita	
+< szydlarze	szydlarz	subst:pl:nom.voc:m1	nazwa_pospolita	rzad.
+< szydlarzom	szydlarz	subst:pl:dat:m1	nazwa_pospolita	
+< szydlarzom	szydlarz	subst:pl:dat:m1	nazwa_pospolita	rzad.
+< szydlarzowi	szydlarz	subst:sg:dat:m1	nazwa_pospolita	
+< szydlarzowi	szydlarz	subst:sg:dat:m1	nazwa_pospolita	rzad.
+< szydlarzów	szydlarz	subst:pl:gen.acc:m1	nazwa_pospolita	rzad.
+< szydlarz	szydlarz	subst:sg:nom:m1	nazwa_pospolita	
+< szydlarz	szydlarz	subst:sg:nom:m1	nazwa_pospolita	rzad.
+< szydlarzu	szydlarz	subst:sg:loc:m1	nazwa_pospolita	
+< szydlarzu	szydlarz	subst:sg:loc:m1	nazwa_pospolita	rzad.
+< szydlarzu	szydlarz	subst:sg:voc:m1	nazwa_pospolita	
+< szydlarzu	szydlarz	subst:sg:voc:m1	nazwa_pospolita	rzad.
+< szydlarzy	szydlarz	subst:pl:gen.acc:m1	nazwa_pospolita	
+---
+> szydlarzach	szydlarz:s1	subst:pl:loc:m1	nazwa_pospolita	
+> szydlarzach	szydlarz:s1	subst:pl:loc:m1	nazwa_pospolita	rzad.
+> szydlarzami	szydlarz:s1	subst:pl:inst:m1	nazwa_pospolita	
+> szydlarzami	szydlarz:s1	subst:pl:inst:m1	nazwa_pospolita	rzad.
+> szydlarza	szydlarz:s1	subst:sg:gen.acc:m1	nazwa_pospolita	
+> szydlarza	szydlarz:s1	subst:sg:gen.acc:m1	nazwa_pospolita	rzad.
+> szydlarzem	szydlarz:s1	subst:sg:inst:m1	nazwa_pospolita	
+> szydlarzem	szydlarz:s1	subst:sg:inst:m1	nazwa_pospolita	rzad.
+> szydlarze	szydlarz:s1	depr:pl:nom.acc.voc:m2	nazwa_pospolita	
+> szydlarze	szydlarz:s1	depr:pl:nom.acc.voc:m2	nazwa_pospolita	rzad.
+> szydlarze	szydlarz:s1	subst:pl:nom.voc:m1	nazwa_pospolita	
+> szydlarze	szydlarz:s1	subst:pl:nom.voc:m1	nazwa_pospolita	rzad.
+> szydlarzom	szydlarz:s1	subst:pl:dat:m1	nazwa_pospolita	
+> szydlarzom	szydlarz:s1	subst:pl:dat:m1	nazwa_pospolita	rzad.
+> szydlarzowi	szydlarz:s1	subst:sg:dat:m1	nazwa_pospolita	
+> szydlarzowi	szydlarz:s1	subst:sg:dat:m1	nazwa_pospolita	rzad.
+> szydlarzów	szydlarz:s1	subst:pl:gen.acc:m1	nazwa_pospolita	rzad.
+> szydlarz	szydlarz:s1	subst:sg:nom:m1	nazwa_pospolita	
+> szydlarz	szydlarz:s1	subst:sg:nom:m1	nazwa_pospolita	rzad.
+> szydlarzu	szydlarz:s1	subst:sg:loc:m1	nazwa_pospolita	
+> szydlarzu	szydlarz:s1	subst:sg:loc:m1	nazwa_pospolita	rzad.
+> szydlarzu	szydlarz:s1	subst:sg:voc:m1	nazwa_pospolita	
+> szydlarzu	szydlarz:s1	subst:sg:voc:m1	nazwa_pospolita	rzad.
+> szydlarzy	szydlarz:s1	subst:pl:gen.acc:m1	nazwa_pospolita	
+> szydlarzach	szydlarz:s3	subst:pl:loc:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarzach	szydlarz:s3	subst:pl:loc:m2	nazwa_pospolita	środ.|łow.
+> szydlarzami	szydlarz:s3	subst:pl:inst:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarzami	szydlarz:s3	subst:pl:inst:m2	nazwa_pospolita	środ.|łow.
+> szydlarza	szydlarz:s3	subst:sg:gen.acc:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarza	szydlarz:s3	subst:sg:gen.acc:m2	nazwa_pospolita	środ.|łow.
+> szydlarzem	szydlarz:s3	subst:sg:inst:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarzem	szydlarz:s3	subst:sg:inst:m2	nazwa_pospolita	środ.|łow.
+> szydlarze	szydlarz:s3	subst:pl:nom.acc.voc:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarze	szydlarz:s3	subst:pl:nom.acc.voc:m2	nazwa_pospolita	środ.|łow.
+> szydlarzom	szydlarz:s3	subst:pl:dat:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarzom	szydlarz:s3	subst:pl:dat:m2	nazwa_pospolita	środ.|łow.
+> szydlarzowi	szydlarz:s3	subst:sg:dat:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarzowi	szydlarz:s3	subst:sg:dat:m2	nazwa_pospolita	środ.|łow.
+> szydlarzów	szydlarz:s3	subst:pl:gen:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarz	szydlarz:s3	subst:sg:nom:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarz	szydlarz:s3	subst:sg:nom:m2	nazwa_pospolita	środ.|łow.
+> szydlarzu	szydlarz:s3	subst:sg:loc:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarzu	szydlarz:s3	subst:sg:loc:m2	nazwa_pospolita	środ.|łow.
+> szydlarzu	szydlarz:s3	subst:sg:voc:m2	nazwa_pospolita	rzad.|środ.|łow.
+> szydlarzu	szydlarz:s3	subst:sg:voc:m2	nazwa_pospolita	środ.|łow.
+> szydlarzy	szydlarz:s3	subst:pl:gen:m2	nazwa_pospolita	środ.|łow.
+5909563a5910259,5910269
+> szydłowościach	szydłowość	subst:pl:loc:f		
+> szydłowościami	szydłowość	subst:pl:inst:f		
+> szydłowością	szydłowość	subst:sg:inst:f		
+> szydłowościom	szydłowość	subst:pl:dat:f		
+> szydłowości	szydłowość	subst:pl:gen:f		
+> szydłowości	szydłowość	subst:pl:nom.acc.voc:f		
+> szydłowości	szydłowość	subst:sg:dat.loc:f		
+> szydłowości	szydłowość	subst:sg:gen:f		
+> szydłowości	szydłowość	subst:sg:voc:f		
+> szydłowość	szydłowość	subst:sg:acc:f		
+> szydłowość	szydłowość	subst:sg:nom:f		
+5909623a5910330,5910353
+> szydłowa	szydłowy	adj:sg:nom.voc:f:pos		
+> szydłową	szydłowy	adj:sg:acc:f:pos		
+> szydłową	szydłowy	adj:sg:inst:f:pos		
+> szydłowego	szydłowy	adj:sg:acc:m1.m2:pos		
+> szydłowego	szydłowy	adj:sg:gen:m1.m2.m3.n:pos		
+> szydłowej	szydłowy	adj:sg:dat:f:pos		
+> szydłowej	szydłowy	adj:sg:gen:f:pos		
+> szydłowej	szydłowy	adj:sg:loc:f:pos		
+> szydłowemu	szydłowy	adj:sg:dat:m1.m2.m3.n:pos		
+> szydłowe	szydłowy	adj:pl:acc:m2.m3.f.n:pos		
+> szydłowe	szydłowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> szydłowe	szydłowy	adj:sg:acc:n:pos		
+> szydłowe	szydłowy	adj:sg:nom.voc:n:pos		
+> szydłowi	szydłowy	adj:pl:nom.voc:m1:pos		
+> szydłowo	szydłowy	adja		
+> szydłowych	szydłowy	adj:pl:acc:m1:pos		
+> szydłowych	szydłowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> szydłowych	szydłowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> szydłowymi	szydłowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> szydłowym	szydłowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> szydłowym	szydłowy	adj:sg:inst:m1.m2.m3.n:pos		
+> szydłowym	szydłowy	adj:sg:loc:m1.m2.m3.n:pos		
+> szydłowy	szydłowy	adj:sg:acc:m3:pos		
+> szydłowy	szydłowy	adj:sg:nom.voc:m1.m2.m3:pos		
+5977205a5977936,5978017
+> tapeciarach	tapeciara	subst:pl:loc:f	nazwa_pospolita	pogard.|pot.
+> tapeciarami	tapeciara	subst:pl:inst:f	nazwa_pospolita	pogard.|pot.
+> tapeciara	tapeciara	subst:sg:nom:f	nazwa_pospolita	pogard.|pot.
+> tapeciarą	tapeciara	subst:sg:inst:f	nazwa_pospolita	pogard.|pot.
+> tapeciarę	tapeciara	subst:sg:acc:f	nazwa_pospolita	pogard.|pot.
+> tapeciarom	tapeciara	subst:pl:dat:f	nazwa_pospolita	pogard.|pot.
+> tapeciaro	tapeciara	subst:sg:voc:f	nazwa_pospolita	pogard.|pot.
+> tapeciar	tapeciara	subst:pl:gen:f	nazwa_pospolita	pogard.|pot.
+> tapeciary	tapeciara	subst:pl:nom.acc.voc:f	nazwa_pospolita	pogard.|pot.
+> tapeciary	tapeciara	subst:sg:gen:f	nazwa_pospolita	pogard.|pot.
+> tapeciarze	tapeciara	subst:sg:dat.loc:f	nazwa_pospolita	pogard.|pot.
+> tapeciarce	tapeciarka	subst:sg:dat.loc:f	nazwa_pospolita	
+> tapeciarek	tapeciarka	subst:pl:gen:f	nazwa_pospolita	
+> tapeciarkach	tapeciarka	subst:pl:loc:f	nazwa_pospolita	
+> tapeciarkami	tapeciarka	subst:pl:inst:f	nazwa_pospolita	
+> tapeciarka	tapeciarka	subst:sg:nom:f	nazwa_pospolita	
+> tapeciarką	tapeciarka	subst:sg:inst:f	nazwa_pospolita	
+> tapeciarkę	tapeciarka	subst:sg:acc:f	nazwa_pospolita	
+> tapeciarki	tapeciarka	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> tapeciarki	tapeciarka	subst:sg:gen:f	nazwa_pospolita	
+> tapeciarkom	tapeciarka	subst:pl:dat:f	nazwa_pospolita	
+> tapeciarko	tapeciarka	subst:sg:voc:f	nazwa_pospolita	
+> tapeciarscy	tapeciarski	adj:pl:nom.voc:m1:pos		
+> tapeciarska	tapeciarski	adj:sg:nom.voc:f:pos		
+> tapeciarską	tapeciarski	adj:sg:acc:f:pos		
+> tapeciarską	tapeciarski	adj:sg:inst:f:pos		
+> tapeciarskich	tapeciarski	adj:pl:acc:m1:pos		
+> tapeciarskich	tapeciarski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> tapeciarskich	tapeciarski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> tapeciarskiego	tapeciarski	adj:sg:acc:m1.m2:pos		
+> tapeciarskiego	tapeciarski	adj:sg:gen:m1.m2.m3.n:pos		
+> tapeciarskiej	tapeciarski	adj:sg:dat:f:pos		
+> tapeciarskiej	tapeciarski	adj:sg:gen:f:pos		
+> tapeciarskiej	tapeciarski	adj:sg:loc:f:pos		
+> tapeciarskiemu	tapeciarski	adj:sg:dat:m1.m2.m3.n:pos		
+> tapeciarskie	tapeciarski	adj:pl:acc:m2.m3.f.n:pos		
+> tapeciarskie	tapeciarski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> tapeciarskie	tapeciarski	adj:sg:acc:n:pos		
+> tapeciarskie	tapeciarski	adj:sg:nom.voc:n:pos		
+> tapeciarskimi	tapeciarski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> tapeciarskim	tapeciarski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> tapeciarskim	tapeciarski	adj:sg:inst:m1.m2.m3.n:pos		
+> tapeciarskim	tapeciarski	adj:sg:loc:m1.m2.m3.n:pos		
+> tapeciarski	tapeciarski	adj:sg:acc:m3:pos		
+> tapeciarski	tapeciarski	adj:sg:nom.voc:m1.m2.m3:pos		
+> tapeciarsko	tapeciarski	adja		
+> tapeciarsku	tapeciarski	adjp:dat		
+> tapeciarskościach	tapeciarskość	subst:pl:loc:f		
+> tapeciarskościami	tapeciarskość	subst:pl:inst:f		
+> tapeciarskością	tapeciarskość	subst:sg:inst:f		
+> tapeciarskościom	tapeciarskość	subst:pl:dat:f		
+> tapeciarskości	tapeciarskość	subst:pl:gen:f		
+> tapeciarskości	tapeciarskość	subst:pl:nom.acc.voc:f		
+> tapeciarskości	tapeciarskość	subst:sg:dat.loc:f		
+> tapeciarskości	tapeciarskość	subst:sg:gen:f		
+> tapeciarskości	tapeciarskość	subst:sg:voc:f		
+> tapeciarskość	tapeciarskość	subst:sg:acc:f		
+> tapeciarskość	tapeciarskość	subst:sg:nom:f		
+> tapeciarzach	tapeciarz	subst:pl:loc:m1	nazwa_pospolita	
+> tapeciarzach	tapeciarz	subst:pl:loc:m1	nazwa_pospolita	rzad.
+> tapeciarzami	tapeciarz	subst:pl:inst:m1	nazwa_pospolita	
+> tapeciarzami	tapeciarz	subst:pl:inst:m1	nazwa_pospolita	rzad.
+> tapeciarza	tapeciarz	subst:sg:gen.acc:m1	nazwa_pospolita	
+> tapeciarza	tapeciarz	subst:sg:gen.acc:m1	nazwa_pospolita	rzad.
+> tapeciarzem	tapeciarz	subst:sg:inst:m1	nazwa_pospolita	
+> tapeciarzem	tapeciarz	subst:sg:inst:m1	nazwa_pospolita	rzad.
+> tapeciarze	tapeciarz	depr:pl:nom.acc.voc:m2	nazwa_pospolita	
+> tapeciarze	tapeciarz	depr:pl:nom.acc.voc:m2	nazwa_pospolita	rzad.
+> tapeciarze	tapeciarz	subst:pl:nom.voc:m1	nazwa_pospolita	
+> tapeciarze	tapeciarz	subst:pl:nom.voc:m1	nazwa_pospolita	rzad.
+> tapeciarzom	tapeciarz	subst:pl:dat:m1	nazwa_pospolita	
+> tapeciarzom	tapeciarz	subst:pl:dat:m1	nazwa_pospolita	rzad.
+> tapeciarzowi	tapeciarz	subst:sg:dat:m1	nazwa_pospolita	
+> tapeciarzowi	tapeciarz	subst:sg:dat:m1	nazwa_pospolita	rzad.
+> tapeciarzów	tapeciarz	subst:pl:gen.acc:m1	nazwa_pospolita	rzad.
+> tapeciarz	tapeciarz	subst:sg:nom:m1	nazwa_pospolita	
+> tapeciarz	tapeciarz	subst:sg:nom:m1	nazwa_pospolita	rzad.
+> tapeciarzu	tapeciarz	subst:sg:loc:m1	nazwa_pospolita	
+> tapeciarzu	tapeciarz	subst:sg:loc:m1	nazwa_pospolita	rzad.
+> tapeciarzu	tapeciarz	subst:sg:voc:m1	nazwa_pospolita	
+> tapeciarzu	tapeciarz	subst:sg:voc:m1	nazwa_pospolita	rzad.
+> tapeciarzy	tapeciarz	subst:pl:gen.acc:m1	nazwa_pospolita	
+6172891a6173704
+> UK	UK	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_geograficzna	
+6558206a6559020,6559054
+> wroniastościach	wroniastość	subst:pl:loc:f		
+> wroniastościami	wroniastość	subst:pl:inst:f		
+> wroniastością	wroniastość	subst:sg:inst:f		
+> wroniastościom	wroniastość	subst:pl:dat:f		
+> wroniastości	wroniastość	subst:pl:gen:f		
+> wroniastości	wroniastość	subst:pl:nom.acc.voc:f		
+> wroniastości	wroniastość	subst:sg:dat.loc:f		
+> wroniastości	wroniastość	subst:sg:gen:f		
+> wroniastości	wroniastość	subst:sg:voc:f		
+> wroniastość	wroniastość	subst:sg:acc:f		
+> wroniastość	wroniastość	subst:sg:nom:f		
+> wroniasta	wroniasty	adj:sg:nom.voc:f:pos		
+> wroniastą	wroniasty	adj:sg:acc:f:pos		
+> wroniastą	wroniasty	adj:sg:inst:f:pos		
+> wroniastego	wroniasty	adj:sg:acc:m1.m2:pos		
+> wroniastego	wroniasty	adj:sg:gen:m1.m2.m3.n:pos		
+> wroniastej	wroniasty	adj:sg:dat:f:pos		
+> wroniastej	wroniasty	adj:sg:gen:f:pos		
+> wroniastej	wroniasty	adj:sg:loc:f:pos		
+> wroniastemu	wroniasty	adj:sg:dat:m1.m2.m3.n:pos		
+> wroniaste	wroniasty	adj:pl:acc:m2.m3.f.n:pos		
+> wroniaste	wroniasty	adj:pl:nom.voc:m2.m3.f.n:pos		
+> wroniaste	wroniasty	adj:sg:acc:n:pos		
+> wroniaste	wroniasty	adj:sg:nom.voc:n:pos		
+> wroniasto	wroniasty	adja		
+> wroniastych	wroniasty	adj:pl:acc:m1:pos		
+> wroniastych	wroniasty	adj:pl:gen:m1.m2.m3.f.n:pos		
+> wroniastych	wroniasty	adj:pl:loc:m1.m2.m3.f.n:pos		
+> wroniastymi	wroniasty	adj:pl:inst:m1.m2.m3.f.n:pos		
+> wroniastym	wroniasty	adj:pl:dat:m1.m2.m3.f.n:pos		
+> wroniastym	wroniasty	adj:sg:inst:m1.m2.m3.n:pos		
+> wroniastym	wroniasty	adj:sg:loc:m1.m2.m3.n:pos		
+> wroniasty	wroniasty	adj:sg:acc:m3:pos		
+> wroniasty	wroniasty	adj:sg:nom.voc:m1.m2.m3:pos		
+> wroniaści	wroniasty	adj:pl:nom.voc:m1:pos		
+7010027a7010876,7010886
+> Zaiksach	Zaiks	subst:pl:loc:m3	nazwa_organizacji	
+> Zaiksami	Zaiks	subst:pl:inst:m3	nazwa_organizacji	
+> Zaiksem	Zaiks	subst:sg:inst:m3	nazwa_organizacji	
+> Zaiksie	Zaiks	subst:sg:loc:m3	nazwa_organizacji	
+> Zaiksie	Zaiks	subst:sg:voc:m3	nazwa_organizacji	
+> Zaiksom	Zaiks	subst:pl:dat:m3	nazwa_organizacji	
+> Zaiksowi	Zaiks	subst:sg:dat:m3	nazwa_organizacji	
+> Zaiksów	Zaiks	subst:pl:gen:m3	nazwa_organizacji	
+> Zaiksu	Zaiks	subst:sg:gen:m3	nazwa_organizacji	
+> Zaiksy	Zaiks	subst:pl:nom.acc.voc:m3	nazwa_organizacji	
+> Zaiks	Zaiks	subst:sg:nom.acc:m3	nazwa_organizacji	

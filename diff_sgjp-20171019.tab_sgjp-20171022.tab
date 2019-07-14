@@ -1,0 +1,86 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.10.19
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.10.22
+20230,20231c20230
+< Aires	Aires:b	burk		
+< Aires	Aires:s	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy geograficznej	
+---
+> Aires	Aires	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy geograficznej	
+193413c193412
+< Blanc	Blanc	burk		
+---
+> Blanc	Blanc	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy własnej	
+393529,393540d393527
+< dalekowidzach	dalekowidz	subst:pl:loc:m1	nazwa pospolita	
+< dalekowidza	dalekowidz	subst:sg:gen.acc:m1	nazwa pospolita	
+< dalekowidzami	dalekowidz	subst:pl:inst:m1	nazwa pospolita	
+< dalekowidz	dalekowidz	subst:sg:nom:m1	nazwa pospolita	
+< dalekowidze	dalekowidz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< dalekowidze	dalekowidz	subst:pl:nom.voc:m1	nazwa pospolita	
+< dalekowidzem	dalekowidz	subst:sg:inst:m1	nazwa pospolita	
+< dalekowidzom	dalekowidz	subst:pl:dat:m1	nazwa pospolita	
+< dalekowidzowi	dalekowidz	subst:sg:dat:m1	nazwa pospolita	
+< dalekowidzów	dalekowidz	subst:pl:gen.acc:m1	nazwa pospolita	
+< dalekowidzu	dalekowidz	subst:sg:loc:m1	nazwa pospolita	
+< dalekowidzu	dalekowidz	subst:sg:voc:m1	nazwa pospolita	
+393550a393538,393560
+> dalekowidzach	dalekowidz:s1	subst:pl:loc:m1	nazwa pospolita	
+> dalekowidza	dalekowidz:s1	subst:sg:gen.acc:m1	nazwa pospolita	
+> dalekowidzami	dalekowidz:s1	subst:pl:inst:m1	nazwa pospolita	
+> dalekowidz	dalekowidz:s1	subst:sg:nom:m1	nazwa pospolita	
+> dalekowidze	dalekowidz:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> dalekowidze	dalekowidz:s1	subst:pl:nom.voc:m1	nazwa pospolita	
+> dalekowidzem	dalekowidz:s1	subst:sg:inst:m1	nazwa pospolita	
+> dalekowidzom	dalekowidz:s1	subst:pl:dat:m1	nazwa pospolita	
+> dalekowidzowi	dalekowidz:s1	subst:sg:dat:m1	nazwa pospolita	
+> dalekowidzów	dalekowidz:s1	subst:pl:gen.acc:m1	nazwa pospolita	
+> dalekowidzu	dalekowidz:s1	subst:sg:loc:m1	nazwa pospolita	
+> dalekowidzu	dalekowidz:s1	subst:sg:voc:m1	nazwa pospolita	
+> dalekowidzach	dalekowidz:s2	subst:pl:loc:m3	nazwa pospolita	przest.
+> dalekowidza	dalekowidz:s2	subst:sg:gen:m3	nazwa pospolita	przest.
+> dalekowidzami	dalekowidz:s2	subst:pl:inst:m3	nazwa pospolita	przest.
+> dalekowidz	dalekowidz:s2	subst:sg:nom.acc:m3	nazwa pospolita	przest.
+> dalekowidze	dalekowidz:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	przest.
+> dalekowidzem	dalekowidz:s2	subst:sg:inst:m3	nazwa pospolita	przest.
+> dalekowidzom	dalekowidz:s2	subst:pl:dat:m3	nazwa pospolita	przest.
+> dalekowidzowi	dalekowidz:s2	subst:sg:dat:m3	nazwa pospolita	przest.
+> dalekowidzów	dalekowidz:s2	subst:pl:gen:m3	nazwa pospolita	przest.
+> dalekowidzu	dalekowidz:s2	subst:sg:loc:m3	nazwa pospolita	przest.
+> dalekowidzu	dalekowidz:s2	subst:sg:voc:m3	nazwa pospolita	przest.
+3330019,3330023d3330028
+< palcach	palce	subst:pl:loc:n:pt	nazwa pospolita	
+< palcami	palce	subst:pl:inst:n:pt	nazwa pospolita	
+< palce	palce	subst:pl:nom.acc.voc:n:pt	nazwa pospolita	
+< palcom	palce	subst:pl:dat:n:pt	nazwa pospolita	
+< palców	palce	subst:pl:gen:n:pt	nazwa pospolita	
+4288528a4288534,4288544
+> ramenach	ramen	subst:pl:loc:m3	nazwa pospolita	kulin.
+> ramenami	ramen	subst:pl:inst:m3	nazwa pospolita	kulin.
+> ramenem	ramen	subst:sg:inst:m3	nazwa pospolita	kulin.
+> ramenie	ramen	subst:sg:loc:m3	nazwa pospolita	kulin.
+> ramenie	ramen	subst:sg:voc:m3	nazwa pospolita	kulin.
+> ramenom	ramen	subst:pl:dat:m3	nazwa pospolita	kulin.
+> ramenowi	ramen	subst:sg:dat:m3	nazwa pospolita	kulin.
+> ramenów	ramen	subst:pl:gen:m3	nazwa pospolita	kulin.
+> ramen	ramen	subst:sg:nom.acc:m3	nazwa pospolita	kulin.
+> ramenu	ramen	subst:sg:gen:m3	nazwa pospolita	kulin.
+> rameny	ramen	subst:pl:nom.acc.voc:m3	nazwa pospolita	kulin.
+4739434a4739451,4739461
+> sobach	soba	subst:pl:loc:f	nazwa pospolita	kulin.
+> sobami	soba	subst:pl:inst:f	nazwa pospolita	kulin.
+> soba	soba	subst:sg:nom:f	nazwa pospolita	kulin.
+> sobą	soba	subst:sg:inst:f	nazwa pospolita	kulin.
+> sobę	soba	subst:sg:acc:f	nazwa pospolita	kulin.
+> sobie	soba	subst:sg:dat.loc:f	nazwa pospolita	kulin.
+> sobom	soba	subst:pl:dat:f	nazwa pospolita	kulin.
+> sobo	soba	subst:sg:voc:f	nazwa pospolita	kulin.
+> sob	soba	subst:pl:gen:f	nazwa pospolita	kulin.
+> soby	soba	subst:pl:nom.acc.voc:f	nazwa pospolita	kulin.
+> soby	soba	subst:sg:gen:f	nazwa pospolita	kulin.
+6319011,6319015d6319037
+< znajomościach	znajomości	subst:pl:loc:n:pt	nazwa pospolita	
+< znajomościami	znajomości	subst:pl:inst:n:pt	nazwa pospolita	
+< znajomościom	znajomości	subst:pl:dat:n:pt	nazwa pospolita	
+< znajomości	znajomości	subst:pl:gen:n:pt	nazwa pospolita	
+< znajomości	znajomości	subst:pl:nom.acc.voc:n:pt	nazwa pospolita	

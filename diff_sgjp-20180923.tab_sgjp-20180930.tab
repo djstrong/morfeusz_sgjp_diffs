@@ -1,0 +1,76 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.09.23
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.09.30
+3764137a3764138,3764148
+> oślikach	oślik	subst:pl:loc:m2	nazwa pospolita	
+> oślikami	oślik	subst:pl:inst:m2	nazwa pospolita	
+> oślika	oślik	subst:sg:gen.acc:m2	nazwa pospolita	
+> oślikiem	oślik	subst:sg:inst:m2	nazwa pospolita	
+> ośliki	oślik	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+> oślikom	oślik	subst:pl:dat:m2	nazwa pospolita	
+> oślik	oślik	subst:sg:nom:m2	nazwa pospolita	
+> oślikowi	oślik	subst:sg:dat:m2	nazwa pospolita	
+> oślików	oślik	subst:pl:gen:m2	nazwa pospolita	
+> ośliku	oślik	subst:sg:loc:m2	nazwa pospolita	
+> ośliku	oślik	subst:sg:voc:m2	nazwa pospolita	
+3801345a3801357,3801368
+> paciach	pacia	subst:pl:loc:f	nazwa pospolita	pot.
+> paciami	pacia	subst:pl:inst:f	nazwa pospolita	pot.
+> pacia	pacia	subst:sg:nom:f	nazwa pospolita	pot.
+> pacią	pacia	subst:sg:inst:f	nazwa pospolita	pot.
+> pacie	pacia	subst:pl:nom.acc.voc:f	nazwa pospolita	pot.
+> pacię	pacia	subst:sg:acc:f	nazwa pospolita	pot.
+> paciom	pacia	subst:pl:dat:f	nazwa pospolita	pot.
+> pacio	pacia	subst:sg:voc:f	nazwa pospolita	pot.
+> paci	pacia	subst:pl:gen:f	nazwa pospolita	hom.|pot.
+> paci	pacia	subst:sg:dat.loc:f	nazwa pospolita	pot.
+> paci	pacia	subst:sg:gen:f	nazwa pospolita	pot.
+> pać	pacia	subst:pl:gen:f	nazwa pospolita	char.|pot.
+5274921,5274931c5274944,5274954
+< skeecie	skeet	subst:sg:loc:m3	nazwa pospolita	
+< skeecie	skeet	subst:sg:voc:m3	nazwa pospolita	
+< skeetach	skeet	subst:pl:loc:m3	nazwa pospolita	
+< skeetami	skeet	subst:pl:inst:m3	nazwa pospolita	
+< skeetem	skeet	subst:sg:inst:m3	nazwa pospolita	
+< skeetom	skeet	subst:pl:dat:m3	nazwa pospolita	
+< skeetowi	skeet	subst:sg:dat:m3	nazwa pospolita	
+< skeetów	skeet	subst:pl:gen:m3	nazwa pospolita	
+< skeet	skeet	subst:sg:nom.acc:m3	nazwa pospolita	
+< skeetu	skeet	subst:sg:gen:m3	nazwa pospolita	
+< skeety	skeet	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+---
+> skeecie	skeet	subst:sg:loc:m3	nazwa pospolita	sport.
+> skeecie	skeet	subst:sg:voc:m3	nazwa pospolita	sport.
+> skeetach	skeet	subst:pl:loc:m3	nazwa pospolita	sport.
+> skeetami	skeet	subst:pl:inst:m3	nazwa pospolita	sport.
+> skeetem	skeet	subst:sg:inst:m3	nazwa pospolita	sport.
+> skeetom	skeet	subst:pl:dat:m3	nazwa pospolita	sport.
+> skeetowi	skeet	subst:sg:dat:m3	nazwa pospolita	sport.
+> skeetów	skeet	subst:pl:gen:m3	nazwa pospolita	sport.
+> skeet	skeet	subst:sg:nom.acc:m3	nazwa pospolita	sport.
+> skeetu	skeet	subst:sg:gen:m3	nazwa pospolita	sport.
+> skeety	skeet	subst:pl:nom.acc.voc:m3	nazwa pospolita	sport.
+5828594a5828618,5828639
+> tweecie	tweet	subst:sg:loc:m2	nazwa pospolita	
+> tweecie	tweet	subst:sg:loc:m3	nazwa pospolita	
+> tweecie	tweet	subst:sg:voc:m2	nazwa pospolita	
+> tweecie	tweet	subst:sg:voc:m3	nazwa pospolita	
+> tweetach	tweet	subst:pl:loc:m2	nazwa pospolita	
+> tweetach	tweet	subst:pl:loc:m3	nazwa pospolita	
+> tweetami	tweet	subst:pl:inst:m2	nazwa pospolita	
+> tweetami	tweet	subst:pl:inst:m3	nazwa pospolita	
+> tweeta	tweet	subst:sg:gen.acc:m2	nazwa pospolita	
+> tweetem	tweet	subst:sg:inst:m2	nazwa pospolita	
+> tweetem	tweet	subst:sg:inst:m3	nazwa pospolita	
+> tweetom	tweet	subst:pl:dat:m2	nazwa pospolita	
+> tweetom	tweet	subst:pl:dat:m3	nazwa pospolita	
+> tweetowi	tweet	subst:sg:dat:m2	nazwa pospolita	
+> tweetowi	tweet	subst:sg:dat:m3	nazwa pospolita	
+> tweetów	tweet	subst:pl:gen:m2	nazwa pospolita	
+> tweetów	tweet	subst:pl:gen:m3	nazwa pospolita	
+> tweet	tweet	subst:sg:nom.acc:m3	nazwa pospolita	
+> tweet	tweet	subst:sg:nom:m2	nazwa pospolita	
+> tweetu	tweet	subst:sg:gen:m3	nazwa pospolita	
+> tweety	tweet	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+> tweety	tweet	subst:pl:nom.acc.voc:m3	nazwa pospolita	

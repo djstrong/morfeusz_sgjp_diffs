@@ -1,0 +1,54 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.11.25
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.12.02
+361266,361277d361265
+< Chełmach	Chełm	subst:pl:loc:m3	nazwa geograficzna	
+< Chełma	Chełm	subst:sg:gen:m3	nazwa geograficzna	
+< Chełmami	Chełm	subst:pl:inst:m3	nazwa geograficzna	
+< Chełm	Chełm	subst:sg:nom.acc:m3	nazwa geograficzna	
+< Chełmem	Chełm	subst:sg:inst:m3	nazwa geograficzna	
+< Chełmie	Chełm	subst:sg:loc:m3	nazwa geograficzna	
+< Chełmie	Chełm	subst:sg:voc:m3	nazwa geograficzna	
+< Chełmom	Chełm	subst:pl:dat:m3	nazwa geograficzna	
+< Chełmowi	Chełm	subst:sg:dat:m3	nazwa geograficzna	
+< Chełmów	Chełm	subst:pl:gen:m3	nazwa geograficzna	
+< Chełmu	Chełm	subst:sg:gen:m3	nazwa geograficzna	
+< Chełmy	Chełm	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+361641a361630,361651
+> Chełmach	Chełm:s1	subst:pl:loc:m3	nazwa geograficzna	
+> Chełma	Chełm:s1	subst:sg:gen:m3	nazwa geograficzna	
+> Chełmami	Chełm:s1	subst:pl:inst:m3	nazwa geograficzna	
+> Chełm	Chełm:s1	subst:sg:nom.acc:m3	nazwa geograficzna	
+> Chełmem	Chełm:s1	subst:sg:inst:m3	nazwa geograficzna	
+> Chełmie	Chełm:s1	subst:sg:loc:m3	nazwa geograficzna	
+> Chełmie	Chełm:s1	subst:sg:voc:m3	nazwa geograficzna	
+> Chełmom	Chełm:s1	subst:pl:dat:m3	nazwa geograficzna	
+> Chełmowi	Chełm:s1	subst:sg:dat:m3	nazwa geograficzna	
+> Chełmów	Chełm:s1	subst:pl:gen:m3	nazwa geograficzna	
+> Chełmy	Chełm:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+> Chełmach	Chełm:s2	subst:pl:loc:m3	nazwa geograficzna	
+> Chełmami	Chełm:s2	subst:pl:inst:m3	nazwa geograficzna	
+> Chełm	Chełm:s2	subst:sg:nom.acc:m3	nazwa geograficzna	
+> Chełmem	Chełm:s2	subst:sg:inst:m3	nazwa geograficzna	
+> Chełmie	Chełm:s2	subst:sg:loc:m3	nazwa geograficzna	
+> Chełmie	Chełm:s2	subst:sg:voc:m3	nazwa geograficzna	
+> Chełmom	Chełm:s2	subst:pl:dat:m3	nazwa geograficzna	
+> Chełmowi	Chełm:s2	subst:sg:dat:m3	nazwa geograficzna	
+> Chełmów	Chełm:s2	subst:pl:gen:m3	nazwa geograficzna	
+> Chełmu	Chełm:s2	subst:sg:gen:m3	nazwa geograficzna	
+> Chełmy	Chełm:s2	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+1243934a1243945,1243955
+> Jeziorna	Jeziorna:s3	subst:sg:nom:f	nazwa geograficzna	
+> Jeziorna	Jeziorna:s3	subst:sg:voc:f	nazwa geograficzna	
+> Jeziorną	Jeziorna:s3	subst:sg:acc:f	nazwa geograficzna	
+> Jeziorną	Jeziorna:s3	subst:sg:inst:f	nazwa geograficzna	
+> Jeziorne	Jeziorna:s3	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+> Jeziornej	Jeziorna:s3	subst:sg:dat.loc:f	nazwa geograficzna	
+> Jeziornej	Jeziorna:s3	subst:sg:gen:f	nazwa geograficzna	
+> Jeziornych	Jeziorna:s3	subst:pl:gen:f	nazwa geograficzna	
+> Jeziornych	Jeziorna:s3	subst:pl:loc:f	nazwa geograficzna	
+> Jeziornymi	Jeziorna:s3	subst:pl:inst:f	nazwa geograficzna	
+> Jeziornym	Jeziorna:s3	subst:pl:dat:f	nazwa geograficzna	
+5471068a5471090
+> Stefanowu	Stefanów:s2	subst:sg:dat:m3	nazwa geograficzna	arch._(tylko_po_"ku")

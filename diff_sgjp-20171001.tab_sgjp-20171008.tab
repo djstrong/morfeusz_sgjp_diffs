@@ -1,0 +1,477 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.10.01
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.10.08
+183578a183579,183589
+> biłgorajce	biłgorajka	subst:sg:dat.loc:f	nazwa pospolita	
+> biłgorajek	biłgorajka	subst:pl:gen:f	nazwa pospolita	
+> biłgorajka	biłgorajka	subst:sg:nom:f	nazwa pospolita	
+> biłgorajkach	biłgorajka	subst:pl:loc:f	nazwa pospolita	
+> biłgorajkami	biłgorajka	subst:pl:inst:f	nazwa pospolita	
+> biłgorajką	biłgorajka	subst:sg:inst:f	nazwa pospolita	
+> biłgorajkę	biłgorajka	subst:sg:acc:f	nazwa pospolita	
+> biłgorajki	biłgorajka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> biłgorajki	biłgorajka	subst:sg:gen:f	nazwa pospolita	
+> biłgorajko	biłgorajka	subst:sg:voc:f	nazwa pospolita	
+> biłgorajkom	biłgorajka	subst:pl:dat:f	nazwa pospolita	
+373652a373664,373672
+> cześciach	cześć:s	subst:pl:loc:f	nazwa pospolita	daw.
+> cześciami	cześć:s	subst:pl:inst:f	nazwa pospolita	daw.
+> cześcią	cześć:s	subst:sg:inst:f	nazwa pospolita	daw.
+> cześci	cześć:s	subst:pl:gen:f	nazwa pospolita	daw.
+> cześci	cześć:s	subst:pl:nom.acc.voc:f	nazwa pospolita	daw.
+> cześci	cześć:s	subst:sg:dat.loc:f	nazwa pospolita	daw.
+> cześci	cześć:s	subst:sg:gen:f	nazwa pospolita	daw.
+> cześci	cześć:s	subst:sg:voc:f	nazwa pospolita	daw.
+> cześciom	cześć:s	subst:pl:dat:f	nazwa pospolita	daw.
+373653a373674
+> cześć	cześć:s	subst:sg:acc:f	nazwa pospolita	daw.
+373654a373676
+> cześć	cześć:s	subst:sg:nom:f	nazwa pospolita	daw.
+824408a824431,824441
+> granitognejsach	granitognejs	subst:pl:loc:m3	nazwa pospolita	
+> granitognejsami	granitognejs	subst:pl:inst:m3	nazwa pospolita	
+> granitognejsem	granitognejs	subst:sg:inst:m3	nazwa pospolita	
+> granitognejs	granitognejs	subst:sg:nom.acc:m3	nazwa pospolita	
+> granitognejsie	granitognejs	subst:sg:loc:m3	nazwa pospolita	
+> granitognejsie	granitognejs	subst:sg:voc:m3	nazwa pospolita	
+> granitognejsom	granitognejs	subst:pl:dat:m3	nazwa pospolita	
+> granitognejsowi	granitognejs	subst:sg:dat:m3	nazwa pospolita	
+> granitognejsów	granitognejs	subst:pl:gen:m3	nazwa pospolita	
+> granitognejsu	granitognejs	subst:sg:gen:m3	nazwa pospolita	
+> granitognejsy	granitognejs	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+828898,828926c828931,828959
+< grązłby	gręznąć	cond:sg:m1.m2.m3:ter:imperf		
+< grązłbym	gręznąć	cond:sg:m1.m2.m3:pri:imperf		
+< grązłbyś	gręznąć	cond:sg:m1.m2.m3:sec:imperf		
+< grązłem	gręznąć	praet:sg:m1.m2.m3:pri:imperf		
+< grązłeś	gręznąć	praet:sg:m1.m2.m3:sec:imperf		
+< grązł	gręznąć	praet:sg:m1.m2.m3:imperf		
+< grązł	gręznąć	praet:sg:m1.m2.m3:ter:imperf		
+< grąźć	gręznąć	inf:imperf		
+< gręzłaby	gręznąć	cond:sg:f:ter:imperf		
+< gręzłabym	gręznąć	cond:sg:f:pri:imperf		
+< gręzłabyś	gręznąć	cond:sg:f:sec:imperf		
+< gręzła	gręznąć	praet:sg:f:imperf		
+< gręzła	gręznąć	praet:sg:f:ter:imperf		
+< gręzłam	gręznąć	praet:sg:f:pri:imperf		
+< gręzłaś	gręznąć	praet:sg:f:sec:imperf		
+< gręzłoby	gręznąć	cond:sg:n:ter:imperf		
+< gręzłobym	gręznąć	cond:sg:n:pri:imperf		
+< gręzłobyś	gręznąć	cond:sg:n:sec:imperf		
+< gręzło	gręznąć	praet:sg:n:imperf		
+< gręzło	gręznąć	praet:sg:n:ter:imperf		
+< gręzłom	gręznąć	praet:sg:n:pri:imperf		
+< gręzłoś	gręznąć	praet:sg:n:sec:imperf		
+< gręzłyby	gręznąć	cond:pl:m2.m3.f.n:ter:imperf		
+< gręzłybyście	gręznąć	cond:pl:m2.m3.f.n:sec:imperf		
+< gręzłybyśmy	gręznąć	cond:pl:m2.m3.f.n:pri:imperf		
+< gręzły	gręznąć	praet:pl:m2.m3.f.n:imperf		
+< gręzły	gręznąć	praet:pl:m2.m3.f.n:ter:imperf		
+< gręzłyście	gręznąć	praet:pl:m2.m3.f.n:sec:imperf		
+< gręzłyśmy	gręznąć	praet:pl:m2.m3.f.n:pri:imperf		
+---
+> grązłby	gręznąć	cond:sg:m1.m2.m3:ter:imperf		daw.
+> grązłbym	gręznąć	cond:sg:m1.m2.m3:pri:imperf		daw.
+> grązłbyś	gręznąć	cond:sg:m1.m2.m3:sec:imperf		daw.
+> grązłem	gręznąć	praet:sg:m1.m2.m3:pri:imperf		daw.
+> grązłeś	gręznąć	praet:sg:m1.m2.m3:sec:imperf		daw.
+> grązł	gręznąć	praet:sg:m1.m2.m3:imperf		daw.
+> grązł	gręznąć	praet:sg:m1.m2.m3:ter:imperf		daw.
+> grąźć	gręznąć	inf:imperf		daw.
+> gręzłaby	gręznąć	cond:sg:f:ter:imperf		daw.
+> gręzłabym	gręznąć	cond:sg:f:pri:imperf		daw.
+> gręzłabyś	gręznąć	cond:sg:f:sec:imperf		daw.
+> gręzła	gręznąć	praet:sg:f:imperf		daw.
+> gręzła	gręznąć	praet:sg:f:ter:imperf		daw.
+> gręzłam	gręznąć	praet:sg:f:pri:imperf		daw.
+> gręzłaś	gręznąć	praet:sg:f:sec:imperf		daw.
+> gręzłoby	gręznąć	cond:sg:n:ter:imperf		daw.
+> gręzłobym	gręznąć	cond:sg:n:pri:imperf		daw.
+> gręzłobyś	gręznąć	cond:sg:n:sec:imperf		daw.
+> gręzło	gręznąć	praet:sg:n:imperf		daw.
+> gręzło	gręznąć	praet:sg:n:ter:imperf		daw.
+> gręzłom	gręznąć	praet:sg:n:pri:imperf		daw.
+> gręzłoś	gręznąć	praet:sg:n:sec:imperf		daw.
+> gręzłyby	gręznąć	cond:pl:m2.m3.f.n:ter:imperf		daw.
+> gręzłybyście	gręznąć	cond:pl:m2.m3.f.n:sec:imperf		daw.
+> gręzłybyśmy	gręznąć	cond:pl:m2.m3.f.n:pri:imperf		daw.
+> gręzły	gręznąć	praet:pl:m2.m3.f.n:imperf		daw.
+> gręzły	gręznąć	praet:pl:m2.m3.f.n:ter:imperf		daw.
+> gręzłyście	gręznąć	praet:pl:m2.m3.f.n:sec:imperf		daw.
+> gręzłyśmy	gręznąć	praet:pl:m2.m3.f.n:pri:imperf		daw.
+828935c828968
+< gręznąc	gręznąć	pcon:imperf		
+---
+> gręznąc	gręznąć	pcon:imperf		daw.
+828945,828958c828978,828991
+< gręznąć	gręznąć	inf:imperf		
+< gręzną	gręznąć	fin:pl:ter:imperf		
+< gręznę	gręznąć	fin:sg:pri:imperf		
+< gręźliby	gręznąć	cond:pl:m1:ter:imperf		
+< gręźlibyście	gręznąć	cond:pl:m1:sec:imperf		
+< gręźlibyśmy	gręznąć	cond:pl:m1:pri:imperf		
+< gręźli	gręznąć	praet:pl:m1:imperf		
+< gręźli	gręznąć	praet:pl:m1:ter:imperf		
+< gręźliście	gręznąć	praet:pl:m1:sec:imperf		
+< gręźliśmy	gręznąć	praet:pl:m1:pri:imperf		
+< gręźniecie	gręznąć	fin:pl:sec:imperf		
+< gręźnie	gręznąć	fin:sg:ter:imperf		
+< gręźniemy	gręznąć	fin:pl:pri:imperf		
+< gręźniesz	gręznąć	fin:sg:sec:imperf		
+---
+> gręznąć	gręznąć	inf:imperf		daw.
+> gręzną	gręznąć	fin:pl:ter:imperf		daw.
+> gręznę	gręznąć	fin:sg:pri:imperf		daw.
+> gręźliby	gręznąć	cond:pl:m1:ter:imperf		daw.
+> gręźlibyście	gręznąć	cond:pl:m1:sec:imperf		daw.
+> gręźlibyśmy	gręznąć	cond:pl:m1:pri:imperf		daw.
+> gręźli	gręznąć	praet:pl:m1:imperf		daw.
+> gręźli	gręznąć	praet:pl:m1:ter:imperf		daw.
+> gręźliście	gręznąć	praet:pl:m1:sec:imperf		daw.
+> gręźliśmy	gręznąć	praet:pl:m1:pri:imperf		daw.
+> gręźniecie	gręznąć	fin:pl:sec:imperf		daw.
+> gręźnie	gręznąć	fin:sg:ter:imperf		daw.
+> gręźniemy	gręznąć	fin:pl:pri:imperf		daw.
+> gręźniesz	gręznąć	fin:sg:sec:imperf		daw.
+828968,828971c829001,829004
+< gręźnięto	gręznąć	imps:imperf		
+< gręźnijcie	gręznąć	impt:pl:sec:imperf		
+< gręźnij	gręznąć	impt:sg:sec:imperf		
+< gręźnijmy	gręznąć	impt:pl:pri:imperf		
+---
+> gręźnięto	gręznąć	imps:imperf		daw.
+> gręźnijcie	gręznąć	impt:pl:sec:imperf		daw.
+> gręźnij	gręznąć	impt:sg:sec:imperf		daw.
+> gręźnijmy	gręznąć	impt:pl:pri:imperf		daw.
+1119394d1119426
+< koleśniej	koleśno	adv:com		
+1119396d1119427
+< najkoleśniej	koleśno	adv:sup		
+1404173,1404185c1404204,1404216
+< Masajach	Masaj	subst:pl:loc:m1	nazwa pospolita	
+< Masaja	Masaj	subst:sg:gen.acc:m1	nazwa pospolita	
+< Masajami	Masaj	subst:pl:inst:m1	nazwa pospolita	
+< Masaje	Masaj	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< Masaje	Masaj	subst:pl:nom.voc:m1	nazwa pospolita	
+< Masajem	Masaj	subst:sg:inst:m1	nazwa pospolita	
+< Masaj	Masaj	subst:sg:nom:m1	nazwa pospolita	
+< Masajom	Masaj	subst:pl:dat:m1	nazwa pospolita	
+< Masajowie	Masaj	subst:pl:nom.voc:m1	nazwa pospolita	
+< Masajowi	Masaj	subst:sg:dat:m1	nazwa pospolita	
+< Masajów	Masaj	subst:pl:gen.acc:m1	nazwa pospolita	
+< Masaju	Masaj	subst:sg:loc:m1	nazwa pospolita	
+< Masaju	Masaj	subst:sg:voc:m1	nazwa pospolita	
+---
+> Masajach	Masaj	subst:pl:loc:m1	nazwa pospolita	etn.
+> Masaja	Masaj	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Masajami	Masaj	subst:pl:inst:m1	nazwa pospolita	etn.
+> Masaje	Masaj	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+> Masaje	Masaj	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Masajem	Masaj	subst:sg:inst:m1	nazwa pospolita	etn.
+> Masaj	Masaj	subst:sg:nom:m1	nazwa pospolita	etn.
+> Masajom	Masaj	subst:pl:dat:m1	nazwa pospolita	etn.
+> Masajowie	Masaj	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Masajowi	Masaj	subst:sg:dat:m1	nazwa pospolita	etn.
+> Masajów	Masaj	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Masaju	Masaj	subst:sg:loc:m1	nazwa pospolita	etn.
+> Masaju	Masaj	subst:sg:voc:m1	nazwa pospolita	etn.
+1509585a1509617,1509639
+> mowniejsi	mowny	adj:pl:nom.voc:m1:com		
+> mowniejsza	mowny	adj:sg:nom.voc:f:com		
+> mowniejszą	mowny	adj:sg:acc:f:com		
+> mowniejszą	mowny	adj:sg:inst:f:com		
+> mowniejszego	mowny	adj:sg:acc:m1.m2:com		
+> mowniejszego	mowny	adj:sg:gen:m1.m2.m3.n:com		
+> mowniejszej	mowny	adj:sg:dat:f:com		
+> mowniejszej	mowny	adj:sg:gen:f:com		
+> mowniejszej	mowny	adj:sg:loc:f:com		
+> mowniejsze	mowny	adj:pl:acc:m2.m3.f.n:com		
+> mowniejsze	mowny	adj:pl:nom.voc:m2.m3.f.n:com		
+> mowniejsze	mowny	adj:sg:acc:n:com		
+> mowniejsze	mowny	adj:sg:nom.voc:n:com		
+> mowniejszemu	mowny	adj:sg:dat:m1.m2.m3.n:com		
+> mowniejszych	mowny	adj:pl:acc:m1:com		
+> mowniejszych	mowny	adj:pl:gen:m1.m2.m3.f.n:com		
+> mowniejszych	mowny	adj:pl:loc:m1.m2.m3.f.n:com		
+> mowniejszymi	mowny	adj:pl:inst:m1.m2.m3.f.n:com		
+> mowniejszym	mowny	adj:pl:dat:m1.m2.m3.f.n:com		
+> mowniejszym	mowny	adj:sg:inst:m1.m2.m3.n:com		
+> mowniejszym	mowny	adj:sg:loc:m1.m2.m3.n:com		
+> mowniejszy	mowny	adj:sg:acc:m3:com		
+> mowniejszy	mowny	adj:sg:nom.voc:m1.m2.m3:com		
+1509596a1509651,1509673
+> najmowniejsi	mowny	adj:pl:nom.voc:m1:sup		
+> najmowniejsza	mowny	adj:sg:nom.voc:f:sup		
+> najmowniejszą	mowny	adj:sg:acc:f:sup		
+> najmowniejszą	mowny	adj:sg:inst:f:sup		
+> najmowniejszego	mowny	adj:sg:acc:m1.m2:sup		
+> najmowniejszego	mowny	adj:sg:gen:m1.m2.m3.n:sup		
+> najmowniejszej	mowny	adj:sg:dat:f:sup		
+> najmowniejszej	mowny	adj:sg:gen:f:sup		
+> najmowniejszej	mowny	adj:sg:loc:f:sup		
+> najmowniejsze	mowny	adj:pl:acc:m2.m3.f.n:sup		
+> najmowniejsze	mowny	adj:pl:nom.voc:m2.m3.f.n:sup		
+> najmowniejsze	mowny	adj:sg:acc:n:sup		
+> najmowniejsze	mowny	adj:sg:nom.voc:n:sup		
+> najmowniejszemu	mowny	adj:sg:dat:m1.m2.m3.n:sup		
+> najmowniejszych	mowny	adj:pl:acc:m1:sup		
+> najmowniejszych	mowny	adj:pl:gen:m1.m2.m3.f.n:sup		
+> najmowniejszych	mowny	adj:pl:loc:m1.m2.m3.f.n:sup		
+> najmowniejszymi	mowny	adj:pl:inst:m1.m2.m3.f.n:sup		
+> najmowniejszym	mowny	adj:pl:dat:m1.m2.m3.f.n:sup		
+> najmowniejszym	mowny	adj:sg:inst:m1.m2.m3.n:sup		
+> najmowniejszym	mowny	adj:sg:loc:m1.m2.m3.n:sup		
+> najmowniejszy	mowny	adj:sg:acc:m3:sup		
+> najmowniejszy	mowny	adj:sg:nom.voc:m1.m2.m3:sup		
+1597802d1597878
+< najbardziej	najbardziej	adv		
+3839592,3839615c3839668,3839691
+< pozaczerwona	pozaczerwony	adj:sg:nom.voc:f:pos		
+< pozaczerwoną	pozaczerwony	adj:sg:acc:f:pos		
+< pozaczerwoną	pozaczerwony	adj:sg:inst:f:pos		
+< pozaczerwonego	pozaczerwony	adj:sg:acc:m1.m2:pos		
+< pozaczerwonego	pozaczerwony	adj:sg:gen:m1.m2.m3.n:pos		
+< pozaczerwonej	pozaczerwony	adj:sg:dat:f:pos		
+< pozaczerwonej	pozaczerwony	adj:sg:gen:f:pos		
+< pozaczerwonej	pozaczerwony	adj:sg:loc:f:pos		
+< pozaczerwonemu	pozaczerwony	adj:sg:dat:m1.m2.m3.n:pos		
+< pozaczerwone	pozaczerwony	adj:pl:acc:m2.m3.f.n:pos		
+< pozaczerwone	pozaczerwony	adj:pl:nom.voc:m2.m3.f.n:pos		
+< pozaczerwone	pozaczerwony	adj:sg:acc:n:pos		
+< pozaczerwone	pozaczerwony	adj:sg:nom.voc:n:pos		
+< pozaczerwoni	pozaczerwony	adj:pl:nom.voc:m1:pos		
+< pozaczerwono	pozaczerwony	adja		
+< pozaczerwonych	pozaczerwony	adj:pl:acc:m1:pos		
+< pozaczerwonych	pozaczerwony	adj:pl:gen:m1.m2.m3.f.n:pos		
+< pozaczerwonych	pozaczerwony	adj:pl:loc:m1.m2.m3.f.n:pos		
+< pozaczerwonymi	pozaczerwony	adj:pl:inst:m1.m2.m3.f.n:pos		
+< pozaczerwonym	pozaczerwony	adj:pl:dat:m1.m2.m3.f.n:pos		
+< pozaczerwonym	pozaczerwony	adj:sg:inst:m1.m2.m3.n:pos		
+< pozaczerwonym	pozaczerwony	adj:sg:loc:m1.m2.m3.n:pos		
+< pozaczerwony	pozaczerwony	adj:sg:acc:m3:pos		
+< pozaczerwony	pozaczerwony	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> pozaczerwona	pozaczerwony	adj:sg:nom.voc:f:pos		fiz.|przest.
+> pozaczerwoną	pozaczerwony	adj:sg:acc:f:pos		fiz.|przest.
+> pozaczerwoną	pozaczerwony	adj:sg:inst:f:pos		fiz.|przest.
+> pozaczerwonego	pozaczerwony	adj:sg:acc:m1.m2:pos		fiz.|przest.
+> pozaczerwonego	pozaczerwony	adj:sg:gen:m1.m2.m3.n:pos		fiz.|przest.
+> pozaczerwonej	pozaczerwony	adj:sg:dat:f:pos		fiz.|przest.
+> pozaczerwonej	pozaczerwony	adj:sg:gen:f:pos		fiz.|przest.
+> pozaczerwonej	pozaczerwony	adj:sg:loc:f:pos		fiz.|przest.
+> pozaczerwonemu	pozaczerwony	adj:sg:dat:m1.m2.m3.n:pos		fiz.|przest.
+> pozaczerwone	pozaczerwony	adj:pl:acc:m2.m3.f.n:pos		fiz.|przest.
+> pozaczerwone	pozaczerwony	adj:pl:nom.voc:m2.m3.f.n:pos		fiz.|przest.
+> pozaczerwone	pozaczerwony	adj:sg:acc:n:pos		fiz.|przest.
+> pozaczerwone	pozaczerwony	adj:sg:nom.voc:n:pos		fiz.|przest.
+> pozaczerwoni	pozaczerwony	adj:pl:nom.voc:m1:pos		fiz.|przest.
+> pozaczerwono	pozaczerwony	adja		fiz.|przest.
+> pozaczerwonych	pozaczerwony	adj:pl:acc:m1:pos		fiz.|przest.
+> pozaczerwonych	pozaczerwony	adj:pl:gen:m1.m2.m3.f.n:pos		fiz.|przest.
+> pozaczerwonych	pozaczerwony	adj:pl:loc:m1.m2.m3.f.n:pos		fiz.|przest.
+> pozaczerwonymi	pozaczerwony	adj:pl:inst:m1.m2.m3.f.n:pos		fiz.|przest.
+> pozaczerwonym	pozaczerwony	adj:pl:dat:m1.m2.m3.f.n:pos		fiz.|przest.
+> pozaczerwonym	pozaczerwony	adj:sg:inst:m1.m2.m3.n:pos		fiz.|przest.
+> pozaczerwonym	pozaczerwony	adj:sg:loc:m1.m2.m3.n:pos		fiz.|przest.
+> pozaczerwony	pozaczerwony	adj:sg:acc:m3:pos		fiz.|przest.
+> pozaczerwony	pozaczerwony	adj:sg:nom.voc:m1.m2.m3:pos		fiz.|przest.
+3841509,3841532c3841585,3841608
+< pozafiołkowa	pozafiołkowy	adj:sg:nom.voc:f:pos		
+< pozafiołkową	pozafiołkowy	adj:sg:acc:f:pos		
+< pozafiołkową	pozafiołkowy	adj:sg:inst:f:pos		
+< pozafiołkowego	pozafiołkowy	adj:sg:acc:m1.m2:pos		
+< pozafiołkowego	pozafiołkowy	adj:sg:gen:m1.m2.m3.n:pos		
+< pozafiołkowej	pozafiołkowy	adj:sg:dat:f:pos		
+< pozafiołkowej	pozafiołkowy	adj:sg:gen:f:pos		
+< pozafiołkowej	pozafiołkowy	adj:sg:loc:f:pos		
+< pozafiołkowemu	pozafiołkowy	adj:sg:dat:m1.m2.m3.n:pos		
+< pozafiołkowe	pozafiołkowy	adj:pl:acc:m2.m3.f.n:pos		
+< pozafiołkowe	pozafiołkowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+< pozafiołkowe	pozafiołkowy	adj:sg:acc:n:pos		
+< pozafiołkowe	pozafiołkowy	adj:sg:nom.voc:n:pos		
+< pozafiołkowi	pozafiołkowy	adj:pl:nom.voc:m1:pos		
+< pozafiołkowo	pozafiołkowy	adja		
+< pozafiołkowych	pozafiołkowy	adj:pl:acc:m1:pos		
+< pozafiołkowych	pozafiołkowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+< pozafiołkowych	pozafiołkowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+< pozafiołkowymi	pozafiołkowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+< pozafiołkowym	pozafiołkowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+< pozafiołkowym	pozafiołkowy	adj:sg:inst:m1.m2.m3.n:pos		
+< pozafiołkowym	pozafiołkowy	adj:sg:loc:m1.m2.m3.n:pos		
+< pozafiołkowy	pozafiołkowy	adj:sg:acc:m3:pos		
+< pozafiołkowy	pozafiołkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> pozafiołkowa	pozafiołkowy	adj:sg:nom.voc:f:pos		fiz.|przest.
+> pozafiołkową	pozafiołkowy	adj:sg:acc:f:pos		fiz.|przest.
+> pozafiołkową	pozafiołkowy	adj:sg:inst:f:pos		fiz.|przest.
+> pozafiołkowego	pozafiołkowy	adj:sg:acc:m1.m2:pos		fiz.|przest.
+> pozafiołkowego	pozafiołkowy	adj:sg:gen:m1.m2.m3.n:pos		fiz.|przest.
+> pozafiołkowej	pozafiołkowy	adj:sg:dat:f:pos		fiz.|przest.
+> pozafiołkowej	pozafiołkowy	adj:sg:gen:f:pos		fiz.|przest.
+> pozafiołkowej	pozafiołkowy	adj:sg:loc:f:pos		fiz.|przest.
+> pozafiołkowemu	pozafiołkowy	adj:sg:dat:m1.m2.m3.n:pos		fiz.|przest.
+> pozafiołkowe	pozafiołkowy	adj:pl:acc:m2.m3.f.n:pos		fiz.|przest.
+> pozafiołkowe	pozafiołkowy	adj:pl:nom.voc:m2.m3.f.n:pos		fiz.|przest.
+> pozafiołkowe	pozafiołkowy	adj:sg:acc:n:pos		fiz.|przest.
+> pozafiołkowe	pozafiołkowy	adj:sg:nom.voc:n:pos		fiz.|przest.
+> pozafiołkowi	pozafiołkowy	adj:pl:nom.voc:m1:pos		fiz.|przest.
+> pozafiołkowo	pozafiołkowy	adja		fiz.|przest.
+> pozafiołkowych	pozafiołkowy	adj:pl:acc:m1:pos		fiz.|przest.
+> pozafiołkowych	pozafiołkowy	adj:pl:gen:m1.m2.m3.f.n:pos		fiz.|przest.
+> pozafiołkowych	pozafiołkowy	adj:pl:loc:m1.m2.m3.f.n:pos		fiz.|przest.
+> pozafiołkowymi	pozafiołkowy	adj:pl:inst:m1.m2.m3.f.n:pos		fiz.|przest.
+> pozafiołkowym	pozafiołkowy	adj:pl:dat:m1.m2.m3.f.n:pos		fiz.|przest.
+> pozafiołkowym	pozafiołkowy	adj:sg:inst:m1.m2.m3.n:pos		fiz.|przest.
+> pozafiołkowym	pozafiołkowy	adj:sg:loc:m1.m2.m3.n:pos		fiz.|przest.
+> pozafiołkowy	pozafiołkowy	adj:sg:acc:m3:pos		fiz.|przest.
+> pozafiołkowy	pozafiołkowy	adj:sg:nom.voc:m1.m2.m3:pos		fiz.|przest.
+3884094,3884095d3884169
+< najpółgłośniej	półgłośno	adv:sup		
+< półgłośniej	półgłośno	adv:com		
+3884733,3884734d3884806
+< najpółinteligentniej	półinteligentnie	adv:sup		
+< półinteligentniej	półinteligentnie	adv:com		
+4168279,4168280d4168350
+< najprzyjezdniej	przyjezdnie	adv:sup		
+< przyjezdniej	przyjezdnie	adv:com		
+4724516a4724587,4724597
+> Słupcach	Słupca	subst:pl:loc:f	nazwa geograficzna	
+> Słupcami	Słupca	subst:pl:inst:f	nazwa geograficzna	
+> Słupca	Słupca	subst:sg:nom:f	nazwa geograficzna	
+> Słupcą	Słupca	subst:sg:inst:f	nazwa geograficzna	
+> Słupce	Słupca	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+> Słupcę	Słupca	subst:sg:acc:f	nazwa geograficzna	
+> Słupcom	Słupca	subst:pl:dat:f	nazwa geograficzna	
+> Słupco	Słupca	subst:sg:voc:f	nazwa geograficzna	
+> Słupc	Słupca	subst:pl:gen:f	nazwa geograficzna	
+> Słupcy	Słupca	subst:sg:dat.loc:f	nazwa geograficzna	
+> Słupcy	Słupca	subst:sg:gen:f	nazwa geograficzna	
+5011776a5011858,5011869
+> Tajach	Taj	subst:pl:loc:m1	nazwa pospolita	etn.
+> Tajami	Taj	subst:pl:inst:m1	nazwa pospolita	etn.
+> Taja	Taj	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Tajem	Taj	subst:sg:inst:m1	nazwa pospolita	etn.
+> Taje	Taj	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+> Tajom	Taj	subst:pl:dat:m1	nazwa pospolita	etn.
+> Tajowie	Taj	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Tajowi	Taj	subst:sg:dat:m1	nazwa pospolita	etn.
+> Tajów	Taj	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Taj	Taj	subst:sg:nom:m1	nazwa pospolita	etn.
+> Taju	Taj	subst:sg:loc:m1	nazwa pospolita	etn.
+> Taju	Taj	subst:sg:voc:m1	nazwa pospolita	etn.
+5012159a5012253,5012263
+> Tajce	Tajka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+> Tajek	Tajka	subst:pl:gen:f	nazwa pospolita	etn.
+> Tajkach	Tajka	subst:pl:loc:f	nazwa pospolita	etn.
+> Tajkami	Tajka	subst:pl:inst:f	nazwa pospolita	etn.
+> Tajka	Tajka	subst:sg:nom:f	nazwa pospolita	etn.
+> Tajką	Tajka	subst:sg:inst:f	nazwa pospolita	etn.
+> Tajkę	Tajka	subst:sg:acc:f	nazwa pospolita	etn.
+> Tajki	Tajka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+> Tajki	Tajka	subst:sg:gen:f	nazwa pospolita	etn.
+> Tajkom	Tajka	subst:pl:dat:f	nazwa pospolita	etn.
+> Tajko	Tajka	subst:sg:voc:f	nazwa pospolita	etn.
+5171806,5171849c5171910,5171953
+< ugrązłbym	ugręznąć	cond:sg:m1.m2.m3:pri:perf		
+< ugrązłbyś	ugręznąć	cond:sg:m1.m2.m3:sec:perf		
+< ugrązłby	ugręznąć	cond:sg:m1.m2.m3:ter:perf		
+< ugrązłem	ugręznąć	praet:sg:m1.m2.m3:pri:perf		
+< ugrązłeś	ugręznąć	praet:sg:m1.m2.m3:sec:perf		
+< ugrązłszy	ugręznąć	pant:perf		
+< ugrązł	ugręznąć	praet:sg:m1.m2.m3:perf		
+< ugrązł	ugręznąć	praet:sg:m1.m2.m3:ter:perf		
+< ugrąźć	ugręznąć	inf:perf		
+< ugręzłabym	ugręznąć	cond:sg:f:pri:perf		
+< ugręzłabyś	ugręznąć	cond:sg:f:sec:perf		
+< ugręzłaby	ugręznąć	cond:sg:f:ter:perf		
+< ugręzłam	ugręznąć	praet:sg:f:pri:perf		
+< ugręzłaś	ugręznąć	praet:sg:f:sec:perf		
+< ugręzła	ugręznąć	praet:sg:f:perf		
+< ugręzła	ugręznąć	praet:sg:f:ter:perf		
+< ugręzłobym	ugręznąć	cond:sg:n:pri:perf		
+< ugręzłobyś	ugręznąć	cond:sg:n:sec:perf		
+< ugręzłoby	ugręznąć	cond:sg:n:ter:perf		
+< ugręzłom	ugręznąć	praet:sg:n:pri:perf		
+< ugręzłoś	ugręznąć	praet:sg:n:sec:perf		
+< ugręzło	ugręznąć	praet:sg:n:perf		
+< ugręzło	ugręznąć	praet:sg:n:ter:perf		
+< ugręzłybyście	ugręznąć	cond:pl:m2.m3.f.n:sec:perf		
+< ugręzłybyśmy	ugręznąć	cond:pl:m2.m3.f.n:pri:perf		
+< ugręzłyby	ugręznąć	cond:pl:m2.m3.f.n:ter:perf		
+< ugręzłyście	ugręznąć	praet:pl:m2.m3.f.n:sec:perf		
+< ugręzłyśmy	ugręznąć	praet:pl:m2.m3.f.n:pri:perf		
+< ugręzły	ugręznąć	praet:pl:m2.m3.f.n:perf		
+< ugręzły	ugręznąć	praet:pl:m2.m3.f.n:ter:perf		
+< ugręznąć	ugręznąć	inf:perf		
+< ugręzną	ugręznąć	fin:pl:ter:perf		
+< ugręznę	ugręznąć	fin:sg:pri:perf		
+< ugręźlibyście	ugręznąć	cond:pl:m1:sec:perf		
+< ugręźlibyśmy	ugręznąć	cond:pl:m1:pri:perf		
+< ugręźliby	ugręznąć	cond:pl:m1:ter:perf		
+< ugręźliście	ugręznąć	praet:pl:m1:sec:perf		
+< ugręźliśmy	ugręznąć	praet:pl:m1:pri:perf		
+< ugręźli	ugręznąć	praet:pl:m1:perf		
+< ugręźli	ugręznąć	praet:pl:m1:ter:perf		
+< ugręźniecie	ugręznąć	fin:pl:sec:perf		
+< ugręźniemy	ugręznąć	fin:pl:pri:perf		
+< ugręźniesz	ugręznąć	fin:sg:sec:perf		
+< ugręźnie	ugręznąć	fin:sg:ter:perf		
+---
+> ugrązłbym	ugręznąć	cond:sg:m1.m2.m3:pri:perf		daw.
+> ugrązłbyś	ugręznąć	cond:sg:m1.m2.m3:sec:perf		daw.
+> ugrązłby	ugręznąć	cond:sg:m1.m2.m3:ter:perf		daw.
+> ugrązłem	ugręznąć	praet:sg:m1.m2.m3:pri:perf		daw.
+> ugrązłeś	ugręznąć	praet:sg:m1.m2.m3:sec:perf		daw.
+> ugrązłszy	ugręznąć	pant:perf		daw.
+> ugrązł	ugręznąć	praet:sg:m1.m2.m3:perf		daw.
+> ugrązł	ugręznąć	praet:sg:m1.m2.m3:ter:perf		daw.
+> ugrąźć	ugręznąć	inf:perf		daw.
+> ugręzłabym	ugręznąć	cond:sg:f:pri:perf		daw.
+> ugręzłabyś	ugręznąć	cond:sg:f:sec:perf		daw.
+> ugręzłaby	ugręznąć	cond:sg:f:ter:perf		daw.
+> ugręzłam	ugręznąć	praet:sg:f:pri:perf		daw.
+> ugręzłaś	ugręznąć	praet:sg:f:sec:perf		daw.
+> ugręzła	ugręznąć	praet:sg:f:perf		daw.
+> ugręzła	ugręznąć	praet:sg:f:ter:perf		daw.
+> ugręzłobym	ugręznąć	cond:sg:n:pri:perf		daw.
+> ugręzłobyś	ugręznąć	cond:sg:n:sec:perf		daw.
+> ugręzłoby	ugręznąć	cond:sg:n:ter:perf		daw.
+> ugręzłom	ugręznąć	praet:sg:n:pri:perf		daw.
+> ugręzłoś	ugręznąć	praet:sg:n:sec:perf		daw.
+> ugręzło	ugręznąć	praet:sg:n:perf		daw.
+> ugręzło	ugręznąć	praet:sg:n:ter:perf		daw.
+> ugręzłybyście	ugręznąć	cond:pl:m2.m3.f.n:sec:perf		daw.
+> ugręzłybyśmy	ugręznąć	cond:pl:m2.m3.f.n:pri:perf		daw.
+> ugręzłyby	ugręznąć	cond:pl:m2.m3.f.n:ter:perf		daw.
+> ugręzłyście	ugręznąć	praet:pl:m2.m3.f.n:sec:perf		daw.
+> ugręzłyśmy	ugręznąć	praet:pl:m2.m3.f.n:pri:perf		daw.
+> ugręzły	ugręznąć	praet:pl:m2.m3.f.n:perf		daw.
+> ugręzły	ugręznąć	praet:pl:m2.m3.f.n:ter:perf		daw.
+> ugręznąć	ugręznąć	inf:perf		daw.
+> ugręzną	ugręznąć	fin:pl:ter:perf		daw.
+> ugręznę	ugręznąć	fin:sg:pri:perf		daw.
+> ugręźlibyście	ugręznąć	cond:pl:m1:sec:perf		daw.
+> ugręźlibyśmy	ugręznąć	cond:pl:m1:pri:perf		daw.
+> ugręźliby	ugręznąć	cond:pl:m1:ter:perf		daw.
+> ugręźliście	ugręznąć	praet:pl:m1:sec:perf		daw.
+> ugręźliśmy	ugręznąć	praet:pl:m1:pri:perf		daw.
+> ugręźli	ugręznąć	praet:pl:m1:perf		daw.
+> ugręźli	ugręznąć	praet:pl:m1:ter:perf		daw.
+> ugręźniecie	ugręznąć	fin:pl:sec:perf		daw.
+> ugręźniemy	ugręznąć	fin:pl:pri:perf		daw.
+> ugręźniesz	ugręznąć	fin:sg:sec:perf		daw.
+> ugręźnie	ugręznąć	fin:sg:ter:perf		daw.
+5171859,5171862c5171963,5171966
+< ugręźnięto	ugręznąć	imps:perf		
+< ugręźnijcie	ugręznąć	impt:pl:sec:perf		
+< ugręźnijmy	ugręznąć	impt:pl:pri:perf		
+< ugręźnij	ugręznąć	impt:sg:sec:perf		
+---
+> ugręźnięto	ugręznąć	imps:perf		daw.
+> ugręźnijcie	ugręznąć	impt:pl:sec:perf		daw.
+> ugręźnijmy	ugręznąć	impt:pl:pri:perf		daw.
+> ugręźnij	ugręznąć	impt:sg:sec:perf		daw.
+5500537,5500538d5500640
+< najwpółweselej	wpółwesoło	adv:sup		
+< wpółweselej	wpółwesoło	adv:com		

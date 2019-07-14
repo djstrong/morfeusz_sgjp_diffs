@@ -1,0 +1,28 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.03.31
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.04.15
+3607,3617c3607,3617
+< absolucie	absolut	subst:sg:loc:m3	nazwa_pospolita	filoz.
+< absolucie	absolut	subst:sg:voc:m3	nazwa_pospolita	filoz.
+< absolut	absolut	subst:sg:nom.acc:m3	nazwa_pospolita	filoz.
+< absolutach	absolut	subst:pl:loc:m3	nazwa_pospolita	filoz.
+< absolutami	absolut	subst:pl:inst:m3	nazwa_pospolita	filoz.
+< absolutem	absolut	subst:sg:inst:m3	nazwa_pospolita	filoz.
+< absolutom	absolut	subst:pl:dat:m3	nazwa_pospolita	filoz.
+< absolutowi	absolut	subst:sg:dat:m3	nazwa_pospolita	filoz.
+< absolutów	absolut	subst:pl:gen:m3	nazwa_pospolita	filoz.
+< absolutu	absolut	subst:sg:gen:m3	nazwa_pospolita	filoz.
+< absoluty	absolut	subst:pl:nom.acc.voc:m3	nazwa_pospolita	filoz.
+---
+> absolucie	absolut	subst:sg:loc:m3	nazwa_pospolita	
+> absolucie	absolut	subst:sg:voc:m3	nazwa_pospolita	
+> absolut	absolut	subst:sg:nom.acc:m3	nazwa_pospolita	
+> absolutach	absolut	subst:pl:loc:m3	nazwa_pospolita	
+> absolutami	absolut	subst:pl:inst:m3	nazwa_pospolita	
+> absolutem	absolut	subst:sg:inst:m3	nazwa_pospolita	
+> absolutom	absolut	subst:pl:dat:m3	nazwa_pospolita	
+> absolutowi	absolut	subst:sg:dat:m3	nazwa_pospolita	
+> absolutów	absolut	subst:pl:gen:m3	nazwa_pospolita	
+> absolutu	absolut	subst:sg:gen:m3	nazwa_pospolita	
+> absoluty	absolut	subst:pl:nom.acc.voc:m3	nazwa_pospolita	

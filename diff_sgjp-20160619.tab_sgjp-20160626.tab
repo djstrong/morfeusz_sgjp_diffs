@@ -1,0 +1,438 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.06.19
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.06.26
+1465351a1465352,1465398
+> liftingować	liftingować	inf:imperf		
+> liftingowaliby	liftingować	cond:pl:m1.p1:ter:imperf		
+> liftingowalibyście	liftingować	cond:pl:m1.p1:sec:imperf		
+> liftingowalibyśmy	liftingować	cond:pl:m1.p1:pri:imperf		
+> liftingowali	liftingować	praet:pl:m1.p1:imperf		
+> liftingowali	liftingować	praet:pl:m1.p1:ter:imperf		
+> liftingowaliście	liftingować	praet:pl:m1.p1:sec:imperf		
+> liftingowaliśmy	liftingować	praet:pl:m1.p1:pri:imperf		
+> liftingowałaby	liftingować	cond:sg:f:ter:imperf		
+> liftingowałabym	liftingować	cond:sg:f:pri:imperf		
+> liftingowałabyś	liftingować	cond:sg:f:sec:imperf		
+> liftingowała	liftingować	praet:sg:f:imperf		
+> liftingowała	liftingować	praet:sg:f:ter:imperf		
+> liftingowałam	liftingować	praet:sg:f:pri:imperf		
+> liftingowałaś	liftingować	praet:sg:f:sec:imperf		
+> liftingowałby	liftingować	cond:sg:m1.m2.m3:ter:imperf		
+> liftingowałbym	liftingować	cond:sg:m1.m2.m3:pri:imperf		
+> liftingowałbyś	liftingować	cond:sg:m1.m2.m3:sec:imperf		
+> liftingowałem	liftingować	praet:sg:m1.m2.m3:pri:imperf		
+> liftingowałeś	liftingować	praet:sg:m1.m2.m3:sec:imperf		
+> liftingował	liftingować	praet:sg:m1.m2.m3:imperf		
+> liftingował	liftingować	praet:sg:m1.m2.m3:ter:imperf		
+> liftingowałoby	liftingować	cond:sg:n1.n2:ter:imperf		
+> liftingowałobym	liftingować	cond:sg:n1.n2:pri:imperf		
+> liftingowałobyś	liftingować	cond:sg:n1.n2:sec:imperf		
+> liftingowało	liftingować	praet:sg:n1.n2:imperf		
+> liftingowało	liftingować	praet:sg:n1.n2:ter:imperf		
+> liftingowałom	liftingować	praet:sg:n1.n2:pri:imperf		
+> liftingowałoś	liftingować	praet:sg:n1.n2:sec:imperf		
+> liftingowałyby	liftingować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> liftingowałybyście	liftingować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> liftingowałybyśmy	liftingować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> liftingowały	liftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+> liftingowały	liftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> liftingowałyście	liftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> liftingowałyśmy	liftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> liftingowano	liftingować	imps:imperf		
+> liftingując	liftingować	pcon:imperf		
+> liftingują	liftingować	fin:pl:ter:imperf		
+> liftingujcie	liftingować	impt:pl:sec:imperf		
+> liftingujecie	liftingować	fin:pl:sec:imperf		
+> liftinguje	liftingować	fin:sg:ter:imperf		
+> liftingujemy	liftingować	fin:pl:pri:imperf		
+> liftingujesz	liftingować	fin:sg:sec:imperf		
+> liftinguję	liftingować	fin:sg:pri:imperf		
+> liftinguj	liftingować	impt:sg:sec:imperf		
+> liftingujmy	liftingować	impt:pl:pri:imperf		
+3411201a3411249,3411475
+> nieodstresowana	odstresować	ppas:sg:nom.voc:f:perf:neg		
+> nieodstresowaną	odstresować	ppas:sg:acc.inst:f:perf:neg		
+> nieodstresowanego	odstresować	ppas:sg:acc:m1.m2:perf:neg		
+> nieodstresowanego	odstresować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> nieodstresowanej	odstresować	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieodstresowanemu	odstresować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> nieodstresowane	odstresować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> nieodstresowane	odstresować	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> nieodstresowaniach	odstresować	ger:pl:loc:n2:perf:neg		
+> nieodstresowaniami	odstresować	ger:pl:inst:n2:perf:neg		
+> nieodstresowania	odstresować	ger:pl:nom.acc:n2:perf:neg		
+> nieodstresowania	odstresować	ger:sg:gen:n2:perf:neg		
+> nieodstresowaniem	odstresować	ger:sg:inst:n2:perf:neg		
+> nieodstresowanie	odstresować	ger:sg:nom.acc:n2:perf:neg		
+> nieodstresowani	odstresować	ppas:pl:nom.voc:m1.p1:perf:neg		
+> nieodstresowaniom	odstresować	ger:pl:dat:n2:perf:neg		
+> nieodstresowaniu	odstresować	ger:sg:dat.loc:n2:perf:neg		
+> nieodstresowanych	odstresować	ppas:pl:acc:m1.p1:perf:neg		
+> nieodstresowanych	odstresować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieodstresowanymi	odstresować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieodstresowanym	odstresować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieodstresowanym	odstresować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> nieodstresowany	odstresować	ppas:sg:acc:m3:perf:neg		
+> nieodstresowany	odstresować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nieodstresowań	odstresować	ger:pl:gen:n2:perf:neg		
+> odstresować	odstresować	inf:perf		
+> odstresowaliby	odstresować	cond:pl:m1.p1:ter:perf		
+> odstresowalibyście	odstresować	cond:pl:m1.p1:sec:perf		
+> odstresowalibyśmy	odstresować	cond:pl:m1.p1:pri:perf		
+> odstresowali	odstresować	praet:pl:m1.p1:perf		
+> odstresowali	odstresować	praet:pl:m1.p1:ter:perf		
+> odstresowaliście	odstresować	praet:pl:m1.p1:sec:perf		
+> odstresowaliśmy	odstresować	praet:pl:m1.p1:pri:perf		
+> odstresowałabym	odstresować	cond:sg:f:pri:perf		
+> odstresowałaby	odstresować	cond:sg:f:ter:perf		
+> odstresowałabyś	odstresować	cond:sg:f:sec:perf		
+> odstresowałam	odstresować	praet:sg:f:pri:perf		
+> odstresowała	odstresować	praet:sg:f:perf		
+> odstresowała	odstresować	praet:sg:f:ter:perf		
+> odstresowałaś	odstresować	praet:sg:f:sec:perf		
+> odstresowałbym	odstresować	cond:sg:m1.m2.m3:pri:perf		
+> odstresowałby	odstresować	cond:sg:m1.m2.m3:ter:perf		
+> odstresowałbyś	odstresować	cond:sg:m1.m2.m3:sec:perf		
+> odstresowałem	odstresować	praet:sg:m1.m2.m3:pri:perf		
+> odstresowałeś	odstresować	praet:sg:m1.m2.m3:sec:perf		
+> odstresowałobym	odstresować	cond:sg:n1.n2:pri:perf		
+> odstresowałoby	odstresować	cond:sg:n1.n2:ter:perf		
+> odstresowałobyś	odstresować	cond:sg:n1.n2:sec:perf		
+> odstresował	odstresować	praet:sg:m1.m2.m3:perf		
+> odstresował	odstresować	praet:sg:m1.m2.m3:ter:perf		
+> odstresowałom	odstresować	praet:sg:n1.n2:pri:perf		
+> odstresowało	odstresować	praet:sg:n1.n2:perf		
+> odstresowało	odstresować	praet:sg:n1.n2:ter:perf		
+> odstresowałoś	odstresować	praet:sg:n1.n2:sec:perf		
+> odstresowałyby	odstresować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> odstresowałybyście	odstresować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> odstresowałybyśmy	odstresować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> odstresowały	odstresować	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> odstresowały	odstresować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> odstresowałyście	odstresować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> odstresowałyśmy	odstresować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> odstresowana	odstresować	ppas:sg:nom.voc:f:perf:aff		
+> odstresowaną	odstresować	ppas:sg:acc.inst:f:perf:aff		
+> odstresowanego	odstresować	ppas:sg:acc:m1.m2:perf:aff		
+> odstresowanego	odstresować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> odstresowanej	odstresować	ppas:sg:gen.dat.loc:f:perf:aff		
+> odstresowanemu	odstresować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> odstresowane	odstresować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> odstresowane	odstresować	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> odstresowaniach	odstresować	ger:pl:loc:n2:perf:aff		
+> odstresowaniami	odstresować	ger:pl:inst:n2:perf:aff		
+> odstresowania	odstresować	ger:pl:nom.acc:n2:perf:aff		
+> odstresowania	odstresować	ger:sg:gen:n2:perf:aff		
+> odstresowaniem	odstresować	ger:sg:inst:n2:perf:aff		
+> odstresowanie	odstresować	ger:sg:nom.acc:n2:perf:aff		
+> odstresowani	odstresować	ppas:pl:nom.voc:m1.p1:perf:aff		
+> odstresowaniom	odstresować	ger:pl:dat:n2:perf:aff		
+> odstresowaniu	odstresować	ger:sg:dat.loc:n2:perf:aff		
+> odstresowano	odstresować	imps:perf		
+> odstresowanych	odstresować	ppas:pl:acc:m1.p1:perf:aff		
+> odstresowanych	odstresować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> odstresowanymi	odstresować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> odstresowanym	odstresować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> odstresowanym	odstresować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> odstresowany	odstresować	ppas:sg:acc:m3:perf:aff		
+> odstresowany	odstresować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> odstresowań	odstresować	ger:pl:gen:n2:perf:aff		
+> odstresowawszy	odstresować	pant:perf		
+> odstresują	odstresować	fin:pl:ter:perf		
+> odstresujcie	odstresować	impt:pl:sec:perf		
+> odstresujecie	odstresować	fin:pl:sec:perf		
+> odstresujemy	odstresować	fin:pl:pri:perf		
+> odstresuje	odstresować	fin:sg:ter:perf		
+> odstresujesz	odstresować	fin:sg:sec:perf		
+> odstresuję	odstresować	fin:sg:pri:perf		
+> odstresujmy	odstresować	impt:pl:pri:perf		
+> odstresuj	odstresować	impt:sg:sec:perf		
+> nieodstresowująca	odstresowywać	pact:sg:nom.voc:f:imperf:neg		
+> nieodstresowującą	odstresowywać	pact:sg:acc.inst:f:imperf:neg		
+> nieodstresowującego	odstresowywać	pact:sg:acc:m1.m2:imperf:neg		
+> nieodstresowującego	odstresowywać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> nieodstresowującej	odstresowywać	pact:sg:gen.dat.loc:f:imperf:neg		
+> nieodstresowującemu	odstresowywać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+> nieodstresowujące	odstresowywać	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> nieodstresowujące	odstresowywać	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
+> nieodstresowujących	odstresowywać	pact:pl:acc:m1.p1:imperf:neg		
+> nieodstresowujących	odstresowywać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieodstresowującymi	odstresowywać	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieodstresowującym	odstresowywać	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieodstresowującym	odstresowywać	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> nieodstresowujący	odstresowywać	pact:pl:nom.voc:m1.p1:imperf:neg		
+> nieodstresowujący	odstresowywać	pact:sg:acc:m3:imperf:neg		
+> nieodstresowujący	odstresowywać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieodstresowywana	odstresowywać	ppas:sg:nom.voc:f:imperf:neg		
+> nieodstresowywaną	odstresowywać	ppas:sg:acc.inst:f:imperf:neg		
+> nieodstresowywanego	odstresowywać	ppas:sg:acc:m1.m2:imperf:neg		
+> nieodstresowywanego	odstresowywać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> nieodstresowywanej	odstresowywać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieodstresowywanemu	odstresowywać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+> nieodstresowywane	odstresowywać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> nieodstresowywane	odstresowywać	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+> nieodstresowywaniach	odstresowywać	ger:pl:loc:n2:imperf:neg		
+> nieodstresowywaniami	odstresowywać	ger:pl:inst:n2:imperf:neg		
+> nieodstresowywania	odstresowywać	ger:pl:nom.acc:n2:imperf:neg		
+> nieodstresowywania	odstresowywać	ger:sg:gen:n2:imperf:neg		
+> nieodstresowywaniem	odstresowywać	ger:sg:inst:n2:imperf:neg		
+> nieodstresowywanie	odstresowywać	ger:sg:nom.acc:n2:imperf:neg		
+> nieodstresowywani	odstresowywać	ppas:pl:nom.voc:m1.p1:imperf:neg		
+> nieodstresowywaniom	odstresowywać	ger:pl:dat:n2:imperf:neg		
+> nieodstresowywaniu	odstresowywać	ger:sg:dat.loc:n2:imperf:neg		
+> nieodstresowywanych	odstresowywać	ppas:pl:acc:m1.p1:imperf:neg		
+> nieodstresowywanych	odstresowywać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieodstresowywanymi	odstresowywać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieodstresowywanym	odstresowywać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieodstresowywanym	odstresowywać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> nieodstresowywany	odstresowywać	ppas:sg:acc:m3:imperf:neg		
+> nieodstresowywany	odstresowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieodstresowywań	odstresowywać	ger:pl:gen:n2:imperf:neg		
+> odstresowująca	odstresowywać	pact:sg:nom.voc:f:imperf:aff		
+> odstresowującą	odstresowywać	pact:sg:acc.inst:f:imperf:aff		
+> odstresowującego	odstresowywać	pact:sg:acc:m1.m2:imperf:aff		
+> odstresowującego	odstresowywać	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> odstresowującej	odstresowywać	pact:sg:gen.dat.loc:f:imperf:aff		
+> odstresowującemu	odstresowywać	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+> odstresowujące	odstresowywać	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> odstresowujące	odstresowywać	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+> odstresowując	odstresowywać	pcon:imperf		
+> odstresowująco	odstresowywać	pacta		
+> odstresowujących	odstresowywać	pact:pl:acc:m1.p1:imperf:aff		
+> odstresowujących	odstresowywać	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> odstresowującymi	odstresowywać	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> odstresowującym	odstresowywać	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> odstresowującym	odstresowywać	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> odstresowujący	odstresowywać	pact:pl:nom.voc:m1.p1:imperf:aff		
+> odstresowujący	odstresowywać	pact:sg:acc:m3:imperf:aff		
+> odstresowujący	odstresowywać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> odstresowują	odstresowywać	fin:pl:ter:imperf		
+> odstresowujcie	odstresowywać	impt:pl:sec:imperf		
+> odstresowujecie	odstresowywać	fin:pl:sec:imperf		
+> odstresowujemy	odstresowywać	fin:pl:pri:imperf		
+> odstresowuje	odstresowywać	fin:sg:ter:imperf		
+> odstresowujesz	odstresowywać	fin:sg:sec:imperf		
+> odstresowuję	odstresowywać	fin:sg:pri:imperf		
+> odstresowujmy	odstresowywać	impt:pl:pri:imperf		
+> odstresowuj	odstresowywać	impt:sg:sec:imperf		
+> odstresowywać	odstresowywać	inf:imperf		
+> odstresowywaliby	odstresowywać	cond:pl:m1.p1:ter:imperf		
+> odstresowywalibyście	odstresowywać	cond:pl:m1.p1:sec:imperf		
+> odstresowywalibyśmy	odstresowywać	cond:pl:m1.p1:pri:imperf		
+> odstresowywali	odstresowywać	praet:pl:m1.p1:imperf		
+> odstresowywali	odstresowywać	praet:pl:m1.p1:ter:imperf		
+> odstresowywaliście	odstresowywać	praet:pl:m1.p1:sec:imperf		
+> odstresowywaliśmy	odstresowywać	praet:pl:m1.p1:pri:imperf		
+> odstresowywałabym	odstresowywać	cond:sg:f:pri:imperf		
+> odstresowywałaby	odstresowywać	cond:sg:f:ter:imperf		
+> odstresowywałabyś	odstresowywać	cond:sg:f:sec:imperf		
+> odstresowywałam	odstresowywać	praet:sg:f:pri:imperf		
+> odstresowywała	odstresowywać	praet:sg:f:imperf		
+> odstresowywała	odstresowywać	praet:sg:f:ter:imperf		
+> odstresowywałaś	odstresowywać	praet:sg:f:sec:imperf		
+> odstresowywałbym	odstresowywać	cond:sg:m1.m2.m3:pri:imperf		
+> odstresowywałby	odstresowywać	cond:sg:m1.m2.m3:ter:imperf		
+> odstresowywałbyś	odstresowywać	cond:sg:m1.m2.m3:sec:imperf		
+> odstresowywałem	odstresowywać	praet:sg:m1.m2.m3:pri:imperf		
+> odstresowywałeś	odstresowywać	praet:sg:m1.m2.m3:sec:imperf		
+> odstresowywałobym	odstresowywać	cond:sg:n1.n2:pri:imperf		
+> odstresowywałoby	odstresowywać	cond:sg:n1.n2:ter:imperf		
+> odstresowywałobyś	odstresowywać	cond:sg:n1.n2:sec:imperf		
+> odstresowywał	odstresowywać	praet:sg:m1.m2.m3:imperf		
+> odstresowywał	odstresowywać	praet:sg:m1.m2.m3:ter:imperf		
+> odstresowywałom	odstresowywać	praet:sg:n1.n2:pri:imperf		
+> odstresowywało	odstresowywać	praet:sg:n1.n2:imperf		
+> odstresowywało	odstresowywać	praet:sg:n1.n2:ter:imperf		
+> odstresowywałoś	odstresowywać	praet:sg:n1.n2:sec:imperf		
+> odstresowywałyby	odstresowywać	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> odstresowywałybyście	odstresowywać	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> odstresowywałybyśmy	odstresowywać	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> odstresowywały	odstresowywać	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+> odstresowywały	odstresowywać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> odstresowywałyście	odstresowywać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> odstresowywałyśmy	odstresowywać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> odstresowywana	odstresowywać	ppas:sg:nom.voc:f:imperf:aff		
+> odstresowywaną	odstresowywać	ppas:sg:acc.inst:f:imperf:aff		
+> odstresowywanego	odstresowywać	ppas:sg:acc:m1.m2:imperf:aff		
+> odstresowywanego	odstresowywać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> odstresowywanej	odstresowywać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> odstresowywanemu	odstresowywać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+> odstresowywane	odstresowywać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> odstresowywane	odstresowywać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+> odstresowywaniach	odstresowywać	ger:pl:loc:n2:imperf:aff		
+> odstresowywaniami	odstresowywać	ger:pl:inst:n2:imperf:aff		
+> odstresowywania	odstresowywać	ger:pl:nom.acc:n2:imperf:aff		
+> odstresowywania	odstresowywać	ger:sg:gen:n2:imperf:aff		
+> odstresowywaniem	odstresowywać	ger:sg:inst:n2:imperf:aff		
+> odstresowywanie	odstresowywać	ger:sg:nom.acc:n2:imperf:aff		
+> odstresowywani	odstresowywać	ppas:pl:nom.voc:m1.p1:imperf:aff		
+> odstresowywaniom	odstresowywać	ger:pl:dat:n2:imperf:aff		
+> odstresowywaniu	odstresowywać	ger:sg:dat.loc:n2:imperf:aff		
+> odstresowywano	odstresowywać	imps:imperf		
+> odstresowywanych	odstresowywać	ppas:pl:acc:m1.p1:imperf:aff		
+> odstresowywanych	odstresowywać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> odstresowywanymi	odstresowywać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> odstresowywanym	odstresowywać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> odstresowywanym	odstresowywać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> odstresowywany	odstresowywać	ppas:sg:acc:m3:imperf:aff		
+> odstresowywany	odstresowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> odstresowywań	odstresowywać	ger:pl:gen:n2:imperf:aff		
+3815409,3815422c3815683,3815696
+< podbabiach	podbabie	subst:pl:loc:n2	nazwa pospolita	
+< podbabiami	podbabie	subst:pl:inst:n2	nazwa pospolita	
+< podbabia	podbabie	subst:pl:acc:n2	nazwa pospolita	
+< podbabia	podbabie	subst:pl:nom:n2	nazwa pospolita	
+< podbabia	podbabie	subst:pl:voc:n2	nazwa pospolita	
+< podbabia	podbabie	subst:sg:gen:n2	nazwa pospolita	
+< podbabiem	podbabie	subst:sg:inst:n2	nazwa pospolita	
+< podbabie	podbabie	subst:sg:acc:n2	nazwa pospolita	
+< podbabie	podbabie	subst:sg:nom:n2	nazwa pospolita	
+< podbabie	podbabie	subst:sg:voc:n2	nazwa pospolita	
+< podbabiom	podbabie	subst:pl:dat:n2	nazwa pospolita	
+< podbabi	podbabie	subst:pl:gen:n2	nazwa pospolita	
+< podbabiu	podbabie	subst:sg:dat:n2	nazwa pospolita	
+< podbabiu	podbabie	subst:sg:loc:n2	nazwa pospolita	
+---
+> podbabiach	podbabie	subst:pl:loc:n2	nazwa pospolita	rzad.
+> podbabiami	podbabie	subst:pl:inst:n2	nazwa pospolita	rzad.
+> podbabia	podbabie	subst:pl:acc:n2	nazwa pospolita	rzad.
+> podbabia	podbabie	subst:pl:nom:n2	nazwa pospolita	rzad.
+> podbabia	podbabie	subst:pl:voc:n2	nazwa pospolita	rzad.
+> podbabia	podbabie	subst:sg:gen:n2	nazwa pospolita	rzad.
+> podbabiem	podbabie	subst:sg:inst:n2	nazwa pospolita	rzad.
+> podbabie	podbabie	subst:sg:acc:n2	nazwa pospolita	rzad.
+> podbabie	podbabie	subst:sg:nom:n2	nazwa pospolita	rzad.
+> podbabie	podbabie	subst:sg:voc:n2	nazwa pospolita	rzad.
+> podbabiom	podbabie	subst:pl:dat:n2	nazwa pospolita	rzad.
+> podbabi	podbabie	subst:pl:gen:n2	nazwa pospolita	rzad.
+> podbabiu	podbabie	subst:sg:dat:n2	nazwa pospolita	rzad.
+> podbabiu	podbabie	subst:sg:loc:n2	nazwa pospolita	rzad.
+3860260,3860273c3860534,3860547
+< podniebiach	podniebie	subst:pl:loc:n2	nazwa pospolita	
+< podniebiami	podniebie	subst:pl:inst:n2	nazwa pospolita	
+< podniebia	podniebie	subst:pl:acc:n2	nazwa pospolita	
+< podniebia	podniebie	subst:pl:nom:n2	nazwa pospolita	
+< podniebia	podniebie	subst:pl:voc:n2	nazwa pospolita	
+< podniebia	podniebie	subst:sg:gen:n2	nazwa pospolita	
+< podniebiem	podniebie	subst:sg:inst:n2	nazwa pospolita	
+< podniebie	podniebie	subst:sg:acc:n2	nazwa pospolita	
+< podniebie	podniebie	subst:sg:nom:n2	nazwa pospolita	
+< podniebie	podniebie	subst:sg:voc:n2	nazwa pospolita	
+< podniebiom	podniebie	subst:pl:dat:n2	nazwa pospolita	
+< podniebi	podniebie	subst:pl:gen:n2	nazwa pospolita	
+< podniebiu	podniebie	subst:sg:dat:n2	nazwa pospolita	
+< podniebiu	podniebie	subst:sg:loc:n2	nazwa pospolita	
+---
+> podniebiach	podniebie	subst:pl:loc:n2	nazwa pospolita	książk.
+> podniebiami	podniebie	subst:pl:inst:n2	nazwa pospolita	książk.
+> podniebia	podniebie	subst:pl:acc:n2	nazwa pospolita	książk.
+> podniebia	podniebie	subst:pl:nom:n2	nazwa pospolita	książk.
+> podniebia	podniebie	subst:pl:voc:n2	nazwa pospolita	książk.
+> podniebia	podniebie	subst:sg:gen:n2	nazwa pospolita	książk.
+> podniebiem	podniebie	subst:sg:inst:n2	nazwa pospolita	książk.
+> podniebie	podniebie	subst:sg:acc:n2	nazwa pospolita	książk.
+> podniebie	podniebie	subst:sg:nom:n2	nazwa pospolita	książk.
+> podniebie	podniebie	subst:sg:voc:n2	nazwa pospolita	książk.
+> podniebiom	podniebie	subst:pl:dat:n2	nazwa pospolita	książk.
+> podniebi	podniebie	subst:pl:gen:n2	nazwa pospolita	książk.
+> podniebiu	podniebie	subst:sg:dat:n2	nazwa pospolita	książk.
+> podniebiu	podniebie	subst:sg:loc:n2	nazwa pospolita	książk.
+6748810a6749085,6749181
+> niezliftingowana	zliftingować	ppas:sg:nom.voc:f:perf:neg		
+> niezliftingowaną	zliftingować	ppas:sg:acc.inst:f:perf:neg		
+> niezliftingowanego	zliftingować	ppas:sg:acc:m1.m2:perf:neg		
+> niezliftingowanego	zliftingować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> niezliftingowanej	zliftingować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezliftingowanemu	zliftingować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> niezliftingowane	zliftingować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> niezliftingowane	zliftingować	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> niezliftingowaniach	zliftingować	ger:pl:loc:n2:perf:neg		
+> niezliftingowaniami	zliftingować	ger:pl:inst:n2:perf:neg		
+> niezliftingowania	zliftingować	ger:pl:nom.acc:n2:perf:neg		
+> niezliftingowania	zliftingować	ger:sg:gen:n2:perf:neg		
+> niezliftingowaniem	zliftingować	ger:sg:inst:n2:perf:neg		
+> niezliftingowanie	zliftingować	ger:sg:nom.acc:n2:perf:neg		
+> niezliftingowaniom	zliftingować	ger:pl:dat:n2:perf:neg		
+> niezliftingowaniu	zliftingować	ger:sg:dat.loc:n2:perf:neg		
+> niezliftingowani	zliftingować	ppas:pl:nom.voc:m1.p1:perf:neg		
+> niezliftingowanych	zliftingować	ppas:pl:acc:m1.p1:perf:neg		
+> niezliftingowanych	zliftingować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezliftingowanymi	zliftingować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezliftingowanym	zliftingować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezliftingowanym	zliftingować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> niezliftingowany	zliftingować	ppas:sg:acc:m3:perf:neg		
+> niezliftingowany	zliftingować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezliftingowań	zliftingować	ger:pl:gen:n2:perf:neg		
+> zliftingować	zliftingować	inf:perf		
+> zliftingowalibyście	zliftingować	cond:pl:m1.p1:sec:perf		
+> zliftingowalibyśmy	zliftingować	cond:pl:m1.p1:pri:perf		
+> zliftingowaliby	zliftingować	cond:pl:m1.p1:ter:perf		
+> zliftingowaliście	zliftingować	praet:pl:m1.p1:sec:perf		
+> zliftingowaliśmy	zliftingować	praet:pl:m1.p1:pri:perf		
+> zliftingowali	zliftingować	praet:pl:m1.p1:perf		
+> zliftingowali	zliftingować	praet:pl:m1.p1:ter:perf		
+> zliftingowałabym	zliftingować	cond:sg:f:pri:perf		
+> zliftingowałabyś	zliftingować	cond:sg:f:sec:perf		
+> zliftingowałaby	zliftingować	cond:sg:f:ter:perf		
+> zliftingowałam	zliftingować	praet:sg:f:pri:perf		
+> zliftingowałaś	zliftingować	praet:sg:f:sec:perf		
+> zliftingowała	zliftingować	praet:sg:f:perf		
+> zliftingowała	zliftingować	praet:sg:f:ter:perf		
+> zliftingowałbym	zliftingować	cond:sg:m1.m2.m3:pri:perf		
+> zliftingowałbyś	zliftingować	cond:sg:m1.m2.m3:sec:perf		
+> zliftingowałby	zliftingować	cond:sg:m1.m2.m3:ter:perf		
+> zliftingowałem	zliftingować	praet:sg:m1.m2.m3:pri:perf		
+> zliftingowałeś	zliftingować	praet:sg:m1.m2.m3:sec:perf		
+> zliftingowałobym	zliftingować	cond:sg:n1.n2:pri:perf		
+> zliftingowałobyś	zliftingować	cond:sg:n1.n2:sec:perf		
+> zliftingowałoby	zliftingować	cond:sg:n1.n2:ter:perf		
+> zliftingowałom	zliftingować	praet:sg:n1.n2:pri:perf		
+> zliftingowałoś	zliftingować	praet:sg:n1.n2:sec:perf		
+> zliftingowało	zliftingować	praet:sg:n1.n2:perf		
+> zliftingowało	zliftingować	praet:sg:n1.n2:ter:perf		
+> zliftingowałybyście	zliftingować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zliftingowałybyśmy	zliftingować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zliftingowałyby	zliftingować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zliftingowałyście	zliftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zliftingowałyśmy	zliftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zliftingowały	zliftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> zliftingowały	zliftingować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zliftingował	zliftingować	praet:sg:m1.m2.m3:perf		
+> zliftingował	zliftingować	praet:sg:m1.m2.m3:ter:perf		
+> zliftingowana	zliftingować	ppas:sg:nom.voc:f:perf:aff		
+> zliftingowaną	zliftingować	ppas:sg:acc.inst:f:perf:aff		
+> zliftingowanego	zliftingować	ppas:sg:acc:m1.m2:perf:aff		
+> zliftingowanego	zliftingować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> zliftingowanej	zliftingować	ppas:sg:gen.dat.loc:f:perf:aff		
+> zliftingowanemu	zliftingować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> zliftingowane	zliftingować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> zliftingowane	zliftingować	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> zliftingowaniach	zliftingować	ger:pl:loc:n2:perf:aff		
+> zliftingowaniami	zliftingować	ger:pl:inst:n2:perf:aff		
+> zliftingowania	zliftingować	ger:pl:nom.acc:n2:perf:aff		
+> zliftingowania	zliftingować	ger:sg:gen:n2:perf:aff		
+> zliftingowaniem	zliftingować	ger:sg:inst:n2:perf:aff		
+> zliftingowanie	zliftingować	ger:sg:nom.acc:n2:perf:aff		
+> zliftingowaniom	zliftingować	ger:pl:dat:n2:perf:aff		
+> zliftingowaniu	zliftingować	ger:sg:dat.loc:n2:perf:aff		
+> zliftingowani	zliftingować	ppas:pl:nom.voc:m1.p1:perf:aff		
+> zliftingowano	zliftingować	imps:perf		
+> zliftingowanych	zliftingować	ppas:pl:acc:m1.p1:perf:aff		
+> zliftingowanych	zliftingować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zliftingowanymi	zliftingować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zliftingowanym	zliftingować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zliftingowanym	zliftingować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> zliftingowany	zliftingować	ppas:sg:acc:m3:perf:aff		
+> zliftingowany	zliftingować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zliftingowań	zliftingować	ger:pl:gen:n2:perf:aff		
+> zliftingowawszy	zliftingować	pant:perf		
+> zliftingują	zliftingować	fin:pl:ter:perf		
+> zliftingujcie	zliftingować	impt:pl:sec:perf		
+> zliftingujecie	zliftingować	fin:pl:sec:perf		
+> zliftingujemy	zliftingować	fin:pl:pri:perf		
+> zliftingujesz	zliftingować	fin:sg:sec:perf		
+> zliftinguje	zliftingować	fin:sg:ter:perf		
+> zliftinguję	zliftingować	fin:sg:pri:perf		
+> zliftingujmy	zliftingować	impt:pl:pri:perf		
+> zliftinguj	zliftingować	impt:sg:sec:perf		

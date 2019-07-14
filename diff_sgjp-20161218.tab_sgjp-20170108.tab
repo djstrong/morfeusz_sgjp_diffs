@@ -1,0 +1,68 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.12.18
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.01.08
+3c3
+< Copyright © 2007–2016 Zygmunt Saloni, Włodzimierz Gruszczyński, Marcin
+---
+> Copyright © 2007–2017 Zygmunt Saloni, Włodzimierz Gruszczyński, Marcin
+870338,870339d870337
+< German	Germanin	subst:pl:acc:m1	nazwa pospolita	
+< German	Germanin	subst:pl:gen:m1	nazwa pospolita	
+870349a870348,870351
+> Germanowie	Germanin	subst:pl:nom:m1	nazwa pospolita	
+> Germanowie	Germanin	subst:pl:voc:m1	nazwa pospolita	
+> Germanów	Germanin	subst:pl:acc:m1	nazwa pospolita	
+> Germanów	Germanin	subst:pl:gen:m1	nazwa pospolita	
+3170595,3170610d3170596
+< Normanach	Norman	subst:pl:loc:m1	imię	
+< Normanami	Norman	subst:pl:inst:m1	imię	
+< Normana	Norman	subst:sg:acc:m1	imię	
+< Normana	Norman	subst:sg:gen:m1	imię	
+< Normanem	Norman	subst:sg:inst:m1	imię	
+< Normanie	Norman	subst:sg:loc:m1	imię	
+< Normanie	Norman	subst:sg:voc:m1	imię	
+< Norman	Norman	subst:sg:nom:m1	imię	
+< Normanom	Norman	subst:pl:dat:m1	imię	
+< Normanowie	Norman	subst:pl:nom:m1	imię	
+< Normanowie	Norman	subst:pl:voc:m1	imię	
+< Normanowi	Norman	subst:sg:dat:m1	imię	
+< Normanów	Norman	subst:pl:acc:m1	imię	
+< Normanów	Norman	subst:pl:gen:m1	imię	
+< Normany	Norman	depr:pl:nom:m2	imię	
+< Normany	Norman	depr:pl:voc:m2	imię	
+3170709a3170696,3170729
+> Normanach	Norman:s1	subst:pl:loc:m1	imię	
+> Normanami	Norman:s1	subst:pl:inst:m1	imię	
+> Normana	Norman:s1	subst:sg:acc:m1	imię	
+> Normana	Norman:s1	subst:sg:gen:m1	imię	
+> Normanem	Norman:s1	subst:sg:inst:m1	imię	
+> Normanie	Norman:s1	subst:sg:loc:m1	imię	
+> Normanie	Norman:s1	subst:sg:voc:m1	imię	
+> Norman	Norman:s1	subst:sg:nom:m1	imię	
+> Normanom	Norman:s1	subst:pl:dat:m1	imię	
+> Normanowie	Norman:s1	subst:pl:nom:m1	imię	
+> Normanowie	Norman:s1	subst:pl:voc:m1	imię	
+> Normanowi	Norman:s1	subst:sg:dat:m1	imię	
+> Normanów	Norman:s1	subst:pl:acc:m1	imię	
+> Normanów	Norman:s1	subst:pl:gen:m1	imię	
+> Normany	Norman:s1	depr:pl:nom:m2	imię	
+> Normany	Norman:s1	depr:pl:voc:m2	imię	
+> Normanach	Norman:s2	subst:pl:loc:m1	nazwa pospolita	
+> Normanami	Norman:s2	subst:pl:inst:m1	nazwa pospolita	
+> Normana	Norman:s2	subst:sg:acc:m1	nazwa pospolita	
+> Normana	Norman:s2	subst:sg:gen:m1	nazwa pospolita	
+> Normanem	Norman:s2	subst:sg:inst:m1	nazwa pospolita	
+> Normanie	Norman:s2	subst:pl:nom:m1	nazwa pospolita	
+> Normanie	Norman:s2	subst:pl:voc:m1	nazwa pospolita	
+> Normanie	Norman:s2	subst:sg:loc:m1	nazwa pospolita	
+> Normanie	Norman:s2	subst:sg:voc:m1	nazwa pospolita	
+> Norman	Norman:s2	subst:sg:nom:m1	nazwa pospolita	
+> Normanom	Norman:s2	subst:pl:dat:m1	nazwa pospolita	
+> Normanowie	Norman:s2	subst:pl:nom:m1	nazwa pospolita	
+> Normanowie	Norman:s2	subst:pl:voc:m1	nazwa pospolita	
+> Normanowi	Norman:s2	subst:sg:dat:m1	nazwa pospolita	
+> Normanów	Norman:s2	subst:pl:acc:m1	nazwa pospolita	
+> Normanów	Norman:s2	subst:pl:gen:m1	nazwa pospolita	
+> Normany	Norman:s2	depr:pl:nom:m2	nazwa pospolita	
+> Normany	Norman:s2	depr:pl:voc:m2	nazwa pospolita	

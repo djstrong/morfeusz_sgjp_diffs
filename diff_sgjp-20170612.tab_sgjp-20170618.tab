@@ -1,0 +1,1281 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.06.12
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.06.18
+19540a19541,19551
+> agrokultura	agrokultura	subst:sg:nom:f	nazwa pospolita	
+> agrokulturach	agrokultura	subst:pl:loc:f	nazwa pospolita	
+> agrokultur	agrokultura	subst:pl:gen:f	nazwa pospolita	
+> agrokulturami	agrokultura	subst:pl:inst:f	nazwa pospolita	
+> agrokulturą	agrokultura	subst:sg:inst:f	nazwa pospolita	
+> agrokulturę	agrokultura	subst:sg:acc:f	nazwa pospolita	
+> agrokulturo	agrokultura	subst:sg:voc:f	nazwa pospolita	
+> agrokulturom	agrokultura	subst:pl:dat:f	nazwa pospolita	
+> agrokultury	agrokultura	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> agrokultury	agrokultura	subst:sg:gen:f	nazwa pospolita	
+> agrokulturze	agrokultura	subst:sg:dat.loc:f	nazwa pospolita	
+19957,19967c19968,19978
+< agrykultura	agrykultura	subst:sg:nom:f	nazwa pospolita	
+< agrykulturach	agrykultura	subst:pl:loc:f	nazwa pospolita	
+< agrykultur	agrykultura	subst:pl:gen:f	nazwa pospolita	
+< agrykulturami	agrykultura	subst:pl:inst:f	nazwa pospolita	
+< agrykulturą	agrykultura	subst:sg:inst:f	nazwa pospolita	
+< agrykulturę	agrykultura	subst:sg:acc:f	nazwa pospolita	
+< agrykulturo	agrykultura	subst:sg:voc:f	nazwa pospolita	
+< agrykulturom	agrykultura	subst:pl:dat:f	nazwa pospolita	
+< agrykultury	agrykultura	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< agrykultury	agrykultura	subst:sg:gen:f	nazwa pospolita	
+< agrykulturze	agrykultura	subst:sg:dat.loc:f	nazwa pospolita	
+---
+> agrykultura	agrykultura	subst:sg:nom:f	nazwa pospolita	rzad.
+> agrykulturach	agrykultura	subst:pl:loc:f	nazwa pospolita	rzad.
+> agrykultur	agrykultura	subst:pl:gen:f	nazwa pospolita	rzad.
+> agrykulturami	agrykultura	subst:pl:inst:f	nazwa pospolita	rzad.
+> agrykulturą	agrykultura	subst:sg:inst:f	nazwa pospolita	rzad.
+> agrykulturę	agrykultura	subst:sg:acc:f	nazwa pospolita	rzad.
+> agrykulturo	agrykultura	subst:sg:voc:f	nazwa pospolita	rzad.
+> agrykulturom	agrykultura	subst:pl:dat:f	nazwa pospolita	rzad.
+> agrykultury	agrykultura	subst:pl:nom.acc.voc:f	nazwa pospolita	rzad.
+> agrykultury	agrykultura	subst:sg:gen:f	nazwa pospolita	rzad.
+> agrykulturze	agrykultura	subst:sg:dat.loc:f	nazwa pospolita	rzad.
+38377,38388d38387
+< altimeria	altimeria	subst:sg:nom:f	nazwa pospolita	
+< altimeriach	altimeria	subst:pl:loc:f	nazwa pospolita	
+< altimeriami	altimeria	subst:pl:inst:f	nazwa pospolita	
+< altimerią	altimeria	subst:sg:inst:f	nazwa pospolita	
+< altimerie	altimeria	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< altimerię	altimeria	subst:sg:acc:f	nazwa pospolita	
+< altimerii	altimeria	subst:pl:gen:f	nazwa pospolita	hom.
+< altimerii	altimeria	subst:sg:dat.loc:f	nazwa pospolita	
+< altimerii	altimeria	subst:sg:gen:f	nazwa pospolita	
+< altimerio	altimeria	subst:sg:voc:f	nazwa pospolita	
+< altimeriom	altimeria	subst:pl:dat:f	nazwa pospolita	
+< altimeryj	altimeria	subst:pl:gen:f	nazwa pospolita	arch.|char.
+38400a38400,38411
+> altimetria	altimetria	subst:sg:nom:f	nazwa pospolita	
+> altimetriach	altimetria	subst:pl:loc:f	nazwa pospolita	
+> altimetriami	altimetria	subst:pl:inst:f	nazwa pospolita	
+> altimetrią	altimetria	subst:sg:inst:f	nazwa pospolita	
+> altimetrie	altimetria	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> altimetrię	altimetria	subst:sg:acc:f	nazwa pospolita	
+> altimetrii	altimetria	subst:pl:gen:f	nazwa pospolita	hom.
+> altimetrii	altimetria	subst:sg:dat.loc:f	nazwa pospolita	
+> altimetrii	altimetria	subst:sg:gen:f	nazwa pospolita	
+> altimetrio	altimetria	subst:sg:voc:f	nazwa pospolita	
+> altimetriom	altimetria	subst:pl:dat:f	nazwa pospolita	
+> altimetryj	altimetria	subst:pl:gen:f	nazwa pospolita	arch.|char.
+38667,38678d38677
+< altymeria	altymeria	subst:sg:nom:f	nazwa pospolita	
+< altymeriach	altymeria	subst:pl:loc:f	nazwa pospolita	
+< altymeriami	altymeria	subst:pl:inst:f	nazwa pospolita	
+< altymerią	altymeria	subst:sg:inst:f	nazwa pospolita	
+< altymerie	altymeria	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< altymerię	altymeria	subst:sg:acc:f	nazwa pospolita	
+< altymerii	altymeria	subst:pl:gen:f	nazwa pospolita	hom.
+< altymerii	altymeria	subst:sg:dat.loc:f	nazwa pospolita	
+< altymerii	altymeria	subst:sg:gen:f	nazwa pospolita	
+< altymerio	altymeria	subst:sg:voc:f	nazwa pospolita	
+< altymeriom	altymeria	subst:pl:dat:f	nazwa pospolita	
+< altymeryj	altymeria	subst:pl:gen:f	nazwa pospolita	arch.|char.
+38690,38701c38689,38712
+< altymetria	altymetria	subst:sg:nom:f	nazwa pospolita	
+< altymetriach	altymetria	subst:pl:loc:f	nazwa pospolita	
+< altymetriami	altymetria	subst:pl:inst:f	nazwa pospolita	
+< altymetrią	altymetria	subst:sg:inst:f	nazwa pospolita	
+< altymetrie	altymetria	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< altymetrię	altymetria	subst:sg:acc:f	nazwa pospolita	
+< altymetrii	altymetria	subst:pl:gen:f	nazwa pospolita	hom.
+< altymetrii	altymetria	subst:sg:dat.loc:f	nazwa pospolita	
+< altymetrii	altymetria	subst:sg:gen:f	nazwa pospolita	
+< altymetrio	altymetria	subst:sg:voc:f	nazwa pospolita	
+< altymetriom	altymetria	subst:pl:dat:f	nazwa pospolita	
+< altymetryj	altymetria	subst:pl:gen:f	nazwa pospolita	arch.|char.
+---
+> altymetria	altymetria:s1	subst:sg:nom:f	nazwa pospolita	
+> altymetriach	altymetria:s1	subst:pl:loc:f	nazwa pospolita	
+> altymetriami	altymetria:s1	subst:pl:inst:f	nazwa pospolita	
+> altymetrią	altymetria:s1	subst:sg:inst:f	nazwa pospolita	
+> altymetrie	altymetria:s1	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> altymetrię	altymetria:s1	subst:sg:acc:f	nazwa pospolita	
+> altymetrii	altymetria:s1	subst:pl:gen:f	nazwa pospolita	hom.
+> altymetrii	altymetria:s1	subst:sg:dat.loc:f	nazwa pospolita	
+> altymetrii	altymetria:s1	subst:sg:gen:f	nazwa pospolita	
+> altymetrio	altymetria:s1	subst:sg:voc:f	nazwa pospolita	
+> altymetriom	altymetria:s1	subst:pl:dat:f	nazwa pospolita	
+> altymetryj	altymetria:s1	subst:pl:gen:f	nazwa pospolita	arch.|char.
+> altymetria	altymetria:s2	subst:sg:nom:f	nazwa pospolita	
+> altymetriach	altymetria:s2	subst:pl:loc:f	nazwa pospolita	
+> altymetriami	altymetria:s2	subst:pl:inst:f	nazwa pospolita	
+> altymetrią	altymetria:s2	subst:sg:inst:f	nazwa pospolita	
+> altymetrie	altymetria:s2	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> altymetrię	altymetria:s2	subst:sg:acc:f	nazwa pospolita	
+> altymetrii	altymetria:s2	subst:pl:gen:f	nazwa pospolita	hom.
+> altymetrii	altymetria:s2	subst:sg:dat.loc:f	nazwa pospolita	
+> altymetrii	altymetria:s2	subst:sg:gen:f	nazwa pospolita	
+> altymetrio	altymetria:s2	subst:sg:voc:f	nazwa pospolita	
+> altymetriom	altymetria:s2	subst:pl:dat:f	nazwa pospolita	
+> altymetryj	altymetria:s2	subst:pl:gen:f	nazwa pospolita	arch.|char.
+108019,108029d108029
+< baba-jadze	baba-jaga	subst:sg:dat.loc:f	nazwa pospolita	
+< baba-jaga	baba-jaga	subst:sg:nom:f	nazwa pospolita	
+< baba-jagach	baba-jaga	subst:pl:loc:f	nazwa pospolita	
+< baba-jagami	baba-jaga	subst:pl:inst:f	nazwa pospolita	
+< baba-jagą	baba-jaga	subst:sg:inst:f	nazwa pospolita	
+< baba-jag	baba-jaga	subst:pl:gen:f	nazwa pospolita	
+< baba-jagę	baba-jaga	subst:sg:acc:f	nazwa pospolita	
+< baba-jagi	baba-jaga	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< baba-jagi	baba-jaga	subst:sg:gen:f	nazwa pospolita	
+< baba-jago	baba-jaga	subst:sg:voc:f	nazwa pospolita	
+< baba-jagom	baba-jaga	subst:pl:dat:f	nazwa pospolita	
+108303,108339c108303,108339
+< babiakowscy	babiakowski	adj:pl:nom.voc:m1:pos		
+< babiakowska	babiakowski	adj:sg:nom.voc:f:pos		
+< babiakowską	babiakowski	adj:sg:acc:f:pos		
+< babiakowską	babiakowski	adj:sg:inst:f:pos		
+< babiakowski	babiakowski	adj:sg:acc:m3:pos		
+< babiakowski	babiakowski	adj:sg:nom.voc:m1.m2.m3:pos		
+< babiakowskich	babiakowski	adj:pl:acc:m1:pos		
+< babiakowskich	babiakowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< babiakowskich	babiakowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< babiakowskie	babiakowski	adj:pl:acc:m2.m3.f.n:pos		
+< babiakowskie	babiakowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< babiakowskie	babiakowski	adj:sg:acc:n:pos		
+< babiakowskie	babiakowski	adj:sg:nom.voc:n:pos		
+< babiakowskiego	babiakowski	adj:sg:acc:m1.m2:pos		
+< babiakowskiego	babiakowski	adj:sg:gen:m1.m2.m3.n:pos		
+< babiakowskiej	babiakowski	adj:sg:dat:f:pos		
+< babiakowskiej	babiakowski	adj:sg:gen:f:pos		
+< babiakowskiej	babiakowski	adj:sg:loc:f:pos		
+< babiakowskiemu	babiakowski	adj:sg:dat:m1.m2.m3.n:pos		
+< babiakowskim	babiakowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< babiakowskim	babiakowski	adj:sg:inst:m1.m2.m3.n:pos		
+< babiakowskim	babiakowski	adj:sg:loc:m1.m2.m3.n:pos		
+< babiakowskimi	babiakowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< babiakowsko	babiakowski	adja		
+< babiakowsku	babiakowski	adjp		
+< babiakowsko	babiakowsko	adv:pos		
+< babiakowskościach	babiakowskość	subst:pl:loc:f	nazwa pospolita	
+< babiakowskościami	babiakowskość	subst:pl:inst:f	nazwa pospolita	
+< babiakowskością	babiakowskość	subst:sg:inst:f	nazwa pospolita	
+< babiakowskości	babiakowskość	subst:pl:gen:f	nazwa pospolita	
+< babiakowskości	babiakowskość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< babiakowskości	babiakowskość	subst:sg:dat.loc:f	nazwa pospolita	
+< babiakowskości	babiakowskość	subst:sg:gen:f	nazwa pospolita	
+< babiakowskości	babiakowskość	subst:sg:voc:f	nazwa pospolita	
+< babiakowskościom	babiakowskość	subst:pl:dat:f	nazwa pospolita	
+< babiakowskość	babiakowskość	subst:sg:acc:f	nazwa pospolita	
+< babiakowskość	babiakowskość	subst:sg:nom:f	nazwa pospolita	
+---
+> babiaccy	babiacki	adj:pl:nom.voc:m1:pos		
+> babiacka	babiacki	adj:sg:nom.voc:f:pos		
+> babiacką	babiacki	adj:sg:acc:f:pos		
+> babiacką	babiacki	adj:sg:inst:f:pos		
+> babiacki	babiacki	adj:sg:acc:m3:pos		
+> babiacki	babiacki	adj:sg:nom.voc:m1.m2.m3:pos		
+> babiackich	babiacki	adj:pl:acc:m1:pos		
+> babiackich	babiacki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> babiackich	babiacki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> babiackie	babiacki	adj:pl:acc:m2.m3.f.n:pos		
+> babiackie	babiacki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> babiackie	babiacki	adj:sg:acc:n:pos		
+> babiackie	babiacki	adj:sg:nom.voc:n:pos		
+> babiackiego	babiacki	adj:sg:acc:m1.m2:pos		
+> babiackiego	babiacki	adj:sg:gen:m1.m2.m3.n:pos		
+> babiackiej	babiacki	adj:sg:dat:f:pos		
+> babiackiej	babiacki	adj:sg:gen:f:pos		
+> babiackiej	babiacki	adj:sg:loc:f:pos		
+> babiackiemu	babiacki	adj:sg:dat:m1.m2.m3.n:pos		
+> babiackim	babiacki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> babiackim	babiacki	adj:sg:inst:m1.m2.m3.n:pos		
+> babiackim	babiacki	adj:sg:loc:m1.m2.m3.n:pos		
+> babiackimi	babiacki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> babiacko	babiacki	adja		
+> babiacku	babiacki	adjp		
+> babiacko	babiacko	adv:pos		
+> babiackościach	babiackość	subst:pl:loc:f	nazwa pospolita	
+> babiackościami	babiackość	subst:pl:inst:f	nazwa pospolita	
+> babiackością	babiackość	subst:sg:inst:f	nazwa pospolita	
+> babiackości	babiackość	subst:pl:gen:f	nazwa pospolita	
+> babiackości	babiackość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> babiackości	babiackość	subst:sg:dat.loc:f	nazwa pospolita	
+> babiackości	babiackość	subst:sg:gen:f	nazwa pospolita	
+> babiackości	babiackość	subst:sg:voc:f	nazwa pospolita	
+> babiackościom	babiackość	subst:pl:dat:f	nazwa pospolita	
+> babiackość	babiackość	subst:sg:acc:f	nazwa pospolita	
+> babiackość	babiackość	subst:sg:nom:f	nazwa pospolita	
+220354d220353
+< Bożecieche	Bożeciech	depr:pl:nom.acc.voc:m2	imię	
+253384d253382
+< Bunschy	Bunsch	depr:pl:nom.acc.voc:m2	nazwisko	
+262217c262215
+< Bykowni	Bykownia	subst:pl:gen:f	nazwa geograficzna	hom.
+---
+> Bykowni	Bykownia	subst:pl:gen:f	nazwa geograficzna	
+262224d262221
+< Bykowń	Bykownia	subst:pl:gen:f	nazwa geograficzna	char.
+286316d286312
+< chardonay	chardonay	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+362310,362320d362305
+< Czacach	Czaca	subst:pl:loc:f	nazwa geograficzna	
+< Czaca	Czaca	subst:sg:nom:f	nazwa geograficzna	
+< Czacami	Czaca	subst:pl:inst:f	nazwa geograficzna	
+< Czacą	Czaca	subst:sg:inst:f	nazwa geograficzna	
+< Czac	Czaca	subst:pl:gen:f	nazwa geograficzna	
+< Czace	Czaca	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+< Czacę	Czaca	subst:sg:acc:f	nazwa geograficzna	
+< Czaco	Czaca	subst:sg:voc:f	nazwa geograficzna	
+< Czacom	Czaca	subst:pl:dat:f	nazwa geograficzna	
+< Czacy	Czaca	subst:sg:dat.loc:f	nazwa geograficzna	
+< Czacy	Czaca	subst:sg:gen:f	nazwa geograficzna	
+362412a362398,362408
+> Czadcach	Czadca	subst:pl:loc:f	nazwa geograficzna	
+> Czadca	Czadca	subst:sg:nom:f	nazwa geograficzna	
+> Czadcami	Czadca	subst:pl:inst:f	nazwa geograficzna	
+> Czadcą	Czadca	subst:sg:inst:f	nazwa geograficzna	
+> Czadc	Czadca	subst:pl:gen:f	nazwa geograficzna	
+> Czadce	Czadca	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+> Czadcę	Czadca	subst:sg:acc:f	nazwa geograficzna	
+> Czadco	Czadca	subst:sg:voc:f	nazwa geograficzna	
+> Czadcom	Czadca	subst:pl:dat:f	nazwa geograficzna	
+> Czadcy	Czadca	subst:sg:dat.loc:f	nazwa geograficzna	
+> Czadcy	Czadca	subst:sg:gen:f	nazwa geograficzna	
+368628a368625,368638
+> Czciborach	Czcibór	subst:pl:loc:m1	imię	
+> Czcibora	Czcibór	subst:sg:gen.acc:m1	imię	
+> Czcibora	Czcibór	subst:sg:gen:m1	imię	
+> Czciborami	Czcibór	subst:pl:inst:m1	imię	
+> Czciborem	Czcibór	subst:sg:inst:m1	imię	
+> Czciborom	Czcibór	subst:pl:dat:m1	imię	
+> Czciborowi	Czcibór	subst:sg:dat:m1	imię	
+> Czciborowie	Czcibór	subst:pl:nom.voc:m1	imię	
+> Czciborów	Czcibór	subst:pl:gen.acc:m1	imię	
+> Czcibory	Czcibór	depr:pl:nom.acc.voc:m2	imię	
+> Czciborze	Czcibór	subst:sg:loc:m1	imię	
+> Czciborze	Czcibór	subst:sg:voc:m1	imię	
+> Czciborzy	Czcibór	subst:pl:nom.voc:m1	imię	
+> Czcibór	Czcibór	subst:sg:nom:m1	imię	
+402405,402415d402414
+< deathmetalach	deathmetal	subst:pl:loc:m3	nazwa pospolita	
+< deathmetalami	deathmetal	subst:pl:inst:m3	nazwa pospolita	
+< deathmetal	deathmetal	subst:sg:nom.acc:m3	nazwa pospolita	
+< deathmetale	deathmetal	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< deathmetalem	deathmetal	subst:sg:inst:m3	nazwa pospolita	
+< deathmetali	deathmetal	subst:pl:gen:m3	nazwa pospolita	
+< deathmetalom	deathmetal	subst:pl:dat:m3	nazwa pospolita	
+< deathmetalowi	deathmetal	subst:sg:dat:m3	nazwa pospolita	
+< deathmetalu	deathmetal	subst:sg:gen:m3	nazwa pospolita	
+< deathmetalu	deathmetal	subst:sg:loc:m3	nazwa pospolita	
+< deathmetalu	deathmetal	subst:sg:voc:m3	nazwa pospolita	
+405645,405655c405644
+< deczko	deczko:d	adv		pot.
+< deczek	deczko:s	subst:pl:gen:n:ncol	nazwa pospolita	pot.
+< deczkach	deczko:s	subst:pl:loc:n:ncol	nazwa pospolita	pot.
+< deczka	deczko:s	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	pot.
+< deczka	deczko:s	subst:sg:gen:n:ncol	nazwa pospolita	pot.
+< deczkami	deczko:s	subst:pl:inst:n:ncol	nazwa pospolita	pot.
+< deczkiem	deczko:s	subst:sg:inst:n:ncol	nazwa pospolita	pot.
+< deczko	deczko:s	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	pot.
+< deczkom	deczko:s	subst:pl:dat:n:ncol	nazwa pospolita	pot.
+< deczku	deczko:s	subst:sg:dat:n:ncol	nazwa pospolita	pot.
+< deczku	deczko:s	subst:sg:loc:n:ncol	nazwa pospolita	pot.
+---
+> deczko	deczko	adv		pot.
+444692d444680
+< diadoche	diadoch	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+449111d449098
+< diploidach	diploid	subst:pl:loc:m2	nazwa pospolita	biol.
+449113,449115c449100
+< diploida	diploid	subst:sg:gen.acc:m2	nazwa pospolita	biol.
+< diploida	diploid	subst:sg:gen:m2	nazwa pospolita	biol.
+< diploidami	diploid	subst:pl:inst:m2	nazwa pospolita	biol.
+---
+> diploida	diploid	subst:sg:gen:m3	nazwa pospolita	biol.
+449118,449119d449102
+< diploid	diploid	subst:sg:nom:m2	nazwa pospolita	biol.
+< diploidem	diploid	subst:sg:inst:m2	nazwa pospolita	biol.
+449121d449103
+< diploidom	diploid	subst:pl:dat:m2	nazwa pospolita	biol.
+449123d449104
+< diploidowi	diploid	subst:sg:dat:m2	nazwa pospolita	biol.
+449125d449105
+< diploidów	diploid	subst:pl:gen:m2	nazwa pospolita	biol.
+449128d449107
+< diploidy	diploid	subst:pl:nom.acc.voc:m2	nazwa pospolita	biol.
+449130d449108
+< diploidzie	diploid	subst:sg:loc:m2	nazwa pospolita	biol.
+449132d449109
+< diploidzie	diploid	subst:sg:voc:m2	nazwa pospolita	biol.
+458473d458449
+< Dobrocieche	Dobrociech	depr:pl:nom.acc.voc:m2	imię	
+623459,623468d623434
+< dzięcięctwach	dzięcięctwo	subst:pl:loc:n:ncol	nazwa pospolita	
+< dzięcięctwa	dzięcięctwo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
+< dzięcięctwa	dzięcięctwo	subst:sg:gen:n:ncol	nazwa pospolita	
+< dzięcięctwami	dzięcięctwo	subst:pl:inst:n:ncol	nazwa pospolita	
+< dzięcięctw	dzięcięctwo	subst:pl:gen:n:ncol	nazwa pospolita	
+< dzięcięctwem	dzięcięctwo	subst:sg:inst:n:ncol	nazwa pospolita	
+< dzięcięctwie	dzięcięctwo	subst:sg:loc:n:ncol	nazwa pospolita	
+< dzięcięctwo	dzięcięctwo	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
+< dzięcięctwom	dzięcięctwo	subst:pl:dat:n:ncol	nazwa pospolita	
+< dzięcięctwu	dzięcięctwo	subst:sg:dat:n:ncol	nazwa pospolita	
+645942,645953d645907
+< ekspratriacjach	ekspratriacja	subst:pl:loc:f	nazwa pospolita	
+< ekspratriacja	ekspratriacja	subst:sg:nom:f	nazwa pospolita	
+< ekspratriacjami	ekspratriacja	subst:pl:inst:f	nazwa pospolita	
+< ekspratriacją	ekspratriacja	subst:sg:inst:f	nazwa pospolita	
+< ekspratriacje	ekspratriacja	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< ekspratriację	ekspratriacja	subst:sg:acc:f	nazwa pospolita	
+< ekspratriacji	ekspratriacja	subst:pl:gen:f	nazwa pospolita	hom.
+< ekspratriacji	ekspratriacja	subst:sg:dat.loc:f	nazwa pospolita	
+< ekspratriacji	ekspratriacja	subst:sg:gen:f	nazwa pospolita	
+< ekspratriacjo	ekspratriacja	subst:sg:voc:f	nazwa pospolita	
+< ekspratriacjom	ekspratriacja	subst:pl:dat:f	nazwa pospolita	
+< ekspratriacyj	ekspratriacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
+744979,744989d744932
+< frezarko-kopiarce	frezarko-kopiarka	subst:sg:dat.loc:f	nazwa pospolita	
+< frezarko-kopiarek	frezarko-kopiarka	subst:pl:gen:f	nazwa pospolita	
+< frezarko-kopiarkach	frezarko-kopiarka	subst:pl:loc:f	nazwa pospolita	
+< frezarko-kopiarka	frezarko-kopiarka	subst:sg:nom:f	nazwa pospolita	
+< frezarko-kopiarkami	frezarko-kopiarka	subst:pl:inst:f	nazwa pospolita	
+< frezarko-kopiarką	frezarko-kopiarka	subst:sg:inst:f	nazwa pospolita	
+< frezarko-kopiarkę	frezarko-kopiarka	subst:sg:acc:f	nazwa pospolita	
+< frezarko-kopiarki	frezarko-kopiarka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< frezarko-kopiarki	frezarko-kopiarka	subst:sg:gen:f	nazwa pospolita	
+< frezarko-kopiarko	frezarko-kopiarka	subst:sg:voc:f	nazwa pospolita	
+< frezarko-kopiarkom	frezarko-kopiarka	subst:pl:dat:f	nazwa pospolita	
+883988a883932
+> hermafrodycie	hermafrodyta:s2	subst:sg:dat.loc:m2	nazwa pospolita	
+883990a883935
+> hermafrodytach	hermafrodyta:s2	subst:pl:loc:m2	nazwa pospolita	
+883991a883937
+> hermafrodyta	hermafrodyta:s2	subst:sg:nom:m2	nazwa pospolita	
+883992a883939
+> hermafrodytami	hermafrodyta:s2	subst:pl:inst:m2	nazwa pospolita	
+883993a883941
+> hermafrodytą	hermafrodyta:s2	subst:sg:inst:m2	nazwa pospolita	
+883994a883943
+> hermafrodytę	hermafrodyta:s2	subst:sg:acc:m2	nazwa pospolita	
+883995a883945
+> hermafrodyto	hermafrodyta:s2	subst:sg:voc:m2	nazwa pospolita	
+883996a883947
+> hermafrodytom	hermafrodyta:s2	subst:pl:dat:m2	nazwa pospolita	
+883997a883949
+> hermafrodytów	hermafrodyta:s2	subst:pl:gen:m2	nazwa pospolita	
+883998a883951
+> hermafrodyty	hermafrodyta:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+883999a883953
+> hermafrodyty	hermafrodyta:s2	subst:sg:gen:m2	nazwa pospolita	
+890879,890881c890833,890836
+< hipersomni	hipersomnia	subst:pl:gen:f	nazwa pospolita	
+< hipersomni	hipersomnia	subst:sg:dat.loc:f	nazwa pospolita	
+< hipersomni	hipersomnia	subst:sg:gen:f	nazwa pospolita	
+---
+> hipersomnii	hipersomnia	subst:pl:gen:f	nazwa pospolita	hom.
+> hipersomnii	hipersomnia	subst:sg:dat.loc:f	nazwa pospolita	
+> hipersomnii	hipersomnia	subst:sg:gen:f	nazwa pospolita	
+> hipersomnij	hipersomnia	subst:pl:gen:f	nazwa pospolita	arch.|char.
+935821a935777,935786
+> informatoriach	informatorium	subst:pl:loc:n:ncol	nazwa pospolita	biblt.
+> informatoria	informatorium	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	biblt.
+> informatoriami	informatorium	subst:pl:inst:n:ncol	nazwa pospolita	biblt.
+> informatoriom	informatorium	subst:pl:dat:n:ncol	nazwa pospolita	biblt.
+> informatoriów	informatorium	subst:pl:gen:n:ncol	nazwa pospolita	biblt.
+> informatorium	informatorium	subst:sg:dat:n:ncol	nazwa pospolita	biblt.
+> informatorium	informatorium	subst:sg:gen:n:ncol	nazwa pospolita	biblt.
+> informatorium	informatorium	subst:sg:inst:n:ncol	nazwa pospolita	biblt.
+> informatorium	informatorium	subst:sg:loc:n:ncol	nazwa pospolita	biblt.
+> informatorium	informatorium	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	biblt.
+967120,967141d967084
+< Jadwiziek	Jadwiźka	subst:pl:gen:f	imię	
+< Jadwiźce	Jadwiźka	subst:sg:dat.loc:f	imię	
+< Jadwiźkach	Jadwiźka	subst:pl:loc:f	imię	
+< Jadwiźka	Jadwiźka	subst:sg:nom:f	imię	
+< Jadwiźkami	Jadwiźka	subst:pl:inst:f	imię	
+< Jadwiźką	Jadwiźka	subst:sg:inst:f	imię	
+< Jadwiźkę	Jadwiźka	subst:sg:acc:f	imię	
+< Jadwiźki	Jadwiźka	subst:pl:nom.acc.voc:f	imię	
+< Jadwiźki	Jadwiźka	subst:sg:gen:f	imię	
+< Jadwiźko	Jadwiźka	subst:sg:voc:f	imię	
+< Jadwiźkom	Jadwiźka	subst:pl:dat:f	imię	
+< Jadwiżce	Jadwiżka	subst:sg:dat.loc:f	imię	
+< Jadwiżek	Jadwiżka	subst:pl:gen:f	imię	
+< Jadwiżkach	Jadwiżka	subst:pl:loc:f	imię	
+< Jadwiżka	Jadwiżka	subst:sg:nom:f	imię	
+< Jadwiżkami	Jadwiżka	subst:pl:inst:f	imię	
+< Jadwiżką	Jadwiżka	subst:sg:inst:f	imię	
+< Jadwiżkę	Jadwiżka	subst:sg:acc:f	imię	
+< Jadwiżki	Jadwiżka	subst:pl:nom.acc.voc:f	imię	
+< Jadwiżki	Jadwiżka	subst:sg:gen:f	imię	
+< Jadwiżko	Jadwiżka	subst:sg:voc:f	imię	
+< Jadwiżkom	Jadwiżka	subst:pl:dat:f	imię	
+976224,976236c976167,976179
+< Jaskołdach	Jaskołd	subst:pl:loc:m1	imię	
+< Jaskołda	Jaskołd	subst:sg:gen.acc:m1	imię	
+< Jaskołda	Jaskołd	subst:sg:gen:m1	imię	
+< Jaskołdami	Jaskołd	subst:pl:inst:m1	imię	
+< Jaskołdem	Jaskołd	subst:sg:inst:m1	imię	
+< Jaskołd	Jaskołd	subst:sg:nom:m1	imię	
+< Jaskołdom	Jaskołd	subst:pl:dat:m1	imię	
+< Jaskołdowie	Jaskołd	subst:pl:nom.voc:m1	imię	
+< Jaskołdowi	Jaskołd	subst:sg:dat:m1	imię	
+< Jaskołdów	Jaskołd	subst:pl:gen.acc:m1	imię	
+< Jaskołdy	Jaskołd	depr:pl:nom.acc.voc:m2	imię	
+< Jaskołdzie	Jaskołd	subst:sg:loc:m1	imię	
+< Jaskołdzie	Jaskołd	subst:sg:voc:m1	imię	
+---
+> Jaskołdach	Jaskołd	subst:pl:loc:m1	nazwisko	
+> Jaskołda	Jaskołd	subst:sg:gen.acc:m1	nazwisko	
+> Jaskołda	Jaskołd	subst:sg:gen:m1	nazwisko	
+> Jaskołdami	Jaskołd	subst:pl:inst:m1	nazwisko	
+> Jaskołdem	Jaskołd	subst:sg:inst:m1	nazwisko	
+> Jaskołd	Jaskołd	subst:sg:nom:m1	nazwisko	
+> Jaskołdom	Jaskołd	subst:pl:dat:m1	nazwisko	
+> Jaskołdowie	Jaskołd	subst:pl:nom.voc:m1	nazwisko	
+> Jaskołdowi	Jaskołd	subst:sg:dat:m1	nazwisko	
+> Jaskołdów	Jaskołd	subst:pl:gen.acc:m1	nazwisko	
+> Jaskołdy	Jaskołd	depr:pl:nom.acc.voc:m2	nazwisko	
+> Jaskołdzie	Jaskołd	subst:sg:loc:m1	nazwisko	
+> Jaskołdzie	Jaskołd	subst:sg:voc:m1	nazwisko	
+1019125d1019067
+< Kalimache	Kalimach	depr:pl:nom.acc.voc:m2	imię	
+1124373,1124383c1124315,1124336
+< kolcolistach	kolcolist	subst:pl:loc:m3	nazwa pospolita	
+< kolcolistami	kolcolist	subst:pl:inst:m3	nazwa pospolita	
+< kolcolistem	kolcolist	subst:sg:inst:m3	nazwa pospolita	
+< kolcolist	kolcolist	subst:sg:nom.acc:m3	nazwa pospolita	
+< kolcolistom	kolcolist	subst:pl:dat:m3	nazwa pospolita	
+< kolcolistowi	kolcolist	subst:sg:dat:m3	nazwa pospolita	
+< kolcolistów	kolcolist	subst:pl:gen:m3	nazwa pospolita	
+< kolcolistu	kolcolist	subst:sg:gen:m3	nazwa pospolita	
+< kolcolisty	kolcolist	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< kolcoliście	kolcolist	subst:sg:loc:m3	nazwa pospolita	
+< kolcoliście	kolcolist	subst:sg:voc:m3	nazwa pospolita	
+---
+> kolcolistach	kolcolist:s1	subst:pl:loc:m3	nazwa pospolita	
+> kolcolistami	kolcolist:s1	subst:pl:inst:m3	nazwa pospolita	
+> kolcolistem	kolcolist:s1	subst:sg:inst:m3	nazwa pospolita	
+> kolcolist	kolcolist:s1	subst:sg:nom.acc:m3	nazwa pospolita	
+> kolcolistom	kolcolist:s1	subst:pl:dat:m3	nazwa pospolita	
+> kolcolistowi	kolcolist:s1	subst:sg:dat:m3	nazwa pospolita	
+> kolcolistów	kolcolist:s1	subst:pl:gen:m3	nazwa pospolita	
+> kolcolistu	kolcolist:s1	subst:sg:gen:m3	nazwa pospolita	
+> kolcolisty	kolcolist:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> kolcoliście	kolcolist:s1	subst:sg:loc:m3	nazwa pospolita	
+> kolcoliście	kolcolist:s1	subst:sg:voc:m3	nazwa pospolita	
+> kolcolistach	kolcolist:s2	subst:pl:loc:m3	nazwa pospolita	
+> kolcolistami	kolcolist:s2	subst:pl:inst:m3	nazwa pospolita	
+> kolcolistem	kolcolist:s2	subst:sg:inst:m3	nazwa pospolita	
+> kolcolist	kolcolist:s2	subst:sg:nom.acc:m3	nazwa pospolita	
+> kolcolistom	kolcolist:s2	subst:pl:dat:m3	nazwa pospolita	
+> kolcolistowi	kolcolist:s2	subst:sg:dat:m3	nazwa pospolita	
+> kolcolistów	kolcolist:s2	subst:pl:gen:m3	nazwa pospolita	
+> kolcolistu	kolcolist:s2	subst:sg:gen:m3	nazwa pospolita	
+> kolcolisty	kolcolist:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> kolcoliście	kolcolist:s2	subst:sg:loc:m3	nazwa pospolita	
+> kolcoliście	kolcolist:s2	subst:sg:voc:m3	nazwa pospolita	
+1126599,1126609d1126551
+< koleolistach	koleolist	subst:pl:loc:m3	nazwa pospolita	
+< koleolistami	koleolist	subst:pl:inst:m3	nazwa pospolita	
+< koleolistem	koleolist	subst:sg:inst:m3	nazwa pospolita	
+< koleolist	koleolist	subst:sg:nom.acc:m3	nazwa pospolita	
+< koleolistom	koleolist	subst:pl:dat:m3	nazwa pospolita	
+< koleolistowi	koleolist	subst:sg:dat:m3	nazwa pospolita	
+< koleolistów	koleolist	subst:pl:gen:m3	nazwa pospolita	
+< koleolistu	koleolist	subst:sg:gen:m3	nazwa pospolita	
+< koleolisty	koleolist	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< koleoliście	koleolist	subst:sg:loc:m3	nazwa pospolita	
+< koleoliście	koleolist	subst:sg:voc:m3	nazwa pospolita	
+1182527,1182537c1182469,1182490
+< koronaroplastyce	koronaroplastyka	subst:sg:dat.loc:f	nazwa pospolita	
+< koronaroplastykach	koronaroplastyka	subst:pl:loc:f	nazwa pospolita	
+< koronaroplastyka	koronaroplastyka	subst:sg:nom:f	nazwa pospolita	
+< koronaroplastykami	koronaroplastyka	subst:pl:inst:f	nazwa pospolita	
+< koronaroplastyką	koronaroplastyka	subst:sg:inst:f	nazwa pospolita	
+< koronaroplastykę	koronaroplastyka	subst:sg:acc:f	nazwa pospolita	
+< koronaroplastyki	koronaroplastyka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< koronaroplastyki	koronaroplastyka	subst:sg:gen:f	nazwa pospolita	
+< koronaroplastyk	koronaroplastyka	subst:pl:gen:f	nazwa pospolita	
+< koronaroplastyko	koronaroplastyka	subst:sg:voc:f	nazwa pospolita	
+< koronaroplastykom	koronaroplastyka	subst:pl:dat:f	nazwa pospolita	
+---
+> koronaroplastyce	koronaroplastyka:s1	subst:sg:dat.loc:f	nazwa pospolita	
+> koronaroplastykach	koronaroplastyka:s1	subst:pl:loc:f	nazwa pospolita	
+> koronaroplastyka	koronaroplastyka:s1	subst:sg:nom:f	nazwa pospolita	
+> koronaroplastykami	koronaroplastyka:s1	subst:pl:inst:f	nazwa pospolita	
+> koronaroplastyką	koronaroplastyka:s1	subst:sg:inst:f	nazwa pospolita	
+> koronaroplastykę	koronaroplastyka:s1	subst:sg:acc:f	nazwa pospolita	
+> koronaroplastyki	koronaroplastyka:s1	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> koronaroplastyki	koronaroplastyka:s1	subst:sg:gen:f	nazwa pospolita	
+> koronaroplastyk	koronaroplastyka:s1	subst:pl:gen:f	nazwa pospolita	
+> koronaroplastyko	koronaroplastyka:s1	subst:sg:voc:f	nazwa pospolita	
+> koronaroplastykom	koronaroplastyka:s1	subst:pl:dat:f	nazwa pospolita	
+> koronaroplastyce	koronaroplastyka:s2	subst:sg:dat.loc:f	nazwa pospolita	
+> koronaroplastykach	koronaroplastyka:s2	subst:pl:loc:f	nazwa pospolita	
+> koronaroplastyka	koronaroplastyka:s2	subst:sg:nom:f	nazwa pospolita	
+> koronaroplastykami	koronaroplastyka:s2	subst:pl:inst:f	nazwa pospolita	
+> koronaroplastyką	koronaroplastyka:s2	subst:sg:inst:f	nazwa pospolita	
+> koronaroplastykę	koronaroplastyka:s2	subst:sg:acc:f	nazwa pospolita	
+> koronaroplastyki	koronaroplastyka:s2	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> koronaroplastyki	koronaroplastyka:s2	subst:sg:gen:f	nazwa pospolita	
+> koronaroplastyk	koronaroplastyka:s2	subst:pl:gen:f	nazwa pospolita	
+> koronaroplastyko	koronaroplastyka:s2	subst:sg:voc:f	nazwa pospolita	
+> koronaroplastykom	koronaroplastyka:s2	subst:pl:dat:f	nazwa pospolita	
+1183111,1183121d1183063
+< koronoplastyce	koronoplastyka	subst:sg:dat.loc:f	nazwa pospolita	
+< koronoplastykach	koronoplastyka	subst:pl:loc:f	nazwa pospolita	
+< koronoplastyka	koronoplastyka	subst:sg:nom:f	nazwa pospolita	
+< koronoplastykami	koronoplastyka	subst:pl:inst:f	nazwa pospolita	
+< koronoplastyką	koronoplastyka	subst:sg:inst:f	nazwa pospolita	
+< koronoplastykę	koronoplastyka	subst:sg:acc:f	nazwa pospolita	
+< koronoplastyki	koronoplastyka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< koronoplastyki	koronoplastyka	subst:sg:gen:f	nazwa pospolita	
+< koronoplastyk	koronoplastyka	subst:pl:gen:f	nazwa pospolita	
+< koronoplastyko	koronoplastyka	subst:sg:voc:f	nazwa pospolita	
+< koronoplastykom	koronoplastyka	subst:pl:dat:f	nazwa pospolita	
+1297622,1297631d1297563
+< lekoznastwach	lekoznastwo	subst:pl:loc:n:ncol	nazwa pospolita	
+< lekoznastwa	lekoznastwo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
+< lekoznastwa	lekoznastwo	subst:sg:gen:n:ncol	nazwa pospolita	
+< lekoznastwami	lekoznastwo	subst:pl:inst:n:ncol	nazwa pospolita	
+< lekoznastwem	lekoznastwo	subst:sg:inst:n:ncol	nazwa pospolita	
+< lekoznastwie	lekoznastwo	subst:sg:loc:n:ncol	nazwa pospolita	
+< lekoznastw	lekoznastwo	subst:pl:gen:n:ncol	nazwa pospolita	
+< lekoznastwo	lekoznastwo	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
+< lekoznastwom	lekoznastwo	subst:pl:dat:n:ncol	nazwa pospolita	
+< lekoznastwu	lekoznastwo	subst:sg:dat:n:ncol	nazwa pospolita	
+1608461,1608473c1608393,1608405
+< najduchach	najduch	subst:pl:loc:m1	nazwa pospolita	pot.
+< najduchami	najduch	subst:pl:inst:m1	nazwa pospolita	pot.
+< najducha	najduch	subst:sg:gen.acc:m1	nazwa pospolita	pot.
+< najducha	najduch	subst:sg:gen:m1	nazwa pospolita	pot.
+< najduchem	najduch	subst:sg:inst:m1	nazwa pospolita	pot.
+< najduch	najduch	subst:sg:nom:m1	nazwa pospolita	pot.
+< najduchom	najduch	subst:pl:dat:m1	nazwa pospolita	pot.
+< najduchowie	najduch	subst:pl:nom.voc:m1	nazwa pospolita	pot.
+< najduchowi	najduch	subst:sg:dat:m1	nazwa pospolita	pot.
+< najduchów	najduch	subst:pl:gen.acc:m1	nazwa pospolita	pot.
+< najduchu	najduch	subst:sg:loc:m1	nazwa pospolita	pot.
+< najduchu	najduch	subst:sg:voc:m1	nazwa pospolita	pot.
+< najduchy	najduch	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+---
+> najduchach	najduch	subst:pl:loc:m1	nazwa pospolita	daw.|gwar.
+> najduchami	najduch	subst:pl:inst:m1	nazwa pospolita	daw.|gwar.
+> najducha	najduch	subst:sg:gen.acc:m1	nazwa pospolita	daw.|gwar.
+> najducha	najduch	subst:sg:gen:m1	nazwa pospolita	daw.|gwar.
+> najduchem	najduch	subst:sg:inst:m1	nazwa pospolita	daw.|gwar.
+> najduch	najduch	subst:sg:nom:m1	nazwa pospolita	daw.|gwar.
+> najduchom	najduch	subst:pl:dat:m1	nazwa pospolita	daw.|gwar.
+> najduchowie	najduch	subst:pl:nom.voc:m1	nazwa pospolita	daw.|gwar.
+> najduchowi	najduch	subst:sg:dat:m1	nazwa pospolita	daw.|gwar.
+> najduchów	najduch	subst:pl:gen.acc:m1	nazwa pospolita	daw.|gwar.
+> najduchu	najduch	subst:sg:loc:m1	nazwa pospolita	daw.|gwar.
+> najduchu	najduch	subst:sg:voc:m1	nazwa pospolita	daw.|gwar.
+> najduchy	najduch	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.|gwar.
+1768800,1768822c1768732,1768765
+< niebabiakowscy	niebabiakowski	adj:pl:nom.voc:m1:pos		
+< niebabiakowska	niebabiakowski	adj:sg:nom.voc:f:pos		
+< niebabiakowską	niebabiakowski	adj:sg:acc:f:pos		
+< niebabiakowską	niebabiakowski	adj:sg:inst:f:pos		
+< niebabiakowskich	niebabiakowski	adj:pl:acc:m1:pos		
+< niebabiakowskich	niebabiakowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niebabiakowskich	niebabiakowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niebabiakowskiego	niebabiakowski	adj:sg:acc:m1.m2:pos		
+< niebabiakowskiego	niebabiakowski	adj:sg:gen:m1.m2.m3.n:pos		
+< niebabiakowskiej	niebabiakowski	adj:sg:dat:f:pos		
+< niebabiakowskiej	niebabiakowski	adj:sg:gen:f:pos		
+< niebabiakowskiej	niebabiakowski	adj:sg:loc:f:pos		
+< niebabiakowskiemu	niebabiakowski	adj:sg:dat:m1.m2.m3.n:pos		
+< niebabiakowskie	niebabiakowski	adj:pl:acc:m2.m3.f.n:pos		
+< niebabiakowskie	niebabiakowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niebabiakowskie	niebabiakowski	adj:sg:acc:n:pos		
+< niebabiakowskie	niebabiakowski	adj:sg:nom.voc:n:pos		
+< niebabiakowskimi	niebabiakowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niebabiakowskim	niebabiakowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niebabiakowskim	niebabiakowski	adj:sg:inst:m1.m2.m3.n:pos		
+< niebabiakowskim	niebabiakowski	adj:sg:loc:m1.m2.m3.n:pos		
+< niebabiakowski	niebabiakowski	adj:sg:acc:m3:pos		
+< niebabiakowski	niebabiakowski	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> niebabiaccy	niebabiacki	adj:pl:nom.voc:m1:pos		
+> niebabiacka	niebabiacki	adj:sg:nom.voc:f:pos		
+> niebabiacką	niebabiacki	adj:sg:acc:f:pos		
+> niebabiacką	niebabiacki	adj:sg:inst:f:pos		
+> niebabiackich	niebabiacki	adj:pl:acc:m1:pos		
+> niebabiackich	niebabiacki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niebabiackich	niebabiacki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niebabiackiego	niebabiacki	adj:sg:acc:m1.m2:pos		
+> niebabiackiego	niebabiacki	adj:sg:gen:m1.m2.m3.n:pos		
+> niebabiackiej	niebabiacki	adj:sg:dat:f:pos		
+> niebabiackiej	niebabiacki	adj:sg:gen:f:pos		
+> niebabiackiej	niebabiacki	adj:sg:loc:f:pos		
+> niebabiackiemu	niebabiacki	adj:sg:dat:m1.m2.m3.n:pos		
+> niebabiackie	niebabiacki	adj:pl:acc:m2.m3.f.n:pos		
+> niebabiackie	niebabiacki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niebabiackie	niebabiacki	adj:sg:acc:n:pos		
+> niebabiackie	niebabiacki	adj:sg:nom.voc:n:pos		
+> niebabiackimi	niebabiacki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niebabiackim	niebabiacki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niebabiackim	niebabiacki	adj:sg:inst:m1.m2.m3.n:pos		
+> niebabiackim	niebabiacki	adj:sg:loc:m1.m2.m3.n:pos		
+> niebabiacki	niebabiacki	adj:sg:acc:m3:pos		
+> niebabiacki	niebabiacki	adj:sg:nom.voc:m1.m2.m3:pos		
+> niebabiackościach	niebabiackość	subst:pl:loc:f		
+> niebabiackościami	niebabiackość	subst:pl:inst:f		
+> niebabiackością	niebabiackość	subst:sg:inst:f		
+> niebabiackości	niebabiackość	subst:pl:gen:f		
+> niebabiackości	niebabiackość	subst:pl:nom.acc.voc:f		
+> niebabiackości	niebabiackość	subst:sg:dat.loc:f		
+> niebabiackości	niebabiackość	subst:sg:gen:f		
+> niebabiackości	niebabiackość	subst:sg:voc:f		
+> niebabiackościom	niebabiackość	subst:pl:dat:f		
+> niebabiackość	niebabiackość	subst:sg:acc:f		
+> niebabiackość	niebabiackość	subst:sg:nom:f		
+1768824,1768834d1768766
+< niebabiakowskościach	niebabiakowskość	subst:pl:loc:f	nazwa pospolita	
+< niebabiakowskościami	niebabiakowskość	subst:pl:inst:f	nazwa pospolita	
+< niebabiakowskością	niebabiakowskość	subst:sg:inst:f	nazwa pospolita	
+< niebabiakowskości	niebabiakowskość	subst:pl:gen:f	nazwa pospolita	
+< niebabiakowskości	niebabiakowskość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< niebabiakowskości	niebabiakowskość	subst:sg:dat.loc:f	nazwa pospolita	
+< niebabiakowskości	niebabiakowskość	subst:sg:gen:f	nazwa pospolita	
+< niebabiakowskości	niebabiakowskość	subst:sg:voc:f	nazwa pospolita	
+< niebabiakowskościom	niebabiakowskość	subst:pl:dat:f	nazwa pospolita	
+< niebabiakowskość	niebabiakowskość	subst:sg:acc:f	nazwa pospolita	
+< niebabiakowskość	niebabiakowskość	subst:sg:nom:f	nazwa pospolita	
+3197968,3197980c3197900,3197912
+< Olechach	Olech	subst:pl:loc:m1	imię	
+< Olechami	Olech	subst:pl:inst:m1	imię	
+< Olecha	Olech	subst:sg:gen.acc:m1	imię	
+< Olecha	Olech	subst:sg:gen:m1	imię	
+< Olechem	Olech	subst:sg:inst:m1	imię	
+< Olech	Olech	subst:sg:nom:m1	imię	
+< Olechom	Olech	subst:pl:dat:m1	imię	
+< Olechowie	Olech	subst:pl:nom.voc:m1	imię	
+< Olechowi	Olech	subst:sg:dat:m1	imię	
+< Olechów	Olech	subst:pl:gen.acc:m1	imię	
+< Olechu	Olech	subst:sg:loc:m1	imię	
+< Olechu	Olech	subst:sg:voc:m1	imię	
+< Olechy	Olech	depr:pl:nom.acc.voc:m2	imię	
+---
+> Olechach	Olech	subst:pl:loc:m1	imię|nazwisko	
+> Olechami	Olech	subst:pl:inst:m1	imię|nazwisko	
+> Olecha	Olech	subst:sg:gen.acc:m1	imię|nazwisko	
+> Olecha	Olech	subst:sg:gen:m1	imię|nazwisko	
+> Olechem	Olech	subst:sg:inst:m1	imię|nazwisko	
+> Olech	Olech	subst:sg:nom:m1	imię|nazwisko	
+> Olechom	Olech	subst:pl:dat:m1	imię|nazwisko	
+> Olechowie	Olech	subst:pl:nom.voc:m1	imię|nazwisko	
+> Olechowi	Olech	subst:sg:dat:m1	imię|nazwisko	
+> Olechów	Olech	subst:pl:gen.acc:m1	imię|nazwisko	
+> Olechu	Olech	subst:sg:loc:m1	imię|nazwisko	
+> Olechu	Olech	subst:sg:voc:m1	imię|nazwisko	
+> Olechy	Olech	depr:pl:nom.acc.voc:m2	imię|nazwisko	
+3229277,3229288d3229208
+< opilicach	opilica	subst:pl:loc:m1	nazwa pospolita	
+< opilicami	opilica	subst:pl:inst:m1	nazwa pospolita	
+< opilica	opilica	subst:sg:nom:m1	nazwa pospolita	
+< opilicą	opilica	subst:sg:inst:m1	nazwa pospolita	
+< opilice	opilica	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< opilicę	opilica	subst:sg:acc:m1	nazwa pospolita	
+< opilicom	opilica	subst:pl:dat:m1	nazwa pospolita	
+< opilico	opilica	subst:sg:voc:m1	nazwa pospolita	
+< opiliców	opilica	subst:pl:gen.acc:m1	nazwa pospolita	
+< opilicy	opilica	subst:pl:nom.voc:m1	nazwa pospolita	
+< opilicy	opilica	subst:sg:dat.loc:m1	nazwa pospolita	
+< opilicy	opilica	subst:sg:gen:m1	nazwa pospolita	
+3376243a3376164,3376173
+> patentoznawstwach	patentoznawstwo	subst:pl:loc:n:ncol	nazwa pospolita	
+> patentoznawstwami	patentoznawstwo	subst:pl:inst:n:ncol	nazwa pospolita	
+> patentoznawstwa	patentoznawstwo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
+> patentoznawstwa	patentoznawstwo	subst:sg:gen:n:ncol	nazwa pospolita	
+> patentoznawstwem	patentoznawstwo	subst:sg:inst:n:ncol	nazwa pospolita	
+> patentoznawstwie	patentoznawstwo	subst:sg:loc:n:ncol	nazwa pospolita	
+> patentoznawstwom	patentoznawstwo	subst:pl:dat:n:ncol	nazwa pospolita	
+> patentoznawstwo	patentoznawstwo	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
+> patentoznawstw	patentoznawstwo	subst:pl:gen:n:ncol	nazwa pospolita	
+> patentoznawstwu	patentoznawstwo	subst:sg:dat:n:ncol	nazwa pospolita	
+3462979a3462910,3462921
+> płytografiach	płytografia	subst:pl:loc:f	nazwa pospolita	rzad.
+> płytografiami	płytografia	subst:pl:inst:f	nazwa pospolita	rzad.
+> płytografia	płytografia	subst:sg:nom:f	nazwa pospolita	rzad.
+> płytografią	płytografia	subst:sg:inst:f	nazwa pospolita	rzad.
+> płytografie	płytografia	subst:pl:nom.acc.voc:f	nazwa pospolita	rzad.
+> płytografię	płytografia	subst:sg:acc:f	nazwa pospolita	rzad.
+> płytografii	płytografia	subst:pl:gen:f	nazwa pospolita	hom.|rzad.
+> płytografii	płytografia	subst:sg:dat.loc:f	nazwa pospolita	rzad.
+> płytografii	płytografia	subst:sg:gen:f	nazwa pospolita	rzad.
+> płytografij	płytografia	subst:pl:gen:f	nazwa pospolita	arch.|char.|rzad.
+> płytografiom	płytografia	subst:pl:dat:f	nazwa pospolita	rzad.
+> płytografio	płytografia	subst:sg:voc:f	nazwa pospolita	rzad.
+3748209a3748152
+> poseminaryjnie	poseminaryjnie	adv:pos		
+3894922,3894945d3894864
+< półczwarci	półczwarty	adj:pl:nom.voc:m1:pos		
+< półczwarta	półczwarty	adj:sg:nom.voc:f:pos		
+< półczwartą	półczwarty	adj:sg:acc:f:pos		
+< półczwartą	półczwarty	adj:sg:inst:f:pos		
+< półczwartego	półczwarty	adj:sg:acc:m1.m2:pos		
+< półczwartego	półczwarty	adj:sg:gen:m1.m2.m3.n:pos		
+< półczwartej	półczwarty	adj:sg:dat:f:pos		
+< półczwartej	półczwarty	adj:sg:gen:f:pos		
+< półczwartej	półczwarty	adj:sg:loc:f:pos		
+< półczwartemu	półczwarty	adj:sg:dat:m1.m2.m3.n:pos		
+< półczwarte	półczwarty	adj:pl:acc:m2.m3.f.n:pos		
+< półczwarte	półczwarty	adj:pl:nom.voc:m2.m3.f.n:pos		
+< półczwarte	półczwarty	adj:sg:acc:n:pos		
+< półczwarte	półczwarty	adj:sg:nom.voc:n:pos		
+< półczwarto	półczwarty	adja		
+< półczwartych	półczwarty	adj:pl:acc:m1:pos		
+< półczwartych	półczwarty	adj:pl:gen:m1.m2.m3.f.n:pos		
+< półczwartych	półczwarty	adj:pl:loc:m1.m2.m3.f.n:pos		
+< półczwartymi	półczwarty	adj:pl:inst:m1.m2.m3.f.n:pos		
+< półczwartym	półczwarty	adj:pl:dat:m1.m2.m3.f.n:pos		
+< półczwartym	półczwarty	adj:sg:inst:m1.m2.m3.n:pos		
+< półczwartym	półczwarty	adj:sg:loc:m1.m2.m3.n:pos		
+< półczwarty	półczwarty	adj:sg:acc:m3:pos		
+< półczwarty	półczwarty	adj:sg:nom.voc:m1.m2.m3:pos		
+3895425,3895448d3895343
+< półdziesięci	półdziesięty	adj:pl:nom.voc:m1:pos		przest.
+< półdziesięta	półdziesięty	adj:sg:nom.voc:f:pos		przest.
+< półdziesiętą	półdziesięty	adj:sg:acc:f:pos		przest.
+< półdziesiętą	półdziesięty	adj:sg:inst:f:pos		przest.
+< półdziesiętego	półdziesięty	adj:sg:acc:m1.m2:pos		przest.
+< półdziesiętego	półdziesięty	adj:sg:gen:m1.m2.m3.n:pos		przest.
+< półdziesiętej	półdziesięty	adj:sg:dat:f:pos		przest.
+< półdziesiętej	półdziesięty	adj:sg:gen:f:pos		przest.
+< półdziesiętej	półdziesięty	adj:sg:loc:f:pos		przest.
+< półdziesiętemu	półdziesięty	adj:sg:dat:m1.m2.m3.n:pos		przest.
+< półdziesięte	półdziesięty	adj:pl:acc:m2.m3.f.n:pos		przest.
+< półdziesięte	półdziesięty	adj:pl:nom.voc:m2.m3.f.n:pos		przest.
+< półdziesięte	półdziesięty	adj:sg:acc:n:pos		przest.
+< półdziesięte	półdziesięty	adj:sg:nom.voc:n:pos		przest.
+< półdziesięto	półdziesięty	adja		przest.
+< półdziesiętych	półdziesięty	adj:pl:acc:m1:pos		przest.
+< półdziesiętych	półdziesięty	adj:pl:gen:m1.m2.m3.f.n:pos		przest.
+< półdziesiętych	półdziesięty	adj:pl:loc:m1.m2.m3.f.n:pos		przest.
+< półdziesiętymi	półdziesięty	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
+< półdziesiętym	półdziesięty	adj:pl:dat:m1.m2.m3.f.n:pos		przest.
+< półdziesiętym	półdziesięty	adj:sg:inst:m1.m2.m3.n:pos		przest.
+< półdziesiętym	półdziesięty	adj:sg:loc:m1.m2.m3.n:pos		przest.
+< półdziesięty	półdziesięty	adj:sg:acc:m3:pos		przest.
+< półdziesięty	półdziesięty	adj:sg:nom.voc:m1.m2.m3:pos		przest.
+3900751,3900774d3900645
+< półosma	półosmy	adj:sg:nom.voc:f:pos		daw.
+< półosmą	półosmy	adj:sg:acc:f:pos		daw.
+< półosmą	półosmy	adj:sg:inst:f:pos		daw.
+< półosmego	półosmy	adj:sg:acc:m1.m2:pos		daw.
+< półosmego	półosmy	adj:sg:gen:m1.m2.m3.n:pos		daw.
+< półosmej	półosmy	adj:sg:dat:f:pos		daw.
+< półosmej	półosmy	adj:sg:gen:f:pos		daw.
+< półosmej	półosmy	adj:sg:loc:f:pos		daw.
+< półosmemu	półosmy	adj:sg:dat:m1.m2.m3.n:pos		daw.
+< półosme	półosmy	adj:pl:acc:m2.m3.f.n:pos		daw.
+< półosme	półosmy	adj:pl:nom.voc:m2.m3.f.n:pos		daw.
+< półosme	półosmy	adj:sg:acc:n:pos		daw.
+< półosme	półosmy	adj:sg:nom.voc:n:pos		daw.
+< półosmo	półosmy	adja		daw.
+< półosmych	półosmy	adj:pl:acc:m1:pos		daw.
+< półosmych	półosmy	adj:pl:gen:m1.m2.m3.f.n:pos		daw.
+< półosmych	półosmy	adj:pl:loc:m1.m2.m3.f.n:pos		daw.
+< półosmymi	półosmy	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+< półosmym	półosmy	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
+< półosmym	półosmy	adj:sg:inst:m1.m2.m3.n:pos		daw.
+< półosmym	półosmy	adj:sg:loc:m1.m2.m3.n:pos		daw.
+< półosmy	półosmy	adj:sg:acc:m3:pos		daw.
+< półosmy	półosmy	adj:sg:nom.voc:m1.m2.m3:pos		daw.
+< półośmi	półosmy	adj:pl:nom.voc:m1:pos		daw.
+3901043,3901066d3900913
+< półósma	półósmy	adj:sg:nom.voc:f:pos		daw.
+< półósmą	półósmy	adj:sg:acc:f:pos		daw.
+< półósmą	półósmy	adj:sg:inst:f:pos		daw.
+< półósmego	półósmy	adj:sg:acc:m1.m2:pos		daw.
+< półósmego	półósmy	adj:sg:gen:m1.m2.m3.n:pos		daw.
+< półósmej	półósmy	adj:sg:dat:f:pos		daw.
+< półósmej	półósmy	adj:sg:gen:f:pos		daw.
+< półósmej	półósmy	adj:sg:loc:f:pos		daw.
+< półósmemu	półósmy	adj:sg:dat:m1.m2.m3.n:pos		daw.
+< półósme	półósmy	adj:pl:acc:m2.m3.f.n:pos		daw.
+< półósme	półósmy	adj:pl:nom.voc:m2.m3.f.n:pos		daw.
+< półósme	półósmy	adj:sg:acc:n:pos		daw.
+< półósme	półósmy	adj:sg:nom.voc:n:pos		daw.
+< półósmo	półósmy	adja		daw.
+< półósmych	półósmy	adj:pl:acc:m1:pos		daw.
+< półósmych	półósmy	adj:pl:gen:m1.m2.m3.f.n:pos		daw.
+< półósmych	półósmy	adj:pl:loc:m1.m2.m3.f.n:pos		daw.
+< półósmymi	półósmy	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+< półósmym	półósmy	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
+< półósmym	półósmy	adj:sg:inst:m1.m2.m3.n:pos		daw.
+< półósmym	półósmy	adj:sg:loc:m1.m2.m3.n:pos		daw.
+< półósmy	półósmy	adj:sg:acc:m3:pos		daw.
+< półósmy	półósmy	adj:sg:nom.voc:m1.m2.m3:pos		daw.
+< półóśmi	półósmy	adj:pl:nom.voc:m1:pos		daw.
+3901375,3901398d3901221
+< półpięci	półpięty	adj:pl:nom.voc:m1:pos		przest.
+< półpięta	półpięty	adj:sg:nom.voc:f:pos		przest.
+< półpiętą	półpięty	adj:sg:acc:f:pos		przest.
+< półpiętą	półpięty	adj:sg:inst:f:pos		przest.
+< półpiętego	półpięty	adj:sg:acc:m1.m2:pos		przest.
+< półpiętego	półpięty	adj:sg:gen:m1.m2.m3.n:pos		przest.
+< półpiętej	półpięty	adj:sg:dat:f:pos		przest.
+< półpiętej	półpięty	adj:sg:gen:f:pos		przest.
+< półpiętej	półpięty	adj:sg:loc:f:pos		przest.
+< półpiętemu	półpięty	adj:sg:dat:m1.m2.m3.n:pos		przest.
+< półpięte	półpięty	adj:pl:acc:m2.m3.f.n:pos		przest.
+< półpięte	półpięty	adj:pl:nom.voc:m2.m3.f.n:pos		przest.
+< półpięte	półpięty	adj:sg:acc:n:pos		przest.
+< półpięte	półpięty	adj:sg:nom.voc:n:pos		przest.
+< półpięto	półpięty	adja		przest.
+< półpiętych	półpięty	adj:pl:acc:m1:pos		przest.
+< półpiętych	półpięty	adj:pl:gen:m1.m2.m3.f.n:pos		przest.
+< półpiętych	półpięty	adj:pl:loc:m1.m2.m3.f.n:pos		przest.
+< półpiętymi	półpięty	adj:pl:inst:m1.m2.m3.f.n:pos		przest.
+< półpiętym	półpięty	adj:pl:dat:m1.m2.m3.f.n:pos		przest.
+< półpiętym	półpięty	adj:sg:inst:m1.m2.m3.n:pos		przest.
+< półpiętym	półpięty	adj:sg:loc:m1.m2.m3.n:pos		przest.
+< półpięty	półpięty	adj:sg:acc:m3:pos		przest.
+< półpięty	półpięty	adj:sg:nom.voc:m1.m2.m3:pos		przest.
+3903312,3903335d3903134
+< półsiodma	półsiodmy	adj:sg:nom.voc:f:pos		daw.
+< półsiodmą	półsiodmy	adj:sg:acc:f:pos		daw.
+< półsiodmą	półsiodmy	adj:sg:inst:f:pos		daw.
+< półsiodmego	półsiodmy	adj:sg:acc:m1.m2:pos		daw.
+< półsiodmego	półsiodmy	adj:sg:gen:m1.m2.m3.n:pos		daw.
+< półsiodmej	półsiodmy	adj:sg:dat:f:pos		daw.
+< półsiodmej	półsiodmy	adj:sg:gen:f:pos		daw.
+< półsiodmej	półsiodmy	adj:sg:loc:f:pos		daw.
+< półsiodmemu	półsiodmy	adj:sg:dat:m1.m2.m3.n:pos		daw.
+< półsiodme	półsiodmy	adj:pl:acc:m2.m3.f.n:pos		daw.
+< półsiodme	półsiodmy	adj:pl:nom.voc:m2.m3.f.n:pos		daw.
+< półsiodme	półsiodmy	adj:sg:acc:n:pos		daw.
+< półsiodme	półsiodmy	adj:sg:nom.voc:n:pos		daw.
+< półsiodmi	półsiodmy	adj:pl:nom.voc:m1:pos		daw.
+< półsiodmo	półsiodmy	adja		daw.
+< półsiodmych	półsiodmy	adj:pl:acc:m1:pos		daw.
+< półsiodmych	półsiodmy	adj:pl:gen:m1.m2.m3.f.n:pos		daw.
+< półsiodmych	półsiodmy	adj:pl:loc:m1.m2.m3.f.n:pos		daw.
+< półsiodmymi	półsiodmy	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+< półsiodmym	półsiodmy	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
+< półsiodmym	półsiodmy	adj:sg:inst:m1.m2.m3.n:pos		daw.
+< półsiodmym	półsiodmy	adj:sg:loc:m1.m2.m3.n:pos		daw.
+< półsiodmy	półsiodmy	adj:sg:acc:m3:pos		daw.
+< półsiodmy	półsiodmy	adj:sg:nom.voc:m1.m2.m3:pos		daw.
+3903361,3903384d3903159
+< półsiódma	półsiódmy	adj:sg:nom.voc:f:pos		daw.
+< półsiódmą	półsiódmy	adj:sg:acc:f:pos		daw.
+< półsiódmą	półsiódmy	adj:sg:inst:f:pos		daw.
+< półsiódmego	półsiódmy	adj:sg:acc:m1.m2:pos		daw.
+< półsiódmego	półsiódmy	adj:sg:gen:m1.m2.m3.n:pos		daw.
+< półsiódmej	półsiódmy	adj:sg:dat:f:pos		daw.
+< półsiódmej	półsiódmy	adj:sg:gen:f:pos		daw.
+< półsiódmej	półsiódmy	adj:sg:loc:f:pos		daw.
+< półsiódmemu	półsiódmy	adj:sg:dat:m1.m2.m3.n:pos		daw.
+< półsiódme	półsiódmy	adj:pl:acc:m2.m3.f.n:pos		daw.
+< półsiódme	półsiódmy	adj:pl:nom.voc:m2.m3.f.n:pos		daw.
+< półsiódme	półsiódmy	adj:sg:acc:n:pos		daw.
+< półsiódme	półsiódmy	adj:sg:nom.voc:n:pos		daw.
+< półsiódmi	półsiódmy	adj:pl:nom.voc:m1:pos		daw.
+< półsiódmo	półsiódmy	adja		daw.
+< półsiódmych	półsiódmy	adj:pl:acc:m1:pos		daw.
+< półsiódmych	półsiódmy	adj:pl:gen:m1.m2.m3.f.n:pos		daw.
+< półsiódmych	półsiódmy	adj:pl:loc:m1.m2.m3.f.n:pos		daw.
+< półsiódmymi	półsiódmy	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+< półsiódmym	półsiódmy	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
+< półsiódmym	półsiódmy	adj:sg:inst:m1.m2.m3.n:pos		daw.
+< półsiódmym	półsiódmy	adj:sg:loc:m1.m2.m3.n:pos		daw.
+< półsiódmy	półsiódmy	adj:sg:acc:m3:pos		daw.
+< półsiódmy	półsiódmy	adj:sg:nom.voc:m1.m2.m3:pos		daw.
+3904555,3904578d3904329
+< półszósta	półszósty	adj:sg:nom.voc:f:pos		daw.
+< półszóstą	półszósty	adj:sg:acc:f:pos		daw.
+< półszóstą	półszósty	adj:sg:inst:f:pos		daw.
+< półszóstego	półszósty	adj:sg:acc:m1.m2:pos		daw.
+< półszóstego	półszósty	adj:sg:gen:m1.m2.m3.n:pos		daw.
+< półszóstej	półszósty	adj:sg:dat:f:pos		daw.
+< półszóstej	półszósty	adj:sg:gen:f:pos		daw.
+< półszóstej	półszósty	adj:sg:loc:f:pos		daw.
+< półszóstemu	półszósty	adj:sg:dat:m1.m2.m3.n:pos		daw.
+< półszóste	półszósty	adj:pl:acc:m2.m3.f.n:pos		daw.
+< półszóste	półszósty	adj:pl:nom.voc:m2.m3.f.n:pos		daw.
+< półszóste	półszósty	adj:sg:acc:n:pos		daw.
+< półszóste	półszósty	adj:sg:nom.voc:n:pos		daw.
+< półszósto	półszósty	adja		daw.
+< półszóstych	półszósty	adj:pl:acc:m1:pos		daw.
+< półszóstych	półszósty	adj:pl:gen:m1.m2.m3.f.n:pos		daw.
+< półszóstych	półszósty	adj:pl:loc:m1.m2.m3.f.n:pos		daw.
+< półszóstymi	półszósty	adj:pl:inst:m1.m2.m3.f.n:pos		daw.
+< półszóstym	półszósty	adj:pl:dat:m1.m2.m3.f.n:pos		daw.
+< półszóstym	półszósty	adj:sg:inst:m1.m2.m3.n:pos		daw.
+< półszóstym	półszósty	adj:sg:loc:m1.m2.m3.n:pos		daw.
+< półszósty	półszósty	adj:sg:acc:m3:pos		daw.
+< półszósty	półszósty	adj:sg:nom.voc:m1.m2.m3:pos		daw.
+< półszóści	półszósty	adj:pl:nom.voc:m1:pos		daw.
+3906062,3906085d3905812
+< półtrzecia	półtrzeci	adj:sg:nom.voc:f:pos		
+< półtrzecią	półtrzeci	adj:sg:acc:f:pos		
+< półtrzecią	półtrzeci	adj:sg:inst:f:pos		
+< półtrzecich	półtrzeci	adj:pl:acc:m1:pos		
+< półtrzecich	półtrzeci	adj:pl:gen:m1.m2.m3.f.n:pos		
+< półtrzecich	półtrzeci	adj:pl:loc:m1.m2.m3.f.n:pos		
+< półtrzeciego	półtrzeci	adj:sg:acc:m1.m2:pos		
+< półtrzeciego	półtrzeci	adj:sg:gen:m1.m2.m3.n:pos		
+< półtrzeciej	półtrzeci	adj:sg:dat:f:pos		
+< półtrzeciej	półtrzeci	adj:sg:gen:f:pos		
+< półtrzeciej	półtrzeci	adj:sg:loc:f:pos		
+< półtrzeciemu	półtrzeci	adj:sg:dat:m1.m2.m3.n:pos		
+< półtrzecie	półtrzeci	adj:pl:acc:m2.m3.f.n:pos		
+< półtrzecie	półtrzeci	adj:pl:nom.voc:m2.m3.f.n:pos		
+< półtrzecie	półtrzeci	adj:sg:acc:n:pos		
+< półtrzecie	półtrzeci	adj:sg:nom.voc:n:pos		
+< półtrzecimi	półtrzeci	adj:pl:inst:m1.m2.m3.f.n:pos		
+< półtrzecim	półtrzeci	adj:pl:dat:m1.m2.m3.f.n:pos		
+< półtrzecim	półtrzeci	adj:sg:inst:m1.m2.m3.n:pos		
+< półtrzecim	półtrzeci	adj:sg:loc:m1.m2.m3.n:pos		
+< półtrzecio	półtrzeci	adja		
+< półtrzeci	półtrzeci	adj:pl:nom.voc:m1:pos		
+< półtrzeci	półtrzeci	adj:sg:acc:m3:pos		
+< półtrzeci	półtrzeci	adj:sg:nom.voc:m1.m2.m3:pos		
+4270189,4270212c4269916,4269928
+< ptysiach	ptyś:s1	subst:pl:loc:m2	nazwa pospolita	
+< ptysiami	ptyś:s1	subst:pl:inst:m2	nazwa pospolita	
+< ptysia	ptyś:s1	subst:sg:gen.acc:m2	nazwa pospolita	
+< ptysia	ptyś:s1	subst:sg:gen:m2	nazwa pospolita	
+< ptysiem	ptyś:s1	subst:sg:inst:m2	nazwa pospolita	
+< ptysie	ptyś:s1	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+< ptysiom	ptyś:s1	subst:pl:dat:m2	nazwa pospolita	
+< ptysiowi	ptyś:s1	subst:sg:dat:m2	nazwa pospolita	
+< ptysiów	ptyś:s1	subst:pl:gen:m2	nazwa pospolita	
+< ptysi	ptyś:s1	subst:pl:gen:m2	nazwa pospolita	
+< ptysiu	ptyś:s1	subst:sg:loc:m2	nazwa pospolita	
+< ptysiu	ptyś:s1	subst:sg:voc:m2	nazwa pospolita	
+< ptyś	ptyś:s1	subst:sg:nom:m2	nazwa pospolita	
+< ptysiach	ptyś:s2	subst:pl:loc:m3	nazwa pospolita	
+< ptysiami	ptyś:s2	subst:pl:inst:m3	nazwa pospolita	
+< ptysia	ptyś:s2	subst:sg:gen:m3	nazwa pospolita	
+< ptysiem	ptyś:s2	subst:sg:inst:m3	nazwa pospolita	
+< ptysie	ptyś:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< ptysiom	ptyś:s2	subst:pl:dat:m3	nazwa pospolita	
+< ptysiowi	ptyś:s2	subst:sg:dat:m3	nazwa pospolita	
+< ptysi	ptyś:s2	subst:pl:gen:m3	nazwa pospolita	
+< ptysiu	ptyś:s2	subst:sg:loc:m3	nazwa pospolita	
+< ptysiu	ptyś:s2	subst:sg:voc:m3	nazwa pospolita	
+< ptyś	ptyś:s2	subst:sg:nom.acc:m3	nazwa pospolita	
+---
+> ptysiach	ptyś	subst:pl:loc:m2	nazwa pospolita	
+> ptysiami	ptyś	subst:pl:inst:m2	nazwa pospolita	
+> ptysia	ptyś	subst:sg:gen.acc:m2	nazwa pospolita	
+> ptysia	ptyś	subst:sg:gen:m2	nazwa pospolita	
+> ptysiem	ptyś	subst:sg:inst:m2	nazwa pospolita	
+> ptysie	ptyś	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+> ptysiom	ptyś	subst:pl:dat:m2	nazwa pospolita	
+> ptysiowi	ptyś	subst:sg:dat:m2	nazwa pospolita	
+> ptysiów	ptyś	subst:pl:gen:m2	nazwa pospolita	
+> ptysi	ptyś	subst:pl:gen:m2	nazwa pospolita	
+> ptysiu	ptyś	subst:sg:loc:m2	nazwa pospolita	
+> ptysiu	ptyś	subst:sg:voc:m2	nazwa pospolita	
+> ptyś	ptyś	subst:sg:nom:m2	nazwa pospolita	
+4279008,4279018d4278723
+< pustoszach	pustosz	subst:pl:loc:f	nazwa pospolita	przest.
+< pustoszami	pustosz	subst:pl:inst:f	nazwa pospolita	przest.
+< pustoszą	pustosz	subst:sg:inst:f	nazwa pospolita	przest.
+< pustosze	pustosz	subst:pl:nom.acc.voc:f	nazwa pospolita	przest.
+< pustoszom	pustosz	subst:pl:dat:f	nazwa pospolita	przest.
+< pustosz	pustosz	subst:sg:acc:f	nazwa pospolita	przest.
+< pustosz	pustosz	subst:sg:nom:f	nazwa pospolita	przest.
+< pustoszy	pustosz	subst:pl:gen:f	nazwa pospolita	przest.
+< pustoszy	pustosz	subst:sg:dat.loc:f	nazwa pospolita	przest.
+< pustoszy	pustosz	subst:sg:gen:f	nazwa pospolita	przest.
+< pustoszy	pustosz	subst:sg:voc:f	nazwa pospolita	przest.
+4279117,4279128c4278822,4278844
+< pustoszowach	pustoszów	subst:pl:loc:m2	nazwa pospolita	
+< pustoszowami	pustoszów	subst:pl:inst:m2	nazwa pospolita	
+< pustoszowa	pustoszów	subst:sg:gen.acc:m2	nazwa pospolita	
+< pustoszowa	pustoszów	subst:sg:gen:m2	nazwa pospolita	
+< pustoszowem	pustoszów	subst:sg:inst:m2	nazwa pospolita	
+< pustoszowie	pustoszów	subst:sg:loc:m2	nazwa pospolita	
+< pustoszowie	pustoszów	subst:sg:voc:m2	nazwa pospolita	
+< pustoszowom	pustoszów	subst:pl:dat:m2	nazwa pospolita	
+< pustoszowowi	pustoszów	subst:sg:dat:m2	nazwa pospolita	
+< pustoszowów	pustoszów	subst:pl:gen:m2	nazwa pospolita	
+< pustoszowy	pustoszów	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+< pustoszów	pustoszów	subst:sg:nom:m2	nazwa pospolita	
+---
+> pustoszach	pustosz:s1	subst:pl:loc:f	nazwa pospolita	przest.
+> pustoszami	pustosz:s1	subst:pl:inst:f	nazwa pospolita	przest.
+> pustoszą	pustosz:s1	subst:sg:inst:f	nazwa pospolita	przest.
+> pustosze	pustosz:s1	subst:pl:nom.acc.voc:f	nazwa pospolita	przest.
+> pustoszom	pustosz:s1	subst:pl:dat:f	nazwa pospolita	przest.
+> pustosz	pustosz:s1	subst:sg:acc:f	nazwa pospolita	przest.
+> pustosz	pustosz:s1	subst:sg:nom:f	nazwa pospolita	przest.
+> pustoszy	pustosz:s1	subst:pl:gen:f	nazwa pospolita	przest.
+> pustoszy	pustosz:s1	subst:sg:dat.loc:f	nazwa pospolita	przest.
+> pustoszy	pustosz:s1	subst:sg:gen:f	nazwa pospolita	przest.
+> pustoszy	pustosz:s1	subst:sg:voc:f	nazwa pospolita	przest.
+> pustoszach	pustosz:s2	subst:pl:loc:m2	nazwa pospolita	
+> pustoszami	pustosz:s2	subst:pl:inst:m2	nazwa pospolita	
+> pustosza	pustosz:s2	subst:sg:gen.acc:m2	nazwa pospolita	
+> pustosza	pustosz:s2	subst:sg:gen:m2	nazwa pospolita	
+> pustoszem	pustosz:s2	subst:sg:inst:m2	nazwa pospolita	
+> pustosze	pustosz:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+> pustoszom	pustosz:s2	subst:pl:dat:m2	nazwa pospolita	
+> pustoszowi	pustosz:s2	subst:sg:dat:m2	nazwa pospolita	
+> pustoszów	pustosz:s2	subst:pl:gen:m2	nazwa pospolita	
+> pustosz	pustosz:s2	subst:sg:nom:m2	nazwa pospolita	
+> pustoszu	pustosz:s2	subst:sg:loc:m2	nazwa pospolita	
+> pustoszu	pustosz:s2	subst:sg:voc:m2	nazwa pospolita	
+4293373d4293088
+< Radocieche	Radociech	depr:pl:nom.acc.voc:m2	imię	
+4337592,4337603d4337306
+< resustycjach	resustycja	subst:pl:loc:f	nazwa pospolita	
+< resustycjami	resustycja	subst:pl:inst:f	nazwa pospolita	
+< resustycja	resustycja	subst:sg:nom:f	nazwa pospolita	
+< resustycją	resustycja	subst:sg:inst:f	nazwa pospolita	
+< resustycje	resustycja	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< resustycję	resustycja	subst:sg:acc:f	nazwa pospolita	
+< resustycji	resustycja	subst:pl:gen:f	nazwa pospolita	hom.
+< resustycji	resustycja	subst:sg:dat.loc:f	nazwa pospolita	
+< resustycji	resustycja	subst:sg:gen:f	nazwa pospolita	
+< resustycjom	resustycja	subst:pl:dat:f	nazwa pospolita	
+< resustycjo	resustycja	subst:sg:voc:f	nazwa pospolita	
+< resustycyj	resustycja	subst:pl:gen:f	nazwa pospolita	arch.|char.
+4346946,4346957c4346649,4346659
+< rizoidach	rizoid	subst:pl:loc:m2	nazwa pospolita	
+< rizoidami	rizoid	subst:pl:inst:m2	nazwa pospolita	
+< rizoida	rizoid	subst:sg:gen.acc:m2	nazwa pospolita	
+< rizoida	rizoid	subst:sg:gen:m2	nazwa pospolita	
+< rizoidem	rizoid	subst:sg:inst:m2	nazwa pospolita	
+< rizoidom	rizoid	subst:pl:dat:m2	nazwa pospolita	
+< rizoidowi	rizoid	subst:sg:dat:m2	nazwa pospolita	
+< rizoidów	rizoid	subst:pl:gen:m2	nazwa pospolita	
+< rizoid	rizoid	subst:sg:nom:m2	nazwa pospolita	
+< rizoidy	rizoid	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+< rizoidzie	rizoid	subst:sg:loc:m2	nazwa pospolita	
+< rizoidzie	rizoid	subst:sg:voc:m2	nazwa pospolita	
+---
+> rizoidach	rizoid	subst:pl:loc:m3	nazwa pospolita	
+> rizoidami	rizoid	subst:pl:inst:m3	nazwa pospolita	
+> rizoidem	rizoid	subst:sg:inst:m3	nazwa pospolita	
+> rizoidom	rizoid	subst:pl:dat:m3	nazwa pospolita	
+> rizoidowi	rizoid	subst:sg:dat:m3	nazwa pospolita	
+> rizoidów	rizoid	subst:pl:gen:m3	nazwa pospolita	
+> rizoid	rizoid	subst:sg:nom.acc:m3	nazwa pospolita	
+> rizoidu	rizoid	subst:sg:gen:m3	nazwa pospolita	
+> rizoidy	rizoid	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> rizoidzie	rizoid	subst:sg:loc:m3	nazwa pospolita	
+> rizoidzie	rizoid	subst:sg:voc:m3	nazwa pospolita	
+4566129d4565830
+< rutherforda	rutherford	subst:sg:gen:m3	nazwa pospolita	
+4628826,4628837d4628526
+< sececjach	sececja	subst:pl:loc:f	nazwa pospolita	
+< sececjami	sececja	subst:pl:inst:f	nazwa pospolita	
+< sececja	sececja	subst:sg:nom:f	nazwa pospolita	
+< sececją	sececja	subst:sg:inst:f	nazwa pospolita	
+< sececje	sececja	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< sececję	sececja	subst:sg:acc:f	nazwa pospolita	
+< sececji	sececja	subst:pl:gen:f	nazwa pospolita	hom.
+< sececji	sececja	subst:sg:dat.loc:f	nazwa pospolita	
+< sececji	sececja	subst:sg:gen:f	nazwa pospolita	
+< sececjom	sececja	subst:pl:dat:f	nazwa pospolita	
+< sececjo	sececja	subst:sg:voc:f	nazwa pospolita	
+< sececyj	sececja	subst:pl:gen:f	nazwa pospolita	arch.|char.
+4634880,4634892d4634568
+< selezjanach	selezjanin	subst:pl:loc:m1	nazwa pospolita	
+< selezjanami	selezjanin	subst:pl:inst:m1	nazwa pospolita	
+< selezjanie	selezjanin	subst:pl:nom.voc:m1	nazwa pospolita	
+< selezjanina	selezjanin	subst:sg:gen.acc:m1	nazwa pospolita	
+< selezjanina	selezjanin	subst:sg:gen:m1	nazwa pospolita	
+< selezjaninem	selezjanin	subst:sg:inst:m1	nazwa pospolita	
+< selezjaninie	selezjanin	subst:sg:loc:m1	nazwa pospolita	
+< selezjaninie	selezjanin	subst:sg:voc:m1	nazwa pospolita	
+< selezjaninowi	selezjanin	subst:sg:dat:m1	nazwa pospolita	
+< selezjanin	selezjanin	subst:sg:nom:m1	nazwa pospolita	
+< selezjanom	selezjanin	subst:pl:dat:m1	nazwa pospolita	
+< selezjan	selezjanin	subst:pl:gen.acc:m1	nazwa pospolita	
+< selezjany	selezjanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+4732487,4732496c4732163,4732172
+< sławiaństwach	sławiaństwo	subst:pl:loc:n:ncol	nazwa pospolita	
+< sławiaństwami	sławiaństwo	subst:pl:inst:n:ncol	nazwa pospolita	
+< sławiaństwa	sławiaństwo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
+< sławiaństwa	sławiaństwo	subst:sg:gen:n:ncol	nazwa pospolita	
+< sławiaństwem	sławiaństwo	subst:sg:inst:n:ncol	nazwa pospolita	
+< sławiaństwie	sławiaństwo	subst:sg:loc:n:ncol	nazwa pospolita	
+< sławiaństwom	sławiaństwo	subst:pl:dat:n:ncol	nazwa pospolita	
+< sławiaństwo	sławiaństwo	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
+< sławiaństw	sławiaństwo	subst:pl:gen:n:ncol	nazwa pospolita	
+< sławiaństwu	sławiaństwo	subst:sg:dat:n:ncol	nazwa pospolita	
+---
+> sławiaństwach	sławiaństwo	subst:pl:loc:n:ncol	nazwa pospolita	daw.
+> sławiaństwami	sławiaństwo	subst:pl:inst:n:ncol	nazwa pospolita	daw.
+> sławiaństwa	sławiaństwo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	daw.
+> sławiaństwa	sławiaństwo	subst:sg:gen:n:ncol	nazwa pospolita	daw.
+> sławiaństwem	sławiaństwo	subst:sg:inst:n:ncol	nazwa pospolita	daw.
+> sławiaństwie	sławiaństwo	subst:sg:loc:n:ncol	nazwa pospolita	daw.
+> sławiaństwom	sławiaństwo	subst:pl:dat:n:ncol	nazwa pospolita	daw.
+> sławiaństwo	sławiaństwo	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	daw.
+> sławiaństw	sławiaństwo	subst:pl:gen:n:ncol	nazwa pospolita	daw.
+> sławiaństwu	sławiaństwo	subst:sg:dat:n:ncol	nazwa pospolita	daw.
+4760682,4760692d4760357
+< sonotece	sonoteka	subst:sg:dat.loc:f	nazwa pospolita	
+< sonotekach	sonoteka	subst:pl:loc:f	nazwa pospolita	
+< sonotekami	sonoteka	subst:pl:inst:f	nazwa pospolita	
+< sonoteka	sonoteka	subst:sg:nom:f	nazwa pospolita	
+< sonoteką	sonoteka	subst:sg:inst:f	nazwa pospolita	
+< sonotekę	sonoteka	subst:sg:acc:f	nazwa pospolita	
+< sonoteki	sonoteka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< sonoteki	sonoteka	subst:sg:gen:f	nazwa pospolita	
+< sonotekom	sonoteka	subst:pl:dat:f	nazwa pospolita	
+< sonoteko	sonoteka	subst:sg:voc:f	nazwa pospolita	
+< sonotek	sonoteka	subst:pl:gen:f	nazwa pospolita	
+4913777,4913787c4913442,4913452
+< Symchach	Symcha:s2	subst:pl:loc:f	imię	
+< Symchami	Symcha:s2	subst:pl:inst:f	imię	
+< Symcha	Symcha:s2	subst:sg:nom:f	imię	
+< Symchą	Symcha:s2	subst:sg:inst:f	imię	
+< Symchę	Symcha:s2	subst:sg:acc:f	imię	
+< Symchom	Symcha:s2	subst:pl:dat:f	imię	
+< Symcho	Symcha:s2	subst:sg:voc:f	imię	
+< Symch	Symcha:s2	subst:pl:gen:f	imię	
+< Symchy	Symcha:s2	subst:pl:nom.acc.voc:f	imię	
+< Symchy	Symcha:s2	subst:sg:gen:f	imię	
+< Symsze	Symcha:s2	subst:sg:dat.loc:f	imię	
+---
+> Symchach	Symcha:s2	subst:pl:loc:f	imię	rzad.
+> Symchami	Symcha:s2	subst:pl:inst:f	imię	rzad.
+> Symcha	Symcha:s2	subst:sg:nom:f	imię	rzad.
+> Symchą	Symcha:s2	subst:sg:inst:f	imię	rzad.
+> Symchę	Symcha:s2	subst:sg:acc:f	imię	rzad.
+> Symchom	Symcha:s2	subst:pl:dat:f	imię	rzad.
+> Symcho	Symcha:s2	subst:sg:voc:f	imię	rzad.
+> Symch	Symcha:s2	subst:pl:gen:f	imię	rzad.
+> Symchy	Symcha:s2	subst:pl:nom.acc.voc:f	imię	rzad.
+> Symchy	Symcha:s2	subst:sg:gen:f	imię	rzad.
+> Symsze	Symcha:s2	subst:sg:dat.loc:f	imię	rzad.
+4943793d4943457
+< Szebache	Szebach	depr:pl:nom.acc.voc:m2	imię	
+4993671a4993336,4993346
+> ściernie	ściernie:d	adv:pos		
+> ścierniach	ściernie:s	subst:pl:loc:n:ncol	nazwa pospolita	daw.|gwar.
+> ścierniami	ściernie:s	subst:pl:inst:n:ncol	nazwa pospolita	daw.|gwar.
+> ściernia	ściernie:s	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	daw.|gwar.
+> ściernia	ściernie:s	subst:sg:gen:n:ncol	nazwa pospolita	daw.|gwar.
+> ścierniem	ściernie:s	subst:sg:inst:n:ncol	nazwa pospolita	daw.|gwar.
+> ściernie	ściernie:s	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	daw.|gwar.
+> ścierniom	ściernie:s	subst:pl:dat:n:ncol	nazwa pospolita	daw.|gwar.
+> ścierni	ściernie:s	subst:pl:gen:n:ncol	nazwa pospolita	daw.|gwar.
+> ścierniu	ściernie:s	subst:sg:dat:n:ncol	nazwa pospolita	daw.|gwar.
+> ścierniu	ściernie:s	subst:sg:loc:n:ncol	nazwa pospolita	daw.|gwar.
+5016064d5015738
+< Świecieche	Świeciech	depr:pl:nom.acc.voc:m2	imię	
+5370410a5370085,5370095
+> validolach	validol	subst:pl:loc:m3	nazwa pospolita	
+> validolami	validol	subst:pl:inst:m3	nazwa pospolita	
+> validolem	validol	subst:sg:inst:m3	nazwa pospolita	
+> validole	validol	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> validoli	validol	subst:pl:gen:m3	nazwa pospolita	
+> validolom	validol	subst:pl:dat:m3	nazwa pospolita	
+> validolowi	validol	subst:sg:dat:m3	nazwa pospolita	
+> validolu	validol	subst:sg:gen:m3	nazwa pospolita	
+> validolu	validol	subst:sg:loc:m3	nazwa pospolita	
+> validolu	validol	subst:sg:voc:m3	nazwa pospolita	
+> validol	validol	subst:sg:nom.acc:m3	nazwa pospolita	
+5409109a5408795,5408807
+> Welach	Wela	subst:pl:loc:f	imię	
+> Welami	Wela	subst:pl:inst:f	imię	
+> Wela	Wela	subst:sg:nom:f	imię	
+> Welą	Wela	subst:sg:inst:f	imię	
+> Wele	Wela	subst:pl:nom.acc.voc:f	imię	
+> Welę	Wela	subst:sg:acc:f	imię	
+> Weli	Wela	subst:pl:gen:f	imię	hom.
+> Weli	Wela	subst:sg:dat.loc:f	imię	
+> Weli	Wela	subst:sg:gen:f	imię	
+> Welom	Wela	subst:pl:dat:f	imię	
+> Welo	Wela	subst:sg:voc:f	imię	
+> Welu	Wela	subst:sg:voc:f	imię	
+> Wel	Wela	subst:pl:gen:f	imię	char.
+5409145,5409169d5408842
+< Welach	Wela:s1	subst:pl:loc:f	imię	
+< Welami	Wela:s1	subst:pl:inst:f	imię	
+< Wela	Wela:s1	subst:sg:nom:f	imię	
+< Welą	Wela:s1	subst:sg:inst:f	imię	
+< Wele	Wela:s1	subst:pl:nom.acc.voc:f	imię	
+< Welę	Wela:s1	subst:sg:acc:f	imię	
+< Weli	Wela:s1	subst:pl:gen:f	imię	hom.
+< Weli	Wela:s1	subst:sg:dat.loc:f	imię	
+< Weli	Wela:s1	subst:sg:gen:f	imię	
+< Welom	Wela:s1	subst:pl:dat:f	imię	
+< Welo	Wela:s1	subst:sg:voc:f	imię	
+< Welu	Wela:s1	subst:sg:voc:f	imię	
+< Wel	Wela:s1	subst:pl:gen:f	imię	char.
+< Welach	Wela:s2	subst:pl:loc:f	nazwa geograficzna	
+< Welami	Wela:s2	subst:pl:inst:f	nazwa geograficzna	
+< Wela	Wela:s2	subst:sg:nom:f	nazwa geograficzna	
+< Welą	Wela:s2	subst:sg:inst:f	nazwa geograficzna	
+< Wele	Wela:s2	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+< Welę	Wela:s2	subst:sg:acc:f	nazwa geograficzna	
+< Weli	Wela:s2	subst:pl:gen:f	nazwa geograficzna	hom.
+< Weli	Wela:s2	subst:sg:dat.loc:f	nazwa geograficzna	
+< Weli	Wela:s2	subst:sg:gen:f	nazwa geograficzna	
+< Welom	Wela:s2	subst:pl:dat:f	nazwa geograficzna	
+< Welo	Wela:s2	subst:sg:voc:f	nazwa geograficzna	
+< Wel	Wela:s2	subst:pl:gen:f	nazwa geograficzna	char.
+5555819d5555491
+< Wszecieche	Wszeciech	depr:pl:nom.acc.voc:m2	imię	
+6102595,6102609c6102267,6102281
+< zasraniec	zasraniec	subst:sg:nom:m1	nazwa pospolita	
+< zasrańcach	zasraniec	subst:pl:loc:m1	nazwa pospolita	
+< zasrańcami	zasraniec	subst:pl:inst:m1	nazwa pospolita	
+< zasrańca	zasraniec	subst:sg:gen.acc:m1	nazwa pospolita	
+< zasrańca	zasraniec	subst:sg:gen:m1	nazwa pospolita	
+< zasrańcem	zasraniec	subst:sg:inst:m1	nazwa pospolita	
+< zasrańce	zasraniec	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< zasrańce	zasraniec	subst:pl:nom.voc:m1	nazwa pospolita	
+< zasrańcom	zasraniec	subst:pl:dat:m1	nazwa pospolita	
+< zasrańcowi	zasraniec	subst:sg:dat:m1	nazwa pospolita	
+< zasrańców	zasraniec	subst:pl:gen.acc:m1	nazwa pospolita	
+< zasrańcu	zasraniec	subst:sg:loc:m1	nazwa pospolita	
+< zasrańcu	zasraniec	subst:sg:voc:m1	nazwa pospolita	
+< zasrańcy	zasraniec	subst:pl:nom.voc:m1	nazwa pospolita	
+< zasrańcze	zasraniec	subst:sg:voc:m1	nazwa pospolita	
+---
+> zasraniec	zasraniec	subst:sg:nom:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańcach	zasraniec	subst:pl:loc:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańcami	zasraniec	subst:pl:inst:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańca	zasraniec	subst:sg:gen.acc:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańca	zasraniec	subst:sg:gen:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańcem	zasraniec	subst:sg:inst:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańce	zasraniec	depr:pl:nom.acc.voc:m2	nazwa pospolita	lekcew.|wulg.
+> zasrańce	zasraniec	subst:pl:nom.voc:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańcom	zasraniec	subst:pl:dat:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańcowi	zasraniec	subst:sg:dat:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańców	zasraniec	subst:pl:gen.acc:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańcu	zasraniec	subst:sg:loc:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańcu	zasraniec	subst:sg:voc:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańcy	zasraniec	subst:pl:nom.voc:m1	nazwa pospolita	lekcew.|wulg.
+> zasrańcze	zasraniec	subst:sg:voc:m1	nazwa pospolita	lekcew.|wulg.
+6332664,6332676c6332336,6332348
+< znajduchach	znajduch	subst:pl:loc:m1	nazwa pospolita	pot.
+< znajduchami	znajduch	subst:pl:inst:m1	nazwa pospolita	pot.
+< znajducha	znajduch	subst:sg:gen.acc:m1	nazwa pospolita	pot.
+< znajducha	znajduch	subst:sg:gen:m1	nazwa pospolita	pot.
+< znajduchem	znajduch	subst:sg:inst:m1	nazwa pospolita	pot.
+< znajduchom	znajduch	subst:pl:dat:m1	nazwa pospolita	pot.
+< znajduchowie	znajduch	subst:pl:nom.voc:m1	nazwa pospolita	pot.
+< znajduchowi	znajduch	subst:sg:dat:m1	nazwa pospolita	pot.
+< znajduchów	znajduch	subst:pl:gen.acc:m1	nazwa pospolita	pot.
+< znajduchu	znajduch	subst:sg:loc:m1	nazwa pospolita	pot.
+< znajduchu	znajduch	subst:sg:voc:m1	nazwa pospolita	pot.
+< znajduchy	znajduch	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+< znajduch	znajduch	subst:sg:nom:m1	nazwa pospolita	pot.
+---
+> znajduchach	znajduch	subst:pl:loc:m1	nazwa pospolita	gwar.|środ.
+> znajduchami	znajduch	subst:pl:inst:m1	nazwa pospolita	gwar.|środ.
+> znajducha	znajduch	subst:sg:gen.acc:m1	nazwa pospolita	gwar.|środ.
+> znajducha	znajduch	subst:sg:gen:m1	nazwa pospolita	gwar.|środ.
+> znajduchem	znajduch	subst:sg:inst:m1	nazwa pospolita	gwar.|środ.
+> znajduchom	znajduch	subst:pl:dat:m1	nazwa pospolita	gwar.|środ.
+> znajduchowie	znajduch	subst:pl:nom.voc:m1	nazwa pospolita	gwar.|środ.
+> znajduchowi	znajduch	subst:sg:dat:m1	nazwa pospolita	gwar.|środ.
+> znajduchów	znajduch	subst:pl:gen.acc:m1	nazwa pospolita	gwar.|środ.
+> znajduchu	znajduch	subst:sg:loc:m1	nazwa pospolita	gwar.|środ.
+> znajduchu	znajduch	subst:sg:voc:m1	nazwa pospolita	gwar.|środ.
+> znajduchy	znajduch	depr:pl:nom.acc.voc:m2	nazwa pospolita	gwar.|środ.
+> znajduch	znajduch	subst:sg:nom:m1	nazwa pospolita	gwar.|środ.

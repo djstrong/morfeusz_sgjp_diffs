@@ -1,0 +1,146 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.06.24
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.07.01
+908365a908366
+> funkcjonariuszów	funkcjonariusz	subst:pl:gen.acc:m1	nazwa pospolita	
+2214773a2214775
+> niebardzo	niebardzo	adv:pos		
+5368263a5368266,5368277
+> Sommersteinach	Sommerstein	subst:pl:loc:m1	nazwisko	
+> Sommersteinami	Sommerstein	subst:pl:inst:m1	nazwisko	
+> Sommersteina	Sommerstein	subst:sg:gen.acc:m1	nazwisko	
+> Sommersteinem	Sommerstein	subst:sg:inst:m1	nazwisko	
+> Sommersteinie	Sommerstein	subst:sg:loc:m1	nazwisko	
+> Sommersteinie	Sommerstein	subst:sg:voc:m1	nazwisko	
+> Sommersteinom	Sommerstein	subst:pl:dat:m1	nazwisko	
+> Sommersteinowie	Sommerstein	subst:pl:nom.voc:m1	nazwisko	
+> Sommersteinowi	Sommerstein	subst:sg:dat:m1	nazwisko	
+> Sommersteinów	Sommerstein	subst:pl:gen.acc:m1	nazwisko	
+> Sommerstein	Sommerstein	subst:sg:nom:m1	nazwisko	
+> Sommersteiny	Sommerstein	depr:pl:nom.acc.voc:m2	nazwisko	
+5452618a5452633,5452645
+> Staniszkisach	Staniszkis:s1	subst:pl:loc:m1	nazwisko	
+> Staniszkisami	Staniszkis:s1	subst:pl:inst:m1	nazwisko	
+> Staniszkisa	Staniszkis:s1	subst:sg:gen.acc:m1	nazwisko	
+> Staniszkisem	Staniszkis:s1	subst:sg:inst:m1	nazwisko	
+> Staniszkisie	Staniszkis:s1	subst:sg:loc:m1	nazwisko	
+> Staniszkisie	Staniszkis:s1	subst:sg:voc:m1	nazwisko	
+> Staniszkisom	Staniszkis:s1	subst:pl:dat:m1	nazwisko	
+> Staniszkisowie	Staniszkis:s1	subst:pl:nom.voc:m1	nazwisko	
+> Staniszkisowi	Staniszkis:s1	subst:sg:dat:m1	nazwisko	
+> Staniszkisów	Staniszkis:s1	subst:pl:gen.acc:m1	nazwisko	
+> Staniszkis	Staniszkis:s1	subst:sg:nom:m1	nazwisko	
+> Staniszkisy	Staniszkis:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+> Staniszkis	Staniszkis:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+7045879a7045907,7046003
+> niezimmunizowana	zimmunizować	ppas:sg:nom.voc:f:perf:neg		
+> niezimmunizowaną	zimmunizować	ppas:sg:acc.inst:f:perf:neg		
+> niezimmunizowanego	zimmunizować	ppas:sg:acc:m1.m2:perf:neg		
+> niezimmunizowanego	zimmunizować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niezimmunizowanej	zimmunizować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezimmunizowanemu	zimmunizować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niezimmunizowane	zimmunizować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niezimmunizowane	zimmunizować	ppas:sg:nom.acc.voc:n:perf:neg		
+> niezimmunizowaniach	zimmunizować	ger:pl:loc:n:perf:neg		
+> niezimmunizowaniami	zimmunizować	ger:pl:inst:n:perf:neg		
+> niezimmunizowania	zimmunizować	ger:pl:nom.acc:n:perf:neg		
+> niezimmunizowania	zimmunizować	ger:sg:gen:n:perf:neg		
+> niezimmunizowaniem	zimmunizować	ger:sg:inst:n:perf:neg		
+> niezimmunizowanie	zimmunizować	ger:sg:nom.acc:n:perf:neg		
+> niezimmunizowaniom	zimmunizować	ger:pl:dat:n:perf:neg		
+> niezimmunizowaniu	zimmunizować	ger:sg:dat.loc:n:perf:neg		
+> niezimmunizowani	zimmunizować	ppas:pl:nom.voc:m1:perf:neg		
+> niezimmunizowanych	zimmunizować	ppas:pl:acc:m1:perf:neg		
+> niezimmunizowanych	zimmunizować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niezimmunizowanymi	zimmunizować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niezimmunizowanym	zimmunizować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niezimmunizowanym	zimmunizować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niezimmunizowany	zimmunizować	ppas:sg:acc:m3:perf:neg		
+> niezimmunizowany	zimmunizować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezimmunizowań	zimmunizować	ger:pl:gen:n:perf:neg		
+> zimmunizować	zimmunizować	inf:perf		
+> zimmunizowalibyście	zimmunizować	cond:pl:m1:sec:perf		
+> zimmunizowalibyśmy	zimmunizować	cond:pl:m1:pri:perf		
+> zimmunizowaliby	zimmunizować	cond:pl:m1:ter:perf		
+> zimmunizowaliście	zimmunizować	praet:pl:m1:sec:perf		
+> zimmunizowaliśmy	zimmunizować	praet:pl:m1:pri:perf		
+> zimmunizowali	zimmunizować	praet:pl:m1:perf		
+> zimmunizowali	zimmunizować	praet:pl:m1:ter:perf		
+> zimmunizowałabym	zimmunizować	cond:sg:f:pri:perf		
+> zimmunizowałabyś	zimmunizować	cond:sg:f:sec:perf		
+> zimmunizowałaby	zimmunizować	cond:sg:f:ter:perf		
+> zimmunizowałam	zimmunizować	praet:sg:f:pri:perf		
+> zimmunizowałaś	zimmunizować	praet:sg:f:sec:perf		
+> zimmunizowała	zimmunizować	praet:sg:f:perf		
+> zimmunizowała	zimmunizować	praet:sg:f:ter:perf		
+> zimmunizowałbym	zimmunizować	cond:sg:m1.m2.m3:pri:perf		
+> zimmunizowałbyś	zimmunizować	cond:sg:m1.m2.m3:sec:perf		
+> zimmunizowałby	zimmunizować	cond:sg:m1.m2.m3:ter:perf		
+> zimmunizowałem	zimmunizować	praet:sg:m1.m2.m3:pri:perf		
+> zimmunizowałeś	zimmunizować	praet:sg:m1.m2.m3:sec:perf		
+> zimmunizowałobym	zimmunizować	cond:sg:n:pri:perf		
+> zimmunizowałobyś	zimmunizować	cond:sg:n:sec:perf		
+> zimmunizowałoby	zimmunizować	cond:sg:n:ter:perf		
+> zimmunizowałom	zimmunizować	praet:sg:n:pri:perf		
+> zimmunizowałoś	zimmunizować	praet:sg:n:sec:perf		
+> zimmunizowało	zimmunizować	praet:sg:n:perf		
+> zimmunizowało	zimmunizować	praet:sg:n:ter:perf		
+> zimmunizowałybyście	zimmunizować	cond:pl:m2.m3.f.n:sec:perf		
+> zimmunizowałybyśmy	zimmunizować	cond:pl:m2.m3.f.n:pri:perf		
+> zimmunizowałyby	zimmunizować	cond:pl:m2.m3.f.n:ter:perf		
+> zimmunizowałyście	zimmunizować	praet:pl:m2.m3.f.n:sec:perf		
+> zimmunizowałyśmy	zimmunizować	praet:pl:m2.m3.f.n:pri:perf		
+> zimmunizowały	zimmunizować	praet:pl:m2.m3.f.n:perf		
+> zimmunizowały	zimmunizować	praet:pl:m2.m3.f.n:ter:perf		
+> zimmunizował	zimmunizować	praet:sg:m1.m2.m3:perf		
+> zimmunizował	zimmunizować	praet:sg:m1.m2.m3:ter:perf		
+> zimmunizowana	zimmunizować	ppas:sg:nom.voc:f:perf:aff		
+> zimmunizowaną	zimmunizować	ppas:sg:acc.inst:f:perf:aff		
+> zimmunizowanego	zimmunizować	ppas:sg:acc:m1.m2:perf:aff		
+> zimmunizowanego	zimmunizować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> zimmunizowanej	zimmunizować	ppas:sg:gen.dat.loc:f:perf:aff		
+> zimmunizowanemu	zimmunizować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> zimmunizowane	zimmunizować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> zimmunizowane	zimmunizować	ppas:sg:nom.acc.voc:n:perf:aff		
+> zimmunizowaniach	zimmunizować	ger:pl:loc:n:perf:aff		
+> zimmunizowaniami	zimmunizować	ger:pl:inst:n:perf:aff		
+> zimmunizowania	zimmunizować	ger:pl:nom.acc:n:perf:aff		
+> zimmunizowania	zimmunizować	ger:sg:gen:n:perf:aff		
+> zimmunizowaniem	zimmunizować	ger:sg:inst:n:perf:aff		
+> zimmunizowanie	zimmunizować	ger:sg:nom.acc:n:perf:aff		
+> zimmunizowaniom	zimmunizować	ger:pl:dat:n:perf:aff		
+> zimmunizowaniu	zimmunizować	ger:sg:dat.loc:n:perf:aff		
+> zimmunizowani	zimmunizować	ppas:pl:nom.voc:m1:perf:aff		
+> zimmunizowano	zimmunizować	imps:perf		
+> zimmunizowanych	zimmunizować	ppas:pl:acc:m1:perf:aff		
+> zimmunizowanych	zimmunizować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> zimmunizowanymi	zimmunizować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> zimmunizowanym	zimmunizować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> zimmunizowanym	zimmunizować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> zimmunizowany	zimmunizować	ppas:sg:acc:m3:perf:aff		
+> zimmunizowany	zimmunizować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zimmunizowań	zimmunizować	ger:pl:gen:n:perf:aff		
+> zimmunizowawszy	zimmunizować	pant:perf		
+> zimmunizują	zimmunizować	fin:pl:ter:perf		
+> zimmunizujcie	zimmunizować	impt:pl:sec:perf		
+> zimmunizujecie	zimmunizować	fin:pl:sec:perf		
+> zimmunizujemy	zimmunizować	fin:pl:pri:perf		
+> zimmunizujesz	zimmunizować	fin:sg:sec:perf		
+> zimmunizuje	zimmunizować	fin:sg:ter:perf		
+> zimmunizuję	zimmunizować	fin:sg:pri:perf		
+> zimmunizujmy	zimmunizować	impt:pl:pri:perf		
+> zimmunizuj	zimmunizować	impt:sg:sec:perf		
+7217798a7217923,7217934
+> żydłacy	żydłak	subst:pl:nom.voc:m1	nazwa pospolita	pogard.
+> żydłakach	żydłak	subst:pl:loc:m1	nazwa pospolita	pogard.
+> żydłakami	żydłak	subst:pl:inst:m1	nazwa pospolita	pogard.
+> żydłaka	żydłak	subst:sg:gen.acc:m1	nazwa pospolita	pogard.
+> żydłakiem	żydłak	subst:sg:inst:m1	nazwa pospolita	pogard.
+> żydłaki	żydłak	depr:pl:nom.acc.voc:m2	nazwa pospolita	pogard.
+> żydłakom	żydłak	subst:pl:dat:m1	nazwa pospolita	pogard.
+> żydłakowi	żydłak	subst:sg:dat:m1	nazwa pospolita	pogard.
+> żydłaków	żydłak	subst:pl:gen.acc:m1	nazwa pospolita	pogard.
+> żydłaku	żydłak	subst:sg:loc:m1	nazwa pospolita	pogard.
+> żydłaku	żydłak	subst:sg:voc:m1	nazwa pospolita	pogard.
+> żydłak	żydłak	subst:sg:nom:m1	nazwa pospolita	pogard.

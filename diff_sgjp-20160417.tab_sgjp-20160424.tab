@@ -1,0 +1,151 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.04.17
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.04.24
+606670a606671,606767
+> doturlacie	doturlać	fin:pl:sec:perf		
+> doturlać	doturlać	inf:perf		
+> doturla	doturlać	fin:sg:ter:perf		
+> doturlają	doturlać	fin:pl:ter:perf		
+> doturlajcie	doturlać	impt:pl:sec:perf		
+> doturlaj	doturlać	impt:sg:sec:perf		
+> doturlajmy	doturlać	impt:pl:pri:perf		
+> doturlaliby	doturlać	cond:pl:m1.p1:ter:perf		
+> doturlalibyście	doturlać	cond:pl:m1.p1:sec:perf		
+> doturlalibyśmy	doturlać	cond:pl:m1.p1:pri:perf		
+> doturlali	doturlać	praet:pl:m1.p1:perf		
+> doturlali	doturlać	praet:pl:m1.p1:ter:perf		
+> doturlaliście	doturlać	praet:pl:m1.p1:sec:perf		
+> doturlaliśmy	doturlać	praet:pl:m1.p1:pri:perf		
+> doturlałaby	doturlać	cond:sg:f:ter:perf		
+> doturlałabym	doturlać	cond:sg:f:pri:perf		
+> doturlałabyś	doturlać	cond:sg:f:sec:perf		
+> doturlała	doturlać	praet:sg:f:perf		
+> doturlała	doturlać	praet:sg:f:ter:perf		
+> doturlałam	doturlać	praet:sg:f:pri:perf		
+> doturlałaś	doturlać	praet:sg:f:sec:perf		
+> doturlałby	doturlać	cond:sg:m1.m2.m3:ter:perf		
+> doturlałbym	doturlać	cond:sg:m1.m2.m3:pri:perf		
+> doturlałbyś	doturlać	cond:sg:m1.m2.m3:sec:perf		
+> doturlał	doturlać	praet:sg:m1.m2.m3:perf		
+> doturlał	doturlać	praet:sg:m1.m2.m3:ter:perf		
+> doturlałem	doturlać	praet:sg:m1.m2.m3:pri:perf		
+> doturlałeś	doturlać	praet:sg:m1.m2.m3:sec:perf		
+> doturlałoby	doturlać	cond:sg:n1.n2:ter:perf		
+> doturlałobym	doturlać	cond:sg:n1.n2:pri:perf		
+> doturlałobyś	doturlać	cond:sg:n1.n2:sec:perf		
+> doturlało	doturlać	praet:sg:n1.n2:perf		
+> doturlało	doturlać	praet:sg:n1.n2:ter:perf		
+> doturlałom	doturlać	praet:sg:n1.n2:pri:perf		
+> doturlałoś	doturlać	praet:sg:n1.n2:sec:perf		
+> doturlałyby	doturlać	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> doturlałybyście	doturlać	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> doturlałybyśmy	doturlać	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> doturlały	doturlać	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> doturlały	doturlać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> doturlałyście	doturlać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> doturlałyśmy	doturlać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> doturlam	doturlać	fin:sg:pri:perf		
+> doturlamy	doturlać	fin:pl:pri:perf		
+> doturlana	doturlać	ppas:sg:nom.voc:f:perf:aff		
+> doturlaną	doturlać	ppas:sg:acc.inst:f:perf:aff		
+> doturlane	doturlać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> doturlane	doturlać	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> doturlanego	doturlać	ppas:sg:acc:m1.m2:perf:aff		
+> doturlanego	doturlać	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> doturlanej	doturlać	ppas:sg:gen.dat.loc:f:perf:aff		
+> doturlanemu	doturlać	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> doturlaniach	doturlać	ger:pl:loc:n2:perf:aff		
+> doturlania	doturlać	ger:pl:nom.acc:n2:perf:aff		
+> doturlania	doturlać	ger:sg:gen:n2:perf:aff		
+> doturlaniami	doturlać	ger:pl:inst:n2:perf:aff		
+> doturlani	doturlać	ppas:pl:nom.voc:m1.p1:perf:aff		
+> doturlanie	doturlać	ger:sg:nom.acc:n2:perf:aff		
+> doturlaniem	doturlać	ger:sg:inst:n2:perf:aff		
+> doturlaniom	doturlać	ger:pl:dat:n2:perf:aff		
+> doturlaniu	doturlać	ger:sg:dat.loc:n2:perf:aff		
+> doturlano	doturlać	imps:perf		
+> doturlanych	doturlać	ppas:pl:acc:m1.p1:perf:aff		
+> doturlanych	doturlać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> doturlany	doturlać	ppas:sg:acc:m3:perf:aff		
+> doturlany	doturlać	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> doturlanym	doturlać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> doturlanym	doturlać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> doturlanymi	doturlać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> doturlań	doturlać	ger:pl:gen:n2:perf:aff		
+> doturlasz	doturlać	fin:sg:sec:perf		
+> doturlawszy	doturlać	pant:perf		
+> niedoturlana	doturlać	ppas:sg:nom.voc:f:perf:neg		
+> niedoturlaną	doturlać	ppas:sg:acc.inst:f:perf:neg		
+> niedoturlane	doturlać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> niedoturlane	doturlać	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> niedoturlanego	doturlać	ppas:sg:acc:m1.m2:perf:neg		
+> niedoturlanego	doturlać	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> niedoturlanej	doturlać	ppas:sg:gen.dat.loc:f:perf:neg		
+> niedoturlanemu	doturlać	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> niedoturlaniach	doturlać	ger:pl:loc:n2:perf:neg		
+> niedoturlania	doturlać	ger:pl:nom.acc:n2:perf:neg		
+> niedoturlania	doturlać	ger:sg:gen:n2:perf:neg		
+> niedoturlaniami	doturlać	ger:pl:inst:n2:perf:neg		
+> niedoturlani	doturlać	ppas:pl:nom.voc:m1.p1:perf:neg		
+> niedoturlanie	doturlać	ger:sg:nom.acc:n2:perf:neg		
+> niedoturlaniem	doturlać	ger:sg:inst:n2:perf:neg		
+> niedoturlaniom	doturlać	ger:pl:dat:n2:perf:neg		
+> niedoturlaniu	doturlać	ger:sg:dat.loc:n2:perf:neg		
+> niedoturlanych	doturlać	ppas:pl:acc:m1.p1:perf:neg		
+> niedoturlanych	doturlać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niedoturlany	doturlać	ppas:sg:acc:m3:perf:neg		
+> niedoturlany	doturlać	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niedoturlanym	doturlać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niedoturlanym	doturlać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> niedoturlanymi	doturlać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niedoturlań	doturlać	ger:pl:gen:n2:perf:neg		
+1472511c1472608,1472609
+< li	li:q	qub		przest.
+---
+> li	li:q1	qub		przest.
+> li	li:q2	qub		przest._dziś_książk.
+1473035a1473134,1473147
+> li	li:s	subst:pl:acc:n2	nazwa pospolita	
+> li	li:s	subst:pl:dat:n2	nazwa pospolita	
+> li	li:s	subst:pl:gen:n2	nazwa pospolita	
+> li	li:s	subst:pl:inst:n2	nazwa pospolita	
+> li	li:s	subst:pl:loc:n2	nazwa pospolita	
+> li	li:s	subst:pl:nom:n2	nazwa pospolita	
+> li	li:s	subst:pl:voc:n2	nazwa pospolita	
+> li	li:s	subst:sg:acc:n2	nazwa pospolita	
+> li	li:s	subst:sg:dat:n2	nazwa pospolita	
+> li	li:s	subst:sg:gen:n2	nazwa pospolita	
+> li	li:s	subst:sg:inst:n2	nazwa pospolita	
+> li	li:s	subst:sg:loc:n2	nazwa pospolita	
+> li	li:s	subst:sg:nom:n2	nazwa pospolita	
+> li	li:s	subst:sg:voc:n2	nazwa pospolita	
+1473052,1473079d1473163
+< li	li:s1	subst:pl:acc:n2	nazwa pospolita	
+< li	li:s1	subst:pl:dat:n2	nazwa pospolita	
+< li	li:s1	subst:pl:gen:n2	nazwa pospolita	
+< li	li:s1	subst:pl:inst:n2	nazwa pospolita	
+< li	li:s1	subst:pl:loc:n2	nazwa pospolita	
+< li	li:s1	subst:pl:nom:n2	nazwa pospolita	
+< li	li:s1	subst:pl:voc:n2	nazwa pospolita	
+< li	li:s1	subst:sg:acc:n2	nazwa pospolita	
+< li	li:s1	subst:sg:dat:n2	nazwa pospolita	
+< li	li:s1	subst:sg:gen:n2	nazwa pospolita	
+< li	li:s1	subst:sg:inst:n2	nazwa pospolita	
+< li	li:s1	subst:sg:loc:n2	nazwa pospolita	
+< li	li:s1	subst:sg:nom:n2	nazwa pospolita	
+< li	li:s1	subst:sg:voc:n2	nazwa pospolita	
+< li	li:s2	subst:pl:acc:f	nazwa pospolita	
+< li	li:s2	subst:pl:dat:f	nazwa pospolita	
+< li	li:s2	subst:pl:gen:f	nazwa pospolita	
+< li	li:s2	subst:pl:inst:f	nazwa pospolita	
+< li	li:s2	subst:pl:loc:f	nazwa pospolita	
+< li	li:s2	subst:pl:nom:f	nazwa pospolita	
+< li	li:s2	subst:pl:voc:f	nazwa pospolita	
+< li	li:s2	subst:sg:acc:f	nazwa pospolita	
+< li	li:s2	subst:sg:dat:f	nazwa pospolita	
+< li	li:s2	subst:sg:gen:f	nazwa pospolita	
+< li	li:s2	subst:sg:inst:f	nazwa pospolita	
+< li	li:s2	subst:sg:loc:f	nazwa pospolita	
+< li	li:s2	subst:sg:nom:f	nazwa pospolita	
+< li	li:s2	subst:sg:voc:f	nazwa pospolita	

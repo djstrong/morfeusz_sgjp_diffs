@@ -1,0 +1,3724 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2015.01.27
+---
+> #!DICT-ID pl.sgjp.sgjp-2015.02.17
+5952c5952
+< A	accusativus	brev:pun
+---
+> A	accusativus	brev:pun		jęz.
+28782c28782
+< a.s.c	akta_stanu_cywilnego	brev:pun
+---
+> a.s.c	akta_stanu_cywilnego	brev:pun		
+33901c33901
+< a	albo	brev:pun
+---
+> a	albo	brev:pun		
+35019c35019
+< al	aleja	brev:pun
+---
+> al	aleja	brev:pun		
+64776c64776
+< A.D	Anno_Domini	brev:pun
+---
+> A.D	Anno_Domini	brev:pun		
+130692c130692
+< B	bajt	brev:npun
+---
+> B	bajt	brev:npun		komp.
+147041,147042c147041,147042
+< b	bardzo	brev:pun
+< bdb	bardzo_dobry_(stopień)	brev:pun
+---
+> b	bardzo	brev:pun		
+> bdb	bardzo_dobry_(stopień)	brev:pun		
+172353c172353
+< b	bez	brev:pun
+---
+> b	bez	brev:pun		
+178798,178799c178798,178799
+< blm	bez_liczby_mnogiej	brev:npun
+< blp	bez_liczby_pojedynczej	brev:npun
+---
+> blm	bez_liczby_mnogiej	brev:npun		jęz.
+> blp	bez_liczby_pojedynczej	brev:npun		jęz.
+188979c188979
+< b.u	bez_uwag	brev:pun
+---
+> b.u	bez_uwag	brev:pun		
+191136c191136
+< b.zm	bez_zmian	brev:pun
+---
+> b.zm	bez_zmian	brev:pun		
+203395c203395
+< B	biernik	brev:pun
+---
+> B	biernik	brev:pun		jęz.
+204541c204541
+< b	bieżący	brev:pun
+---
+> b	bieżący	brev:pun		
+207131c207131
+< bld	biliard	brev:npun
+---
+> bld	biliard	brev:npun		
+207206c207206
+< bln	bilion	brev:npun
+---
+> bln	bilion	brev:npun		
+214024c214024
+< b	bit	brev:npun
+---
+> b	bit	brev:npun		komp.
+214540c214540
+< bps	bit_per_second	brev:npun
+---
+> bps	bit_per_second	brev:npun		
+228100,228101c228100,228101
+< błp	błogosławionej_pamięci	brev:pun
+< bp	błogosławionej_pamięci	brev:pun
+---
+> błp	błogosławionej_pamięci	brev:pun		
+> bp	błogosławionej_pamięci	brev:pun		
+228116c228116
+< bł	błogosławiony	brev:pun
+---
+> bł	błogosławiony	brev:pun		
+253265c253265
+< b	brat_(zakonny)	brev:pun
+---
+> b	brat_(zakonny)	brev:pun		
+271907a271908
+> brzydną	brzydnąć	fin:pl:ter:imperf		rzad.
+271910a271912
+> brzydnąc	brzydnąć	pcon:imperf		rzad.
+271925a271928,271935
+> brzydnąć	brzydnąć	inf:imperf		rzad.
+> brzydnął	brzydnąć	praet:sg:m1.m2.m3:imperf		rzad.
+> brzydnął	brzydnąć	praet:sg:m1.m2.m3:ter:imperf		rzad.
+> brzydnąłby	brzydnąć	cond:sg:m1.m2.m3:ter:imperf		rzad.
+> brzydnąłbym	brzydnąć	cond:sg:m1.m2.m3:pri:imperf		rzad.
+> brzydnąłbyś	brzydnąć	cond:sg:m1.m2.m3:sec:imperf		rzad.
+> brzydnąłem	brzydnąć	praet:sg:m1.m2.m3:pri:imperf		rzad.
+> brzydnąłeś	brzydnąć	praet:sg:m1.m2.m3:sec:imperf		rzad.
+271926a271937,271965
+> brzydnę	brzydnąć	fin:sg:pri:imperf		rzad.
+> brzydnęli	brzydnąć	praet:pl:m1.p1:imperf		rzad.
+> brzydnęli	brzydnąć	praet:pl:m1.p1:ter:imperf		rzad.
+> brzydnęliby	brzydnąć	cond:pl:m1.p1:ter:imperf		rzad.
+> brzydnęlibyście	brzydnąć	cond:pl:m1.p1:sec:imperf		rzad.
+> brzydnęlibyśmy	brzydnąć	cond:pl:m1.p1:pri:imperf		rzad.
+> brzydnęliście	brzydnąć	praet:pl:m1.p1:sec:imperf		rzad.
+> brzydnęliśmy	brzydnąć	praet:pl:m1.p1:pri:imperf		rzad.
+> brzydnęła	brzydnąć	praet:sg:f:imperf		rzad.
+> brzydnęła	brzydnąć	praet:sg:f:ter:imperf		rzad.
+> brzydnęłaby	brzydnąć	cond:sg:f:ter:imperf		rzad.
+> brzydnęłabym	brzydnąć	cond:sg:f:pri:imperf		rzad.
+> brzydnęłabyś	brzydnąć	cond:sg:f:sec:imperf		rzad.
+> brzydnęłam	brzydnąć	praet:sg:f:pri:imperf		rzad.
+> brzydnęłaś	brzydnąć	praet:sg:f:sec:imperf		rzad.
+> brzydnęło	brzydnąć	praet:sg:n1.n2:imperf		rzad.
+> brzydnęło	brzydnąć	praet:sg:n1.n2:ter:imperf		rzad.
+> brzydnęłoby	brzydnąć	cond:sg:n1.n2:ter:imperf		rzad.
+> brzydnęłobym	brzydnąć	cond:sg:n1.n2:pri:imperf		rzad.
+> brzydnęłobyś	brzydnąć	cond:sg:n1.n2:sec:imperf		rzad.
+> brzydnęłom	brzydnąć	praet:sg:n1.n2:pri:imperf		rzad.
+> brzydnęłoś	brzydnąć	praet:sg:n1.n2:sec:imperf		rzad.
+> brzydnęły	brzydnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
+> brzydnęły	brzydnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> brzydnęłyby	brzydnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> brzydnęłybyście	brzydnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> brzydnęłybyśmy	brzydnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+> brzydnęłyście	brzydnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> brzydnęłyśmy	brzydnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+271927a271967
+> brzydnie	brzydnąć	fin:sg:ter:imperf		rzad.
+271928a271969
+> brzydniecie	brzydnąć	fin:pl:sec:imperf		rzad.
+271929a271971
+> brzydniemy	brzydnąć	fin:pl:pri:imperf		rzad.
+271930a271973
+> brzydniesz	brzydnąć	fin:sg:sec:imperf		rzad.
+271939a271983
+> brzydnięto	brzydnąć	imps:imperf		rzad.
+271940a271985
+> brzydnij	brzydnąć	impt:sg:sec:imperf		rzad.
+271941a271987
+> brzydnijcie	brzydnąć	impt:pl:sec:imperf		rzad.
+271942a271989
+> brzydnijmy	brzydnąć	impt:pl:pri:imperf		rzad.
+293117c293164
+< b	były	brev:pun
+---
+> b	były	brev:pun		
+296763c296810
+< cal	caloria	brev:npun
+---
+> cal	caloria	brev:npun		
+306177c306224
+< C	celownik	brev:pun
+---
+> C	celownik	brev:pun		jęz.
+307999c308046
+< c	cent	brev:npun
+---
+> c	cent	brev:npun		
+309781c309828
+< cm	centymetr	brev:npun
+---
+> cm	centymetr	brev:npun		
+353880,353914c353927,353961
+< chudliby	chudnąć	cond:pl:m1.p1:ter:imperf		
+< chudlibyście	chudnąć	cond:pl:m1.p1:sec:imperf		
+< chudlibyśmy	chudnąć	cond:pl:m1.p1:pri:imperf		
+< chudli	chudnąć	praet:pl:m1.p1:imperf		
+< chudli	chudnąć	praet:pl:m1.p1:ter:imperf		
+< chudliście	chudnąć	praet:pl:m1.p1:sec:imperf		
+< chudliśmy	chudnąć	praet:pl:m1.p1:pri:imperf		
+< chudłaby	chudnąć	cond:sg:f:ter:imperf		
+< chudłabym	chudnąć	cond:sg:f:pri:imperf		
+< chudłabyś	chudnąć	cond:sg:f:sec:imperf		
+< chudła	chudnąć	praet:sg:f:imperf		
+< chudła	chudnąć	praet:sg:f:ter:imperf		
+< chudłam	chudnąć	praet:sg:f:pri:imperf		
+< chudłaś	chudnąć	praet:sg:f:sec:imperf		
+< chudłby	chudnąć	cond:sg:m1.m2.m3:ter:imperf		
+< chudłbym	chudnąć	cond:sg:m1.m2.m3:pri:imperf		
+< chudłbyś	chudnąć	cond:sg:m1.m2.m3:sec:imperf		
+< chudł	chudnąć	praet:sg:m1.m2.m3:imperf		
+< chudł	chudnąć	praet:sg:m1.m2.m3:ter:imperf		
+< chudłem	chudnąć	praet:sg:m1.m2.m3:pri:imperf		
+< chudłeś	chudnąć	praet:sg:m1.m2.m3:sec:imperf		
+< chudłoby	chudnąć	cond:sg:n1.n2:ter:imperf		
+< chudłobym	chudnąć	cond:sg:n1.n2:pri:imperf		
+< chudłobyś	chudnąć	cond:sg:n1.n2:sec:imperf		
+< chudło	chudnąć	praet:sg:n1.n2:imperf		
+< chudło	chudnąć	praet:sg:n1.n2:ter:imperf		
+< chudłom	chudnąć	praet:sg:n1.n2:pri:imperf		
+< chudłoś	chudnąć	praet:sg:n1.n2:sec:imperf		
+< chudłyby	chudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+< chudłybyście	chudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+< chudłybyśmy	chudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+< chudły	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+< chudły	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+< chudłyście	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+< chudłyśmy	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+---
+> chudliby	chudnąć	cond:pl:m1.p1:ter:imperf		rzad.
+> chudlibyście	chudnąć	cond:pl:m1.p1:sec:imperf		rzad.
+> chudlibyśmy	chudnąć	cond:pl:m1.p1:pri:imperf		rzad.
+> chudli	chudnąć	praet:pl:m1.p1:imperf		rzad.
+> chudli	chudnąć	praet:pl:m1.p1:ter:imperf		rzad.
+> chudliście	chudnąć	praet:pl:m1.p1:sec:imperf		rzad.
+> chudliśmy	chudnąć	praet:pl:m1.p1:pri:imperf		rzad.
+> chudłaby	chudnąć	cond:sg:f:ter:imperf		rzad.
+> chudłabym	chudnąć	cond:sg:f:pri:imperf		rzad.
+> chudłabyś	chudnąć	cond:sg:f:sec:imperf		rzad.
+> chudła	chudnąć	praet:sg:f:imperf		rzad.
+> chudła	chudnąć	praet:sg:f:ter:imperf		rzad.
+> chudłam	chudnąć	praet:sg:f:pri:imperf		rzad.
+> chudłaś	chudnąć	praet:sg:f:sec:imperf		rzad.
+> chudłby	chudnąć	cond:sg:m1.m2.m3:ter:imperf		rzad.
+> chudłbym	chudnąć	cond:sg:m1.m2.m3:pri:imperf		rzad.
+> chudłbyś	chudnąć	cond:sg:m1.m2.m3:sec:imperf		rzad.
+> chudł	chudnąć	praet:sg:m1.m2.m3:imperf		rzad.
+> chudł	chudnąć	praet:sg:m1.m2.m3:ter:imperf		rzad.
+> chudłem	chudnąć	praet:sg:m1.m2.m3:pri:imperf		rzad.
+> chudłeś	chudnąć	praet:sg:m1.m2.m3:sec:imperf		rzad.
+> chudłoby	chudnąć	cond:sg:n1.n2:ter:imperf		rzad.
+> chudłobym	chudnąć	cond:sg:n1.n2:pri:imperf		rzad.
+> chudłobyś	chudnąć	cond:sg:n1.n2:sec:imperf		rzad.
+> chudło	chudnąć	praet:sg:n1.n2:imperf		rzad.
+> chudło	chudnąć	praet:sg:n1.n2:ter:imperf		rzad.
+> chudłom	chudnąć	praet:sg:n1.n2:pri:imperf		rzad.
+> chudłoś	chudnąć	praet:sg:n1.n2:sec:imperf		rzad.
+> chudłyby	chudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> chudłybyście	chudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> chudłybyśmy	chudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+> chudły	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
+> chudły	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> chudłyście	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> chudłyśmy	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+353917c353964,353965
+< chudnąc	chudnąć	pcon:imperf		
+---
+> chudnąc	chudnąć	pcon:imperf		daw.
+> chudnąc	chudnąć	pcon:imperf		rzad.
+353924c353972,353973
+< chudną	chudnąć	fin:pl:ter:imperf		
+---
+> chudną	chudnąć	fin:pl:ter:imperf		daw.
+> chudną	chudnąć	fin:pl:ter:imperf		rzad.
+353933,353938c353982,354028
+< chudnąć	chudnąć	inf:imperf		
+< chudnę	chudnąć	fin:sg:pri:imperf		
+< chudnie	chudnąć	fin:sg:ter:imperf		
+< chudniecie	chudnąć	fin:pl:sec:imperf		
+< chudniemy	chudnąć	fin:pl:pri:imperf		
+< chudniesz	chudnąć	fin:sg:sec:imperf		
+---
+> chudnąć	chudnąć	inf:imperf		daw.
+> chudnąć	chudnąć	inf:imperf		rzad.
+> chudnąłby	chudnąć	cond:sg:m1.m2.m3:ter:imperf		daw.
+> chudnąłbym	chudnąć	cond:sg:m1.m2.m3:pri:imperf		daw.
+> chudnąłbyś	chudnąć	cond:sg:m1.m2.m3:sec:imperf		daw.
+> chudnął	chudnąć	praet:sg:m1.m2.m3:imperf		daw.
+> chudnął	chudnąć	praet:sg:m1.m2.m3:ter:imperf		daw.
+> chudnąłem	chudnąć	praet:sg:m1.m2.m3:pri:imperf		daw.
+> chudnąłeś	chudnąć	praet:sg:m1.m2.m3:sec:imperf		daw.
+> chudnę	chudnąć	fin:sg:pri:imperf		daw.
+> chudnę	chudnąć	fin:sg:pri:imperf		rzad.
+> chudnęliby	chudnąć	cond:pl:m1.p1:ter:imperf		daw.
+> chudnęlibyście	chudnąć	cond:pl:m1.p1:sec:imperf		daw.
+> chudnęlibyśmy	chudnąć	cond:pl:m1.p1:pri:imperf		daw.
+> chudnęli	chudnąć	praet:pl:m1.p1:imperf		daw.
+> chudnęli	chudnąć	praet:pl:m1.p1:ter:imperf		daw.
+> chudnęliście	chudnąć	praet:pl:m1.p1:sec:imperf		daw.
+> chudnęliśmy	chudnąć	praet:pl:m1.p1:pri:imperf		daw.
+> chudnęłaby	chudnąć	cond:sg:f:ter:imperf		daw.
+> chudnęłabym	chudnąć	cond:sg:f:pri:imperf		daw.
+> chudnęłabyś	chudnąć	cond:sg:f:sec:imperf		daw.
+> chudnęła	chudnąć	praet:sg:f:imperf		daw.
+> chudnęła	chudnąć	praet:sg:f:ter:imperf		daw.
+> chudnęłam	chudnąć	praet:sg:f:pri:imperf		daw.
+> chudnęłaś	chudnąć	praet:sg:f:sec:imperf		daw.
+> chudnęłoby	chudnąć	cond:sg:n1.n2:ter:imperf		daw.
+> chudnęłobym	chudnąć	cond:sg:n1.n2:pri:imperf		daw.
+> chudnęłobyś	chudnąć	cond:sg:n1.n2:sec:imperf		daw.
+> chudnęło	chudnąć	praet:sg:n1.n2:imperf		daw.
+> chudnęło	chudnąć	praet:sg:n1.n2:ter:imperf		daw.
+> chudnęłom	chudnąć	praet:sg:n1.n2:pri:imperf		daw.
+> chudnęłoś	chudnąć	praet:sg:n1.n2:sec:imperf		daw.
+> chudnęłyby	chudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
+> chudnęłybyście	chudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
+> chudnęłybyśmy	chudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+> chudnęły	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
+> chudnęły	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
+> chudnęłyście	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
+> chudnęłyśmy	chudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+> chudnie	chudnąć	fin:sg:ter:imperf		daw.
+> chudnie	chudnąć	fin:sg:ter:imperf		rzad.
+> chudniecie	chudnąć	fin:pl:sec:imperf		daw.
+> chudniecie	chudnąć	fin:pl:sec:imperf		rzad.
+> chudniemy	chudnąć	fin:pl:pri:imperf		daw.
+> chudniemy	chudnąć	fin:pl:pri:imperf		rzad.
+> chudniesz	chudnąć	fin:sg:sec:imperf		daw.
+> chudniesz	chudnąć	fin:sg:sec:imperf		rzad.
+353947,353950c354037,354044
+< chudnięto	chudnąć	imps:imperf		
+< chudnij	chudnąć	impt:sg:sec:imperf		
+< chudnijcie	chudnąć	impt:pl:sec:imperf		
+< chudnijmy	chudnąć	impt:pl:pri:imperf		
+---
+> chudnięto	chudnąć	imps:imperf		daw.
+> chudnięto	chudnąć	imps:imperf		rzad.
+> chudnij	chudnąć	impt:sg:sec:imperf		daw.
+> chudnij	chudnąć	impt:sg:sec:imperf		rzad.
+> chudnijcie	chudnąć	impt:pl:sec:imperf		daw.
+> chudnijcie	chudnąć	impt:pl:sec:imperf		rzad.
+> chudnijmy	chudnąć	impt:pl:pri:imperf		daw.
+> chudnijmy	chudnąć	impt:pl:pri:imperf		rzad.
+361065c361159
+< cdn	ciag_dalszy_nastąpi	brev:pun
+---
+> cdn	ciag_dalszy_nastąpi	brev:pun		
+362931c363025
+< cd	ciąg_dalszy	brev:pun
+---
+> cd	ciąg_dalszy	brev:pun		
+364241a364336
+> cichnąc	cichnąć	pcon:imperf		rzad.
+364248a364344
+> cichną	cichnąć	fin:pl:ter:imperf		rzad.
+364257a364354,364361
+> cichnąć	cichnąć	inf:imperf		rzad.
+> cichnąłby	cichnąć	cond:sg:m1.m2.m3:ter:imperf		rzad.
+> cichnąłbym	cichnąć	cond:sg:m1.m2.m3:pri:imperf		rzad.
+> cichnąłbyś	cichnąć	cond:sg:m1.m2.m3:sec:imperf		rzad.
+> cichnął	cichnąć	praet:sg:m1.m2.m3:imperf		rzad.
+> cichnął	cichnąć	praet:sg:m1.m2.m3:ter:imperf		rzad.
+> cichnąłem	cichnąć	praet:sg:m1.m2.m3:pri:imperf		rzad.
+> cichnąłeś	cichnąć	praet:sg:m1.m2.m3:sec:imperf		rzad.
+364258a364363,364391
+> cichnę	cichnąć	fin:sg:pri:imperf		rzad.
+> cichnęliby	cichnąć	cond:pl:m1.p1:ter:imperf		rzad.
+> cichnęlibyście	cichnąć	cond:pl:m1.p1:sec:imperf		rzad.
+> cichnęlibyśmy	cichnąć	cond:pl:m1.p1:pri:imperf		rzad.
+> cichnęli	cichnąć	praet:pl:m1.p1:imperf		rzad.
+> cichnęli	cichnąć	praet:pl:m1.p1:ter:imperf		rzad.
+> cichnęliście	cichnąć	praet:pl:m1.p1:sec:imperf		rzad.
+> cichnęliśmy	cichnąć	praet:pl:m1.p1:pri:imperf		rzad.
+> cichnęłaby	cichnąć	cond:sg:f:ter:imperf		rzad.
+> cichnęłabym	cichnąć	cond:sg:f:pri:imperf		rzad.
+> cichnęłabyś	cichnąć	cond:sg:f:sec:imperf		rzad.
+> cichnęła	cichnąć	praet:sg:f:imperf		rzad.
+> cichnęła	cichnąć	praet:sg:f:ter:imperf		rzad.
+> cichnęłam	cichnąć	praet:sg:f:pri:imperf		rzad.
+> cichnęłaś	cichnąć	praet:sg:f:sec:imperf		rzad.
+> cichnęłoby	cichnąć	cond:sg:n1.n2:ter:imperf		rzad.
+> cichnęłobym	cichnąć	cond:sg:n1.n2:pri:imperf		rzad.
+> cichnęłobyś	cichnąć	cond:sg:n1.n2:sec:imperf		rzad.
+> cichnęło	cichnąć	praet:sg:n1.n2:imperf		rzad.
+> cichnęło	cichnąć	praet:sg:n1.n2:ter:imperf		rzad.
+> cichnęłom	cichnąć	praet:sg:n1.n2:pri:imperf		rzad.
+> cichnęłoś	cichnąć	praet:sg:n1.n2:sec:imperf		rzad.
+> cichnęłyby	cichnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> cichnęłybyście	cichnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> cichnęłybyśmy	cichnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+> cichnęły	cichnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
+> cichnęły	cichnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> cichnęłyście	cichnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> cichnęłyśmy	cichnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+364259a364393
+> cichnie	cichnąć	fin:sg:ter:imperf		rzad.
+364260a364395
+> cichniecie	cichnąć	fin:pl:sec:imperf		rzad.
+364261a364397
+> cichniemy	cichnąć	fin:pl:pri:imperf		rzad.
+364262a364399
+> cichniesz	cichnąć	fin:sg:sec:imperf		rzad.
+364271a364409
+> cichnięto	cichnąć	imps:imperf		rzad.
+364272a364411
+> cichnij	cichnąć	impt:sg:sec:imperf		rzad.
+364273a364413
+> cichnijcie	cichnąć	impt:pl:sec:imperf		rzad.
+364274a364415
+> cichnijmy	cichnąć	impt:pl:pri:imperf		rzad.
+374999c375140
+< C	cieśnina	brev:pun
+---
+> C	cieśnina	brev:pun		geogr.
+377416c377557
+< ca	circa	brev:npun
+---
+> ca	circa	brev:npun		
+384136c384277
+< Co	company	brev:pun
+---
+> Co	company	brev:pun		
+384983c385124
+< Corp	corporation	brev:pun
+---
+> Corp	corporation	brev:pun		
+385896c386037
+< c	córka	brev:pun
+---
+> c	córka	brev:pun		
+386471c386612
+< ccm	cubic_centimetre	brev:npun
+---
+> ccm	cubic_centimetre	brev:npun		
+420192c420333
+< cz	część	brev:pun
+---
+> cz	część	brev:pun		
+433533c433674
+< czyt	czytaj	brev:pun
+---
+> czyt	czytaj	brev:pun		
+440775c440916
+< dcn	dalszy_ciąg_nastąpi	brev:pun
+---
+> dcn	dalszy_ciąg_nastąpi	brev:pun		
+444657c444798
+< D	dativus	brev:pun
+---
+> D	dativus	brev:pun		jęz.
+446009c446150
+< d	dawny	brev:pun
+---
+> d	dawny	brev:pun		
+450530c450671
+< dl	decylitr	brev:npun
+---
+> dl	decylitr	brev:npun		
+456809,456810c456950,456951
+< dkg	dekagram	brev:npun
+< dag	dekagram	brev:npun
+---
+> dkg	dekagram	brev:npun		niezal.
+> dag	dekagram	brev:npun		
+485332c485473
+< DEM	Deutsche_Mark	brev:npun
+---
+> DEM	Deutsche_Mark	brev:npun		
+496758c496899
+< dpt	dioptria	brev:pun
+---
+> dpt	dioptria	brev:pun		
+503027c503168
+< dn	dnia	brev:pun
+---
+> dn	dnia	brev:pun		
+508575c508716
+< db	dobry_(stopień)	brev:pun
+---
+> db	dobry_(stopień)	brev:pun		
+510267c510408
+< doc	docent	brev:pun
+---
+> doc	docent	brev:pun		
+529561c529702
+< dk	dokonany	brev:npun
+---
+> dk	dokonany	brev:npun		jęz.
+532758c532899
+< h.c	(doktorat)_honoris_causa	brev:pun
+---
+> h.c	(doktorat)_honoris_causa	brev:pun		
+542041c542182
+< d	dom	brev:pun
+---
+> d	dom	brev:pun		
+543241,543242d543381
+< domaradzi	domarad	subst:pl:nom:m1	pospolita	daw.
+< domaradzi	domarad	subst:pl:voc:m1	pospolita	daw.
+549464c549603
+< dom	domowy	brev:pun
+---
+> dom	domowy	brev:pun		
+556739c556878
+< D	dopełniacz	brev:pun
+---
+> D	dopełniacz	brev:pun		jęz.
+573268a573408,573415
+> doschnąłby	doschnąć	cond:sg:m1.m2.m3:ter:perf		
+> doschnąłbym	doschnąć	cond:sg:m1.m2.m3:pri:perf		
+> doschnąłbyś	doschnąć	cond:sg:m1.m2.m3:sec:perf		
+> doschnął	doschnąć	praet:sg:m1.m2.m3:perf		
+> doschnął	doschnąć	praet:sg:m1.m2.m3:ter:perf		
+> doschnąłem	doschnąć	praet:sg:m1.m2.m3:pri:perf		
+> doschnąłeś	doschnąć	praet:sg:m1.m2.m3:sec:perf		
+> doschnąwszy	doschnąć	pant:perf		
+573269a573417,573444
+> doschnęliby	doschnąć	cond:pl:m1.p1:ter:perf		
+> doschnęlibyście	doschnąć	cond:pl:m1.p1:sec:perf		
+> doschnęlibyśmy	doschnąć	cond:pl:m1.p1:pri:perf		
+> doschnęli	doschnąć	praet:pl:m1.p1:perf		
+> doschnęli	doschnąć	praet:pl:m1.p1:ter:perf		
+> doschnęliście	doschnąć	praet:pl:m1.p1:sec:perf		
+> doschnęliśmy	doschnąć	praet:pl:m1.p1:pri:perf		
+> doschnęłaby	doschnąć	cond:sg:f:ter:perf		
+> doschnęłabym	doschnąć	cond:sg:f:pri:perf		
+> doschnęłabyś	doschnąć	cond:sg:f:sec:perf		
+> doschnęła	doschnąć	praet:sg:f:perf		
+> doschnęła	doschnąć	praet:sg:f:ter:perf		
+> doschnęłam	doschnąć	praet:sg:f:pri:perf		
+> doschnęłaś	doschnąć	praet:sg:f:sec:perf		
+> doschnęłoby	doschnąć	cond:sg:n1.n2:ter:perf		
+> doschnęłobym	doschnąć	cond:sg:n1.n2:pri:perf		
+> doschnęłobyś	doschnąć	cond:sg:n1.n2:sec:perf		
+> doschnęło	doschnąć	praet:sg:n1.n2:perf		
+> doschnęło	doschnąć	praet:sg:n1.n2:ter:perf		
+> doschnęłom	doschnąć	praet:sg:n1.n2:pri:perf		
+> doschnęłoś	doschnąć	praet:sg:n1.n2:sec:perf		
+> doschnęłyby	doschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> doschnęłybyście	doschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> doschnęłybyśmy	doschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> doschnęły	doschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> doschnęły	doschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> doschnęłyście	doschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> doschnęłyśmy	doschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+579376c579551
+< ds	do_spraw	brev:pun
+---
+> ds	do_spraw	brev:pun		
+580003c580178
+< dst	dostateczny_(stopień)	brev:pun
+---
+> dst	dostateczny_(stopień)	brev:pun		
+595499c595674
+< dot	dotyczy	brev:pun
+---
+> dot	dotyczy	brev:pun		
+655319c655494
+< dyr	dyrektor	brev:pun
+---
+> dyr	dyrektor	brev:pun		
+670455c670630
+< Dz	Dzieje_(Apostolskie)	brev:npun
+---
+> Dz	Dzieje_(Apostolskie)	brev:npun		
+671824c671999
+< dz	dziennik	brev:pun
+---
+> dz	dziennik	brev:pun		
+671977c672152
+< Dz.U	Dziennik_Ustaw	brev:pun
+---
+> Dz.U	Dziennik_Ustaw	brev:pun		
+672016c672191
+< d	dzień	brev:pun
+---
+> d	dzień	brev:pun		
+734938c735113
+< etc	et_cetera	brev:pun
+---
+> etc	et_cetera	brev:pun		
+738652c738827
+< EUR	euro	brev:npun
+---
+> EUR	euro	brev:npun		
+741972c742147
+< ew	ewentualnie	brev:pun
+---
+> ew	ewentualnie	brev:pun		
+766173c766348
+< f	femininum	brev:pun
+---
+> f	femininum	brev:pun		jęz.
+843705c843880
+< GW	Gazeta_Wyborcza	brev:npun
+---
+> GW	Gazeta_Wyborcza	brev:npun		
+849516c849691
+< gen	generał	brev:pun
+---
+> gen	generał	brev:pun		
+849979c850154
+< Gen	Genesis	brev:pun
+---
+> Gen	Genesis	brev:pun		
+850010c850185
+< G	genetivus	brev:pun
+---
+> G	genetivus	brev:pun		jęz.
+861141c861316
+< GB	gigabajt	brev:npun
+---
+> GB	gigabajt	brev:npun		komp.
+885243,885244c885418,885419
+< godz	godzina	brev:pun
+< g	godzina	brev:pun
+---
+> godz	godzina	brev:pun		
+> g	godzina	brev:pun		
+889246,889262c889421,889437
+< gołodupcach	gołodupiec	subst:pl:loc:m1	pospolita	
+< gołodupca	gołodupiec	subst:sg:acc:m1	pospolita	
+< gołodupca	gołodupiec	subst:sg:gen:m1	pospolita	
+< gołodupcami	gołodupiec	subst:pl:inst:m1	pospolita	
+< gołodupce	gołodupiec	depr:pl:nom:m2	pospolita	
+< gołodupce	gołodupiec	depr:pl:voc:m2	pospolita	
+< gołodupcem	gołodupiec	subst:sg:inst:m1	pospolita	
+< gołodupcom	gołodupiec	subst:pl:dat:m1	pospolita	
+< gołodupcowi	gołodupiec	subst:sg:dat:m1	pospolita	
+< gołodupców	gołodupiec	subst:pl:acc:m1	pospolita	
+< gołodupców	gołodupiec	subst:pl:gen:m1	pospolita	
+< gołodupcu	gołodupiec	subst:sg:loc:m1	pospolita	
+< gołodupcu	gołodupiec	subst:sg:voc:m1	pospolita	
+< gołodupcy	gołodupiec	subst:pl:nom:m1	pospolita	
+< gołodupcy	gołodupiec	subst:pl:voc:m1	pospolita	
+< gołodupcze	gołodupiec	subst:sg:voc:m1	pospolita	
+< gołodupiec	gołodupiec	subst:sg:nom:m1	pospolita	
+---
+> gołodupcach	gołodupiec	subst:pl:loc:m1	pospolita	pot.
+> gołodupca	gołodupiec	subst:sg:acc:m1	pospolita	pot.
+> gołodupca	gołodupiec	subst:sg:gen:m1	pospolita	pot.
+> gołodupcami	gołodupiec	subst:pl:inst:m1	pospolita	pot.
+> gołodupce	gołodupiec	depr:pl:nom:m2	pospolita	pot.
+> gołodupce	gołodupiec	depr:pl:voc:m2	pospolita	pot.
+> gołodupcem	gołodupiec	subst:sg:inst:m1	pospolita	pot.
+> gołodupcom	gołodupiec	subst:pl:dat:m1	pospolita	pot.
+> gołodupcowi	gołodupiec	subst:sg:dat:m1	pospolita	pot.
+> gołodupców	gołodupiec	subst:pl:acc:m1	pospolita	pot.
+> gołodupców	gołodupiec	subst:pl:gen:m1	pospolita	pot.
+> gołodupcu	gołodupiec	subst:sg:loc:m1	pospolita	pot.
+> gołodupcu	gołodupiec	subst:sg:voc:m1	pospolita	pot.
+> gołodupcy	gołodupiec	subst:pl:nom:m1	pospolita	pot.
+> gołodupcy	gołodupiec	subst:pl:voc:m1	pospolita	pot.
+> gołodupcze	gołodupiec	subst:sg:voc:m1	pospolita	pot.
+> gołodupiec	gołodupiec	subst:sg:nom:m1	pospolita	pot.
+904593c904768
+< g	gram	brev:npun
+---
+> g	gram	brev:npun		
+915071c915246
+< gr	grosz	brev:npun
+---
+> gr	grosz	brev:npun		
+920755c920930
+< gr	grupa	brev:pun
+---
+> gr	grupa	brev:pun		
+951645c951820
+< hm	harcmistrz	brev:pun
+---
+> hm	harcmistrz	brev:pun		
+951660c951835
+< hm	harcmistrzyni	brev:pun
+---
+> hm	harcmistrzyni	brev:pun		
+959129c959304
+< ha	hektar	brev:npun
+---
+> ha	hektar	brev:npun		
+959392c959567
+< hl	hektolitr	brev:npun
+---
+> hl	hektolitr	brev:npun		
+967225c967400
+< Hz	hertz	brev:npun
+---
+> Hz	hertz	brev:npun		fiz.
+985779,985794c985954,985969
+< honwedach	honwed	subst:pl:loc:m1	pospolita	
+< honweda	honwed	subst:sg:acc:m1	pospolita	
+< honweda	honwed	subst:sg:gen:m1	pospolita	
+< honwedami	honwed	subst:pl:inst:m1	pospolita	
+< honwedem	honwed	subst:sg:inst:m1	pospolita	
+< honwed	honwed	subst:sg:nom:m1	pospolita	
+< honwedom	honwed	subst:pl:dat:m1	pospolita	
+< honwedowi	honwed	subst:sg:dat:m1	pospolita	
+< honwedów	honwed	subst:pl:acc:m1	pospolita	
+< honwedów	honwed	subst:pl:gen:m1	pospolita	
+< honwedy	honwed	depr:pl:nom:m2	pospolita	
+< honwedy	honwed	depr:pl:voc:m2	pospolita	
+< honwedzie	honwed	subst:sg:loc:m1	pospolita	
+< honwedzie	honwed	subst:sg:voc:m1	pospolita	
+< honwedzi	honwed	subst:pl:nom:m1	pospolita	
+< honwedzi	honwed	subst:pl:voc:m1	pospolita	
+---
+> honwedach	honwed	subst:pl:loc:m1	pospolita	daw.
+> honweda	honwed	subst:sg:acc:m1	pospolita	daw.
+> honweda	honwed	subst:sg:gen:m1	pospolita	daw.
+> honwedami	honwed	subst:pl:inst:m1	pospolita	daw.
+> honwedem	honwed	subst:sg:inst:m1	pospolita	daw.
+> honwed	honwed	subst:sg:nom:m1	pospolita	daw.
+> honwedom	honwed	subst:pl:dat:m1	pospolita	daw.
+> honwedowi	honwed	subst:sg:dat:m1	pospolita	daw.
+> honwedów	honwed	subst:pl:acc:m1	pospolita	daw.
+> honwedów	honwed	subst:pl:gen:m1	pospolita	daw.
+> honwedy	honwed	depr:pl:nom:m2	pospolita	daw.
+> honwedy	honwed	depr:pl:voc:m2	pospolita	daw.
+> honwedzie	honwed	subst:sg:loc:m1	pospolita	daw.
+> honwedzie	honwed	subst:sg:voc:m1	pospolita	daw.
+> honwedzi	honwed	subst:pl:nom:m1	pospolita	daw.
+> honwedzi	honwed	subst:pl:voc:m1	pospolita	daw.
+1000465,1000466c1000640,1000641
+< ib	ibidem	brev:pun
+< ibid	ibidem	brev:pun
+---
+> ib	ibidem	brev:pun		
+> ibid	ibidem	brev:pun		
+1010790c1010965
+< im	imienia	brev:pun
+---
+> im	imienia	brev:pun		
+1017116c1017291
+< in	inaczej	brev:pun
+---
+> in	inaczej	brev:pun		
+1019238c1019413
+< ie	indoeuropejski	brev:pun
+---
+> ie	indoeuropejski	brev:pun		
+1029089c1029264
+< in	inny	brev:pun
+---
+> in	inny	brev:pun		
+1031975c1032150
+< I	instrumentalis	brev:pun
+---
+> I	instrumentalis	brev:pun		jęz.
+1051406c1051581
+< itd	i_tak_dalej	brev:pun
+---
+> itd	i_tak_dalej	brev:pun		
+1052302c1052477
+< itp	i_tym_podobne	brev:pun
+---
+> itp	i_tym_podobne	brev:pun		
+1061291c1061466
+< jw	jak_wyżej	brev:pun
+---
+> jw	jak_wyżej	brev:pun		
+1072034c1072209
+< JWP	Jaśnie_Wielmożna_Pani	brev:npun
+---
+> JWP	Jaśnie_Wielmożna_Pani	brev:npun		daw.
+1072049c1072224
+< JWP	Jaśnie_Wielmożny_Pan	brev:npun
+---
+> JWP	Jaśnie_Wielmożny_Pan	brev:npun		daw.
+1090532c1090707
+< J	jezioro	brev:pun
+---
+> J	jezioro	brev:pun		geogr.
+1101181,1101182c1101356,1101357
+< jr	junior	brev:pun
+< jun	junior	brev:pun
+---
+> jr	junior	brev:pun		
+> jun	junior	brev:pun		
+1117745c1117920
+< kal	kaloria	brev:pun
+---
+> kal	kaloria	brev:pun		
+1134192c1134367
+< kpt	kapitan	brev:pun
+---
+> kpt	kapitan	brev:pun		
+1136518c1136693
+< kpr	kapral	brev:pun
+---
+> kpr	kapral	brev:pun		
+1187646c1187821
+< kB	kilobajt	brev:npun
+---
+> kB	kilobajt	brev:npun		komp.
+1187746c1187921
+< kg	kilogram	brev:npun
+---
+> kg	kilogram	brev:npun		
+1187837c1188012
+< kHz	kilohertz	brev:npun
+---
+> kHz	kilohertz	brev:npun		fiz.
+1187853c1188028
+< kcal	kilokaloria	brev:npun
+---
+> kcal	kilokaloria	brev:npun		fiz.
+1187882c1188057
+< km	kilometr	brev:npun
+---
+> km	kilometr	brev:npun		
+1188100c1188275
+< kW	kilowat	brev:npun
+---
+> kW	kilowat	brev:npun		fiz.
+1188129c1188304
+< kWh	kilowatogodzina	brev:npun
+---
+> kWh	kilowatogodzina	brev:npun		fiz.
+1196370c1196545
+< kl	klasa	brev:pun
+---
+> kl	klasa	brev:pun		
+1211043,1211077c1211218,1211252
+< kładliby	kładnąć	cond:pl:m1.p1:ter:imperf		daw.
+< kładlibyście	kładnąć	cond:pl:m1.p1:sec:imperf		daw.
+< kładlibyśmy	kładnąć	cond:pl:m1.p1:pri:imperf		daw.
+< kładli	kładnąć	praet:pl:m1.p1:imperf		daw.
+< kładli	kładnąć	praet:pl:m1.p1:ter:imperf		daw.
+< kładliście	kładnąć	praet:pl:m1.p1:sec:imperf		daw.
+< kładliśmy	kładnąć	praet:pl:m1.p1:pri:imperf		daw.
+< kładłaby	kładnąć	cond:sg:f:ter:imperf		daw.
+< kładłabym	kładnąć	cond:sg:f:pri:imperf		daw.
+< kładłabyś	kładnąć	cond:sg:f:sec:imperf		daw.
+< kładła	kładnąć	praet:sg:f:imperf		daw.
+< kładła	kładnąć	praet:sg:f:ter:imperf		daw.
+< kładłam	kładnąć	praet:sg:f:pri:imperf		daw.
+< kładłaś	kładnąć	praet:sg:f:sec:imperf		daw.
+< kładłby	kładnąć	cond:sg:m1.m2.m3:ter:imperf		daw.
+< kładłbym	kładnąć	cond:sg:m1.m2.m3:pri:imperf		daw.
+< kładłbyś	kładnąć	cond:sg:m1.m2.m3:sec:imperf		daw.
+< kładłem	kładnąć	praet:sg:m1.m2.m3:pri:imperf		daw.
+< kładłeś	kładnąć	praet:sg:m1.m2.m3:sec:imperf		daw.
+< kładł	kładnąć	praet:sg:m1.m2.m3:imperf		daw.
+< kładł	kładnąć	praet:sg:m1.m2.m3:ter:imperf		daw.
+< kładłoby	kładnąć	cond:sg:n1.n2:ter:imperf		daw.
+< kładłobym	kładnąć	cond:sg:n1.n2:pri:imperf		daw.
+< kładłobyś	kładnąć	cond:sg:n1.n2:sec:imperf		daw.
+< kładło	kładnąć	praet:sg:n1.n2:imperf		daw.
+< kładło	kładnąć	praet:sg:n1.n2:ter:imperf		daw.
+< kładłom	kładnąć	praet:sg:n1.n2:pri:imperf		daw.
+< kładłoś	kładnąć	praet:sg:n1.n2:sec:imperf		daw.
+< kładłyby	kładnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
+< kładłybyście	kładnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
+< kładłybyśmy	kładnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+< kładły	kładnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
+< kładły	kładnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
+< kładłyście	kładnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
+< kładłyśmy	kładnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+---
+> kładliby	kładnąć	cond:pl:m1.p1:ter:imperf		daw.|reg.
+> kładlibyście	kładnąć	cond:pl:m1.p1:sec:imperf		daw.|reg.
+> kładlibyśmy	kładnąć	cond:pl:m1.p1:pri:imperf		daw.|reg.
+> kładli	kładnąć	praet:pl:m1.p1:imperf		daw.|reg.
+> kładli	kładnąć	praet:pl:m1.p1:ter:imperf		daw.|reg.
+> kładliście	kładnąć	praet:pl:m1.p1:sec:imperf		daw.|reg.
+> kładliśmy	kładnąć	praet:pl:m1.p1:pri:imperf		daw.|reg.
+> kładłaby	kładnąć	cond:sg:f:ter:imperf		daw.|reg.
+> kładłabym	kładnąć	cond:sg:f:pri:imperf		daw.|reg.
+> kładłabyś	kładnąć	cond:sg:f:sec:imperf		daw.|reg.
+> kładła	kładnąć	praet:sg:f:imperf		daw.|reg.
+> kładła	kładnąć	praet:sg:f:ter:imperf		daw.|reg.
+> kładłam	kładnąć	praet:sg:f:pri:imperf		daw.|reg.
+> kładłaś	kładnąć	praet:sg:f:sec:imperf		daw.|reg.
+> kładłby	kładnąć	cond:sg:m1.m2.m3:ter:imperf		daw.|reg.
+> kładłbym	kładnąć	cond:sg:m1.m2.m3:pri:imperf		daw.|reg.
+> kładłbyś	kładnąć	cond:sg:m1.m2.m3:sec:imperf		daw.|reg.
+> kładłem	kładnąć	praet:sg:m1.m2.m3:pri:imperf		daw.|reg.
+> kładłeś	kładnąć	praet:sg:m1.m2.m3:sec:imperf		daw.|reg.
+> kładł	kładnąć	praet:sg:m1.m2.m3:imperf		daw.|reg.
+> kładł	kładnąć	praet:sg:m1.m2.m3:ter:imperf		daw.|reg.
+> kładłoby	kładnąć	cond:sg:n1.n2:ter:imperf		daw.|reg.
+> kładłobym	kładnąć	cond:sg:n1.n2:pri:imperf		daw.|reg.
+> kładłobyś	kładnąć	cond:sg:n1.n2:sec:imperf		daw.|reg.
+> kładło	kładnąć	praet:sg:n1.n2:imperf		daw.|reg.
+> kładło	kładnąć	praet:sg:n1.n2:ter:imperf		daw.|reg.
+> kładłom	kładnąć	praet:sg:n1.n2:pri:imperf		daw.|reg.
+> kładłoś	kładnąć	praet:sg:n1.n2:sec:imperf		daw.|reg.
+> kładłyby	kładnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.|reg.
+> kładłybyście	kładnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.|reg.
+> kładłybyśmy	kładnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.|reg.
+> kładły	kładnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.|reg.
+> kładły	kładnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.|reg.
+> kładłyście	kładnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.|reg.
+> kładłyśmy	kładnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.|reg.
+1211086c1211261
+< kładnąc	kładnąć	pcon:imperf		daw.
+---
+> kładnąc	kładnąć	pcon:imperf		daw.|reg.
+1211095,1211101c1211270,1211276
+< kładnąć	kładnąć	inf:imperf		daw.
+< kładną	kładnąć	fin:pl:ter:imperf		daw.
+< kładnę	kładnąć	fin:sg:pri:imperf		daw.
+< kładniecie	kładnąć	fin:pl:sec:imperf		daw.
+< kładnie	kładnąć	fin:sg:ter:imperf		daw.
+< kładniemy	kładnąć	fin:pl:pri:imperf		daw.
+< kładniesz	kładnąć	fin:sg:sec:imperf		daw.
+---
+> kładnąć	kładnąć	inf:imperf		daw.|reg.
+> kładną	kładnąć	fin:pl:ter:imperf		daw.|reg.
+> kładnę	kładnąć	fin:sg:pri:imperf		daw.|reg.
+> kładniecie	kładnąć	fin:pl:sec:imperf		daw.|reg.
+> kładnie	kładnąć	fin:sg:ter:imperf		daw.|reg.
+> kładniemy	kładnąć	fin:pl:pri:imperf		daw.|reg.
+> kładniesz	kładnąć	fin:sg:sec:imperf		daw.|reg.
+1211110,1211113c1211285,1211288
+< kładnięto	kładnąć	imps:imperf		daw.
+< kładnijcie	kładnąć	impt:pl:sec:imperf		daw.
+< kładnij	kładnąć	impt:sg:sec:imperf		daw.
+< kładnijmy	kładnąć	impt:pl:pri:imperf		daw.
+---
+> kładnięto	kładnąć	imps:imperf		daw.|reg.
+> kładnijcie	kładnąć	impt:pl:sec:imperf		daw.|reg.
+> kładnij	kładnąć	impt:sg:sec:imperf		daw.|reg.
+> kładnijmy	kładnąć	impt:pl:pri:imperf		daw.|reg.
+1225727c1225902
+< k	kodeks	brev:pun
+---
+> k	kodeks	brev:pun		
+1233762c1233937
+< kol	kolega	brev:pun
+---
+> kol	kolega	brev:pun		
+1235474c1235649
+< kol	koleżanka	brev:pun
+---
+> kol	koleżanka	brev:pun		
+1241692c1241867
+< k	koło	brev:pun
+---
+> k	koło	brev:pun		
+1250707c1250882
+< k	kompania	brev:npun
+---
+> k	kompania	brev:npun		wojsk.
+1310056,1310072c1310231,1310247
+< koślawcach	koślawiec	subst:pl:loc:m1	pospolita	
+< koślawca	koślawiec	subst:sg:acc:m1	pospolita	
+< koślawca	koślawiec	subst:sg:gen:m1	pospolita	
+< koślawcami	koślawiec	subst:pl:inst:m1	pospolita	
+< koślawce	koślawiec	depr:pl:nom:m2	pospolita	
+< koślawce	koślawiec	depr:pl:voc:m2	pospolita	
+< koślawcem	koślawiec	subst:sg:inst:m1	pospolita	
+< koślawcom	koślawiec	subst:pl:dat:m1	pospolita	
+< koślawcowi	koślawiec	subst:sg:dat:m1	pospolita	
+< koślawców	koślawiec	subst:pl:acc:m1	pospolita	
+< koślawców	koślawiec	subst:pl:gen:m1	pospolita	
+< koślawcu	koślawiec	subst:sg:loc:m1	pospolita	
+< koślawcu	koślawiec	subst:sg:voc:m1	pospolita	
+< koślawcy	koślawiec	subst:pl:nom:m1	pospolita	
+< koślawcy	koślawiec	subst:pl:voc:m1	pospolita	
+< koślawcze	koślawiec	subst:sg:voc:m1	pospolita	
+< koślawiec	koślawiec	subst:sg:nom:m1	pospolita	
+---
+> koślawcach	koślawiec	subst:pl:loc:m1	pospolita	pogard.
+> koślawca	koślawiec	subst:sg:acc:m1	pospolita	pogard.
+> koślawca	koślawiec	subst:sg:gen:m1	pospolita	pogard.
+> koślawcami	koślawiec	subst:pl:inst:m1	pospolita	pogard.
+> koślawce	koślawiec	depr:pl:nom:m2	pospolita	pogard.
+> koślawce	koślawiec	depr:pl:voc:m2	pospolita	pogard.
+> koślawcem	koślawiec	subst:sg:inst:m1	pospolita	pogard.
+> koślawcom	koślawiec	subst:pl:dat:m1	pospolita	pogard.
+> koślawcowi	koślawiec	subst:sg:dat:m1	pospolita	pogard.
+> koślawców	koślawiec	subst:pl:acc:m1	pospolita	pogard.
+> koślawców	koślawiec	subst:pl:gen:m1	pospolita	pogard.
+> koślawcu	koślawiec	subst:sg:loc:m1	pospolita	pogard.
+> koślawcu	koślawiec	subst:sg:voc:m1	pospolita	pogard.
+> koślawcy	koślawiec	subst:pl:nom:m1	pospolita	pogard.
+> koślawcy	koślawiec	subst:pl:voc:m1	pospolita	pogard.
+> koślawcze	koślawiec	subst:sg:voc:m1	pospolita	pogard.
+> koślawiec	koślawiec	subst:sg:nom:m1	pospolita	pogard.
+1361541,1361542c1361716,1361717
+< x	ksiądz	brev:pun
+< ks	ksiądz	brev:pun
+---
+> x	ksiądz	brev:pun		
+> ks	ksiądz	brev:pun		
+1361737c1361912
+< x	książę	brev:pun
+---
+> x	książę	brev:pun		
+1362091,1362130c1362266,1362305
+< Ab	Księga_Abdiasza	brev:npun
+< Ag	Księga_Aggeusza	brev:npun
+< Am	Księga_Amosa	brev:npun
+< Ba	Księga_Barucha	brev:npun
+< Dn	Księga_Daniela	brev:npun
+< Est	Księga_Estery	brev:npun
+< Ezd	Księga_Ezdrasza	brev:npun
+< Ez	Księga_Ezechiela	brev:npun
+< Eze	Księga_Ezechiela	brev:npun
+< Ha	Księga_Habakuka	brev:npun
+< Hab	Księga_Habakuka	brev:npun
+< Hi	Księga_Hioba	brev:npun
+< Iz	Księga_Izajasza	brev:npun
+< Jr	Księga_Jeremiasza	brev:npun
+< Jer	Księga_Jeremiasza	brev:pun
+< Job	Księga_Joba	brev:npun
+< Jl	Księga_Joela	brev:npun
+< Jon	Księga_Jonasza	brev:npun
+< Joz	Księga_Jozuego	brev:pun
+< Jdt	Księga_Judyty	brev:npun
+< Kpł	Księga_Kapłańska	brev:npun
+< Kazn	Księga_Kaznodziei_(Koheleta)	brev:pun
+< Koh	Księga_Koheleta_(Kaznodziei)	brev:npun
+< Krn	Księga_Kronik	brev:npun
+< Lm	Księga_Lamentacje	brev:npun
+< Lam	Księga_Lamentacje	brev:npun
+< Lb	Księga_Liczb	brev:npun
+< Ml	Księga_Malachiasza	brev:npun
+< Mal	Księga_Malachiasza	brev:npun
+< Mdr	Księga_Mądrości	brev:npun
+< Mi	Księga_Micheasza	brev:npun
+< Na	Księga_Nahuma	brev:npun
+< Nah	Księga_Nahuma	brev:npun
+< Ne	Księga_Nehemiasza	brev:npun
+< Neh	Księga_Nehemiasza	brev:npun
+< Oz	Księga_Ozeasza	brev:npun
+< Pwt	Księga_Powtórzonego_Prawa	brev:npun
+< Pr	Księga_Przysłów_(Przypowieści_Salomona)	brev:pun
+< Prz	Księga_Przysłów_(Przypowieści_Salomona)	brev:npun
+< Ps	Księga_Psalmów	brev:npun
+---
+> Ab	Księga_Abdiasza	brev:npun		
+> Ag	Księga_Aggeusza	brev:npun		
+> Am	Księga_Amosa	brev:npun		
+> Ba	Księga_Barucha	brev:npun		
+> Dn	Księga_Daniela	brev:npun		
+> Est	Księga_Estery	brev:npun		
+> Ezd	Księga_Ezdrasza	brev:npun		
+> Ez	Księga_Ezechiela	brev:npun		
+> Eze	Księga_Ezechiela	brev:npun		
+> Ha	Księga_Habakuka	brev:npun		
+> Hab	Księga_Habakuka	brev:npun		
+> Hi	Księga_Hioba	brev:npun		
+> Iz	Księga_Izajasza	brev:npun		
+> Jr	Księga_Jeremiasza	brev:npun		
+> Jer	Księga_Jeremiasza	brev:pun		
+> Job	Księga_Joba	brev:npun		
+> Jl	Księga_Joela	brev:npun		
+> Jon	Księga_Jonasza	brev:npun		
+> Joz	Księga_Jozuego	brev:pun		
+> Jdt	Księga_Judyty	brev:npun		
+> Kpł	Księga_Kapłańska	brev:npun		
+> Kazn	Księga_Kaznodziei_(Koheleta)	brev:pun		
+> Koh	Księga_Koheleta_(Kaznodziei)	brev:npun		
+> Krn	Księga_Kronik	brev:npun		
+> Lm	Księga_Lamentacje	brev:npun		
+> Lam	Księga_Lamentacje	brev:npun		
+> Lb	Księga_Liczb	brev:npun		
+> Ml	Księga_Malachiasza	brev:npun		
+> Mal	Księga_Malachiasza	brev:npun		
+> Mdr	Księga_Mądrości	brev:npun		
+> Mi	Księga_Micheasza	brev:npun		
+> Na	Księga_Nahuma	brev:npun		
+> Nah	Księga_Nahuma	brev:npun		
+> Ne	Księga_Nehemiasza	brev:npun		
+> Neh	Księga_Nehemiasza	brev:npun		
+> Oz	Księga_Ozeasza	brev:npun		
+> Pwt	Księga_Powtórzonego_Prawa	brev:npun		
+> Pr	Księga_Przysłów_(Przypowieści_Salomona)	brev:pun		
+> Prz	Księga_Przysłów_(Przypowieści_Salomona)	brev:npun		
+> Ps	Księga_Psalmów	brev:npun		
+1362190c1362365
+< Rdz	Księga_Rodzaju	brev:npun
+---
+> Rdz	Księga_Rodzaju	brev:npun		
+1362245c1362420
+< Rut	Księga_Rut	brev:npun
+---
+> Rut	Księga_Rut	brev:npun		
+1362278,1362283c1362453,1362458
+< Sdz	Księga_Sędziów	brev:npun
+< So	Księga_Sofoniasza	brev:npun
+< Sof	Księga_Sofoniasza	brev:npun
+< Syr	Księga_Syracha	brev:npun
+< Wj	Księga_Wyjścia	brev:npun
+< Za	Księga_Zachariasza	brev:npun
+---
+> Sdz	Księga_Sędziów	brev:npun		
+> So	Księga_Sofoniasza	brev:npun		
+> Sof	Księga_Sofoniasza	brev:npun		
+> Syr	Księga_Syracha	brev:npun		
+> Wj	Księga_Wyjścia	brev:npun		
+> Za	Księga_Zachariasza	brev:npun		
+1412073c1412248
+< l	lata	brev:pun
+---
+> l	lata	brev:pun		
+1437809,1437810c1437984,1437985
+< lm	liczba_mnoga	brev:pun
+< lp	liczba_pojedyncza	brev:pun
+---
+> lm	liczba_mnoga	brev:pun		jęz.
+> lp	liczba_pojedyncza	brev:pun		jęz.
+1442483c1442658
+< Ltd	limited	brev:pun
+---
+> Ltd	limited	brev:pun		
+1447718,1447727c1447893,1447902
+< Ef	List_do_Efezjan	brev:npun
+< Flm	List_do_Filemona	brev:npun
+< Flp	List_do_Filipian	brev:npun
+< Ga	List_do_Galatów	brev:npun
+< Gal	List_do_Galatów	brev:npun
+< Hbr	List_do_Hebrajczyków	brev:npun
+< Hebr	List_do_Hebrajczyków	brev:pun
+< Kol	List_do_Kolosan	brev:npun
+< Rz	List_do_Rzymian	brev:npun
+< Tt	List_do_Tytusa	brev:npun
+---
+> Ef	List_do_Efezjan	brev:npun		
+> Flm	List_do_Filemona	brev:npun		
+> Flp	List_do_Filipian	brev:npun		
+> Ga	List_do_Galatów	brev:npun		
+> Gal	List_do_Galatów	brev:npun		
+> Hbr	List_do_Hebrajczyków	brev:npun		
+> Hebr	List_do_Hebrajczyków	brev:pun		
+> Kol	List_do_Kolosan	brev:npun		
+> Rz	List_do_Rzymian	brev:npun		
+> Tt	List_do_Tytusa	brev:npun		
+1451794c1451969
+< l	litr	brev:npun
+---
+> l	litr	brev:npun		
+1455582c1455757
+< L	locativus	brev:pun
+---
+> L	locativus	brev:pun		jęz.
+1510234c1510409
+< M-me	Madame	brev:npun
+---
+> M-me	Madame	brev:npun		
+1551191c1551366
+< mar	marynarz	brev:pun
+---
+> mar	marynarz	brev:pun		
+1559161c1559336
+< MB	Matka_Boska	brev:npun
+---
+> MB	Matka_Boska	brev:npun		rel.
+1570986c1571161
+< MB	megabajt	brev:npun
+---
+> MB	megabajt	brev:npun		komp.
+1571357c1571532
+< MHz	Megahertz	brev:npun
+---
+> MHz	Megahertz	brev:npun		
+1585168c1585343
+< m	metr	brev:npun
+---
+> m	metr	brev:npun		
+1588433c1588608
+< m	męski_(też_rodzaj)	brev:pun
+---
+> m	męski_(też_rodzaj)	brev:pun		jęz.
+1592166c1592341
+< M	mianownik	brev:pun
+---
+> M	mianownik	brev:pun		jęz.
+1592963c1593138
+< m	miasto	brev:pun
+---
+> m	miasto	brev:pun		
+1597872,1597873c1598047,1598048
+< Msc	miejscownik	brev:pun
+< Ms	miejscownik	brev:pun
+---
+> Msc	miejscownik	brev:pun		jęz.
+> Ms	miejscownik	brev:pun		jęz.
+1599804c1599979
+< mrn	mierny	brev:pun
+---
+> mrn	mierny	brev:pun		
+1604796c1604971
+< m.in	między_innymi	brev:pun
+---
+> m.in	między_innymi	brev:pun		
+1618724c1618899
+< mld	miliard	brev:npun
+---
+> mld	miliard	brev:npun		
+1619070c1619245
+< mg	miligram	brev:npun
+---
+> mg	miligram	brev:npun		
+1619151c1619326
+< ml	mililitr	brev:npun
+---
+> ml	mililitr	brev:npun		
+1619204c1619379
+< mm	milimetr	brev:npun
+---
+> mm	milimetr	brev:npun		
+1619313c1619488
+< mln	milion	brev:npun
+---
+> mln	milion	brev:npun		
+1626789c1626964
+< min	minuta	brev:npun
+---
+> min	minuta	brev:npun		
+1630750c1630925
+< Mr	Mister	brev:npun
+---
+> Mr	Mister	brev:npun		
+1631002c1631177
+< Mrs	Mistress	brev:npun
+---
+> Mrs	Mistress	brev:npun		
+1664380c1664555
+< m	morze	brev:pun
+---
+> m	morze	brev:pun		geogr.
+1667830,1667831c1668005,1668006
+< m/s	motor_ship	brev:npun
+< m/y	motor_yacht	brev:npun
+---
+> m/s	motor_ship	brev:npun		mors.
+> m/y	motor_yacht	brev:npun		mors.
+1708823c1708998
+< n	nad	brev:pun
+---
+> n	nad	brev:pun		
+1729927c1730102
+< n.p.m	nad_poziomem_morza	brev:pun
+---
+> n.p.m	nad_poziomem_morza	brev:pun		
+1736301a1736477,1736484
+> nadstygnąć	nadstygnąć	inf:perf		rzad.
+> nadstygnąłbym	nadstygnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> nadstygnąłby	nadstygnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> nadstygnąłbyś	nadstygnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> nadstygnąłem	nadstygnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> nadstygnąłeś	nadstygnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> nadstygnął	nadstygnąć	praet:sg:m1.m2.m3:perf		rzad.
+> nadstygnął	nadstygnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+1736302a1736486,1736515
+> nadstygną	nadstygnąć	fin:pl:ter:perf		rzad.
+> nadstygnąwszy	nadstygnąć	pant:perf		rzad.
+> nadstygnęliby	nadstygnąć	cond:pl:m1.p1:ter:perf		rzad.
+> nadstygnęlibyście	nadstygnąć	cond:pl:m1.p1:sec:perf		rzad.
+> nadstygnęlibyśmy	nadstygnąć	cond:pl:m1.p1:pri:perf		rzad.
+> nadstygnęli	nadstygnąć	praet:pl:m1.p1:perf		rzad.
+> nadstygnęli	nadstygnąć	praet:pl:m1.p1:ter:perf		rzad.
+> nadstygnęliście	nadstygnąć	praet:pl:m1.p1:sec:perf		rzad.
+> nadstygnęliśmy	nadstygnąć	praet:pl:m1.p1:pri:perf		rzad.
+> nadstygnęłabym	nadstygnąć	cond:sg:f:pri:perf		rzad.
+> nadstygnęłaby	nadstygnąć	cond:sg:f:ter:perf		rzad.
+> nadstygnęłabyś	nadstygnąć	cond:sg:f:sec:perf		rzad.
+> nadstygnęłam	nadstygnąć	praet:sg:f:pri:perf		rzad.
+> nadstygnęła	nadstygnąć	praet:sg:f:perf		rzad.
+> nadstygnęła	nadstygnąć	praet:sg:f:ter:perf		rzad.
+> nadstygnęłaś	nadstygnąć	praet:sg:f:sec:perf		rzad.
+> nadstygnęłobym	nadstygnąć	cond:sg:n1.n2:pri:perf		rzad.
+> nadstygnęłoby	nadstygnąć	cond:sg:n1.n2:ter:perf		rzad.
+> nadstygnęłobyś	nadstygnąć	cond:sg:n1.n2:sec:perf		rzad.
+> nadstygnęłom	nadstygnąć	praet:sg:n1.n2:pri:perf		rzad.
+> nadstygnęło	nadstygnąć	praet:sg:n1.n2:perf		rzad.
+> nadstygnęło	nadstygnąć	praet:sg:n1.n2:ter:perf		rzad.
+> nadstygnęłoś	nadstygnąć	praet:sg:n1.n2:sec:perf		rzad.
+> nadstygnęłyby	nadstygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> nadstygnęłybyście	nadstygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> nadstygnęłybyśmy	nadstygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> nadstygnęły	nadstygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> nadstygnęły	nadstygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> nadstygnęłyście	nadstygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> nadstygnęłyśmy	nadstygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+1736303a1736517
+> nadstygnę	nadstygnąć	fin:sg:pri:perf		rzad.
+1736304a1736519
+> nadstygniecie	nadstygnąć	fin:pl:sec:perf		rzad.
+1736305a1736521
+> nadstygniemy	nadstygnąć	fin:pl:pri:perf		rzad.
+1736306a1736523
+> nadstygnie	nadstygnąć	fin:sg:ter:perf		rzad.
+1736307a1736525
+> nadstygniesz	nadstygnąć	fin:sg:sec:perf		rzad.
+1736325a1736544
+> nadstygnięto	nadstygnąć	imps:perf		rzad.
+1736333a1736553
+> nadstygnijcie	nadstygnąć	impt:pl:sec:perf		rzad.
+1736334a1736555
+> nadstygnijmy	nadstygnąć	impt:pl:pri:perf		rzad.
+1736335a1736557
+> nadstygnij	nadstygnąć	impt:sg:sec:perf		rzad.
+1745466c1745688
+< nzw	nadzwyczajny	brev:pun
+---
+> nzw	nadzwyczajny	brev:pun		
+1762815c1763037
+< NMP	Najświętsza_Maryja_Panna	brev:npun
+---
+> NMP	Najświętsza_Maryja_Panna	brev:npun		
+1805567c1805789
+< np	na_przykład	brev:pun
+---
+> np	na_przykład	brev:pun		
+1817653c1817875
+< N	narzędnik	brev:pun
+---
+> N	narzędnik	brev:pun		jęz.
+1836250c1836472
+< n.e	naszej_ery	brev:pun
+---
+> n.e	naszej_ery	brev:pun		
+1842323c1842545
+< nt	na_temat	brev:pun
+---
+> nt	na_temat	brev:pun		
+2059535c2059757
+< ndk	niedokonany	brev:npun
+---
+> ndk	niedokonany	brev:npun		
+2067609c2067831
+< ndst	niedostateczny_(stopień)	brev:pun
+---
+> ndst	niedostateczny_(stopień)	brev:pun		
+2349543c2349765
+< nlb	nieliczbowany	brev:pun
+---
+> nlb	nieliczbowany	brev:pun		
+2492582c2492804
+< ndm	nieodmienny	brev:pun
+---
+> ndm	nieodmienny	brev:pun		
+3118252c3118474
+< n	nijaki_(rodzaj)	brev:pun
+---
+> n	nijaki_(rodzaj)	brev:pun		jęz.
+3128305c3128527
+< N.N	nomen_nescio	brev:pun
+---
+> N.N	nomen_nescio	brev:pun		
+3128621c3128843
+< N	nominativus	brev:pun
+---
+> N	nominativus	brev:pun		jęz.
+3133167c3133389
+< nb	nota_bene	brev:pun
+---
+> nb	nota_bene	brev:pun		
+3139341c3139563
+< n	nowy	brev:pun
+---
+> n	nowy	brev:pun		
+3139412c3139634
+< PLN	nowy_polski_złoty	brev:npun
+---
+> PLN	nowy_polski_złoty	brev:npun		
+3139429c3139651
+< NT	Nowy_Testament	brev:npun
+---
+> NT	Nowy_Testament	brev:npun		
+3140723c3140945
+< n/s	nuclear_ship	brev:npun
+---
+> n/s	nuclear_ship	brev:npun		mors.
+3158965a3159188,3159195
+> obeschnąć	obeschnąć	inf:perf		rzad.
+> obeschnąłbym	obeschnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> obeschnąłby	obeschnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> obeschnąłbyś	obeschnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> obeschnąłem	obeschnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> obeschnąłeś	obeschnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> obeschnął	obeschnąć	praet:sg:m1.m2.m3:perf		rzad.
+> obeschnął	obeschnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+3158966a3159197,3159226
+> obeschną	obeschnąć	fin:pl:ter:perf		rzad.
+> obeschnąwszy	obeschnąć	pant:perf		rzad.
+> obeschnęliby	obeschnąć	cond:pl:m1.p1:ter:perf		rzad.
+> obeschnęlibyście	obeschnąć	cond:pl:m1.p1:sec:perf		rzad.
+> obeschnęlibyśmy	obeschnąć	cond:pl:m1.p1:pri:perf		rzad.
+> obeschnęli	obeschnąć	praet:pl:m1.p1:perf		rzad.
+> obeschnęli	obeschnąć	praet:pl:m1.p1:ter:perf		rzad.
+> obeschnęliście	obeschnąć	praet:pl:m1.p1:sec:perf		rzad.
+> obeschnęliśmy	obeschnąć	praet:pl:m1.p1:pri:perf		rzad.
+> obeschnęłabym	obeschnąć	cond:sg:f:pri:perf		rzad.
+> obeschnęłaby	obeschnąć	cond:sg:f:ter:perf		rzad.
+> obeschnęłabyś	obeschnąć	cond:sg:f:sec:perf		rzad.
+> obeschnęłam	obeschnąć	praet:sg:f:pri:perf		rzad.
+> obeschnęła	obeschnąć	praet:sg:f:perf		rzad.
+> obeschnęła	obeschnąć	praet:sg:f:ter:perf		rzad.
+> obeschnęłaś	obeschnąć	praet:sg:f:sec:perf		rzad.
+> obeschnęłobym	obeschnąć	cond:sg:n1.n2:pri:perf		rzad.
+> obeschnęłoby	obeschnąć	cond:sg:n1.n2:ter:perf		rzad.
+> obeschnęłobyś	obeschnąć	cond:sg:n1.n2:sec:perf		rzad.
+> obeschnęłom	obeschnąć	praet:sg:n1.n2:pri:perf		rzad.
+> obeschnęło	obeschnąć	praet:sg:n1.n2:perf		rzad.
+> obeschnęło	obeschnąć	praet:sg:n1.n2:ter:perf		rzad.
+> obeschnęłoś	obeschnąć	praet:sg:n1.n2:sec:perf		rzad.
+> obeschnęłyby	obeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> obeschnęłybyście	obeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> obeschnęłybyśmy	obeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> obeschnęły	obeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> obeschnęły	obeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> obeschnęłyście	obeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> obeschnęłyśmy	obeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+3158967a3159228
+> obeschnę	obeschnąć	fin:sg:pri:perf		rzad.
+3158968a3159230
+> obeschniecie	obeschnąć	fin:pl:sec:perf		rzad.
+3158969a3159232
+> obeschniemy	obeschnąć	fin:pl:pri:perf		rzad.
+3158970a3159234
+> obeschnie	obeschnąć	fin:sg:ter:perf		rzad.
+3158971a3159236
+> obeschniesz	obeschnąć	fin:sg:sec:perf		rzad.
+3158989a3159255
+> obeschnięto	obeschnąć	imps:perf		rzad.
+3158997a3159264
+> obeschnijcie	obeschnąć	impt:pl:sec:perf		rzad.
+3158998a3159266
+> obeschnijmy	obeschnąć	impt:pl:pri:perf		rzad.
+3158999a3159268
+> obeschnij	obeschnąć	impt:sg:sec:perf		rzad.
+3234500c3234769
+< ob	obywatel	brev:pun
+---
+> ob	obywatel	brev:pun		
+3234545c3234814
+< ob	obywatelka	brev:pun
+---
+> ob	obywatelka	brev:pun		
+3285557a3285827,3285834
+> odgadnąć	odgadnąć	inf:perf		daw.
+> odgadnąłbym	odgadnąć	cond:sg:m1.m2.m3:pri:perf		daw.
+> odgadnąłby	odgadnąć	cond:sg:m1.m2.m3:ter:perf		daw.
+> odgadnąłbyś	odgadnąć	cond:sg:m1.m2.m3:sec:perf		daw.
+> odgadnąłem	odgadnąć	praet:sg:m1.m2.m3:pri:perf		daw.
+> odgadnąłeś	odgadnąć	praet:sg:m1.m2.m3:sec:perf		daw.
+> odgadnął	odgadnąć	praet:sg:m1.m2.m3:perf		daw.
+> odgadnął	odgadnąć	praet:sg:m1.m2.m3:ter:perf		daw.
+3285558a3285836,3285865
+> odgadną	odgadnąć	fin:pl:ter:perf		daw.
+> odgadnąwszy	odgadnąć	pant:perf		daw.
+> odgadnęliby	odgadnąć	cond:pl:m1.p1:ter:perf		daw.
+> odgadnęlibyście	odgadnąć	cond:pl:m1.p1:sec:perf		daw.
+> odgadnęlibyśmy	odgadnąć	cond:pl:m1.p1:pri:perf		daw.
+> odgadnęli	odgadnąć	praet:pl:m1.p1:perf		daw.
+> odgadnęli	odgadnąć	praet:pl:m1.p1:ter:perf		daw.
+> odgadnęliście	odgadnąć	praet:pl:m1.p1:sec:perf		daw.
+> odgadnęliśmy	odgadnąć	praet:pl:m1.p1:pri:perf		daw.
+> odgadnęłabym	odgadnąć	cond:sg:f:pri:perf		daw.
+> odgadnęłaby	odgadnąć	cond:sg:f:ter:perf		daw.
+> odgadnęłabyś	odgadnąć	cond:sg:f:sec:perf		daw.
+> odgadnęłam	odgadnąć	praet:sg:f:pri:perf		daw.
+> odgadnęła	odgadnąć	praet:sg:f:perf		daw.
+> odgadnęła	odgadnąć	praet:sg:f:ter:perf		daw.
+> odgadnęłaś	odgadnąć	praet:sg:f:sec:perf		daw.
+> odgadnęłobym	odgadnąć	cond:sg:n1.n2:pri:perf		daw.
+> odgadnęłoby	odgadnąć	cond:sg:n1.n2:ter:perf		daw.
+> odgadnęłobyś	odgadnąć	cond:sg:n1.n2:sec:perf		daw.
+> odgadnęłom	odgadnąć	praet:sg:n1.n2:pri:perf		daw.
+> odgadnęło	odgadnąć	praet:sg:n1.n2:perf		daw.
+> odgadnęło	odgadnąć	praet:sg:n1.n2:ter:perf		daw.
+> odgadnęłoś	odgadnąć	praet:sg:n1.n2:sec:perf		daw.
+> odgadnęłyby	odgadnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+> odgadnęłybyście	odgadnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> odgadnęłybyśmy	odgadnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> odgadnęły	odgadnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+> odgadnęły	odgadnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+> odgadnęłyście	odgadnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> odgadnęłyśmy	odgadnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+3285559a3285867
+> odgadnę	odgadnąć	fin:sg:pri:perf		daw.
+3285560a3285869
+> odgadniecie	odgadnąć	fin:pl:sec:perf		daw.
+3285561a3285871
+> odgadniemy	odgadnąć	fin:pl:pri:perf		daw.
+3285562a3285873
+> odgadnie	odgadnąć	fin:sg:ter:perf		daw.
+3285563a3285875
+> odgadniesz	odgadnąć	fin:sg:sec:perf		daw.
+3285581a3285894
+> odgadnięto	odgadnąć	imps:perf		daw.
+3285589a3285903
+> odgadnijcie	odgadnąć	impt:pl:sec:perf		daw.
+3285590a3285905
+> odgadnijmy	odgadnąć	impt:pl:pri:perf		daw.
+3285591a3285907
+> odgadnij	odgadnąć	impt:sg:sec:perf		daw.
+3419016c3419332
+< ogp	ogólnopolski	brev:pun
+---
+> ogp	ogólnopolski	brev:pun		
+3424738c3425054
+< o	ojciec_(odnosi_się_do_księży_zakonnych)	brev:pun
+---
+> o	ojciec_(odnosi_się_do_księży_zakonnych)	brev:pun		
+3433919c3434235
+< ok	około	brev:pun
+---
+> ok	około	brev:pun		
+3516736a3517053,3517059
+> oschnąłbym	oschnąć	cond:sg:m1.m2.m3:pri:perf		
+> oschnąłby	oschnąć	cond:sg:m1.m2.m3:ter:perf		
+> oschnąłbyś	oschnąć	cond:sg:m1.m2.m3:sec:perf		
+> oschnąłem	oschnąć	praet:sg:m1.m2.m3:pri:perf		
+> oschnąłeś	oschnąć	praet:sg:m1.m2.m3:sec:perf		
+> oschnął	oschnąć	praet:sg:m1.m2.m3:perf		
+> oschnął	oschnąć	praet:sg:m1.m2.m3:ter:perf		
+3516737a3517061,3517089
+> oschnąwszy	oschnąć	pant:perf		
+> oschnęliby	oschnąć	cond:pl:m1.p1:ter:perf		
+> oschnęlibyście	oschnąć	cond:pl:m1.p1:sec:perf		
+> oschnęlibyśmy	oschnąć	cond:pl:m1.p1:pri:perf		
+> oschnęli	oschnąć	praet:pl:m1.p1:perf		
+> oschnęli	oschnąć	praet:pl:m1.p1:ter:perf		
+> oschnęliście	oschnąć	praet:pl:m1.p1:sec:perf		
+> oschnęliśmy	oschnąć	praet:pl:m1.p1:pri:perf		
+> oschnęłabym	oschnąć	cond:sg:f:pri:perf		
+> oschnęłaby	oschnąć	cond:sg:f:ter:perf		
+> oschnęłabyś	oschnąć	cond:sg:f:sec:perf		
+> oschnęłam	oschnąć	praet:sg:f:pri:perf		
+> oschnęła	oschnąć	praet:sg:f:perf		
+> oschnęła	oschnąć	praet:sg:f:ter:perf		
+> oschnęłaś	oschnąć	praet:sg:f:sec:perf		
+> oschnęłobym	oschnąć	cond:sg:n1.n2:pri:perf		
+> oschnęłoby	oschnąć	cond:sg:n1.n2:ter:perf		
+> oschnęłobyś	oschnąć	cond:sg:n1.n2:sec:perf		
+> oschnęłom	oschnąć	praet:sg:n1.n2:pri:perf		
+> oschnęło	oschnąć	praet:sg:n1.n2:perf		
+> oschnęło	oschnąć	praet:sg:n1.n2:ter:perf		
+> oschnęłoś	oschnąć	praet:sg:n1.n2:sec:perf		
+> oschnęłyby	oschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> oschnęłybyście	oschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> oschnęłybyśmy	oschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> oschnęły	oschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> oschnęły	oschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> oschnęłyście	oschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> oschnęłyśmy	oschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+3527313a3527666,3527673
+> osłabnąć	osłabnąć	inf:perf		rzad.
+> osłabnąłbym	osłabnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> osłabnąłby	osłabnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> osłabnąłbyś	osłabnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> osłabnąłem	osłabnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> osłabnąłeś	osłabnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> osłabnął	osłabnąć	praet:sg:m1.m2.m3:perf		rzad.
+> osłabnął	osłabnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+3527314a3527675,3527704
+> osłabną	osłabnąć	fin:pl:ter:perf		rzad.
+> osłabnąwszy	osłabnąć	pant:perf		rzad.
+> osłabnęliby	osłabnąć	cond:pl:m1.p1:ter:perf		rzad.
+> osłabnęlibyście	osłabnąć	cond:pl:m1.p1:sec:perf		rzad.
+> osłabnęlibyśmy	osłabnąć	cond:pl:m1.p1:pri:perf		rzad.
+> osłabnęli	osłabnąć	praet:pl:m1.p1:perf		rzad.
+> osłabnęli	osłabnąć	praet:pl:m1.p1:ter:perf		rzad.
+> osłabnęliście	osłabnąć	praet:pl:m1.p1:sec:perf		rzad.
+> osłabnęliśmy	osłabnąć	praet:pl:m1.p1:pri:perf		rzad.
+> osłabnęłabym	osłabnąć	cond:sg:f:pri:perf		rzad.
+> osłabnęłaby	osłabnąć	cond:sg:f:ter:perf		rzad.
+> osłabnęłabyś	osłabnąć	cond:sg:f:sec:perf		rzad.
+> osłabnęłam	osłabnąć	praet:sg:f:pri:perf		rzad.
+> osłabnęła	osłabnąć	praet:sg:f:perf		rzad.
+> osłabnęła	osłabnąć	praet:sg:f:ter:perf		rzad.
+> osłabnęłaś	osłabnąć	praet:sg:f:sec:perf		rzad.
+> osłabnęłobym	osłabnąć	cond:sg:n1.n2:pri:perf		rzad.
+> osłabnęłoby	osłabnąć	cond:sg:n1.n2:ter:perf		rzad.
+> osłabnęłobyś	osłabnąć	cond:sg:n1.n2:sec:perf		rzad.
+> osłabnęłom	osłabnąć	praet:sg:n1.n2:pri:perf		rzad.
+> osłabnęło	osłabnąć	praet:sg:n1.n2:perf		rzad.
+> osłabnęło	osłabnąć	praet:sg:n1.n2:ter:perf		rzad.
+> osłabnęłoś	osłabnąć	praet:sg:n1.n2:sec:perf		rzad.
+> osłabnęłyby	osłabnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> osłabnęłybyście	osłabnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> osłabnęłybyśmy	osłabnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> osłabnęły	osłabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> osłabnęły	osłabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> osłabnęłyście	osłabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> osłabnęłyśmy	osłabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+3527315a3527706
+> osłabnę	osłabnąć	fin:sg:pri:perf		rzad.
+3527316a3527708
+> osłabniecie	osłabnąć	fin:pl:sec:perf		rzad.
+3527317a3527710
+> osłabniemy	osłabnąć	fin:pl:pri:perf		rzad.
+3527318a3527712
+> osłabnie	osłabnąć	fin:sg:ter:perf		rzad.
+3527319a3527714
+> osłabniesz	osłabnąć	fin:sg:sec:perf		rzad.
+3527328a3527724
+> osłabnięto	osłabnąć	imps:perf		rzad.
+3527329a3527726
+> osłabnijcie	osłabnąć	impt:pl:sec:perf		rzad.
+3527330a3527728
+> osłabnijmy	osłabnąć	impt:pl:pri:perf		rzad.
+3527331a3527730
+> osłabnij	osłabnąć	impt:sg:sec:perf		rzad.
+3542954a3543354,3543361
+> ostygnąć	ostygnąć	inf:perf		rzad.
+> ostygnąłbym	ostygnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> ostygnąłby	ostygnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> ostygnąłbyś	ostygnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> ostygnąłem	ostygnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> ostygnąłeś	ostygnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> ostygnął	ostygnąć	praet:sg:m1.m2.m3:perf		rzad.
+> ostygnął	ostygnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+3542955a3543363,3543392
+> ostygną	ostygnąć	fin:pl:ter:perf		rzad.
+> ostygnąwszy	ostygnąć	pant:perf		rzad.
+> ostygnęliby	ostygnąć	cond:pl:m1.p1:ter:perf		rzad.
+> ostygnęlibyście	ostygnąć	cond:pl:m1.p1:sec:perf		rzad.
+> ostygnęlibyśmy	ostygnąć	cond:pl:m1.p1:pri:perf		rzad.
+> ostygnęli	ostygnąć	praet:pl:m1.p1:perf		rzad.
+> ostygnęli	ostygnąć	praet:pl:m1.p1:ter:perf		rzad.
+> ostygnęliście	ostygnąć	praet:pl:m1.p1:sec:perf		rzad.
+> ostygnęliśmy	ostygnąć	praet:pl:m1.p1:pri:perf		rzad.
+> ostygnęłabym	ostygnąć	cond:sg:f:pri:perf		rzad.
+> ostygnęłaby	ostygnąć	cond:sg:f:ter:perf		rzad.
+> ostygnęłabyś	ostygnąć	cond:sg:f:sec:perf		rzad.
+> ostygnęłam	ostygnąć	praet:sg:f:pri:perf		rzad.
+> ostygnęła	ostygnąć	praet:sg:f:perf		rzad.
+> ostygnęła	ostygnąć	praet:sg:f:ter:perf		rzad.
+> ostygnęłaś	ostygnąć	praet:sg:f:sec:perf		rzad.
+> ostygnęłobym	ostygnąć	cond:sg:n1.n2:pri:perf		rzad.
+> ostygnęłoby	ostygnąć	cond:sg:n1.n2:ter:perf		rzad.
+> ostygnęłobyś	ostygnąć	cond:sg:n1.n2:sec:perf		rzad.
+> ostygnęłom	ostygnąć	praet:sg:n1.n2:pri:perf		rzad.
+> ostygnęło	ostygnąć	praet:sg:n1.n2:perf		rzad.
+> ostygnęło	ostygnąć	praet:sg:n1.n2:ter:perf		rzad.
+> ostygnęłoś	ostygnąć	praet:sg:n1.n2:sec:perf		rzad.
+> ostygnęłyby	ostygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> ostygnęłybyście	ostygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> ostygnęłybyśmy	ostygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> ostygnęły	ostygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> ostygnęły	ostygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> ostygnęłyście	ostygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> ostygnęłyśmy	ostygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+3542956a3543394
+> ostygnę	ostygnąć	fin:sg:pri:perf		rzad.
+3542957a3543396
+> ostygniecie	ostygnąć	fin:pl:sec:perf		rzad.
+3542958a3543398
+> ostygniemy	ostygnąć	fin:pl:pri:perf		rzad.
+3542959a3543400
+> ostygnie	ostygnąć	fin:sg:ter:perf		rzad.
+3542960a3543402
+> ostygniesz	ostygnąć	fin:sg:sec:perf		rzad.
+3542978a3543421
+> ostygnięto	ostygnąć	imps:perf		rzad.
+3542986a3543430
+> ostygnijcie	ostygnąć	impt:pl:sec:perf		rzad.
+3542987a3543432
+> ostygnijmy	ostygnąć	impt:pl:pri:perf		rzad.
+3542988a3543434
+> ostygnij	ostygnąć	impt:sg:sec:perf		rzad.
+3602523c3602969
+< p	pan	brev:pun
+---
+> p	pan	brev:pun		
+3604351c3604797
+< p	pani	brev:pun
+---
+> p	pani	brev:pun		
+3630119,3630120d3630564
+< pasierzbi	pasierzb	subst:pl:nom:m1	pospolita	daw.
+< pasierzbi	pasierzb	subst:pl:voc:m1	pospolita	daw.
+3639808c3640252
+< p	patrz	brev:pun
+---
+> p	patrz	brev:pun		
+3650335c3650779
+< p.o	pełniący_obowiązki	brev:pun
+---
+> p.o	pełniący_obowiązki	brev:pun		
+3672220c3672664
+< pt	piątek	brev:npun
+---
+> pt	piątek	brev:npun		
+3685880c3686324
+< P.n.P	Pieśń_nad_Pieśniami	brev:pun
+---
+> P.n.P	Pieśń_nad_Pieśniami	brev:pun		
+3690717c3691161
+< p	piętro	brev:pun
+---
+> p	piętro	brev:pun		
+3707777c3708221
+< pl	plac	brev:pun
+---
+> pl	plac	brev:pun		
+3717437c3717881
+< P.T	pleno_titulo	brev:pun
+---
+> P.T	pleno_titulo	brev:pun		
+3760421c3760865
+< PP	Poczta_Polska	brev:npun
+---
+> PP	Poczta_Polska	brev:npun		
+3769934c3770378
+< pchor	podchorąży	brev:pun
+---
+> pchor	podchorąży	brev:pun		
+3779635a3780080,3780087
+> podeschnąć	podeschnąć	inf:perf		rzad.
+> podeschnąłbym	podeschnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> podeschnąłby	podeschnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> podeschnąłbyś	podeschnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> podeschnąłem	podeschnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> podeschnąłeś	podeschnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> podeschnął	podeschnąć	praet:sg:m1.m2.m3:perf		rzad.
+> podeschnął	podeschnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+3779636a3780089,3780118
+> podeschną	podeschnąć	fin:pl:ter:perf		rzad.
+> podeschnąwszy	podeschnąć	pant:perf		rzad.
+> podeschnęliby	podeschnąć	cond:pl:m1.p1:ter:perf		rzad.
+> podeschnęlibyście	podeschnąć	cond:pl:m1.p1:sec:perf		rzad.
+> podeschnęlibyśmy	podeschnąć	cond:pl:m1.p1:pri:perf		rzad.
+> podeschnęli	podeschnąć	praet:pl:m1.p1:perf		rzad.
+> podeschnęli	podeschnąć	praet:pl:m1.p1:ter:perf		rzad.
+> podeschnęliście	podeschnąć	praet:pl:m1.p1:sec:perf		rzad.
+> podeschnęliśmy	podeschnąć	praet:pl:m1.p1:pri:perf		rzad.
+> podeschnęłabym	podeschnąć	cond:sg:f:pri:perf		rzad.
+> podeschnęłaby	podeschnąć	cond:sg:f:ter:perf		rzad.
+> podeschnęłabyś	podeschnąć	cond:sg:f:sec:perf		rzad.
+> podeschnęłam	podeschnąć	praet:sg:f:pri:perf		rzad.
+> podeschnęła	podeschnąć	praet:sg:f:perf		rzad.
+> podeschnęła	podeschnąć	praet:sg:f:ter:perf		rzad.
+> podeschnęłaś	podeschnąć	praet:sg:f:sec:perf		rzad.
+> podeschnęłobym	podeschnąć	cond:sg:n1.n2:pri:perf		rzad.
+> podeschnęłoby	podeschnąć	cond:sg:n1.n2:ter:perf		rzad.
+> podeschnęłobyś	podeschnąć	cond:sg:n1.n2:sec:perf		rzad.
+> podeschnęłom	podeschnąć	praet:sg:n1.n2:pri:perf		rzad.
+> podeschnęło	podeschnąć	praet:sg:n1.n2:perf		rzad.
+> podeschnęło	podeschnąć	praet:sg:n1.n2:ter:perf		rzad.
+> podeschnęłoś	podeschnąć	praet:sg:n1.n2:sec:perf		rzad.
+> podeschnęłyby	podeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> podeschnęłybyście	podeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> podeschnęłybyśmy	podeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> podeschnęły	podeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> podeschnęły	podeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> podeschnęłyście	podeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> podeschnęłyśmy	podeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+3779637a3780120
+> podeschnę	podeschnąć	fin:sg:pri:perf		rzad.
+3779638a3780122
+> podeschniecie	podeschnąć	fin:pl:sec:perf		rzad.
+3779639a3780124
+> podeschniemy	podeschnąć	fin:pl:pri:perf		rzad.
+3779640a3780126
+> podeschnie	podeschnąć	fin:sg:ter:perf		rzad.
+3779641a3780128
+> podeschniesz	podeschnąć	fin:sg:sec:perf		rzad.
+3779659a3780147
+> podeschnięto	podeschnąć	imps:perf		rzad.
+3779667a3780156
+> podeschnijcie	podeschnąć	impt:pl:sec:perf		rzad.
+3779668a3780158
+> podeschnijmy	podeschnąć	impt:pl:pri:perf		rzad.
+3779669a3780160
+> podeschnij	podeschnąć	impt:sg:sec:perf		rzad.
+3820222c3820713
+< ppor	podporucznik	brev:pun
+---
+> ppor	podporucznik	brev:pun		
+3820798c3821289
+< p.p.m	pod_poziomem_morza	brev:pun
+---
+> p.p.m	pod_poziomem_morza	brev:pun		
+3822080c3822571
+< ppł	podpułkownik	brev:pun
+---
+> ppł	podpułkownik	brev:pun		
+3849004c3849495
+< pt	pod_tytułem	brev:pun
+---
+> pt	pod_tytułem	brev:pun		
+3915786,3915787c3916277,3916278
+< PL	Polska	brev:npun
+< pol	polski	brev:pun
+---
+> PL	Polska	brev:npun		
+> pol	polski	brev:pun		
+3921271,3921272c3921762,3921763
+< płd	południowy	brev:pun
+< pd	południowy	brev:pun
+---
+> płd	południowy	brev:pun		
+> pd	południowy	brev:pun		geogr.
+3945807c3946298
+< pn	poniedziałek	brev:pun
+---
+> pn	poniedziałek	brev:pun		
+4013588c4014079
+< por	porównaj	brev:pun
+---
+> por	porównaj	brev:pun		
+4016416c4016907
+< por	porucznik	brev:pun
+---
+> por	porucznik	brev:pun		
+4021931a4022423,4022429
+> poschnąłbym	poschnąć	cond:sg:m1.m2.m3:pri:perf		
+> poschnąłby	poschnąć	cond:sg:m1.m2.m3:ter:perf		
+> poschnąłbyś	poschnąć	cond:sg:m1.m2.m3:sec:perf		
+> poschnąłem	poschnąć	praet:sg:m1.m2.m3:pri:perf		
+> poschnąłeś	poschnąć	praet:sg:m1.m2.m3:sec:perf		
+> poschnął	poschnąć	praet:sg:m1.m2.m3:perf		
+> poschnął	poschnąć	praet:sg:m1.m2.m3:ter:perf		
+4021932a4022431,4022459
+> poschnąwszy	poschnąć	pant:perf		
+> poschnęliby	poschnąć	cond:pl:m1.p1:ter:perf		
+> poschnęlibyście	poschnąć	cond:pl:m1.p1:sec:perf		
+> poschnęlibyśmy	poschnąć	cond:pl:m1.p1:pri:perf		
+> poschnęli	poschnąć	praet:pl:m1.p1:perf		
+> poschnęli	poschnąć	praet:pl:m1.p1:ter:perf		
+> poschnęliście	poschnąć	praet:pl:m1.p1:sec:perf		
+> poschnęliśmy	poschnąć	praet:pl:m1.p1:pri:perf		
+> poschnęłabym	poschnąć	cond:sg:f:pri:perf		
+> poschnęłaby	poschnąć	cond:sg:f:ter:perf		
+> poschnęłabyś	poschnąć	cond:sg:f:sec:perf		
+> poschnęłam	poschnąć	praet:sg:f:pri:perf		
+> poschnęła	poschnąć	praet:sg:f:perf		
+> poschnęła	poschnąć	praet:sg:f:ter:perf		
+> poschnęłaś	poschnąć	praet:sg:f:sec:perf		
+> poschnęłobym	poschnąć	cond:sg:n1.n2:pri:perf		
+> poschnęłoby	poschnąć	cond:sg:n1.n2:ter:perf		
+> poschnęłobyś	poschnąć	cond:sg:n1.n2:sec:perf		
+> poschnęłom	poschnąć	praet:sg:n1.n2:pri:perf		
+> poschnęło	poschnąć	praet:sg:n1.n2:perf		
+> poschnęło	poschnąć	praet:sg:n1.n2:ter:perf		
+> poschnęłoś	poschnąć	praet:sg:n1.n2:sec:perf		
+> poschnęłyby	poschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> poschnęłybyście	poschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> poschnęłybyśmy	poschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> poschnęły	poschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> poschnęły	poschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> poschnęłyście	poschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> poschnęłyśmy	poschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+4044020c4044547
+< ps	post_scriptum	brev:pun
+---
+> ps	post_scriptum	brev:pun		
+4085050c4085577
+< pow	powiat	brev:pun
+---
+> pow	powiat	brev:pun		
+4175599,4175600c4176126,4176127
+< płn	północny	brev:pun
+< pn	północny	brev:pun
+---
+> płn	północny	brev:pun		
+> pn	północny	brev:pun		
+4209983c4210510
+< prof	profesor	brev:pun
+---
+> prof	profesor	brev:pun		
+4272046c4272573
+< p.n.e	przed_naszą_erą	brev:pun
+---
+> p.n.e	przed_naszą_erą	brev:pun		
+4375592a4376120,4376127
+> przeschnąć	przeschnąć	inf:perf		rzad.
+> przeschnąłbym	przeschnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> przeschnąłby	przeschnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> przeschnąłbyś	przeschnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> przeschnąłem	przeschnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> przeschnąłeś	przeschnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> przeschnął	przeschnąć	praet:sg:m1.m2.m3:perf		rzad.
+> przeschnął	przeschnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+4375593a4376129,4376158
+> przeschną	przeschnąć	fin:pl:ter:perf		rzad.
+> przeschnąwszy	przeschnąć	pant:perf		rzad.
+> przeschnęliby	przeschnąć	cond:pl:m1.p1:ter:perf		rzad.
+> przeschnęlibyście	przeschnąć	cond:pl:m1.p1:sec:perf		rzad.
+> przeschnęlibyśmy	przeschnąć	cond:pl:m1.p1:pri:perf		rzad.
+> przeschnęli	przeschnąć	praet:pl:m1.p1:perf		rzad.
+> przeschnęli	przeschnąć	praet:pl:m1.p1:ter:perf		rzad.
+> przeschnęliście	przeschnąć	praet:pl:m1.p1:sec:perf		rzad.
+> przeschnęliśmy	przeschnąć	praet:pl:m1.p1:pri:perf		rzad.
+> przeschnęłabym	przeschnąć	cond:sg:f:pri:perf		rzad.
+> przeschnęłaby	przeschnąć	cond:sg:f:ter:perf		rzad.
+> przeschnęłabyś	przeschnąć	cond:sg:f:sec:perf		rzad.
+> przeschnęłam	przeschnąć	praet:sg:f:pri:perf		rzad.
+> przeschnęła	przeschnąć	praet:sg:f:perf		rzad.
+> przeschnęła	przeschnąć	praet:sg:f:ter:perf		rzad.
+> przeschnęłaś	przeschnąć	praet:sg:f:sec:perf		rzad.
+> przeschnęłobym	przeschnąć	cond:sg:n1.n2:pri:perf		rzad.
+> przeschnęłoby	przeschnąć	cond:sg:n1.n2:ter:perf		rzad.
+> przeschnęłobyś	przeschnąć	cond:sg:n1.n2:sec:perf		rzad.
+> przeschnęłom	przeschnąć	praet:sg:n1.n2:pri:perf		rzad.
+> przeschnęło	przeschnąć	praet:sg:n1.n2:perf		rzad.
+> przeschnęło	przeschnąć	praet:sg:n1.n2:ter:perf		rzad.
+> przeschnęłoś	przeschnąć	praet:sg:n1.n2:sec:perf		rzad.
+> przeschnęłyby	przeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> przeschnęłybyście	przeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> przeschnęłybyśmy	przeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> przeschnęły	przeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> przeschnęły	przeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> przeschnęłyście	przeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> przeschnęłyśmy	przeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+4375594a4376160
+> przeschnę	przeschnąć	fin:sg:pri:perf		rzad.
+4375595a4376162
+> przeschniecie	przeschnąć	fin:pl:sec:perf		rzad.
+4375596a4376164
+> przeschniemy	przeschnąć	fin:pl:pri:perf		rzad.
+4375597a4376166
+> przeschnie	przeschnąć	fin:sg:ter:perf		rzad.
+4375598a4376168
+> przeschniesz	przeschnąć	fin:sg:sec:perf		rzad.
+4375616a4376187
+> przeschnięto	przeschnąć	imps:perf		rzad.
+4375624a4376196
+> przeschnijcie	przeschnąć	impt:pl:sec:perf		rzad.
+4375625a4376198
+> przeschnijmy	przeschnąć	impt:pl:pri:perf		rzad.
+4375626a4376200
+> przeschnij	przeschnąć	impt:sg:sec:perf		rzad.
+4389856a4390431,4390438
+> przestygnąć	przestygnąć	inf:perf		rzad.
+> przestygnąłbym	przestygnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> przestygnąłby	przestygnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> przestygnąłbyś	przestygnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> przestygnąłem	przestygnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> przestygnąłeś	przestygnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> przestygnął	przestygnąć	praet:sg:m1.m2.m3:perf		rzad.
+> przestygnął	przestygnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+4389857a4390440,4390469
+> przestygną	przestygnąć	fin:pl:ter:perf		rzad.
+> przestygnąwszy	przestygnąć	pant:perf		rzad.
+> przestygnęliby	przestygnąć	cond:pl:m1.p1:ter:perf		rzad.
+> przestygnęlibyście	przestygnąć	cond:pl:m1.p1:sec:perf		rzad.
+> przestygnęlibyśmy	przestygnąć	cond:pl:m1.p1:pri:perf		rzad.
+> przestygnęli	przestygnąć	praet:pl:m1.p1:perf		rzad.
+> przestygnęli	przestygnąć	praet:pl:m1.p1:ter:perf		rzad.
+> przestygnęliście	przestygnąć	praet:pl:m1.p1:sec:perf		rzad.
+> przestygnęliśmy	przestygnąć	praet:pl:m1.p1:pri:perf		rzad.
+> przestygnęłabym	przestygnąć	cond:sg:f:pri:perf		rzad.
+> przestygnęłaby	przestygnąć	cond:sg:f:ter:perf		rzad.
+> przestygnęłabyś	przestygnąć	cond:sg:f:sec:perf		rzad.
+> przestygnęłam	przestygnąć	praet:sg:f:pri:perf		rzad.
+> przestygnęła	przestygnąć	praet:sg:f:perf		rzad.
+> przestygnęła	przestygnąć	praet:sg:f:ter:perf		rzad.
+> przestygnęłaś	przestygnąć	praet:sg:f:sec:perf		rzad.
+> przestygnęłobym	przestygnąć	cond:sg:n1.n2:pri:perf		rzad.
+> przestygnęłoby	przestygnąć	cond:sg:n1.n2:ter:perf		rzad.
+> przestygnęłobyś	przestygnąć	cond:sg:n1.n2:sec:perf		rzad.
+> przestygnęłom	przestygnąć	praet:sg:n1.n2:pri:perf		rzad.
+> przestygnęło	przestygnąć	praet:sg:n1.n2:perf		rzad.
+> przestygnęło	przestygnąć	praet:sg:n1.n2:ter:perf		rzad.
+> przestygnęłoś	przestygnąć	praet:sg:n1.n2:sec:perf		rzad.
+> przestygnęłyby	przestygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> przestygnęłybyście	przestygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> przestygnęłybyśmy	przestygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> przestygnęły	przestygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> przestygnęły	przestygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> przestygnęłyście	przestygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> przestygnęłyśmy	przestygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+4389858a4390471
+> przestygnę	przestygnąć	fin:sg:pri:perf		rzad.
+4389859a4390473
+> przestygniecie	przestygnąć	fin:pl:sec:perf		rzad.
+4389860a4390475
+> przestygniemy	przestygnąć	fin:pl:pri:perf		rzad.
+4389861a4390477
+> przestygnie	przestygnąć	fin:sg:ter:perf		rzad.
+4389862a4390479
+> przestygniesz	przestygnąć	fin:sg:sec:perf		rzad.
+4389880a4390498
+> przestygnięto	przestygnąć	imps:perf		rzad.
+4389888a4390507
+> przestygnijcie	przestygnąć	impt:pl:sec:perf		rzad.
+4389889a4390509
+> przestygnijmy	przestygnąć	impt:pl:pri:perf		rzad.
+4389890a4390511
+> przestygnij	przestygnąć	impt:sg:sec:perf		rzad.
+4507141a4507763,4507770
+> przyschnąć	przyschnąć	inf:perf		rzad.
+> przyschnąłbym	przyschnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> przyschnąłby	przyschnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> przyschnąłbyś	przyschnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> przyschnąłem	przyschnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> przyschnąłeś	przyschnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> przyschnął	przyschnąć	praet:sg:m1.m2.m3:perf		rzad.
+> przyschnął	przyschnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+4507142a4507772,4507801
+> przyschną	przyschnąć	fin:pl:ter:perf		rzad.
+> przyschnąwszy	przyschnąć	pant:perf		rzad.
+> przyschnęliby	przyschnąć	cond:pl:m1.p1:ter:perf		rzad.
+> przyschnęlibyście	przyschnąć	cond:pl:m1.p1:sec:perf		rzad.
+> przyschnęlibyśmy	przyschnąć	cond:pl:m1.p1:pri:perf		rzad.
+> przyschnęli	przyschnąć	praet:pl:m1.p1:perf		rzad.
+> przyschnęli	przyschnąć	praet:pl:m1.p1:ter:perf		rzad.
+> przyschnęliście	przyschnąć	praet:pl:m1.p1:sec:perf		rzad.
+> przyschnęliśmy	przyschnąć	praet:pl:m1.p1:pri:perf		rzad.
+> przyschnęłabym	przyschnąć	cond:sg:f:pri:perf		rzad.
+> przyschnęłaby	przyschnąć	cond:sg:f:ter:perf		rzad.
+> przyschnęłabyś	przyschnąć	cond:sg:f:sec:perf		rzad.
+> przyschnęłam	przyschnąć	praet:sg:f:pri:perf		rzad.
+> przyschnęła	przyschnąć	praet:sg:f:perf		rzad.
+> przyschnęła	przyschnąć	praet:sg:f:ter:perf		rzad.
+> przyschnęłaś	przyschnąć	praet:sg:f:sec:perf		rzad.
+> przyschnęłobym	przyschnąć	cond:sg:n1.n2:pri:perf		rzad.
+> przyschnęłoby	przyschnąć	cond:sg:n1.n2:ter:perf		rzad.
+> przyschnęłobyś	przyschnąć	cond:sg:n1.n2:sec:perf		rzad.
+> przyschnęłom	przyschnąć	praet:sg:n1.n2:pri:perf		rzad.
+> przyschnęło	przyschnąć	praet:sg:n1.n2:perf		rzad.
+> przyschnęło	przyschnąć	praet:sg:n1.n2:ter:perf		rzad.
+> przyschnęłoś	przyschnąć	praet:sg:n1.n2:sec:perf		rzad.
+> przyschnęłyby	przyschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> przyschnęłybyście	przyschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> przyschnęłybyśmy	przyschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> przyschnęły	przyschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> przyschnęły	przyschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> przyschnęłyście	przyschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> przyschnęłyśmy	przyschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+4507143a4507803
+> przyschnę	przyschnąć	fin:sg:pri:perf		rzad.
+4507144a4507805
+> przyschniecie	przyschnąć	fin:pl:sec:perf		rzad.
+4507145a4507807
+> przyschniemy	przyschnąć	fin:pl:pri:perf		rzad.
+4507146a4507809
+> przyschnie	przyschnąć	fin:sg:ter:perf		rzad.
+4507147a4507811
+> przyschniesz	przyschnąć	fin:sg:sec:perf		rzad.
+4507165a4507830
+> przyschnięto	przyschnąć	imps:perf		rzad.
+4507173a4507839
+> przyschnijcie	przyschnąć	impt:pl:sec:perf		rzad.
+4507174a4507841
+> przyschnijmy	przyschnąć	impt:pl:pri:perf		rzad.
+4507175a4507843
+> przyschnij	przyschnąć	impt:sg:sec:perf		rzad.
+4517791a4518460,4518467
+> przystygnąć	przystygnąć	inf:perf		daw.|rzad.
+> przystygnąłbym	przystygnąć	cond:sg:m1.m2.m3:pri:perf		daw.|rzad.
+> przystygnąłby	przystygnąć	cond:sg:m1.m2.m3:ter:perf		daw.|rzad.
+> przystygnąłbyś	przystygnąć	cond:sg:m1.m2.m3:sec:perf		daw.|rzad.
+> przystygnąłem	przystygnąć	praet:sg:m1.m2.m3:pri:perf		daw.|rzad.
+> przystygnąłeś	przystygnąć	praet:sg:m1.m2.m3:sec:perf		daw.|rzad.
+> przystygnął	przystygnąć	praet:sg:m1.m2.m3:perf		daw.|rzad.
+> przystygnął	przystygnąć	praet:sg:m1.m2.m3:ter:perf		daw.|rzad.
+4517792a4518469,4518498
+> przystygną	przystygnąć	fin:pl:ter:perf		daw.|rzad.
+> przystygnąwszy	przystygnąć	pant:perf		daw.|rzad.
+> przystygnęliby	przystygnąć	cond:pl:m1.p1:ter:perf		daw.|rzad.
+> przystygnęlibyście	przystygnąć	cond:pl:m1.p1:sec:perf		daw.|rzad.
+> przystygnęlibyśmy	przystygnąć	cond:pl:m1.p1:pri:perf		daw.|rzad.
+> przystygnęli	przystygnąć	praet:pl:m1.p1:perf		daw.|rzad.
+> przystygnęli	przystygnąć	praet:pl:m1.p1:ter:perf		daw.|rzad.
+> przystygnęliście	przystygnąć	praet:pl:m1.p1:sec:perf		daw.|rzad.
+> przystygnęliśmy	przystygnąć	praet:pl:m1.p1:pri:perf		daw.|rzad.
+> przystygnęłabym	przystygnąć	cond:sg:f:pri:perf		daw.|rzad.
+> przystygnęłaby	przystygnąć	cond:sg:f:ter:perf		daw.|rzad.
+> przystygnęłabyś	przystygnąć	cond:sg:f:sec:perf		daw.|rzad.
+> przystygnęłam	przystygnąć	praet:sg:f:pri:perf		daw.|rzad.
+> przystygnęła	przystygnąć	praet:sg:f:perf		daw.|rzad.
+> przystygnęła	przystygnąć	praet:sg:f:ter:perf		daw.|rzad.
+> przystygnęłaś	przystygnąć	praet:sg:f:sec:perf		daw.|rzad.
+> przystygnęłobym	przystygnąć	cond:sg:n1.n2:pri:perf		daw.|rzad.
+> przystygnęłoby	przystygnąć	cond:sg:n1.n2:ter:perf		daw.|rzad.
+> przystygnęłobyś	przystygnąć	cond:sg:n1.n2:sec:perf		daw.|rzad.
+> przystygnęłom	przystygnąć	praet:sg:n1.n2:pri:perf		daw.|rzad.
+> przystygnęło	przystygnąć	praet:sg:n1.n2:perf		daw.|rzad.
+> przystygnęło	przystygnąć	praet:sg:n1.n2:ter:perf		daw.|rzad.
+> przystygnęłoś	przystygnąć	praet:sg:n1.n2:sec:perf		daw.|rzad.
+> przystygnęłyby	przystygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.|rzad.
+> przystygnęłybyście	przystygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.|rzad.
+> przystygnęłybyśmy	przystygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.|rzad.
+> przystygnęły	przystygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.|rzad.
+> przystygnęły	przystygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.|rzad.
+> przystygnęłyście	przystygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.|rzad.
+> przystygnęłyśmy	przystygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.|rzad.
+4517793a4518500
+> przystygnę	przystygnąć	fin:sg:pri:perf		daw.|rzad.
+4517794a4518502
+> przystygniecie	przystygnąć	fin:pl:sec:perf		daw.|rzad.
+4517795a4518504
+> przystygniemy	przystygnąć	fin:pl:pri:perf		daw.|rzad.
+4517796a4518506
+> przystygnie	przystygnąć	fin:sg:ter:perf		daw.|rzad.
+4517797a4518508
+> przystygniesz	przystygnąć	fin:sg:sec:perf		daw.|rzad.
+4517815a4518527
+> przystygnięto	przystygnąć	imps:perf		daw.|rzad.
+4517823a4518536
+> przystygnijcie	przystygnąć	impt:pl:sec:perf		daw.|rzad.
+4517824a4518538
+> przystygnijmy	przystygnąć	impt:pl:pri:perf		daw.|rzad.
+4517825a4518540
+> przystygnij	przystygnąć	impt:sg:sec:perf		daw.|rzad.
+4617751c4618466
+< rtg	rentgen	brev:pun
+---
+> rtg	rentgen	brev:pun		med.
+4639114c4639829
+< r	rocznik	brev:pun
+---
+> r	rocznik	brev:pun		
+4640559c4641274
+< r	rodzaj	brev:pun
+---
+> r	rodzaj	brev:pun		jęz.
+4643861c4644576
+< r	rok	brev:pun
+---
+> r	rok	brev:pun		
+4644863c4645578
+< R.P	Roku_Pańskiego	brev:pun
+---
+> R.P	Roku_Pańskiego	brev:pun		daw.
+4651735c4652450
+< rtm	rotmistrz	brev:pun
+---
+> rtm	rotmistrz	brev:pun		
+4690391,4690398c4691106,4691113
+< rozeschnąłbym	rozeschnąć	cond:sg:m1.m2.m3:pri:perf		
+< rozeschnąłby	rozeschnąć	cond:sg:m1.m2.m3:ter:perf		
+< rozeschnąłbyś	rozeschnąć	cond:sg:m1.m2.m3:sec:perf		
+< rozeschnąłem	rozeschnąć	praet:sg:m1.m2.m3:pri:perf		
+< rozeschnąłeś	rozeschnąć	praet:sg:m1.m2.m3:sec:perf		
+< rozeschnął	rozeschnąć	praet:sg:m1.m2.m3:perf:agl		
+< rozeschnął	rozeschnąć	praet:sg:m1.m2.m3:perf:nagl		
+< rozeschnął	rozeschnąć	praet:sg:m1.m2.m3:ter:perf		
+---
+> rozeschnąć	rozeschnąć	inf:perf		rzad.
+> rozeschnąłbym	rozeschnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> rozeschnąłby	rozeschnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> rozeschnąłbyś	rozeschnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> rozeschnąłem	rozeschnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> rozeschnąłeś	rozeschnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> rozeschnął	rozeschnąć	praet:sg:m1.m2.m3:perf		rzad.
+> rozeschnął	rozeschnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+4690400c4691115,4691144
+< rozeschnąwszy	rozeschnąć	pant:perf		
+---
+> rozeschną	rozeschnąć	fin:pl:ter:perf		rzad.
+> rozeschnąwszy	rozeschnąć	pant:perf		rzad.
+> rozeschnęliby	rozeschnąć	cond:pl:m1.p1:ter:perf		rzad.
+> rozeschnęlibyście	rozeschnąć	cond:pl:m1.p1:sec:perf		rzad.
+> rozeschnęlibyśmy	rozeschnąć	cond:pl:m1.p1:pri:perf		rzad.
+> rozeschnęli	rozeschnąć	praet:pl:m1.p1:perf		rzad.
+> rozeschnęli	rozeschnąć	praet:pl:m1.p1:ter:perf		rzad.
+> rozeschnęliście	rozeschnąć	praet:pl:m1.p1:sec:perf		rzad.
+> rozeschnęliśmy	rozeschnąć	praet:pl:m1.p1:pri:perf		rzad.
+> rozeschnęłabym	rozeschnąć	cond:sg:f:pri:perf		rzad.
+> rozeschnęłaby	rozeschnąć	cond:sg:f:ter:perf		rzad.
+> rozeschnęłabyś	rozeschnąć	cond:sg:f:sec:perf		rzad.
+> rozeschnęłam	rozeschnąć	praet:sg:f:pri:perf		rzad.
+> rozeschnęła	rozeschnąć	praet:sg:f:perf		rzad.
+> rozeschnęła	rozeschnąć	praet:sg:f:ter:perf		rzad.
+> rozeschnęłaś	rozeschnąć	praet:sg:f:sec:perf		rzad.
+> rozeschnęłobym	rozeschnąć	cond:sg:n1.n2:pri:perf		rzad.
+> rozeschnęłoby	rozeschnąć	cond:sg:n1.n2:ter:perf		rzad.
+> rozeschnęłobyś	rozeschnąć	cond:sg:n1.n2:sec:perf		rzad.
+> rozeschnęłom	rozeschnąć	praet:sg:n1.n2:pri:perf		rzad.
+> rozeschnęło	rozeschnąć	praet:sg:n1.n2:perf		rzad.
+> rozeschnęło	rozeschnąć	praet:sg:n1.n2:ter:perf		rzad.
+> rozeschnęłoś	rozeschnąć	praet:sg:n1.n2:sec:perf		rzad.
+> rozeschnęłyby	rozeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> rozeschnęłybyście	rozeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> rozeschnęłybyśmy	rozeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> rozeschnęły	rozeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> rozeschnęły	rozeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> rozeschnęłyście	rozeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> rozeschnęłyśmy	rozeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+4690401a4691146
+> rozeschnę	rozeschnąć	fin:sg:pri:perf		rzad.
+4690402a4691148
+> rozeschniecie	rozeschnąć	fin:pl:sec:perf		rzad.
+4690403a4691150
+> rozeschniemy	rozeschnąć	fin:pl:pri:perf		rzad.
+4690404a4691152
+> rozeschnie	rozeschnąć	fin:sg:ter:perf		rzad.
+4690405a4691154
+> rozeschniesz	rozeschnąć	fin:sg:sec:perf		rzad.
+4690423a4691173
+> rozeschnięto	rozeschnąć	imps:perf		rzad.
+4690431a4691182
+> rozeschnijcie	rozeschnąć	impt:pl:sec:perf		rzad.
+4690432a4691184
+> rozeschnijmy	rozeschnąć	impt:pl:pri:perf		rzad.
+4690433a4691186
+> rozeschnij	rozeschnąć	impt:sg:sec:perf		rzad.
+4861614c4862367
+< ryc	rycina	brev:pun
+---
+> ryc	rycina	brev:pun		
+4867040c4867793
+< rys	rysunek	brev:pun
+---
+> rys	rysunek	brev:pun		
+4872199a4872953
+> rzednąc	rzednąć	pcon:imperf		daw.
+4872208a4872963,4872970
+> rzednąć	rzednąć	inf:imperf		daw.
+> rzednąłbym	rzednąć	cond:sg:m1.m2.m3:pri:imperf		daw.
+> rzednąłby	rzednąć	cond:sg:m1.m2.m3:ter:imperf		daw.
+> rzednąłbyś	rzednąć	cond:sg:m1.m2.m3:sec:imperf		daw.
+> rzednąłem	rzednąć	praet:sg:m1.m2.m3:pri:imperf		daw.
+> rzednąłeś	rzednąć	praet:sg:m1.m2.m3:sec:imperf		daw.
+> rzednął	rzednąć	praet:sg:m1.m2.m3:imperf		daw.
+> rzednął	rzednąć	praet:sg:m1.m2.m3:ter:imperf		daw.
+4872209a4872972,4873000
+> rzedną	rzednąć	fin:pl:ter:imperf		daw.
+> rzednęliby	rzednąć	cond:pl:m1.p1:ter:imperf		daw.
+> rzednęlibyście	rzednąć	cond:pl:m1.p1:sec:imperf		daw.
+> rzednęlibyśmy	rzednąć	cond:pl:m1.p1:pri:imperf		daw.
+> rzednęli	rzednąć	praet:pl:m1.p1:imperf		daw.
+> rzednęli	rzednąć	praet:pl:m1.p1:ter:imperf		daw.
+> rzednęliście	rzednąć	praet:pl:m1.p1:sec:imperf		daw.
+> rzednęliśmy	rzednąć	praet:pl:m1.p1:pri:imperf		daw.
+> rzednęłabym	rzednąć	cond:sg:f:pri:imperf		daw.
+> rzednęłaby	rzednąć	cond:sg:f:ter:imperf		daw.
+> rzednęłabyś	rzednąć	cond:sg:f:sec:imperf		daw.
+> rzednęłam	rzednąć	praet:sg:f:pri:imperf		daw.
+> rzednęła	rzednąć	praet:sg:f:imperf		daw.
+> rzednęła	rzednąć	praet:sg:f:ter:imperf		daw.
+> rzednęłaś	rzednąć	praet:sg:f:sec:imperf		daw.
+> rzednęłobym	rzednąć	cond:sg:n1.n2:pri:imperf		daw.
+> rzednęłoby	rzednąć	cond:sg:n1.n2:ter:imperf		daw.
+> rzednęłobyś	rzednąć	cond:sg:n1.n2:sec:imperf		daw.
+> rzednęłom	rzednąć	praet:sg:n1.n2:pri:imperf		daw.
+> rzednęło	rzednąć	praet:sg:n1.n2:imperf		daw.
+> rzednęło	rzednąć	praet:sg:n1.n2:ter:imperf		daw.
+> rzednęłoś	rzednąć	praet:sg:n1.n2:sec:imperf		daw.
+> rzednęłyby	rzednąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
+> rzednęłybyście	rzednąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
+> rzednęłybyśmy	rzednąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+> rzednęły	rzednąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		daw.
+> rzednęły	rzednąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		daw.
+> rzednęłyście	rzednąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		daw.
+> rzednęłyśmy	rzednąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		daw.
+4872210a4873002
+> rzednę	rzednąć	fin:sg:pri:imperf		daw.
+4872211a4873004
+> rzedniecie	rzednąć	fin:pl:sec:imperf		daw.
+4872212a4873006
+> rzedniemy	rzednąć	fin:pl:pri:imperf		daw.
+4872213a4873008
+> rzednie	rzednąć	fin:sg:ter:imperf		daw.
+4872214a4873010
+> rzedniesz	rzednąć	fin:sg:sec:imperf		daw.
+4872223a4873020
+> rzednięto	rzednąć	imps:imperf		daw.
+4872224a4873022
+> rzednijcie	rzednąć	impt:pl:sec:imperf		daw.
+4872225a4873024
+> rzednijmy	rzednąć	impt:pl:pri:imperf		daw.
+4872226a4873026
+> rzednij	rzednąć	impt:sg:sec:imperf		daw.
+4883231c4884031
+< s/y	sail_yacht	brev:npun
+---
+> s/y	sail_yacht	brev:npun		mors.
+4916898,4916899c4917698
+< schnął	schnąć	praet:sg:m1.m2.m3:imperf:agl		
+< schnął	schnąć	praet:sg:m1.m2.m3:imperf:nagl		
+---
+> schnął	schnąć	praet:sg:m1.m2.m3:imperf		
+4916901a4917701,4917728
+> schnęliby	schnąć	cond:pl:m1.p1:ter:imperf		
+> schnęlibyście	schnąć	cond:pl:m1.p1:sec:imperf		
+> schnęlibyśmy	schnąć	cond:pl:m1.p1:pri:imperf		
+> schnęli	schnąć	praet:pl:m1.p1:imperf		
+> schnęli	schnąć	praet:pl:m1.p1:ter:imperf		
+> schnęliście	schnąć	praet:pl:m1.p1:sec:imperf		
+> schnęliśmy	schnąć	praet:pl:m1.p1:pri:imperf		
+> schnęłabym	schnąć	cond:sg:f:pri:imperf		
+> schnęłaby	schnąć	cond:sg:f:ter:imperf		
+> schnęłabyś	schnąć	cond:sg:f:sec:imperf		
+> schnęłam	schnąć	praet:sg:f:pri:imperf		
+> schnęła	schnąć	praet:sg:f:imperf		
+> schnęła	schnąć	praet:sg:f:ter:imperf		
+> schnęłaś	schnąć	praet:sg:f:sec:imperf		
+> schnęłobym	schnąć	cond:sg:n1.n2:pri:imperf		
+> schnęłoby	schnąć	cond:sg:n1.n2:ter:imperf		
+> schnęłobyś	schnąć	cond:sg:n1.n2:sec:imperf		
+> schnęłom	schnąć	praet:sg:n1.n2:pri:imperf		
+> schnęło	schnąć	praet:sg:n1.n2:imperf		
+> schnęło	schnąć	praet:sg:n1.n2:ter:imperf		
+> schnęłoś	schnąć	praet:sg:n1.n2:sec:imperf		
+> schnęłyby	schnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> schnęłybyście	schnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> schnęłybyśmy	schnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> schnęły	schnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+> schnęły	schnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> schnęłyście	schnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> schnęłyśmy	schnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+4920327a4921155,4921162
+> schudnąć	schudnąć	inf:perf		rzad.
+> schudnąłbym	schudnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> schudnąłby	schudnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> schudnąłbyś	schudnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> schudnąłem	schudnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> schudnąłeś	schudnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> schudnął	schudnąć	praet:sg:m1.m2.m3:perf		rzad.
+> schudnął	schudnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+4920328a4921164,4921193
+> schudną	schudnąć	fin:pl:ter:perf		rzad.
+> schudnąwszy	schudnąć	pant:perf		rzad.
+> schudnęliby	schudnąć	cond:pl:m1.p1:ter:perf		rzad.
+> schudnęlibyście	schudnąć	cond:pl:m1.p1:sec:perf		rzad.
+> schudnęlibyśmy	schudnąć	cond:pl:m1.p1:pri:perf		rzad.
+> schudnęli	schudnąć	praet:pl:m1.p1:perf		rzad.
+> schudnęli	schudnąć	praet:pl:m1.p1:ter:perf		rzad.
+> schudnęliście	schudnąć	praet:pl:m1.p1:sec:perf		rzad.
+> schudnęliśmy	schudnąć	praet:pl:m1.p1:pri:perf		rzad.
+> schudnęłabym	schudnąć	cond:sg:f:pri:perf		rzad.
+> schudnęłaby	schudnąć	cond:sg:f:ter:perf		rzad.
+> schudnęłabyś	schudnąć	cond:sg:f:sec:perf		rzad.
+> schudnęłam	schudnąć	praet:sg:f:pri:perf		rzad.
+> schudnęła	schudnąć	praet:sg:f:perf		rzad.
+> schudnęła	schudnąć	praet:sg:f:ter:perf		rzad.
+> schudnęłaś	schudnąć	praet:sg:f:sec:perf		rzad.
+> schudnęłobym	schudnąć	cond:sg:n1.n2:pri:perf		rzad.
+> schudnęłoby	schudnąć	cond:sg:n1.n2:ter:perf		rzad.
+> schudnęłobyś	schudnąć	cond:sg:n1.n2:sec:perf		rzad.
+> schudnęłom	schudnąć	praet:sg:n1.n2:pri:perf		rzad.
+> schudnęło	schudnąć	praet:sg:n1.n2:perf		rzad.
+> schudnęło	schudnąć	praet:sg:n1.n2:ter:perf		rzad.
+> schudnęłoś	schudnąć	praet:sg:n1.n2:sec:perf		rzad.
+> schudnęłyby	schudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> schudnęłybyście	schudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> schudnęłybyśmy	schudnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> schudnęły	schudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> schudnęły	schudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> schudnęłyście	schudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> schudnęłyśmy	schudnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+4920329a4921195
+> schudnę	schudnąć	fin:sg:pri:perf		rzad.
+4920330a4921197
+> schudniecie	schudnąć	fin:pl:sec:perf		rzad.
+4920331a4921199
+> schudniemy	schudnąć	fin:pl:pri:perf		rzad.
+4920332a4921201
+> schudnie	schudnąć	fin:sg:ter:perf		rzad.
+4920333a4921203
+> schudniesz	schudnąć	fin:sg:sec:perf		rzad.
+4920342a4921213
+> schudnięto	schudnąć	imps:perf		rzad.
+4920343a4921215
+> schudnijcie	schudnąć	impt:pl:sec:perf		rzad.
+4920344a4921217
+> schudnijmy	schudnąć	impt:pl:pri:perf		rzad.
+4920345a4921219
+> schudnij	schudnąć	impt:sg:sec:perf		rzad.
+4921676c4922550
+< s.f	science_fiction	brev:pun
+---
+> s.f	science_fiction	brev:pun		
+4930858,4930859c4931732,4931733
+< sek	sekunda	brev:pun
+< s	sekunda	brev:npun
+---
+> sek	sekunda	brev:pun		
+> s	sekunda	brev:npun		
+4934161,4934162c4935035,4935036
+< sen	senior	brev:pun
+< sr	senior	brev:pun
+---
+> sen	senior	brev:pun		
+> sr	senior	brev:pun		
+4968179c4969053
+< s	siostra_(zakonna)	brev:pun
+---
+> s	siostra_(zakonna)	brev:pun		
+5033472a5034347
+> słabnąc	słabnąć	pcon:imperf		rzad.
+5033481a5034357,5034364
+> słabnąć	słabnąć	inf:imperf		rzad.
+> słabnąłbym	słabnąć	cond:sg:m1.m2.m3:pri:imperf		rzad.
+> słabnąłby	słabnąć	cond:sg:m1.m2.m3:ter:imperf		rzad.
+> słabnąłbyś	słabnąć	cond:sg:m1.m2.m3:sec:imperf		rzad.
+> słabnąłem	słabnąć	praet:sg:m1.m2.m3:pri:imperf		rzad.
+> słabnąłeś	słabnąć	praet:sg:m1.m2.m3:sec:imperf		rzad.
+> słabnął	słabnąć	praet:sg:m1.m2.m3:imperf		rzad.
+> słabnął	słabnąć	praet:sg:m1.m2.m3:ter:imperf		rzad.
+5033482a5034366,5034394
+> słabną	słabnąć	fin:pl:ter:imperf		rzad.
+> słabnęliby	słabnąć	cond:pl:m1.p1:ter:imperf		rzad.
+> słabnęlibyście	słabnąć	cond:pl:m1.p1:sec:imperf		rzad.
+> słabnęlibyśmy	słabnąć	cond:pl:m1.p1:pri:imperf		rzad.
+> słabnęli	słabnąć	praet:pl:m1.p1:imperf		rzad.
+> słabnęli	słabnąć	praet:pl:m1.p1:ter:imperf		rzad.
+> słabnęliście	słabnąć	praet:pl:m1.p1:sec:imperf		rzad.
+> słabnęliśmy	słabnąć	praet:pl:m1.p1:pri:imperf		rzad.
+> słabnęłabym	słabnąć	cond:sg:f:pri:imperf		rzad.
+> słabnęłaby	słabnąć	cond:sg:f:ter:imperf		rzad.
+> słabnęłabyś	słabnąć	cond:sg:f:sec:imperf		rzad.
+> słabnęłam	słabnąć	praet:sg:f:pri:imperf		rzad.
+> słabnęła	słabnąć	praet:sg:f:imperf		rzad.
+> słabnęła	słabnąć	praet:sg:f:ter:imperf		rzad.
+> słabnęłaś	słabnąć	praet:sg:f:sec:imperf		rzad.
+> słabnęłobym	słabnąć	cond:sg:n1.n2:pri:imperf		rzad.
+> słabnęłoby	słabnąć	cond:sg:n1.n2:ter:imperf		rzad.
+> słabnęłobyś	słabnąć	cond:sg:n1.n2:sec:imperf		rzad.
+> słabnęłom	słabnąć	praet:sg:n1.n2:pri:imperf		rzad.
+> słabnęło	słabnąć	praet:sg:n1.n2:imperf		rzad.
+> słabnęło	słabnąć	praet:sg:n1.n2:ter:imperf		rzad.
+> słabnęłoś	słabnąć	praet:sg:n1.n2:sec:imperf		rzad.
+> słabnęłyby	słabnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> słabnęłybyście	słabnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> słabnęłybyśmy	słabnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+> słabnęły	słabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
+> słabnęły	słabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> słabnęłyście	słabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> słabnęłyśmy	słabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+5033483a5034396
+> słabnę	słabnąć	fin:sg:pri:imperf		rzad.
+5033484a5034398
+> słabniecie	słabnąć	fin:pl:sec:imperf		rzad.
+5033485a5034400
+> słabniemy	słabnąć	fin:pl:pri:imperf		rzad.
+5033486a5034402
+> słabnie	słabnąć	fin:sg:ter:imperf		rzad.
+5033487a5034404
+> słabniesz	słabnąć	fin:sg:sec:imperf		rzad.
+5033496a5034414
+> słabnięto	słabnąć	imps:imperf		rzad.
+5033497a5034416
+> słabnijcie	słabnąć	impt:pl:sec:imperf		rzad.
+5033498a5034418
+> słabnijmy	słabnąć	impt:pl:pri:imperf		rzad.
+5033499a5034420
+> słabnij	słabnąć	impt:sg:sec:imperf		rzad.
+5117533,5117534c5118454,5118455
+< sp	spółka	brev:pun
+< s.c	spółka_cywilna	brev:pun
+---
+> sp	spółka	brev:pun		
+> s.c	spółka_cywilna	brev:pun		
+5147360c5148281
+< st	staro	brev:pun
+---
+> st	staro	brev:pun		
+5149217c5150138
+< stp	staropolski	brev:pun
+---
+> stp	staropolski	brev:pun		
+5151184c5152105
+< st	starszy	brev:pun
+---
+> st	starszy	brev:pun		
+5151759c5152680
+< ST	Stary_Testament	brev:npun
+---
+> ST	Stary_Testament	brev:npun		
+5156000c5156921
+< s/s	steam_ship	brev:npun
+---
+> s/s	steam_ship	brev:npun		mors.
+5180316c5181237
+< s	strona	brev:pun
+---
+> s	strona	brev:pun		
+5197721a5198643
+> stygnąc	stygnąć	pcon:imperf		rzad.
+5197730a5198653,5198660
+> stygnąć	stygnąć	inf:imperf		rzad.
+> stygnąłbym	stygnąć	cond:sg:m1.m2.m3:pri:imperf		rzad.
+> stygnąłby	stygnąć	cond:sg:m1.m2.m3:ter:imperf		rzad.
+> stygnąłbyś	stygnąć	cond:sg:m1.m2.m3:sec:imperf		rzad.
+> stygnąłem	stygnąć	praet:sg:m1.m2.m3:pri:imperf		rzad.
+> stygnąłeś	stygnąć	praet:sg:m1.m2.m3:sec:imperf		rzad.
+> stygnął	stygnąć	praet:sg:m1.m2.m3:imperf		rzad.
+> stygnął	stygnąć	praet:sg:m1.m2.m3:ter:imperf		rzad.
+5197731a5198662,5198690
+> stygną	stygnąć	fin:pl:ter:imperf		rzad.
+> stygnęliby	stygnąć	cond:pl:m1.p1:ter:imperf		rzad.
+> stygnęlibyście	stygnąć	cond:pl:m1.p1:sec:imperf		rzad.
+> stygnęlibyśmy	stygnąć	cond:pl:m1.p1:pri:imperf		rzad.
+> stygnęli	stygnąć	praet:pl:m1.p1:imperf		rzad.
+> stygnęli	stygnąć	praet:pl:m1.p1:ter:imperf		rzad.
+> stygnęliście	stygnąć	praet:pl:m1.p1:sec:imperf		rzad.
+> stygnęliśmy	stygnąć	praet:pl:m1.p1:pri:imperf		rzad.
+> stygnęłabym	stygnąć	cond:sg:f:pri:imperf		rzad.
+> stygnęłaby	stygnąć	cond:sg:f:ter:imperf		rzad.
+> stygnęłabyś	stygnąć	cond:sg:f:sec:imperf		rzad.
+> stygnęłam	stygnąć	praet:sg:f:pri:imperf		rzad.
+> stygnęła	stygnąć	praet:sg:f:imperf		rzad.
+> stygnęła	stygnąć	praet:sg:f:ter:imperf		rzad.
+> stygnęłaś	stygnąć	praet:sg:f:sec:imperf		rzad.
+> stygnęłobym	stygnąć	cond:sg:n1.n2:pri:imperf		rzad.
+> stygnęłoby	stygnąć	cond:sg:n1.n2:ter:imperf		rzad.
+> stygnęłobyś	stygnąć	cond:sg:n1.n2:sec:imperf		rzad.
+> stygnęłom	stygnąć	praet:sg:n1.n2:pri:imperf		rzad.
+> stygnęło	stygnąć	praet:sg:n1.n2:imperf		rzad.
+> stygnęło	stygnąć	praet:sg:n1.n2:ter:imperf		rzad.
+> stygnęłoś	stygnąć	praet:sg:n1.n2:sec:imperf		rzad.
+> stygnęłyby	stygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> stygnęłybyście	stygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> stygnęłybyśmy	stygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+> stygnęły	stygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
+> stygnęły	stygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> stygnęłyście	stygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> stygnęłyśmy	stygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+5197732a5198692
+> stygnę	stygnąć	fin:sg:pri:imperf		rzad.
+5197733a5198694
+> stygniecie	stygnąć	fin:pl:sec:imperf		rzad.
+5197734a5198696
+> stygniemy	stygnąć	fin:pl:pri:imperf		rzad.
+5197735a5198698
+> stygnie	stygnąć	fin:sg:ter:imperf		rzad.
+5197736a5198700
+> stygniesz	stygnąć	fin:sg:sec:imperf		rzad.
+5197745a5198710
+> stygnięto	stygnąć	imps:imperf		rzad.
+5197746a5198712
+> stygnijcie	stygnąć	impt:pl:sec:imperf		rzad.
+5197747a5198714
+> stygnijmy	stygnąć	impt:pl:pri:imperf		rzad.
+5197748a5198716
+> stygnij	stygnąć	impt:sg:sec:imperf		rzad.
+5229015c5229983
+< s	syn	brev:pun
+---
+> s	syn	brev:pun		
+5243028c5243996
+< Sz	Szanowny	brev:pun
+---
+> Sz	Szanowny	brev:pun		
+5263590c5264558
+< szer	szeregowy	brev:pun
+---
+> szer	szeregowy	brev:pun		
+5272793c5273761
+< SP	Szkoła_Podstawowa	brev:npun
+---
+> SP	Szkoła_Podstawowa	brev:npun		
+5335034c5336002
+< św	świadek	brev:pun
+---
+> św	świadek	brev:pun		
+5343089c5344057
+< śp	świętej_pamięci	brev:pun
+---
+> śp	świętej_pamięci	brev:pun		
+5344125c5345093
+< św	święty	brev:pun
+---
+> św	święty	brev:pun		
+5347011c5347979
+< tab	tabela	brev:pun
+---
+> tab	tabela	brev:pun		
+5353880c5354848
+< tzw	tak_zwany	brev:pun
+---
+> tzw	tak_zwany	brev:pun		
+5374363c5375331
+< tel	telefon	brev:pun
+---
+> tel	telefon	brev:pun		
+5375112c5376080
+< tlx	telegraph_exchange	brev:npun
+---
+> tlx	telegraph_exchange	brev:npun		
+5388459a5389428,5389445
+> Teutonach	Teuton	subst:pl:loc:m1	pospolita	
+> Teutonami	Teuton	subst:pl:inst:m1	pospolita	
+> Teutona	Teuton	subst:sg:acc:m1	pospolita	
+> Teutona	Teuton	subst:sg:gen:m1	pospolita	
+> Teutonem	Teuton	subst:sg:inst:m1	pospolita	
+> Teutonie	Teuton	subst:sg:loc:m1	pospolita	
+> Teutonie	Teuton	subst:sg:voc:m1	pospolita	
+> Teutoni	Teuton	subst:pl:nom:m1	pospolita	
+> Teutoni	Teuton	subst:pl:voc:m1	pospolita	
+> Teutonom	Teuton	subst:pl:dat:m1	pospolita	
+> Teutonowie	Teuton	subst:pl:nom:m1	pospolita	
+> Teutonowie	Teuton	subst:pl:voc:m1	pospolita	
+> Teutonowi	Teuton	subst:sg:dat:m1	pospolita	
+> Teutonów	Teuton	subst:pl:acc:m1	pospolita	
+> Teutonów	Teuton	subst:pl:gen:m1	pospolita	
+> Teuton	Teuton	subst:sg:nom:m1	pospolita	
+> Teutony	Teuton	depr:pl:nom:m2	pospolita	
+> Teutony	Teuton	depr:pl:voc:m2	pospolita	
+5396109c5397095
+< tł	tłumaczył(a)	brev:pun
+---
+> tł	tłumaczył(a)	brev:pun		
+5398893c5399879
+< tj	to_jest	brev:pun
+---
+> tj	to_jest	brev:pun		
+5400515c5401501
+< t	tom	brev:pun
+---
+> t	tom	brev:pun		
+5408797c5409783
+< tow	towarzysz	brev:pun
+---
+> tow	towarzysz	brev:pun		
+5408826c5409812
+< tow	towarzyszka	brev:pun
+---
+> tow	towarzyszka	brev:pun		
+5409205c5410191
+< tzn	to_znaczy	brev:pun
+---
+> tzn	to_znaczy	brev:pun		
+5482837c5483823
+< ub	ubiegły	brev:pun
+---
+> ub	ubiegły	brev:pun		
+5552681c5553667
+< ul	ulica	brev:pun
+---
+> ul	ulica	brev:pun		
+5583844c5584830
+< USD	United_States_Dollar	brev:npun
+---
+> USD	United_States_Dollar	brev:npun		
+5625187c5626173
+< ur	urodzony	brev:pun
+---
+> ur	urodzony	brev:pun		
+5635425a5636412,5636418
+> uschnąłbym	uschnąć	cond:sg:m1.m2.m3:pri:perf		
+> uschnąłbyś	uschnąć	cond:sg:m1.m2.m3:sec:perf		
+> uschnąłby	uschnąć	cond:sg:m1.m2.m3:ter:perf		
+> uschnąłem	uschnąć	praet:sg:m1.m2.m3:pri:perf		
+> uschnąłeś	uschnąć	praet:sg:m1.m2.m3:sec:perf		
+> uschnął	uschnąć	praet:sg:m1.m2.m3:perf		
+> uschnął	uschnąć	praet:sg:m1.m2.m3:ter:perf		
+5635426a5636420,5636448
+> uschnąwszy	uschnąć	pant:perf		
+> uschnęlibyście	uschnąć	cond:pl:m1.p1:sec:perf		
+> uschnęlibyśmy	uschnąć	cond:pl:m1.p1:pri:perf		
+> uschnęliby	uschnąć	cond:pl:m1.p1:ter:perf		
+> uschnęliście	uschnąć	praet:pl:m1.p1:sec:perf		
+> uschnęliśmy	uschnąć	praet:pl:m1.p1:pri:perf		
+> uschnęli	uschnąć	praet:pl:m1.p1:perf		
+> uschnęli	uschnąć	praet:pl:m1.p1:ter:perf		
+> uschnęłabym	uschnąć	cond:sg:f:pri:perf		
+> uschnęłabyś	uschnąć	cond:sg:f:sec:perf		
+> uschnęłaby	uschnąć	cond:sg:f:ter:perf		
+> uschnęłam	uschnąć	praet:sg:f:pri:perf		
+> uschnęłaś	uschnąć	praet:sg:f:sec:perf		
+> uschnęła	uschnąć	praet:sg:f:perf		
+> uschnęła	uschnąć	praet:sg:f:ter:perf		
+> uschnęłobym	uschnąć	cond:sg:n1.n2:pri:perf		
+> uschnęłobyś	uschnąć	cond:sg:n1.n2:sec:perf		
+> uschnęłoby	uschnąć	cond:sg:n1.n2:ter:perf		
+> uschnęłom	uschnąć	praet:sg:n1.n2:pri:perf		
+> uschnęłoś	uschnąć	praet:sg:n1.n2:sec:perf		
+> uschnęło	uschnąć	praet:sg:n1.n2:perf		
+> uschnęło	uschnąć	praet:sg:n1.n2:ter:perf		
+> uschnęłybyście	uschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> uschnęłybyśmy	uschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> uschnęłyby	uschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> uschnęłyście	uschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> uschnęłyśmy	uschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> uschnęły	uschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> uschnęły	uschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+5646590c5647612
+< U	ustawa	brev:pun
+---
+> U	ustawa	brev:pun		
+5706914,5706916c5707936,5707938
+< v	versus	brev:pun
+< vs	versus	brev:npun
+< v	verte	brev:pun
+---
+> v	versus	brev:pun		
+> vs	versus	brev:npun		
+> v	verte	brev:pun		
+5707614c5708636
+< V	vocativus	brev:pun
+---
+> V	vocativus	brev:pun		jęz.
+5707793c5708815
+< vol	volumen	brev:pun
+---
+> vol	volumen	brev:pun		
+5726970a5727993,5727994
+> waszecie	waszeć	subst:pl:nom:m1	pospolita	daw.
+> waszecie	waszeć	subst:pl:voc:m1	pospolita	daw.
+5746364c5747388
+< wg	według	brev:npun
+---
+> wg	według	brev:npun		
+5779161c5780185
+< w	wiek	brev:pun
+---
+> w	wiek	brev:pun		
+5780407,5780408c5781431,5781432
+< w	wielki	brev:pun
+< Wlk	Wielki	brev:pun
+---
+> w	wielki	brev:pun		
+> Wlk	Wielki	brev:pun		
+5780479,5780481c5781503,5781505
+< WXL	Wielkie_Księstwo_Litewskie	brev:npun
+< WXLit	Wielkie_Księstwo_Litewskie	brev:npun
+< W.Ks.Lit	Wielkie_Księstwo_Litewskie	brev:pun
+---
+> WXL	Wielkie_Księstwo_Litewskie	brev:npun		hist.
+> WXLit	Wielkie_Księstwo_Litewskie	brev:npun		hist.
+> W.Ks.Lit	Wielkie_Księstwo_Litewskie	brev:pun		hist.
+5783233c5784257
+< W	Wielmożny	brev:pun
+---
+> W	Wielmożny	brev:pun		
+5792314c5793338
+< w	wiersz	brev:pun
+---
+> w	wiersz	brev:pun		
+5796247c5797271
+< w	wieś	brev:pun
+---
+> w	wieś	brev:pun		
+5802462a5803487
+> wilgnąc	wilgnąć	pcon:imperf		rzad.
+5802471a5803497,5803504
+> wilgnąć	wilgnąć	inf:imperf		rzad.
+> wilgnąłbym	wilgnąć	cond:sg:m1.m2.m3:pri:imperf		rzad.
+> wilgnąłbyś	wilgnąć	cond:sg:m1.m2.m3:sec:imperf		rzad.
+> wilgnąłby	wilgnąć	cond:sg:m1.m2.m3:ter:imperf		rzad.
+> wilgnąłem	wilgnąć	praet:sg:m1.m2.m3:pri:imperf		rzad.
+> wilgnąłeś	wilgnąć	praet:sg:m1.m2.m3:sec:imperf		rzad.
+> wilgnął	wilgnąć	praet:sg:m1.m2.m3:imperf		rzad.
+> wilgnął	wilgnąć	praet:sg:m1.m2.m3:ter:imperf		rzad.
+5802472a5803506,5803534
+> wilgną	wilgnąć	fin:pl:ter:imperf		rzad.
+> wilgnęlibyście	wilgnąć	cond:pl:m1.p1:sec:imperf		rzad.
+> wilgnęlibyśmy	wilgnąć	cond:pl:m1.p1:pri:imperf		rzad.
+> wilgnęliby	wilgnąć	cond:pl:m1.p1:ter:imperf		rzad.
+> wilgnęliście	wilgnąć	praet:pl:m1.p1:sec:imperf		rzad.
+> wilgnęliśmy	wilgnąć	praet:pl:m1.p1:pri:imperf		rzad.
+> wilgnęli	wilgnąć	praet:pl:m1.p1:imperf		rzad.
+> wilgnęli	wilgnąć	praet:pl:m1.p1:ter:imperf		rzad.
+> wilgnęłabym	wilgnąć	cond:sg:f:pri:imperf		rzad.
+> wilgnęłabyś	wilgnąć	cond:sg:f:sec:imperf		rzad.
+> wilgnęłaby	wilgnąć	cond:sg:f:ter:imperf		rzad.
+> wilgnęłam	wilgnąć	praet:sg:f:pri:imperf		rzad.
+> wilgnęłaś	wilgnąć	praet:sg:f:sec:imperf		rzad.
+> wilgnęła	wilgnąć	praet:sg:f:imperf		rzad.
+> wilgnęła	wilgnąć	praet:sg:f:ter:imperf		rzad.
+> wilgnęłobym	wilgnąć	cond:sg:n1.n2:pri:imperf		rzad.
+> wilgnęłobyś	wilgnąć	cond:sg:n1.n2:sec:imperf		rzad.
+> wilgnęłoby	wilgnąć	cond:sg:n1.n2:ter:imperf		rzad.
+> wilgnęłom	wilgnąć	praet:sg:n1.n2:pri:imperf		rzad.
+> wilgnęłoś	wilgnąć	praet:sg:n1.n2:sec:imperf		rzad.
+> wilgnęło	wilgnąć	praet:sg:n1.n2:imperf		rzad.
+> wilgnęło	wilgnąć	praet:sg:n1.n2:ter:imperf		rzad.
+> wilgnęłybyście	wilgnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> wilgnęłybyśmy	wilgnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+> wilgnęłyby	wilgnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+> wilgnęłyście	wilgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		rzad.
+> wilgnęłyśmy	wilgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		rzad.
+> wilgnęły	wilgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		rzad.
+> wilgnęły	wilgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		rzad.
+5802473a5803536
+> wilgnę	wilgnąć	fin:sg:pri:imperf		rzad.
+5802474a5803538
+> wilgniecie	wilgnąć	fin:pl:sec:imperf		rzad.
+5802475a5803540
+> wilgniemy	wilgnąć	fin:pl:pri:imperf		rzad.
+5802476a5803542
+> wilgniesz	wilgnąć	fin:sg:sec:imperf		rzad.
+5802477a5803544
+> wilgnie	wilgnąć	fin:sg:ter:imperf		rzad.
+5802486a5803554
+> wilgnięto	wilgnąć	imps:imperf		rzad.
+5802487a5803556
+> wilgnijcie	wilgnąć	impt:pl:sec:imperf		rzad.
+5802488a5803558
+> wilgnijmy	wilgnąć	impt:pl:pri:imperf		rzad.
+5802489a5803560
+> wilgnij	wilgnąć	impt:sg:sec:imperf		rzad.
+5830320c5831391
+< wł	włącznie	brev:pun
+---
+> wł	włącznie	brev:pun		
+5840895a5841967,5841994
+> weszlibyście	wniść	cond:pl:m1.p1:sec:perf		daw.
+> weszlibyśmy	wniść	cond:pl:m1.p1:pri:perf		daw.
+> weszliby	wniść	cond:pl:m1.p1:ter:perf		daw.
+> weszliście	wniść	praet:pl:m1.p1:sec:perf		daw.
+> weszliśmy	wniść	praet:pl:m1.p1:pri:perf		daw.
+> weszli	wniść	praet:pl:m1.p1:perf		daw.
+> weszli	wniść	praet:pl:m1.p1:ter:perf		daw.
+> weszłabym	wniść	cond:sg:f:pri:perf		daw.
+> weszłabyś	wniść	cond:sg:f:sec:perf		daw.
+> weszłaby	wniść	cond:sg:f:ter:perf		daw.
+> weszłam	wniść	praet:sg:f:pri:perf		daw.
+> weszłaś	wniść	praet:sg:f:sec:perf		daw.
+> weszła	wniść	praet:sg:f:perf		daw.
+> weszła	wniść	praet:sg:f:ter:perf		daw.
+> weszłobym	wniść	cond:sg:n1.n2:pri:perf		daw.
+> weszłobyś	wniść	cond:sg:n1.n2:sec:perf		daw.
+> weszłoby	wniść	cond:sg:n1.n2:ter:perf		daw.
+> weszłom	wniść	praet:sg:n1.n2:pri:perf		daw.
+> weszłoś	wniść	praet:sg:n1.n2:sec:perf		daw.
+> weszło	wniść	praet:sg:n1.n2:perf		daw.
+> weszło	wniść	praet:sg:n1.n2:ter:perf		daw.
+> weszłybyście	wniść	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> weszłybyśmy	wniść	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> weszłyby	wniść	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+> weszłyście	wniść	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> weszłyśmy	wniść	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> weszły	wniść	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+> weszły	wniść	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+5840922,5840949d5842020
+< wszlibyście	wniść	cond:pl:m1.p1:sec:perf		daw.
+< wszlibyśmy	wniść	cond:pl:m1.p1:pri:perf		daw.
+< wszliby	wniść	cond:pl:m1.p1:ter:perf		daw.
+< wszliście	wniść	praet:pl:m1.p1:sec:perf		daw.
+< wszliśmy	wniść	praet:pl:m1.p1:pri:perf		daw.
+< wszli	wniść	praet:pl:m1.p1:perf		daw.
+< wszli	wniść	praet:pl:m1.p1:ter:perf		daw.
+< wszłabym	wniść	cond:sg:f:pri:perf		daw.
+< wszłabyś	wniść	cond:sg:f:sec:perf		daw.
+< wszłaby	wniść	cond:sg:f:ter:perf		daw.
+< wszłam	wniść	praet:sg:f:pri:perf		daw.
+< wszłaś	wniść	praet:sg:f:sec:perf		daw.
+< wszła	wniść	praet:sg:f:perf		daw.
+< wszła	wniść	praet:sg:f:ter:perf		daw.
+< wszłobym	wniść	cond:sg:n1.n2:pri:perf		daw.
+< wszłobyś	wniść	cond:sg:n1.n2:sec:perf		daw.
+< wszłoby	wniść	cond:sg:n1.n2:ter:perf		daw.
+< wszłom	wniść	praet:sg:n1.n2:pri:perf		daw.
+< wszłoś	wniść	praet:sg:n1.n2:sec:perf		daw.
+< wszło	wniść	praet:sg:n1.n2:perf		daw.
+< wszło	wniść	praet:sg:n1.n2:ter:perf		daw.
+< wszłybyście	wniść	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< wszłybyśmy	wniść	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< wszłyby	wniść	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+< wszłyście	wniść	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< wszłyśmy	wniść	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< wszły	wniść	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+< wszły	wniść	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+5852972c5854043
+< W	wołacz	brev:pun
+---
+> W	wołacz	brev:pun		jęz.
+5897584c5898655
+< ws	w_sprawie	brev:pun
+---
+> ws	w_sprawie	brev:pun		
+5903150a5904222,5904230
+> weszczną	wszcząć	fin:pl:ter:perf		
+> weszcznę	wszcząć	fin:sg:pri:perf		
+> weszczniecie	wszcząć	fin:pl:sec:perf		
+> weszczniemy	wszcząć	fin:pl:pri:perf		
+> weszczniesz	wszcząć	fin:sg:sec:perf		
+> weszcznie	wszcząć	fin:sg:ter:perf		
+> weszcznijcie	wszcząć	impt:pl:sec:perf		
+> weszcznijmy	wszcząć	impt:pl:pri:perf		
+> weszcznij	wszcząć	impt:sg:sec:perf		
+6069186,6069213d6070265
+< wyeszlibyście	wynijść	cond:pl:m1.p1:sec:perf		daw.
+< wyeszlibyśmy	wynijść	cond:pl:m1.p1:pri:perf		daw.
+< wyeszliby	wynijść	cond:pl:m1.p1:ter:perf		daw.
+< wyeszliście	wynijść	praet:pl:m1.p1:sec:perf		daw.
+< wyeszliśmy	wynijść	praet:pl:m1.p1:pri:perf		daw.
+< wyeszli	wynijść	praet:pl:m1.p1:perf		daw.
+< wyeszli	wynijść	praet:pl:m1.p1:ter:perf		daw.
+< wyeszłabym	wynijść	cond:sg:f:pri:perf		daw.
+< wyeszłabyś	wynijść	cond:sg:f:sec:perf		daw.
+< wyeszłaby	wynijść	cond:sg:f:ter:perf		daw.
+< wyeszłam	wynijść	praet:sg:f:pri:perf		daw.
+< wyeszłaś	wynijść	praet:sg:f:sec:perf		daw.
+< wyeszła	wynijść	praet:sg:f:perf		daw.
+< wyeszła	wynijść	praet:sg:f:ter:perf		daw.
+< wyeszłobym	wynijść	cond:sg:n1.n2:pri:perf		daw.
+< wyeszłobyś	wynijść	cond:sg:n1.n2:sec:perf		daw.
+< wyeszłoby	wynijść	cond:sg:n1.n2:ter:perf		daw.
+< wyeszłom	wynijść	praet:sg:n1.n2:pri:perf		daw.
+< wyeszłoś	wynijść	praet:sg:n1.n2:sec:perf		daw.
+< wyeszło	wynijść	praet:sg:n1.n2:perf		daw.
+< wyeszło	wynijść	praet:sg:n1.n2:ter:perf		daw.
+< wyeszłybyście	wynijść	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< wyeszłybyśmy	wynijść	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< wyeszłyby	wynijść	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+< wyeszłyście	wynijść	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< wyeszłyśmy	wynijść	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< wyeszły	wynijść	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+< wyeszły	wynijść	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+6069239a6070292,6070319
+> wyszlibyście	wynijść	cond:pl:m1.p1:sec:perf		daw.
+> wyszlibyśmy	wynijść	cond:pl:m1.p1:pri:perf		daw.
+> wyszliby	wynijść	cond:pl:m1.p1:ter:perf		daw.
+> wyszliście	wynijść	praet:pl:m1.p1:sec:perf		daw.
+> wyszliśmy	wynijść	praet:pl:m1.p1:pri:perf		daw.
+> wyszli	wynijść	praet:pl:m1.p1:perf		daw.
+> wyszli	wynijść	praet:pl:m1.p1:ter:perf		daw.
+> wyszłabym	wynijść	cond:sg:f:pri:perf		daw.
+> wyszłabyś	wynijść	cond:sg:f:sec:perf		daw.
+> wyszłaby	wynijść	cond:sg:f:ter:perf		daw.
+> wyszłam	wynijść	praet:sg:f:pri:perf		daw.
+> wyszłaś	wynijść	praet:sg:f:sec:perf		daw.
+> wyszła	wynijść	praet:sg:f:perf		daw.
+> wyszła	wynijść	praet:sg:f:ter:perf		daw.
+> wyszłobym	wynijść	cond:sg:n1.n2:pri:perf		daw.
+> wyszłobyś	wynijść	cond:sg:n1.n2:sec:perf		daw.
+> wyszłoby	wynijść	cond:sg:n1.n2:ter:perf		daw.
+> wyszłom	wynijść	praet:sg:n1.n2:pri:perf		daw.
+> wyszłoś	wynijść	praet:sg:n1.n2:sec:perf		daw.
+> wyszło	wynijść	praet:sg:n1.n2:perf		daw.
+> wyszło	wynijść	praet:sg:n1.n2:ter:perf		daw.
+> wyszłybyście	wynijść	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> wyszłybyśmy	wynijść	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> wyszłyby	wynijść	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+> wyszłyście	wynijść	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> wyszłyśmy	wynijść	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> wyszły	wynijść	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+> wyszły	wynijść	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+6127586a6128667,6128675
+> wyschnąć	wyschnąć	inf:perf		rzad.
+> wyschnąłbym	wyschnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> wyschnąłbyś	wyschnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> wyschnąłby	wyschnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> wyschnąłem	wyschnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> wyschnąłeś	wyschnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> wyschnął	wyschnąć	praet:sg:m1.m2.m3:perf		rzad.
+> wyschnął	wyschnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+> wyschnąwszy	wyschnąć	pant:perf		rzad.
+6127587a6128677,6128705
+> wyschną	wyschnąć	fin:pl:ter:perf		rzad.
+> wyschnęlibyście	wyschnąć	cond:pl:m1.p1:sec:perf		rzad.
+> wyschnęlibyśmy	wyschnąć	cond:pl:m1.p1:pri:perf		rzad.
+> wyschnęliby	wyschnąć	cond:pl:m1.p1:ter:perf		rzad.
+> wyschnęliście	wyschnąć	praet:pl:m1.p1:sec:perf		rzad.
+> wyschnęliśmy	wyschnąć	praet:pl:m1.p1:pri:perf		rzad.
+> wyschnęli	wyschnąć	praet:pl:m1.p1:perf		rzad.
+> wyschnęli	wyschnąć	praet:pl:m1.p1:ter:perf		rzad.
+> wyschnęłabym	wyschnąć	cond:sg:f:pri:perf		rzad.
+> wyschnęłabyś	wyschnąć	cond:sg:f:sec:perf		rzad.
+> wyschnęłaby	wyschnąć	cond:sg:f:ter:perf		rzad.
+> wyschnęłam	wyschnąć	praet:sg:f:pri:perf		rzad.
+> wyschnęłaś	wyschnąć	praet:sg:f:sec:perf		rzad.
+> wyschnęła	wyschnąć	praet:sg:f:perf		rzad.
+> wyschnęła	wyschnąć	praet:sg:f:ter:perf		rzad.
+> wyschnęłobym	wyschnąć	cond:sg:n1.n2:pri:perf		rzad.
+> wyschnęłobyś	wyschnąć	cond:sg:n1.n2:sec:perf		rzad.
+> wyschnęłoby	wyschnąć	cond:sg:n1.n2:ter:perf		rzad.
+> wyschnęłom	wyschnąć	praet:sg:n1.n2:pri:perf		rzad.
+> wyschnęłoś	wyschnąć	praet:sg:n1.n2:sec:perf		rzad.
+> wyschnęło	wyschnąć	praet:sg:n1.n2:perf		rzad.
+> wyschnęło	wyschnąć	praet:sg:n1.n2:ter:perf		rzad.
+> wyschnęłybyście	wyschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> wyschnęłybyśmy	wyschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> wyschnęłyby	wyschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> wyschnęłyście	wyschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> wyschnęłyśmy	wyschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> wyschnęły	wyschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> wyschnęły	wyschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+6127588a6128707
+> wyschnę	wyschnąć	fin:sg:pri:perf		rzad.
+6127589a6128709
+> wyschniecie	wyschnąć	fin:pl:sec:perf		rzad.
+6127590a6128711
+> wyschniemy	wyschnąć	fin:pl:pri:perf		rzad.
+6127591a6128713
+> wyschniesz	wyschnąć	fin:sg:sec:perf		rzad.
+6127592a6128715
+> wyschnie	wyschnąć	fin:sg:ter:perf		rzad.
+6127610a6128734
+> wyschnięto	wyschnąć	imps:perf		rzad.
+6127618a6128743
+> wyschnijcie	wyschnąć	impt:pl:sec:perf		rzad.
+6127619a6128745
+> wyschnijmy	wyschnąć	impt:pl:pri:perf		rzad.
+6127620a6128747
+> wyschnij	wyschnąć	impt:sg:sec:perf		rzad.
+6142652c6143779
+< w	wyspa	brev:pun
+---
+> w	wyspa	brev:pun		geogr.
+6152255a6153383,6153391
+> wystygnąć	wystygnąć	inf:perf		rzad.
+> wystygnąłbym	wystygnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> wystygnąłbyś	wystygnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> wystygnąłby	wystygnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> wystygnąłem	wystygnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> wystygnąłeś	wystygnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> wystygnął	wystygnąć	praet:sg:m1.m2.m3:perf		rzad.
+> wystygnął	wystygnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+> wystygnąwszy	wystygnąć	pant:perf		rzad.
+6152256a6153393,6153421
+> wystygną	wystygnąć	fin:pl:ter:perf		rzad.
+> wystygnęlibyście	wystygnąć	cond:pl:m1.p1:sec:perf		rzad.
+> wystygnęlibyśmy	wystygnąć	cond:pl:m1.p1:pri:perf		rzad.
+> wystygnęliby	wystygnąć	cond:pl:m1.p1:ter:perf		rzad.
+> wystygnęliście	wystygnąć	praet:pl:m1.p1:sec:perf		rzad.
+> wystygnęliśmy	wystygnąć	praet:pl:m1.p1:pri:perf		rzad.
+> wystygnęli	wystygnąć	praet:pl:m1.p1:perf		rzad.
+> wystygnęli	wystygnąć	praet:pl:m1.p1:ter:perf		rzad.
+> wystygnęłabym	wystygnąć	cond:sg:f:pri:perf		rzad.
+> wystygnęłabyś	wystygnąć	cond:sg:f:sec:perf		rzad.
+> wystygnęłaby	wystygnąć	cond:sg:f:ter:perf		rzad.
+> wystygnęłam	wystygnąć	praet:sg:f:pri:perf		rzad.
+> wystygnęłaś	wystygnąć	praet:sg:f:sec:perf		rzad.
+> wystygnęła	wystygnąć	praet:sg:f:perf		rzad.
+> wystygnęła	wystygnąć	praet:sg:f:ter:perf		rzad.
+> wystygnęłobym	wystygnąć	cond:sg:n1.n2:pri:perf		rzad.
+> wystygnęłobyś	wystygnąć	cond:sg:n1.n2:sec:perf		rzad.
+> wystygnęłoby	wystygnąć	cond:sg:n1.n2:ter:perf		rzad.
+> wystygnęłom	wystygnąć	praet:sg:n1.n2:pri:perf		rzad.
+> wystygnęłoś	wystygnąć	praet:sg:n1.n2:sec:perf		rzad.
+> wystygnęło	wystygnąć	praet:sg:n1.n2:perf		rzad.
+> wystygnęło	wystygnąć	praet:sg:n1.n2:ter:perf		rzad.
+> wystygnęłybyście	wystygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> wystygnęłybyśmy	wystygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> wystygnęłyby	wystygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> wystygnęłyście	wystygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> wystygnęłyśmy	wystygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> wystygnęły	wystygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> wystygnęły	wystygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+6152257a6153423
+> wystygnę	wystygnąć	fin:sg:pri:perf		rzad.
+6152258a6153425
+> wystygniecie	wystygnąć	fin:pl:sec:perf		rzad.
+6152259a6153427
+> wystygniemy	wystygnąć	fin:pl:pri:perf		rzad.
+6152260a6153429
+> wystygniesz	wystygnąć	fin:sg:sec:perf		rzad.
+6152261a6153431
+> wystygnie	wystygnąć	fin:sg:ter:perf		rzad.
+6152279a6153450
+> wystygnięto	wystygnąć	imps:perf		rzad.
+6152287a6153459
+> wystygnijcie	wystygnąć	impt:pl:sec:perf		rzad.
+6152288a6153461
+> wystygnijmy	wystygnąć	impt:pl:pri:perf		rzad.
+6152289a6153463
+> wystygnij	wystygnąć	impt:sg:sec:perf		rzad.
+6210480c6211654
+< ww	wyżej_wymieniony	brev:pun
+---
+> ww	wyżej_wymieniony	brev:pun		
+6221203a6222378,6222413
+> wzeszedłbym	wzniść	cond:sg:m1.m2.m3:pri:perf		daw.
+> wzeszedłbyś	wzniść	cond:sg:m1.m2.m3:sec:perf		daw.
+> wzeszedłby	wzniść	cond:sg:m1.m2.m3:ter:perf		daw.
+> wzeszedłem	wzniść	praet:sg:m1.m2.m3:pri:perf		daw.
+> wzeszedłeś	wzniść	praet:sg:m1.m2.m3:sec:perf		daw.
+> wzeszedłszy	wzniść	pant:perf		daw.
+> wzeszedł	wzniść	praet:sg:m1.m2.m3:perf		daw.
+> wzeszedł	wzniść	praet:sg:m1.m2.m3:ter:perf		daw.
+> wzeszlibyście	wzniść	cond:pl:m1.p1:sec:perf		daw.
+> wzeszlibyśmy	wzniść	cond:pl:m1.p1:pri:perf		daw.
+> wzeszliby	wzniść	cond:pl:m1.p1:ter:perf		daw.
+> wzeszliście	wzniść	praet:pl:m1.p1:sec:perf		daw.
+> wzeszliśmy	wzniść	praet:pl:m1.p1:pri:perf		daw.
+> wzeszli	wzniść	praet:pl:m1.p1:perf		daw.
+> wzeszli	wzniść	praet:pl:m1.p1:ter:perf		daw.
+> wzeszłabym	wzniść	cond:sg:f:pri:perf		daw.
+> wzeszłabyś	wzniść	cond:sg:f:sec:perf		daw.
+> wzeszłaby	wzniść	cond:sg:f:ter:perf		daw.
+> wzeszłam	wzniść	praet:sg:f:pri:perf		daw.
+> wzeszłaś	wzniść	praet:sg:f:sec:perf		daw.
+> wzeszła	wzniść	praet:sg:f:perf		daw.
+> wzeszła	wzniść	praet:sg:f:ter:perf		daw.
+> wzeszłobym	wzniść	cond:sg:n1.n2:pri:perf		daw.
+> wzeszłobyś	wzniść	cond:sg:n1.n2:sec:perf		daw.
+> wzeszłoby	wzniść	cond:sg:n1.n2:ter:perf		daw.
+> wzeszłom	wzniść	praet:sg:n1.n2:pri:perf		daw.
+> wzeszłoś	wzniść	praet:sg:n1.n2:sec:perf		daw.
+> wzeszło	wzniść	praet:sg:n1.n2:perf		daw.
+> wzeszło	wzniść	praet:sg:n1.n2:ter:perf		daw.
+> wzeszłybyście	wzniść	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> wzeszłybyśmy	wzniść	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> wzeszłyby	wzniść	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+> wzeszłyście	wzniść	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> wzeszłyśmy	wzniść	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> wzeszły	wzniść	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+> wzeszły	wzniść	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+6221222,6221257d6222431
+< wzszedłbym	wzniść	cond:sg:m1.m2.m3:pri:perf		daw.
+< wzszedłbyś	wzniść	cond:sg:m1.m2.m3:sec:perf		daw.
+< wzszedłby	wzniść	cond:sg:m1.m2.m3:ter:perf		daw.
+< wzszedłem	wzniść	praet:sg:m1.m2.m3:pri:perf		daw.
+< wzszedłeś	wzniść	praet:sg:m1.m2.m3:sec:perf		daw.
+< wzszedłszy	wzniść	pant:perf		daw.
+< wzszedł	wzniść	praet:sg:m1.m2.m3:perf		daw.
+< wzszedł	wzniść	praet:sg:m1.m2.m3:ter:perf		daw.
+< wzszlibyście	wzniść	cond:pl:m1.p1:sec:perf		daw.
+< wzszlibyśmy	wzniść	cond:pl:m1.p1:pri:perf		daw.
+< wzszliby	wzniść	cond:pl:m1.p1:ter:perf		daw.
+< wzszliście	wzniść	praet:pl:m1.p1:sec:perf		daw.
+< wzszliśmy	wzniść	praet:pl:m1.p1:pri:perf		daw.
+< wzszli	wzniść	praet:pl:m1.p1:perf		daw.
+< wzszli	wzniść	praet:pl:m1.p1:ter:perf		daw.
+< wzszłabym	wzniść	cond:sg:f:pri:perf		daw.
+< wzszłabyś	wzniść	cond:sg:f:sec:perf		daw.
+< wzszłaby	wzniść	cond:sg:f:ter:perf		daw.
+< wzszłam	wzniść	praet:sg:f:pri:perf		daw.
+< wzszłaś	wzniść	praet:sg:f:sec:perf		daw.
+< wzszła	wzniść	praet:sg:f:perf		daw.
+< wzszła	wzniść	praet:sg:f:ter:perf		daw.
+< wzszłobym	wzniść	cond:sg:n1.n2:pri:perf		daw.
+< wzszłobyś	wzniść	cond:sg:n1.n2:sec:perf		daw.
+< wzszłoby	wzniść	cond:sg:n1.n2:ter:perf		daw.
+< wzszłom	wzniść	praet:sg:n1.n2:pri:perf		daw.
+< wzszłoś	wzniść	praet:sg:n1.n2:sec:perf		daw.
+< wzszło	wzniść	praet:sg:n1.n2:perf		daw.
+< wzszło	wzniść	praet:sg:n1.n2:ter:perf		daw.
+< wzszłybyście	wzniść	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< wzszłybyśmy	wzniść	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< wzszłyby	wzniść	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+< wzszłyście	wzniść	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< wzszłyśmy	wzniść	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< wzszły	wzniść	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+< wzszły	wzniść	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+6222287c6223461
+< wz	wzorowy	brev:pun
+---
+> wz	wzorowy	brev:pun		
+6437261a6438436,6438443
+> zaschnąłbym	zaschnąć	cond:sg:m1.m2.m3:pri:perf		
+> zaschnąłbyś	zaschnąć	cond:sg:m1.m2.m3:sec:perf		
+> zaschnąłby	zaschnąć	cond:sg:m1.m2.m3:ter:perf		
+> zaschnąłem	zaschnąć	praet:sg:m1.m2.m3:pri:perf		
+> zaschnąłeś	zaschnąć	praet:sg:m1.m2.m3:sec:perf		
+> zaschnął	zaschnąć	praet:sg:m1.m2.m3:perf		
+> zaschnął	zaschnąć	praet:sg:m1.m2.m3:ter:perf		
+> zaschnąwszy	zaschnąć	pant:perf		
+6437262a6438445,6438472
+> zaschnęlibyście	zaschnąć	cond:pl:m1.p1:sec:perf		
+> zaschnęlibyśmy	zaschnąć	cond:pl:m1.p1:pri:perf		
+> zaschnęliby	zaschnąć	cond:pl:m1.p1:ter:perf		
+> zaschnęliście	zaschnąć	praet:pl:m1.p1:sec:perf		
+> zaschnęliśmy	zaschnąć	praet:pl:m1.p1:pri:perf		
+> zaschnęli	zaschnąć	praet:pl:m1.p1:perf		
+> zaschnęli	zaschnąć	praet:pl:m1.p1:ter:perf		
+> zaschnęłabym	zaschnąć	cond:sg:f:pri:perf		
+> zaschnęłabyś	zaschnąć	cond:sg:f:sec:perf		
+> zaschnęłaby	zaschnąć	cond:sg:f:ter:perf		
+> zaschnęłam	zaschnąć	praet:sg:f:pri:perf		
+> zaschnęłaś	zaschnąć	praet:sg:f:sec:perf		
+> zaschnęła	zaschnąć	praet:sg:f:perf		
+> zaschnęła	zaschnąć	praet:sg:f:ter:perf		
+> zaschnęłobym	zaschnąć	cond:sg:n1.n2:pri:perf		
+> zaschnęłobyś	zaschnąć	cond:sg:n1.n2:sec:perf		
+> zaschnęłoby	zaschnąć	cond:sg:n1.n2:ter:perf		
+> zaschnęłom	zaschnąć	praet:sg:n1.n2:pri:perf		
+> zaschnęłoś	zaschnąć	praet:sg:n1.n2:sec:perf		
+> zaschnęło	zaschnąć	praet:sg:n1.n2:perf		
+> zaschnęło	zaschnąć	praet:sg:n1.n2:ter:perf		
+> zaschnęłybyście	zaschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zaschnęłybyśmy	zaschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zaschnęłyby	zaschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zaschnęłyście	zaschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zaschnęłyśmy	zaschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zaschnęły	zaschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> zaschnęły	zaschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+6444583a6445794,6445802
+> zasłabnąć	zasłabnąć	inf:perf		rzad.
+> zasłabnąłbym	zasłabnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> zasłabnąłbyś	zasłabnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> zasłabnąłby	zasłabnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> zasłabnąłem	zasłabnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> zasłabnąłeś	zasłabnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> zasłabnął	zasłabnąć	praet:sg:m1.m2.m3:perf		rzad.
+> zasłabnął	zasłabnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+> zasłabnąwszy	zasłabnąć	pant:perf		rzad.
+6444584a6445804,6445832
+> zasłabną	zasłabnąć	fin:pl:ter:perf		rzad.
+> zasłabnęlibyście	zasłabnąć	cond:pl:m1.p1:sec:perf		rzad.
+> zasłabnęlibyśmy	zasłabnąć	cond:pl:m1.p1:pri:perf		rzad.
+> zasłabnęliby	zasłabnąć	cond:pl:m1.p1:ter:perf		rzad.
+> zasłabnęliście	zasłabnąć	praet:pl:m1.p1:sec:perf		rzad.
+> zasłabnęliśmy	zasłabnąć	praet:pl:m1.p1:pri:perf		rzad.
+> zasłabnęli	zasłabnąć	praet:pl:m1.p1:perf		rzad.
+> zasłabnęli	zasłabnąć	praet:pl:m1.p1:ter:perf		rzad.
+> zasłabnęłabym	zasłabnąć	cond:sg:f:pri:perf		rzad.
+> zasłabnęłabyś	zasłabnąć	cond:sg:f:sec:perf		rzad.
+> zasłabnęłaby	zasłabnąć	cond:sg:f:ter:perf		rzad.
+> zasłabnęłam	zasłabnąć	praet:sg:f:pri:perf		rzad.
+> zasłabnęłaś	zasłabnąć	praet:sg:f:sec:perf		rzad.
+> zasłabnęła	zasłabnąć	praet:sg:f:perf		rzad.
+> zasłabnęła	zasłabnąć	praet:sg:f:ter:perf		rzad.
+> zasłabnęłobym	zasłabnąć	cond:sg:n1.n2:pri:perf		rzad.
+> zasłabnęłobyś	zasłabnąć	cond:sg:n1.n2:sec:perf		rzad.
+> zasłabnęłoby	zasłabnąć	cond:sg:n1.n2:ter:perf		rzad.
+> zasłabnęłom	zasłabnąć	praet:sg:n1.n2:pri:perf		rzad.
+> zasłabnęłoś	zasłabnąć	praet:sg:n1.n2:sec:perf		rzad.
+> zasłabnęło	zasłabnąć	praet:sg:n1.n2:perf		rzad.
+> zasłabnęło	zasłabnąć	praet:sg:n1.n2:ter:perf		rzad.
+> zasłabnęłybyście	zasłabnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zasłabnęłybyśmy	zasłabnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zasłabnęłyby	zasłabnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> zasłabnęłyście	zasłabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zasłabnęłyśmy	zasłabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zasłabnęły	zasłabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> zasłabnęły	zasłabnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+6444585a6445834
+> zasłabnę	zasłabnąć	fin:sg:pri:perf		rzad.
+6444586a6445836
+> zasłabniecie	zasłabnąć	fin:pl:sec:perf		rzad.
+6444587a6445838
+> zasłabniemy	zasłabnąć	fin:pl:pri:perf		rzad.
+6444588a6445840
+> zasłabniesz	zasłabnąć	fin:sg:sec:perf		rzad.
+6444589a6445842
+> zasłabnie	zasłabnąć	fin:sg:ter:perf		rzad.
+6444598a6445852
+> zasłabnięto	zasłabnąć	imps:perf		rzad.
+6444599a6445854
+> zasłabnijcie	zasłabnąć	impt:pl:sec:perf		rzad.
+6444600a6445856
+> zasłabnijmy	zasłabnąć	impt:pl:pri:perf		rzad.
+6444601a6445858
+> zasłabnij	zasłabnąć	impt:sg:sec:perf		rzad.
+6456398a6457656,6457664
+> zastygnąć	zastygnąć	inf:perf		rzad.
+> zastygnąłbym	zastygnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> zastygnąłbyś	zastygnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> zastygnąłby	zastygnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> zastygnąłem	zastygnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> zastygnąłeś	zastygnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> zastygnął	zastygnąć	praet:sg:m1.m2.m3:perf		rzad.
+> zastygnął	zastygnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+> zastygnąwszy	zastygnąć	pant:perf		rzad.
+6456399a6457666,6457694
+> zastygną	zastygnąć	fin:pl:ter:perf		rzad.
+> zastygnęlibyście	zastygnąć	cond:pl:m1.p1:sec:perf		rzad.
+> zastygnęlibyśmy	zastygnąć	cond:pl:m1.p1:pri:perf		rzad.
+> zastygnęliby	zastygnąć	cond:pl:m1.p1:ter:perf		rzad.
+> zastygnęliście	zastygnąć	praet:pl:m1.p1:sec:perf		rzad.
+> zastygnęliśmy	zastygnąć	praet:pl:m1.p1:pri:perf		rzad.
+> zastygnęli	zastygnąć	praet:pl:m1.p1:perf		rzad.
+> zastygnęli	zastygnąć	praet:pl:m1.p1:ter:perf		rzad.
+> zastygnęłabym	zastygnąć	cond:sg:f:pri:perf		rzad.
+> zastygnęłabyś	zastygnąć	cond:sg:f:sec:perf		rzad.
+> zastygnęłaby	zastygnąć	cond:sg:f:ter:perf		rzad.
+> zastygnęłam	zastygnąć	praet:sg:f:pri:perf		rzad.
+> zastygnęłaś	zastygnąć	praet:sg:f:sec:perf		rzad.
+> zastygnęła	zastygnąć	praet:sg:f:perf		rzad.
+> zastygnęła	zastygnąć	praet:sg:f:ter:perf		rzad.
+> zastygnęłobym	zastygnąć	cond:sg:n1.n2:pri:perf		rzad.
+> zastygnęłobyś	zastygnąć	cond:sg:n1.n2:sec:perf		rzad.
+> zastygnęłoby	zastygnąć	cond:sg:n1.n2:ter:perf		rzad.
+> zastygnęłom	zastygnąć	praet:sg:n1.n2:pri:perf		rzad.
+> zastygnęłoś	zastygnąć	praet:sg:n1.n2:sec:perf		rzad.
+> zastygnęło	zastygnąć	praet:sg:n1.n2:perf		rzad.
+> zastygnęło	zastygnąć	praet:sg:n1.n2:ter:perf		rzad.
+> zastygnęłybyście	zastygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zastygnęłybyśmy	zastygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zastygnęłyby	zastygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> zastygnęłyście	zastygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zastygnęłyśmy	zastygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zastygnęły	zastygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> zastygnęły	zastygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+6456400a6457696
+> zastygnę	zastygnąć	fin:sg:pri:perf		rzad.
+6456401a6457698
+> zastygniecie	zastygnąć	fin:pl:sec:perf		rzad.
+6456402a6457700
+> zastygniemy	zastygnąć	fin:pl:pri:perf		rzad.
+6456403a6457702
+> zastygniesz	zastygnąć	fin:sg:sec:perf		rzad.
+6456404a6457704
+> zastygnie	zastygnąć	fin:sg:ter:perf		rzad.
+6456422a6457723
+> zastygnięto	zastygnąć	imps:perf		rzad.
+6456430a6457732
+> zastygnijcie	zastygnąć	impt:pl:sec:perf		rzad.
+6456431a6457734
+> zastygnijmy	zastygnąć	impt:pl:pri:perf		rzad.
+6456432a6457736
+> zastygnij	zastygnąć	impt:sg:sec:perf		rzad.
+6501696a6503001,6503009
+> zawilgnąć	zawilgnąć	inf:perf		rzad.
+> zawilgnąłbym	zawilgnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> zawilgnąłbyś	zawilgnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> zawilgnąłby	zawilgnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> zawilgnąłem	zawilgnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> zawilgnąłeś	zawilgnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> zawilgnął	zawilgnąć	praet:sg:m1.m2.m3:perf		rzad.
+> zawilgnął	zawilgnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+> zawilgnąwszy	zawilgnąć	pant:perf		rzad.
+6501697a6503011,6503039
+> zawilgną	zawilgnąć	fin:pl:ter:perf		rzad.
+> zawilgnęlibyście	zawilgnąć	cond:pl:m1.p1:sec:perf		rzad.
+> zawilgnęlibyśmy	zawilgnąć	cond:pl:m1.p1:pri:perf		rzad.
+> zawilgnęliby	zawilgnąć	cond:pl:m1.p1:ter:perf		rzad.
+> zawilgnęliście	zawilgnąć	praet:pl:m1.p1:sec:perf		rzad.
+> zawilgnęliśmy	zawilgnąć	praet:pl:m1.p1:pri:perf		rzad.
+> zawilgnęli	zawilgnąć	praet:pl:m1.p1:perf		rzad.
+> zawilgnęli	zawilgnąć	praet:pl:m1.p1:ter:perf		rzad.
+> zawilgnęłabym	zawilgnąć	cond:sg:f:pri:perf		rzad.
+> zawilgnęłabyś	zawilgnąć	cond:sg:f:sec:perf		rzad.
+> zawilgnęłaby	zawilgnąć	cond:sg:f:ter:perf		rzad.
+> zawilgnęłam	zawilgnąć	praet:sg:f:pri:perf		rzad.
+> zawilgnęłaś	zawilgnąć	praet:sg:f:sec:perf		rzad.
+> zawilgnęła	zawilgnąć	praet:sg:f:perf		rzad.
+> zawilgnęła	zawilgnąć	praet:sg:f:ter:perf		rzad.
+> zawilgnęłobym	zawilgnąć	cond:sg:n1.n2:pri:perf		rzad.
+> zawilgnęłobyś	zawilgnąć	cond:sg:n1.n2:sec:perf		rzad.
+> zawilgnęłoby	zawilgnąć	cond:sg:n1.n2:ter:perf		rzad.
+> zawilgnęłom	zawilgnąć	praet:sg:n1.n2:pri:perf		rzad.
+> zawilgnęłoś	zawilgnąć	praet:sg:n1.n2:sec:perf		rzad.
+> zawilgnęło	zawilgnąć	praet:sg:n1.n2:perf		rzad.
+> zawilgnęło	zawilgnąć	praet:sg:n1.n2:ter:perf		rzad.
+> zawilgnęłybyście	zawilgnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zawilgnęłybyśmy	zawilgnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zawilgnęłyby	zawilgnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> zawilgnęłyście	zawilgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zawilgnęłyśmy	zawilgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zawilgnęły	zawilgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> zawilgnęły	zawilgnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+6501698a6503041
+> zawilgnę	zawilgnąć	fin:sg:pri:perf		rzad.
+6501699a6503043
+> zawilgniecie	zawilgnąć	fin:pl:sec:perf		rzad.
+6501700a6503045
+> zawilgniemy	zawilgnąć	fin:pl:pri:perf		rzad.
+6501701a6503047
+> zawilgniesz	zawilgnąć	fin:sg:sec:perf		rzad.
+6501702a6503049
+> zawilgnie	zawilgnąć	fin:sg:ter:perf		rzad.
+6501720a6503068
+> zawilgnięto	zawilgnąć	imps:perf		rzad.
+6501728a6503077
+> zawilgnijcie	zawilgnąć	impt:pl:sec:perf		rzad.
+6501729a6503079
+> zawilgnijmy	zawilgnąć	impt:pl:pri:perf		rzad.
+6501730a6503081
+> zawilgnij	zawilgnąć	impt:sg:sec:perf		rzad.
+6535962a6537314,6537322
+> zbrzydnąć	zbrzydnąć	inf:perf		rzad.
+> zbrzydnąłbym	zbrzydnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> zbrzydnąłbyś	zbrzydnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> zbrzydnąłby	zbrzydnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> zbrzydnąłem	zbrzydnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> zbrzydnąłeś	zbrzydnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> zbrzydnął	zbrzydnąć	praet:sg:m1.m2.m3:perf		rzad.
+> zbrzydnął	zbrzydnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+> zbrzydnąwszy	zbrzydnąć	pant:perf		rzad.
+6535963a6537324,6537352
+> zbrzydną	zbrzydnąć	fin:pl:ter:perf		rzad.
+> zbrzydnęlibyście	zbrzydnąć	cond:pl:m1.p1:sec:perf		rzad.
+> zbrzydnęlibyśmy	zbrzydnąć	cond:pl:m1.p1:pri:perf		rzad.
+> zbrzydnęliby	zbrzydnąć	cond:pl:m1.p1:ter:perf		rzad.
+> zbrzydnęliście	zbrzydnąć	praet:pl:m1.p1:sec:perf		rzad.
+> zbrzydnęliśmy	zbrzydnąć	praet:pl:m1.p1:pri:perf		rzad.
+> zbrzydnęli	zbrzydnąć	praet:pl:m1.p1:perf		rzad.
+> zbrzydnęli	zbrzydnąć	praet:pl:m1.p1:ter:perf		rzad.
+> zbrzydnęłabym	zbrzydnąć	cond:sg:f:pri:perf		rzad.
+> zbrzydnęłabyś	zbrzydnąć	cond:sg:f:sec:perf		rzad.
+> zbrzydnęłaby	zbrzydnąć	cond:sg:f:ter:perf		rzad.
+> zbrzydnęłam	zbrzydnąć	praet:sg:f:pri:perf		rzad.
+> zbrzydnęłaś	zbrzydnąć	praet:sg:f:sec:perf		rzad.
+> zbrzydnęła	zbrzydnąć	praet:sg:f:perf		rzad.
+> zbrzydnęła	zbrzydnąć	praet:sg:f:ter:perf		rzad.
+> zbrzydnęłobym	zbrzydnąć	cond:sg:n1.n2:pri:perf		rzad.
+> zbrzydnęłobyś	zbrzydnąć	cond:sg:n1.n2:sec:perf		rzad.
+> zbrzydnęłoby	zbrzydnąć	cond:sg:n1.n2:ter:perf		rzad.
+> zbrzydnęłom	zbrzydnąć	praet:sg:n1.n2:pri:perf		rzad.
+> zbrzydnęłoś	zbrzydnąć	praet:sg:n1.n2:sec:perf		rzad.
+> zbrzydnęło	zbrzydnąć	praet:sg:n1.n2:perf		rzad.
+> zbrzydnęło	zbrzydnąć	praet:sg:n1.n2:ter:perf		rzad.
+> zbrzydnęłybyście	zbrzydnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zbrzydnęłybyśmy	zbrzydnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zbrzydnęłyby	zbrzydnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> zbrzydnęłyście	zbrzydnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zbrzydnęłyśmy	zbrzydnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zbrzydnęły	zbrzydnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> zbrzydnęły	zbrzydnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+6535964a6537354
+> zbrzydnę	zbrzydnąć	fin:sg:pri:perf		rzad.
+6535965a6537356
+> zbrzydniecie	zbrzydnąć	fin:pl:sec:perf		rzad.
+6535966a6537358
+> zbrzydniemy	zbrzydnąć	fin:pl:pri:perf		rzad.
+6535967a6537360
+> zbrzydniesz	zbrzydnąć	fin:sg:sec:perf		rzad.
+6535968a6537362
+> zbrzydnie	zbrzydnąć	fin:sg:ter:perf		rzad.
+6535977a6537372
+> zbrzydnięto	zbrzydnąć	imps:perf		rzad.
+6535978a6537374
+> zbrzydnijcie	zbrzydnąć	impt:pl:sec:perf		rzad.
+6535979a6537376
+> zbrzydnijmy	zbrzydnąć	impt:pl:pri:perf		rzad.
+6535980a6537378
+> zbrzydnij	zbrzydnąć	impt:sg:sec:perf		rzad.
+6575448,6575491d6576845
+< libyście	zeschnąć	cond:pl:m1.p1:sec:perf		
+< libyśmy	zeschnąć	cond:pl:m1.p1:pri:perf		
+< liby	zeschnąć	cond:pl:m1.p1:ter:perf		
+< liście	zeschnąć	praet:pl:m1.p1:sec:perf		
+< liśmy	zeschnąć	praet:pl:m1.p1:pri:perf		
+< li	zeschnąć	praet:pl:m1.p1:perf		
+< li	zeschnąć	praet:pl:m1.p1:ter:perf		
+< łabym	zeschnąć	cond:sg:f:pri:perf		
+< łabyś	zeschnąć	cond:sg:f:sec:perf		
+< łaby	zeschnąć	cond:sg:f:ter:perf		
+< łam	zeschnąć	praet:sg:f:pri:perf		
+< łaś	zeschnąć	praet:sg:f:sec:perf		
+< ła	zeschnąć	praet:sg:f:perf		
+< ła	zeschnąć	praet:sg:f:ter:perf		
+< łobym	zeschnąć	cond:sg:n1.n2:pri:perf		
+< łobyś	zeschnąć	cond:sg:n1.n2:sec:perf		
+< łoby	zeschnąć	cond:sg:n1.n2:ter:perf		
+< łom	zeschnąć	praet:sg:n1.n2:pri:perf		
+< łoś	zeschnąć	praet:sg:n1.n2:sec:perf		
+< ło	zeschnąć	praet:sg:n1.n2:perf		
+< ło	zeschnąć	praet:sg:n1.n2:ter:perf		
+< łybyście	zeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+< łybyśmy	zeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+< łyby	zeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+< łyście	zeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+< łyśmy	zeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+< ły	zeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+< ły	zeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+< nąć	zeschnąć	inf:perf		
+< nąłbym	zeschnąć	cond:sg:m1.m2.m3:pri:perf		
+< nąłbyś	zeschnąć	cond:sg:m1.m2.m3:sec:perf		
+< nąłby	zeschnąć	cond:sg:m1.m2.m3:ter:perf		
+< nąłem	zeschnąć	praet:sg:m1.m2.m3:pri:perf		
+< nąłeś	zeschnąć	praet:sg:m1.m2.m3:sec:perf		
+< nął	zeschnąć	praet:sg:m1.m2.m3:perf:agl		
+< nął	zeschnąć	praet:sg:m1.m2.m3:perf:nagl		
+< nął	zeschnąć	praet:sg:m1.m2.m3:ter:perf		
+< nąwszy	zeschnąć	pant:perf		
+< ną	zeschnąć	fin:pl:ter:perf		
+< nę	zeschnąć	fin:sg:pri:perf		
+< niecie	zeschnąć	fin:pl:sec:perf		
+< niemy	zeschnąć	fin:pl:pri:perf		
+< niesz	zeschnąć	fin:sg:sec:perf		
+< nie	zeschnąć	fin:sg:ter:perf		
+6575516,6575519d6576869
+< nięto	zeschnąć	imps:perf		
+< nijcie	zeschnąć	impt:pl:sec:perf		
+< nijmy	zeschnąć	impt:pl:pri:perf		
+< nij	zeschnąć	impt:sg:sec:perf		
+6575551a6576902,6576910
+> zeschnąć	zeschnąć	inf:perf		rzad.
+> zeschnąłbym	zeschnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> zeschnąłbyś	zeschnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> zeschnąłby	zeschnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> zeschnąłem	zeschnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> zeschnąłeś	zeschnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> zeschnął	zeschnąć	praet:sg:m1.m2.m3:perf		rzad.
+> zeschnął	zeschnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+> zeschnąwszy	zeschnąć	pant:perf		rzad.
+6575552a6576912,6576940
+> zeschną	zeschnąć	fin:pl:ter:perf		rzad.
+> zeschnęlibyście	zeschnąć	cond:pl:m1.p1:sec:perf		rzad.
+> zeschnęlibyśmy	zeschnąć	cond:pl:m1.p1:pri:perf		rzad.
+> zeschnęliby	zeschnąć	cond:pl:m1.p1:ter:perf		rzad.
+> zeschnęliście	zeschnąć	praet:pl:m1.p1:sec:perf		rzad.
+> zeschnęliśmy	zeschnąć	praet:pl:m1.p1:pri:perf		rzad.
+> zeschnęli	zeschnąć	praet:pl:m1.p1:perf		rzad.
+> zeschnęli	zeschnąć	praet:pl:m1.p1:ter:perf		rzad.
+> zeschnęłabym	zeschnąć	cond:sg:f:pri:perf		rzad.
+> zeschnęłabyś	zeschnąć	cond:sg:f:sec:perf		rzad.
+> zeschnęłaby	zeschnąć	cond:sg:f:ter:perf		rzad.
+> zeschnęłam	zeschnąć	praet:sg:f:pri:perf		rzad.
+> zeschnęłaś	zeschnąć	praet:sg:f:sec:perf		rzad.
+> zeschnęła	zeschnąć	praet:sg:f:perf		rzad.
+> zeschnęła	zeschnąć	praet:sg:f:ter:perf		rzad.
+> zeschnęłobym	zeschnąć	cond:sg:n1.n2:pri:perf		rzad.
+> zeschnęłobyś	zeschnąć	cond:sg:n1.n2:sec:perf		rzad.
+> zeschnęłoby	zeschnąć	cond:sg:n1.n2:ter:perf		rzad.
+> zeschnęłom	zeschnąć	praet:sg:n1.n2:pri:perf		rzad.
+> zeschnęłoś	zeschnąć	praet:sg:n1.n2:sec:perf		rzad.
+> zeschnęło	zeschnąć	praet:sg:n1.n2:perf		rzad.
+> zeschnęło	zeschnąć	praet:sg:n1.n2:ter:perf		rzad.
+> zeschnęłybyście	zeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zeschnęłybyśmy	zeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zeschnęłyby	zeschnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> zeschnęłyście	zeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zeschnęłyśmy	zeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zeschnęły	zeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> zeschnęły	zeschnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+6575553a6576942
+> zeschnę	zeschnąć	fin:sg:pri:perf		rzad.
+6575554a6576944
+> zeschniecie	zeschnąć	fin:pl:sec:perf		rzad.
+6575555a6576946
+> zeschniemy	zeschnąć	fin:pl:pri:perf		rzad.
+6575556a6576948
+> zeschniesz	zeschnąć	fin:sg:sec:perf		rzad.
+6575557a6576950
+> zeschnie	zeschnąć	fin:sg:ter:perf		rzad.
+6575575a6576969
+> zeschnięto	zeschnąć	imps:perf		rzad.
+6575583a6576978
+> zeschnijcie	zeschnąć	impt:pl:sec:perf		rzad.
+6575584a6576980
+> zeschnijmy	zeschnąć	impt:pl:pri:perf		rzad.
+6575585a6576982
+> zeschnij	zeschnąć	impt:sg:sec:perf		rzad.
+6586897a6588295,6588303
+> zestygnąć	zestygnąć	inf:perf		rzad.
+> zestygnąłbym	zestygnąć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> zestygnąłbyś	zestygnąć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> zestygnąłby	zestygnąć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> zestygnąłem	zestygnąć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> zestygnąłeś	zestygnąć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> zestygnął	zestygnąć	praet:sg:m1.m2.m3:perf		rzad.
+> zestygnął	zestygnąć	praet:sg:m1.m2.m3:ter:perf		rzad.
+> zestygnąwszy	zestygnąć	pant:perf		rzad.
+6586898a6588305,6588333
+> zestygną	zestygnąć	fin:pl:ter:perf		rzad.
+> zestygnęlibyście	zestygnąć	cond:pl:m1.p1:sec:perf		rzad.
+> zestygnęlibyśmy	zestygnąć	cond:pl:m1.p1:pri:perf		rzad.
+> zestygnęliby	zestygnąć	cond:pl:m1.p1:ter:perf		rzad.
+> zestygnęliście	zestygnąć	praet:pl:m1.p1:sec:perf		rzad.
+> zestygnęliśmy	zestygnąć	praet:pl:m1.p1:pri:perf		rzad.
+> zestygnęli	zestygnąć	praet:pl:m1.p1:perf		rzad.
+> zestygnęli	zestygnąć	praet:pl:m1.p1:ter:perf		rzad.
+> zestygnęłabym	zestygnąć	cond:sg:f:pri:perf		rzad.
+> zestygnęłabyś	zestygnąć	cond:sg:f:sec:perf		rzad.
+> zestygnęłaby	zestygnąć	cond:sg:f:ter:perf		rzad.
+> zestygnęłam	zestygnąć	praet:sg:f:pri:perf		rzad.
+> zestygnęłaś	zestygnąć	praet:sg:f:sec:perf		rzad.
+> zestygnęła	zestygnąć	praet:sg:f:perf		rzad.
+> zestygnęła	zestygnąć	praet:sg:f:ter:perf		rzad.
+> zestygnęłobym	zestygnąć	cond:sg:n1.n2:pri:perf		rzad.
+> zestygnęłobyś	zestygnąć	cond:sg:n1.n2:sec:perf		rzad.
+> zestygnęłoby	zestygnąć	cond:sg:n1.n2:ter:perf		rzad.
+> zestygnęłom	zestygnąć	praet:sg:n1.n2:pri:perf		rzad.
+> zestygnęłoś	zestygnąć	praet:sg:n1.n2:sec:perf		rzad.
+> zestygnęło	zestygnąć	praet:sg:n1.n2:perf		rzad.
+> zestygnęło	zestygnąć	praet:sg:n1.n2:ter:perf		rzad.
+> zestygnęłybyście	zestygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zestygnęłybyśmy	zestygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zestygnęłyby	zestygnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> zestygnęłyście	zestygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zestygnęłyśmy	zestygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zestygnęły	zestygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> zestygnęły	zestygnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+6586899a6588335
+> zestygnę	zestygnąć	fin:sg:pri:perf		rzad.
+6586900a6588337
+> zestygniecie	zestygnąć	fin:pl:sec:perf		rzad.
+6586901a6588339
+> zestygniemy	zestygnąć	fin:pl:pri:perf		rzad.
+6586902a6588341
+> zestygniesz	zestygnąć	fin:sg:sec:perf		rzad.
+6586903a6588343
+> zestygnie	zestygnąć	fin:sg:ter:perf		rzad.
+6586921a6588362
+> zestygnięto	zestygnąć	imps:perf		rzad.
+6586929a6588371
+> zestygnijcie	zestygnąć	impt:pl:sec:perf		rzad.
+6586930a6588373
+> zestygnijmy	zestygnąć	impt:pl:pri:perf		rzad.
+6586931a6588375
+> zestygnij	zestygnąć	impt:sg:sec:perf		rzad.
+6592104c6593548
+< z	zeszyt	brev:pun
+---
+> z	zeszyt	brev:pun		
+6599227a6600672,6600680
+> zgadnąć	zgadnąć	inf:perf		daw.
+> zgadnąłbym	zgadnąć	cond:sg:m1.m2.m3:pri:perf		daw.
+> zgadnąłbyś	zgadnąć	cond:sg:m1.m2.m3:sec:perf		daw.
+> zgadnąłby	zgadnąć	cond:sg:m1.m2.m3:ter:perf		daw.
+> zgadnąłem	zgadnąć	praet:sg:m1.m2.m3:pri:perf		daw.
+> zgadnąłeś	zgadnąć	praet:sg:m1.m2.m3:sec:perf		daw.
+> zgadnął	zgadnąć	praet:sg:m1.m2.m3:perf		daw.
+> zgadnął	zgadnąć	praet:sg:m1.m2.m3:ter:perf		daw.
+> zgadnąwszy	zgadnąć	pant:perf		daw.
+6599228a6600682,6600710
+> zgadną	zgadnąć	fin:pl:ter:perf		daw.
+> zgadnęlibyście	zgadnąć	cond:pl:m1.p1:sec:perf		daw.
+> zgadnęlibyśmy	zgadnąć	cond:pl:m1.p1:pri:perf		daw.
+> zgadnęliby	zgadnąć	cond:pl:m1.p1:ter:perf		daw.
+> zgadnęliście	zgadnąć	praet:pl:m1.p1:sec:perf		daw.
+> zgadnęliśmy	zgadnąć	praet:pl:m1.p1:pri:perf		daw.
+> zgadnęli	zgadnąć	praet:pl:m1.p1:perf		daw.
+> zgadnęli	zgadnąć	praet:pl:m1.p1:ter:perf		daw.
+> zgadnęłabym	zgadnąć	cond:sg:f:pri:perf		daw.
+> zgadnęłabyś	zgadnąć	cond:sg:f:sec:perf		daw.
+> zgadnęłaby	zgadnąć	cond:sg:f:ter:perf		daw.
+> zgadnęłam	zgadnąć	praet:sg:f:pri:perf		daw.
+> zgadnęłaś	zgadnąć	praet:sg:f:sec:perf		daw.
+> zgadnęła	zgadnąć	praet:sg:f:perf		daw.
+> zgadnęła	zgadnąć	praet:sg:f:ter:perf		daw.
+> zgadnęłobym	zgadnąć	cond:sg:n1.n2:pri:perf		daw.
+> zgadnęłobyś	zgadnąć	cond:sg:n1.n2:sec:perf		daw.
+> zgadnęłoby	zgadnąć	cond:sg:n1.n2:ter:perf		daw.
+> zgadnęłom	zgadnąć	praet:sg:n1.n2:pri:perf		daw.
+> zgadnęłoś	zgadnąć	praet:sg:n1.n2:sec:perf		daw.
+> zgadnęło	zgadnąć	praet:sg:n1.n2:perf		daw.
+> zgadnęło	zgadnąć	praet:sg:n1.n2:ter:perf		daw.
+> zgadnęłybyście	zgadnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> zgadnęłybyśmy	zgadnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> zgadnęłyby	zgadnąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+> zgadnęłyście	zgadnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> zgadnęłyśmy	zgadnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> zgadnęły	zgadnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+> zgadnęły	zgadnąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+6599229a6600712
+> zgadnę	zgadnąć	fin:sg:pri:perf		daw.
+6599230a6600714
+> zgadniecie	zgadnąć	fin:pl:sec:perf		daw.
+6599231a6600716
+> zgadniemy	zgadnąć	fin:pl:pri:perf		daw.
+6599232a6600718
+> zgadniesz	zgadnąć	fin:sg:sec:perf		daw.
+6599233a6600720
+> zgadnie	zgadnąć	fin:sg:ter:perf		daw.
+6599251a6600739
+> zgadnięto	zgadnąć	imps:perf		daw.
+6599259a6600748
+> zgadnijcie	zgadnąć	impt:pl:sec:perf		daw.
+6599260a6600750
+> zgadnijmy	zgadnąć	impt:pl:pri:perf		daw.
+6599261a6600752
+> zgadnij	zgadnąć	impt:sg:sec:perf		daw.
+6652874c6654365
+< zł	złoty	brev:npun
+---
+> zł	złoty	brev:npun		
+6658517,6658518c6660008,6660009
+< zm	zmarł(a)	brev:pun
+< zm	zmarły	brev:pun
+---
+> zm	zmarł(a)	brev:pun		
+> zm	zmarły	brev:pun		
+6691715a6693207,6693234
+> zeszlibyście	zniść	cond:pl:m1.p1:sec:perf		daw.
+> zeszlibyśmy	zniść	cond:pl:m1.p1:pri:perf		daw.
+> zeszliby	zniść	cond:pl:m1.p1:ter:perf		daw.
+> zeszliście	zniść	praet:pl:m1.p1:sec:perf		daw.
+> zeszliśmy	zniść	praet:pl:m1.p1:pri:perf		daw.
+> zeszli	zniść	praet:pl:m1.p1:perf		daw.
+> zeszli	zniść	praet:pl:m1.p1:ter:perf		daw.
+> zeszłabym	zniść	cond:sg:f:pri:perf		daw.
+> zeszłabyś	zniść	cond:sg:f:sec:perf		daw.
+> zeszłaby	zniść	cond:sg:f:ter:perf		daw.
+> zeszłam	zniść	praet:sg:f:pri:perf		daw.
+> zeszłaś	zniść	praet:sg:f:sec:perf		daw.
+> zeszła	zniść	praet:sg:f:perf		daw.
+> zeszła	zniść	praet:sg:f:ter:perf		daw.
+> zeszłobym	zniść	cond:sg:n1.n2:pri:perf		daw.
+> zeszłobyś	zniść	cond:sg:n1.n2:sec:perf		daw.
+> zeszłoby	zniść	cond:sg:n1.n2:ter:perf		daw.
+> zeszłom	zniść	praet:sg:n1.n2:pri:perf		daw.
+> zeszłoś	zniść	praet:sg:n1.n2:sec:perf		daw.
+> zeszło	zniść	praet:sg:n1.n2:perf		daw.
+> zeszło	zniść	praet:sg:n1.n2:ter:perf		daw.
+> zeszłybyście	zniść	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> zeszłybyśmy	zniść	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> zeszłyby	zniść	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+> zeszłyście	zniść	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> zeszłyśmy	zniść	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> zeszły	zniść	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+> zeszły	zniść	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+6691742,6691769d6693260
+< zszlibyście	zniść	cond:pl:m1.p1:sec:perf		daw.
+< zszlibyśmy	zniść	cond:pl:m1.p1:pri:perf		daw.
+< zszliby	zniść	cond:pl:m1.p1:ter:perf		daw.
+< zszliście	zniść	praet:pl:m1.p1:sec:perf		daw.
+< zszliśmy	zniść	praet:pl:m1.p1:pri:perf		daw.
+< zszli	zniść	praet:pl:m1.p1:perf		daw.
+< zszli	zniść	praet:pl:m1.p1:ter:perf		daw.
+< zszłabym	zniść	cond:sg:f:pri:perf		daw.
+< zszłabyś	zniść	cond:sg:f:sec:perf		daw.
+< zszłaby	zniść	cond:sg:f:ter:perf		daw.
+< zszłam	zniść	praet:sg:f:pri:perf		daw.
+< zszłaś	zniść	praet:sg:f:sec:perf		daw.
+< zszła	zniść	praet:sg:f:perf		daw.
+< zszła	zniść	praet:sg:f:ter:perf		daw.
+< zszłobym	zniść	cond:sg:n1.n2:pri:perf		daw.
+< zszłobyś	zniść	cond:sg:n1.n2:sec:perf		daw.
+< zszłoby	zniść	cond:sg:n1.n2:ter:perf		daw.
+< zszłom	zniść	praet:sg:n1.n2:pri:perf		daw.
+< zszłoś	zniść	praet:sg:n1.n2:sec:perf		daw.
+< zszło	zniść	praet:sg:n1.n2:perf		daw.
+< zszło	zniść	praet:sg:n1.n2:ter:perf		daw.
+< zszłybyście	zniść	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< zszłybyśmy	zniść	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< zszłyby	zniść	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+< zszłyście	zniść	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< zszłyśmy	zniść	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< zszły	zniść	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+< zszły	zniść	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+6695167c6696658
+< zob	zobacz	brev:pun
+---
+> zob	zobacz	brev:pun		
+6721350a6722842,6722850
+> zrzednąć	zrzednąć	inf:perf		daw.
+> zrzednąłbym	zrzednąć	cond:sg:m1.m2.m3:pri:perf		daw.
+> zrzednąłbyś	zrzednąć	cond:sg:m1.m2.m3:sec:perf		daw.
+> zrzednąłby	zrzednąć	cond:sg:m1.m2.m3:ter:perf		daw.
+> zrzednąłem	zrzednąć	praet:sg:m1.m2.m3:pri:perf		daw.
+> zrzednąłeś	zrzednąć	praet:sg:m1.m2.m3:sec:perf		daw.
+> zrzednął	zrzednąć	praet:sg:m1.m2.m3:perf		daw.
+> zrzednął	zrzednąć	praet:sg:m1.m2.m3:ter:perf		daw.
+> zrzednąwszy	zrzednąć	pant:perf		daw.
+6721351a6722852,6722880
+> zrzedną	zrzednąć	fin:pl:ter:perf		daw.
+> zrzednęlibyście	zrzednąć	cond:pl:m1.p1:sec:perf		daw.
+> zrzednęlibyśmy	zrzednąć	cond:pl:m1.p1:pri:perf		daw.
+> zrzednęliby	zrzednąć	cond:pl:m1.p1:ter:perf		daw.
+> zrzednęliście	zrzednąć	praet:pl:m1.p1:sec:perf		daw.
+> zrzednęliśmy	zrzednąć	praet:pl:m1.p1:pri:perf		daw.
+> zrzednęli	zrzednąć	praet:pl:m1.p1:perf		daw.
+> zrzednęli	zrzednąć	praet:pl:m1.p1:ter:perf		daw.
+> zrzednęłabym	zrzednąć	cond:sg:f:pri:perf		daw.
+> zrzednęłabyś	zrzednąć	cond:sg:f:sec:perf		daw.
+> zrzednęłaby	zrzednąć	cond:sg:f:ter:perf		daw.
+> zrzednęłam	zrzednąć	praet:sg:f:pri:perf		daw.
+> zrzednęłaś	zrzednąć	praet:sg:f:sec:perf		daw.
+> zrzednęła	zrzednąć	praet:sg:f:perf		daw.
+> zrzednęła	zrzednąć	praet:sg:f:ter:perf		daw.
+> zrzednęłobym	zrzednąć	cond:sg:n1.n2:pri:perf		daw.
+> zrzednęłobyś	zrzednąć	cond:sg:n1.n2:sec:perf		daw.
+> zrzednęłoby	zrzednąć	cond:sg:n1.n2:ter:perf		daw.
+> zrzednęłom	zrzednąć	praet:sg:n1.n2:pri:perf		daw.
+> zrzednęłoś	zrzednąć	praet:sg:n1.n2:sec:perf		daw.
+> zrzednęło	zrzednąć	praet:sg:n1.n2:perf		daw.
+> zrzednęło	zrzednąć	praet:sg:n1.n2:ter:perf		daw.
+> zrzednęłybyście	zrzednąć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> zrzednęłybyśmy	zrzednąć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> zrzednęłyby	zrzednąć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+> zrzednęłyście	zrzednąć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+> zrzednęłyśmy	zrzednąć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+> zrzednęły	zrzednąć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+> zrzednęły	zrzednąć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+6721352a6722882
+> zrzednę	zrzednąć	fin:sg:pri:perf		daw.
+6721353a6722884
+> zrzedniecie	zrzednąć	fin:pl:sec:perf		daw.
+6721354a6722886
+> zrzedniemy	zrzednąć	fin:pl:pri:perf		daw.
+6721355a6722888
+> zrzedniesz	zrzednąć	fin:sg:sec:perf		daw.
+6721356a6722890
+> zrzednie	zrzednąć	fin:sg:ter:perf		daw.
+6721365a6722900
+> zrzednięto	zrzednąć	imps:perf		daw.
+6721366a6722902
+> zrzednijcie	zrzednąć	impt:pl:sec:perf		daw.
+6721367a6722904
+> zrzednijmy	zrzednąć	impt:pl:pri:perf		daw.
+6721368a6722906
+> zrzednij	zrzednąć	impt:sg:sec:perf		daw.
+6777898c6779436
+< ż	żeński_(też_rodzaj)	brev:pun
+---
+> ż	żeński_(też_rodzaj)	brev:pun		

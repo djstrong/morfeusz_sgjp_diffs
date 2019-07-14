@@ -1,0 +1,296 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.06.03
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.06.10
+761464,761475c761464,761475
+< dzióbasach	dzióbas	subst:pl:loc:m1	nazwa pospolita	
+< dzióbasa	dzióbas	subst:sg:gen.acc:m1	nazwa pospolita	
+< dzióbasami	dzióbas	subst:pl:inst:m1	nazwa pospolita	
+< dzióbas	dzióbas	subst:sg:nom:m1	nazwa pospolita	
+< dzióbasem	dzióbas	subst:sg:inst:m1	nazwa pospolita	
+< dzióbasi	dzióbas	subst:pl:nom.voc:m1	nazwa pospolita	
+< dzióbasie	dzióbas	subst:sg:loc:m1	nazwa pospolita	
+< dzióbasie	dzióbas	subst:sg:voc:m1	nazwa pospolita	
+< dzióbasom	dzióbas	subst:pl:dat:m1	nazwa pospolita	
+< dzióbasowi	dzióbas	subst:sg:dat:m1	nazwa pospolita	
+< dzióbasów	dzióbas	subst:pl:gen.acc:m1	nazwa pospolita	
+< dzióbasy	dzióbas	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> dzióbasach	dzióbas	subst:pl:loc:m1	nazwa pospolita	gwar.
+> dzióbasa	dzióbas	subst:sg:gen.acc:m1	nazwa pospolita	gwar.
+> dzióbasami	dzióbas	subst:pl:inst:m1	nazwa pospolita	gwar.
+> dzióbas	dzióbas	subst:sg:nom:m1	nazwa pospolita	gwar.
+> dzióbasem	dzióbas	subst:sg:inst:m1	nazwa pospolita	gwar.
+> dzióbasi	dzióbas	subst:pl:nom.voc:m1	nazwa pospolita	gwar.
+> dzióbasie	dzióbas	subst:sg:loc:m1	nazwa pospolita	gwar.
+> dzióbasie	dzióbas	subst:sg:voc:m1	nazwa pospolita	gwar.
+> dzióbasom	dzióbas	subst:pl:dat:m1	nazwa pospolita	gwar.
+> dzióbasowi	dzióbas	subst:sg:dat:m1	nazwa pospolita	gwar.
+> dzióbasów	dzióbas	subst:pl:gen.acc:m1	nazwa pospolita	gwar.
+> dzióbasy	dzióbas	depr:pl:nom.acc.voc:m2	nazwa pospolita	gwar.
+912482a912483,912493
+> futuresce	futureska	subst:sg:dat.loc:f	nazwa pospolita	
+> futuresek	futureska	subst:pl:gen:f	nazwa pospolita	
+> futureskach	futureska	subst:pl:loc:f	nazwa pospolita	
+> futureska	futureska	subst:sg:nom:f	nazwa pospolita	
+> futureskami	futureska	subst:pl:inst:f	nazwa pospolita	
+> futureską	futureska	subst:sg:inst:f	nazwa pospolita	
+> futureskę	futureska	subst:sg:acc:f	nazwa pospolita	
+> futureski	futureska	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> futureski	futureska	subst:sg:gen:f	nazwa pospolita	
+> futuresko	futureska	subst:sg:voc:f	nazwa pospolita	
+> futureskom	futureska	subst:pl:dat:f	nazwa pospolita	
+1396263a1396275,1396284
+> Kłuszynach	Kłuszyno	subst:pl:loc:n:ncol	nazwa geograficzna	
+> Kłuszyna	Kłuszyno	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Kłuszyna	Kłuszyno	subst:sg:gen:n:ncol	nazwa geograficzna	
+> Kłuszynami	Kłuszyno	subst:pl:inst:n:ncol	nazwa geograficzna	
+> Kłuszynem	Kłuszyno	subst:sg:inst:n:ncol	nazwa geograficzna	
+> Kłuszynie	Kłuszyno	subst:sg:loc:n:ncol	nazwa geograficzna	
+> Kłuszyn	Kłuszyno	subst:pl:gen:n:ncol	nazwa geograficzna	
+> Kłuszyno	Kłuszyno	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Kłuszynom	Kłuszyno	subst:pl:dat:n:ncol	nazwa geograficzna	
+> Kłuszynu	Kłuszyno	subst:sg:dat:n:ncol	nazwa geograficzna	
+1595889a1595911,1595922
+> Kupale	Kupała	subst:sg:dat.loc:m1	imię	mit.
+> Kupałach	Kupała	subst:pl:loc:m1	imię	mit.
+> Kupała	Kupała	subst:sg:nom:m1	imię	mit.
+> Kupałami	Kupała	subst:pl:inst:m1	imię	mit.
+> Kupałą	Kupała	subst:sg:inst:m1	imię	mit.
+> Kupałę	Kupała	subst:sg:acc:m1	imię	mit.
+> Kupało	Kupała	subst:sg:voc:m1	imię	mit.
+> Kupałom	Kupała	subst:pl:dat:m1	imię	mit.
+> Kupałowie	Kupała	subst:pl:nom.voc:m1	imię	mit.
+> Kupałów	Kupała	subst:pl:gen.acc:m1	imię	mit.
+> Kupały	Kupała	depr:pl:nom.acc.voc:m2	imię	mit.
+> Kupały	Kupała	subst:sg:gen:m1	imię	mit.
+1605825a1605859,1605956
+> kurwować	kurwować	inf:imperf		wulg.
+> kurwowaliby	kurwować	cond:pl:m1:ter:imperf		wulg.
+> kurwowalibyście	kurwować	cond:pl:m1:sec:imperf		wulg.
+> kurwowalibyśmy	kurwować	cond:pl:m1:pri:imperf		wulg.
+> kurwowali	kurwować	praet:pl:m1:imperf		wulg.
+> kurwowali	kurwować	praet:pl:m1:ter:imperf		wulg.
+> kurwowaliście	kurwować	praet:pl:m1:sec:imperf		wulg.
+> kurwowaliśmy	kurwować	praet:pl:m1:pri:imperf		wulg.
+> kurwowałaby	kurwować	cond:sg:f:ter:imperf		wulg.
+> kurwowałabym	kurwować	cond:sg:f:pri:imperf		wulg.
+> kurwowałabyś	kurwować	cond:sg:f:sec:imperf		wulg.
+> kurwowała	kurwować	praet:sg:f:imperf		wulg.
+> kurwowała	kurwować	praet:sg:f:ter:imperf		wulg.
+> kurwowałam	kurwować	praet:sg:f:pri:imperf		wulg.
+> kurwowałaś	kurwować	praet:sg:f:sec:imperf		wulg.
+> kurwowałby	kurwować	cond:sg:m1.m2.m3:ter:imperf		wulg.
+> kurwowałbym	kurwować	cond:sg:m1.m2.m3:pri:imperf		wulg.
+> kurwowałbyś	kurwować	cond:sg:m1.m2.m3:sec:imperf		wulg.
+> kurwowałem	kurwować	praet:sg:m1.m2.m3:pri:imperf		wulg.
+> kurwowałeś	kurwować	praet:sg:m1.m2.m3:sec:imperf		wulg.
+> kurwował	kurwować	praet:sg:m1.m2.m3:imperf		wulg.
+> kurwował	kurwować	praet:sg:m1.m2.m3:ter:imperf		wulg.
+> kurwowałoby	kurwować	cond:sg:n:ter:imperf		wulg.
+> kurwowałobym	kurwować	cond:sg:n:pri:imperf		wulg.
+> kurwowałobyś	kurwować	cond:sg:n:sec:imperf		wulg.
+> kurwowało	kurwować	praet:sg:n:imperf		wulg.
+> kurwowało	kurwować	praet:sg:n:ter:imperf		wulg.
+> kurwowałom	kurwować	praet:sg:n:pri:imperf		wulg.
+> kurwowałoś	kurwować	praet:sg:n:sec:imperf		wulg.
+> kurwowałyby	kurwować	cond:pl:m2.m3.f.n:ter:imperf		wulg.
+> kurwowałybyście	kurwować	cond:pl:m2.m3.f.n:sec:imperf		wulg.
+> kurwowałybyśmy	kurwować	cond:pl:m2.m3.f.n:pri:imperf		wulg.
+> kurwowały	kurwować	praet:pl:m2.m3.f.n:imperf		wulg.
+> kurwowały	kurwować	praet:pl:m2.m3.f.n:ter:imperf		wulg.
+> kurwowałyście	kurwować	praet:pl:m2.m3.f.n:sec:imperf		wulg.
+> kurwowałyśmy	kurwować	praet:pl:m2.m3.f.n:pri:imperf		wulg.
+> kurwowaniach	kurwować	ger:pl:loc:n:imperf:aff		wulg.
+> kurwowania	kurwować	ger:pl:nom.acc:n:imperf:aff		wulg.
+> kurwowania	kurwować	ger:sg:gen:n:imperf:aff		wulg.
+> kurwowaniami	kurwować	ger:pl:inst:n:imperf:aff		wulg.
+> kurwowanie	kurwować	ger:sg:nom.acc:n:imperf:aff		wulg.
+> kurwowaniem	kurwować	ger:sg:inst:n:imperf:aff		wulg.
+> kurwowaniom	kurwować	ger:pl:dat:n:imperf:aff		wulg.
+> kurwowaniu	kurwować	ger:sg:dat.loc:n:imperf:aff		wulg.
+> kurwowano	kurwować	imps:imperf		wulg.
+> kurwowań	kurwować	ger:pl:gen:n:imperf:aff		wulg.
+> kurwująca	kurwować	pact:sg:nom.voc:f:imperf:aff		wulg.
+> kurwującą	kurwować	pact:sg:acc.inst:f:imperf:aff		wulg.
+> kurwującego	kurwować	pact:sg:acc:m1.m2:imperf:aff		wulg.
+> kurwującego	kurwować	pact:sg:gen:m1.m2.m3.n:imperf:aff		wulg.
+> kurwującej	kurwować	pact:sg:gen.dat.loc:f:imperf:aff		wulg.
+> kurwujące	kurwować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		wulg.
+> kurwujące	kurwować	pact:sg:nom.acc.voc:n:imperf:aff		wulg.
+> kurwującemu	kurwować	pact:sg:dat:m1.m2.m3.n:imperf:aff		wulg.
+> kurwując	kurwować	pcon:imperf		wulg.
+> kurwująco	kurwować	pacta		wulg.
+> kurwujących	kurwować	pact:pl:acc:m1:imperf:aff		wulg.
+> kurwujących	kurwować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		wulg.
+> kurwujący	kurwować	pact:pl:nom.voc:m1:imperf:aff		wulg.
+> kurwujący	kurwować	pact:sg:acc:m3:imperf:aff		wulg.
+> kurwujący	kurwować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		wulg.
+> kurwującymi	kurwować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		wulg.
+> kurwującym	kurwować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		wulg.
+> kurwującym	kurwować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		wulg.
+> kurwują	kurwować	fin:pl:ter:imperf		wulg.
+> kurwujcie	kurwować	impt:pl:sec:imperf		wulg.
+> kurwujecie	kurwować	fin:pl:sec:imperf		wulg.
+> kurwuje	kurwować	fin:sg:ter:imperf		wulg.
+> kurwujemy	kurwować	fin:pl:pri:imperf		wulg.
+> kurwujesz	kurwować	fin:sg:sec:imperf		wulg.
+> kurwuję	kurwować	fin:sg:pri:imperf		wulg.
+> kurwuj	kurwować	impt:sg:sec:imperf		wulg.
+> kurwujmy	kurwować	impt:pl:pri:imperf		wulg.
+> niekurwowaniach	kurwować	ger:pl:loc:n:imperf:neg		wulg.
+> niekurwowania	kurwować	ger:pl:nom.acc:n:imperf:neg		wulg.
+> niekurwowania	kurwować	ger:sg:gen:n:imperf:neg		wulg.
+> niekurwowaniami	kurwować	ger:pl:inst:n:imperf:neg		wulg.
+> niekurwowanie	kurwować	ger:sg:nom.acc:n:imperf:neg		wulg.
+> niekurwowaniem	kurwować	ger:sg:inst:n:imperf:neg		wulg.
+> niekurwowaniom	kurwować	ger:pl:dat:n:imperf:neg		wulg.
+> niekurwowaniu	kurwować	ger:sg:dat.loc:n:imperf:neg		wulg.
+> niekurwowań	kurwować	ger:pl:gen:n:imperf:neg		wulg.
+> niekurwująca	kurwować	pact:sg:nom.voc:f:imperf:neg		wulg.
+> niekurwującą	kurwować	pact:sg:acc.inst:f:imperf:neg		wulg.
+> niekurwującego	kurwować	pact:sg:acc:m1.m2:imperf:neg		wulg.
+> niekurwującego	kurwować	pact:sg:gen:m1.m2.m3.n:imperf:neg		wulg.
+> niekurwującej	kurwować	pact:sg:gen.dat.loc:f:imperf:neg		wulg.
+> niekurwujące	kurwować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		wulg.
+> niekurwujące	kurwować	pact:sg:nom.acc.voc:n:imperf:neg		wulg.
+> niekurwującemu	kurwować	pact:sg:dat:m1.m2.m3.n:imperf:neg		wulg.
+> niekurwujących	kurwować	pact:pl:acc:m1:imperf:neg		wulg.
+> niekurwujących	kurwować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		wulg.
+> niekurwujący	kurwować	pact:pl:nom.voc:m1:imperf:neg		wulg.
+> niekurwujący	kurwować	pact:sg:acc:m3:imperf:neg		wulg.
+> niekurwujący	kurwować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		wulg.
+> niekurwującymi	kurwować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		wulg.
+> niekurwującym	kurwować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		wulg.
+> niekurwującym	kurwować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		wulg.
+4655914a4656046,4656110
+> nieprzetrzeźwieniach	przetrzeźwieć	ger:pl:loc:n:perf:neg		
+> nieprzetrzeźwieniami	przetrzeźwieć	ger:pl:inst:n:perf:neg		
+> nieprzetrzeźwienia	przetrzeźwieć	ger:pl:nom.acc:n:perf:neg		
+> nieprzetrzeźwienia	przetrzeźwieć	ger:sg:gen:n:perf:neg		
+> nieprzetrzeźwieniem	przetrzeźwieć	ger:sg:inst:n:perf:neg		
+> nieprzetrzeźwienie	przetrzeźwieć	ger:sg:nom.acc:n:perf:neg		
+> nieprzetrzeźwieniom	przetrzeźwieć	ger:pl:dat:n:perf:neg		
+> nieprzetrzeźwieniu	przetrzeźwieć	ger:sg:dat.loc:n:perf:neg		
+> nieprzetrzeźwień	przetrzeźwieć	ger:pl:gen:n:perf:neg		
+> przetrzeźwiałabym	przetrzeźwieć	cond:sg:f:pri:perf		
+> przetrzeźwiałaby	przetrzeźwieć	cond:sg:f:ter:perf		
+> przetrzeźwiałabyś	przetrzeźwieć	cond:sg:f:sec:perf		
+> przetrzeźwiałam	przetrzeźwieć	praet:sg:f:pri:perf		
+> przetrzeźwiała	przetrzeźwieć	praet:sg:f:perf		
+> przetrzeźwiała	przetrzeźwieć	praet:sg:f:ter:perf		
+> przetrzeźwiałaś	przetrzeźwieć	praet:sg:f:sec:perf		
+> przetrzeźwiałbym	przetrzeźwieć	cond:sg:m1.m2.m3:pri:perf		
+> przetrzeźwiałby	przetrzeźwieć	cond:sg:m1.m2.m3:ter:perf		
+> przetrzeźwiałbyś	przetrzeźwieć	cond:sg:m1.m2.m3:sec:perf		
+> przetrzeźwiałem	przetrzeźwieć	praet:sg:m1.m2.m3:pri:perf		
+> przetrzeźwiałeś	przetrzeźwieć	praet:sg:m1.m2.m3:sec:perf		
+> przetrzeźwiałobym	przetrzeźwieć	cond:sg:n:pri:perf		
+> przetrzeźwiałoby	przetrzeźwieć	cond:sg:n:ter:perf		
+> przetrzeźwiałobyś	przetrzeźwieć	cond:sg:n:sec:perf		
+> przetrzeźwiałom	przetrzeźwieć	praet:sg:n:pri:perf		
+> przetrzeźwiało	przetrzeźwieć	praet:sg:n:perf		
+> przetrzeźwiało	przetrzeźwieć	praet:sg:n:ter:perf		
+> przetrzeźwiałoś	przetrzeźwieć	praet:sg:n:sec:perf		
+> przetrzeźwiał	przetrzeźwieć	praet:sg:m1.m2.m3:perf		
+> przetrzeźwiał	przetrzeźwieć	praet:sg:m1.m2.m3:ter:perf		
+> przetrzeźwiałyby	przetrzeźwieć	cond:pl:m2.m3.f.n:ter:perf		
+> przetrzeźwiałybyście	przetrzeźwieć	cond:pl:m2.m3.f.n:sec:perf		
+> przetrzeźwiałybyśmy	przetrzeźwieć	cond:pl:m2.m3.f.n:pri:perf		
+> przetrzeźwiały	przetrzeźwieć	praet:pl:m2.m3.f.n:perf		
+> przetrzeźwiały	przetrzeźwieć	praet:pl:m2.m3.f.n:ter:perf		
+> przetrzeźwiałyście	przetrzeźwieć	praet:pl:m2.m3.f.n:sec:perf		
+> przetrzeźwiałyśmy	przetrzeźwieć	praet:pl:m2.m3.f.n:pri:perf		
+> przetrzeźwiano	przetrzeźwieć	imps:perf		
+> przetrzeźwiawszy	przetrzeźwieć	pant:perf		
+> przetrzeźwieć	przetrzeźwieć	inf:perf		
+> przetrzeźwieją	przetrzeźwieć	fin:pl:ter:perf		
+> przetrzeźwiejcie	przetrzeźwieć	impt:pl:sec:perf		
+> przetrzeźwiejecie	przetrzeźwieć	fin:pl:sec:perf		
+> przetrzeźwiejemy	przetrzeźwieć	fin:pl:pri:perf		
+> przetrzeźwieje	przetrzeźwieć	fin:sg:ter:perf		
+> przetrzeźwiejesz	przetrzeźwieć	fin:sg:sec:perf		
+> przetrzeźwieję	przetrzeźwieć	fin:sg:pri:perf		
+> przetrzeźwiejmy	przetrzeźwieć	impt:pl:pri:perf		
+> przetrzeźwiej	przetrzeźwieć	impt:sg:sec:perf		
+> przetrzeźwieliby	przetrzeźwieć	cond:pl:m1:ter:perf		
+> przetrzeźwielibyście	przetrzeźwieć	cond:pl:m1:sec:perf		
+> przetrzeźwielibyśmy	przetrzeźwieć	cond:pl:m1:pri:perf		
+> przetrzeźwieli	przetrzeźwieć	praet:pl:m1:perf		
+> przetrzeźwieli	przetrzeźwieć	praet:pl:m1:ter:perf		
+> przetrzeźwieliście	przetrzeźwieć	praet:pl:m1:sec:perf		
+> przetrzeźwieliśmy	przetrzeźwieć	praet:pl:m1:pri:perf		
+> przetrzeźwieniach	przetrzeźwieć	ger:pl:loc:n:perf:aff		
+> przetrzeźwieniami	przetrzeźwieć	ger:pl:inst:n:perf:aff		
+> przetrzeźwienia	przetrzeźwieć	ger:pl:nom.acc:n:perf:aff		
+> przetrzeźwienia	przetrzeźwieć	ger:sg:gen:n:perf:aff		
+> przetrzeźwieniem	przetrzeźwieć	ger:sg:inst:n:perf:aff		
+> przetrzeźwienie	przetrzeźwieć	ger:sg:nom.acc:n:perf:aff		
+> przetrzeźwieniom	przetrzeźwieć	ger:pl:dat:n:perf:aff		
+> przetrzeźwieniu	przetrzeźwieć	ger:sg:dat.loc:n:perf:aff		
+> przetrzeźwień	przetrzeźwieć	ger:pl:gen:n:perf:aff		
+5642851a5643048,5643058
+> Szwabce	Szwabka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+> Szwabek	Szwabka	subst:pl:gen:f	nazwa pospolita	etn.
+> Szwabkach	Szwabka	subst:pl:loc:f	nazwa pospolita	etn.
+> Szwabkami	Szwabka	subst:pl:inst:f	nazwa pospolita	etn.
+> Szwabka	Szwabka	subst:sg:nom:f	nazwa pospolita	etn.
+> Szwabką	Szwabka	subst:sg:inst:f	nazwa pospolita	etn.
+> Szwabkę	Szwabka	subst:sg:acc:f	nazwa pospolita	etn.
+> Szwabki	Szwabka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+> Szwabki	Szwabka	subst:sg:gen:f	nazwa pospolita	etn.
+> Szwabkom	Szwabka	subst:pl:dat:f	nazwa pospolita	etn.
+> Szwabko	Szwabka	subst:sg:voc:f	nazwa pospolita	etn.
+5642889,5642901c5643096,5643108
+< Szwabach	Szwab:s1	subst:pl:loc:m1	nazwa pospolita	
+< Szwabami	Szwab:s1	subst:pl:inst:m1	nazwa pospolita	
+< Szwaba	Szwab:s1	subst:sg:gen.acc:m1	nazwa pospolita	
+< Szwabem	Szwab:s1	subst:sg:inst:m1	nazwa pospolita	
+< Szwabie	Szwab:s1	subst:sg:loc:m1	nazwa pospolita	
+< Szwabie	Szwab:s1	subst:sg:voc:m1	nazwa pospolita	
+< Szwabi	Szwab:s1	subst:pl:nom.voc:m1	nazwa pospolita	
+< Szwabom	Szwab:s1	subst:pl:dat:m1	nazwa pospolita	
+< Szwabowie	Szwab:s1	subst:pl:nom.voc:m1	nazwa pospolita	
+< Szwabowi	Szwab:s1	subst:sg:dat:m1	nazwa pospolita	
+< Szwabów	Szwab:s1	subst:pl:gen.acc:m1	nazwa pospolita	
+< Szwab	Szwab:s1	subst:sg:nom:m1	nazwa pospolita	
+< Szwaby	Szwab:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Szwabach	Szwab:s1	subst:pl:loc:m1	nazwa pospolita	etn.
+> Szwabami	Szwab:s1	subst:pl:inst:m1	nazwa pospolita	etn.
+> Szwaba	Szwab:s1	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Szwabem	Szwab:s1	subst:sg:inst:m1	nazwa pospolita	etn.
+> Szwabie	Szwab:s1	subst:sg:loc:m1	nazwa pospolita	etn.
+> Szwabie	Szwab:s1	subst:sg:voc:m1	nazwa pospolita	etn.
+> Szwabi	Szwab:s1	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Szwabom	Szwab:s1	subst:pl:dat:m1	nazwa pospolita	etn.
+> Szwabowie	Szwab:s1	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Szwabowi	Szwab:s1	subst:sg:dat:m1	nazwa pospolita	etn.
+> Szwabów	Szwab:s1	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Szwab	Szwab:s1	subst:sg:nom:m1	nazwa pospolita	etn.
+> Szwaby	Szwab:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+6328164a6328372,6328395
+> wybrzmiali	wybrzmiały	adj:pl:nom.voc:m1:pos		
+> wybrzmiała	wybrzmiały	adj:sg:nom.voc:f:pos		
+> wybrzmiałą	wybrzmiały	adj:sg:acc:f:pos		
+> wybrzmiałą	wybrzmiały	adj:sg:inst:f:pos		
+> wybrzmiałego	wybrzmiały	adj:sg:acc:m1.m2:pos		
+> wybrzmiałego	wybrzmiały	adj:sg:gen:m1.m2.m3.n:pos		
+> wybrzmiałej	wybrzmiały	adj:sg:dat:f:pos		
+> wybrzmiałej	wybrzmiały	adj:sg:gen:f:pos		
+> wybrzmiałej	wybrzmiały	adj:sg:loc:f:pos		
+> wybrzmiałemu	wybrzmiały	adj:sg:dat:m1.m2.m3.n:pos		
+> wybrzmiałe	wybrzmiały	adj:pl:acc:m2.m3.f.n:pos		
+> wybrzmiałe	wybrzmiały	adj:pl:nom.voc:m2.m3.f.n:pos		
+> wybrzmiałe	wybrzmiały	adj:sg:acc:n:pos		
+> wybrzmiałe	wybrzmiały	adj:sg:nom.voc:n:pos		
+> wybrzmiało	wybrzmiały	adja		
+> wybrzmiałych	wybrzmiały	adj:pl:acc:m1:pos		
+> wybrzmiałych	wybrzmiały	adj:pl:gen:m1.m2.m3.f.n:pos		
+> wybrzmiałych	wybrzmiały	adj:pl:loc:m1.m2.m3.f.n:pos		
+> wybrzmiałymi	wybrzmiały	adj:pl:inst:m1.m2.m3.f.n:pos		
+> wybrzmiałym	wybrzmiały	adj:pl:dat:m1.m2.m3.f.n:pos		
+> wybrzmiałym	wybrzmiały	adj:sg:inst:m1.m2.m3.n:pos		
+> wybrzmiałym	wybrzmiały	adj:sg:loc:m1.m2.m3.n:pos		
+> wybrzmiały	wybrzmiały	adj:sg:acc:m3:pos		
+> wybrzmiały	wybrzmiały	adj:sg:nom.voc:m1.m2.m3:pos		

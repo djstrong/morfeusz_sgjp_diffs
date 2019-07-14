@@ -1,0 +1,242 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.03.01
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.03.05
+81082a81083,81084
+> Apok	Apokalipsa_świętego_Jana	brev:pun		
+> Ap	Apokalipsa_świętego_Jana	brev:npun		
+149595c149597
+< bdb	bardzo_dobry_(stopień)	brev:pun		
+---
+> bdb	bardzo_dobry	brev:pun		
+207541a207544,207546
+> bm	bieżący_miesiąc	brev:pun		
+> bm	bieżący_miesiąc	brev:pun		
+> br	bieżący_rok	brev:pun		
+256450a256456
+> b	brat	brev:pun		
+257176d257181
+< b	brat_(zakonny)	brev:pun		
+517509a517515
+> db	dobry	brev:pun		
+517629d517634
+< db	dobry_(stopień)	brev:pun		
+542529d542533
+< h.c	(doktorat)_honoris_causa	brev:pun		
+591002a591007
+> dst	dostateczny	brev:pun		
+591087d591091
+< dst	dostateczny_(stopień)	brev:pun		
+683622c683626
+< Dz	Dzieje_(Apostolskie)	brev:npun		
+---
+> Dz	Dzieje	brev:npun		
+755805a755810
+> Jan	Ewangelia_świętego_Jana	brev:npun		
+844440a844446
+> galaktycznie	galaktycznie	adv:pos		
+1004516a1004523
+> h.c	honoris_causa	brev:pun		
+1044155a1044163
+> infrastrukturalnie	infrastrukturalnie	adv:pos		
+1209188a1209197,1209235
+> kilkusetkrotnie	kilkusetkrotnie	adv:pos		
+> kilkusetkrotnościach	kilkusetkrotność	subst:pl:loc:f		
+> kilkusetkrotnościami	kilkusetkrotność	subst:pl:inst:f		
+> kilkusetkrotnością	kilkusetkrotność	subst:sg:inst:f		
+> kilkusetkrotności	kilkusetkrotność	subst:pl:acc:f		
+> kilkusetkrotności	kilkusetkrotność	subst:pl:gen:f		
+> kilkusetkrotności	kilkusetkrotność	subst:pl:nom:f		
+> kilkusetkrotności	kilkusetkrotność	subst:pl:voc:f		
+> kilkusetkrotności	kilkusetkrotność	subst:sg:dat:f		
+> kilkusetkrotności	kilkusetkrotność	subst:sg:gen:f		
+> kilkusetkrotności	kilkusetkrotność	subst:sg:loc:f		
+> kilkusetkrotności	kilkusetkrotność	subst:sg:voc:f		
+> kilkusetkrotnościom	kilkusetkrotność	subst:pl:dat:f		
+> kilkusetkrotność	kilkusetkrotność	subst:sg:acc:f		
+> kilkusetkrotność	kilkusetkrotność	subst:sg:nom:f		
+> kilkusetkrotna	kilkusetkrotny	adj:sg:nom.voc:f:pos		
+> kilkusetkrotną	kilkusetkrotny	adj:sg:acc:f:pos		
+> kilkusetkrotną	kilkusetkrotny	adj:sg:inst:f:pos		
+> kilkusetkrotnego	kilkusetkrotny	adj:sg:acc:m1.m2:pos		
+> kilkusetkrotnego	kilkusetkrotny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> kilkusetkrotnej	kilkusetkrotny	adj:sg:dat:f:pos		
+> kilkusetkrotnej	kilkusetkrotny	adj:sg:gen:f:pos		
+> kilkusetkrotnej	kilkusetkrotny	adj:sg:loc:f:pos		
+> kilkusetkrotne	kilkusetkrotny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> kilkusetkrotne	kilkusetkrotny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> kilkusetkrotne	kilkusetkrotny	adj:sg:acc:n1.n2:pos		
+> kilkusetkrotne	kilkusetkrotny	adj:sg:nom.voc:n1.n2:pos		
+> kilkusetkrotnemu	kilkusetkrotny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> kilkusetkrotni	kilkusetkrotny	adj:pl:nom.voc:m1.p1:pos		
+> kilkusetkrotno	kilkusetkrotny	adja		
+> kilkusetkrotnych	kilkusetkrotny	adj:pl:acc:m1.p1:pos		
+> kilkusetkrotnych	kilkusetkrotny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> kilkusetkrotnych	kilkusetkrotny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> kilkusetkrotny	kilkusetkrotny	adj:sg:acc:m3:pos		
+> kilkusetkrotny	kilkusetkrotny	adj:sg:nom.voc:m1.m2.m3:pos		
+> kilkusetkrotnymi	kilkusetkrotny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> kilkusetkrotnym	kilkusetkrotny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> kilkusetkrotnym	kilkusetkrotny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> kilkusetkrotnym	kilkusetkrotny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+1387532,1387533c1387579,1387581
+< Kazn	Księga_Kaznodziei_(Koheleta)	brev:pun		
+< Koh	Księga_Koheleta_(Kaznodziei)	brev:npun		
+---
+> Kazn	Księga_Kaznodziei	brev:pun		
+> Koh	Księga_Koheleta	brev:npun		
+> Kron	Księga_Kronik	brev:pun		
+1387534a1387583,1387584
+> Krl	Księga_Królów	brev:npun		
+> Kl	Księga_Królów	brev:npun		
+1387537a1387588
+> Mch	Księga_Machabejska	brev:npun		
+1387547,1387548c1387598,1387599
+< Pr	Księga_Przysłów_(Przypowieści_Salomona)	brev:pun		
+< Prz	Księga_Przysłów_(Przypowieści_Salomona)	brev:npun		
+---
+> Pr	Księga_Przysłów	brev:pun		
+> Prz	Księga_Przysłów	brev:npun		
+1474850a1474902,1474903
+> Kor	List_do_Koryntian	brev:npun		
+> Ko	List_do_Koryntian	brev:npun		
+1474851a1474905,1474906
+> Tes	List_do_Tesaloniczan	brev:npun		
+> Tm	List_do_Tymoteusza	brev:npun		
+1475710a1475766,1475769
+> Jk	List_świętego_Jakuba	brev:npun		
+> Jud	List_świętego_Judy	brev:npun		
+> P	List_świętego_Piotra	brev:npun		
+> Pt	List_świętego_Piotra	brev:npun		
+1618122c1618181
+< m	męski_(też_rodzaj)	brev:pun		jęz.
+---
+> m	męski	brev:pun		jęz.
+1864671a1864731
+> nn	następne	brev:pun		
+1864700a1864761
+> n	następny	brev:pun		
+2104743a2104805
+> ndst	niedostateczny	brev:pun		
+2104781d2104842
+< ndst	niedostateczny_(stopień)	brev:pun		
+2181895a2181957
+> niegalaktycznie	niegalaktycznie	adv:pos		
+2246393a2246456
+> nieinfrastrukturalnie	nieinfrastrukturalnie	adv:pos		
+2307157a2307221,2307235
+> niekilkusetkrotnie	niekilkusetkrotnie	adv:pos		
+> niekilkusetkrotnościach	niekilkusetkrotność	subst:pl:loc:f		
+> niekilkusetkrotnościami	niekilkusetkrotność	subst:pl:inst:f		
+> niekilkusetkrotnością	niekilkusetkrotność	subst:sg:inst:f		
+> niekilkusetkrotności	niekilkusetkrotność	subst:pl:acc:f		
+> niekilkusetkrotności	niekilkusetkrotność	subst:pl:gen:f		
+> niekilkusetkrotności	niekilkusetkrotność	subst:pl:nom:f		
+> niekilkusetkrotności	niekilkusetkrotność	subst:pl:voc:f		
+> niekilkusetkrotności	niekilkusetkrotność	subst:sg:dat:f		
+> niekilkusetkrotności	niekilkusetkrotność	subst:sg:gen:f		
+> niekilkusetkrotności	niekilkusetkrotność	subst:sg:loc:f		
+> niekilkusetkrotności	niekilkusetkrotność	subst:sg:voc:f		
+> niekilkusetkrotnościom	niekilkusetkrotność	subst:pl:dat:f		
+> niekilkusetkrotność	niekilkusetkrotność	subst:sg:acc:f		
+> niekilkusetkrotność	niekilkusetkrotność	subst:sg:nom:f		
+2763072a2763151
+> nierajdowo	nierajdowo	adv:pos		
+3158459c3158538
+< n	nijaki_(rodzaj)	brev:pun		jęz.
+---
+> n	nijaki	brev:pun		jęz.
+3210281a3210361
+> Obj	Objawienie_świętego_Jana	brev:pun		
+3471357c3471437
+< o	ojciec_(odnosi_się_do_księży_zakonnych)	brev:pun		
+---
+> o	ojciec	brev:pun		
+3548144a3548225
+> op.cit	opus_citatum	brev:pun		
+4652474a4652556
+> rajdowo	rajdowo	adv:pos		
+4715736a4715819,4715834
+> Rokicie	Rokita	subst:sg:dat:m1	nazwisko	
+> Rokicie	Rokita	subst:sg:loc:m1	nazwisko	
+> Rokitach	Rokita	subst:pl:loc:m1	nazwisko	
+> Rokitami	Rokita	subst:pl:inst:m1	nazwisko	
+> Rokita	Rokita	subst:sg:nom:m1	nazwisko	
+> Rokitą	Rokita	subst:sg:inst:m1	nazwisko	
+> Rokitę	Rokita	subst:sg:acc:m1	nazwisko	
+> Rokitom	Rokita	subst:pl:dat:m1	nazwisko	
+> Rokito	Rokita	subst:sg:voc:m1	nazwisko	
+> Rokitowie	Rokita	subst:pl:nom:m1	nazwisko	
+> Rokitowie	Rokita	subst:pl:voc:m1	nazwisko	
+> Rokitów	Rokita	subst:pl:acc:m1	nazwisko	
+> Rokitów	Rokita	subst:pl:gen:m1	nazwisko	
+> Rokity	Rokita	depr:pl:nom:m2	nazwisko	
+> Rokity	Rokita	depr:pl:voc:m2	nazwisko	
+> Rokity	Rokita	subst:sg:gen:m1	nazwisko	
+4938484a4938583,4938598
+> Rydzykach	Rydzyk	subst:pl:loc:m1	nazwisko	
+> Rydzykami	Rydzyk	subst:pl:inst:m1	nazwisko	
+> Rydzyka	Rydzyk	subst:sg:acc:m1	nazwisko	
+> Rydzyka	Rydzyk	subst:sg:gen:m1	nazwisko	
+> Rydzykiem	Rydzyk	subst:sg:inst:m1	nazwisko	
+> Rydzyki	Rydzyk	depr:pl:nom:m2	nazwisko	
+> Rydzyki	Rydzyk	depr:pl:voc:m2	nazwisko	
+> Rydzykom	Rydzyk	subst:pl:dat:m1	nazwisko	
+> Rydzykowie	Rydzyk	subst:pl:nom:m1	nazwisko	
+> Rydzykowie	Rydzyk	subst:pl:voc:m1	nazwisko	
+> Rydzykowi	Rydzyk	subst:sg:dat:m1	nazwisko	
+> Rydzyków	Rydzyk	subst:pl:acc:m1	nazwisko	
+> Rydzyków	Rydzyk	subst:pl:gen:m1	nazwisko	
+> Rydzyk	Rydzyk	subst:sg:nom:m1	nazwisko	
+> Rydzyku	Rydzyk	subst:sg:loc:m1	nazwisko	
+> Rydzyku	Rydzyk	subst:sg:voc:m1	nazwisko	
+5046106c5046220
+< s	siostra_(zakonna)	brev:pun		
+---
+> s	siostra	brev:pun		
+5481429c5481543
+< tł	tłumaczył(a)	brev:pun		
+---
+> tł	tłumaczył	brev:pun		
+5677831a5677946,5677952
+> UOP	UOP	subst:pl:acc:m3	nazwa instytucji	
+> UOP	UOP	subst:pl:dat:m3	nazwa instytucji	
+> UOP	UOP	subst:pl:gen:m3	nazwa instytucji	
+> UOP	UOP	subst:pl:inst:m3	nazwa instytucji	
+> UOP	UOP	subst:pl:loc:m3	nazwa instytucji	
+> UOP	UOP	subst:pl:nom:m3	nazwa instytucji	
+> UOP	UOP	subst:pl:voc:m3	nazwa instytucji	
+5677832a5677954,5677957
+> UOP	UOP	subst:sg:dat:m3	nazwa instytucji	
+> UOP	UOP	subst:sg:gen:m3	nazwa instytucji	
+> UOP	UOP	subst:sg:inst:m3	nazwa instytucji	
+> UOP	UOP	subst:sg:loc:m3	nazwa instytucji	
+5677833a5677959
+> UOP	UOP	subst:sg:voc:m3	nazwa instytucji	
+5738031a5738158
+> ust	ustęp	brev:pun		
+5815402a5815530,5815543
+> Warcie	Warta	subst:sg:dat:f	nazwa geograficzna	
+> Warcie	Warta	subst:sg:loc:f	nazwa geograficzna	
+> Wartach	Warta	subst:pl:loc:f	nazwa geograficzna	
+> Wartami	Warta	subst:pl:inst:f	nazwa geograficzna	
+> Warta	Warta	subst:sg:nom:f	nazwa geograficzna	
+> Wartą	Warta	subst:sg:inst:f	nazwa geograficzna	
+> Wartę	Warta	subst:sg:acc:f	nazwa geograficzna	
+> Wartom	Warta	subst:pl:dat:f	nazwa geograficzna	
+> Warto	Warta	subst:sg:voc:f	nazwa geograficzna	
+> Wart	Warta	subst:pl:gen:f	nazwa geograficzna	
+> Warty	Warta	subst:pl:acc:f	nazwa geograficzna	
+> Warty	Warta	subst:pl:nom:f	nazwa geograficzna	
+> Warty	Warta	subst:pl:voc:f	nazwa geograficzna	
+> Warty	Warta	subst:sg:gen:f	nazwa geograficzna	
+5884453a5884595
+> ww	wiersze	brev:pun		
+6769836a6769979
+> zm	zmarł	brev:pun		
+6769851d6769993
+< zm	zmarł(a)	brev:pun		
+6891992c6892134
+< ż	żeński_(też_rodzaj)	brev:pun		
+---
+> ż	żeński	brev:pun		

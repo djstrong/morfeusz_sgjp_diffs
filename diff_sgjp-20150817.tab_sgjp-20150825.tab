@@ -1,0 +1,291 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2015.08.17
+---
+> #!DICT-ID pl.sgjp.sgjp-2015.08.25
+89991a89992,89995
+> arcyksiążąt	arcyksiążę	subst:pl:acc:m1	pospolita	
+> arcyksiążąt	arcyksiążę	subst:pl:acc:m1	pospolita	daw.
+> arcyksiążąt	arcyksiążę	subst:pl:gen:m1	pospolita	
+> arcyksiążąt	arcyksiążę	subst:pl:gen:m1	pospolita	daw.
+89992a89997
+> arcyksiążę	arcyksiążę	subst:sg:nom:m1	pospolita	daw.
+89993a89999,90004
+> arcyksiążę	arcyksiążę	subst:sg:voc:m1	pospolita	daw.
+> arcyksiążęcia	arcyksiążę	subst:sg:acc:m1	pospolita	daw.
+> arcyksiążęcia	arcyksiążę	subst:sg:gen:m1	pospolita	daw.
+> arcyksiążęciem	arcyksiążę	subst:sg:inst:m1	pospolita	daw.
+> arcyksiążęciu	arcyksiążę	subst:sg:dat:m1	pospolita	daw.
+> arcyksiążęciu	arcyksiążę	subst:sg:loc:m1	pospolita	daw.
+89994a90006
+> arcyksiążęta	arcyksiążę	depr:pl:nom:m2	pospolita	daw.
+89995a90008
+> arcyksiążęta	arcyksiążę	depr:pl:voc:m2	pospolita	daw.
+89996a90010
+> arcyksiążęta	arcyksiążę	subst:pl:nom:m1	pospolita	daw.
+89997a90012
+> arcyksiążęta	arcyksiążę	subst:pl:voc:m1	pospolita	daw.
+89998a90014
+> arcyksiążętach	arcyksiążę	subst:pl:loc:m1	pospolita	daw.
+89999a90016
+> arcyksiążętami	arcyksiążę	subst:pl:inst:m1	pospolita	daw.
+90000a90018
+> arcyksiążętom	arcyksiążę	subst:pl:dat:m1	pospolita	daw.
+631456a631475
+> drew	drwa	subst:pl:gen:p3	pospolita	
+938626,938639c938645,938695
+< grywalnościach	grywalność	subst:pl:loc:f		
+< grywalnościami	grywalność	subst:pl:inst:f		
+< grywalnością	grywalność	subst:sg:inst:f		
+< grywalności	grywalność	subst:pl:acc:f		
+< grywalności	grywalność	subst:pl:gen:f		
+< grywalności	grywalność	subst:pl:nom:f		
+< grywalności	grywalność	subst:pl:voc:f		
+< grywalności	grywalność	subst:sg:dat:f		
+< grywalności	grywalność	subst:sg:gen:f		
+< grywalności	grywalność	subst:sg:loc:f		
+< grywalności	grywalność	subst:sg:voc:f		
+< grywalnościom	grywalność	subst:pl:dat:f		
+< grywalność	grywalność	subst:sg:acc:f		
+< grywalność	grywalność	subst:sg:nom:f		
+---
+> grywalnościach	grywalność:s1	subst:pl:loc:f		
+> grywalnościami	grywalność:s1	subst:pl:inst:f		
+> grywalnością	grywalność:s1	subst:sg:inst:f		
+> grywalności	grywalność:s1	subst:pl:acc:f		
+> grywalności	grywalność:s1	subst:pl:gen:f		
+> grywalności	grywalność:s1	subst:pl:nom:f		
+> grywalności	grywalność:s1	subst:pl:voc:f		
+> grywalności	grywalność:s1	subst:sg:dat:f		
+> grywalności	grywalność:s1	subst:sg:gen:f		
+> grywalności	grywalność:s1	subst:sg:loc:f		
+> grywalności	grywalność:s1	subst:sg:voc:f		
+> grywalnościom	grywalność:s1	subst:pl:dat:f		
+> grywalność	grywalność:s1	subst:sg:acc:f		
+> grywalność	grywalność:s1	subst:sg:nom:f		
+> grywalnościach	grywalność:s2	subst:pl:loc:f		
+> grywalnościami	grywalność:s2	subst:pl:inst:f		
+> grywalnością	grywalność:s2	subst:sg:inst:f		
+> grywalności	grywalność:s2	subst:pl:acc:f		
+> grywalności	grywalność:s2	subst:pl:gen:f		
+> grywalności	grywalność:s2	subst:pl:nom:f		
+> grywalności	grywalność:s2	subst:pl:voc:f		
+> grywalności	grywalność:s2	subst:sg:dat:f		
+> grywalności	grywalność:s2	subst:sg:gen:f		
+> grywalności	grywalność:s2	subst:sg:loc:f		
+> grywalności	grywalność:s2	subst:sg:voc:f		
+> grywalnościom	grywalność:s2	subst:pl:dat:f		
+> grywalność	grywalność:s2	subst:sg:acc:f		
+> grywalność	grywalność:s2	subst:sg:nom:f		
+> grywalna	grywalny	adj:sg:nom.voc:f:pos		
+> grywalną	grywalny	adj:sg:acc:f:pos		
+> grywalną	grywalny	adj:sg:inst:f:pos		
+> grywalnego	grywalny	adj:sg:acc:m1.m2:pos		
+> grywalnego	grywalny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> grywalne	grywalny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> grywalne	grywalny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> grywalne	grywalny	adj:sg:acc:n1.n2:pos		
+> grywalne	grywalny	adj:sg:nom.voc:n1.n2:pos		
+> grywalnej	grywalny	adj:sg:dat:f:pos		
+> grywalnej	grywalny	adj:sg:gen:f:pos		
+> grywalnej	grywalny	adj:sg:loc:f:pos		
+> grywalnemu	grywalny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> grywalni	grywalny	adj:pl:nom.voc:m1.p1:pos		
+> grywalnych	grywalny	adj:pl:acc:m1.p1:pos		
+> grywalnych	grywalny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> grywalnych	grywalny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> grywalny	grywalny	adj:sg:acc:m3:pos		
+> grywalny	grywalny	adj:sg:nom.voc:m1.m2.m3:pos		
+> grywalnym	grywalny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> grywalnym	grywalny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> grywalnym	grywalny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> grywalnymi	grywalny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+1036124,1036125d1036179
+< Indrie	Indra	subst:sg:dat:m1	imię	rel.
+< Indrie	Indra	subst:sg:loc:m1	imię	rel.
+1036134a1036189,1036190
+> Indrze	Indra	subst:sg:dat:m1	imię	rel.
+> Indrze	Indra	subst:sg:loc:m1	imię	rel.
+1187694a1187751,1187753
+> Kazimierze	Kazimierza	subst:pl:acc:f	geograficzna	
+> Kazimierze	Kazimierza	subst:pl:nom:f	geograficzna	
+> Kazimierze	Kazimierza	subst:pl:voc:f	geograficzna	
+1187696c1187755
+< Kazimierz	Kazimierza	subst:pl:gen:f	geograficzna	
+---
+> Kazimierz	Kazimierza	subst:pl:gen:f	geograficzna	char.
+1187699,1187701c1187758,1187759
+< Kazimierzy	Kazimierza	subst:pl:acc:f	geograficzna	
+< Kazimierzy	Kazimierza	subst:pl:nom:f	geograficzna	
+< Kazimierzy	Kazimierza	subst:pl:voc:f	geograficzna	
+---
+> Kazimierzy	Kazimierza	subst:pl:gen:f	geograficzna	hom.
+> Kazimierzy	Kazimierza	subst:sg:dat:f	geograficzna	
+1187703,1187704c1187761
+< Kazimierzze	Kazimierza	subst:sg:dat:f	geograficzna	
+< Kazimierzze	Kazimierza	subst:sg:loc:f	geograficzna	
+---
+> Kazimierzy	Kazimierza	subst:sg:loc:f	geograficzna	
+1381921a1381979,1381987
+> książąt	książę	subst:pl:acc:m1	pospolita	
+> książąt	książę	subst:pl:acc:m1	pospolita	daw.
+> książąt	książę	subst:pl:gen:m1	pospolita	
+> książąt	książę	subst:pl:gen:m1	pospolita	daw.
+> książęcia	książę	subst:sg:acc:m1	pospolita	daw.
+> książęcia	książę	subst:sg:gen:m1	pospolita	daw.
+> książęciem	książę	subst:sg:inst:m1	pospolita	daw.
+> książęciu	książę	subst:sg:dat:m1	pospolita	daw.
+> książęciu	książę	subst:sg:loc:m1	pospolita	daw.
+1381922a1381989
+> książę	książę	subst:sg:nom:m1	pospolita	daw.
+1381923a1381991
+> książę	książę	subst:sg:voc:m1	pospolita	daw.
+1381924a1381993
+> książętach	książę	subst:pl:loc:m1	pospolita	daw.
+1381925a1381995
+> książęta	książę	depr:pl:nom:m2	pospolita	daw.
+1381926a1381997
+> książęta	książę	depr:pl:voc:m2	pospolita	daw.
+1381927a1381999
+> książęta	książę	subst:pl:nom:m1	pospolita	daw.
+1381928a1382001
+> książęta	książę	subst:pl:voc:m1	pospolita	daw.
+1381929a1382003
+> książętami	książę	subst:pl:inst:m1	pospolita	daw.
+1381930a1382005
+> książętom	książę	subst:pl:dat:m1	pospolita	daw.
+1528859a1528935,1528943
+> macaach	macao	subst:pl:loc:n2	pospolita	pot.
+> macaa	macao	subst:pl:acc:n2	pospolita	pot.
+> macaa	macao	subst:pl:nom:n2	pospolita	pot.
+> macaa	macao	subst:pl:voc:n2	pospolita	pot.
+> macaa	macao	subst:sg:gen:n2	pospolita	pot.
+> macaami	macao	subst:pl:inst:n2	pospolita	pot.
+> macaem	macao	subst:sg:inst:n2	pospolita	pot.
+> macale	macao	subst:sg:loc:n2	pospolita	pot.
+> macał	macao	subst:pl:gen:n2	pospolita	pot.
+1528867a1528952
+> macao	macao	subst:sg:acc:n2	pospolita	pot.
+1528872a1528958
+> macao	macao	subst:sg:nom:n2	pospolita	pot.
+1528873a1528960,1528962
+> macao	macao	subst:sg:voc:n2	pospolita	pot.
+> macaom	macao	subst:pl:dat:n2	pospolita	pot.
+> macau	macao	subst:sg:dat:n2	pospolita	pot.
+1543020a1543110,1543118
+> makaach	makao	subst:pl:loc:n2	pospolita	pot.
+> makaa	makao	subst:pl:acc:n2	pospolita	pot.
+> makaa	makao	subst:pl:nom:n2	pospolita	pot.
+> makaa	makao	subst:pl:voc:n2	pospolita	pot.
+> makaa	makao	subst:sg:gen:n2	pospolita	pot.
+> makaami	makao	subst:pl:inst:n2	pospolita	pot.
+> makaem	makao	subst:sg:inst:n2	pospolita	pot.
+> makale	makao	subst:sg:loc:n2	pospolita	pot.
+> makał	makao	subst:pl:gen:n2	pospolita	pot.
+1543028a1543127
+> makao	makao	subst:sg:acc:n2	pospolita	pot.
+1543033a1543133
+> makao	makao	subst:sg:nom:n2	pospolita	pot.
+1543034a1543135,1543137
+> makao	makao	subst:sg:voc:n2	pospolita	pot.
+> makaom	makao	subst:pl:dat:n2	pospolita	pot.
+> makau	makao	subst:sg:dat:n2	pospolita	pot.
+1994532a1994636
+> niebiosów	niebiosa	subst:pl:gen:p3	pospolita	rzad.
+1994543a1994648
+> niebiosów	niebiosy	subst:pl:gen:p3	pospolita	rzad.
+2206190,2206203c2206295,2206322
+< niegrywalnościach	niegrywalność	subst:pl:loc:f		
+< niegrywalnościami	niegrywalność	subst:pl:inst:f		
+< niegrywalnością	niegrywalność	subst:sg:inst:f		
+< niegrywalności	niegrywalność	subst:pl:acc:f		
+< niegrywalności	niegrywalność	subst:pl:gen:f		
+< niegrywalności	niegrywalność	subst:pl:nom:f		
+< niegrywalności	niegrywalność	subst:pl:voc:f		
+< niegrywalności	niegrywalność	subst:sg:dat:f		
+< niegrywalności	niegrywalność	subst:sg:gen:f		
+< niegrywalności	niegrywalność	subst:sg:loc:f		
+< niegrywalności	niegrywalność	subst:sg:voc:f		
+< niegrywalnościom	niegrywalność	subst:pl:dat:f		
+< niegrywalność	niegrywalność	subst:sg:acc:f		
+< niegrywalność	niegrywalność	subst:sg:nom:f		
+---
+> niegrywalnościach	niegrywalność:s1	subst:pl:loc:f		
+> niegrywalnościami	niegrywalność:s1	subst:pl:inst:f		
+> niegrywalnością	niegrywalność:s1	subst:sg:inst:f		
+> niegrywalności	niegrywalność:s1	subst:pl:acc:f		
+> niegrywalności	niegrywalność:s1	subst:pl:gen:f		
+> niegrywalności	niegrywalność:s1	subst:pl:nom:f		
+> niegrywalności	niegrywalność:s1	subst:pl:voc:f		
+> niegrywalności	niegrywalność:s1	subst:sg:dat:f		
+> niegrywalności	niegrywalność:s1	subst:sg:gen:f		
+> niegrywalności	niegrywalność:s1	subst:sg:loc:f		
+> niegrywalności	niegrywalność:s1	subst:sg:voc:f		
+> niegrywalnościom	niegrywalność:s1	subst:pl:dat:f		
+> niegrywalność	niegrywalność:s1	subst:sg:acc:f		
+> niegrywalność	niegrywalność:s1	subst:sg:nom:f		
+> niegrywalnościach	niegrywalność:s2	subst:pl:loc:f		
+> niegrywalnościami	niegrywalność:s2	subst:pl:inst:f		
+> niegrywalnością	niegrywalność:s2	subst:sg:inst:f		
+> niegrywalności	niegrywalność:s2	subst:pl:acc:f		
+> niegrywalności	niegrywalność:s2	subst:pl:gen:f		
+> niegrywalności	niegrywalność:s2	subst:pl:nom:f		
+> niegrywalności	niegrywalność:s2	subst:pl:voc:f		
+> niegrywalności	niegrywalność:s2	subst:sg:dat:f		
+> niegrywalności	niegrywalność:s2	subst:sg:gen:f		
+> niegrywalności	niegrywalność:s2	subst:sg:loc:f		
+> niegrywalności	niegrywalność:s2	subst:sg:voc:f		
+> niegrywalnościom	niegrywalność:s2	subst:pl:dat:f		
+> niegrywalność	niegrywalność:s2	subst:sg:acc:f		
+> niegrywalność	niegrywalność:s2	subst:sg:nom:f		
+3764541a3764661
+> pludrzysk	pludrzyska	subst:pl:gen:p3	pospolita	przest.
+5161354a5161475,5161521
+> spitolą	spitolić	fin:pl:ter:perf		pot.
+> spitolcie	spitolić	impt:pl:sec:perf		pot.
+> spitolę	spitolić	fin:sg:pri:perf		pot.
+> spitolicie	spitolić	fin:pl:sec:perf		pot.
+> spitolić	spitolić	inf:perf		pot.
+> spitoliliby	spitolić	cond:pl:m1.p1:ter:perf		pot.
+> spitolilibyście	spitolić	cond:pl:m1.p1:sec:perf		pot.
+> spitolilibyśmy	spitolić	cond:pl:m1.p1:pri:perf		pot.
+> spitolili	spitolić	praet:pl:m1.p1:perf		pot.
+> spitolili	spitolić	praet:pl:m1.p1:ter:perf		pot.
+> spitoliliście	spitolić	praet:pl:m1.p1:sec:perf		pot.
+> spitoliliśmy	spitolić	praet:pl:m1.p1:pri:perf		pot.
+> spitoliłabym	spitolić	cond:sg:f:pri:perf		pot.
+> spitoliłaby	spitolić	cond:sg:f:ter:perf		pot.
+> spitoliłabyś	spitolić	cond:sg:f:sec:perf		pot.
+> spitoliłam	spitolić	praet:sg:f:pri:perf		pot.
+> spitoliła	spitolić	praet:sg:f:perf		pot.
+> spitoliła	spitolić	praet:sg:f:ter:perf		pot.
+> spitoliłaś	spitolić	praet:sg:f:sec:perf		pot.
+> spitoliłbym	spitolić	cond:sg:m1.m2.m3:pri:perf		pot.
+> spitoliłby	spitolić	cond:sg:m1.m2.m3:ter:perf		pot.
+> spitoliłbyś	spitolić	cond:sg:m1.m2.m3:sec:perf		pot.
+> spitoliłem	spitolić	praet:sg:m1.m2.m3:pri:perf		pot.
+> spitoliłeś	spitolić	praet:sg:m1.m2.m3:sec:perf		pot.
+> spitoliłobym	spitolić	cond:sg:n1.n2:pri:perf		pot.
+> spitoliłoby	spitolić	cond:sg:n1.n2:ter:perf		pot.
+> spitoliłobyś	spitolić	cond:sg:n1.n2:sec:perf		pot.
+> spitoliłom	spitolić	praet:sg:n1.n2:pri:perf		pot.
+> spitoliło	spitolić	praet:sg:n1.n2:perf		pot.
+> spitoliło	spitolić	praet:sg:n1.n2:ter:perf		pot.
+> spitoliłoś	spitolić	praet:sg:n1.n2:sec:perf		pot.
+> spitolił	spitolić	praet:sg:m1.m2.m3:perf		pot.
+> spitolił	spitolić	praet:sg:m1.m2.m3:ter:perf		pot.
+> spitoliłyby	spitolić	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		pot.
+> spitoliłybyście	spitolić	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		pot.
+> spitoliłybyśmy	spitolić	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		pot.
+> spitoliły	spitolić	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		pot.
+> spitoliły	spitolić	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		pot.
+> spitoliłyście	spitolić	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		pot.
+> spitoliłyśmy	spitolić	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		pot.
+> spitolimy	spitolić	fin:pl:pri:perf		pot.
+> spitoli	spitolić	fin:sg:ter:perf		pot.
+> spitolisz	spitolić	fin:sg:sec:perf		pot.
+> spitoliwszy	spitolić	pant:perf		pot.
+> spitolmy	spitolić	impt:pl:pri:perf		pot.
+> spitolono	spitolić	imps:perf		pot.
+> spitol	spitolić	impt:sg:sec:perf		pot.
+5955183a5955351
+> wrót	wrota	subst:pl:gen:p2	pospolita	

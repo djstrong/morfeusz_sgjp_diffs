@@ -1,0 +1,923 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.07.03
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.07.10
+424157,424170c424157,424170
+< czerwoniakach	czerwoniak	subst:pl:loc:m3	nazwa pospolita	
+< czerwoniaka	czerwoniak	subst:sg:gen:m3	nazwa pospolita	
+< czerwoniakami	czerwoniak	subst:pl:inst:m3	nazwa pospolita	
+< czerwoniak	czerwoniak	subst:sg:acc:m3	nazwa pospolita	
+< czerwoniak	czerwoniak	subst:sg:nom:m3	nazwa pospolita	
+< czerwoniaki	czerwoniak	subst:pl:acc:m3	nazwa pospolita	
+< czerwoniaki	czerwoniak	subst:pl:nom:m3	nazwa pospolita	
+< czerwoniaki	czerwoniak	subst:pl:voc:m3	nazwa pospolita	
+< czerwoniakiem	czerwoniak	subst:sg:inst:m3	nazwa pospolita	
+< czerwoniakom	czerwoniak	subst:pl:dat:m3	nazwa pospolita	
+< czerwoniakowi	czerwoniak	subst:sg:dat:m3	nazwa pospolita	
+< czerwoniaków	czerwoniak	subst:pl:gen:m3	nazwa pospolita	
+< czerwoniaku	czerwoniak	subst:sg:loc:m3	nazwa pospolita	
+< czerwoniaku	czerwoniak	subst:sg:voc:m3	nazwa pospolita	
+---
+> czerwoniakach	czerwoniak	subst:pl:loc:m2	nazwa pospolita	przest.|środ.
+> czerwoniaka	czerwoniak	subst:sg:acc:m2	nazwa pospolita	przest.|środ.
+> czerwoniaka	czerwoniak	subst:sg:gen:m2	nazwa pospolita	przest.|środ.
+> czerwoniakami	czerwoniak	subst:pl:inst:m2	nazwa pospolita	przest.|środ.
+> czerwoniak	czerwoniak	subst:sg:nom:m2	nazwa pospolita	przest.|środ.
+> czerwoniaki	czerwoniak	subst:pl:acc:m2	nazwa pospolita	przest.|środ.
+> czerwoniaki	czerwoniak	subst:pl:nom:m2	nazwa pospolita	przest.|środ.
+> czerwoniaki	czerwoniak	subst:pl:voc:m2	nazwa pospolita	przest.|środ.
+> czerwoniakiem	czerwoniak	subst:sg:inst:m2	nazwa pospolita	przest.|środ.
+> czerwoniakom	czerwoniak	subst:pl:dat:m2	nazwa pospolita	przest.|środ.
+> czerwoniakowi	czerwoniak	subst:sg:dat:m2	nazwa pospolita	przest.|środ.
+> czerwoniaków	czerwoniak	subst:pl:gen:m2	nazwa pospolita	przest.|środ.
+> czerwoniaku	czerwoniak	subst:sg:loc:m2	nazwa pospolita	przest.|środ.
+> czerwoniaku	czerwoniak	subst:sg:voc:m2	nazwa pospolita	przest.|środ.
+853411,853438c853411,853484
+< gardłaczach	gardłacz	subst:pl:loc:m2	nazwa pospolita	
+< gardłaczach	gardłacz	subst:pl:loc:m2	nazwa pospolita	rzad.
+< gardłacza	gardłacz	subst:sg:acc:m2	nazwa pospolita	
+< gardłacza	gardłacz	subst:sg:acc:m2	nazwa pospolita	rzad.
+< gardłacza	gardłacz	subst:sg:gen:m2	nazwa pospolita	
+< gardłacza	gardłacz	subst:sg:gen:m2	nazwa pospolita	rzad.
+< gardłaczami	gardłacz	subst:pl:inst:m2	nazwa pospolita	
+< gardłaczami	gardłacz	subst:pl:inst:m2	nazwa pospolita	rzad.
+< gardłacze	gardłacz	subst:pl:acc:m2	nazwa pospolita	
+< gardłacze	gardłacz	subst:pl:acc:m2	nazwa pospolita	rzad.
+< gardłacze	gardłacz	subst:pl:nom:m2	nazwa pospolita	
+< gardłacze	gardłacz	subst:pl:nom:m2	nazwa pospolita	rzad.
+< gardłacze	gardłacz	subst:pl:voc:m2	nazwa pospolita	
+< gardłacze	gardłacz	subst:pl:voc:m2	nazwa pospolita	rzad.
+< gardłaczem	gardłacz	subst:sg:inst:m2	nazwa pospolita	
+< gardłaczem	gardłacz	subst:sg:inst:m2	nazwa pospolita	rzad.
+< gardłacz	gardłacz	subst:sg:nom:m2	nazwa pospolita	
+< gardłacz	gardłacz	subst:sg:nom:m2	nazwa pospolita	rzad.
+< gardłaczom	gardłacz	subst:pl:dat:m2	nazwa pospolita	
+< gardłaczom	gardłacz	subst:pl:dat:m2	nazwa pospolita	rzad.
+< gardłaczowi	gardłacz	subst:sg:dat:m2	nazwa pospolita	
+< gardłaczowi	gardłacz	subst:sg:dat:m2	nazwa pospolita	rzad.
+< gardłaczów	gardłacz	subst:pl:gen:m2	nazwa pospolita	rzad.
+< gardłaczu	gardłacz	subst:sg:loc:m2	nazwa pospolita	
+< gardłaczu	gardłacz	subst:sg:loc:m2	nazwa pospolita	rzad.
+< gardłaczu	gardłacz	subst:sg:voc:m2	nazwa pospolita	
+< gardłaczu	gardłacz	subst:sg:voc:m2	nazwa pospolita	rzad.
+< gardłaczy	gardłacz	subst:pl:gen:m2	nazwa pospolita	
+---
+> gardłaczach	gardłacz:s1	subst:pl:loc:m2	nazwa pospolita	
+> gardłaczach	gardłacz:s1	subst:pl:loc:m2	nazwa pospolita	rzad.
+> gardłacza	gardłacz:s1	subst:sg:acc:m2	nazwa pospolita	
+> gardłacza	gardłacz:s1	subst:sg:acc:m2	nazwa pospolita	rzad.
+> gardłacza	gardłacz:s1	subst:sg:gen:m2	nazwa pospolita	
+> gardłacza	gardłacz:s1	subst:sg:gen:m2	nazwa pospolita	rzad.
+> gardłaczami	gardłacz:s1	subst:pl:inst:m2	nazwa pospolita	
+> gardłaczami	gardłacz:s1	subst:pl:inst:m2	nazwa pospolita	rzad.
+> gardłacze	gardłacz:s1	subst:pl:acc:m2	nazwa pospolita	
+> gardłacze	gardłacz:s1	subst:pl:acc:m2	nazwa pospolita	rzad.
+> gardłacze	gardłacz:s1	subst:pl:nom:m2	nazwa pospolita	
+> gardłacze	gardłacz:s1	subst:pl:nom:m2	nazwa pospolita	rzad.
+> gardłacze	gardłacz:s1	subst:pl:voc:m2	nazwa pospolita	
+> gardłacze	gardłacz:s1	subst:pl:voc:m2	nazwa pospolita	rzad.
+> gardłaczem	gardłacz:s1	subst:sg:inst:m2	nazwa pospolita	
+> gardłaczem	gardłacz:s1	subst:sg:inst:m2	nazwa pospolita	rzad.
+> gardłacz	gardłacz:s1	subst:sg:nom:m2	nazwa pospolita	
+> gardłacz	gardłacz:s1	subst:sg:nom:m2	nazwa pospolita	rzad.
+> gardłaczom	gardłacz:s1	subst:pl:dat:m2	nazwa pospolita	
+> gardłaczom	gardłacz:s1	subst:pl:dat:m2	nazwa pospolita	rzad.
+> gardłaczowi	gardłacz:s1	subst:sg:dat:m2	nazwa pospolita	
+> gardłaczowi	gardłacz:s1	subst:sg:dat:m2	nazwa pospolita	rzad.
+> gardłaczów	gardłacz:s1	subst:pl:gen:m2	nazwa pospolita	rzad.
+> gardłaczu	gardłacz:s1	subst:sg:loc:m2	nazwa pospolita	
+> gardłaczu	gardłacz:s1	subst:sg:loc:m2	nazwa pospolita	rzad.
+> gardłaczu	gardłacz:s1	subst:sg:voc:m2	nazwa pospolita	
+> gardłaczu	gardłacz:s1	subst:sg:voc:m2	nazwa pospolita	rzad.
+> gardłaczy	gardłacz:s1	subst:pl:gen:m2	nazwa pospolita	
+> gardłaczach	gardłacz:s2	subst:pl:loc:m3	nazwa pospolita	hist.
+> gardłaczach	gardłacz:s2	subst:pl:loc:m3	nazwa pospolita	rzad.|hist.
+> gardłacza	gardłacz:s2	subst:sg:gen:m3	nazwa pospolita	hist.
+> gardłacza	gardłacz:s2	subst:sg:gen:m3	nazwa pospolita	rzad.|hist.
+> gardłaczami	gardłacz:s2	subst:pl:inst:m3	nazwa pospolita	hist.
+> gardłaczami	gardłacz:s2	subst:pl:inst:m3	nazwa pospolita	rzad.|hist.
+> gardłacze	gardłacz:s2	subst:pl:acc:m3	nazwa pospolita	hist.
+> gardłacze	gardłacz:s2	subst:pl:acc:m3	nazwa pospolita	rzad.|hist.
+> gardłacze	gardłacz:s2	subst:pl:nom:m3	nazwa pospolita	hist.
+> gardłacze	gardłacz:s2	subst:pl:nom:m3	nazwa pospolita	rzad.|hist.
+> gardłacze	gardłacz:s2	subst:pl:voc:m3	nazwa pospolita	hist.
+> gardłacze	gardłacz:s2	subst:pl:voc:m3	nazwa pospolita	rzad.|hist.
+> gardłaczem	gardłacz:s2	subst:sg:inst:m3	nazwa pospolita	hist.
+> gardłaczem	gardłacz:s2	subst:sg:inst:m3	nazwa pospolita	rzad.|hist.
+> gardłacz	gardłacz:s2	subst:sg:acc:m3	nazwa pospolita	hist.
+> gardłacz	gardłacz:s2	subst:sg:acc:m3	nazwa pospolita	rzad.|hist.
+> gardłacz	gardłacz:s2	subst:sg:nom:m3	nazwa pospolita	hist.
+> gardłacz	gardłacz:s2	subst:sg:nom:m3	nazwa pospolita	rzad.|hist.
+> gardłaczom	gardłacz:s2	subst:pl:dat:m3	nazwa pospolita	hist.
+> gardłaczom	gardłacz:s2	subst:pl:dat:m3	nazwa pospolita	rzad.|hist.
+> gardłaczowi	gardłacz:s2	subst:sg:dat:m3	nazwa pospolita	hist.
+> gardłaczowi	gardłacz:s2	subst:sg:dat:m3	nazwa pospolita	rzad.|hist.
+> gardłaczów	gardłacz:s2	subst:pl:gen:m3	nazwa pospolita	rzad.|hist.
+> gardłaczu	gardłacz:s2	subst:sg:loc:m3	nazwa pospolita	hist.
+> gardłaczu	gardłacz:s2	subst:sg:loc:m3	nazwa pospolita	rzad.|hist.
+> gardłaczu	gardłacz:s2	subst:sg:voc:m3	nazwa pospolita	hist.
+> gardłaczu	gardłacz:s2	subst:sg:voc:m3	nazwa pospolita	rzad.|hist.
+> gardłaczy	gardłacz:s2	subst:pl:gen:m3	nazwa pospolita	hist.
+> gardłaczach	gardłacz:s3	subst:pl:loc:m1	nazwa pospolita	daw.|rzad.
+> gardłacza	gardłacz:s3	subst:sg:acc:m1	nazwa pospolita	daw.|rzad.
+> gardłacza	gardłacz:s3	subst:sg:gen:m1	nazwa pospolita	daw.|rzad.
+> gardłaczami	gardłacz:s3	subst:pl:inst:m1	nazwa pospolita	daw.|rzad.
+> gardłacze	gardłacz:s3	depr:pl:nom:m2	nazwa pospolita	daw.|rzad.
+> gardłacze	gardłacz:s3	depr:pl:voc:m2	nazwa pospolita	daw.|rzad.
+> gardłacze	gardłacz:s3	subst:pl:nom:m1	nazwa pospolita	daw.|rzad.
+> gardłacze	gardłacz:s3	subst:pl:voc:m1	nazwa pospolita	daw.|rzad.
+> gardłaczem	gardłacz:s3	subst:sg:inst:m1	nazwa pospolita	daw.|rzad.
+> gardłacz	gardłacz:s3	subst:sg:nom:m1	nazwa pospolita	daw.|rzad.
+> gardłaczom	gardłacz:s3	subst:pl:dat:m1	nazwa pospolita	daw.|rzad.
+> gardłaczowi	gardłacz:s3	subst:sg:dat:m1	nazwa pospolita	daw.|rzad.
+> gardłaczów	gardłacz:s3	subst:pl:acc:m1	nazwa pospolita	daw.|rzad.
+> gardłaczów	gardłacz:s3	subst:pl:gen:m1	nazwa pospolita	daw.|rzad.
+> gardłaczu	gardłacz:s3	subst:sg:loc:m1	nazwa pospolita	daw.|rzad.
+> gardłaczu	gardłacz:s3	subst:sg:voc:m1	nazwa pospolita	daw.|rzad.
+> gardłaczy	gardłacz:s3	subst:pl:acc:m1	nazwa pospolita	daw.|rzad.
+> gardłaczy	gardłacz:s3	subst:pl:gen:m1	nazwa pospolita	daw.|rzad.
+927530,927545c927576,927605
+< grenadierach	grenadier	subst:pl:loc:m1	nazwa pospolita	
+< grenadiera	grenadier	subst:sg:acc:m1	nazwa pospolita	
+< grenadiera	grenadier	subst:sg:gen:m1	nazwa pospolita	
+< grenadierami	grenadier	subst:pl:inst:m1	nazwa pospolita	
+< grenadierem	grenadier	subst:sg:inst:m1	nazwa pospolita	
+< grenadier	grenadier	subst:sg:nom:m1	nazwa pospolita	
+< grenadierom	grenadier	subst:pl:dat:m1	nazwa pospolita	
+< grenadierowi	grenadier	subst:sg:dat:m1	nazwa pospolita	
+< grenadierów	grenadier	subst:pl:acc:m1	nazwa pospolita	
+< grenadierów	grenadier	subst:pl:gen:m1	nazwa pospolita	
+< grenadiery	grenadier	depr:pl:nom:m2	nazwa pospolita	
+< grenadiery	grenadier	depr:pl:voc:m2	nazwa pospolita	
+< grenadierze	grenadier	subst:sg:loc:m1	nazwa pospolita	
+< grenadierze	grenadier	subst:sg:voc:m1	nazwa pospolita	
+< grenadierzy	grenadier	subst:pl:nom:m1	nazwa pospolita	
+< grenadierzy	grenadier	subst:pl:voc:m1	nazwa pospolita	
+---
+> grenadierach	grenadier:s1	subst:pl:loc:m1	nazwa pospolita	
+> grenadiera	grenadier:s1	subst:sg:acc:m1	nazwa pospolita	
+> grenadiera	grenadier:s1	subst:sg:gen:m1	nazwa pospolita	
+> grenadierami	grenadier:s1	subst:pl:inst:m1	nazwa pospolita	
+> grenadierem	grenadier:s1	subst:sg:inst:m1	nazwa pospolita	
+> grenadier	grenadier:s1	subst:sg:nom:m1	nazwa pospolita	
+> grenadierom	grenadier:s1	subst:pl:dat:m1	nazwa pospolita	
+> grenadierowi	grenadier:s1	subst:sg:dat:m1	nazwa pospolita	
+> grenadierów	grenadier:s1	subst:pl:acc:m1	nazwa pospolita	
+> grenadierów	grenadier:s1	subst:pl:gen:m1	nazwa pospolita	
+> grenadiery	grenadier:s1	depr:pl:nom:m2	nazwa pospolita	
+> grenadiery	grenadier:s1	depr:pl:voc:m2	nazwa pospolita	
+> grenadierze	grenadier:s1	subst:sg:loc:m1	nazwa pospolita	
+> grenadierze	grenadier:s1	subst:sg:voc:m1	nazwa pospolita	
+> grenadierzy	grenadier:s1	subst:pl:nom:m1	nazwa pospolita	
+> grenadierzy	grenadier:s1	subst:pl:voc:m1	nazwa pospolita	
+> grenadierach	grenadier:s2	subst:pl:loc:m2	nazwa pospolita	
+> grenadiera	grenadier:s2	subst:sg:acc:m2	nazwa pospolita	
+> grenadiera	grenadier:s2	subst:sg:gen:m2	nazwa pospolita	
+> grenadierami	grenadier:s2	subst:pl:inst:m2	nazwa pospolita	
+> grenadierem	grenadier:s2	subst:sg:inst:m2	nazwa pospolita	
+> grenadier	grenadier:s2	subst:sg:nom:m2	nazwa pospolita	
+> grenadierom	grenadier:s2	subst:pl:dat:m2	nazwa pospolita	
+> grenadierowi	grenadier:s2	subst:sg:dat:m2	nazwa pospolita	
+> grenadierów	grenadier:s2	subst:pl:gen:m2	nazwa pospolita	
+> grenadiery	grenadier:s2	subst:pl:acc:m2	nazwa pospolita	
+> grenadiery	grenadier:s2	subst:pl:nom:m2	nazwa pospolita	
+> grenadiery	grenadier:s2	subst:pl:voc:m2	nazwa pospolita	
+> grenadierze	grenadier:s2	subst:sg:loc:m2	nazwa pospolita	
+> grenadierze	grenadier:s2	subst:sg:voc:m2	nazwa pospolita	
+948035,948062c948095,948150
+< grzywaczach	grzywacz	subst:pl:loc:m2	nazwa pospolita	
+< grzywaczach	grzywacz	subst:pl:loc:m2	nazwa pospolita	rzad.
+< grzywacza	grzywacz	subst:sg:acc:m2	nazwa pospolita	
+< grzywacza	grzywacz	subst:sg:acc:m2	nazwa pospolita	rzad.
+< grzywacza	grzywacz	subst:sg:gen:m2	nazwa pospolita	
+< grzywacza	grzywacz	subst:sg:gen:m2	nazwa pospolita	rzad.
+< grzywaczami	grzywacz	subst:pl:inst:m2	nazwa pospolita	
+< grzywaczami	grzywacz	subst:pl:inst:m2	nazwa pospolita	rzad.
+< grzywacze	grzywacz	subst:pl:acc:m2	nazwa pospolita	
+< grzywacze	grzywacz	subst:pl:acc:m2	nazwa pospolita	rzad.
+< grzywacze	grzywacz	subst:pl:nom:m2	nazwa pospolita	
+< grzywacze	grzywacz	subst:pl:nom:m2	nazwa pospolita	rzad.
+< grzywacze	grzywacz	subst:pl:voc:m2	nazwa pospolita	
+< grzywacze	grzywacz	subst:pl:voc:m2	nazwa pospolita	rzad.
+< grzywaczem	grzywacz	subst:sg:inst:m2	nazwa pospolita	
+< grzywaczem	grzywacz	subst:sg:inst:m2	nazwa pospolita	rzad.
+< grzywacz	grzywacz	subst:sg:nom:m2	nazwa pospolita	
+< grzywacz	grzywacz	subst:sg:nom:m2	nazwa pospolita	rzad.
+< grzywaczom	grzywacz	subst:pl:dat:m2	nazwa pospolita	
+< grzywaczom	grzywacz	subst:pl:dat:m2	nazwa pospolita	rzad.
+< grzywaczowi	grzywacz	subst:sg:dat:m2	nazwa pospolita	
+< grzywaczowi	grzywacz	subst:sg:dat:m2	nazwa pospolita	rzad.
+< grzywaczów	grzywacz	subst:pl:gen:m2	nazwa pospolita	rzad.
+< grzywaczu	grzywacz	subst:sg:loc:m2	nazwa pospolita	
+< grzywaczu	grzywacz	subst:sg:loc:m2	nazwa pospolita	rzad.
+< grzywaczu	grzywacz	subst:sg:voc:m2	nazwa pospolita	
+< grzywaczu	grzywacz	subst:sg:voc:m2	nazwa pospolita	rzad.
+< grzywaczy	grzywacz	subst:pl:gen:m2	nazwa pospolita	
+---
+> grzywaczach	grzywacz:s1	subst:pl:loc:m2	nazwa pospolita	
+> grzywaczach	grzywacz:s1	subst:pl:loc:m2	nazwa pospolita	rzad.
+> grzywacza	grzywacz:s1	subst:sg:acc:m2	nazwa pospolita	
+> grzywacza	grzywacz:s1	subst:sg:acc:m2	nazwa pospolita	rzad.
+> grzywacza	grzywacz:s1	subst:sg:gen:m2	nazwa pospolita	
+> grzywacza	grzywacz:s1	subst:sg:gen:m2	nazwa pospolita	rzad.
+> grzywaczami	grzywacz:s1	subst:pl:inst:m2	nazwa pospolita	
+> grzywaczami	grzywacz:s1	subst:pl:inst:m2	nazwa pospolita	rzad.
+> grzywacze	grzywacz:s1	subst:pl:acc:m2	nazwa pospolita	
+> grzywacze	grzywacz:s1	subst:pl:acc:m2	nazwa pospolita	rzad.
+> grzywacze	grzywacz:s1	subst:pl:nom:m2	nazwa pospolita	
+> grzywacze	grzywacz:s1	subst:pl:nom:m2	nazwa pospolita	rzad.
+> grzywacze	grzywacz:s1	subst:pl:voc:m2	nazwa pospolita	
+> grzywacze	grzywacz:s1	subst:pl:voc:m2	nazwa pospolita	rzad.
+> grzywaczem	grzywacz:s1	subst:sg:inst:m2	nazwa pospolita	
+> grzywaczem	grzywacz:s1	subst:sg:inst:m2	nazwa pospolita	rzad.
+> grzywacz	grzywacz:s1	subst:sg:nom:m2	nazwa pospolita	
+> grzywacz	grzywacz:s1	subst:sg:nom:m2	nazwa pospolita	rzad.
+> grzywaczom	grzywacz:s1	subst:pl:dat:m2	nazwa pospolita	
+> grzywaczom	grzywacz:s1	subst:pl:dat:m2	nazwa pospolita	rzad.
+> grzywaczowi	grzywacz:s1	subst:sg:dat:m2	nazwa pospolita	
+> grzywaczowi	grzywacz:s1	subst:sg:dat:m2	nazwa pospolita	rzad.
+> grzywaczów	grzywacz:s1	subst:pl:gen:m2	nazwa pospolita	rzad.
+> grzywaczu	grzywacz:s1	subst:sg:loc:m2	nazwa pospolita	
+> grzywaczu	grzywacz:s1	subst:sg:loc:m2	nazwa pospolita	rzad.
+> grzywaczu	grzywacz:s1	subst:sg:voc:m2	nazwa pospolita	
+> grzywaczu	grzywacz:s1	subst:sg:voc:m2	nazwa pospolita	rzad.
+> grzywaczy	grzywacz:s1	subst:pl:gen:m2	nazwa pospolita	
+> grzywaczach	grzywacz:s2	subst:pl:loc:m3	nazwa pospolita	
+> grzywaczach	grzywacz:s2	subst:pl:loc:m3	nazwa pospolita	rzad.
+> grzywacza	grzywacz:s2	subst:sg:gen:m3	nazwa pospolita	
+> grzywacza	grzywacz:s2	subst:sg:gen:m3	nazwa pospolita	rzad.
+> grzywaczami	grzywacz:s2	subst:pl:inst:m3	nazwa pospolita	
+> grzywaczami	grzywacz:s2	subst:pl:inst:m3	nazwa pospolita	rzad.
+> grzywacze	grzywacz:s2	subst:pl:acc:m3	nazwa pospolita	
+> grzywacze	grzywacz:s2	subst:pl:acc:m3	nazwa pospolita	rzad.
+> grzywacze	grzywacz:s2	subst:pl:nom:m3	nazwa pospolita	
+> grzywacze	grzywacz:s2	subst:pl:nom:m3	nazwa pospolita	rzad.
+> grzywacze	grzywacz:s2	subst:pl:voc:m3	nazwa pospolita	
+> grzywacze	grzywacz:s2	subst:pl:voc:m3	nazwa pospolita	rzad.
+> grzywaczem	grzywacz:s2	subst:sg:inst:m3	nazwa pospolita	
+> grzywaczem	grzywacz:s2	subst:sg:inst:m3	nazwa pospolita	rzad.
+> grzywacz	grzywacz:s2	subst:sg:acc:m3	nazwa pospolita	
+> grzywacz	grzywacz:s2	subst:sg:acc:m3	nazwa pospolita	rzad.
+> grzywacz	grzywacz:s2	subst:sg:nom:m3	nazwa pospolita	
+> grzywacz	grzywacz:s2	subst:sg:nom:m3	nazwa pospolita	rzad.
+> grzywaczom	grzywacz:s2	subst:pl:dat:m3	nazwa pospolita	
+> grzywaczom	grzywacz:s2	subst:pl:dat:m3	nazwa pospolita	rzad.
+> grzywaczowi	grzywacz:s2	subst:sg:dat:m3	nazwa pospolita	
+> grzywaczowi	grzywacz:s2	subst:sg:dat:m3	nazwa pospolita	rzad.
+> grzywaczów	grzywacz:s2	subst:pl:gen:m3	nazwa pospolita	rzad.
+> grzywaczu	grzywacz:s2	subst:sg:loc:m3	nazwa pospolita	
+> grzywaczu	grzywacz:s2	subst:sg:loc:m3	nazwa pospolita	rzad.
+> grzywaczu	grzywacz:s2	subst:sg:voc:m3	nazwa pospolita	
+> grzywaczu	grzywacz:s2	subst:sg:voc:m3	nazwa pospolita	rzad.
+> grzywaczy	grzywacz:s2	subst:pl:gen:m3	nazwa pospolita	
+958024,958037c958112,958139
+< gzikach	gzik	subst:pl:loc:m2	nazwa pospolita	zool.
+< gzika	gzik	subst:sg:acc:m2	nazwa pospolita	zool.
+< gzika	gzik	subst:sg:gen:m2	nazwa pospolita	zool.
+< gzikami	gzik	subst:pl:inst:m2	nazwa pospolita	zool.
+< gzik	gzik	subst:sg:nom:m2	nazwa pospolita	zool.
+< gzikiem	gzik	subst:sg:inst:m2	nazwa pospolita	zool.
+< gziki	gzik	subst:pl:acc:m2	nazwa pospolita	zool.
+< gziki	gzik	subst:pl:nom:m2	nazwa pospolita	zool.
+< gziki	gzik	subst:pl:voc:m2	nazwa pospolita	zool.
+< gzikom	gzik	subst:pl:dat:m2	nazwa pospolita	zool.
+< gzikowi	gzik	subst:sg:dat:m2	nazwa pospolita	zool.
+< gzików	gzik	subst:pl:gen:m2	nazwa pospolita	zool.
+< gziku	gzik	subst:sg:loc:m2	nazwa pospolita	zool.
+< gziku	gzik	subst:sg:voc:m2	nazwa pospolita	zool.
+---
+> gzikach	gzik:s1	subst:pl:loc:m2	nazwa pospolita	zool.
+> gzika	gzik:s1	subst:sg:acc:m2	nazwa pospolita	zool.
+> gzika	gzik:s1	subst:sg:gen:m2	nazwa pospolita	zool.
+> gzikami	gzik:s1	subst:pl:inst:m2	nazwa pospolita	zool.
+> gzik	gzik:s1	subst:sg:nom:m2	nazwa pospolita	zool.
+> gzikiem	gzik:s1	subst:sg:inst:m2	nazwa pospolita	zool.
+> gziki	gzik:s1	subst:pl:acc:m2	nazwa pospolita	zool.
+> gziki	gzik:s1	subst:pl:nom:m2	nazwa pospolita	zool.
+> gziki	gzik:s1	subst:pl:voc:m2	nazwa pospolita	zool.
+> gzikom	gzik:s1	subst:pl:dat:m2	nazwa pospolita	zool.
+> gzikowi	gzik:s1	subst:sg:dat:m2	nazwa pospolita	zool.
+> gzików	gzik:s1	subst:pl:gen:m2	nazwa pospolita	zool.
+> gziku	gzik:s1	subst:sg:loc:m2	nazwa pospolita	zool.
+> gziku	gzik:s1	subst:sg:voc:m2	nazwa pospolita	zool.
+> gzikach	gzik:s2	subst:pl:loc:m3	nazwa pospolita	kulin.|reg.
+> gzika	gzik:s2	subst:sg:gen:m3	nazwa pospolita	kulin.|reg.
+> gzikami	gzik:s2	subst:pl:inst:m3	nazwa pospolita	kulin.|reg.
+> gzik	gzik:s2	subst:sg:acc:m3	nazwa pospolita	kulin.|reg.
+> gzik	gzik:s2	subst:sg:nom:m3	nazwa pospolita	kulin.|reg.
+> gzikiem	gzik:s2	subst:sg:inst:m3	nazwa pospolita	kulin.|reg.
+> gziki	gzik:s2	subst:pl:acc:m3	nazwa pospolita	kulin.|reg.
+> gziki	gzik:s2	subst:pl:nom:m3	nazwa pospolita	kulin.|reg.
+> gziki	gzik:s2	subst:pl:voc:m3	nazwa pospolita	kulin.|reg.
+> gzikom	gzik:s2	subst:pl:dat:m3	nazwa pospolita	kulin.|reg.
+> gzikowi	gzik:s2	subst:sg:dat:m3	nazwa pospolita	kulin.|reg.
+> gzików	gzik:s2	subst:pl:gen:m3	nazwa pospolita	kulin.|reg.
+> gziku	gzik:s2	subst:sg:loc:m3	nazwa pospolita	kulin.|reg.
+> gziku	gzik:s2	subst:sg:voc:m3	nazwa pospolita	kulin.|reg.
+1106478a1106581,1106594
+> jehowitce	jehowitka	subst:sg:dat:f	nazwa pospolita	
+> jehowitce	jehowitka	subst:sg:loc:f	nazwa pospolita	
+> jehowitek	jehowitka	subst:pl:gen:f	nazwa pospolita	
+> jehowitkach	jehowitka	subst:pl:loc:f	nazwa pospolita	
+> jehowitka	jehowitka	subst:sg:nom:f	nazwa pospolita	
+> jehowitkami	jehowitka	subst:pl:inst:f	nazwa pospolita	
+> jehowitką	jehowitka	subst:sg:inst:f	nazwa pospolita	
+> jehowitkę	jehowitka	subst:sg:acc:f	nazwa pospolita	
+> jehowitki	jehowitka	subst:pl:acc:f	nazwa pospolita	
+> jehowitki	jehowitka	subst:pl:nom:f	nazwa pospolita	
+> jehowitki	jehowitka	subst:pl:voc:f	nazwa pospolita	
+> jehowitki	jehowitka	subst:sg:gen:f	nazwa pospolita	
+> jehowitko	jehowitka	subst:sg:voc:f	nazwa pospolita	
+> jehowitkom	jehowitka	subst:pl:dat:f	nazwa pospolita	
+1133628a1133745,1133782
+> kalafiorowatościach	kalafiorowatość	subst:pl:loc:f		
+> kalafiorowatościami	kalafiorowatość	subst:pl:inst:f		
+> kalafiorowatością	kalafiorowatość	subst:sg:inst:f		
+> kalafiorowatości	kalafiorowatość	subst:pl:acc:f		
+> kalafiorowatości	kalafiorowatość	subst:pl:gen:f		
+> kalafiorowatości	kalafiorowatość	subst:pl:nom:f		
+> kalafiorowatości	kalafiorowatość	subst:pl:voc:f		
+> kalafiorowatości	kalafiorowatość	subst:sg:dat:f		
+> kalafiorowatości	kalafiorowatość	subst:sg:gen:f		
+> kalafiorowatości	kalafiorowatość	subst:sg:loc:f		
+> kalafiorowatości	kalafiorowatość	subst:sg:voc:f		
+> kalafiorowatościom	kalafiorowatość	subst:pl:dat:f		
+> kalafiorowatość	kalafiorowatość	subst:sg:acc:f		
+> kalafiorowatość	kalafiorowatość	subst:sg:nom:f		
+> kalafiorowaci	kalafiorowaty	adj:pl:nom.voc:m1.p1:pos		
+> kalafiorowata	kalafiorowaty	adj:sg:nom.voc:f:pos		
+> kalafiorowatą	kalafiorowaty	adj:sg:acc:f:pos		
+> kalafiorowatą	kalafiorowaty	adj:sg:inst:f:pos		
+> kalafiorowatego	kalafiorowaty	adj:sg:acc:m1.m2:pos		
+> kalafiorowatego	kalafiorowaty	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> kalafiorowatej	kalafiorowaty	adj:sg:dat:f:pos		
+> kalafiorowatej	kalafiorowaty	adj:sg:gen:f:pos		
+> kalafiorowatej	kalafiorowaty	adj:sg:loc:f:pos		
+> kalafiorowate	kalafiorowaty	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> kalafiorowate	kalafiorowaty	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> kalafiorowate	kalafiorowaty	adj:sg:acc:n1.n2:pos		
+> kalafiorowate	kalafiorowaty	adj:sg:nom.voc:n1.n2:pos		
+> kalafiorowatemu	kalafiorowaty	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> kalafiorowato	kalafiorowaty	adja		
+> kalafiorowatych	kalafiorowaty	adj:pl:acc:m1.p1:pos		
+> kalafiorowatych	kalafiorowaty	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> kalafiorowatych	kalafiorowaty	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> kalafiorowaty	kalafiorowaty	adj:sg:acc:m3:pos		
+> kalafiorowaty	kalafiorowaty	adj:sg:nom.voc:m1.m2.m3:pos		
+> kalafiorowatymi	kalafiorowaty	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> kalafiorowatym	kalafiorowaty	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> kalafiorowatym	kalafiorowaty	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> kalafiorowatym	kalafiorowaty	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+1391879,1391892c1392033,1392062
+< kuchcie	kuchta	subst:sg:dat:f	nazwa pospolita	
+< kuchcie	kuchta	subst:sg:loc:f	nazwa pospolita	
+< kuchtach	kuchta	subst:pl:loc:f	nazwa pospolita	
+< kuchta	kuchta	subst:sg:nom:f	nazwa pospolita	
+< kuchtami	kuchta	subst:pl:inst:f	nazwa pospolita	
+< kuchtą	kuchta	subst:sg:inst:f	nazwa pospolita	
+< kuchtę	kuchta	subst:sg:acc:f	nazwa pospolita	
+< kucht	kuchta	subst:pl:gen:f	nazwa pospolita	
+< kuchto	kuchta	subst:sg:voc:f	nazwa pospolita	
+< kuchtom	kuchta	subst:pl:dat:f	nazwa pospolita	
+< kuchty	kuchta	subst:pl:acc:f	nazwa pospolita	
+< kuchty	kuchta	subst:pl:nom:f	nazwa pospolita	
+< kuchty	kuchta	subst:pl:voc:f	nazwa pospolita	
+< kuchty	kuchta	subst:sg:gen:f	nazwa pospolita	
+---
+> kuchcie	kuchta:s1	subst:sg:dat:f	nazwa pospolita	
+> kuchcie	kuchta:s1	subst:sg:loc:f	nazwa pospolita	
+> kuchtach	kuchta:s1	subst:pl:loc:f	nazwa pospolita	
+> kuchta	kuchta:s1	subst:sg:nom:f	nazwa pospolita	
+> kuchtami	kuchta:s1	subst:pl:inst:f	nazwa pospolita	
+> kuchtą	kuchta:s1	subst:sg:inst:f	nazwa pospolita	
+> kuchtę	kuchta:s1	subst:sg:acc:f	nazwa pospolita	
+> kucht	kuchta:s1	subst:pl:gen:f	nazwa pospolita	
+> kuchto	kuchta:s1	subst:sg:voc:f	nazwa pospolita	
+> kuchtom	kuchta:s1	subst:pl:dat:f	nazwa pospolita	
+> kuchty	kuchta:s1	subst:pl:acc:f	nazwa pospolita	
+> kuchty	kuchta:s1	subst:pl:nom:f	nazwa pospolita	
+> kuchty	kuchta:s1	subst:pl:voc:f	nazwa pospolita	
+> kuchty	kuchta:s1	subst:sg:gen:f	nazwa pospolita	
+> kuchcie	kuchta:s2	subst:sg:dat:m1	nazwa pospolita	daw.
+> kuchcie	kuchta:s2	subst:sg:loc:m1	nazwa pospolita	daw.
+> kuchtach	kuchta:s2	subst:pl:loc:m1	nazwa pospolita	daw.
+> kuchta	kuchta:s2	subst:sg:nom:m1	nazwa pospolita	daw.
+> kuchtami	kuchta:s2	subst:pl:inst:m1	nazwa pospolita	daw.
+> kuchtą	kuchta:s2	subst:sg:inst:m1	nazwa pospolita	daw.
+> kuchtę	kuchta:s2	subst:sg:acc:m1	nazwa pospolita	daw.
+> kuchto	kuchta:s2	subst:sg:voc:m1	nazwa pospolita	daw.
+> kuchtom	kuchta:s2	subst:pl:dat:m1	nazwa pospolita	daw.
+> kuchtowie	kuchta:s2	subst:pl:nom:m1	nazwa pospolita	daw.
+> kuchtowie	kuchta:s2	subst:pl:voc:m1	nazwa pospolita	daw.
+> kuchtów	kuchta:s2	subst:pl:acc:m1	nazwa pospolita	daw.
+> kuchtów	kuchta:s2	subst:pl:gen:m1	nazwa pospolita	daw.
+> kuchty	kuchta:s2	depr:pl:nom:m2	nazwa pospolita	daw.
+> kuchty	kuchta:s2	depr:pl:voc:m2	nazwa pospolita	daw.
+> kuchty	kuchta:s2	subst:sg:gen:m1	nazwa pospolita	daw.
+1596824,1596837c1596994,1597007
+< meczbolach	meczbol	subst:pl:loc:m3	nazwa pospolita	sport.
+< meczbola	meczbol	subst:sg:gen:m3	nazwa pospolita	sport.
+< meczbolami	meczbol	subst:pl:inst:m3	nazwa pospolita	sport.
+< meczbole	meczbol	subst:pl:acc:m3	nazwa pospolita	sport.
+< meczbole	meczbol	subst:pl:nom:m3	nazwa pospolita	sport.
+< meczbole	meczbol	subst:pl:voc:m3	nazwa pospolita	sport.
+< meczbolem	meczbol	subst:sg:inst:m3	nazwa pospolita	sport.
+< meczboli	meczbol	subst:pl:gen:m3	nazwa pospolita	sport.
+< meczbol	meczbol	subst:sg:acc:m3	nazwa pospolita	sport.
+< meczbol	meczbol	subst:sg:nom:m3	nazwa pospolita	sport.
+< meczbolom	meczbol	subst:pl:dat:m3	nazwa pospolita	sport.
+< meczbolowi	meczbol	subst:sg:dat:m3	nazwa pospolita	sport.
+< meczbolu	meczbol	subst:sg:loc:m3	nazwa pospolita	sport.
+< meczbolu	meczbol	subst:sg:voc:m3	nazwa pospolita	sport.
+---
+> meczbolach	meczbol	subst:pl:loc:m2	nazwa pospolita	sport.
+> meczbola	meczbol	subst:sg:acc:m2	nazwa pospolita	sport.
+> meczbola	meczbol	subst:sg:gen:m2	nazwa pospolita	sport.
+> meczbolami	meczbol	subst:pl:inst:m2	nazwa pospolita	sport.
+> meczbole	meczbol	subst:pl:acc:m2	nazwa pospolita	sport.
+> meczbole	meczbol	subst:pl:nom:m2	nazwa pospolita	sport.
+> meczbole	meczbol	subst:pl:voc:m2	nazwa pospolita	sport.
+> meczbolem	meczbol	subst:sg:inst:m2	nazwa pospolita	sport.
+> meczboli	meczbol	subst:pl:gen:m2	nazwa pospolita	sport.
+> meczbol	meczbol	subst:sg:nom:m2	nazwa pospolita	sport.
+> meczbolom	meczbol	subst:pl:dat:m2	nazwa pospolita	sport.
+> meczbolowi	meczbol	subst:sg:dat:m2	nazwa pospolita	sport.
+> meczbolu	meczbol	subst:sg:loc:m2	nazwa pospolita	sport.
+> meczbolu	meczbol	subst:sg:voc:m2	nazwa pospolita	sport.
+1598303a1598474,1598487
+> medioznawczyniach	medioznawczyni	subst:pl:loc:f	nazwa pospolita	
+> medioznawczyniami	medioznawczyni	subst:pl:inst:f	nazwa pospolita	
+> medioznawczynią	medioznawczyni	subst:sg:inst:f	nazwa pospolita	
+> medioznawczynie	medioznawczyni	subst:pl:acc:f	nazwa pospolita	
+> medioznawczynie	medioznawczyni	subst:pl:nom:f	nazwa pospolita	
+> medioznawczynie	medioznawczyni	subst:pl:voc:f	nazwa pospolita	
+> medioznawczynię	medioznawczyni	subst:sg:acc:f	nazwa pospolita	
+> medioznawczyni	medioznawczyni	subst:sg:dat:f	nazwa pospolita	
+> medioznawczyni	medioznawczyni	subst:sg:gen:f	nazwa pospolita	
+> medioznawczyni	medioznawczyni	subst:sg:loc:f	nazwa pospolita	
+> medioznawczyni	medioznawczyni	subst:sg:nom:f	nazwa pospolita	
+> medioznawczyni	medioznawczyni	subst:sg:voc:f	nazwa pospolita	
+> medioznawczyniom	medioznawczyni	subst:pl:dat:f	nazwa pospolita	
+> medioznawczyń	medioznawczyni	subst:pl:gen:f	nazwa pospolita	
+2280480a2280665,2280678
+> niekalafiorowatościach	niekalafiorowatość	subst:pl:loc:f		
+> niekalafiorowatościami	niekalafiorowatość	subst:pl:inst:f		
+> niekalafiorowatością	niekalafiorowatość	subst:sg:inst:f		
+> niekalafiorowatości	niekalafiorowatość	subst:pl:acc:f		
+> niekalafiorowatości	niekalafiorowatość	subst:pl:gen:f		
+> niekalafiorowatości	niekalafiorowatość	subst:pl:nom:f		
+> niekalafiorowatości	niekalafiorowatość	subst:pl:voc:f		
+> niekalafiorowatości	niekalafiorowatość	subst:sg:dat:f		
+> niekalafiorowatości	niekalafiorowatość	subst:sg:gen:f		
+> niekalafiorowatości	niekalafiorowatość	subst:sg:loc:f		
+> niekalafiorowatości	niekalafiorowatość	subst:sg:voc:f		
+> niekalafiorowatościom	niekalafiorowatość	subst:pl:dat:f		
+> niekalafiorowatość	niekalafiorowatość	subst:sg:acc:f		
+> niekalafiorowatość	niekalafiorowatość	subst:sg:nom:f		
+3084829a3085028
+> niezabytkowo	niezabytkowo	adv:pos		
+4551279,4551280c4551478,4551479
+< przynudzacie	przynudzać	fin:pl:sec:imperf		przest.
+< przynudzać	przynudzać	inf:imperf		przest.
+---
+> przynudzacie	przynudzać	fin:pl:sec:imperf		
+> przynudzać	przynudzać	inf:imperf		
+4551290c4551489
+< przynudzając	przynudzać	pcon:imperf		przest.
+---
+> przynudzając	przynudzać	pcon:imperf		
+4551299,4551339c4551498,4551538
+< przynudzają	przynudzać	fin:pl:ter:imperf		przest.
+< przynudzajcie	przynudzać	impt:pl:sec:imperf		przest.
+< przynudzajmy	przynudzać	impt:pl:pri:imperf		przest.
+< przynudzaj	przynudzać	impt:sg:sec:imperf		przest.
+< przynudzaliby	przynudzać	cond:pl:m1.p1:ter:imperf		przest.
+< przynudzalibyście	przynudzać	cond:pl:m1.p1:sec:imperf		przest.
+< przynudzalibyśmy	przynudzać	cond:pl:m1.p1:pri:imperf		przest.
+< przynudzali	przynudzać	praet:pl:m1.p1:imperf		przest.
+< przynudzali	przynudzać	praet:pl:m1.p1:ter:imperf		przest.
+< przynudzaliście	przynudzać	praet:pl:m1.p1:sec:imperf		przest.
+< przynudzaliśmy	przynudzać	praet:pl:m1.p1:pri:imperf		przest.
+< przynudzałabym	przynudzać	cond:sg:f:pri:imperf		przest.
+< przynudzałaby	przynudzać	cond:sg:f:ter:imperf		przest.
+< przynudzałabyś	przynudzać	cond:sg:f:sec:imperf		przest.
+< przynudzałam	przynudzać	praet:sg:f:pri:imperf		przest.
+< przynudzała	przynudzać	praet:sg:f:imperf		przest.
+< przynudzała	przynudzać	praet:sg:f:ter:imperf		przest.
+< przynudzałaś	przynudzać	praet:sg:f:sec:imperf		przest.
+< przynudzałbym	przynudzać	cond:sg:m1.m2.m3:pri:imperf		przest.
+< przynudzałby	przynudzać	cond:sg:m1.m2.m3:ter:imperf		przest.
+< przynudzałbyś	przynudzać	cond:sg:m1.m2.m3:sec:imperf		przest.
+< przynudzałem	przynudzać	praet:sg:m1.m2.m3:pri:imperf		przest.
+< przynudzałeś	przynudzać	praet:sg:m1.m2.m3:sec:imperf		przest.
+< przynudzałobym	przynudzać	cond:sg:n1.n2:pri:imperf		przest.
+< przynudzałoby	przynudzać	cond:sg:n1.n2:ter:imperf		przest.
+< przynudzałobyś	przynudzać	cond:sg:n1.n2:sec:imperf		przest.
+< przynudzałom	przynudzać	praet:sg:n1.n2:pri:imperf		przest.
+< przynudzało	przynudzać	praet:sg:n1.n2:imperf		przest.
+< przynudzało	przynudzać	praet:sg:n1.n2:ter:imperf		przest.
+< przynudzałoś	przynudzać	praet:sg:n1.n2:sec:imperf		przest.
+< przynudzał	przynudzać	praet:sg:m1.m2.m3:imperf		przest.
+< przynudzał	przynudzać	praet:sg:m1.m2.m3:ter:imperf		przest.
+< przynudzałyby	przynudzać	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
+< przynudzałybyście	przynudzać	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
+< przynudzałybyśmy	przynudzać	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+< przynudzały	przynudzać	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
+< przynudzały	przynudzać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
+< przynudzałyście	przynudzać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
+< przynudzałyśmy	przynudzać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+< przynudzam	przynudzać	fin:sg:pri:imperf		przest.
+< przynudzamy	przynudzać	fin:pl:pri:imperf		przest.
+---
+> przynudzają	przynudzać	fin:pl:ter:imperf		
+> przynudzajcie	przynudzać	impt:pl:sec:imperf		
+> przynudzajmy	przynudzać	impt:pl:pri:imperf		
+> przynudzaj	przynudzać	impt:sg:sec:imperf		
+> przynudzaliby	przynudzać	cond:pl:m1.p1:ter:imperf		
+> przynudzalibyście	przynudzać	cond:pl:m1.p1:sec:imperf		
+> przynudzalibyśmy	przynudzać	cond:pl:m1.p1:pri:imperf		
+> przynudzali	przynudzać	praet:pl:m1.p1:imperf		
+> przynudzali	przynudzać	praet:pl:m1.p1:ter:imperf		
+> przynudzaliście	przynudzać	praet:pl:m1.p1:sec:imperf		
+> przynudzaliśmy	przynudzać	praet:pl:m1.p1:pri:imperf		
+> przynudzałabym	przynudzać	cond:sg:f:pri:imperf		
+> przynudzałaby	przynudzać	cond:sg:f:ter:imperf		
+> przynudzałabyś	przynudzać	cond:sg:f:sec:imperf		
+> przynudzałam	przynudzać	praet:sg:f:pri:imperf		
+> przynudzała	przynudzać	praet:sg:f:imperf		
+> przynudzała	przynudzać	praet:sg:f:ter:imperf		
+> przynudzałaś	przynudzać	praet:sg:f:sec:imperf		
+> przynudzałbym	przynudzać	cond:sg:m1.m2.m3:pri:imperf		
+> przynudzałby	przynudzać	cond:sg:m1.m2.m3:ter:imperf		
+> przynudzałbyś	przynudzać	cond:sg:m1.m2.m3:sec:imperf		
+> przynudzałem	przynudzać	praet:sg:m1.m2.m3:pri:imperf		
+> przynudzałeś	przynudzać	praet:sg:m1.m2.m3:sec:imperf		
+> przynudzałobym	przynudzać	cond:sg:n1.n2:pri:imperf		
+> przynudzałoby	przynudzać	cond:sg:n1.n2:ter:imperf		
+> przynudzałobyś	przynudzać	cond:sg:n1.n2:sec:imperf		
+> przynudzałom	przynudzać	praet:sg:n1.n2:pri:imperf		
+> przynudzało	przynudzać	praet:sg:n1.n2:imperf		
+> przynudzało	przynudzać	praet:sg:n1.n2:ter:imperf		
+> przynudzałoś	przynudzać	praet:sg:n1.n2:sec:imperf		
+> przynudzał	przynudzać	praet:sg:m1.m2.m3:imperf		
+> przynudzał	przynudzać	praet:sg:m1.m2.m3:ter:imperf		
+> przynudzałyby	przynudzać	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> przynudzałybyście	przynudzać	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> przynudzałybyśmy	przynudzać	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> przynudzały	przynudzać	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+> przynudzały	przynudzać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> przynudzałyście	przynudzać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> przynudzałyśmy	przynudzać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> przynudzam	przynudzać	fin:sg:pri:imperf		
+> przynudzamy	przynudzać	fin:pl:pri:imperf		
+4551357c4551556
+< przynudzano	przynudzać	imps:imperf		przest.
+---
+> przynudzano	przynudzać	imps:imperf		
+4551366,4551367c4551565,4551663
+< przynudza	przynudzać	fin:sg:ter:imperf		przest.
+< przynudzasz	przynudzać	fin:sg:sec:imperf		przest.
+---
+> przynudza	przynudzać	fin:sg:ter:imperf		
+> przynudzasz	przynudzać	fin:sg:sec:imperf		
+> nieprzynudzeniach	przynudzić	ger:pl:loc:n2:perf:neg		
+> nieprzynudzeniami	przynudzić	ger:pl:inst:n2:perf:neg		
+> nieprzynudzenia	przynudzić	ger:pl:nom.acc:n2:perf:neg		
+> nieprzynudzenia	przynudzić	ger:sg:gen:n2:perf:neg		
+> nieprzynudzeniem	przynudzić	ger:sg:inst:n2:perf:neg		
+> nieprzynudzenie	przynudzić	ger:sg:nom.acc:n2:perf:neg		
+> nieprzynudzeniom	przynudzić	ger:pl:dat:n2:perf:neg		
+> nieprzynudzeniu	przynudzić	ger:sg:dat.loc:n2:perf:neg		
+> nieprzynudzeń	przynudzić	ger:pl:gen:n2:perf:neg		
+> nieprzynudzona	przynudzić	ppas:sg:nom.voc:f:perf:neg		
+> nieprzynudzoną	przynudzić	ppas:sg:acc.inst:f:perf:neg		
+> nieprzynudzonego	przynudzić	ppas:sg:acc:m1.m2:perf:neg		
+> nieprzynudzonego	przynudzić	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> nieprzynudzonej	przynudzić	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieprzynudzonemu	przynudzić	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> nieprzynudzone	przynudzić	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> nieprzynudzone	przynudzić	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> nieprzynudzoni	przynudzić	ppas:pl:nom.voc:m1.p1:perf:neg		
+> nieprzynudzonych	przynudzić	ppas:pl:acc:m1.p1:perf:neg		
+> nieprzynudzonych	przynudzić	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieprzynudzonymi	przynudzić	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieprzynudzonym	przynudzić	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieprzynudzonym	przynudzić	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> nieprzynudzony	przynudzić	ppas:sg:acc:m3:perf:neg		
+> nieprzynudzony	przynudzić	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> przynudzą	przynudzić	fin:pl:ter:perf		
+> przynudzeniach	przynudzić	ger:pl:loc:n2:perf:aff		
+> przynudzeniami	przynudzić	ger:pl:inst:n2:perf:aff		
+> przynudzenia	przynudzić	ger:pl:nom.acc:n2:perf:aff		
+> przynudzenia	przynudzić	ger:sg:gen:n2:perf:aff		
+> przynudzeniem	przynudzić	ger:sg:inst:n2:perf:aff		
+> przynudzenie	przynudzić	ger:sg:nom.acc:n2:perf:aff		
+> przynudzeniom	przynudzić	ger:pl:dat:n2:perf:aff		
+> przynudzeniu	przynudzić	ger:sg:dat.loc:n2:perf:aff		
+> przynudzeń	przynudzić	ger:pl:gen:n2:perf:aff		
+> przynudzę	przynudzić	fin:sg:pri:perf		
+> przynudzicie	przynudzić	fin:pl:sec:perf		
+> przynudzić	przynudzić	inf:perf		
+> przynudziliby	przynudzić	cond:pl:m1.p1:ter:perf		
+> przynudzilibyście	przynudzić	cond:pl:m1.p1:sec:perf		
+> przynudzilibyśmy	przynudzić	cond:pl:m1.p1:pri:perf		
+> przynudzili	przynudzić	praet:pl:m1.p1:perf		
+> przynudzili	przynudzić	praet:pl:m1.p1:ter:perf		
+> przynudziliście	przynudzić	praet:pl:m1.p1:sec:perf		
+> przynudziliśmy	przynudzić	praet:pl:m1.p1:pri:perf		
+> przynudziłabym	przynudzić	cond:sg:f:pri:perf		
+> przynudziłaby	przynudzić	cond:sg:f:ter:perf		
+> przynudziłabyś	przynudzić	cond:sg:f:sec:perf		
+> przynudziłam	przynudzić	praet:sg:f:pri:perf		
+> przynudziła	przynudzić	praet:sg:f:perf		
+> przynudziła	przynudzić	praet:sg:f:ter:perf		
+> przynudziłaś	przynudzić	praet:sg:f:sec:perf		
+> przynudziłbym	przynudzić	cond:sg:m1.m2.m3:pri:perf		
+> przynudziłby	przynudzić	cond:sg:m1.m2.m3:ter:perf		
+> przynudziłbyś	przynudzić	cond:sg:m1.m2.m3:sec:perf		
+> przynudziłem	przynudzić	praet:sg:m1.m2.m3:pri:perf		
+> przynudziłeś	przynudzić	praet:sg:m1.m2.m3:sec:perf		
+> przynudziłobym	przynudzić	cond:sg:n1.n2:pri:perf		
+> przynudziłoby	przynudzić	cond:sg:n1.n2:ter:perf		
+> przynudziłobyś	przynudzić	cond:sg:n1.n2:sec:perf		
+> przynudziłom	przynudzić	praet:sg:n1.n2:pri:perf		
+> przynudziło	przynudzić	praet:sg:n1.n2:perf		
+> przynudziło	przynudzić	praet:sg:n1.n2:ter:perf		
+> przynudziłoś	przynudzić	praet:sg:n1.n2:sec:perf		
+> przynudził	przynudzić	praet:sg:m1.m2.m3:perf		
+> przynudził	przynudzić	praet:sg:m1.m2.m3:ter:perf		
+> przynudziłyby	przynudzić	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> przynudziłybyście	przynudzić	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> przynudziłybyśmy	przynudzić	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> przynudziły	przynudzić	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> przynudziły	przynudzić	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> przynudziłyście	przynudzić	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> przynudziłyśmy	przynudzić	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> przynudzimy	przynudzić	fin:pl:pri:perf		
+> przynudzi	przynudzić	fin:sg:ter:perf		
+> przynudzisz	przynudzić	fin:sg:sec:perf		
+> przynudziwszy	przynudzić	pant:perf		
+> przynudzona	przynudzić	ppas:sg:nom.voc:f:perf:aff		
+> przynudzoną	przynudzić	ppas:sg:acc.inst:f:perf:aff		
+> przynudzonego	przynudzić	ppas:sg:acc:m1.m2:perf:aff		
+> przynudzonego	przynudzić	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> przynudzonej	przynudzić	ppas:sg:gen.dat.loc:f:perf:aff		
+> przynudzonemu	przynudzić	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> przynudzone	przynudzić	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> przynudzone	przynudzić	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> przynudzoni	przynudzić	ppas:pl:nom.voc:m1.p1:perf:aff		
+> przynudzono	przynudzić	imps:perf		
+> przynudzonych	przynudzić	ppas:pl:acc:m1.p1:perf:aff		
+> przynudzonych	przynudzić	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> przynudzonymi	przynudzić	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> przynudzonym	przynudzić	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> przynudzonym	przynudzić	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> przynudzony	przynudzić	ppas:sg:acc:m3:perf:aff		
+> przynudzony	przynudzić	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> przynudźcie	przynudzić	impt:pl:sec:perf		
+> przynudźmy	przynudzić	impt:pl:pri:perf		
+> przynudź	przynudzić	impt:sg:sec:perf		
+4683276a4683573,4683619
+> remasterować	remasterować	inf:imperf		
+> remasterowaliby	remasterować	cond:pl:m1.p1:ter:imperf		
+> remasterowalibyście	remasterować	cond:pl:m1.p1:sec:imperf		
+> remasterowalibyśmy	remasterować	cond:pl:m1.p1:pri:imperf		
+> remasterowali	remasterować	praet:pl:m1.p1:imperf		
+> remasterowali	remasterować	praet:pl:m1.p1:ter:imperf		
+> remasterowaliście	remasterować	praet:pl:m1.p1:sec:imperf		
+> remasterowaliśmy	remasterować	praet:pl:m1.p1:pri:imperf		
+> remasterowałabym	remasterować	cond:sg:f:pri:imperf		
+> remasterowałaby	remasterować	cond:sg:f:ter:imperf		
+> remasterowałabyś	remasterować	cond:sg:f:sec:imperf		
+> remasterowałam	remasterować	praet:sg:f:pri:imperf		
+> remasterowała	remasterować	praet:sg:f:imperf		
+> remasterowała	remasterować	praet:sg:f:ter:imperf		
+> remasterowałaś	remasterować	praet:sg:f:sec:imperf		
+> remasterowałbym	remasterować	cond:sg:m1.m2.m3:pri:imperf		
+> remasterowałby	remasterować	cond:sg:m1.m2.m3:ter:imperf		
+> remasterowałbyś	remasterować	cond:sg:m1.m2.m3:sec:imperf		
+> remasterowałem	remasterować	praet:sg:m1.m2.m3:pri:imperf		
+> remasterowałeś	remasterować	praet:sg:m1.m2.m3:sec:imperf		
+> remasterowałobym	remasterować	cond:sg:n1.n2:pri:imperf		
+> remasterowałoby	remasterować	cond:sg:n1.n2:ter:imperf		
+> remasterowałobyś	remasterować	cond:sg:n1.n2:sec:imperf		
+> remasterowałom	remasterować	praet:sg:n1.n2:pri:imperf		
+> remasterowało	remasterować	praet:sg:n1.n2:imperf		
+> remasterowało	remasterować	praet:sg:n1.n2:ter:imperf		
+> remasterowałoś	remasterować	praet:sg:n1.n2:sec:imperf		
+> remasterował	remasterować	praet:sg:m1.m2.m3:imperf		
+> remasterował	remasterować	praet:sg:m1.m2.m3:ter:imperf		
+> remasterowałyby	remasterować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> remasterowałybyście	remasterować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> remasterowałybyśmy	remasterować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> remasterowały	remasterować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+> remasterowały	remasterować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> remasterowałyście	remasterować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> remasterowałyśmy	remasterować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> remasterowano	remasterować	imps:imperf		
+> remasterując	remasterować	pcon:imperf		
+> remasterują	remasterować	fin:pl:ter:imperf		
+> remasterujcie	remasterować	impt:pl:sec:imperf		
+> remasterujecie	remasterować	fin:pl:sec:imperf		
+> remasterujemy	remasterować	fin:pl:pri:imperf		
+> remasteruje	remasterować	fin:sg:ter:imperf		
+> remasterujesz	remasterować	fin:sg:sec:imperf		
+> remasteruję	remasterować	fin:sg:pri:imperf		
+> remasterujmy	remasterować	impt:pl:pri:imperf		
+> remasteruj	remasterować	impt:sg:sec:imperf		
+4684751a4685095,4685141
+> renacjonalizować	renacjonalizować	inf:imperf		
+> renacjonalizowaliby	renacjonalizować	cond:pl:m1.p1:ter:imperf		
+> renacjonalizowalibyście	renacjonalizować	cond:pl:m1.p1:sec:imperf		
+> renacjonalizowalibyśmy	renacjonalizować	cond:pl:m1.p1:pri:imperf		
+> renacjonalizowali	renacjonalizować	praet:pl:m1.p1:imperf		
+> renacjonalizowali	renacjonalizować	praet:pl:m1.p1:ter:imperf		
+> renacjonalizowaliście	renacjonalizować	praet:pl:m1.p1:sec:imperf		
+> renacjonalizowaliśmy	renacjonalizować	praet:pl:m1.p1:pri:imperf		
+> renacjonalizowałabym	renacjonalizować	cond:sg:f:pri:imperf		
+> renacjonalizowałaby	renacjonalizować	cond:sg:f:ter:imperf		
+> renacjonalizowałabyś	renacjonalizować	cond:sg:f:sec:imperf		
+> renacjonalizowałam	renacjonalizować	praet:sg:f:pri:imperf		
+> renacjonalizowała	renacjonalizować	praet:sg:f:imperf		
+> renacjonalizowała	renacjonalizować	praet:sg:f:ter:imperf		
+> renacjonalizowałaś	renacjonalizować	praet:sg:f:sec:imperf		
+> renacjonalizowałbym	renacjonalizować	cond:sg:m1.m2.m3:pri:imperf		
+> renacjonalizowałby	renacjonalizować	cond:sg:m1.m2.m3:ter:imperf		
+> renacjonalizowałbyś	renacjonalizować	cond:sg:m1.m2.m3:sec:imperf		
+> renacjonalizowałem	renacjonalizować	praet:sg:m1.m2.m3:pri:imperf		
+> renacjonalizowałeś	renacjonalizować	praet:sg:m1.m2.m3:sec:imperf		
+> renacjonalizowałobym	renacjonalizować	cond:sg:n1.n2:pri:imperf		
+> renacjonalizowałoby	renacjonalizować	cond:sg:n1.n2:ter:imperf		
+> renacjonalizowałobyś	renacjonalizować	cond:sg:n1.n2:sec:imperf		
+> renacjonalizowałom	renacjonalizować	praet:sg:n1.n2:pri:imperf		
+> renacjonalizowało	renacjonalizować	praet:sg:n1.n2:imperf		
+> renacjonalizowało	renacjonalizować	praet:sg:n1.n2:ter:imperf		
+> renacjonalizowałoś	renacjonalizować	praet:sg:n1.n2:sec:imperf		
+> renacjonalizował	renacjonalizować	praet:sg:m1.m2.m3:imperf		
+> renacjonalizował	renacjonalizować	praet:sg:m1.m2.m3:ter:imperf		
+> renacjonalizowałyby	renacjonalizować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> renacjonalizowałybyście	renacjonalizować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> renacjonalizowałybyśmy	renacjonalizować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> renacjonalizowały	renacjonalizować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+> renacjonalizowały	renacjonalizować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> renacjonalizowałyście	renacjonalizować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> renacjonalizowałyśmy	renacjonalizować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> renacjonalizowano	renacjonalizować	imps:imperf		
+> renacjonalizując	renacjonalizować	pcon:imperf		
+> renacjonalizują	renacjonalizować	fin:pl:ter:imperf		
+> renacjonalizujcie	renacjonalizować	impt:pl:sec:imperf		
+> renacjonalizujecie	renacjonalizować	fin:pl:sec:imperf		
+> renacjonalizujemy	renacjonalizować	fin:pl:pri:imperf		
+> renacjonalizuje	renacjonalizować	fin:sg:ter:imperf		
+> renacjonalizujesz	renacjonalizować	fin:sg:sec:imperf		
+> renacjonalizuję	renacjonalizować	fin:sg:pri:imperf		
+> renacjonalizujmy	renacjonalizować	impt:pl:pri:imperf		
+> renacjonalizuj	renacjonalizować	impt:sg:sec:imperf		
+6344184a6344575
+> zabytkowo	zabytkowo	adv:pos		
+6818397a6818789,6818835
+> zremasterować	zremasterować	inf:perf		
+> zremasterowalibyście	zremasterować	cond:pl:m1.p1:sec:perf		
+> zremasterowalibyśmy	zremasterować	cond:pl:m1.p1:pri:perf		
+> zremasterowaliby	zremasterować	cond:pl:m1.p1:ter:perf		
+> zremasterowaliście	zremasterować	praet:pl:m1.p1:sec:perf		
+> zremasterowaliśmy	zremasterować	praet:pl:m1.p1:pri:perf		
+> zremasterowali	zremasterować	praet:pl:m1.p1:perf		
+> zremasterowali	zremasterować	praet:pl:m1.p1:ter:perf		
+> zremasterowałabym	zremasterować	cond:sg:f:pri:perf		
+> zremasterowałabyś	zremasterować	cond:sg:f:sec:perf		
+> zremasterowałaby	zremasterować	cond:sg:f:ter:perf		
+> zremasterowałam	zremasterować	praet:sg:f:pri:perf		
+> zremasterowałaś	zremasterować	praet:sg:f:sec:perf		
+> zremasterowała	zremasterować	praet:sg:f:perf		
+> zremasterowała	zremasterować	praet:sg:f:ter:perf		
+> zremasterowałbym	zremasterować	cond:sg:m1.m2.m3:pri:perf		
+> zremasterowałbyś	zremasterować	cond:sg:m1.m2.m3:sec:perf		
+> zremasterowałby	zremasterować	cond:sg:m1.m2.m3:ter:perf		
+> zremasterowałem	zremasterować	praet:sg:m1.m2.m3:pri:perf		
+> zremasterowałeś	zremasterować	praet:sg:m1.m2.m3:sec:perf		
+> zremasterowałobym	zremasterować	cond:sg:n1.n2:pri:perf		
+> zremasterowałobyś	zremasterować	cond:sg:n1.n2:sec:perf		
+> zremasterowałoby	zremasterować	cond:sg:n1.n2:ter:perf		
+> zremasterowałom	zremasterować	praet:sg:n1.n2:pri:perf		
+> zremasterowałoś	zremasterować	praet:sg:n1.n2:sec:perf		
+> zremasterowało	zremasterować	praet:sg:n1.n2:perf		
+> zremasterowało	zremasterować	praet:sg:n1.n2:ter:perf		
+> zremasterowałybyście	zremasterować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zremasterowałybyśmy	zremasterować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zremasterowałyby	zremasterować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zremasterowałyście	zremasterować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zremasterowałyśmy	zremasterować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zremasterowały	zremasterować	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> zremasterowały	zremasterować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zremasterował	zremasterować	praet:sg:m1.m2.m3:perf		
+> zremasterował	zremasterować	praet:sg:m1.m2.m3:ter:perf		
+> zremasterowano	zremasterować	imps:perf		
+> zremasterowawszy	zremasterować	pant:perf		
+> zremasterują	zremasterować	fin:pl:ter:perf		
+> zremasterujcie	zremasterować	impt:pl:sec:perf		
+> zremasterujecie	zremasterować	fin:pl:sec:perf		
+> zremasterujemy	zremasterować	fin:pl:pri:perf		
+> zremasterujesz	zremasterować	fin:sg:sec:perf		
+> zremasteruje	zremasterować	fin:sg:ter:perf		
+> zremasteruję	zremasterować	fin:sg:pri:perf		
+> zremasterujmy	zremasterować	impt:pl:pri:perf		
+> zremasteruj	zremasterować	impt:sg:sec:perf		
+6818688a6819127,6819223
+> niezrenacjonalizowana	zrenacjonalizować	ppas:sg:nom.voc:f:perf:neg		
+> niezrenacjonalizowaną	zrenacjonalizować	ppas:sg:acc.inst:f:perf:neg		
+> niezrenacjonalizowanego	zrenacjonalizować	ppas:sg:acc:m1.m2:perf:neg		
+> niezrenacjonalizowanego	zrenacjonalizować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> niezrenacjonalizowanej	zrenacjonalizować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezrenacjonalizowanemu	zrenacjonalizować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> niezrenacjonalizowane	zrenacjonalizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> niezrenacjonalizowane	zrenacjonalizować	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> niezrenacjonalizowaniach	zrenacjonalizować	ger:pl:loc:n2:perf:neg		
+> niezrenacjonalizowaniami	zrenacjonalizować	ger:pl:inst:n2:perf:neg		
+> niezrenacjonalizowania	zrenacjonalizować	ger:pl:nom.acc:n2:perf:neg		
+> niezrenacjonalizowania	zrenacjonalizować	ger:sg:gen:n2:perf:neg		
+> niezrenacjonalizowaniem	zrenacjonalizować	ger:sg:inst:n2:perf:neg		
+> niezrenacjonalizowanie	zrenacjonalizować	ger:sg:nom.acc:n2:perf:neg		
+> niezrenacjonalizowaniom	zrenacjonalizować	ger:pl:dat:n2:perf:neg		
+> niezrenacjonalizowaniu	zrenacjonalizować	ger:sg:dat.loc:n2:perf:neg		
+> niezrenacjonalizowani	zrenacjonalizować	ppas:pl:nom.voc:m1.p1:perf:neg		
+> niezrenacjonalizowanych	zrenacjonalizować	ppas:pl:acc:m1.p1:perf:neg		
+> niezrenacjonalizowanych	zrenacjonalizować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezrenacjonalizowanymi	zrenacjonalizować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezrenacjonalizowanym	zrenacjonalizować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezrenacjonalizowanym	zrenacjonalizować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> niezrenacjonalizowany	zrenacjonalizować	ppas:sg:acc:m3:perf:neg		
+> niezrenacjonalizowany	zrenacjonalizować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezrenacjonalizowań	zrenacjonalizować	ger:pl:gen:n2:perf:neg		
+> zrenacjonalizować	zrenacjonalizować	inf:perf		
+> zrenacjonalizowalibyście	zrenacjonalizować	cond:pl:m1.p1:sec:perf		
+> zrenacjonalizowalibyśmy	zrenacjonalizować	cond:pl:m1.p1:pri:perf		
+> zrenacjonalizowaliby	zrenacjonalizować	cond:pl:m1.p1:ter:perf		
+> zrenacjonalizowaliście	zrenacjonalizować	praet:pl:m1.p1:sec:perf		
+> zrenacjonalizowaliśmy	zrenacjonalizować	praet:pl:m1.p1:pri:perf		
+> zrenacjonalizowali	zrenacjonalizować	praet:pl:m1.p1:perf		
+> zrenacjonalizowali	zrenacjonalizować	praet:pl:m1.p1:ter:perf		
+> zrenacjonalizowałabym	zrenacjonalizować	cond:sg:f:pri:perf		
+> zrenacjonalizowałabyś	zrenacjonalizować	cond:sg:f:sec:perf		
+> zrenacjonalizowałaby	zrenacjonalizować	cond:sg:f:ter:perf		
+> zrenacjonalizowałam	zrenacjonalizować	praet:sg:f:pri:perf		
+> zrenacjonalizowałaś	zrenacjonalizować	praet:sg:f:sec:perf		
+> zrenacjonalizowała	zrenacjonalizować	praet:sg:f:perf		
+> zrenacjonalizowała	zrenacjonalizować	praet:sg:f:ter:perf		
+> zrenacjonalizowałbym	zrenacjonalizować	cond:sg:m1.m2.m3:pri:perf		
+> zrenacjonalizowałbyś	zrenacjonalizować	cond:sg:m1.m2.m3:sec:perf		
+> zrenacjonalizowałby	zrenacjonalizować	cond:sg:m1.m2.m3:ter:perf		
+> zrenacjonalizowałem	zrenacjonalizować	praet:sg:m1.m2.m3:pri:perf		
+> zrenacjonalizowałeś	zrenacjonalizować	praet:sg:m1.m2.m3:sec:perf		
+> zrenacjonalizowałobym	zrenacjonalizować	cond:sg:n1.n2:pri:perf		
+> zrenacjonalizowałobyś	zrenacjonalizować	cond:sg:n1.n2:sec:perf		
+> zrenacjonalizowałoby	zrenacjonalizować	cond:sg:n1.n2:ter:perf		
+> zrenacjonalizowałom	zrenacjonalizować	praet:sg:n1.n2:pri:perf		
+> zrenacjonalizowałoś	zrenacjonalizować	praet:sg:n1.n2:sec:perf		
+> zrenacjonalizowało	zrenacjonalizować	praet:sg:n1.n2:perf		
+> zrenacjonalizowało	zrenacjonalizować	praet:sg:n1.n2:ter:perf		
+> zrenacjonalizowałybyście	zrenacjonalizować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zrenacjonalizowałybyśmy	zrenacjonalizować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zrenacjonalizowałyby	zrenacjonalizować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zrenacjonalizowałyście	zrenacjonalizować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zrenacjonalizowałyśmy	zrenacjonalizować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zrenacjonalizowały	zrenacjonalizować	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> zrenacjonalizowały	zrenacjonalizować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zrenacjonalizował	zrenacjonalizować	praet:sg:m1.m2.m3:perf		
+> zrenacjonalizował	zrenacjonalizować	praet:sg:m1.m2.m3:ter:perf		
+> zrenacjonalizowana	zrenacjonalizować	ppas:sg:nom.voc:f:perf:aff		
+> zrenacjonalizowaną	zrenacjonalizować	ppas:sg:acc.inst:f:perf:aff		
+> zrenacjonalizowanego	zrenacjonalizować	ppas:sg:acc:m1.m2:perf:aff		
+> zrenacjonalizowanego	zrenacjonalizować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> zrenacjonalizowanej	zrenacjonalizować	ppas:sg:gen.dat.loc:f:perf:aff		
+> zrenacjonalizowanemu	zrenacjonalizować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> zrenacjonalizowane	zrenacjonalizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> zrenacjonalizowane	zrenacjonalizować	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> zrenacjonalizowaniach	zrenacjonalizować	ger:pl:loc:n2:perf:aff		
+> zrenacjonalizowaniami	zrenacjonalizować	ger:pl:inst:n2:perf:aff		
+> zrenacjonalizowania	zrenacjonalizować	ger:pl:nom.acc:n2:perf:aff		
+> zrenacjonalizowania	zrenacjonalizować	ger:sg:gen:n2:perf:aff		
+> zrenacjonalizowaniem	zrenacjonalizować	ger:sg:inst:n2:perf:aff		
+> zrenacjonalizowanie	zrenacjonalizować	ger:sg:nom.acc:n2:perf:aff		
+> zrenacjonalizowaniom	zrenacjonalizować	ger:pl:dat:n2:perf:aff		
+> zrenacjonalizowaniu	zrenacjonalizować	ger:sg:dat.loc:n2:perf:aff		
+> zrenacjonalizowani	zrenacjonalizować	ppas:pl:nom.voc:m1.p1:perf:aff		
+> zrenacjonalizowano	zrenacjonalizować	imps:perf		
+> zrenacjonalizowanych	zrenacjonalizować	ppas:pl:acc:m1.p1:perf:aff		
+> zrenacjonalizowanych	zrenacjonalizować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zrenacjonalizowanymi	zrenacjonalizować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zrenacjonalizowanym	zrenacjonalizować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zrenacjonalizowanym	zrenacjonalizować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> zrenacjonalizowany	zrenacjonalizować	ppas:sg:acc:m3:perf:aff		
+> zrenacjonalizowany	zrenacjonalizować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zrenacjonalizowań	zrenacjonalizować	ger:pl:gen:n2:perf:aff		
+> zrenacjonalizowawszy	zrenacjonalizować	pant:perf		
+> zrenacjonalizują	zrenacjonalizować	fin:pl:ter:perf		
+> zrenacjonalizujcie	zrenacjonalizować	impt:pl:sec:perf		
+> zrenacjonalizujecie	zrenacjonalizować	fin:pl:sec:perf		
+> zrenacjonalizujemy	zrenacjonalizować	fin:pl:pri:perf		
+> zrenacjonalizujesz	zrenacjonalizować	fin:sg:sec:perf		
+> zrenacjonalizuje	zrenacjonalizować	fin:sg:ter:perf		
+> zrenacjonalizuję	zrenacjonalizować	fin:sg:pri:perf		
+> zrenacjonalizujmy	zrenacjonalizować	impt:pl:pri:perf		
+> zrenacjonalizuj	zrenacjonalizować	impt:sg:sec:perf		

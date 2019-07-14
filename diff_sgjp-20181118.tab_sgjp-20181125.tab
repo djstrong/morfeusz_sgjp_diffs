@@ -1,0 +1,665 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.11.18
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.11.25
+211019,211028c211019,211038
+< Bielskich	Bielskie	subst:pl:gen:n:ncol	nazwa geograficzna	
+< Bielskich	Bielskie	subst:pl:loc:n:ncol	nazwa geograficzna	
+< Bielskie	Bielskie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+< Bielskie	Bielskie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+< Bielskiego	Bielskie	subst:sg:gen:n:ncol	nazwa geograficzna	
+< Bielskiem	Bielskie	subst:sg:inst:n:ncol	nazwa geograficzna	
+< Bielskiem	Bielskie	subst:sg:loc:n:ncol	nazwa geograficzna	
+< Bielskiemu	Bielskie	subst:sg:dat:n:ncol	nazwa geograficzna	
+< Bielskim	Bielskie	subst:pl:dat:n:ncol	nazwa geograficzna	
+< Bielskimi	Bielskie	subst:pl:inst:n:ncol	nazwa geograficzna	
+---
+> Bielskich	Bielskie:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+> Bielskich	Bielskie:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+> Bielskie	Bielskie:s1	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Bielskie	Bielskie:s1	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Bielskiego	Bielskie:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+> Bielskiem	Bielskie:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+> Bielskiem	Bielskie:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+> Bielskiemu	Bielskie:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+> Bielskim	Bielskie:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+> Bielskimi	Bielskie:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+> Bielskich	Bielskie:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+> Bielskich	Bielskie:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+> Bielskich	Bielskie:s2	subst:pl:loc:n:pt	nazwa geograficzna	
+> Bielskich	Bielskie:s2	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+> Bielskie	Bielskie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+> Bielskie	Bielskie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+> Bielskim	Bielskie:s2	subst:pl:dat:n:pt	nazwa geograficzna	
+> Bielskim	Bielskie:s2	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+> Bielskimi	Bielskie:s2	subst:pl:inst:n:pt	nazwa geograficzna	
+> Bielskimi	Bielskie:s2	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+245263a245274,245275
+> Bobrowników	Bobrowniki	subst:pl:gen:n:pt	nazwa geograficzna	
+> Bobrowników	Bobrowniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+361263a361276
+> Chełmu	Chełm	subst:sg:gen:m3	nazwa geograficzna	
+507932,507941c507945,507964
+< Dąbiach	Dąbie	subst:pl:loc:n:ncol	nazwa geograficzna	
+< Dąbia	Dąbie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+< Dąbia	Dąbie	subst:sg:gen:n:ncol	nazwa geograficzna	
+< Dąbiami	Dąbie	subst:pl:inst:n:ncol	nazwa geograficzna	
+< Dąbi	Dąbie	subst:pl:gen:n:ncol	nazwa geograficzna	
+< Dąbie	Dąbie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+< Dąbiem	Dąbie	subst:sg:inst:n:ncol	nazwa geograficzna	
+< Dąbiom	Dąbie	subst:pl:dat:n:ncol	nazwa geograficzna	
+< Dąbiu	Dąbie	subst:sg:dat:n:ncol	nazwa geograficzna	
+< Dąbiu	Dąbie	subst:sg:loc:n:ncol	nazwa geograficzna	
+---
+> Dąbiach	Dąbie:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+> Dąbia	Dąbie:s1	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Dąbia	Dąbie:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+> Dąbiami	Dąbie:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+> Dąbi	Dąbie:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+> Dąbie	Dąbie:s1	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Dąbiem	Dąbie:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+> Dąbiom	Dąbie:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+> Dąbiu	Dąbie:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+> Dąbiu	Dąbie:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+> Dąbiach	Dąbie:s2	subst:pl:loc:n:pt	nazwa geograficzna	
+> Dąbiach	Dąbie:s2	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+> Dąbiami	Dąbie:s2	subst:pl:inst:n:pt	nazwa geograficzna	
+> Dąbiami	Dąbie:s2	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+> Dąbi	Dąbie:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+> Dąbi	Dąbie:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+> Dąbie	Dąbie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+> Dąbie	Dąbie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+> Dąbiom	Dąbie:s2	subst:pl:dat:n:pt	nazwa geograficzna	
+> Dąbiom	Dąbie:s2	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+982618a982642
+> Głuchołaz	Głuchołazy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+982620a982645
+> Głuchołazów	Głuchołazy	subst:pl:gen:n:pt	nazwa geograficzna	
+1198488a1198514
+> Jabłonna	Jabłonna	subst:sg:voc:f	nazwa geograficzna	
+1198489a1198516
+> Jabłonną	Jabłonna	subst:sg:acc:f	nazwa geograficzna	
+1198490a1198518,1198520
+> Jabłonne	Jabłonna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+> Jabłonnej	Jabłonna	subst:sg:dat.loc:f	nazwa geograficzna	
+> Jabłonnej	Jabłonna	subst:sg:gen:f	nazwa geograficzna	
+1198495a1198526,1198527
+> Jabłonnych	Jabłonna	subst:pl:gen:f	nazwa geograficzna	
+> Jabłonnych	Jabłonna	subst:pl:loc:f	nazwa geograficzna	
+1198497a1198530,1198531
+> Jabłonnymi	Jabłonna	subst:pl:inst:f	nazwa geograficzna	
+> Jabłonnym	Jabłonna	subst:pl:dat:f	nazwa geograficzna	
+1198581,1198591c1198615,1198636
+< Jabłoniach	Jabłoń	subst:pl:loc:f	nazwa geograficzna	
+< Jabłoniami	Jabłoń	subst:pl:inst:f	nazwa geograficzna	
+< Jabłonią	Jabłoń	subst:sg:inst:f	nazwa geograficzna	
+< Jabłonie	Jabłoń	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+< Jabłoni	Jabłoń	subst:pl:gen:f	nazwa geograficzna	
+< Jabłoni	Jabłoń	subst:sg:dat.loc:f	nazwa geograficzna	
+< Jabłoni	Jabłoń	subst:sg:gen:f	nazwa geograficzna	
+< Jabłoni	Jabłoń	subst:sg:voc:f	nazwa geograficzna	
+< Jabłoniom	Jabłoń	subst:pl:dat:f	nazwa geograficzna	
+< Jabłoń	Jabłoń	subst:sg:acc:f	nazwa geograficzna	
+< Jabłoń	Jabłoń	subst:sg:nom:f	nazwa geograficzna	
+---
+> Jabłoniach	Jabłoń:s1	subst:pl:loc:f	nazwa geograficzna	
+> Jabłoniami	Jabłoń:s1	subst:pl:inst:f	nazwa geograficzna	
+> Jabłonią	Jabłoń:s1	subst:sg:inst:f	nazwa geograficzna	
+> Jabłonie	Jabłoń:s1	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+> Jabłoni	Jabłoń:s1	subst:pl:gen:f	nazwa geograficzna	
+> Jabłoni	Jabłoń:s1	subst:sg:dat.loc:f	nazwa geograficzna	
+> Jabłoni	Jabłoń:s1	subst:sg:gen:f	nazwa geograficzna	
+> Jabłoni	Jabłoń:s1	subst:sg:voc:f	nazwa geograficzna	
+> Jabłoniom	Jabłoń:s1	subst:pl:dat:f	nazwa geograficzna	
+> Jabłoń	Jabłoń:s1	subst:sg:acc:f	nazwa geograficzna	
+> Jabłoń	Jabłoń:s1	subst:sg:nom:f	nazwa geograficzna	
+> Jabłoniach	Jabłoń:s2	subst:pl:loc:m3	nazwa geograficzna	
+> Jabłonia	Jabłoń:s2	subst:sg:gen:m3	nazwa geograficzna	
+> Jabłoniami	Jabłoń:s2	subst:pl:inst:m3	nazwa geograficzna	
+> Jabłonie	Jabłoń:s2	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+> Jabłoniem	Jabłoń:s2	subst:sg:inst:m3	nazwa geograficzna	
+> Jabłoni	Jabłoń:s2	subst:pl:gen:m3	nazwa geograficzna	
+> Jabłoniom	Jabłoń:s2	subst:pl:dat:m3	nazwa geograficzna	
+> Jabłoniowi	Jabłoń:s2	subst:sg:dat:m3	nazwa geograficzna	
+> Jabłoniu	Jabłoń:s2	subst:sg:loc:m3	nazwa geograficzna	
+> Jabłoniu	Jabłoń:s2	subst:sg:voc:m3	nazwa geograficzna	
+> Jabłoń	Jabłoń:s2	subst:sg:nom.acc:m3	nazwa geograficzna	
+1221910,1221919d1221954
+< Jastrzębiach	Jastrzębie	subst:pl:loc:n:ncol	człon nazwy geograficznej	
+< Jastrzębia	Jastrzębie	subst:pl:nom.acc.voc:n:ncol	człon nazwy geograficznej	
+< Jastrzębia	Jastrzębie	subst:sg:gen:n:ncol	człon nazwy geograficznej	
+< Jastrzębiami	Jastrzębie	subst:pl:inst:n:ncol	człon nazwy geograficznej	
+< Jastrzębie	Jastrzębie	subst:sg:nom.acc.voc:n:ncol	człon nazwy geograficznej	
+< Jastrzębiem	Jastrzębie	subst:sg:inst:n:ncol	człon nazwy geograficznej	
+< Jastrzębi	Jastrzębie	subst:pl:gen:n:ncol	człon nazwy geograficznej	
+< Jastrzębiom	Jastrzębie	subst:pl:dat:n:ncol	człon nazwy geograficznej	
+< Jastrzębiu	Jastrzębie	subst:sg:dat:n:ncol	człon nazwy geograficznej	
+< Jastrzębiu	Jastrzębie	subst:sg:loc:n:ncol	człon nazwy geograficznej	
+1221941a1221977,1221996
+> Jastrzębiach	Jastrzębie:s1	subst:pl:loc:n:ncol	człon nazwy geograficznej	
+> Jastrzębia	Jastrzębie:s1	subst:pl:nom.acc.voc:n:ncol	człon nazwy geograficznej	
+> Jastrzębia	Jastrzębie:s1	subst:sg:gen:n:ncol	człon nazwy geograficznej	
+> Jastrzębiami	Jastrzębie:s1	subst:pl:inst:n:ncol	człon nazwy geograficznej	
+> Jastrzębie	Jastrzębie:s1	subst:sg:nom.acc.voc:n:ncol	człon nazwy geograficznej	
+> Jastrzębiem	Jastrzębie:s1	subst:sg:inst:n:ncol	człon nazwy geograficznej	
+> Jastrzębi	Jastrzębie:s1	subst:pl:gen:n:ncol	człon nazwy geograficznej	
+> Jastrzębiom	Jastrzębie:s1	subst:pl:dat:n:ncol	człon nazwy geograficznej	
+> Jastrzębiu	Jastrzębie:s1	subst:sg:dat:n:ncol	człon nazwy geograficznej	
+> Jastrzębiu	Jastrzębie:s1	subst:sg:loc:n:ncol	człon nazwy geograficznej	
+> Jastrzębiach	Jastrzębie:s3	subst:pl:loc:n:pt	człon nazwy geograficznej	
+> Jastrzębiach	Jastrzębie:s3	subst:pl:loc:n:pt	człon nazwy geograficznej	rzad.
+> Jastrzębiami	Jastrzębie:s3	subst:pl:inst:n:pt	człon nazwy geograficznej	
+> Jastrzębiami	Jastrzębie:s3	subst:pl:inst:n:pt	człon nazwy geograficznej	rzad.
+> Jastrzębie	Jastrzębie:s3	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	
+> Jastrzębie	Jastrzębie:s3	subst:pl:nom.acc.voc:n:pt	człon nazwy geograficznej	rzad.
+> Jastrzębi	Jastrzębie:s3	subst:pl:gen:n:pt	człon nazwy geograficznej	
+> Jastrzębi	Jastrzębie:s3	subst:pl:gen:n:pt	człon nazwy geograficznej	rzad.
+> Jastrzębiom	Jastrzębie:s3	subst:pl:dat:n:pt	człon nazwy geograficznej	
+> Jastrzębiom	Jastrzębie:s3	subst:pl:dat:n:pt	człon nazwy geograficznej	rzad.
+1224867a1224923
+> Jawora	Jawor:s1	subst:sg:gen:m3	nazwa geograficzna	
+1224874d1224929
+< Jaworu	Jawor:s1	subst:sg:gen:m3	nazwa geograficzna	
+1320128,1320129c1320183
+< Kartuzach	Kartuzy	subst:pl:loc:n:pt	nazwa geograficzna	
+< Kartuzami	Kartuzy	subst:pl:inst:n:pt	nazwa geograficzna	
+---
+> Kartuzach	Kartuzy	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+1320130a1320185,1320187
+> Kartuzami	Kartuzy	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+> Kartuz	Kartuzy	subst:pl:gen:n:pt	nazwa geograficzna	
+> Kartuz	Kartuzy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+1320132,1320135c1320189
+< Kartuzom	Kartuzy	subst:pl:dat:n:pt	nazwa geograficzna	
+< Kartuzów	Kartuzy	subst:pl:gen:n:pt	nazwa geograficzna	
+< Kartuzów	Kartuzy	subst:pl:gen:n:pt	nazwa geograficzna	
+< Kartuzy	Kartuzy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+---
+> Kartuzom	Kartuzy	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+1320136a1320191
+> Kartuzy	Kartuzy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+1349232a1349288,1349289
+> Kiejkut	Kiejkuty	subst:pl:gen:n:pt	nazwa geograficzna	
+> Kiejkut	Kiejkuty	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+1355349a1355407
+> Kiezmarka	Kiezmark	subst:sg:gen:m3	nazwa geograficzna	
+1361556a1361615
+> kimchi	kimchi	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	kulin.
+1405409,1405418d1405467
+< Kobylego	Kobyle	subst:sg:gen:n:ncol	nazwa geograficzna	
+< Kobyle	Kobyle	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+< Kobyle	Kobyle	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+< Kobylem	Kobyle	subst:sg:inst:n:ncol	nazwa geograficzna	
+< Kobylem	Kobyle	subst:sg:loc:n:ncol	nazwa geograficzna	
+< Kobylemu	Kobyle	subst:sg:dat:n:ncol	nazwa geograficzna	
+< Kobylich	Kobyle	subst:pl:gen:n:ncol	nazwa geograficzna	
+< Kobylich	Kobyle	subst:pl:loc:n:ncol	nazwa geograficzna	
+< Kobylimi	Kobyle	subst:pl:inst:n:ncol	nazwa geograficzna	
+< Kobylim	Kobyle	subst:pl:dat:n:ncol	nazwa geograficzna	
+1405464a1405514,1405541
+> Kobylach	Kobyle:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+> Kobyla	Kobyle:s1	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Kobyla	Kobyle:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+> Kobylami	Kobyle:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+> Kobylego	Kobyle:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+> Kobyle	Kobyle:s1	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Kobyle	Kobyle:s1	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Kobylem	Kobyle:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+> Kobylem	Kobyle:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+> Kobylemu	Kobyle:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+> Kobylich	Kobyle:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+> Kobylich	Kobyle:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+> Kobyli	Kobyle:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+> Kobylimi	Kobyle:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+> Kobylim	Kobyle:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+> Kobylom	Kobyle:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+> Kobylu	Kobyle:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+> Kobylu	Kobyle:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+> Kobylach	Kobyle:s3	subst:pl:loc:n:pt	nazwa geograficzna	
+> Kobylach	Kobyle:s3	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+> Kobylami	Kobyle:s3	subst:pl:inst:n:pt	nazwa geograficzna	
+> Kobylami	Kobyle:s3	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+> Kobyle	Kobyle:s3	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+> Kobyle	Kobyle:s3	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+> Kobyli	Kobyle:s3	subst:pl:gen:n:pt	nazwa geograficzna	
+> Kobyli	Kobyle:s3	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+> Kobylom	Kobyle:s3	subst:pl:dat:n:pt	nazwa geograficzna	
+> Kobylom	Kobyle:s3	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+1437897a1437975,1437976
+> Komorników	Komorniki	subst:pl:gen:n:pt	nazwa geograficzna	
+> Komorników	Komorniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+1473854,1473863c1473933,1473952
+< Końskich	Końskie	subst:pl:gen:n:pt	nazwa geograficzna	
+< Końskich	Końskie	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+< Końskich	Końskie	subst:pl:loc:n:pt	nazwa geograficzna	
+< Końskich	Końskie	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+< Końskie	Końskie	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+< Końskie	Końskie	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+< Końskimi	Końskie	subst:pl:inst:n:pt	nazwa geograficzna	
+< Końskimi	Końskie	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+< Końskim	Końskie	subst:pl:dat:n:pt	nazwa geograficzna	
+< Końskim	Końskie	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+---
+> Końskich	Końskie:s1	subst:pl:gen:n:pt	nazwa geograficzna	
+> Końskich	Końskie:s1	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+> Końskich	Końskie:s1	subst:pl:loc:n:pt	nazwa geograficzna	
+> Końskich	Końskie:s1	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+> Końskie	Końskie:s1	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+> Końskie	Końskie:s1	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+> Końskimi	Końskie:s1	subst:pl:inst:n:pt	nazwa geograficzna	
+> Końskimi	Końskie:s1	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+> Końskim	Końskie:s1	subst:pl:dat:n:pt	nazwa geograficzna	
+> Końskim	Końskie:s1	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+> Końskich	Końskie:s2	subst:pl:gen:n:ncol	nazwa geograficzna	
+> Końskich	Końskie:s2	subst:pl:loc:n:ncol	nazwa geograficzna	
+> Końskiego	Końskie:s2	subst:sg:gen:n:ncol	nazwa geograficzna	
+> Końskie	Końskie:s2	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Końskie	Końskie:s2	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Końskiem	Końskie:s2	subst:sg:inst:n:ncol	nazwa geograficzna	
+> Końskiem	Końskie:s2	subst:sg:loc:n:ncol	nazwa geograficzna	
+> Końskiemu	Końskie:s2	subst:sg:dat:n:ncol	nazwa geograficzna	
+> Końskimi	Końskie:s2	subst:pl:inst:n:ncol	nazwa geograficzna	
+> Końskim	Końskie:s2	subst:pl:dat:n:ncol	nazwa geograficzna	
+1524595,1524604c1524684,1524713
+< Krasnego	Krasne	subst:sg:gen:n:ncol	nazwa geograficzna	
+< Krasne	Krasne	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+< Krasne	Krasne	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+< Krasnem	Krasne	subst:sg:inst:n:ncol	nazwa geograficzna	
+< Krasnem	Krasne	subst:sg:loc:n:ncol	nazwa geograficzna	
+< Krasnemu	Krasne	subst:sg:dat:n:ncol	nazwa geograficzna	
+< Krasnych	Krasne	subst:pl:gen:n:ncol	nazwa geograficzna	
+< Krasnych	Krasne	subst:pl:loc:n:ncol	nazwa geograficzna	
+< Krasnymi	Krasne	subst:pl:inst:n:ncol	nazwa geograficzna	
+< Krasnym	Krasne	subst:pl:dat:n:ncol	nazwa geograficzna	
+---
+> Krasnego	Krasne:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+> Krasne	Krasne:s1	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Krasne	Krasne:s1	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Krasnem	Krasne:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+> Krasnem	Krasne:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+> Krasnemu	Krasne:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+> Krasnych	Krasne:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+> Krasnych	Krasne:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+> Krasnymi	Krasne:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+> Krasnym	Krasne:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+> Krasnego	Krasne:s2	subst:sg:gen:n:ncol	nazwa geograficzna	
+> Krasne	Krasne:s2	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Krasne	Krasne:s2	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Krasnem	Krasne:s2	subst:sg:inst:n:ncol	nazwa geograficzna	
+> Krasnem	Krasne:s2	subst:sg:loc:n:ncol	nazwa geograficzna	
+> Krasnemu	Krasne:s2	subst:sg:dat:n:ncol	nazwa geograficzna	
+> Krasnych	Krasne:s2	subst:pl:gen:n:ncol	nazwa geograficzna	
+> Krasnych	Krasne:s2	subst:pl:loc:n:ncol	nazwa geograficzna	
+> Krasnymi	Krasne:s2	subst:pl:inst:n:ncol	nazwa geograficzna	
+> Krasnym	Krasne:s2	subst:pl:dat:n:ncol	nazwa geograficzna	
+> Krasne	Krasne:s3	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+> Krasne	Krasne:s3	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+> Krasnych	Krasne:s3	subst:pl:gen:n:pt	nazwa geograficzna	
+> Krasnych	Krasne:s3	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+> Krasnych	Krasne:s3	subst:pl:loc:n:pt	nazwa geograficzna	
+> Krasnych	Krasne:s3	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+> Krasnymi	Krasne:s3	subst:pl:inst:n:pt	nazwa geograficzna	
+> Krasnymi	Krasne:s3	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+> Krasnym	Krasne:s3	subst:pl:dat:n:pt	nazwa geograficzna	
+> Krasnym	Krasne:s3	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+1643506a1643616
+> Lądek	Lądek	subst:sg:nom.acc:m3	nazwa geograficzna	rzad.
+1643507a1643618
+> Lądkach	Lądek	subst:pl:loc:m3	nazwa geograficzna	rzad.
+1643509a1643621
+> Lądkami	Lądek	subst:pl:inst:m3	nazwa geograficzna	rzad.
+1643510a1643623
+> Lądkiem	Lądek	subst:sg:inst:m3	nazwa geograficzna	rzad.
+1643511a1643625
+> Lądki	Lądek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	rzad.
+1643512a1643627
+> Lądkom	Lądek	subst:pl:dat:m3	nazwa geograficzna	rzad.
+1643513a1643629
+> Lądkowi	Lądek	subst:sg:dat:m3	nazwa geograficzna	rzad.
+1643514a1643631,1643632
+> Lądków	Lądek	subst:pl:gen:m3	nazwa geograficzna	rzad.
+> Lądku	Lądek	subst:sg:gen:m3	nazwa geograficzna	rzad.
+1643515a1643634
+> Lądku	Lądek	subst:sg:loc:m3	nazwa geograficzna	rzad.
+1643516a1643636
+> Lądku	Lądek	subst:sg:voc:m3	nazwa geograficzna	rzad.
+1671381a1671502
+> Lidzbarkach	Lidzbark	subst:pl:loc:m3	nazwa geograficzna	rzad.
+1671383a1671505
+> Lidzbarkami	Lidzbark	subst:pl:inst:m3	nazwa geograficzna	rzad.
+1671384a1671507
+> Lidzbarkiem	Lidzbark	subst:sg:inst:m3	nazwa geograficzna	rzad.
+1671385a1671509
+> Lidzbarki	Lidzbark	subst:pl:nom.acc.voc:m3	nazwa geograficzna	rzad.
+1671386a1671511
+> Lidzbark	Lidzbark	subst:sg:nom.acc:m3	nazwa geograficzna	rzad.
+1671387a1671513
+> Lidzbarkom	Lidzbark	subst:pl:dat:m3	nazwa geograficzna	rzad.
+1671388a1671515
+> Lidzbarkowi	Lidzbark	subst:sg:dat:m3	nazwa geograficzna	rzad.
+1671389a1671517,1671518
+> Lidzbarków	Lidzbark	subst:pl:gen:m3	nazwa geograficzna	rzad.
+> Lidzbarku	Lidzbark	subst:sg:gen:m3	nazwa geograficzna	rzad.
+1671390a1671520
+> Lidzbarku	Lidzbark	subst:sg:loc:m3	nazwa geograficzna	rzad.
+1671391a1671522
+> Lidzbarku	Lidzbark	subst:sg:voc:m3	nazwa geograficzna	rzad.
+1728257a1728389
+> Łaz	Łazy	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+1728259a1728392
+> Łazów	Łazy	subst:pl:gen:n:pt	nazwa geograficzna	
+1767397a1767531
+> Majdanek	Majdanek	subst:sg:nom.acc:m3	nazwa geograficzna	rzad.
+1767398a1767533
+> Majdankach	Majdanek	subst:pl:loc:m3	nazwa geograficzna	rzad.
+1767400a1767536
+> Majdankami	Majdanek	subst:pl:inst:m3	nazwa geograficzna	rzad.
+1767401a1767538
+> Majdankiem	Majdanek	subst:sg:inst:m3	nazwa geograficzna	rzad.
+1767402a1767540
+> Majdanki	Majdanek	subst:pl:nom.acc.voc:m3	nazwa geograficzna	rzad.
+1767403a1767542
+> Majdankom	Majdanek	subst:pl:dat:m3	nazwa geograficzna	rzad.
+1767404a1767544
+> Majdankowi	Majdanek	subst:sg:dat:m3	nazwa geograficzna	rzad.
+1767405a1767546,1767547
+> Majdanków	Majdanek	subst:pl:gen:m3	nazwa geograficzna	rzad.
+> Majdanku	Majdanek	subst:sg:gen:m3	nazwa geograficzna	rzad.
+1767406a1767549
+> Majdanku	Majdanek	subst:sg:loc:m3	nazwa geograficzna	rzad.
+1767407a1767551
+> Majdanku	Majdanek	subst:sg:voc:m3	nazwa geograficzna	rzad.
+1826198a1826343,1826344
+> Mazurów	Mazury	subst:pl:gen:n:pt	nazwa geograficzna	
+> Mazurów	Mazury	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+1891491a1891638
+> Miłosna	Miłosna	subst:sg:voc:f	nazwa geograficzna	
+1891492a1891640
+> Miłosną	Miłosna	subst:sg:acc:f	nazwa geograficzna	
+1891493a1891642,1891644
+> Miłosnej	Miłosna	subst:sg:dat.loc:f	nazwa geograficzna	
+> Miłosnej	Miłosna	subst:sg:gen:f	nazwa geograficzna	
+> Miłosne	Miłosna	subst:pl:nom.acc.voc:f	nazwa geograficzna	
+1891496a1891648,1891649
+> Miłosnych	Miłosna	subst:pl:gen:f	nazwa geograficzna	
+> Miłosnych	Miłosna	subst:pl:loc:f	nazwa geograficzna	
+1891498a1891652,1891653
+> Miłosnymi	Miłosna	subst:pl:inst:f	nazwa geograficzna	
+> Miłosnym	Miłosna	subst:pl:dat:f	nazwa geograficzna	
+1913796a1913952,1913963
+> Mnichach	Mnich:s4	subst:pl:loc:m3	nazwa geograficzna	
+> Mnichami	Mnich:s4	subst:pl:inst:m3	nazwa geograficzna	
+> Mnicha	Mnich:s4	subst:sg:gen:m3	nazwa geograficzna	
+> Mnichem	Mnich:s4	subst:sg:inst:m3	nazwa geograficzna	
+> Mnich	Mnich:s4	subst:sg:nom.acc:m3	nazwa geograficzna	
+> Mnichom	Mnich:s4	subst:pl:dat:m3	nazwa geograficzna	
+> Mnichowi	Mnich:s4	subst:sg:dat:m3	nazwa geograficzna	
+> Mnichów	Mnich:s4	subst:pl:gen:m3	nazwa geograficzna	
+> Mnichu	Mnich:s4	subst:sg:gen:m3	nazwa geograficzna	
+> Mnichu	Mnich:s4	subst:sg:loc:m3	nazwa geograficzna	
+> Mnichu	Mnich:s4	subst:sg:voc:m3	nazwa geograficzna	
+> Mnichy	Mnich:s4	subst:pl:nom.acc.voc:m3	nazwa geograficzna	
+2131500a2131668
+> natto	natto	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	kulin.
+2163083a2163252,2163286
+> nerkowcowościach	nerkowcowość	subst:pl:loc:f		
+> nerkowcowościami	nerkowcowość	subst:pl:inst:f		
+> nerkowcowością	nerkowcowość	subst:sg:inst:f		
+> nerkowcowości	nerkowcowość	subst:pl:gen:f		
+> nerkowcowości	nerkowcowość	subst:pl:nom.acc.voc:f		
+> nerkowcowości	nerkowcowość	subst:sg:dat.loc:f		
+> nerkowcowości	nerkowcowość	subst:sg:gen:f		
+> nerkowcowości	nerkowcowość	subst:sg:voc:f		
+> nerkowcowościom	nerkowcowość	subst:pl:dat:f		
+> nerkowcowość	nerkowcowość	subst:sg:acc:f		
+> nerkowcowość	nerkowcowość	subst:sg:nom:f		
+> nerkowcowa	nerkowcowy	adj:sg:nom.voc:f:pos		
+> nerkowcową	nerkowcowy	adj:sg:acc:f:pos		
+> nerkowcową	nerkowcowy	adj:sg:inst:f:pos		
+> nerkowcowego	nerkowcowy	adj:sg:acc:m1.m2:pos		
+> nerkowcowego	nerkowcowy	adj:sg:gen:m1.m2.m3.n:pos		
+> nerkowcowej	nerkowcowy	adj:sg:dat:f:pos		
+> nerkowcowej	nerkowcowy	adj:sg:gen:f:pos		
+> nerkowcowej	nerkowcowy	adj:sg:loc:f:pos		
+> nerkowcowemu	nerkowcowy	adj:sg:dat:m1.m2.m3.n:pos		
+> nerkowcowe	nerkowcowy	adj:pl:acc:m2.m3.f.n:pos		
+> nerkowcowe	nerkowcowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nerkowcowe	nerkowcowy	adj:sg:acc:n:pos		
+> nerkowcowe	nerkowcowy	adj:sg:nom.voc:n:pos		
+> nerkowcowi	nerkowcowy	adj:pl:nom.voc:m1:pos		
+> nerkowcowo	nerkowcowy	adja		
+> nerkowcowych	nerkowcowy	adj:pl:acc:m1:pos		
+> nerkowcowych	nerkowcowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nerkowcowych	nerkowcowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nerkowcowymi	nerkowcowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nerkowcowym	nerkowcowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nerkowcowym	nerkowcowy	adj:sg:inst:m1.m2.m3.n:pos		
+> nerkowcowym	nerkowcowy	adj:sg:loc:m1.m2.m3.n:pos		
+> nerkowcowy	nerkowcowy	adj:sg:acc:m3:pos		
+> nerkowcowy	nerkowcowy	adj:sg:nom.voc:m1.m2.m3:pos		
+2706817a2707021,2707055
+> nienerkowcowościach	nienerkowcowość	subst:pl:loc:f		
+> nienerkowcowościami	nienerkowcowość	subst:pl:inst:f		
+> nienerkowcowością	nienerkowcowość	subst:sg:inst:f		
+> nienerkowcowości	nienerkowcowość	subst:pl:gen:f		
+> nienerkowcowości	nienerkowcowość	subst:pl:nom.acc.voc:f		
+> nienerkowcowości	nienerkowcowość	subst:sg:dat.loc:f		
+> nienerkowcowości	nienerkowcowość	subst:sg:gen:f		
+> nienerkowcowości	nienerkowcowość	subst:sg:voc:f		
+> nienerkowcowościom	nienerkowcowość	subst:pl:dat:f		
+> nienerkowcowość	nienerkowcowość	subst:sg:acc:f		
+> nienerkowcowość	nienerkowcowość	subst:sg:nom:f		
+> nienerkowcowa	nienerkowcowy	adj:sg:nom.voc:f:pos		
+> nienerkowcową	nienerkowcowy	adj:sg:acc:f:pos		
+> nienerkowcową	nienerkowcowy	adj:sg:inst:f:pos		
+> nienerkowcowego	nienerkowcowy	adj:sg:acc:m1.m2:pos		
+> nienerkowcowego	nienerkowcowy	adj:sg:gen:m1.m2.m3.n:pos		
+> nienerkowcowej	nienerkowcowy	adj:sg:dat:f:pos		
+> nienerkowcowej	nienerkowcowy	adj:sg:gen:f:pos		
+> nienerkowcowej	nienerkowcowy	adj:sg:loc:f:pos		
+> nienerkowcowemu	nienerkowcowy	adj:sg:dat:m1.m2.m3.n:pos		
+> nienerkowcowe	nienerkowcowy	adj:pl:acc:m2.m3.f.n:pos		
+> nienerkowcowe	nienerkowcowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nienerkowcowe	nienerkowcowy	adj:sg:acc:n:pos		
+> nienerkowcowe	nienerkowcowy	adj:sg:nom.voc:n:pos		
+> nienerkowcowi	nienerkowcowy	adj:pl:nom.voc:m1:pos		
+> nienerkowcowo	nienerkowcowy	adja		
+> nienerkowcowych	nienerkowcowy	adj:pl:acc:m1:pos		
+> nienerkowcowych	nienerkowcowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nienerkowcowych	nienerkowcowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nienerkowcowymi	nienerkowcowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nienerkowcowym	nienerkowcowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nienerkowcowym	nienerkowcowy	adj:sg:inst:m1.m2.m3.n:pos		
+> nienerkowcowym	nienerkowcowy	adj:sg:loc:m1.m2.m3.n:pos		
+> nienerkowcowy	nienerkowcowy	adj:sg:acc:m3:pos		
+> nienerkowcowy	nienerkowcowy	adj:sg:nom.voc:m1.m2.m3:pos		
+3343614d3343851
+< Nuru	Nur	subst:sg:gen:m3	nazwa geograficzna	
+3751818d3752054
+< Ostrorogu	Ostroróg	subst:sg:gen:m3	nazwa geograficzna	
+4483788a4484025
+> Przasnysza	Przasnysz	subst:sg:gen:m3	nazwa geograficzna	
+4483795d4484031
+< Przasnyszu	Przasnysz	subst:sg:gen:m3	nazwa geograficzna	
+5118997a5119234,5119235
+> Rudników	Rudniki	subst:pl:gen:n:pt	nazwa geograficzna	
+> Rudników	Rudniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+5365337a5365576,5365577
+> Sokolników	Sokolniki	subst:pl:gen:n:pt	nazwa geograficzna	
+> Sokolników	Sokolniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+5462556a5462797
+> Staroźrebach	Staroźreby	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+5462558a5462800
+> Staroźrebami	Staroźreby	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+5462560a5462803,5462804
+> Staroźrebom	Staroźreby	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+> Staroźrebów	Staroźreby	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+5462562a5462807
+> Staroźreb	Staroźreby	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+5462564a5462810
+> Staroźreby	Staroźreby	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+5688766a5689013,5689014
+> Świątników	Świątniki	subst:pl:gen:n:pt	nazwa geograficzna	
+> Świątników	Świątniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+5702737a5702986
+> Taborach	Tabor:s1	subst:pl:loc:m3	nazwa geograficzna	rzad.
+5702738a5702988,5702989
+> Taborami	Tabor:s1	subst:pl:inst:m3	nazwa geograficzna	rzad.
+> Tabora	Tabor:s1	subst:sg:gen:m3	nazwa geograficzna	rzad.
+5702739a5702991
+> Taborem	Tabor:s1	subst:sg:inst:m3	nazwa geograficzna	rzad.
+5702740a5702993
+> Taborom	Tabor:s1	subst:pl:dat:m3	nazwa geograficzna	rzad.
+5702741a5702995
+> Taborowi	Tabor:s1	subst:sg:dat:m3	nazwa geograficzna	rzad.
+5702742a5702997
+> Taborów	Tabor:s1	subst:pl:gen:m3	nazwa geograficzna	rzad.
+5702743a5702999
+> Tabor	Tabor:s1	subst:sg:nom.acc:m3	nazwa geograficzna	rzad.
+5702745a5703002
+> Tabory	Tabor:s1	subst:pl:nom.acc.voc:m3	nazwa geograficzna	rzad.
+5702746a5703004
+> Taborze	Tabor:s1	subst:sg:loc:m3	nazwa geograficzna	rzad.
+5702747a5703006
+> Taborze	Tabor:s1	subst:sg:voc:m3	nazwa geograficzna	rzad.
+5720441a5720701
+> Tarnobrzegach	Tarnobrzeg	subst:pl:loc:m3	nazwa geograficzna	rzad.
+5720443c5720703,5720704
+< Tarnobrzega	Tarnobrzeg	subst:sg:gen:m3	nazwa geograficzna	
+---
+> Tarnobrzegami	Tarnobrzeg	subst:pl:inst:m3	nazwa geograficzna	rzad.
+> Tarnobrzega	Tarnobrzeg	subst:sg:gen:m3	nazwa geograficzna	rzad.
+5720444a5720706
+> Tarnobrzegiem	Tarnobrzeg	subst:sg:inst:m3	nazwa geograficzna	rzad.
+5720445a5720708
+> Tarnobrzegi	Tarnobrzeg	subst:pl:nom.acc.voc:m3	nazwa geograficzna	rzad.
+5720446a5720710
+> Tarnobrzegom	Tarnobrzeg	subst:pl:dat:m3	nazwa geograficzna	rzad.
+5720447a5720712
+> Tarnobrzegowi	Tarnobrzeg	subst:sg:dat:m3	nazwa geograficzna	rzad.
+5720448a5720714
+> Tarnobrzegów	Tarnobrzeg	subst:pl:gen:m3	nazwa geograficzna	rzad.
+5720449a5720716
+> Tarnobrzeg	Tarnobrzeg	subst:sg:nom.acc:m3	nazwa geograficzna	rzad.
+5720451a5720719
+> Tarnobrzegu	Tarnobrzeg	subst:sg:loc:m3	nazwa geograficzna	rzad.
+5720452a5720721
+> Tarnobrzegu	Tarnobrzeg	subst:sg:voc:m3	nazwa geograficzna	rzad.
+5734725a5734995,5735005
+> tempehach	tempeh	subst:pl:loc:m3	nazwa pospolita	kulin.
+> tempehami	tempeh	subst:pl:inst:m3	nazwa pospolita	kulin.
+> tempehem	tempeh	subst:sg:inst:m3	nazwa pospolita	kulin.
+> tempehom	tempeh	subst:pl:dat:m3	nazwa pospolita	kulin.
+> tempehowi	tempeh	subst:sg:dat:m3	nazwa pospolita	kulin.
+> tempehów	tempeh	subst:pl:gen:m3	nazwa pospolita	kulin.
+> tempeh	tempeh	subst:sg:nom.acc:m3	nazwa pospolita	kulin.
+> tempehu	tempeh	subst:sg:gen:m3	nazwa pospolita	kulin.
+> tempehu	tempeh	subst:sg:loc:m3	nazwa pospolita	kulin.
+> tempehu	tempeh	subst:sg:voc:m3	nazwa pospolita	kulin.
+> tempehy	tempeh	subst:pl:nom.acc.voc:m3	nazwa pospolita	kulin.
+5833445a5833726
+> Tychach	Tychy	subst:pl:loc:n:pt	nazwa geograficzna	
+5833446a5833728,5833729
+> Tychach	Tychy	subst:pl:loc:n:pt	nazwa geograficzna	reg.
+> Tychami	Tychy	subst:pl:inst:n:pt	nazwa geograficzna	
+5833448a5833732
+> Tychami	Tychy	subst:pl:inst:n:pt	nazwa geograficzna	reg.
+5833449a5833734,5833735
+> Tychom	Tychy	subst:pl:dat:n:pt	nazwa geograficzna	
+> Tychom	Tychy	subst:pl:dat:n:pt	nazwa geograficzna	reg.
+5833451a5833738,5833739
+> Tychów	Tychy	subst:pl:gen:n:pt	nazwa geograficzna	reg.
+> Tych	Tychy	subst:pl:gen:n:pt	nazwa geograficzna	
+5833453a5833742,5833743
+> Tychy	Tychy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+> Tychy	Tychy	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	reg.
+5873768a5874059,5874069
+> udonach	udon	subst:pl:loc:m3	nazwa pospolita	kulin.
+> udonami	udon	subst:pl:inst:m3	nazwa pospolita	kulin.
+> udonem	udon	subst:sg:inst:m3	nazwa pospolita	kulin.
+> udonie	udon	subst:sg:loc:m3	nazwa pospolita	kulin.
+> udonie	udon	subst:sg:voc:m3	nazwa pospolita	kulin.
+> udonom	udon	subst:pl:dat:m3	nazwa pospolita	kulin.
+> udonowi	udon	subst:sg:dat:m3	nazwa pospolita	kulin.
+> udonów	udon	subst:pl:gen:m3	nazwa pospolita	kulin.
+> udon	udon	subst:sg:nom.acc:m3	nazwa pospolita	kulin.
+> udonu	udon	subst:sg:gen:m3	nazwa pospolita	kulin.
+> udony	udon	subst:pl:nom.acc.voc:m3	nazwa pospolita	kulin.
+6145202,6145211c6145503,6145524
+< Węgier	Węgry	subst:pl:gen:n:pt	nazwa geograficzna	
+< Węgier	Węgry	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+< Węgrami	Węgry	subst:pl:inst:n:pt	nazwa geograficzna	
+< Węgrami	Węgry	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+< Węgrom	Węgry	subst:pl:dat:n:pt	nazwa geograficzna	
+< Węgrom	Węgry	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+< Węgry	Węgry	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+< Węgry	Węgry	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+< Węgrzech	Węgry	subst:pl:loc:n:pt	nazwa geograficzna	
+< Węgrzech	Węgry	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+---
+> Węgier	Węgry:s1	subst:pl:gen:n:pt	nazwa geograficzna	
+> Węgier	Węgry:s1	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+> Węgrami	Węgry:s1	subst:pl:inst:n:pt	nazwa geograficzna	
+> Węgrami	Węgry:s1	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+> Węgrom	Węgry:s1	subst:pl:dat:n:pt	nazwa geograficzna	
+> Węgrom	Węgry:s1	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+> Węgry	Węgry:s1	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+> Węgry	Węgry:s1	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+> Węgrzech	Węgry:s1	subst:pl:loc:n:pt	nazwa geograficzna	
+> Węgrzech	Węgry:s1	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+> Węgier	Węgry:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+> Węgier	Węgry:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+> Węgrach	Węgry:s2	subst:pl:loc:n:pt	nazwa geograficzna	
+> Węgrach	Węgry:s2	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+> Węgrami	Węgry:s2	subst:pl:inst:n:pt	nazwa geograficzna	
+> Węgrami	Węgry:s2	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+> Węgrom	Węgry:s2	subst:pl:dat:n:pt	nazwa geograficzna	
+> Węgrom	Węgry:s2	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+> Węgrów	Węgry:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+> Węgrów	Węgry:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+> Węgry	Węgry:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+> Węgry	Węgry:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+6251843a6252157,6252158
+> Woźników	Woźniki	subst:pl:gen:n:pt	nazwa geograficzna	
+> Woźników	Woźniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+6539899,6539908c6540214,6540233
+< Wysokich	Wysokie	subst:pl:gen:n:ncol	nazwa geograficzna	
+< Wysokich	Wysokie	subst:pl:loc:n:ncol	nazwa geograficzna	
+< Wysokiego	Wysokie	subst:sg:gen:n:ncol	nazwa geograficzna	
+< Wysokiemu	Wysokie	subst:sg:dat:n:ncol	nazwa geograficzna	
+< Wysokiem	Wysokie	subst:sg:inst:n:ncol	nazwa geograficzna	
+< Wysokiem	Wysokie	subst:sg:loc:n:ncol	nazwa geograficzna	
+< Wysokie	Wysokie	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+< Wysokie	Wysokie	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+< Wysokimi	Wysokie	subst:pl:inst:n:ncol	nazwa geograficzna	
+< Wysokim	Wysokie	subst:pl:dat:n:ncol	nazwa geograficzna	
+---
+> Wysokich	Wysokie:s1	subst:pl:gen:n:ncol	nazwa geograficzna	
+> Wysokich	Wysokie:s1	subst:pl:loc:n:ncol	nazwa geograficzna	
+> Wysokiego	Wysokie:s1	subst:sg:gen:n:ncol	nazwa geograficzna	
+> Wysokiemu	Wysokie:s1	subst:sg:dat:n:ncol	nazwa geograficzna	
+> Wysokiem	Wysokie:s1	subst:sg:inst:n:ncol	nazwa geograficzna	
+> Wysokiem	Wysokie:s1	subst:sg:loc:n:ncol	nazwa geograficzna	
+> Wysokie	Wysokie:s1	subst:pl:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Wysokie	Wysokie:s1	subst:sg:nom.acc.voc:n:ncol	nazwa geograficzna	
+> Wysokimi	Wysokie:s1	subst:pl:inst:n:ncol	nazwa geograficzna	
+> Wysokim	Wysokie:s1	subst:pl:dat:n:ncol	nazwa geograficzna	
+> Wysokich	Wysokie:s2	subst:pl:gen:n:pt	nazwa geograficzna	
+> Wysokich	Wysokie:s2	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+> Wysokich	Wysokie:s2	subst:pl:loc:n:pt	nazwa geograficzna	
+> Wysokich	Wysokie:s2	subst:pl:loc:n:pt	nazwa geograficzna	rzad.
+> Wysokie	Wysokie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	
+> Wysokie	Wysokie:s2	subst:pl:nom.acc.voc:n:pt	nazwa geograficzna	rzad.
+> Wysokimi	Wysokie:s2	subst:pl:inst:n:pt	nazwa geograficzna	
+> Wysokimi	Wysokie:s2	subst:pl:inst:n:pt	nazwa geograficzna	rzad.
+> Wysokim	Wysokie:s2	subst:pl:dat:n:pt	nazwa geograficzna	
+> Wysokim	Wysokie:s2	subst:pl:dat:n:pt	nazwa geograficzna	rzad.
+6975990a6976316,6976317
+> Zdunów	Zduny	subst:pl:gen:n:pt	nazwa geograficzna	
+> Zdunów	Zduny	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+7072987a7073315,7073316
+> Złotników	Złotniki	subst:pl:gen:n:pt	nazwa geograficzna	
+> Złotników	Złotniki	subst:pl:gen:n:pt	nazwa geograficzna	rzad.
+7199002a7199332,7199333
+> Żarów	Żary	subst:pl:gen:n:pt	nazwa geograficzna	
+> Żarów	Żary	subst:pl:gen:n:pt	nazwa geograficzna	rzad.

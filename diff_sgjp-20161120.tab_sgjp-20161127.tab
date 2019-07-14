@@ -1,0 +1,82 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.11.20
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.11.27
+115001a115002
+> autofocusa	autofocus	subst:sg:gen:m3	nazwa pospolita	
+115015a115017
+> autofokusa	autofokus	subst:sg:gen:m3	nazwa pospolita	
+1077765a1077768,1077781
+> jadłoszynach	jadłoszyn	subst:pl:loc:m3	nazwa pospolita	bot.
+> jadłoszynami	jadłoszyn	subst:pl:inst:m3	nazwa pospolita	bot.
+> jadłoszynem	jadłoszyn	subst:sg:inst:m3	nazwa pospolita	bot.
+> jadłoszynie	jadłoszyn	subst:sg:loc:m3	nazwa pospolita	bot.
+> jadłoszynie	jadłoszyn	subst:sg:voc:m3	nazwa pospolita	bot.
+> jadłoszyn	jadłoszyn	subst:sg:acc:m3	nazwa pospolita	bot.
+> jadłoszyn	jadłoszyn	subst:sg:nom:m3	nazwa pospolita	bot.
+> jadłoszynom	jadłoszyn	subst:pl:dat:m3	nazwa pospolita	bot.
+> jadłoszynowi	jadłoszyn	subst:sg:dat:m3	nazwa pospolita	bot.
+> jadłoszynów	jadłoszyn	subst:pl:gen:m3	nazwa pospolita	bot.
+> jadłoszynu	jadłoszyn	subst:sg:gen:m3	nazwa pospolita	bot.
+> jadłoszyny	jadłoszyn	subst:pl:acc:m3	nazwa pospolita	bot.
+> jadłoszyny	jadłoszyn	subst:pl:nom:m3	nazwa pospolita	bot.
+> jadłoszyny	jadłoszyn	subst:pl:voc:m3	nazwa pospolita	bot.
+1169478a1169495,1169508
+> karmach	karma	subst:pl:loc:f	nazwa pospolita	
+> karma	karma	subst:sg:nom:f	nazwa pospolita	
+> karmami	karma	subst:pl:inst:f	nazwa pospolita	
+> karmą	karma	subst:sg:inst:f	nazwa pospolita	
+> karmę	karma	subst:sg:acc:f	nazwa pospolita	
+> karmie	karma	subst:sg:dat:f	nazwa pospolita	
+> karmie	karma	subst:sg:loc:f	nazwa pospolita	
+> karm	karma	subst:pl:gen:f	nazwa pospolita	
+> karmo	karma	subst:sg:voc:f	nazwa pospolita	
+> karmom	karma	subst:pl:dat:f	nazwa pospolita	
+> karmy	karma	subst:pl:acc:f	nazwa pospolita	
+> karmy	karma	subst:pl:nom:f	nazwa pospolita	
+> karmy	karma	subst:pl:voc:f	nazwa pospolita	
+> karmy	karma	subst:sg:gen:f	nazwa pospolita	
+1169522,1169549d1169551
+< karmach	karma:s1	subst:pl:loc:f	nazwa pospolita	
+< karma	karma:s1	subst:sg:nom:f	nazwa pospolita	
+< karmami	karma:s1	subst:pl:inst:f	nazwa pospolita	
+< karmą	karma:s1	subst:sg:inst:f	nazwa pospolita	
+< karmę	karma:s1	subst:sg:acc:f	nazwa pospolita	
+< karmie	karma:s1	subst:sg:dat:f	nazwa pospolita	
+< karmie	karma:s1	subst:sg:loc:f	nazwa pospolita	
+< karm	karma:s1	subst:pl:gen:f	nazwa pospolita	
+< karmo	karma:s1	subst:sg:voc:f	nazwa pospolita	
+< karmom	karma:s1	subst:pl:dat:f	nazwa pospolita	
+< karmy	karma:s1	subst:pl:acc:f	nazwa pospolita	
+< karmy	karma:s1	subst:pl:nom:f	nazwa pospolita	
+< karmy	karma:s1	subst:pl:voc:f	nazwa pospolita	
+< karmy	karma:s1	subst:sg:gen:f	nazwa pospolita	
+< karmach	karma:s2	subst:pl:loc:f	nazwa pospolita	rel.
+< karma	karma:s2	subst:sg:nom:f	nazwa pospolita	rel.
+< karmami	karma:s2	subst:pl:inst:f	nazwa pospolita	rel.
+< karmą	karma:s2	subst:sg:inst:f	nazwa pospolita	rel.
+< karmę	karma:s2	subst:sg:acc:f	nazwa pospolita	rel.
+< karmie	karma:s2	subst:sg:dat:f	nazwa pospolita	rel.
+< karmie	karma:s2	subst:sg:loc:f	nazwa pospolita	rel.
+< karm	karma:s2	subst:pl:gen:f	nazwa pospolita	rel.
+< karmo	karma:s2	subst:sg:voc:f	nazwa pospolita	rel.
+< karmom	karma:s2	subst:pl:dat:f	nazwa pospolita	rel.
+< karmy	karma:s2	subst:pl:acc:f	nazwa pospolita	rel.
+< karmy	karma:s2	subst:pl:nom:f	nazwa pospolita	rel.
+< karmy	karma:s2	subst:pl:voc:f	nazwa pospolita	rel.
+< karmy	karma:s2	subst:sg:gen:f	nazwa pospolita	rel.
+6426416a6426419,6426432
+> Zakaukaziach	Zakaukazie	subst:pl:loc:n2	nazwa geograficzna	
+> Zakaukaziami	Zakaukazie	subst:pl:inst:n2	nazwa geograficzna	
+> Zakaukazia	Zakaukazie	subst:pl:acc:n2	nazwa geograficzna	
+> Zakaukazia	Zakaukazie	subst:pl:nom:n2	nazwa geograficzna	
+> Zakaukazia	Zakaukazie	subst:pl:voc:n2	nazwa geograficzna	
+> Zakaukazia	Zakaukazie	subst:sg:gen:n2	nazwa geograficzna	
+> Zakaukaziem	Zakaukazie	subst:sg:inst:n2	nazwa geograficzna	
+> Zakaukazie	Zakaukazie	subst:sg:acc:n2	nazwa geograficzna	
+> Zakaukazie	Zakaukazie	subst:sg:nom:n2	nazwa geograficzna	
+> Zakaukazie	Zakaukazie	subst:sg:voc:n2	nazwa geograficzna	
+> Zakaukaziom	Zakaukazie	subst:pl:dat:n2	nazwa geograficzna	
+> Zakaukaziu	Zakaukazie	subst:sg:dat:n2	nazwa geograficzna	
+> Zakaukaziu	Zakaukazie	subst:sg:loc:n2	nazwa geograficzna	
+> Zakaukazi	Zakaukazie	subst:pl:gen:n2	nazwa geograficzna	

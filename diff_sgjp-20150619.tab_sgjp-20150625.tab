@@ -1,0 +1,804 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2015.06.19
+---
+> #!DICT-ID pl.sgjp.sgjp-2015.06.25
+31487a31488
+> akurat	akurat:i	interj		
+35526a35528
+> ale	ale:i	interj		
+36783c36785,36786
+< ależ	ależ	qub		
+---
+> ależ	ależ:i	interj		
+> ależ	ależ:q	qub		
+218461a218465,218471
+> Bizancjum	Bizancjum	subst:pl:acc:n2	geograficzna	rzad.|hist.
+> Bizancjum	Bizancjum	subst:pl:dat:n2	geograficzna	rzad.|hist.
+> Bizancjum	Bizancjum	subst:pl:gen:n2	geograficzna	rzad.|hist.
+> Bizancjum	Bizancjum	subst:pl:inst:n2	geograficzna	rzad.|hist.
+> Bizancjum	Bizancjum	subst:pl:loc:n2	geograficzna	rzad.|hist.
+> Bizancjum	Bizancjum	subst:pl:nom:n2	geograficzna	rzad.|hist.
+> Bizancjum	Bizancjum	subst:pl:voc:n2	geograficzna	rzad.|hist.
+218462a218473
+> Bizancjum	Bizancjum	subst:sg:acc:n2	geograficzna	rzad.|hist.
+218463a218475
+> Bizancjum	Bizancjum	subst:sg:dat:n2	geograficzna	rzad.|hist.
+218464a218477
+> Bizancjum	Bizancjum	subst:sg:gen:n2	geograficzna	rzad.|hist.
+218465a218479
+> Bizancjum	Bizancjum	subst:sg:inst:n2	geograficzna	rzad.|hist.
+218466a218481
+> Bizancjum	Bizancjum	subst:sg:loc:n2	geograficzna	rzad.|hist.
+218467a218483
+> Bizancjum	Bizancjum	subst:sg:nom:n2	geograficzna	rzad.|hist.
+218468a218485
+> Bizancjum	Bizancjum	subst:sg:voc:n2	geograficzna	rzad.|hist.
+296992c297009,297010
+< bynajmniej	bynajmniej	qub		książk.
+---
+> bynajmniej	bynajmniej:i	interj		książk.
+> bynajmniej	bynajmniej:q	qub		książk.
+439897c439915,439916
+< czyżby	czyżby	qub		książk.
+---
+> czyżby	czyżby:i	interj		książk.
+> czyżby	czyżby:q	qub		książk.
+592855a592875
+> dosyć	dosyć:i	interj		
+596655a596676
+> dość	dość:i	interj		
+798588a798610,798648
+> flamastrowo	flamastrowo	adv:pos		
+> flamastrowościach	flamastrowość	subst:pl:loc:f		
+> flamastrowościami	flamastrowość	subst:pl:inst:f		
+> flamastrowością	flamastrowość	subst:sg:inst:f		
+> flamastrowości	flamastrowość	subst:pl:acc:f		
+> flamastrowości	flamastrowość	subst:pl:gen:f		
+> flamastrowości	flamastrowość	subst:pl:nom:f		
+> flamastrowości	flamastrowość	subst:pl:voc:f		
+> flamastrowości	flamastrowość	subst:sg:dat:f		
+> flamastrowości	flamastrowość	subst:sg:gen:f		
+> flamastrowości	flamastrowość	subst:sg:loc:f		
+> flamastrowości	flamastrowość	subst:sg:voc:f		
+> flamastrowościom	flamastrowość	subst:pl:dat:f		
+> flamastrowość	flamastrowość	subst:sg:acc:f		
+> flamastrowość	flamastrowość	subst:sg:nom:f		
+> flamastrowa	flamastrowy	adj:sg:nom.voc:f:pos		
+> flamastrową	flamastrowy	adj:sg:acc:f:pos		
+> flamastrową	flamastrowy	adj:sg:inst:f:pos		
+> flamastrowe	flamastrowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> flamastrowe	flamastrowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> flamastrowe	flamastrowy	adj:sg:acc:n1.n2:pos		
+> flamastrowe	flamastrowy	adj:sg:nom.voc:n1.n2:pos		
+> flamastrowego	flamastrowy	adj:sg:acc:m1.m2:pos		
+> flamastrowego	flamastrowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> flamastrowej	flamastrowy	adj:sg:dat:f:pos		
+> flamastrowej	flamastrowy	adj:sg:gen:f:pos		
+> flamastrowej	flamastrowy	adj:sg:loc:f:pos		
+> flamastrowemu	flamastrowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> flamastrowi	flamastrowy	adj:pl:nom.voc:m1.p1:pos		
+> flamastrowo	flamastrowy	adja		
+> flamastrowych	flamastrowy	adj:pl:acc:m1.p1:pos		
+> flamastrowych	flamastrowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> flamastrowych	flamastrowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> flamastrowy	flamastrowy	adj:sg:acc:m3:pos		
+> flamastrowy	flamastrowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> flamastrowym	flamastrowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> flamastrowym	flamastrowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> flamastrowym	flamastrowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> flamastrowymi	flamastrowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+839944a840005,840044
+> gadżeciarscy	gadżeciarski	adj:pl:nom.voc:m1.p1:pos		
+> gadżeciarska	gadżeciarski	adj:sg:nom.voc:f:pos		
+> gadżeciarską	gadżeciarski	adj:sg:acc:f:pos		
+> gadżeciarską	gadżeciarski	adj:sg:inst:f:pos		
+> gadżeciarskich	gadżeciarski	adj:pl:acc:m1.p1:pos		
+> gadżeciarskich	gadżeciarski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> gadżeciarskich	gadżeciarski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> gadżeciarskie	gadżeciarski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> gadżeciarskie	gadżeciarski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> gadżeciarskie	gadżeciarski	adj:sg:acc:n1.n2:pos		
+> gadżeciarskie	gadżeciarski	adj:sg:nom.voc:n1.n2:pos		
+> gadżeciarskiego	gadżeciarski	adj:sg:acc:m1.m2:pos		
+> gadżeciarskiego	gadżeciarski	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> gadżeciarskiej	gadżeciarski	adj:sg:dat:f:pos		
+> gadżeciarskiej	gadżeciarski	adj:sg:gen:f:pos		
+> gadżeciarskiej	gadżeciarski	adj:sg:loc:f:pos		
+> gadżeciarskiemu	gadżeciarski	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> gadżeciarski	gadżeciarski	adj:sg:acc:m3:pos		
+> gadżeciarski	gadżeciarski	adj:sg:nom.voc:m1.m2.m3:pos		
+> gadżeciarskim	gadżeciarski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> gadżeciarskim	gadżeciarski	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> gadżeciarskim	gadżeciarski	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> gadżeciarskimi	gadżeciarski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> gadżeciarsko	gadżeciarski	adja		
+> gadżeciarsku	gadżeciarski	adjp		
+> gadżeciarsko	gadżeciarsko	adv:pos		
+> gadżeciarskościach	gadżeciarskość	subst:pl:loc:f		
+> gadżeciarskościami	gadżeciarskość	subst:pl:inst:f		
+> gadżeciarskością	gadżeciarskość	subst:sg:inst:f		
+> gadżeciarskości	gadżeciarskość	subst:pl:acc:f		
+> gadżeciarskości	gadżeciarskość	subst:pl:gen:f		
+> gadżeciarskości	gadżeciarskość	subst:pl:nom:f		
+> gadżeciarskości	gadżeciarskość	subst:pl:voc:f		
+> gadżeciarskości	gadżeciarskość	subst:sg:dat:f		
+> gadżeciarskości	gadżeciarskość	subst:sg:gen:f		
+> gadżeciarskości	gadżeciarskość	subst:sg:loc:f		
+> gadżeciarskości	gadżeciarskość	subst:sg:voc:f		
+> gadżeciarskościom	gadżeciarskość	subst:pl:dat:f		
+> gadżeciarskość	gadżeciarskość	subst:sg:acc:f		
+> gadżeciarskość	gadżeciarskość	subst:sg:nom:f		
+884739a884840,884878
+> glutowato	glutowato	adv:pos		
+> glutowatościach	glutowatość	subst:pl:loc:f		
+> glutowatościami	glutowatość	subst:pl:inst:f		
+> glutowatością	glutowatość	subst:sg:inst:f		
+> glutowatości	glutowatość	subst:pl:acc:f		
+> glutowatości	glutowatość	subst:pl:gen:f		
+> glutowatości	glutowatość	subst:pl:nom:f		
+> glutowatości	glutowatość	subst:pl:voc:f		
+> glutowatości	glutowatość	subst:sg:dat:f		
+> glutowatości	glutowatość	subst:sg:gen:f		
+> glutowatości	glutowatość	subst:sg:loc:f		
+> glutowatości	glutowatość	subst:sg:voc:f		
+> glutowatościom	glutowatość	subst:pl:dat:f		
+> glutowatość	glutowatość	subst:sg:acc:f		
+> glutowatość	glutowatość	subst:sg:nom:f		
+> glutowaci	glutowaty	adj:pl:nom.voc:m1.p1:pos		
+> glutowata	glutowaty	adj:sg:nom.voc:f:pos		
+> glutowatą	glutowaty	adj:sg:acc:f:pos		
+> glutowatą	glutowaty	adj:sg:inst:f:pos		
+> glutowate	glutowaty	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> glutowate	glutowaty	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> glutowate	glutowaty	adj:sg:acc:n1.n2:pos		
+> glutowate	glutowaty	adj:sg:nom.voc:n1.n2:pos		
+> glutowatego	glutowaty	adj:sg:acc:m1.m2:pos		
+> glutowatego	glutowaty	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> glutowatej	glutowaty	adj:sg:dat:f:pos		
+> glutowatej	glutowaty	adj:sg:gen:f:pos		
+> glutowatej	glutowaty	adj:sg:loc:f:pos		
+> glutowatemu	glutowaty	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> glutowato	glutowaty	adja		
+> glutowatych	glutowaty	adj:pl:acc:m1.p1:pos		
+> glutowatych	glutowaty	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> glutowatych	glutowaty	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> glutowaty	glutowaty	adj:sg:acc:m3:pos		
+> glutowaty	glutowaty	adj:sg:nom.voc:m1.m2.m3:pos		
+> glutowatym	glutowaty	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> glutowatym	glutowaty	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> glutowatym	glutowaty	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> glutowatymi	glutowaty	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+887973a888113,888136
+> głodówkowa	głodówkowy	adj:sg:nom.voc:f:pos		
+> głodówkową	głodówkowy	adj:sg:acc:f:pos		
+> głodówkową	głodówkowy	adj:sg:inst:f:pos		
+> głodówkowe	głodówkowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> głodówkowe	głodówkowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> głodówkowe	głodówkowy	adj:sg:acc:n1.n2:pos		
+> głodówkowe	głodówkowy	adj:sg:nom.voc:n1.n2:pos		
+> głodówkowego	głodówkowy	adj:sg:acc:m1.m2:pos		
+> głodówkowego	głodówkowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> głodówkowej	głodówkowy	adj:sg:dat:f:pos		
+> głodówkowej	głodówkowy	adj:sg:gen:f:pos		
+> głodówkowej	głodówkowy	adj:sg:loc:f:pos		
+> głodówkowemu	głodówkowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> głodówkowi	głodówkowy	adj:pl:nom.voc:m1.p1:pos		
+> głodówkowo	głodówkowy	adja		
+> głodówkowych	głodówkowy	adj:pl:acc:m1.p1:pos		
+> głodówkowych	głodówkowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> głodówkowych	głodówkowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> głodówkowy	głodówkowy	adj:sg:acc:m3:pos		
+> głodówkowy	głodówkowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> głodówkowym	głodówkowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> głodówkowym	głodówkowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> głodówkowym	głodówkowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> głodówkowymi	głodówkowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+959384a959548,959571
+> halloweenowa	halloweenowy	adj:sg:nom.voc:f:pos		
+> halloweenową	halloweenowy	adj:sg:acc:f:pos		
+> halloweenową	halloweenowy	adj:sg:inst:f:pos		
+> halloweenowego	halloweenowy	adj:sg:acc:m1.m2:pos		
+> halloweenowego	halloweenowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> halloweenowe	halloweenowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> halloweenowe	halloweenowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> halloweenowe	halloweenowy	adj:sg:acc:n1.n2:pos		
+> halloweenowe	halloweenowy	adj:sg:nom.voc:n1.n2:pos		
+> halloweenowej	halloweenowy	adj:sg:dat:f:pos		
+> halloweenowej	halloweenowy	adj:sg:gen:f:pos		
+> halloweenowej	halloweenowy	adj:sg:loc:f:pos		
+> halloweenowemu	halloweenowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> halloweenowi	halloweenowy	adj:pl:nom.voc:m1.p1:pos		
+> halloweenowo	halloweenowy	adja		
+> halloweenowych	halloweenowy	adj:pl:acc:m1.p1:pos		
+> halloweenowych	halloweenowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> halloweenowych	halloweenowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> halloweenowy	halloweenowy	adj:sg:acc:m3:pos		
+> halloweenowy	halloweenowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> halloweenowym	halloweenowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> halloweenowym	halloweenowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> halloweenowym	halloweenowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> halloweenowymi	halloweenowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+989550a989738,989776
+> hipoalergicznie	hipoalergicznie	adv:pos		
+> hipoalergicznościach	hipoalergiczność	subst:pl:loc:f		
+> hipoalergicznościami	hipoalergiczność	subst:pl:inst:f		
+> hipoalergicznością	hipoalergiczność	subst:sg:inst:f		
+> hipoalergiczności	hipoalergiczność	subst:pl:acc:f		
+> hipoalergiczności	hipoalergiczność	subst:pl:gen:f		
+> hipoalergiczności	hipoalergiczność	subst:pl:nom:f		
+> hipoalergiczności	hipoalergiczność	subst:pl:voc:f		
+> hipoalergiczności	hipoalergiczność	subst:sg:dat:f		
+> hipoalergiczności	hipoalergiczność	subst:sg:gen:f		
+> hipoalergiczności	hipoalergiczność	subst:sg:loc:f		
+> hipoalergiczności	hipoalergiczność	subst:sg:voc:f		
+> hipoalergicznościom	hipoalergiczność	subst:pl:dat:f		
+> hipoalergiczność	hipoalergiczność	subst:sg:acc:f		
+> hipoalergiczność	hipoalergiczność	subst:sg:nom:f		
+> hipoalergiczna	hipoalergiczny	adj:sg:nom.voc:f:pos		
+> hipoalergiczną	hipoalergiczny	adj:sg:acc:f:pos		
+> hipoalergiczną	hipoalergiczny	adj:sg:inst:f:pos		
+> hipoalergicznego	hipoalergiczny	adj:sg:acc:m1.m2:pos		
+> hipoalergicznego	hipoalergiczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> hipoalergiczne	hipoalergiczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> hipoalergiczne	hipoalergiczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> hipoalergiczne	hipoalergiczny	adj:sg:acc:n1.n2:pos		
+> hipoalergiczne	hipoalergiczny	adj:sg:nom.voc:n1.n2:pos		
+> hipoalergicznej	hipoalergiczny	adj:sg:dat:f:pos		
+> hipoalergicznej	hipoalergiczny	adj:sg:gen:f:pos		
+> hipoalergicznej	hipoalergiczny	adj:sg:loc:f:pos		
+> hipoalergicznemu	hipoalergiczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> hipoalergiczni	hipoalergiczny	adj:pl:nom.voc:m1.p1:pos		
+> hipoalergiczno	hipoalergiczny	adja		
+> hipoalergicznych	hipoalergiczny	adj:pl:acc:m1.p1:pos		
+> hipoalergicznych	hipoalergiczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> hipoalergicznych	hipoalergiczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> hipoalergiczny	hipoalergiczny	adj:sg:acc:m3:pos		
+> hipoalergiczny	hipoalergiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+> hipoalergicznym	hipoalergiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> hipoalergicznym	hipoalergiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> hipoalergicznym	hipoalergiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> hipoalergicznymi	hipoalergiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+991242a991469,991507
+> hipotermicznie	hipotermicznie	adv:pos		
+> hipotermicznościach	hipotermiczność	subst:pl:loc:f		
+> hipotermicznościami	hipotermiczność	subst:pl:inst:f		
+> hipotermicznością	hipotermiczność	subst:sg:inst:f		
+> hipotermiczności	hipotermiczność	subst:pl:acc:f		
+> hipotermiczności	hipotermiczność	subst:pl:gen:f		
+> hipotermiczności	hipotermiczność	subst:pl:nom:f		
+> hipotermiczności	hipotermiczność	subst:pl:voc:f		
+> hipotermiczności	hipotermiczność	subst:sg:dat:f		
+> hipotermiczności	hipotermiczność	subst:sg:gen:f		
+> hipotermiczności	hipotermiczność	subst:sg:loc:f		
+> hipotermiczności	hipotermiczność	subst:sg:voc:f		
+> hipotermicznościom	hipotermiczność	subst:pl:dat:f		
+> hipotermiczność	hipotermiczność	subst:sg:acc:f		
+> hipotermiczność	hipotermiczność	subst:sg:nom:f		
+> hipotermiczna	hipotermiczny	adj:sg:nom.voc:f:pos		
+> hipotermiczną	hipotermiczny	adj:sg:acc:f:pos		
+> hipotermiczną	hipotermiczny	adj:sg:inst:f:pos		
+> hipotermicznego	hipotermiczny	adj:sg:acc:m1.m2:pos		
+> hipotermicznego	hipotermiczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> hipotermiczne	hipotermiczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> hipotermiczne	hipotermiczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> hipotermiczne	hipotermiczny	adj:sg:acc:n1.n2:pos		
+> hipotermiczne	hipotermiczny	adj:sg:nom.voc:n1.n2:pos		
+> hipotermicznej	hipotermiczny	adj:sg:dat:f:pos		
+> hipotermicznej	hipotermiczny	adj:sg:gen:f:pos		
+> hipotermicznej	hipotermiczny	adj:sg:loc:f:pos		
+> hipotermicznemu	hipotermiczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> hipotermiczni	hipotermiczny	adj:pl:nom.voc:m1.p1:pos		
+> hipotermiczno	hipotermiczny	adja		
+> hipotermicznych	hipotermiczny	adj:pl:acc:m1.p1:pos		
+> hipotermicznych	hipotermiczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> hipotermicznych	hipotermiczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> hipotermiczny	hipotermiczny	adj:sg:acc:m3:pos		
+> hipotermiczny	hipotermiczny	adj:sg:nom.voc:m1.m2.m3:pos		
+> hipotermicznym	hipotermiczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> hipotermicznym	hipotermiczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> hipotermicznym	hipotermiczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> hipotermicznymi	hipotermiczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+1002061a1002327,1002351
+> horrorowo	horrorowo	adv:pos		
+> horrorowa	horrorowy	adj:sg:nom.voc:f:pos		
+> horrorową	horrorowy	adj:sg:acc:f:pos		
+> horrorową	horrorowy	adj:sg:inst:f:pos		
+> horrorowego	horrorowy	adj:sg:acc:m1.m2:pos		
+> horrorowego	horrorowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> horrorowe	horrorowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> horrorowe	horrorowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> horrorowe	horrorowy	adj:sg:acc:n1.n2:pos		
+> horrorowe	horrorowy	adj:sg:nom.voc:n1.n2:pos		
+> horrorowej	horrorowy	adj:sg:dat:f:pos		
+> horrorowej	horrorowy	adj:sg:gen:f:pos		
+> horrorowej	horrorowy	adj:sg:loc:f:pos		
+> horrorowemu	horrorowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> horrorowi	horrorowy	adj:pl:nom.voc:m1.p1:pos		
+> horrorowo	horrorowy	adja		
+> horrorowych	horrorowy	adj:pl:acc:m1.p1:pos		
+> horrorowych	horrorowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> horrorowych	horrorowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> horrorowy	horrorowy	adj:sg:acc:m3:pos		
+> horrorowy	horrorowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> horrorowym	horrorowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> horrorowym	horrorowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> horrorowym	horrorowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> horrorowymi	horrorowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+1005935a1006226,1006250
+> hukowo	hukowo	adv:pos		
+> hukowa	hukowy	adj:sg:nom.voc:f:pos		
+> hukową	hukowy	adj:sg:acc:f:pos		
+> hukową	hukowy	adj:sg:inst:f:pos		
+> hukowego	hukowy	adj:sg:acc:m1.m2:pos		
+> hukowego	hukowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> hukowe	hukowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> hukowe	hukowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> hukowe	hukowy	adj:sg:acc:n1.n2:pos		
+> hukowe	hukowy	adj:sg:nom.voc:n1.n2:pos		
+> hukowej	hukowy	adj:sg:dat:f:pos		
+> hukowej	hukowy	adj:sg:gen:f:pos		
+> hukowej	hukowy	adj:sg:loc:f:pos		
+> hukowemu	hukowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> hukowi	hukowy	adj:pl:nom.voc:m1.p1:pos		
+> hukowo	hukowy	adja		
+> hukowych	hukowy	adj:pl:acc:m1.p1:pos		
+> hukowych	hukowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> hukowych	hukowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> hukowy	hukowy	adj:sg:acc:m3:pos		
+> hukowy	hukowy	adj:sg:nom.voc:m1.m2.m3:pos		
+> hukowym	hukowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> hukowym	hukowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> hukowym	hukowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> hukowymi	hukowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+1027279a1027595,1027618
+> immobilna	immobilny	adj:sg:nom.voc:f:pos		
+> immobilną	immobilny	adj:sg:acc:f:pos		
+> immobilną	immobilny	adj:sg:inst:f:pos		
+> immobilnego	immobilny	adj:sg:acc:m1.m2:pos		
+> immobilnego	immobilny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> immobilne	immobilny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> immobilne	immobilny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> immobilne	immobilny	adj:sg:acc:n1.n2:pos		
+> immobilne	immobilny	adj:sg:nom.voc:n1.n2:pos		
+> immobilnej	immobilny	adj:sg:dat:f:pos		
+> immobilnej	immobilny	adj:sg:gen:f:pos		
+> immobilnej	immobilny	adj:sg:loc:f:pos		
+> immobilnemu	immobilny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> immobilni	immobilny	adj:pl:nom.voc:m1.p1:pos		
+> immobilno	immobilny	adja		
+> immobilnych	immobilny	adj:pl:acc:m1.p1:pos		
+> immobilnych	immobilny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> immobilnych	immobilny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> immobilny	immobilny	adj:sg:acc:m3:pos		
+> immobilny	immobilny	adj:sg:nom.voc:m1.m2.m3:pos		
+> immobilnymi	immobilny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> immobilnym	immobilny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> immobilnym	immobilny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> immobilnym	immobilny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+1027723a1028063,1028101
+> immunogennie	immunogennie	adv:pos		
+> immunogennościach	immunogenność	subst:pl:loc:f		
+> immunogennościami	immunogenność	subst:pl:inst:f		
+> immunogennością	immunogenność	subst:sg:inst:f		
+> immunogenności	immunogenność	subst:pl:acc:f		
+> immunogenności	immunogenność	subst:pl:gen:f		
+> immunogenności	immunogenność	subst:pl:nom:f		
+> immunogenności	immunogenność	subst:pl:voc:f		
+> immunogenności	immunogenność	subst:sg:dat:f		
+> immunogenności	immunogenność	subst:sg:gen:f		
+> immunogenności	immunogenność	subst:sg:loc:f		
+> immunogenności	immunogenność	subst:sg:voc:f		
+> immunogennościom	immunogenność	subst:pl:dat:f		
+> immunogenność	immunogenność	subst:sg:acc:f		
+> immunogenność	immunogenność	subst:sg:nom:f		
+> immunogenna	immunogenny	adj:sg:nom.voc:f:pos		
+> immunogenną	immunogenny	adj:sg:acc:f:pos		
+> immunogenną	immunogenny	adj:sg:inst:f:pos		
+> immunogennego	immunogenny	adj:sg:acc:m1.m2:pos		
+> immunogennego	immunogenny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> immunogenne	immunogenny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> immunogenne	immunogenny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> immunogenne	immunogenny	adj:sg:acc:n1.n2:pos		
+> immunogenne	immunogenny	adj:sg:nom.voc:n1.n2:pos		
+> immunogennej	immunogenny	adj:sg:dat:f:pos		
+> immunogennej	immunogenny	adj:sg:gen:f:pos		
+> immunogennej	immunogenny	adj:sg:loc:f:pos		
+> immunogennemu	immunogenny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> immunogenni	immunogenny	adj:pl:nom.voc:m1.p1:pos		
+> immunogenno	immunogenny	adja		
+> immunogennych	immunogenny	adj:pl:acc:m1.p1:pos		
+> immunogennych	immunogenny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> immunogennych	immunogenny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> immunogenny	immunogenny	adj:sg:acc:m3:pos		
+> immunogenny	immunogenny	adj:sg:nom.voc:m1.m2.m3:pos		
+> immunogennymi	immunogenny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> immunogennym	immunogenny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> immunogennym	immunogenny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> immunogennym	immunogenny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+1059701a1060080,1060118
+> inwentycznie	inwentycznie	adv:pos		
+> inwentycznościach	inwentyczność	subst:pl:loc:f		
+> inwentycznościami	inwentyczność	subst:pl:inst:f		
+> inwentycznością	inwentyczność	subst:sg:inst:f		
+> inwentyczności	inwentyczność	subst:pl:acc:f		
+> inwentyczności	inwentyczność	subst:pl:gen:f		
+> inwentyczności	inwentyczność	subst:pl:nom:f		
+> inwentyczności	inwentyczność	subst:pl:voc:f		
+> inwentyczności	inwentyczność	subst:sg:dat:f		
+> inwentyczności	inwentyczność	subst:sg:gen:f		
+> inwentyczności	inwentyczność	subst:sg:loc:f		
+> inwentyczności	inwentyczność	subst:sg:voc:f		
+> inwentycznościom	inwentyczność	subst:pl:dat:f		
+> inwentyczność	inwentyczność	subst:sg:acc:f		
+> inwentyczność	inwentyczność	subst:sg:nom:f		
+> inwentyczna	inwentyczny	adj:sg:nom.voc:f:pos		
+> inwentyczną	inwentyczny	adj:sg:acc:f:pos		
+> inwentyczną	inwentyczny	adj:sg:inst:f:pos		
+> inwentycznego	inwentyczny	adj:sg:acc:m1.m2:pos		
+> inwentycznego	inwentyczny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> inwentyczne	inwentyczny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> inwentyczne	inwentyczny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> inwentyczne	inwentyczny	adj:sg:acc:n1.n2:pos		
+> inwentyczne	inwentyczny	adj:sg:nom.voc:n1.n2:pos		
+> inwentycznej	inwentyczny	adj:sg:dat:f:pos		
+> inwentycznej	inwentyczny	adj:sg:gen:f:pos		
+> inwentycznej	inwentyczny	adj:sg:loc:f:pos		
+> inwentycznemu	inwentyczny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> inwentyczni	inwentyczny	adj:pl:nom.voc:m1.p1:pos		
+> inwentyczno	inwentyczny	adja		
+> inwentycznych	inwentyczny	adj:pl:acc:m1.p1:pos		
+> inwentycznych	inwentyczny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> inwentycznych	inwentyczny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> inwentyczny	inwentyczny	adj:sg:acc:m3:pos		
+> inwentyczny	inwentyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+> inwentycznymi	inwentyczny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> inwentycznym	inwentyczny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> inwentycznym	inwentyczny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> inwentycznym	inwentyczny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+1102168a1102586,1102610
+> jehowiccy	jehowicki	adj:pl:nom.voc:m1.p1:pos		
+> jehowicka	jehowicki	adj:sg:nom.voc:f:pos		
+> jehowicką	jehowicki	adj:sg:acc:f:pos		
+> jehowicką	jehowicki	adj:sg:inst:f:pos		
+> jehowickich	jehowicki	adj:pl:acc:m1.p1:pos		
+> jehowickich	jehowicki	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> jehowickich	jehowicki	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> jehowickiego	jehowicki	adj:sg:acc:m1.m2:pos		
+> jehowickiego	jehowicki	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> jehowickie	jehowicki	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> jehowickie	jehowicki	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> jehowickie	jehowicki	adj:sg:acc:n1.n2:pos		
+> jehowickie	jehowicki	adj:sg:nom.voc:n1.n2:pos		
+> jehowickiej	jehowicki	adj:sg:dat:f:pos		
+> jehowickiej	jehowicki	adj:sg:gen:f:pos		
+> jehowickiej	jehowicki	adj:sg:loc:f:pos		
+> jehowickiemu	jehowicki	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> jehowicki	jehowicki	adj:sg:acc:m3:pos		
+> jehowicki	jehowicki	adj:sg:nom.voc:m1.m2.m3:pos		
+> jehowickimi	jehowicki	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> jehowickim	jehowicki	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> jehowickim	jehowicki	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> jehowickim	jehowicki	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> jehowicko	jehowicki	adja		
+> jehowicku	jehowicki	adjp		
+1103446a1103889,1103927
+> jełopowato	jełopowato	adv:pos		
+> jełopowatościach	jełopowatość	subst:pl:loc:f		
+> jełopowatościami	jełopowatość	subst:pl:inst:f		
+> jełopowatością	jełopowatość	subst:sg:inst:f		
+> jełopowatości	jełopowatość	subst:pl:acc:f		
+> jełopowatości	jełopowatość	subst:pl:gen:f		
+> jełopowatości	jełopowatość	subst:pl:nom:f		
+> jełopowatości	jełopowatość	subst:pl:voc:f		
+> jełopowatości	jełopowatość	subst:sg:dat:f		
+> jełopowatości	jełopowatość	subst:sg:gen:f		
+> jełopowatości	jełopowatość	subst:sg:loc:f		
+> jełopowatości	jełopowatość	subst:sg:voc:f		
+> jełopowatościom	jełopowatość	subst:pl:dat:f		
+> jełopowatość	jełopowatość	subst:sg:acc:f		
+> jełopowatość	jełopowatość	subst:sg:nom:f		
+> jełopowaci	jełopowaty	adj:pl:nom.voc:m1.p1:pos		
+> jełopowata	jełopowaty	adj:sg:nom.voc:f:pos		
+> jełopowatą	jełopowaty	adj:sg:acc:f:pos		
+> jełopowatą	jełopowaty	adj:sg:inst:f:pos		
+> jełopowatego	jełopowaty	adj:sg:acc:m1.m2:pos		
+> jełopowatego	jełopowaty	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> jełopowate	jełopowaty	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> jełopowate	jełopowaty	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> jełopowate	jełopowaty	adj:sg:acc:n1.n2:pos		
+> jełopowate	jełopowaty	adj:sg:nom.voc:n1.n2:pos		
+> jełopowatej	jełopowaty	adj:sg:dat:f:pos		
+> jełopowatej	jełopowaty	adj:sg:gen:f:pos		
+> jełopowatej	jełopowaty	adj:sg:loc:f:pos		
+> jełopowatemu	jełopowaty	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> jełopowato	jełopowaty	adja		
+> jełopowatych	jełopowaty	adj:pl:acc:m1.p1:pos		
+> jełopowatych	jełopowaty	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> jełopowatych	jełopowaty	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> jełopowaty	jełopowaty	adj:sg:acc:m3:pos		
+> jełopowaty	jełopowaty	adj:sg:nom.voc:m1.m2.m3:pos		
+> jełopowatymi	jełopowaty	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> jełopowatym	jełopowaty	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> jełopowatym	jełopowaty	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> jełopowatym	jełopowaty	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+1674174a1674656,1674662
+> Monachium	Monachium	subst:pl:acc:n2	geograficzna	rzad.
+> Monachium	Monachium	subst:pl:dat:n2	geograficzna	rzad.
+> Monachium	Monachium	subst:pl:gen:n2	geograficzna	rzad.
+> Monachium	Monachium	subst:pl:inst:n2	geograficzna	rzad.
+> Monachium	Monachium	subst:pl:loc:n2	geograficzna	rzad.
+> Monachium	Monachium	subst:pl:nom:n2	geograficzna	rzad.
+> Monachium	Monachium	subst:pl:voc:n2	geograficzna	rzad.
+1674175a1674664
+> Monachium	Monachium	subst:sg:acc:n2	geograficzna	rzad.
+1674176a1674666
+> Monachium	Monachium	subst:sg:dat:n2	geograficzna	rzad.
+1674177a1674668
+> Monachium	Monachium	subst:sg:gen:n2	geograficzna	rzad.
+1674178a1674670
+> Monachium	Monachium	subst:sg:inst:n2	geograficzna	rzad.
+1674179a1674672
+> Monachium	Monachium	subst:sg:loc:n2	geograficzna	rzad.
+1674180a1674674
+> Monachium	Monachium	subst:sg:nom:n2	geograficzna	rzad.
+1674181a1674676
+> Monachium	Monachium	subst:sg:voc:n2	geograficzna	rzad.
+1692568d1693062
+< może	może	qub		
+1692653a1693148,1693149
+> może	może:i	interj		
+> może	może:q	qub		
+1826412c1826908,1826909
+< naprawdę	naprawdę	qub		
+---
+> naprawdę	naprawdę:i	interj		
+> naprawdę	naprawdę:q	qub		
+2158231a2158729,2158765
+> nieflamastrowościach	nieflamastrowość	subst:pl:loc:f		
+> nieflamastrowościami	nieflamastrowość	subst:pl:inst:f		
+> nieflamastrowością	nieflamastrowość	subst:sg:inst:f		
+> nieflamastrowości	nieflamastrowość	subst:pl:acc:f		
+> nieflamastrowości	nieflamastrowość	subst:pl:gen:f		
+> nieflamastrowości	nieflamastrowość	subst:pl:nom:f		
+> nieflamastrowości	nieflamastrowość	subst:pl:voc:f		
+> nieflamastrowości	nieflamastrowość	subst:sg:dat:f		
+> nieflamastrowości	nieflamastrowość	subst:sg:gen:f		
+> nieflamastrowości	nieflamastrowość	subst:sg:loc:f		
+> nieflamastrowości	nieflamastrowość	subst:sg:voc:f		
+> nieflamastrowościom	nieflamastrowość	subst:pl:dat:f		
+> nieflamastrowość	nieflamastrowość	subst:sg:acc:f		
+> nieflamastrowość	nieflamastrowość	subst:sg:nom:f		
+> nieflamastrowa	nieflamastrowy	adj:sg:nom.voc:f:pos		
+> nieflamastrową	nieflamastrowy	adj:sg:acc:f:pos		
+> nieflamastrową	nieflamastrowy	adj:sg:inst:f:pos		
+> nieflamastrowego	nieflamastrowy	adj:sg:acc:m1.m2:pos		
+> nieflamastrowego	nieflamastrowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> nieflamastrowej	nieflamastrowy	adj:sg:dat:f:pos		
+> nieflamastrowej	nieflamastrowy	adj:sg:gen:f:pos		
+> nieflamastrowej	nieflamastrowy	adj:sg:loc:f:pos		
+> nieflamastrowemu	nieflamastrowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> nieflamastrowe	nieflamastrowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> nieflamastrowe	nieflamastrowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> nieflamastrowe	nieflamastrowy	adj:sg:acc:n1.n2:pos		
+> nieflamastrowe	nieflamastrowy	adj:sg:nom.voc:n1.n2:pos		
+> nieflamastrowi	nieflamastrowy	adj:pl:nom.voc:m1.p1:pos		
+> nieflamastrowych	nieflamastrowy	adj:pl:acc:m1.p1:pos		
+> nieflamastrowych	nieflamastrowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieflamastrowych	nieflamastrowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieflamastrowymi	nieflamastrowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieflamastrowym	nieflamastrowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieflamastrowym	nieflamastrowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> nieflamastrowym	nieflamastrowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> nieflamastrowy	nieflamastrowy	adj:sg:acc:m3:pos		
+> nieflamastrowy	nieflamastrowy	adj:sg:nom.voc:m1.m2.m3:pos		
+2226248a2226783
+> nie	nie:i	interj		
+3153772c3154307,3154308
+< no	no:i	interj		
+---
+> no	no:i1	interj		
+> no	no:i2	interj		pot.
+3700642a3701179
+> pewnie	pewnie:i	interj		
+3815068,3815108c3815605,3815645
+< podepleć	podepleć	inf:perf		
+< podpełliby	podepleć	cond:pl:m1.p1:ter:perf		
+< podpełlibyście	podepleć	cond:pl:m1.p1:sec:perf		
+< podpełlibyśmy	podepleć	cond:pl:m1.p1:pri:perf		
+< podpełli	podepleć	praet:pl:m1.p1:perf		
+< podpełli	podepleć	praet:pl:m1.p1:ter:perf		
+< podpełliście	podepleć	praet:pl:m1.p1:sec:perf		
+< podpełliśmy	podepleć	praet:pl:m1.p1:pri:perf		
+< podpełłabym	podepleć	cond:sg:f:pri:perf		
+< podpełłaby	podepleć	cond:sg:f:ter:perf		
+< podpełłabyś	podepleć	cond:sg:f:sec:perf		
+< podpełłam	podepleć	praet:sg:f:pri:perf		
+< podpełła	podepleć	praet:sg:f:perf		
+< podpełła	podepleć	praet:sg:f:ter:perf		
+< podpełłaś	podepleć	praet:sg:f:sec:perf		
+< podpełłbym	podepleć	cond:sg:m1.m2.m3:pri:perf		
+< podpełłby	podepleć	cond:sg:m1.m2.m3:ter:perf		
+< podpełłbyś	podepleć	cond:sg:m1.m2.m3:sec:perf		
+< podpełłem	podepleć	praet:sg:m1.m2.m3:pri:perf		
+< podpełłeś	podepleć	praet:sg:m1.m2.m3:sec:perf		
+< podpełłobym	podepleć	cond:sg:n1.n2:pri:perf		
+< podpełłoby	podepleć	cond:sg:n1.n2:ter:perf		
+< podpełłobyś	podepleć	cond:sg:n1.n2:sec:perf		
+< podpełłom	podepleć	praet:sg:n1.n2:pri:perf		
+< podpełło	podepleć	praet:sg:n1.n2:perf		
+< podpełło	podepleć	praet:sg:n1.n2:ter:perf		
+< podpełłoś	podepleć	praet:sg:n1.n2:sec:perf		
+< podpełł	podepleć	praet:sg:m1.m2.m3:perf		
+< podpełł	podepleć	praet:sg:m1.m2.m3:ter:perf		
+< podpełłszy	podepleć	pant:perf		
+< podpełłyby	podepleć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+< podpełłybyście	podepleć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+< podpełłybyśmy	podepleć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+< podpełły	podepleć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+< podpełły	podepleć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+< podpełłyście	podepleć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+< podpełłyśmy	podepleć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+< podpielą	podepleć	fin:pl:ter:perf		
+< podpielcie	podepleć	impt:pl:sec:perf		
+< podpielecie	podepleć	fin:pl:sec:perf		
+< podpielemy	podepleć	fin:pl:pri:perf		
+---
+> podepleć	podepleć	inf:perf		rzad.
+> podpełliby	podepleć	cond:pl:m1.p1:ter:perf		rzad.
+> podpełlibyście	podepleć	cond:pl:m1.p1:sec:perf		rzad.
+> podpełlibyśmy	podepleć	cond:pl:m1.p1:pri:perf		rzad.
+> podpełli	podepleć	praet:pl:m1.p1:perf		rzad.
+> podpełli	podepleć	praet:pl:m1.p1:ter:perf		rzad.
+> podpełliście	podepleć	praet:pl:m1.p1:sec:perf		rzad.
+> podpełliśmy	podepleć	praet:pl:m1.p1:pri:perf		rzad.
+> podpełłabym	podepleć	cond:sg:f:pri:perf		rzad.
+> podpełłaby	podepleć	cond:sg:f:ter:perf		rzad.
+> podpełłabyś	podepleć	cond:sg:f:sec:perf		rzad.
+> podpełłam	podepleć	praet:sg:f:pri:perf		rzad.
+> podpełła	podepleć	praet:sg:f:perf		rzad.
+> podpełła	podepleć	praet:sg:f:ter:perf		rzad.
+> podpełłaś	podepleć	praet:sg:f:sec:perf		rzad.
+> podpełłbym	podepleć	cond:sg:m1.m2.m3:pri:perf		rzad.
+> podpełłby	podepleć	cond:sg:m1.m2.m3:ter:perf		rzad.
+> podpełłbyś	podepleć	cond:sg:m1.m2.m3:sec:perf		rzad.
+> podpełłem	podepleć	praet:sg:m1.m2.m3:pri:perf		rzad.
+> podpełłeś	podepleć	praet:sg:m1.m2.m3:sec:perf		rzad.
+> podpełłobym	podepleć	cond:sg:n1.n2:pri:perf		rzad.
+> podpełłoby	podepleć	cond:sg:n1.n2:ter:perf		rzad.
+> podpełłobyś	podepleć	cond:sg:n1.n2:sec:perf		rzad.
+> podpełłom	podepleć	praet:sg:n1.n2:pri:perf		rzad.
+> podpełło	podepleć	praet:sg:n1.n2:perf		rzad.
+> podpełło	podepleć	praet:sg:n1.n2:ter:perf		rzad.
+> podpełłoś	podepleć	praet:sg:n1.n2:sec:perf		rzad.
+> podpełł	podepleć	praet:sg:m1.m2.m3:perf		rzad.
+> podpełł	podepleć	praet:sg:m1.m2.m3:ter:perf		rzad.
+> podpełłszy	podepleć	pant:perf		rzad.
+> podpełłyby	podepleć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> podpełłybyście	podepleć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> podpełłybyśmy	podepleć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> podpełły	podepleć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> podpełły	podepleć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> podpełłyście	podepleć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> podpełłyśmy	podepleć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> podpielą	podepleć	fin:pl:ter:perf		rzad.
+> podpielcie	podepleć	impt:pl:sec:perf		rzad.
+> podpielecie	podepleć	fin:pl:sec:perf		rzad.
+> podpielemy	podepleć	fin:pl:pri:perf		rzad.
+3815119,3815122c3815656,3815659
+< podpiele	podepleć	fin:sg:ter:perf		
+< podpielesz	podepleć	fin:sg:sec:perf		
+< podpielę	podepleć	fin:sg:pri:perf		
+< podpielmy	podepleć	impt:pl:pri:perf		
+---
+> podpiele	podepleć	fin:sg:ter:perf		rzad.
+> podpielesz	podepleć	fin:sg:sec:perf		rzad.
+> podpielę	podepleć	fin:sg:pri:perf		rzad.
+> podpielmy	podepleć	impt:pl:pri:perf		rzad.
+3815131c3815668
+< podpielono	podepleć	imps:perf		
+---
+> podpielono	podepleć	imps:perf		rzad.
+3815139c3815676
+< podpiel	podepleć	impt:sg:sec:perf		
+---
+> podpiel	podepleć	impt:sg:sec:perf		rzad.
+5413999a5414537
+> tak	tak:i	interj		
+5783064,5783086c5783602,5783624
+< najwalniejsi	walny	adj:pl:nom.voc:m1.p1:sup		
+< najwalniejsza	walny	adj:sg:nom.voc:f:sup		
+< najwalniejszą	walny	adj:sg:acc:f:sup		
+< najwalniejszą	walny	adj:sg:inst:f:sup		
+< najwalniejszego	walny	adj:sg:acc:m1.m2:sup		
+< najwalniejszego	walny	adj:sg:gen:m1.m2.m3.n1.n2:sup		
+< najwalniejszej	walny	adj:sg:dat:f:sup		
+< najwalniejszej	walny	adj:sg:gen:f:sup		
+< najwalniejszej	walny	adj:sg:loc:f:sup		
+< najwalniejszemu	walny	adj:sg:dat:m1.m2.m3.n1.n2:sup		
+< najwalniejsze	walny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:sup		
+< najwalniejsze	walny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:sup		
+< najwalniejsze	walny	adj:sg:acc:n1.n2:sup		
+< najwalniejsze	walny	adj:sg:nom.voc:n1.n2:sup		
+< najwalniejszych	walny	adj:pl:acc:m1.p1:sup		
+< najwalniejszych	walny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+< najwalniejszych	walny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+< najwalniejszymi	walny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+< najwalniejszym	walny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		
+< najwalniejszym	walny	adj:sg:inst:m1.m2.m3.n1.n2:sup		
+< najwalniejszym	walny	adj:sg:loc:m1.m2.m3.n1.n2:sup		
+< najwalniejszy	walny	adj:sg:acc:m3:sup		
+< najwalniejszy	walny	adj:sg:nom.voc:m1.m2.m3:sup		
+---
+> najwalniejsi	walny	adj:pl:nom.voc:m1.p1:sup		daw.
+> najwalniejsza	walny	adj:sg:nom.voc:f:sup		daw.
+> najwalniejszą	walny	adj:sg:acc:f:sup		daw.
+> najwalniejszą	walny	adj:sg:inst:f:sup		daw.
+> najwalniejszego	walny	adj:sg:acc:m1.m2:sup		daw.
+> najwalniejszego	walny	adj:sg:gen:m1.m2.m3.n1.n2:sup		daw.
+> najwalniejszej	walny	adj:sg:dat:f:sup		daw.
+> najwalniejszej	walny	adj:sg:gen:f:sup		daw.
+> najwalniejszej	walny	adj:sg:loc:f:sup		daw.
+> najwalniejszemu	walny	adj:sg:dat:m1.m2.m3.n1.n2:sup		daw.
+> najwalniejsze	walny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:sup		daw.
+> najwalniejsze	walny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:sup		daw.
+> najwalniejsze	walny	adj:sg:acc:n1.n2:sup		daw.
+> najwalniejsze	walny	adj:sg:nom.voc:n1.n2:sup		daw.
+> najwalniejszych	walny	adj:pl:acc:m1.p1:sup		daw.
+> najwalniejszych	walny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		daw.
+> najwalniejszych	walny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		daw.
+> najwalniejszymi	walny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		daw.
+> najwalniejszym	walny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		daw.
+> najwalniejszym	walny	adj:sg:inst:m1.m2.m3.n1.n2:sup		daw.
+> najwalniejszym	walny	adj:sg:loc:m1.m2.m3.n1.n2:sup		daw.
+> najwalniejszy	walny	adj:sg:acc:m3:sup		daw.
+> najwalniejszy	walny	adj:sg:nom.voc:m1.m2.m3:sup		daw.
+5783100,5783122c5783638,5783660
+< walniejsi	walny	adj:pl:nom.voc:m1.p1:com		
+< walniejsza	walny	adj:sg:nom.voc:f:com		
+< walniejszą	walny	adj:sg:acc:f:com		
+< walniejszą	walny	adj:sg:inst:f:com		
+< walniejszego	walny	adj:sg:acc:m1.m2:com		
+< walniejszego	walny	adj:sg:gen:m1.m2.m3.n1.n2:com		
+< walniejszej	walny	adj:sg:dat:f:com		
+< walniejszej	walny	adj:sg:gen:f:com		
+< walniejszej	walny	adj:sg:loc:f:com		
+< walniejszemu	walny	adj:sg:dat:m1.m2.m3.n1.n2:com		
+< walniejsze	walny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		
+< walniejsze	walny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		
+< walniejsze	walny	adj:sg:acc:n1.n2:com		
+< walniejsze	walny	adj:sg:nom.voc:n1.n2:com		
+< walniejszych	walny	adj:pl:acc:m1.p1:com		
+< walniejszych	walny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+< walniejszych	walny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+< walniejszymi	walny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+< walniejszym	walny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		
+< walniejszym	walny	adj:sg:inst:m1.m2.m3.n1.n2:com		
+< walniejszym	walny	adj:sg:loc:m1.m2.m3.n1.n2:com		
+< walniejszy	walny	adj:sg:acc:m3:com		
+< walniejszy	walny	adj:sg:nom.voc:m1.m2.m3:com		
+---
+> walniejsi	walny	adj:pl:nom.voc:m1.p1:com		daw.
+> walniejsza	walny	adj:sg:nom.voc:f:com		daw.
+> walniejszą	walny	adj:sg:acc:f:com		daw.
+> walniejszą	walny	adj:sg:inst:f:com		daw.
+> walniejszego	walny	adj:sg:acc:m1.m2:com		daw.
+> walniejszego	walny	adj:sg:gen:m1.m2.m3.n1.n2:com		daw.
+> walniejszej	walny	adj:sg:dat:f:com		daw.
+> walniejszej	walny	adj:sg:gen:f:com		daw.
+> walniejszej	walny	adj:sg:loc:f:com		daw.
+> walniejszemu	walny	adj:sg:dat:m1.m2.m3.n1.n2:com		daw.
+> walniejsze	walny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		daw.
+> walniejsze	walny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		daw.
+> walniejsze	walny	adj:sg:acc:n1.n2:com		daw.
+> walniejsze	walny	adj:sg:nom.voc:n1.n2:com		daw.
+> walniejszych	walny	adj:pl:acc:m1.p1:com		daw.
+> walniejszych	walny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		daw.
+> walniejszych	walny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		daw.
+> walniejszymi	walny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		daw.
+> walniejszym	walny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		daw.
+> walniejszym	walny	adj:sg:inst:m1.m2.m3.n1.n2:com		daw.
+> walniejszym	walny	adj:sg:loc:m1.m2.m3.n1.n2:com		daw.
+> walniejszy	walny	adj:sg:acc:m3:com		daw.
+> walniejszy	walny	adj:sg:nom.voc:m1.m2.m3:com		daw.
+6520868a6521407
+> zasię	zasię:i	interj		gwar.

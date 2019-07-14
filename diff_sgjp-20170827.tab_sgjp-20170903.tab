@@ -1,0 +1,2932 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.08.27
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.09.03
+55523c55523
+< anime	anime	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+---
+> anime	anime	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	film.
+72346,72357c72346,72357
+< appeasemencie	appeasement	subst:sg:loc:m3	nazwa pospolita	
+< appeasemencie	appeasement	subst:sg:voc:m3	nazwa pospolita	
+< appeasementach	appeasement	subst:pl:loc:m3	nazwa pospolita	
+< appeasementami	appeasement	subst:pl:inst:m3	nazwa pospolita	
+< appeasement	appeasement	subst:sg:nom.acc:m3	nazwa pospolita	
+< appeasement	appeasement	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
+< appeasementem	appeasement	subst:sg:inst:m3	nazwa pospolita	
+< appeasementom	appeasement	subst:pl:dat:m3	nazwa pospolita	
+< appeasementowi	appeasement	subst:sg:dat:m3	nazwa pospolita	
+< appeasementów	appeasement	subst:pl:gen:m3	nazwa pospolita	
+< appeasementu	appeasement	subst:sg:gen:m3	nazwa pospolita	
+< appeasementy	appeasement	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+---
+> appeasemencie	appeasement	subst:sg:loc:m3	nazwa pospolita	polit.
+> appeasemencie	appeasement	subst:sg:voc:m3	nazwa pospolita	polit.
+> appeasementach	appeasement	subst:pl:loc:m3	nazwa pospolita	polit.
+> appeasementami	appeasement	subst:pl:inst:m3	nazwa pospolita	polit.
+> appeasement	appeasement	subst:sg:nom.acc:m3	nazwa pospolita	polit.
+> appeasement	appeasement	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	polit.
+> appeasementem	appeasement	subst:sg:inst:m3	nazwa pospolita	polit.
+> appeasementom	appeasement	subst:pl:dat:m3	nazwa pospolita	polit.
+> appeasementowi	appeasement	subst:sg:dat:m3	nazwa pospolita	polit.
+> appeasementów	appeasement	subst:pl:gen:m3	nazwa pospolita	polit.
+> appeasementu	appeasement	subst:sg:gen:m3	nazwa pospolita	polit.
+> appeasementy	appeasement	subst:pl:nom.acc.voc:m3	nazwa pospolita	polit.
+360255a360256,360257
+> czająca	czaić:v2	pact:sg:nom.voc:f:imperf:aff		pot.
+> czającą	czaić:v2	pact:sg:acc.inst:f:imperf:aff		pot.
+360256a360259,360273
+> czające	czaić:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		pot.
+> czające	czaić:v2	pact:sg:nom.acc.voc:n:imperf:aff		pot.
+> czającego	czaić:v2	pact:sg:acc:m1.m2:imperf:aff		pot.
+> czającego	czaić:v2	pact:sg:gen:m1.m2.m3.n:imperf:aff		pot.
+> czającej	czaić:v2	pact:sg:gen.dat.loc:f:imperf:aff		pot.
+> czającemu	czaić:v2	pact:sg:dat:m1.m2.m3.n:imperf:aff		pot.
+> czająco	czaić:v2	pacta		pot.
+> czających	czaić:v2	pact:pl:acc:m1:imperf:aff		pot.
+> czających	czaić:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		pot.
+> czający	czaić:v2	pact:pl:nom.voc:m1:imperf:aff		pot.
+> czający	czaić:v2	pact:sg:acc:m3:imperf:aff		pot.
+> czający	czaić:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		pot.
+> czającym	czaić:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		pot.
+> czającym	czaić:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		pot.
+> czającymi	czaić:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		pot.
+360259a360277,360285
+> czajeniach	czaić:v2	ger:pl:loc:n:imperf:aff		pot.
+> czajenia	czaić:v2	ger:pl:nom.acc:n:imperf:aff		pot.
+> czajenia	czaić:v2	ger:sg:gen:n:imperf:aff		pot.
+> czajeniami	czaić:v2	ger:pl:inst:n:imperf:aff		pot.
+> czajenie	czaić:v2	ger:sg:nom.acc:n:imperf:aff		pot.
+> czajeniem	czaić:v2	ger:sg:inst:n:imperf:aff		pot.
+> czajeniom	czaić:v2	ger:pl:dat:n:imperf:aff		pot.
+> czajeniu	czaić:v2	ger:sg:dat.loc:n:imperf:aff		pot.
+> czajeń	czaić:v2	ger:pl:gen:n:imperf:aff		pot.
+360261a360288,360296
+> czajona	czaić:v2	ppas:sg:nom.voc:f:imperf:aff		pot.
+> czajoną	czaić:v2	ppas:sg:acc.inst:f:imperf:aff		pot.
+> czajone	czaić:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		pot.
+> czajone	czaić:v2	ppas:sg:nom.acc.voc:n:imperf:aff		pot.
+> czajonego	czaić:v2	ppas:sg:acc:m1.m2:imperf:aff		pot.
+> czajonego	czaić:v2	ppas:sg:gen:m1.m2.m3.n:imperf:aff		pot.
+> czajonej	czaić:v2	ppas:sg:gen.dat.loc:f:imperf:aff		pot.
+> czajonemu	czaić:v2	ppas:sg:dat:m1.m2.m3.n:imperf:aff		pot.
+> czajoni	czaić:v2	ppas:pl:nom.voc:m1:imperf:aff		pot.
+360262a360298,360345
+> czajonych	czaić:v2	ppas:pl:acc:m1:imperf:aff		pot.
+> czajonych	czaić:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		pot.
+> czajony	czaić:v2	ppas:sg:acc:m3:imperf:aff		pot.
+> czajony	czaić:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		pot.
+> czajonym	czaić:v2	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		pot.
+> czajonym	czaić:v2	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		pot.
+> czajonymi	czaić:v2	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		pot.
+> nieczająca	czaić:v2	pact:sg:nom.voc:f:imperf:neg		pot.
+> nieczającą	czaić:v2	pact:sg:acc.inst:f:imperf:neg		pot.
+> nieczające	czaić:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+> nieczające	czaić:v2	pact:sg:nom.acc.voc:n:imperf:neg		pot.
+> nieczającego	czaić:v2	pact:sg:acc:m1.m2:imperf:neg		pot.
+> nieczającego	czaić:v2	pact:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+> nieczającej	czaić:v2	pact:sg:gen.dat.loc:f:imperf:neg		pot.
+> nieczającemu	czaić:v2	pact:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+> nieczających	czaić:v2	pact:pl:acc:m1:imperf:neg		pot.
+> nieczających	czaić:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+> nieczający	czaić:v2	pact:pl:nom.voc:m1:imperf:neg		pot.
+> nieczający	czaić:v2	pact:sg:acc:m3:imperf:neg		pot.
+> nieczający	czaić:v2	pact:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+> nieczającym	czaić:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+> nieczającym	czaić:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
+> nieczającymi	czaić:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
+> nieczajeniach	czaić:v2	ger:pl:loc:n:imperf:neg		pot.
+> nieczajenia	czaić:v2	ger:pl:nom.acc:n:imperf:neg		pot.
+> nieczajenia	czaić:v2	ger:sg:gen:n:imperf:neg		pot.
+> nieczajeniami	czaić:v2	ger:pl:inst:n:imperf:neg		pot.
+> nieczajenie	czaić:v2	ger:sg:nom.acc:n:imperf:neg		pot.
+> nieczajeniem	czaić:v2	ger:sg:inst:n:imperf:neg		pot.
+> nieczajeniom	czaić:v2	ger:pl:dat:n:imperf:neg		pot.
+> nieczajeniu	czaić:v2	ger:sg:dat.loc:n:imperf:neg		pot.
+> nieczajeń	czaić:v2	ger:pl:gen:n:imperf:neg		pot.
+> nieczajona	czaić:v2	ppas:sg:nom.voc:f:imperf:neg		pot.
+> nieczajoną	czaić:v2	ppas:sg:acc.inst:f:imperf:neg		pot.
+> nieczajone	czaić:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+> nieczajone	czaić:v2	ppas:sg:nom.acc.voc:n:imperf:neg		pot.
+> nieczajonego	czaić:v2	ppas:sg:acc:m1.m2:imperf:neg		pot.
+> nieczajonego	czaić:v2	ppas:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+> nieczajonej	czaić:v2	ppas:sg:gen.dat.loc:f:imperf:neg		pot.
+> nieczajonemu	czaić:v2	ppas:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+> nieczajoni	czaić:v2	ppas:pl:nom.voc:m1:imperf:neg		pot.
+> nieczajonych	czaić:v2	ppas:pl:acc:m1:imperf:neg		pot.
+> nieczajonych	czaić:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+> nieczajony	czaić:v2	ppas:sg:acc:m3:imperf:neg		pot.
+> nieczajony	czaić:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+> nieczajonym	czaić:v2	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+> nieczajonym	czaić:v2	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
+> nieczajonymi	czaić:v2	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
+438041,438042d438123
+< dezintegrująca	dezintegrować	pact:sg:nom.voc:f:imperf:aff		
+< dezintegrującą	dezintegrować	pact:sg:acc.inst:f:imperf:aff		
+438044,438058d438124
+< dezintegrujące	dezintegrować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+< dezintegrujące	dezintegrować	pact:sg:nom.acc.voc:n:imperf:aff		
+< dezintegrującego	dezintegrować	pact:sg:acc:m1.m2:imperf:aff		
+< dezintegrującego	dezintegrować	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+< dezintegrującej	dezintegrować	pact:sg:gen.dat.loc:f:imperf:aff		
+< dezintegrującemu	dezintegrować	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+< dezintegrująco	dezintegrować	pacta		
+< dezintegrujących	dezintegrować	pact:pl:acc:m1:imperf:aff		
+< dezintegrujących	dezintegrować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+< dezintegrujący	dezintegrować	pact:pl:nom.voc:m1:imperf:aff		
+< dezintegrujący	dezintegrować	pact:sg:acc:m3:imperf:aff		
+< dezintegrujący	dezintegrować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+< dezintegrującym	dezintegrować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+< dezintegrującym	dezintegrować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+< dezintegrującymi	dezintegrować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+438093,438108d438158
+< niedezintegrująca	dezintegrować	pact:sg:nom.voc:f:imperf:neg		
+< niedezintegrującą	dezintegrować	pact:sg:acc.inst:f:imperf:neg		
+< niedezintegrujące	dezintegrować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+< niedezintegrujące	dezintegrować	pact:sg:nom.acc.voc:n:imperf:neg		
+< niedezintegrującego	dezintegrować	pact:sg:acc:m1.m2:imperf:neg		
+< niedezintegrującego	dezintegrować	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+< niedezintegrującej	dezintegrować	pact:sg:gen.dat.loc:f:imperf:neg		
+< niedezintegrującemu	dezintegrować	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+< niedezintegrujących	dezintegrować	pact:pl:acc:m1:imperf:neg		
+< niedezintegrujących	dezintegrować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+< niedezintegrujący	dezintegrować	pact:pl:nom.voc:m1:imperf:neg		
+< niedezintegrujący	dezintegrować	pact:sg:acc:m3:imperf:neg		
+< niedezintegrujący	dezintegrować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+< niedezintegrującym	dezintegrować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+< niedezintegrującym	dezintegrować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+< niedezintegrującymi	dezintegrować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+444482a444533,444534
+> diesel	diesel	subst:sg:nom:m2	nazwa pospolita	
+> dieslach	diesel	subst:pl:loc:m2	nazwa pospolita	
+444483a444536
+> diesla	diesel	subst:sg:gen.acc:m2	nazwa pospolita	
+444484a444538
+> dieslami	diesel	subst:pl:inst:m2	nazwa pospolita	
+444485a444540
+> diesle	diesel	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+444486a444542
+> dieslem	diesel	subst:sg:inst:m2	nazwa pospolita	
+444487a444544
+> diesli	diesel	subst:pl:gen:m2	nazwa pospolita	
+444488a444546
+> dieslom	diesel	subst:pl:dat:m2	nazwa pospolita	
+444489a444548
+> dieslowi	diesel	subst:sg:dat:m2	nazwa pospolita	
+444490a444550
+> dieslu	diesel	subst:sg:loc:m2	nazwa pospolita	
+444491a444552
+> dieslu	diesel	subst:sg:voc:m2	nazwa pospolita	
+472930a472992,473121
+> doinstalowująca	doinstalowywać	pact:sg:nom.voc:f:imperf:aff		
+> doinstalowującą	doinstalowywać	pact:sg:acc.inst:f:imperf:aff		
+> doinstalowując	doinstalowywać	pcon:imperf		
+> doinstalowujące	doinstalowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> doinstalowujące	doinstalowywać	pact:sg:nom.acc.voc:n:imperf:aff		
+> doinstalowującego	doinstalowywać	pact:sg:acc:m1.m2:imperf:aff		
+> doinstalowującego	doinstalowywać	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> doinstalowującej	doinstalowywać	pact:sg:gen.dat.loc:f:imperf:aff		
+> doinstalowującemu	doinstalowywać	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> doinstalowująco	doinstalowywać	pacta		
+> doinstalowujących	doinstalowywać	pact:pl:acc:m1:imperf:aff		
+> doinstalowujących	doinstalowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> doinstalowujący	doinstalowywać	pact:pl:nom.voc:m1:imperf:aff		
+> doinstalowujący	doinstalowywać	pact:sg:acc:m3:imperf:aff		
+> doinstalowujący	doinstalowywać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> doinstalowującym	doinstalowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> doinstalowującym	doinstalowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> doinstalowującymi	doinstalowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> doinstalowują	doinstalowywać	fin:pl:ter:imperf		
+> doinstalowujcie	doinstalowywać	impt:pl:sec:imperf		
+> doinstalowuj	doinstalowywać	impt:sg:sec:imperf		
+> doinstalowujecie	doinstalowywać	fin:pl:sec:imperf		
+> doinstalowuje	doinstalowywać	fin:sg:ter:imperf		
+> doinstalowujemy	doinstalowywać	fin:pl:pri:imperf		
+> doinstalowujesz	doinstalowywać	fin:sg:sec:imperf		
+> doinstalowuję	doinstalowywać	fin:sg:pri:imperf		
+> doinstalowujmy	doinstalowywać	impt:pl:pri:imperf		
+> doinstalowywać	doinstalowywać	inf:imperf		
+> doinstalowywaliby	doinstalowywać	cond:pl:m1:ter:imperf		
+> doinstalowywalibyście	doinstalowywać	cond:pl:m1:sec:imperf		
+> doinstalowywalibyśmy	doinstalowywać	cond:pl:m1:pri:imperf		
+> doinstalowywali	doinstalowywać	praet:pl:m1:imperf		
+> doinstalowywali	doinstalowywać	praet:pl:m1:ter:imperf		
+> doinstalowywaliście	doinstalowywać	praet:pl:m1:sec:imperf		
+> doinstalowywaliśmy	doinstalowywać	praet:pl:m1:pri:imperf		
+> doinstalowywałaby	doinstalowywać	cond:sg:f:ter:imperf		
+> doinstalowywałabym	doinstalowywać	cond:sg:f:pri:imperf		
+> doinstalowywałabyś	doinstalowywać	cond:sg:f:sec:imperf		
+> doinstalowywała	doinstalowywać	praet:sg:f:imperf		
+> doinstalowywała	doinstalowywać	praet:sg:f:ter:imperf		
+> doinstalowywałam	doinstalowywać	praet:sg:f:pri:imperf		
+> doinstalowywałaś	doinstalowywać	praet:sg:f:sec:imperf		
+> doinstalowywałby	doinstalowywać	cond:sg:m1.m2.m3:ter:imperf		
+> doinstalowywałbym	doinstalowywać	cond:sg:m1.m2.m3:pri:imperf		
+> doinstalowywałbyś	doinstalowywać	cond:sg:m1.m2.m3:sec:imperf		
+> doinstalowywał	doinstalowywać	praet:sg:m1.m2.m3:imperf		
+> doinstalowywał	doinstalowywać	praet:sg:m1.m2.m3:ter:imperf		
+> doinstalowywałem	doinstalowywać	praet:sg:m1.m2.m3:pri:imperf		
+> doinstalowywałeś	doinstalowywać	praet:sg:m1.m2.m3:sec:imperf		
+> doinstalowywałoby	doinstalowywać	cond:sg:n:ter:imperf		
+> doinstalowywałobym	doinstalowywać	cond:sg:n:pri:imperf		
+> doinstalowywałobyś	doinstalowywać	cond:sg:n:sec:imperf		
+> doinstalowywało	doinstalowywać	praet:sg:n:imperf		
+> doinstalowywało	doinstalowywać	praet:sg:n:ter:imperf		
+> doinstalowywałom	doinstalowywać	praet:sg:n:pri:imperf		
+> doinstalowywałoś	doinstalowywać	praet:sg:n:sec:imperf		
+> doinstalowywałyby	doinstalowywać	cond:pl:m2.m3.f.n:ter:imperf		
+> doinstalowywałybyście	doinstalowywać	cond:pl:m2.m3.f.n:sec:imperf		
+> doinstalowywałybyśmy	doinstalowywać	cond:pl:m2.m3.f.n:pri:imperf		
+> doinstalowywały	doinstalowywać	praet:pl:m2.m3.f.n:imperf		
+> doinstalowywały	doinstalowywać	praet:pl:m2.m3.f.n:ter:imperf		
+> doinstalowywałyście	doinstalowywać	praet:pl:m2.m3.f.n:sec:imperf		
+> doinstalowywałyśmy	doinstalowywać	praet:pl:m2.m3.f.n:pri:imperf		
+> doinstalowywana	doinstalowywać	ppas:sg:nom.voc:f:imperf:aff		
+> doinstalowywaną	doinstalowywać	ppas:sg:acc.inst:f:imperf:aff		
+> doinstalowywane	doinstalowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> doinstalowywane	doinstalowywać	ppas:sg:nom.acc.voc:n:imperf:aff		
+> doinstalowywanego	doinstalowywać	ppas:sg:acc:m1.m2:imperf:aff		
+> doinstalowywanego	doinstalowywać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> doinstalowywanej	doinstalowywać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> doinstalowywanemu	doinstalowywać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> doinstalowywaniach	doinstalowywać	ger:pl:loc:n:imperf:aff		
+> doinstalowywania	doinstalowywać	ger:pl:nom.acc:n:imperf:aff		
+> doinstalowywania	doinstalowywać	ger:sg:gen:n:imperf:aff		
+> doinstalowywaniami	doinstalowywać	ger:pl:inst:n:imperf:aff		
+> doinstalowywani	doinstalowywać	ppas:pl:nom.voc:m1:imperf:aff		
+> doinstalowywanie	doinstalowywać	ger:sg:nom.acc:n:imperf:aff		
+> doinstalowywaniem	doinstalowywać	ger:sg:inst:n:imperf:aff		
+> doinstalowywaniom	doinstalowywać	ger:pl:dat:n:imperf:aff		
+> doinstalowywaniu	doinstalowywać	ger:sg:dat.loc:n:imperf:aff		
+> doinstalowywano	doinstalowywać	imps:imperf		
+> doinstalowywanych	doinstalowywać	ppas:pl:acc:m1:imperf:aff		
+> doinstalowywanych	doinstalowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> doinstalowywany	doinstalowywać	ppas:sg:acc:m3:imperf:aff		
+> doinstalowywany	doinstalowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> doinstalowywanym	doinstalowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> doinstalowywanym	doinstalowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> doinstalowywanymi	doinstalowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> doinstalowywań	doinstalowywać	ger:pl:gen:n:imperf:aff		
+> niedoinstalowująca	doinstalowywać	pact:sg:nom.voc:f:imperf:neg		
+> niedoinstalowującą	doinstalowywać	pact:sg:acc.inst:f:imperf:neg		
+> niedoinstalowujące	doinstalowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niedoinstalowujące	doinstalowywać	pact:sg:nom.acc.voc:n:imperf:neg		
+> niedoinstalowującego	doinstalowywać	pact:sg:acc:m1.m2:imperf:neg		
+> niedoinstalowującego	doinstalowywać	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> niedoinstalowującej	doinstalowywać	pact:sg:gen.dat.loc:f:imperf:neg		
+> niedoinstalowującemu	doinstalowywać	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> niedoinstalowujących	doinstalowywać	pact:pl:acc:m1:imperf:neg		
+> niedoinstalowujących	doinstalowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niedoinstalowujący	doinstalowywać	pact:pl:nom.voc:m1:imperf:neg		
+> niedoinstalowujący	doinstalowywać	pact:sg:acc:m3:imperf:neg		
+> niedoinstalowujący	doinstalowywać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niedoinstalowującym	doinstalowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niedoinstalowującym	doinstalowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niedoinstalowującymi	doinstalowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niedoinstalowywana	doinstalowywać	ppas:sg:nom.voc:f:imperf:neg		
+> niedoinstalowywaną	doinstalowywać	ppas:sg:acc.inst:f:imperf:neg		
+> niedoinstalowywane	doinstalowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niedoinstalowywane	doinstalowywać	ppas:sg:nom.acc.voc:n:imperf:neg		
+> niedoinstalowywanego	doinstalowywać	ppas:sg:acc:m1.m2:imperf:neg		
+> niedoinstalowywanego	doinstalowywać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> niedoinstalowywanej	doinstalowywać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> niedoinstalowywanemu	doinstalowywać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> niedoinstalowywaniach	doinstalowywać	ger:pl:loc:n:imperf:neg		
+> niedoinstalowywania	doinstalowywać	ger:pl:nom.acc:n:imperf:neg		
+> niedoinstalowywania	doinstalowywać	ger:sg:gen:n:imperf:neg		
+> niedoinstalowywaniami	doinstalowywać	ger:pl:inst:n:imperf:neg		
+> niedoinstalowywani	doinstalowywać	ppas:pl:nom.voc:m1:imperf:neg		
+> niedoinstalowywanie	doinstalowywać	ger:sg:nom.acc:n:imperf:neg		
+> niedoinstalowywaniem	doinstalowywać	ger:sg:inst:n:imperf:neg		
+> niedoinstalowywaniom	doinstalowywać	ger:pl:dat:n:imperf:neg		
+> niedoinstalowywaniu	doinstalowywać	ger:sg:dat.loc:n:imperf:neg		
+> niedoinstalowywanych	doinstalowywać	ppas:pl:acc:m1:imperf:neg		
+> niedoinstalowywanych	doinstalowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niedoinstalowywany	doinstalowywać	ppas:sg:acc:m3:imperf:neg		
+> niedoinstalowywany	doinstalowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niedoinstalowywanym	doinstalowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niedoinstalowywanym	doinstalowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niedoinstalowywanymi	doinstalowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niedoinstalowywań	doinstalowywać	ger:pl:gen:n:imperf:neg		
+607526d607716
+< Dyzi	Dyź	subst:pl:gen.acc:m1	imię	
+607528d607717
+< Dyzie	Dyź	subst:pl:nom.voc:m1	imię	
+607531a607721,607722
+> Dyziowie	Dyź	subst:pl:nom.voc:m1	imię	
+> Dyziów	Dyź	subst:pl:gen.acc:m1	imię	
+828648,828659c828839,828850
+< Gribojedowach	Gribojedow	subst:pl:loc:m1	nazwisko	
+< Gribojedowa	Gribojedow	subst:sg:gen.acc:m1	nazwisko	
+< Gribojedowami	Gribojedow	subst:pl:inst:m1	nazwisko	
+< Gribojedowem	Gribojedow	subst:sg:inst:m1	nazwisko	
+< Gribojedow	Gribojedow	subst:sg:nom:m1	nazwisko	
+< Gribojedowie	Gribojedow	subst:sg:loc:m1	nazwisko	
+< Gribojedowie	Gribojedow	subst:sg:voc:m1	nazwisko	
+< Gribojedowom	Gribojedow	subst:pl:dat:m1	nazwisko	
+< Gribojedowowie	Gribojedow	subst:pl:nom.voc:m1	nazwisko	
+< Gribojedowowi	Gribojedow	subst:sg:dat:m1	nazwisko	
+< Gribojedowów	Gribojedow	subst:pl:gen.acc:m1	nazwisko	
+< Gribojedowy	Gribojedow	depr:pl:nom.acc.voc:m2	nazwisko	
+---
+> Gribojedowach	Gribojedow	subst:pl:loc:m1	imię	
+> Gribojedowa	Gribojedow	subst:sg:gen.acc:m1	imię	
+> Gribojedowami	Gribojedow	subst:pl:inst:m1	imię	
+> Gribojedowem	Gribojedow	subst:sg:inst:m1	imię	
+> Gribojedow	Gribojedow	subst:sg:nom:m1	imię	
+> Gribojedowie	Gribojedow	subst:sg:loc:m1	imię	
+> Gribojedowie	Gribojedow	subst:sg:voc:m1	imię	
+> Gribojedowom	Gribojedow	subst:pl:dat:m1	imię	
+> Gribojedowowie	Gribojedow	subst:pl:nom.voc:m1	imię	
+> Gribojedowowi	Gribojedow	subst:sg:dat:m1	imię	
+> Gribojedowów	Gribojedow	subst:pl:gen.acc:m1	imię	
+> Gribojedowy	Gribojedow	depr:pl:nom.acc.voc:m2	imię	
+919875,919885c920066,920076
+< impeachmencie	impeachment	subst:sg:loc:m3	nazwa pospolita	
+< impeachmencie	impeachment	subst:sg:voc:m3	nazwa pospolita	
+< impeachmentach	impeachment	subst:pl:loc:m3	nazwa pospolita	
+< impeachmentami	impeachment	subst:pl:inst:m3	nazwa pospolita	
+< impeachmentem	impeachment	subst:sg:inst:m3	nazwa pospolita	
+< impeachment	impeachment	subst:sg:nom.acc:m3	nazwa pospolita	
+< impeachmentom	impeachment	subst:pl:dat:m3	nazwa pospolita	
+< impeachmentowi	impeachment	subst:sg:dat:m3	nazwa pospolita	
+< impeachmentów	impeachment	subst:pl:gen:m3	nazwa pospolita	
+< impeachmentu	impeachment	subst:sg:gen:m3	nazwa pospolita	
+< impeachmenty	impeachment	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+---
+> impeachmencie	impeachment	subst:sg:loc:m3	nazwa pospolita	praw.
+> impeachmencie	impeachment	subst:sg:voc:m3	nazwa pospolita	praw.
+> impeachmentach	impeachment	subst:pl:loc:m3	nazwa pospolita	praw.
+> impeachmentami	impeachment	subst:pl:inst:m3	nazwa pospolita	praw.
+> impeachmentem	impeachment	subst:sg:inst:m3	nazwa pospolita	praw.
+> impeachment	impeachment	subst:sg:nom.acc:m3	nazwa pospolita	praw.
+> impeachmentom	impeachment	subst:pl:dat:m3	nazwa pospolita	praw.
+> impeachmentowi	impeachment	subst:sg:dat:m3	nazwa pospolita	praw.
+> impeachmentów	impeachment	subst:pl:gen:m3	nazwa pospolita	praw.
+> impeachmentu	impeachment	subst:sg:gen:m3	nazwa pospolita	praw.
+> impeachmenty	impeachment	subst:pl:nom.acc.voc:m3	nazwa pospolita	praw.
+965288,965335c965479,965526
+< Jantek	Jantek	subst:sg:nom:m1	imię	
+< Jantkach	Jantek	subst:pl:loc:m1	imię	
+< Jantka	Jantek	subst:sg:gen.acc:m1	imię	
+< Jantkami	Jantek	subst:pl:inst:m1	imię	
+< Jantkiem	Jantek	subst:sg:inst:m1	imię	
+< Jantki	Jantek	depr:pl:nom.acc.voc:m2	imię	
+< Jantkom	Jantek	subst:pl:dat:m1	imię	
+< Jantkowie	Jantek	subst:pl:nom.voc:m1	imię	
+< Jantkowi	Jantek	subst:sg:dat:m1	imię	
+< Jantków	Jantek	subst:pl:gen.acc:m1	imię	
+< Jantku	Jantek	subst:sg:loc:m1	imię	
+< Jantku	Jantek	subst:sg:voc:m1	imię	
+< Jantosiach	Jantosia	subst:pl:loc:f	imię	
+< Jantosia	Jantosia	subst:sg:nom:f	imię	
+< Jantosiami	Jantosia	subst:pl:inst:f	imię	
+< Jantosią	Jantosia	subst:sg:inst:f	imię	
+< Jantosie	Jantosia	subst:pl:nom.acc.voc:f	imię	
+< Jantosię	Jantosia	subst:sg:acc:f	imię	
+< Jantosi	Jantosia	subst:pl:gen:f	imię	hom.|rzad.
+< Jantosi	Jantosia	subst:sg:dat.loc:f	imię	
+< Jantosi	Jantosia	subst:sg:gen:f	imię	
+< Jantosiom	Jantosia	subst:pl:dat:f	imię	
+< Jantosiu	Jantosia	subst:sg:voc:f	imię	
+< Jantoś	Jantosia	subst:pl:gen:f	imię	char.
+< Jantosiek	Jantośka	subst:pl:gen:f	imię	
+< Jantośce	Jantośka	subst:sg:dat.loc:f	imię	
+< Jantośkach	Jantośka	subst:pl:loc:f	imię	
+< Jantośka	Jantośka	subst:sg:nom:f	imię	
+< Jantośkami	Jantośka	subst:pl:inst:f	imię	
+< Jantośką	Jantośka	subst:sg:inst:f	imię	
+< Jantośkę	Jantośka	subst:sg:acc:f	imię	
+< Jantośki	Jantośka	subst:pl:nom.acc.voc:f	imię	
+< Jantośki	Jantośka	subst:sg:gen:f	imię	
+< Jantośko	Jantośka	subst:sg:voc:f	imię	
+< Jantośkom	Jantośka	subst:pl:dat:f	imię	
+< Jantusiach	Jantuś	subst:pl:loc:m1	imię	
+< Jantusia	Jantuś	subst:sg:gen.acc:m1	imię	
+< Jantusiami	Jantuś	subst:pl:inst:m1	imię	
+< Jantusie	Jantuś	depr:pl:nom.acc.voc:m2	imię	
+< Jantusie	Jantuś	subst:pl:nom.voc:m1	imię	
+< Jantusiem	Jantuś	subst:sg:inst:m1	imię	
+< Jantusiom	Jantuś	subst:pl:dat:m1	imię	
+< Jantusiowie	Jantuś	subst:pl:nom.voc:m1	imię	
+< Jantusiowi	Jantuś	subst:sg:dat:m1	imię	
+< Jantusiów	Jantuś	subst:pl:gen.acc:m1	imię	
+< Jantusiu	Jantuś	subst:sg:loc:m1	imię	
+< Jantusiu	Jantuś	subst:sg:voc:m1	imię	
+< Jantuś	Jantuś	subst:sg:nom:m1	imię	
+---
+> Jantek	Jantek	subst:sg:nom:m1	imię	gwar.
+> Jantkach	Jantek	subst:pl:loc:m1	imię	gwar.
+> Jantka	Jantek	subst:sg:gen.acc:m1	imię	gwar.
+> Jantkami	Jantek	subst:pl:inst:m1	imię	gwar.
+> Jantkiem	Jantek	subst:sg:inst:m1	imię	gwar.
+> Jantki	Jantek	depr:pl:nom.acc.voc:m2	imię	gwar.
+> Jantkom	Jantek	subst:pl:dat:m1	imię	gwar.
+> Jantkowie	Jantek	subst:pl:nom.voc:m1	imię	gwar.
+> Jantkowi	Jantek	subst:sg:dat:m1	imię	gwar.
+> Jantków	Jantek	subst:pl:gen.acc:m1	imię	gwar.
+> Jantku	Jantek	subst:sg:loc:m1	imię	gwar.
+> Jantku	Jantek	subst:sg:voc:m1	imię	gwar.
+> Jantosiach	Jantosia	subst:pl:loc:f	imię	gwar.
+> Jantosia	Jantosia	subst:sg:nom:f	imię	gwar.
+> Jantosiami	Jantosia	subst:pl:inst:f	imię	gwar.
+> Jantosią	Jantosia	subst:sg:inst:f	imię	gwar.
+> Jantosie	Jantosia	subst:pl:nom.acc.voc:f	imię	gwar.
+> Jantosię	Jantosia	subst:sg:acc:f	imię	gwar.
+> Jantosi	Jantosia	subst:pl:gen:f	imię	hom.|gwar.|rzad.
+> Jantosi	Jantosia	subst:sg:dat.loc:f	imię	gwar.
+> Jantosi	Jantosia	subst:sg:gen:f	imię	gwar.
+> Jantosiom	Jantosia	subst:pl:dat:f	imię	gwar.
+> Jantosiu	Jantosia	subst:sg:voc:f	imię	gwar.
+> Jantoś	Jantosia	subst:pl:gen:f	imię	char.|gwar.
+> Jantosiek	Jantośka	subst:pl:gen:f	imię	gwar.
+> Jantośce	Jantośka	subst:sg:dat.loc:f	imię	gwar.
+> Jantośkach	Jantośka	subst:pl:loc:f	imię	gwar.
+> Jantośka	Jantośka	subst:sg:nom:f	imię	gwar.
+> Jantośkami	Jantośka	subst:pl:inst:f	imię	gwar.
+> Jantośką	Jantośka	subst:sg:inst:f	imię	gwar.
+> Jantośkę	Jantośka	subst:sg:acc:f	imię	gwar.
+> Jantośki	Jantośka	subst:pl:nom.acc.voc:f	imię	gwar.
+> Jantośki	Jantośka	subst:sg:gen:f	imię	gwar.
+> Jantośko	Jantośka	subst:sg:voc:f	imię	gwar.
+> Jantośkom	Jantośka	subst:pl:dat:f	imię	gwar.
+> Jantusiach	Jantuś	subst:pl:loc:m1	imię	gwar.
+> Jantusia	Jantuś	subst:sg:gen.acc:m1	imię	gwar.
+> Jantusiami	Jantuś	subst:pl:inst:m1	imię	gwar.
+> Jantusie	Jantuś	depr:pl:nom.acc.voc:m2	imię	gwar.
+> Jantusie	Jantuś	subst:pl:nom.voc:m1	imię	gwar.
+> Jantusiem	Jantuś	subst:sg:inst:m1	imię	gwar.
+> Jantusiom	Jantuś	subst:pl:dat:m1	imię	gwar.
+> Jantusiowie	Jantuś	subst:pl:nom.voc:m1	imię	gwar.
+> Jantusiowi	Jantuś	subst:sg:dat:m1	imię	gwar.
+> Jantusiów	Jantuś	subst:pl:gen.acc:m1	imię	gwar.
+> Jantusiu	Jantuś	subst:sg:loc:m1	imię	gwar.
+> Jantusiu	Jantuś	subst:sg:voc:m1	imię	gwar.
+> Jantuś	Jantuś	subst:sg:nom:m1	imię	gwar.
+1176000a1176192
+> Korsykan	Korsykanin	subst:pl:gen.acc:m1	nazwa pospolita	
+1332505a1332698
+> luteran	luteranin	subst:pl:gen.acc:m1	nazwa pospolita	
+1421658,1421669d1421850
+< meksykanach	meksykanin	subst:pl:loc:m1	nazwa pospolita	
+< meksykanami	meksykanin	subst:pl:inst:m1	nazwa pospolita	
+< meksykanie	meksykanin	subst:pl:nom.voc:m1	nazwa pospolita	
+< meksykanina	meksykanin	subst:sg:gen.acc:m1	nazwa pospolita	
+< meksykaninem	meksykanin	subst:sg:inst:m1	nazwa pospolita	
+< meksykaninie	meksykanin	subst:sg:loc:m1	nazwa pospolita	
+< meksykaninie	meksykanin	subst:sg:voc:m1	nazwa pospolita	
+< meksykanin	meksykanin	subst:sg:nom:m1	nazwa pospolita	
+< meksykaninowi	meksykanin	subst:sg:dat:m1	nazwa pospolita	
+< meksykanom	meksykanin	subst:pl:dat:m1	nazwa pospolita	
+< meksykanów	meksykanin	subst:pl:gen.acc:m1	nazwa pospolita	
+< meksykany	meksykanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+1421670a1421852
+> Meksykanach	Meksykanin	subst:pl:loc:m1	nazwa pospolita	rzad.
+1421671a1421854
+> Meksykanami	Meksykanin	subst:pl:inst:m1	nazwa pospolita	rzad.
+1421672a1421856
+> Meksykanie	Meksykanin	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+1421673a1421858
+> Meksykanina	Meksykanin	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
+1421674a1421860
+> Meksykaninem	Meksykanin	subst:sg:inst:m1	nazwa pospolita	rzad.
+1421675a1421862
+> Meksykaninie	Meksykanin	subst:sg:loc:m1	nazwa pospolita	rzad.
+1421676a1421864
+> Meksykaninie	Meksykanin	subst:sg:voc:m1	nazwa pospolita	rzad.
+1421677a1421866
+> Meksykanin	Meksykanin	subst:sg:nom:m1	nazwa pospolita	rzad.
+1421678a1421868,1421869
+> Meksykaninowi	Meksykanin	subst:sg:dat:m1	nazwa pospolita	rzad.
+> Meksykan	Meksykanin	subst:pl:gen.acc:m1	nazwa pospolita	rzad.
+1421679a1421871
+> Meksykanom	Meksykanin	subst:pl:dat:m1	nazwa pospolita	rzad.
+1421681a1421874
+> Meksykany	Meksykanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
+1578599a1578793
+> nadwiślanach	nadwiślanin	subst:pl:loc:m1	nazwa pospolita	przest.|daw.
+1578600a1578795
+> nadwiślanami	nadwiślanin	subst:pl:inst:m1	nazwa pospolita	przest.|daw.
+1578601a1578797
+> nadwiślanie	nadwiślanin	subst:pl:nom.voc:m1	nazwa pospolita	przest.|daw.
+1578602a1578799
+> nadwiślanina	nadwiślanin	subst:sg:gen.acc:m1	nazwa pospolita	przest.|daw.
+1578603a1578801
+> nadwiślaninem	nadwiślanin	subst:sg:inst:m1	nazwa pospolita	przest.|daw.
+1578604a1578803
+> nadwiślaninie	nadwiślanin	subst:sg:loc:m1	nazwa pospolita	przest.|daw.
+1578605a1578805
+> nadwiślaninie	nadwiślanin	subst:sg:voc:m1	nazwa pospolita	przest.|daw.
+1578606a1578807
+> nadwiślanin	nadwiślanin	subst:sg:nom:m1	nazwa pospolita	przest.|daw.
+1578607a1578809
+> nadwiślaninowi	nadwiślanin	subst:sg:dat:m1	nazwa pospolita	przest.|daw.
+1578609a1578812,1578813
+> nadwiślanom	nadwiślanin	subst:pl:dat:m1	nazwa pospolita	przest.|daw.
+> nadwiślanów	nadwiślanin	subst:pl:gen.acc:m1	nazwa pospolita	przest.|daw.
+1578610a1578815
+> nadwiślany	nadwiślanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	przest.|daw.
+2993379a2993585,2993681
+> nieodbanowana	odbanować	ppas:sg:nom.voc:f:perf:neg		pot.|komp.
+> nieodbanowaną	odbanować	ppas:sg:acc.inst:f:perf:neg		pot.|komp.
+> nieodbanowanego	odbanować	ppas:sg:acc:m1.m2:perf:neg		pot.|komp.
+> nieodbanowanego	odbanować	ppas:sg:gen:m1.m2.m3.n:perf:neg		pot.|komp.
+> nieodbanowanej	odbanować	ppas:sg:gen.dat.loc:f:perf:neg		pot.|komp.
+> nieodbanowanemu	odbanować	ppas:sg:dat:m1.m2.m3.n:perf:neg		pot.|komp.
+> nieodbanowane	odbanować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		pot.|komp.
+> nieodbanowane	odbanować	ppas:sg:nom.acc.voc:n:perf:neg		pot.|komp.
+> nieodbanowaniach	odbanować	ger:pl:loc:n:perf:neg		pot.|komp.
+> nieodbanowaniami	odbanować	ger:pl:inst:n:perf:neg		pot.|komp.
+> nieodbanowania	odbanować	ger:pl:nom.acc:n:perf:neg		pot.|komp.
+> nieodbanowania	odbanować	ger:sg:gen:n:perf:neg		pot.|komp.
+> nieodbanowaniem	odbanować	ger:sg:inst:n:perf:neg		pot.|komp.
+> nieodbanowanie	odbanować	ger:sg:nom.acc:n:perf:neg		pot.|komp.
+> nieodbanowani	odbanować	ppas:pl:nom.voc:m1:perf:neg		pot.|komp.
+> nieodbanowaniom	odbanować	ger:pl:dat:n:perf:neg		pot.|komp.
+> nieodbanowaniu	odbanować	ger:sg:dat.loc:n:perf:neg		pot.|komp.
+> nieodbanowanych	odbanować	ppas:pl:acc:m1:perf:neg		pot.|komp.
+> nieodbanowanych	odbanować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		pot.|komp.
+> nieodbanowanymi	odbanować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		pot.|komp.
+> nieodbanowanym	odbanować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		pot.|komp.
+> nieodbanowanym	odbanować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		pot.|komp.
+> nieodbanowany	odbanować	ppas:sg:acc:m3:perf:neg		pot.|komp.
+> nieodbanowany	odbanować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		pot.|komp.
+> nieodbanowań	odbanować	ger:pl:gen:n:perf:neg		pot.|komp.
+> odbanować	odbanować	inf:perf		pot.|komp.
+> odbanowaliby	odbanować	cond:pl:m1:ter:perf		pot.|komp.
+> odbanowalibyście	odbanować	cond:pl:m1:sec:perf		pot.|komp.
+> odbanowalibyśmy	odbanować	cond:pl:m1:pri:perf		pot.|komp.
+> odbanowali	odbanować	praet:pl:m1:perf		pot.|komp.
+> odbanowali	odbanować	praet:pl:m1:ter:perf		pot.|komp.
+> odbanowaliście	odbanować	praet:pl:m1:sec:perf		pot.|komp.
+> odbanowaliśmy	odbanować	praet:pl:m1:pri:perf		pot.|komp.
+> odbanowałabym	odbanować	cond:sg:f:pri:perf		pot.|komp.
+> odbanowałaby	odbanować	cond:sg:f:ter:perf		pot.|komp.
+> odbanowałabyś	odbanować	cond:sg:f:sec:perf		pot.|komp.
+> odbanowałam	odbanować	praet:sg:f:pri:perf		pot.|komp.
+> odbanowała	odbanować	praet:sg:f:perf		pot.|komp.
+> odbanowała	odbanować	praet:sg:f:ter:perf		pot.|komp.
+> odbanowałaś	odbanować	praet:sg:f:sec:perf		pot.|komp.
+> odbanowałbym	odbanować	cond:sg:m1.m2.m3:pri:perf		pot.|komp.
+> odbanowałby	odbanować	cond:sg:m1.m2.m3:ter:perf		pot.|komp.
+> odbanowałbyś	odbanować	cond:sg:m1.m2.m3:sec:perf		pot.|komp.
+> odbanowałem	odbanować	praet:sg:m1.m2.m3:pri:perf		pot.|komp.
+> odbanowałeś	odbanować	praet:sg:m1.m2.m3:sec:perf		pot.|komp.
+> odbanowałobym	odbanować	cond:sg:n:pri:perf		pot.|komp.
+> odbanowałoby	odbanować	cond:sg:n:ter:perf		pot.|komp.
+> odbanowałobyś	odbanować	cond:sg:n:sec:perf		pot.|komp.
+> odbanował	odbanować	praet:sg:m1.m2.m3:perf		pot.|komp.
+> odbanował	odbanować	praet:sg:m1.m2.m3:ter:perf		pot.|komp.
+> odbanowałom	odbanować	praet:sg:n:pri:perf		pot.|komp.
+> odbanowało	odbanować	praet:sg:n:perf		pot.|komp.
+> odbanowało	odbanować	praet:sg:n:ter:perf		pot.|komp.
+> odbanowałoś	odbanować	praet:sg:n:sec:perf		pot.|komp.
+> odbanowałyby	odbanować	cond:pl:m2.m3.f.n:ter:perf		pot.|komp.
+> odbanowałybyście	odbanować	cond:pl:m2.m3.f.n:sec:perf		pot.|komp.
+> odbanowałybyśmy	odbanować	cond:pl:m2.m3.f.n:pri:perf		pot.|komp.
+> odbanowały	odbanować	praet:pl:m2.m3.f.n:perf		pot.|komp.
+> odbanowały	odbanować	praet:pl:m2.m3.f.n:ter:perf		pot.|komp.
+> odbanowałyście	odbanować	praet:pl:m2.m3.f.n:sec:perf		pot.|komp.
+> odbanowałyśmy	odbanować	praet:pl:m2.m3.f.n:pri:perf		pot.|komp.
+> odbanowana	odbanować	ppas:sg:nom.voc:f:perf:aff		pot.|komp.
+> odbanowaną	odbanować	ppas:sg:acc.inst:f:perf:aff		pot.|komp.
+> odbanowanego	odbanować	ppas:sg:acc:m1.m2:perf:aff		pot.|komp.
+> odbanowanego	odbanować	ppas:sg:gen:m1.m2.m3.n:perf:aff		pot.|komp.
+> odbanowanej	odbanować	ppas:sg:gen.dat.loc:f:perf:aff		pot.|komp.
+> odbanowanemu	odbanować	ppas:sg:dat:m1.m2.m3.n:perf:aff		pot.|komp.
+> odbanowane	odbanować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		pot.|komp.
+> odbanowane	odbanować	ppas:sg:nom.acc.voc:n:perf:aff		pot.|komp.
+> odbanowaniach	odbanować	ger:pl:loc:n:perf:aff		pot.|komp.
+> odbanowaniami	odbanować	ger:pl:inst:n:perf:aff		pot.|komp.
+> odbanowania	odbanować	ger:pl:nom.acc:n:perf:aff		pot.|komp.
+> odbanowania	odbanować	ger:sg:gen:n:perf:aff		pot.|komp.
+> odbanowaniem	odbanować	ger:sg:inst:n:perf:aff		pot.|komp.
+> odbanowanie	odbanować	ger:sg:nom.acc:n:perf:aff		pot.|komp.
+> odbanowani	odbanować	ppas:pl:nom.voc:m1:perf:aff		pot.|komp.
+> odbanowaniom	odbanować	ger:pl:dat:n:perf:aff		pot.|komp.
+> odbanowaniu	odbanować	ger:sg:dat.loc:n:perf:aff		pot.|komp.
+> odbanowano	odbanować	imps:perf		pot.|komp.
+> odbanowanych	odbanować	ppas:pl:acc:m1:perf:aff		pot.|komp.
+> odbanowanych	odbanować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		pot.|komp.
+> odbanowanymi	odbanować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		pot.|komp.
+> odbanowanym	odbanować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		pot.|komp.
+> odbanowanym	odbanować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		pot.|komp.
+> odbanowany	odbanować	ppas:sg:acc:m3:perf:aff		pot.|komp.
+> odbanowany	odbanować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		pot.|komp.
+> odbanowań	odbanować	ger:pl:gen:n:perf:aff		pot.|komp.
+> odbanowawszy	odbanować	pant:perf		pot.|komp.
+> odbanują	odbanować	fin:pl:ter:perf		pot.|komp.
+> odbanujcie	odbanować	impt:pl:sec:perf		pot.|komp.
+> odbanujecie	odbanować	fin:pl:sec:perf		pot.|komp.
+> odbanujemy	odbanować	fin:pl:pri:perf		pot.|komp.
+> odbanuje	odbanować	fin:sg:ter:perf		pot.|komp.
+> odbanujesz	odbanować	fin:sg:sec:perf		pot.|komp.
+> odbanuję	odbanować	fin:sg:pri:perf		pot.|komp.
+> odbanujmy	odbanować	impt:pl:pri:perf		pot.|komp.
+> odbanuj	odbanować	impt:sg:sec:perf		pot.|komp.
+3020599,3020695d3020900
+< nieodfiletowana	odfiletować	ppas:sg:nom.voc:f:perf:neg		
+< nieodfiletowaną	odfiletować	ppas:sg:acc.inst:f:perf:neg		
+< nieodfiletowanego	odfiletować	ppas:sg:acc:m1.m2:perf:neg		
+< nieodfiletowanego	odfiletować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+< nieodfiletowanej	odfiletować	ppas:sg:gen.dat.loc:f:perf:neg		
+< nieodfiletowanemu	odfiletować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+< nieodfiletowane	odfiletować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+< nieodfiletowane	odfiletować	ppas:sg:nom.acc.voc:n:perf:neg		
+< nieodfiletowaniach	odfiletować	ger:pl:loc:n:perf:neg		
+< nieodfiletowaniami	odfiletować	ger:pl:inst:n:perf:neg		
+< nieodfiletowania	odfiletować	ger:pl:nom.acc:n:perf:neg		
+< nieodfiletowania	odfiletować	ger:sg:gen:n:perf:neg		
+< nieodfiletowaniem	odfiletować	ger:sg:inst:n:perf:neg		
+< nieodfiletowanie	odfiletować	ger:sg:nom.acc:n:perf:neg		
+< nieodfiletowani	odfiletować	ppas:pl:nom.voc:m1:perf:neg		
+< nieodfiletowaniom	odfiletować	ger:pl:dat:n:perf:neg		
+< nieodfiletowaniu	odfiletować	ger:sg:dat.loc:n:perf:neg		
+< nieodfiletowanych	odfiletować	ppas:pl:acc:m1:perf:neg		
+< nieodfiletowanych	odfiletować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+< nieodfiletowanymi	odfiletować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+< nieodfiletowanym	odfiletować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+< nieodfiletowanym	odfiletować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+< nieodfiletowany	odfiletować	ppas:sg:acc:m3:perf:neg		
+< nieodfiletowany	odfiletować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+< nieodfiletowań	odfiletować	ger:pl:gen:n:perf:neg		
+< odfiletować	odfiletować	inf:perf		
+< odfiletowaliby	odfiletować	cond:pl:m1:ter:perf		
+< odfiletowalibyście	odfiletować	cond:pl:m1:sec:perf		
+< odfiletowalibyśmy	odfiletować	cond:pl:m1:pri:perf		
+< odfiletowali	odfiletować	praet:pl:m1:perf		
+< odfiletowali	odfiletować	praet:pl:m1:ter:perf		
+< odfiletowaliście	odfiletować	praet:pl:m1:sec:perf		
+< odfiletowaliśmy	odfiletować	praet:pl:m1:pri:perf		
+< odfiletowałabym	odfiletować	cond:sg:f:pri:perf		
+< odfiletowałaby	odfiletować	cond:sg:f:ter:perf		
+< odfiletowałabyś	odfiletować	cond:sg:f:sec:perf		
+< odfiletowałam	odfiletować	praet:sg:f:pri:perf		
+< odfiletowała	odfiletować	praet:sg:f:perf		
+< odfiletowała	odfiletować	praet:sg:f:ter:perf		
+< odfiletowałaś	odfiletować	praet:sg:f:sec:perf		
+< odfiletowałbym	odfiletować	cond:sg:m1.m2.m3:pri:perf		
+< odfiletowałby	odfiletować	cond:sg:m1.m2.m3:ter:perf		
+< odfiletowałbyś	odfiletować	cond:sg:m1.m2.m3:sec:perf		
+< odfiletowałem	odfiletować	praet:sg:m1.m2.m3:pri:perf		
+< odfiletowałeś	odfiletować	praet:sg:m1.m2.m3:sec:perf		
+< odfiletowałobym	odfiletować	cond:sg:n:pri:perf		
+< odfiletowałoby	odfiletować	cond:sg:n:ter:perf		
+< odfiletowałobyś	odfiletować	cond:sg:n:sec:perf		
+< odfiletował	odfiletować	praet:sg:m1.m2.m3:perf		
+< odfiletował	odfiletować	praet:sg:m1.m2.m3:ter:perf		
+< odfiletowałom	odfiletować	praet:sg:n:pri:perf		
+< odfiletowało	odfiletować	praet:sg:n:perf		
+< odfiletowało	odfiletować	praet:sg:n:ter:perf		
+< odfiletowałoś	odfiletować	praet:sg:n:sec:perf		
+< odfiletowałyby	odfiletować	cond:pl:m2.m3.f.n:ter:perf		
+< odfiletowałybyście	odfiletować	cond:pl:m2.m3.f.n:sec:perf		
+< odfiletowałybyśmy	odfiletować	cond:pl:m2.m3.f.n:pri:perf		
+< odfiletowały	odfiletować	praet:pl:m2.m3.f.n:perf		
+< odfiletowały	odfiletować	praet:pl:m2.m3.f.n:ter:perf		
+< odfiletowałyście	odfiletować	praet:pl:m2.m3.f.n:sec:perf		
+< odfiletowałyśmy	odfiletować	praet:pl:m2.m3.f.n:pri:perf		
+< odfiletowana	odfiletować	ppas:sg:nom.voc:f:perf:aff		
+< odfiletowaną	odfiletować	ppas:sg:acc.inst:f:perf:aff		
+< odfiletowanego	odfiletować	ppas:sg:acc:m1.m2:perf:aff		
+< odfiletowanego	odfiletować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+< odfiletowanej	odfiletować	ppas:sg:gen.dat.loc:f:perf:aff		
+< odfiletowanemu	odfiletować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+< odfiletowane	odfiletować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+< odfiletowane	odfiletować	ppas:sg:nom.acc.voc:n:perf:aff		
+< odfiletowaniach	odfiletować	ger:pl:loc:n:perf:aff		
+< odfiletowaniami	odfiletować	ger:pl:inst:n:perf:aff		
+< odfiletowania	odfiletować	ger:pl:nom.acc:n:perf:aff		
+< odfiletowania	odfiletować	ger:sg:gen:n:perf:aff		
+< odfiletowaniem	odfiletować	ger:sg:inst:n:perf:aff		
+< odfiletowanie	odfiletować	ger:sg:nom.acc:n:perf:aff		
+< odfiletowani	odfiletować	ppas:pl:nom.voc:m1:perf:aff		
+< odfiletowaniom	odfiletować	ger:pl:dat:n:perf:aff		
+< odfiletowaniu	odfiletować	ger:sg:dat.loc:n:perf:aff		
+< odfiletowano	odfiletować	imps:perf		
+< odfiletowanych	odfiletować	ppas:pl:acc:m1:perf:aff		
+< odfiletowanych	odfiletować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+< odfiletowanymi	odfiletować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+< odfiletowanym	odfiletować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+< odfiletowanym	odfiletować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+< odfiletowany	odfiletować	ppas:sg:acc:m3:perf:aff		
+< odfiletowany	odfiletować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+< odfiletowań	odfiletować	ger:pl:gen:n:perf:aff		
+< odfiletowawszy	odfiletować	pant:perf		
+< odfiletują	odfiletować	fin:pl:ter:perf		
+< odfiletujcie	odfiletować	impt:pl:sec:perf		
+< odfiletujecie	odfiletować	fin:pl:sec:perf		
+< odfiletujemy	odfiletować	fin:pl:pri:perf		
+< odfiletuje	odfiletować	fin:sg:ter:perf		
+< odfiletujesz	odfiletować	fin:sg:sec:perf		
+< odfiletuję	odfiletować	fin:sg:pri:perf		
+< odfiletujmy	odfiletować	impt:pl:pri:perf		
+< odfiletuj	odfiletować	impt:sg:sec:perf		
+3031357a3031563,3031789
+> nieodinstalowana	odinstalować	ppas:sg:nom.voc:f:perf:neg		
+> nieodinstalowaną	odinstalować	ppas:sg:acc.inst:f:perf:neg		
+> nieodinstalowanego	odinstalować	ppas:sg:acc:m1.m2:perf:neg		
+> nieodinstalowanego	odinstalować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> nieodinstalowanej	odinstalować	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieodinstalowanemu	odinstalować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> nieodinstalowane	odinstalować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> nieodinstalowane	odinstalować	ppas:sg:nom.acc.voc:n:perf:neg		
+> nieodinstalowaniach	odinstalować	ger:pl:loc:n:perf:neg		
+> nieodinstalowaniami	odinstalować	ger:pl:inst:n:perf:neg		
+> nieodinstalowania	odinstalować	ger:pl:nom.acc:n:perf:neg		
+> nieodinstalowania	odinstalować	ger:sg:gen:n:perf:neg		
+> nieodinstalowaniem	odinstalować	ger:sg:inst:n:perf:neg		
+> nieodinstalowanie	odinstalować	ger:sg:nom.acc:n:perf:neg		
+> nieodinstalowani	odinstalować	ppas:pl:nom.voc:m1:perf:neg		
+> nieodinstalowaniom	odinstalować	ger:pl:dat:n:perf:neg		
+> nieodinstalowaniu	odinstalować	ger:sg:dat.loc:n:perf:neg		
+> nieodinstalowanych	odinstalować	ppas:pl:acc:m1:perf:neg		
+> nieodinstalowanych	odinstalować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> nieodinstalowanymi	odinstalować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> nieodinstalowanym	odinstalować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> nieodinstalowanym	odinstalować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> nieodinstalowany	odinstalować	ppas:sg:acc:m3:perf:neg		
+> nieodinstalowany	odinstalować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nieodinstalowań	odinstalować	ger:pl:gen:n:perf:neg		
+> odinstalować	odinstalować	inf:perf		
+> odinstalowaliby	odinstalować	cond:pl:m1:ter:perf		
+> odinstalowalibyście	odinstalować	cond:pl:m1:sec:perf		
+> odinstalowalibyśmy	odinstalować	cond:pl:m1:pri:perf		
+> odinstalowali	odinstalować	praet:pl:m1:perf		
+> odinstalowali	odinstalować	praet:pl:m1:ter:perf		
+> odinstalowaliście	odinstalować	praet:pl:m1:sec:perf		
+> odinstalowaliśmy	odinstalować	praet:pl:m1:pri:perf		
+> odinstalowałabym	odinstalować	cond:sg:f:pri:perf		
+> odinstalowałaby	odinstalować	cond:sg:f:ter:perf		
+> odinstalowałabyś	odinstalować	cond:sg:f:sec:perf		
+> odinstalowałam	odinstalować	praet:sg:f:pri:perf		
+> odinstalowała	odinstalować	praet:sg:f:perf		
+> odinstalowała	odinstalować	praet:sg:f:ter:perf		
+> odinstalowałaś	odinstalować	praet:sg:f:sec:perf		
+> odinstalowałbym	odinstalować	cond:sg:m1.m2.m3:pri:perf		
+> odinstalowałby	odinstalować	cond:sg:m1.m2.m3:ter:perf		
+> odinstalowałbyś	odinstalować	cond:sg:m1.m2.m3:sec:perf		
+> odinstalowałem	odinstalować	praet:sg:m1.m2.m3:pri:perf		
+> odinstalowałeś	odinstalować	praet:sg:m1.m2.m3:sec:perf		
+> odinstalowałobym	odinstalować	cond:sg:n:pri:perf		
+> odinstalowałoby	odinstalować	cond:sg:n:ter:perf		
+> odinstalowałobyś	odinstalować	cond:sg:n:sec:perf		
+> odinstalował	odinstalować	praet:sg:m1.m2.m3:perf		
+> odinstalował	odinstalować	praet:sg:m1.m2.m3:ter:perf		
+> odinstalowałom	odinstalować	praet:sg:n:pri:perf		
+> odinstalowało	odinstalować	praet:sg:n:perf		
+> odinstalowało	odinstalować	praet:sg:n:ter:perf		
+> odinstalowałoś	odinstalować	praet:sg:n:sec:perf		
+> odinstalowałyby	odinstalować	cond:pl:m2.m3.f.n:ter:perf		
+> odinstalowałybyście	odinstalować	cond:pl:m2.m3.f.n:sec:perf		
+> odinstalowałybyśmy	odinstalować	cond:pl:m2.m3.f.n:pri:perf		
+> odinstalowały	odinstalować	praet:pl:m2.m3.f.n:perf		
+> odinstalowały	odinstalować	praet:pl:m2.m3.f.n:ter:perf		
+> odinstalowałyście	odinstalować	praet:pl:m2.m3.f.n:sec:perf		
+> odinstalowałyśmy	odinstalować	praet:pl:m2.m3.f.n:pri:perf		
+> odinstalowana	odinstalować	ppas:sg:nom.voc:f:perf:aff		
+> odinstalowaną	odinstalować	ppas:sg:acc.inst:f:perf:aff		
+> odinstalowanego	odinstalować	ppas:sg:acc:m1.m2:perf:aff		
+> odinstalowanego	odinstalować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> odinstalowanej	odinstalować	ppas:sg:gen.dat.loc:f:perf:aff		
+> odinstalowanemu	odinstalować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> odinstalowane	odinstalować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> odinstalowane	odinstalować	ppas:sg:nom.acc.voc:n:perf:aff		
+> odinstalowaniach	odinstalować	ger:pl:loc:n:perf:aff		
+> odinstalowaniami	odinstalować	ger:pl:inst:n:perf:aff		
+> odinstalowania	odinstalować	ger:pl:nom.acc:n:perf:aff		
+> odinstalowania	odinstalować	ger:sg:gen:n:perf:aff		
+> odinstalowaniem	odinstalować	ger:sg:inst:n:perf:aff		
+> odinstalowanie	odinstalować	ger:sg:nom.acc:n:perf:aff		
+> odinstalowani	odinstalować	ppas:pl:nom.voc:m1:perf:aff		
+> odinstalowaniom	odinstalować	ger:pl:dat:n:perf:aff		
+> odinstalowaniu	odinstalować	ger:sg:dat.loc:n:perf:aff		
+> odinstalowano	odinstalować	imps:perf		
+> odinstalowanych	odinstalować	ppas:pl:acc:m1:perf:aff		
+> odinstalowanych	odinstalować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> odinstalowanymi	odinstalować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> odinstalowanym	odinstalować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> odinstalowanym	odinstalować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> odinstalowany	odinstalować	ppas:sg:acc:m3:perf:aff		
+> odinstalowany	odinstalować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> odinstalowań	odinstalować	ger:pl:gen:n:perf:aff		
+> odinstalowawszy	odinstalować	pant:perf		
+> odinstalują	odinstalować	fin:pl:ter:perf		
+> odinstalujcie	odinstalować	impt:pl:sec:perf		
+> odinstalujecie	odinstalować	fin:pl:sec:perf		
+> odinstalujemy	odinstalować	fin:pl:pri:perf		
+> odinstaluje	odinstalować	fin:sg:ter:perf		
+> odinstalujesz	odinstalować	fin:sg:sec:perf		
+> odinstaluję	odinstalować	fin:sg:pri:perf		
+> odinstalujmy	odinstalować	impt:pl:pri:perf		
+> odinstaluj	odinstalować	impt:sg:sec:perf		
+> nieodinstalowująca	odinstalowywać	pact:sg:nom.voc:f:imperf:neg		
+> nieodinstalowującą	odinstalowywać	pact:sg:acc.inst:f:imperf:neg		
+> nieodinstalowującego	odinstalowywać	pact:sg:acc:m1.m2:imperf:neg		
+> nieodinstalowującego	odinstalowywać	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieodinstalowującej	odinstalowywać	pact:sg:gen.dat.loc:f:imperf:neg		
+> nieodinstalowującemu	odinstalowywać	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieodinstalowujące	odinstalowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieodinstalowujące	odinstalowywać	pact:sg:nom.acc.voc:n:imperf:neg		
+> nieodinstalowujących	odinstalowywać	pact:pl:acc:m1:imperf:neg		
+> nieodinstalowujących	odinstalowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieodinstalowującymi	odinstalowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieodinstalowującym	odinstalowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieodinstalowującym	odinstalowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieodinstalowujący	odinstalowywać	pact:pl:nom.voc:m1:imperf:neg		
+> nieodinstalowujący	odinstalowywać	pact:sg:acc:m3:imperf:neg		
+> nieodinstalowujący	odinstalowywać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieodinstalowywana	odinstalowywać	ppas:sg:nom.voc:f:imperf:neg		
+> nieodinstalowywaną	odinstalowywać	ppas:sg:acc.inst:f:imperf:neg		
+> nieodinstalowywanego	odinstalowywać	ppas:sg:acc:m1.m2:imperf:neg		
+> nieodinstalowywanego	odinstalowywać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieodinstalowywanej	odinstalowywać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieodinstalowywanemu	odinstalowywać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieodinstalowywane	odinstalowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieodinstalowywane	odinstalowywać	ppas:sg:nom.acc.voc:n:imperf:neg		
+> nieodinstalowywaniach	odinstalowywać	ger:pl:loc:n:imperf:neg		
+> nieodinstalowywaniami	odinstalowywać	ger:pl:inst:n:imperf:neg		
+> nieodinstalowywania	odinstalowywać	ger:pl:nom.acc:n:imperf:neg		
+> nieodinstalowywania	odinstalowywać	ger:sg:gen:n:imperf:neg		
+> nieodinstalowywaniem	odinstalowywać	ger:sg:inst:n:imperf:neg		
+> nieodinstalowywanie	odinstalowywać	ger:sg:nom.acc:n:imperf:neg		
+> nieodinstalowywani	odinstalowywać	ppas:pl:nom.voc:m1:imperf:neg		
+> nieodinstalowywaniom	odinstalowywać	ger:pl:dat:n:imperf:neg		
+> nieodinstalowywaniu	odinstalowywać	ger:sg:dat.loc:n:imperf:neg		
+> nieodinstalowywanych	odinstalowywać	ppas:pl:acc:m1:imperf:neg		
+> nieodinstalowywanych	odinstalowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieodinstalowywanymi	odinstalowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieodinstalowywanym	odinstalowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieodinstalowywanym	odinstalowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieodinstalowywany	odinstalowywać	ppas:sg:acc:m3:imperf:neg		
+> nieodinstalowywany	odinstalowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieodinstalowywań	odinstalowywać	ger:pl:gen:n:imperf:neg		
+> odinstalowująca	odinstalowywać	pact:sg:nom.voc:f:imperf:aff		
+> odinstalowującą	odinstalowywać	pact:sg:acc.inst:f:imperf:aff		
+> odinstalowującego	odinstalowywać	pact:sg:acc:m1.m2:imperf:aff		
+> odinstalowującego	odinstalowywać	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> odinstalowującej	odinstalowywać	pact:sg:gen.dat.loc:f:imperf:aff		
+> odinstalowującemu	odinstalowywać	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> odinstalowujące	odinstalowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> odinstalowujące	odinstalowywać	pact:sg:nom.acc.voc:n:imperf:aff		
+> odinstalowując	odinstalowywać	pcon:imperf		
+> odinstalowująco	odinstalowywać	pacta		
+> odinstalowujących	odinstalowywać	pact:pl:acc:m1:imperf:aff		
+> odinstalowujących	odinstalowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> odinstalowującymi	odinstalowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> odinstalowującym	odinstalowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> odinstalowującym	odinstalowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> odinstalowujący	odinstalowywać	pact:pl:nom.voc:m1:imperf:aff		
+> odinstalowujący	odinstalowywać	pact:sg:acc:m3:imperf:aff		
+> odinstalowujący	odinstalowywać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> odinstalowują	odinstalowywać	fin:pl:ter:imperf		
+> odinstalowujcie	odinstalowywać	impt:pl:sec:imperf		
+> odinstalowujecie	odinstalowywać	fin:pl:sec:imperf		
+> odinstalowujemy	odinstalowywać	fin:pl:pri:imperf		
+> odinstalowuje	odinstalowywać	fin:sg:ter:imperf		
+> odinstalowujesz	odinstalowywać	fin:sg:sec:imperf		
+> odinstalowuję	odinstalowywać	fin:sg:pri:imperf		
+> odinstalowujmy	odinstalowywać	impt:pl:pri:imperf		
+> odinstalowuj	odinstalowywać	impt:sg:sec:imperf		
+> odinstalowywać	odinstalowywać	inf:imperf		
+> odinstalowywaliby	odinstalowywać	cond:pl:m1:ter:imperf		
+> odinstalowywalibyście	odinstalowywać	cond:pl:m1:sec:imperf		
+> odinstalowywalibyśmy	odinstalowywać	cond:pl:m1:pri:imperf		
+> odinstalowywali	odinstalowywać	praet:pl:m1:imperf		
+> odinstalowywali	odinstalowywać	praet:pl:m1:ter:imperf		
+> odinstalowywaliście	odinstalowywać	praet:pl:m1:sec:imperf		
+> odinstalowywaliśmy	odinstalowywać	praet:pl:m1:pri:imperf		
+> odinstalowywałabym	odinstalowywać	cond:sg:f:pri:imperf		
+> odinstalowywałaby	odinstalowywać	cond:sg:f:ter:imperf		
+> odinstalowywałabyś	odinstalowywać	cond:sg:f:sec:imperf		
+> odinstalowywałam	odinstalowywać	praet:sg:f:pri:imperf		
+> odinstalowywała	odinstalowywać	praet:sg:f:imperf		
+> odinstalowywała	odinstalowywać	praet:sg:f:ter:imperf		
+> odinstalowywałaś	odinstalowywać	praet:sg:f:sec:imperf		
+> odinstalowywałbym	odinstalowywać	cond:sg:m1.m2.m3:pri:imperf		
+> odinstalowywałby	odinstalowywać	cond:sg:m1.m2.m3:ter:imperf		
+> odinstalowywałbyś	odinstalowywać	cond:sg:m1.m2.m3:sec:imperf		
+> odinstalowywałem	odinstalowywać	praet:sg:m1.m2.m3:pri:imperf		
+> odinstalowywałeś	odinstalowywać	praet:sg:m1.m2.m3:sec:imperf		
+> odinstalowywałobym	odinstalowywać	cond:sg:n:pri:imperf		
+> odinstalowywałoby	odinstalowywać	cond:sg:n:ter:imperf		
+> odinstalowywałobyś	odinstalowywać	cond:sg:n:sec:imperf		
+> odinstalowywał	odinstalowywać	praet:sg:m1.m2.m3:imperf		
+> odinstalowywał	odinstalowywać	praet:sg:m1.m2.m3:ter:imperf		
+> odinstalowywałom	odinstalowywać	praet:sg:n:pri:imperf		
+> odinstalowywało	odinstalowywać	praet:sg:n:imperf		
+> odinstalowywało	odinstalowywać	praet:sg:n:ter:imperf		
+> odinstalowywałoś	odinstalowywać	praet:sg:n:sec:imperf		
+> odinstalowywałyby	odinstalowywać	cond:pl:m2.m3.f.n:ter:imperf		
+> odinstalowywałybyście	odinstalowywać	cond:pl:m2.m3.f.n:sec:imperf		
+> odinstalowywałybyśmy	odinstalowywać	cond:pl:m2.m3.f.n:pri:imperf		
+> odinstalowywały	odinstalowywać	praet:pl:m2.m3.f.n:imperf		
+> odinstalowywały	odinstalowywać	praet:pl:m2.m3.f.n:ter:imperf		
+> odinstalowywałyście	odinstalowywać	praet:pl:m2.m3.f.n:sec:imperf		
+> odinstalowywałyśmy	odinstalowywać	praet:pl:m2.m3.f.n:pri:imperf		
+> odinstalowywana	odinstalowywać	ppas:sg:nom.voc:f:imperf:aff		
+> odinstalowywaną	odinstalowywać	ppas:sg:acc.inst:f:imperf:aff		
+> odinstalowywanego	odinstalowywać	ppas:sg:acc:m1.m2:imperf:aff		
+> odinstalowywanego	odinstalowywać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> odinstalowywanej	odinstalowywać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> odinstalowywanemu	odinstalowywać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> odinstalowywane	odinstalowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> odinstalowywane	odinstalowywać	ppas:sg:nom.acc.voc:n:imperf:aff		
+> odinstalowywaniach	odinstalowywać	ger:pl:loc:n:imperf:aff		
+> odinstalowywaniami	odinstalowywać	ger:pl:inst:n:imperf:aff		
+> odinstalowywania	odinstalowywać	ger:pl:nom.acc:n:imperf:aff		
+> odinstalowywania	odinstalowywać	ger:sg:gen:n:imperf:aff		
+> odinstalowywaniem	odinstalowywać	ger:sg:inst:n:imperf:aff		
+> odinstalowywanie	odinstalowywać	ger:sg:nom.acc:n:imperf:aff		
+> odinstalowywani	odinstalowywać	ppas:pl:nom.voc:m1:imperf:aff		
+> odinstalowywaniom	odinstalowywać	ger:pl:dat:n:imperf:aff		
+> odinstalowywaniu	odinstalowywać	ger:sg:dat.loc:n:imperf:aff		
+> odinstalowywano	odinstalowywać	imps:imperf		
+> odinstalowywanych	odinstalowywać	ppas:pl:acc:m1:imperf:aff		
+> odinstalowywanych	odinstalowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> odinstalowywanymi	odinstalowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> odinstalowywanym	odinstalowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> odinstalowywanym	odinstalowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> odinstalowywany	odinstalowywać	ppas:sg:acc:m3:imperf:aff		
+> odinstalowywany	odinstalowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> odinstalowywań	odinstalowywać	ger:pl:gen:n:imperf:aff		
+3178006,3178016d3178437
+< okropna	okropna	subst:sg:nom:f	nazwa pospolita	daw.
+< okropna	okropna	subst:sg:voc:f	nazwa pospolita	daw.
+< okropną	okropna	subst:sg:acc:f	nazwa pospolita	daw.
+< okropną	okropna	subst:sg:inst:f	nazwa pospolita	daw.
+< okropnej	okropna	subst:sg:dat.loc:f	nazwa pospolita	daw.
+< okropnej	okropna	subst:sg:gen:f	nazwa pospolita	daw.
+< okropne	okropna	subst:pl:nom.acc.voc:f	nazwa pospolita	daw.
+< okropnych	okropna	subst:pl:gen:f	nazwa pospolita	daw.
+< okropnych	okropna	subst:pl:loc:f	nazwa pospolita	daw.
+< okropnymi	okropna	subst:pl:inst:f	nazwa pospolita	daw.
+< okropnym	okropna	subst:pl:dat:f	nazwa pospolita	daw.
+3341408a3341830
+> parafianów	parafianin	subst:pl:gen.acc:m1	nazwa pospolita	
+3365670a3366093
+> paulicjanów	paulicjanin	subst:pl:gen.acc:m1	nazwa pospolita	
+3511632a3512056,3512152
+> niepodkurowana	podkurować	ppas:sg:nom.voc:f:perf:neg		
+> niepodkurowaną	podkurować	ppas:sg:acc.inst:f:perf:neg		
+> niepodkurowanego	podkurować	ppas:sg:acc:m1.m2:perf:neg		
+> niepodkurowanego	podkurować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niepodkurowanej	podkurować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niepodkurowanemu	podkurować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niepodkurowane	podkurować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niepodkurowane	podkurować	ppas:sg:nom.acc.voc:n:perf:neg		
+> niepodkurowaniach	podkurować	ger:pl:loc:n:perf:neg		
+> niepodkurowaniami	podkurować	ger:pl:inst:n:perf:neg		
+> niepodkurowania	podkurować	ger:pl:nom.acc:n:perf:neg		
+> niepodkurowania	podkurować	ger:sg:gen:n:perf:neg		
+> niepodkurowaniem	podkurować	ger:sg:inst:n:perf:neg		
+> niepodkurowanie	podkurować	ger:sg:nom.acc:n:perf:neg		
+> niepodkurowaniom	podkurować	ger:pl:dat:n:perf:neg		
+> niepodkurowani	podkurować	ppas:pl:nom.voc:m1:perf:neg		
+> niepodkurowaniu	podkurować	ger:sg:dat.loc:n:perf:neg		
+> niepodkurowanych	podkurować	ppas:pl:acc:m1:perf:neg		
+> niepodkurowanych	podkurować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niepodkurowanymi	podkurować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niepodkurowanym	podkurować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niepodkurowanym	podkurować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niepodkurowany	podkurować	ppas:sg:acc:m3:perf:neg		
+> niepodkurowany	podkurować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niepodkurowań	podkurować	ger:pl:gen:n:perf:neg		
+> podkurować	podkurować	inf:perf		
+> podkurowaliby	podkurować	cond:pl:m1:ter:perf		
+> podkurowalibyście	podkurować	cond:pl:m1:sec:perf		
+> podkurowalibyśmy	podkurować	cond:pl:m1:pri:perf		
+> podkurowali	podkurować	praet:pl:m1:perf		
+> podkurowali	podkurować	praet:pl:m1:ter:perf		
+> podkurowaliście	podkurować	praet:pl:m1:sec:perf		
+> podkurowaliśmy	podkurować	praet:pl:m1:pri:perf		
+> podkurowałabym	podkurować	cond:sg:f:pri:perf		
+> podkurowałaby	podkurować	cond:sg:f:ter:perf		
+> podkurowałabyś	podkurować	cond:sg:f:sec:perf		
+> podkurowałam	podkurować	praet:sg:f:pri:perf		
+> podkurowała	podkurować	praet:sg:f:perf		
+> podkurowała	podkurować	praet:sg:f:ter:perf		
+> podkurowałaś	podkurować	praet:sg:f:sec:perf		
+> podkurowałbym	podkurować	cond:sg:m1.m2.m3:pri:perf		
+> podkurowałby	podkurować	cond:sg:m1.m2.m3:ter:perf		
+> podkurowałbyś	podkurować	cond:sg:m1.m2.m3:sec:perf		
+> podkurowałem	podkurować	praet:sg:m1.m2.m3:pri:perf		
+> podkurowałeś	podkurować	praet:sg:m1.m2.m3:sec:perf		
+> podkurowałobym	podkurować	cond:sg:n:pri:perf		
+> podkurowałoby	podkurować	cond:sg:n:ter:perf		
+> podkurowałobyś	podkurować	cond:sg:n:sec:perf		
+> podkurowałom	podkurować	praet:sg:n:pri:perf		
+> podkurowało	podkurować	praet:sg:n:perf		
+> podkurowało	podkurować	praet:sg:n:ter:perf		
+> podkurowałoś	podkurować	praet:sg:n:sec:perf		
+> podkurował	podkurować	praet:sg:m1.m2.m3:perf		
+> podkurował	podkurować	praet:sg:m1.m2.m3:ter:perf		
+> podkurowałyby	podkurować	cond:pl:m2.m3.f.n:ter:perf		
+> podkurowałybyście	podkurować	cond:pl:m2.m3.f.n:sec:perf		
+> podkurowałybyśmy	podkurować	cond:pl:m2.m3.f.n:pri:perf		
+> podkurowały	podkurować	praet:pl:m2.m3.f.n:perf		
+> podkurowały	podkurować	praet:pl:m2.m3.f.n:ter:perf		
+> podkurowałyście	podkurować	praet:pl:m2.m3.f.n:sec:perf		
+> podkurowałyśmy	podkurować	praet:pl:m2.m3.f.n:pri:perf		
+> podkurowana	podkurować	ppas:sg:nom.voc:f:perf:aff		
+> podkurowaną	podkurować	ppas:sg:acc.inst:f:perf:aff		
+> podkurowanego	podkurować	ppas:sg:acc:m1.m2:perf:aff		
+> podkurowanego	podkurować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> podkurowanej	podkurować	ppas:sg:gen.dat.loc:f:perf:aff		
+> podkurowanemu	podkurować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> podkurowane	podkurować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> podkurowane	podkurować	ppas:sg:nom.acc.voc:n:perf:aff		
+> podkurowaniach	podkurować	ger:pl:loc:n:perf:aff		
+> podkurowaniami	podkurować	ger:pl:inst:n:perf:aff		
+> podkurowania	podkurować	ger:pl:nom.acc:n:perf:aff		
+> podkurowania	podkurować	ger:sg:gen:n:perf:aff		
+> podkurowaniem	podkurować	ger:sg:inst:n:perf:aff		
+> podkurowanie	podkurować	ger:sg:nom.acc:n:perf:aff		
+> podkurowaniom	podkurować	ger:pl:dat:n:perf:aff		
+> podkurowani	podkurować	ppas:pl:nom.voc:m1:perf:aff		
+> podkurowaniu	podkurować	ger:sg:dat.loc:n:perf:aff		
+> podkurowano	podkurować	imps:perf		
+> podkurowanych	podkurować	ppas:pl:acc:m1:perf:aff		
+> podkurowanych	podkurować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> podkurowanymi	podkurować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> podkurowanym	podkurować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> podkurowanym	podkurować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> podkurowany	podkurować	ppas:sg:acc:m3:perf:aff		
+> podkurowany	podkurować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> podkurowań	podkurować	ger:pl:gen:n:perf:aff		
+> podkurowawszy	podkurować	pant:perf		
+> podkurują	podkurować	fin:pl:ter:perf		
+> podkurujcie	podkurować	impt:pl:sec:perf		
+> podkurujecie	podkurować	fin:pl:sec:perf		
+> podkurujemy	podkurować	fin:pl:pri:perf		
+> podkuruje	podkurować	fin:sg:ter:perf		
+> podkurujesz	podkurować	fin:sg:sec:perf		
+> podkuruję	podkurować	fin:sg:pri:perf		
+> podkurujmy	podkurować	impt:pl:pri:perf		
+> podkuruj	podkurować	impt:sg:sec:perf		
+3621047a3621568,3621632
+> niepolewitowaniach	polewitować	ger:pl:loc:n:perf:neg		
+> niepolewitowaniami	polewitować	ger:pl:inst:n:perf:neg		
+> niepolewitowania	polewitować	ger:pl:nom.acc:n:perf:neg		
+> niepolewitowania	polewitować	ger:sg:gen:n:perf:neg		
+> niepolewitowaniem	polewitować	ger:sg:inst:n:perf:neg		
+> niepolewitowanie	polewitować	ger:sg:nom.acc:n:perf:neg		
+> niepolewitowaniom	polewitować	ger:pl:dat:n:perf:neg		
+> niepolewitowaniu	polewitować	ger:sg:dat.loc:n:perf:neg		
+> niepolewitowań	polewitować	ger:pl:gen:n:perf:neg		
+> polewitować	polewitować	inf:perf		
+> polewitowaliby	polewitować	cond:pl:m1:ter:perf		
+> polewitowalibyście	polewitować	cond:pl:m1:sec:perf		
+> polewitowalibyśmy	polewitować	cond:pl:m1:pri:perf		
+> polewitowali	polewitować	praet:pl:m1:perf		
+> polewitowali	polewitować	praet:pl:m1:ter:perf		
+> polewitowaliście	polewitować	praet:pl:m1:sec:perf		
+> polewitowaliśmy	polewitować	praet:pl:m1:pri:perf		
+> polewitowałabym	polewitować	cond:sg:f:pri:perf		
+> polewitowałaby	polewitować	cond:sg:f:ter:perf		
+> polewitowałabyś	polewitować	cond:sg:f:sec:perf		
+> polewitowałam	polewitować	praet:sg:f:pri:perf		
+> polewitowała	polewitować	praet:sg:f:perf		
+> polewitowała	polewitować	praet:sg:f:ter:perf		
+> polewitowałaś	polewitować	praet:sg:f:sec:perf		
+> polewitowałbym	polewitować	cond:sg:m1.m2.m3:pri:perf		
+> polewitowałby	polewitować	cond:sg:m1.m2.m3:ter:perf		
+> polewitowałbyś	polewitować	cond:sg:m1.m2.m3:sec:perf		
+> polewitowałem	polewitować	praet:sg:m1.m2.m3:pri:perf		
+> polewitowałeś	polewitować	praet:sg:m1.m2.m3:sec:perf		
+> polewitowałobym	polewitować	cond:sg:n:pri:perf		
+> polewitowałoby	polewitować	cond:sg:n:ter:perf		
+> polewitowałobyś	polewitować	cond:sg:n:sec:perf		
+> polewitowałom	polewitować	praet:sg:n:pri:perf		
+> polewitowało	polewitować	praet:sg:n:perf		
+> polewitowało	polewitować	praet:sg:n:ter:perf		
+> polewitowałoś	polewitować	praet:sg:n:sec:perf		
+> polewitował	polewitować	praet:sg:m1.m2.m3:perf		
+> polewitował	polewitować	praet:sg:m1.m2.m3:ter:perf		
+> polewitowałyby	polewitować	cond:pl:m2.m3.f.n:ter:perf		
+> polewitowałybyście	polewitować	cond:pl:m2.m3.f.n:sec:perf		
+> polewitowałybyśmy	polewitować	cond:pl:m2.m3.f.n:pri:perf		
+> polewitowały	polewitować	praet:pl:m2.m3.f.n:perf		
+> polewitowały	polewitować	praet:pl:m2.m3.f.n:ter:perf		
+> polewitowałyście	polewitować	praet:pl:m2.m3.f.n:sec:perf		
+> polewitowałyśmy	polewitować	praet:pl:m2.m3.f.n:pri:perf		
+> polewitowaniach	polewitować	ger:pl:loc:n:perf:aff		
+> polewitowaniami	polewitować	ger:pl:inst:n:perf:aff		
+> polewitowania	polewitować	ger:pl:nom.acc:n:perf:aff		
+> polewitowania	polewitować	ger:sg:gen:n:perf:aff		
+> polewitowaniem	polewitować	ger:sg:inst:n:perf:aff		
+> polewitowanie	polewitować	ger:sg:nom.acc:n:perf:aff		
+> polewitowaniom	polewitować	ger:pl:dat:n:perf:aff		
+> polewitowaniu	polewitować	ger:sg:dat.loc:n:perf:aff		
+> polewitowano	polewitować	imps:perf		
+> polewitowań	polewitować	ger:pl:gen:n:perf:aff		
+> polewitowawszy	polewitować	pant:perf		
+> polewitują	polewitować	fin:pl:ter:perf		
+> polewitujcie	polewitować	impt:pl:sec:perf		
+> polewitujecie	polewitować	fin:pl:sec:perf		
+> polewitujemy	polewitować	fin:pl:pri:perf		
+> polewituje	polewitować	fin:sg:ter:perf		
+> polewitujesz	polewitować	fin:sg:sec:perf		
+> polewituję	polewitować	fin:sg:pri:perf		
+> polewitujmy	polewitować	impt:pl:pri:perf		
+> polewituj	polewitować	impt:sg:sec:perf		
+3700781a3701367,3701431
+> niepoprzeszkadzaniach	poprzeszkadzać	ger:pl:loc:n:perf:neg		
+> niepoprzeszkadzaniami	poprzeszkadzać	ger:pl:inst:n:perf:neg		
+> niepoprzeszkadzania	poprzeszkadzać	ger:pl:nom.acc:n:perf:neg		
+> niepoprzeszkadzania	poprzeszkadzać	ger:sg:gen:n:perf:neg		
+> niepoprzeszkadzaniem	poprzeszkadzać	ger:sg:inst:n:perf:neg		
+> niepoprzeszkadzanie	poprzeszkadzać	ger:sg:nom.acc:n:perf:neg		
+> niepoprzeszkadzaniom	poprzeszkadzać	ger:pl:dat:n:perf:neg		
+> niepoprzeszkadzaniu	poprzeszkadzać	ger:sg:dat.loc:n:perf:neg		
+> niepoprzeszkadzań	poprzeszkadzać	ger:pl:gen:n:perf:neg		
+> poprzeszkadzacie	poprzeszkadzać	fin:pl:sec:perf		
+> poprzeszkadzać	poprzeszkadzać	inf:perf		
+> poprzeszkadzają	poprzeszkadzać	fin:pl:ter:perf		
+> poprzeszkadzajcie	poprzeszkadzać	impt:pl:sec:perf		
+> poprzeszkadzajmy	poprzeszkadzać	impt:pl:pri:perf		
+> poprzeszkadzaj	poprzeszkadzać	impt:sg:sec:perf		
+> poprzeszkadzaliby	poprzeszkadzać	cond:pl:m1:ter:perf		
+> poprzeszkadzalibyście	poprzeszkadzać	cond:pl:m1:sec:perf		
+> poprzeszkadzalibyśmy	poprzeszkadzać	cond:pl:m1:pri:perf		
+> poprzeszkadzali	poprzeszkadzać	praet:pl:m1:perf		
+> poprzeszkadzali	poprzeszkadzać	praet:pl:m1:ter:perf		
+> poprzeszkadzaliście	poprzeszkadzać	praet:pl:m1:sec:perf		
+> poprzeszkadzaliśmy	poprzeszkadzać	praet:pl:m1:pri:perf		
+> poprzeszkadzałabym	poprzeszkadzać	cond:sg:f:pri:perf		
+> poprzeszkadzałaby	poprzeszkadzać	cond:sg:f:ter:perf		
+> poprzeszkadzałabyś	poprzeszkadzać	cond:sg:f:sec:perf		
+> poprzeszkadzałam	poprzeszkadzać	praet:sg:f:pri:perf		
+> poprzeszkadzała	poprzeszkadzać	praet:sg:f:perf		
+> poprzeszkadzała	poprzeszkadzać	praet:sg:f:ter:perf		
+> poprzeszkadzałaś	poprzeszkadzać	praet:sg:f:sec:perf		
+> poprzeszkadzałbym	poprzeszkadzać	cond:sg:m1.m2.m3:pri:perf		
+> poprzeszkadzałby	poprzeszkadzać	cond:sg:m1.m2.m3:ter:perf		
+> poprzeszkadzałbyś	poprzeszkadzać	cond:sg:m1.m2.m3:sec:perf		
+> poprzeszkadzałem	poprzeszkadzać	praet:sg:m1.m2.m3:pri:perf		
+> poprzeszkadzałeś	poprzeszkadzać	praet:sg:m1.m2.m3:sec:perf		
+> poprzeszkadzałobym	poprzeszkadzać	cond:sg:n:pri:perf		
+> poprzeszkadzałoby	poprzeszkadzać	cond:sg:n:ter:perf		
+> poprzeszkadzałobyś	poprzeszkadzać	cond:sg:n:sec:perf		
+> poprzeszkadzałom	poprzeszkadzać	praet:sg:n:pri:perf		
+> poprzeszkadzało	poprzeszkadzać	praet:sg:n:perf		
+> poprzeszkadzało	poprzeszkadzać	praet:sg:n:ter:perf		
+> poprzeszkadzałoś	poprzeszkadzać	praet:sg:n:sec:perf		
+> poprzeszkadzał	poprzeszkadzać	praet:sg:m1.m2.m3:perf		
+> poprzeszkadzał	poprzeszkadzać	praet:sg:m1.m2.m3:ter:perf		
+> poprzeszkadzałyby	poprzeszkadzać	cond:pl:m2.m3.f.n:ter:perf		
+> poprzeszkadzałybyście	poprzeszkadzać	cond:pl:m2.m3.f.n:sec:perf		
+> poprzeszkadzałybyśmy	poprzeszkadzać	cond:pl:m2.m3.f.n:pri:perf		
+> poprzeszkadzały	poprzeszkadzać	praet:pl:m2.m3.f.n:perf		
+> poprzeszkadzały	poprzeszkadzać	praet:pl:m2.m3.f.n:ter:perf		
+> poprzeszkadzałyście	poprzeszkadzać	praet:pl:m2.m3.f.n:sec:perf		
+> poprzeszkadzałyśmy	poprzeszkadzać	praet:pl:m2.m3.f.n:pri:perf		
+> poprzeszkadzam	poprzeszkadzać	fin:sg:pri:perf		
+> poprzeszkadzamy	poprzeszkadzać	fin:pl:pri:perf		
+> poprzeszkadzaniach	poprzeszkadzać	ger:pl:loc:n:perf:aff		
+> poprzeszkadzaniami	poprzeszkadzać	ger:pl:inst:n:perf:aff		
+> poprzeszkadzania	poprzeszkadzać	ger:pl:nom.acc:n:perf:aff		
+> poprzeszkadzania	poprzeszkadzać	ger:sg:gen:n:perf:aff		
+> poprzeszkadzaniem	poprzeszkadzać	ger:sg:inst:n:perf:aff		
+> poprzeszkadzanie	poprzeszkadzać	ger:sg:nom.acc:n:perf:aff		
+> poprzeszkadzaniom	poprzeszkadzać	ger:pl:dat:n:perf:aff		
+> poprzeszkadzaniu	poprzeszkadzać	ger:sg:dat.loc:n:perf:aff		
+> poprzeszkadzano	poprzeszkadzać	imps:perf		
+> poprzeszkadzań	poprzeszkadzać	ger:pl:gen:n:perf:aff		
+> poprzeszkadza	poprzeszkadzać	fin:sg:ter:perf		
+> poprzeszkadzasz	poprzeszkadzać	fin:sg:sec:perf		
+> poprzeszkadzawszy	poprzeszkadzać	pant:perf		
+4003494a4004145,4004274
+> nieprzeinstalowująca	przeinstalowywać	pact:sg:nom.voc:f:imperf:neg		
+> nieprzeinstalowującą	przeinstalowywać	pact:sg:acc.inst:f:imperf:neg		
+> nieprzeinstalowującego	przeinstalowywać	pact:sg:acc:m1.m2:imperf:neg		
+> nieprzeinstalowującego	przeinstalowywać	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieprzeinstalowującej	przeinstalowywać	pact:sg:gen.dat.loc:f:imperf:neg		
+> nieprzeinstalowującemu	przeinstalowywać	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieprzeinstalowujące	przeinstalowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieprzeinstalowujące	przeinstalowywać	pact:sg:nom.acc.voc:n:imperf:neg		
+> nieprzeinstalowujących	przeinstalowywać	pact:pl:acc:m1:imperf:neg		
+> nieprzeinstalowujących	przeinstalowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieprzeinstalowującymi	przeinstalowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieprzeinstalowującym	przeinstalowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieprzeinstalowującym	przeinstalowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieprzeinstalowujący	przeinstalowywać	pact:pl:nom.voc:m1:imperf:neg		
+> nieprzeinstalowujący	przeinstalowywać	pact:sg:acc:m3:imperf:neg		
+> nieprzeinstalowujący	przeinstalowywać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieprzeinstalowywana	przeinstalowywać	ppas:sg:nom.voc:f:imperf:neg		
+> nieprzeinstalowywaną	przeinstalowywać	ppas:sg:acc.inst:f:imperf:neg		
+> nieprzeinstalowywanego	przeinstalowywać	ppas:sg:acc:m1.m2:imperf:neg		
+> nieprzeinstalowywanego	przeinstalowywać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieprzeinstalowywanej	przeinstalowywać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieprzeinstalowywanemu	przeinstalowywać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieprzeinstalowywane	przeinstalowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieprzeinstalowywane	przeinstalowywać	ppas:sg:nom.acc.voc:n:imperf:neg		
+> nieprzeinstalowywaniach	przeinstalowywać	ger:pl:loc:n:imperf:neg		
+> nieprzeinstalowywaniami	przeinstalowywać	ger:pl:inst:n:imperf:neg		
+> nieprzeinstalowywania	przeinstalowywać	ger:pl:nom.acc:n:imperf:neg		
+> nieprzeinstalowywania	przeinstalowywać	ger:sg:gen:n:imperf:neg		
+> nieprzeinstalowywaniem	przeinstalowywać	ger:sg:inst:n:imperf:neg		
+> nieprzeinstalowywanie	przeinstalowywać	ger:sg:nom.acc:n:imperf:neg		
+> nieprzeinstalowywaniom	przeinstalowywać	ger:pl:dat:n:imperf:neg		
+> nieprzeinstalowywani	przeinstalowywać	ppas:pl:nom.voc:m1:imperf:neg		
+> nieprzeinstalowywaniu	przeinstalowywać	ger:sg:dat.loc:n:imperf:neg		
+> nieprzeinstalowywanych	przeinstalowywać	ppas:pl:acc:m1:imperf:neg		
+> nieprzeinstalowywanych	przeinstalowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieprzeinstalowywanymi	przeinstalowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieprzeinstalowywanym	przeinstalowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieprzeinstalowywanym	przeinstalowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieprzeinstalowywany	przeinstalowywać	ppas:sg:acc:m3:imperf:neg		
+> nieprzeinstalowywany	przeinstalowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieprzeinstalowywań	przeinstalowywać	ger:pl:gen:n:imperf:neg		
+> przeinstalowująca	przeinstalowywać	pact:sg:nom.voc:f:imperf:aff		
+> przeinstalowującą	przeinstalowywać	pact:sg:acc.inst:f:imperf:aff		
+> przeinstalowującego	przeinstalowywać	pact:sg:acc:m1.m2:imperf:aff		
+> przeinstalowującego	przeinstalowywać	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> przeinstalowującej	przeinstalowywać	pact:sg:gen.dat.loc:f:imperf:aff		
+> przeinstalowującemu	przeinstalowywać	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> przeinstalowujące	przeinstalowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> przeinstalowujące	przeinstalowywać	pact:sg:nom.acc.voc:n:imperf:aff		
+> przeinstalowująco	przeinstalowywać	pacta		
+> przeinstalowując	przeinstalowywać	pcon:imperf		
+> przeinstalowujących	przeinstalowywać	pact:pl:acc:m1:imperf:aff		
+> przeinstalowujących	przeinstalowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> przeinstalowującymi	przeinstalowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> przeinstalowującym	przeinstalowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> przeinstalowującym	przeinstalowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> przeinstalowujący	przeinstalowywać	pact:pl:nom.voc:m1:imperf:aff		
+> przeinstalowujący	przeinstalowywać	pact:sg:acc:m3:imperf:aff		
+> przeinstalowujący	przeinstalowywać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> przeinstalowują	przeinstalowywać	fin:pl:ter:imperf		
+> przeinstalowujcie	przeinstalowywać	impt:pl:sec:imperf		
+> przeinstalowujecie	przeinstalowywać	fin:pl:sec:imperf		
+> przeinstalowujemy	przeinstalowywać	fin:pl:pri:imperf		
+> przeinstalowuje	przeinstalowywać	fin:sg:ter:imperf		
+> przeinstalowujesz	przeinstalowywać	fin:sg:sec:imperf		
+> przeinstalowuję	przeinstalowywać	fin:sg:pri:imperf		
+> przeinstalowujmy	przeinstalowywać	impt:pl:pri:imperf		
+> przeinstalowuj	przeinstalowywać	impt:sg:sec:imperf		
+> przeinstalowywać	przeinstalowywać	inf:imperf		
+> przeinstalowywaliby	przeinstalowywać	cond:pl:m1:ter:imperf		
+> przeinstalowywalibyście	przeinstalowywać	cond:pl:m1:sec:imperf		
+> przeinstalowywalibyśmy	przeinstalowywać	cond:pl:m1:pri:imperf		
+> przeinstalowywali	przeinstalowywać	praet:pl:m1:imperf		
+> przeinstalowywali	przeinstalowywać	praet:pl:m1:ter:imperf		
+> przeinstalowywaliście	przeinstalowywać	praet:pl:m1:sec:imperf		
+> przeinstalowywaliśmy	przeinstalowywać	praet:pl:m1:pri:imperf		
+> przeinstalowywałabym	przeinstalowywać	cond:sg:f:pri:imperf		
+> przeinstalowywałaby	przeinstalowywać	cond:sg:f:ter:imperf		
+> przeinstalowywałabyś	przeinstalowywać	cond:sg:f:sec:imperf		
+> przeinstalowywałam	przeinstalowywać	praet:sg:f:pri:imperf		
+> przeinstalowywała	przeinstalowywać	praet:sg:f:imperf		
+> przeinstalowywała	przeinstalowywać	praet:sg:f:ter:imperf		
+> przeinstalowywałaś	przeinstalowywać	praet:sg:f:sec:imperf		
+> przeinstalowywałbym	przeinstalowywać	cond:sg:m1.m2.m3:pri:imperf		
+> przeinstalowywałby	przeinstalowywać	cond:sg:m1.m2.m3:ter:imperf		
+> przeinstalowywałbyś	przeinstalowywać	cond:sg:m1.m2.m3:sec:imperf		
+> przeinstalowywałem	przeinstalowywać	praet:sg:m1.m2.m3:pri:imperf		
+> przeinstalowywałeś	przeinstalowywać	praet:sg:m1.m2.m3:sec:imperf		
+> przeinstalowywałobym	przeinstalowywać	cond:sg:n:pri:imperf		
+> przeinstalowywałoby	przeinstalowywać	cond:sg:n:ter:imperf		
+> przeinstalowywałobyś	przeinstalowywać	cond:sg:n:sec:imperf		
+> przeinstalowywałom	przeinstalowywać	praet:sg:n:pri:imperf		
+> przeinstalowywało	przeinstalowywać	praet:sg:n:imperf		
+> przeinstalowywało	przeinstalowywać	praet:sg:n:ter:imperf		
+> przeinstalowywałoś	przeinstalowywać	praet:sg:n:sec:imperf		
+> przeinstalowywał	przeinstalowywać	praet:sg:m1.m2.m3:imperf		
+> przeinstalowywał	przeinstalowywać	praet:sg:m1.m2.m3:ter:imperf		
+> przeinstalowywałyby	przeinstalowywać	cond:pl:m2.m3.f.n:ter:imperf		
+> przeinstalowywałybyście	przeinstalowywać	cond:pl:m2.m3.f.n:sec:imperf		
+> przeinstalowywałybyśmy	przeinstalowywać	cond:pl:m2.m3.f.n:pri:imperf		
+> przeinstalowywały	przeinstalowywać	praet:pl:m2.m3.f.n:imperf		
+> przeinstalowywały	przeinstalowywać	praet:pl:m2.m3.f.n:ter:imperf		
+> przeinstalowywałyście	przeinstalowywać	praet:pl:m2.m3.f.n:sec:imperf		
+> przeinstalowywałyśmy	przeinstalowywać	praet:pl:m2.m3.f.n:pri:imperf		
+> przeinstalowywana	przeinstalowywać	ppas:sg:nom.voc:f:imperf:aff		
+> przeinstalowywaną	przeinstalowywać	ppas:sg:acc.inst:f:imperf:aff		
+> przeinstalowywanego	przeinstalowywać	ppas:sg:acc:m1.m2:imperf:aff		
+> przeinstalowywanego	przeinstalowywać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> przeinstalowywanej	przeinstalowywać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> przeinstalowywanemu	przeinstalowywać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> przeinstalowywane	przeinstalowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> przeinstalowywane	przeinstalowywać	ppas:sg:nom.acc.voc:n:imperf:aff		
+> przeinstalowywaniach	przeinstalowywać	ger:pl:loc:n:imperf:aff		
+> przeinstalowywaniami	przeinstalowywać	ger:pl:inst:n:imperf:aff		
+> przeinstalowywania	przeinstalowywać	ger:pl:nom.acc:n:imperf:aff		
+> przeinstalowywania	przeinstalowywać	ger:sg:gen:n:imperf:aff		
+> przeinstalowywaniem	przeinstalowywać	ger:sg:inst:n:imperf:aff		
+> przeinstalowywanie	przeinstalowywać	ger:sg:nom.acc:n:imperf:aff		
+> przeinstalowywaniom	przeinstalowywać	ger:pl:dat:n:imperf:aff		
+> przeinstalowywani	przeinstalowywać	ppas:pl:nom.voc:m1:imperf:aff		
+> przeinstalowywaniu	przeinstalowywać	ger:sg:dat.loc:n:imperf:aff		
+> przeinstalowywano	przeinstalowywać	imps:imperf		
+> przeinstalowywanych	przeinstalowywać	ppas:pl:acc:m1:imperf:aff		
+> przeinstalowywanych	przeinstalowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> przeinstalowywanymi	przeinstalowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> przeinstalowywanym	przeinstalowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> przeinstalowywanym	przeinstalowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> przeinstalowywany	przeinstalowywać	ppas:sg:acc:m3:imperf:aff		
+> przeinstalowywany	przeinstalowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> przeinstalowywań	przeinstalowywać	ger:pl:gen:n:imperf:aff		
+4261854a4262635
+> purytan	purytanin	subst:pl:gen.acc:m1	nazwa pospolita	
+4310917a4311699,4311739
+> nieremasterowana	remasterować	ppas:sg:nom.voc:f:imperf:neg		
+> nieremasterowaną	remasterować	ppas:sg:acc.inst:f:imperf:neg		
+> nieremasterowanego	remasterować	ppas:sg:acc:m1.m2:imperf:neg		
+> nieremasterowanego	remasterować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieremasterowanej	remasterować	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieremasterowanemu	remasterować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieremasterowane	remasterować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieremasterowane	remasterować	ppas:sg:nom.acc.voc:n:imperf:neg		
+> nieremasterowaniach	remasterować	ger:pl:loc:n:imperf:neg		
+> nieremasterowaniami	remasterować	ger:pl:inst:n:imperf:neg		
+> nieremasterowania	remasterować	ger:pl:nom.acc:n:imperf:neg		
+> nieremasterowania	remasterować	ger:sg:gen:n:imperf:neg		
+> nieremasterowaniem	remasterować	ger:sg:inst:n:imperf:neg		
+> nieremasterowanie	remasterować	ger:sg:nom.acc:n:imperf:neg		
+> nieremasterowaniom	remasterować	ger:pl:dat:n:imperf:neg		
+> nieremasterowani	remasterować	ppas:pl:nom.voc:m1:imperf:neg		
+> nieremasterowaniu	remasterować	ger:sg:dat.loc:n:imperf:neg		
+> nieremasterowanych	remasterować	ppas:pl:acc:m1:imperf:neg		
+> nieremasterowanych	remasterować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieremasterowanymi	remasterować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieremasterowanym	remasterować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieremasterowanym	remasterować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieremasterowany	remasterować	ppas:sg:acc:m3:imperf:neg		
+> nieremasterowany	remasterować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieremasterowań	remasterować	ger:pl:gen:n:imperf:neg		
+> nieremasterująca	remasterować	pact:sg:nom.voc:f:imperf:neg		
+> nieremasterującą	remasterować	pact:sg:acc.inst:f:imperf:neg		
+> nieremasterującego	remasterować	pact:sg:acc:m1.m2:imperf:neg		
+> nieremasterującego	remasterować	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieremasterującej	remasterować	pact:sg:gen.dat.loc:f:imperf:neg		
+> nieremasterującemu	remasterować	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieremasterujące	remasterować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieremasterujące	remasterować	pact:sg:nom.acc.voc:n:imperf:neg		
+> nieremasterujących	remasterować	pact:pl:acc:m1:imperf:neg		
+> nieremasterujących	remasterować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieremasterującymi	remasterować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieremasterującym	remasterować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieremasterującym	remasterować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieremasterujący	remasterować	pact:pl:nom.voc:m1:imperf:neg		
+> nieremasterujący	remasterować	pact:sg:acc:m3:imperf:neg		
+> nieremasterujący	remasterować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+4310953a4311776,4311792
+> remasterowana	remasterować	ppas:sg:nom.voc:f:imperf:aff		
+> remasterowaną	remasterować	ppas:sg:acc.inst:f:imperf:aff		
+> remasterowanego	remasterować	ppas:sg:acc:m1.m2:imperf:aff		
+> remasterowanego	remasterować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> remasterowanej	remasterować	ppas:sg:gen.dat.loc:f:imperf:aff		
+> remasterowanemu	remasterować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> remasterowane	remasterować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> remasterowane	remasterować	ppas:sg:nom.acc.voc:n:imperf:aff		
+> remasterowaniach	remasterować	ger:pl:loc:n:imperf:aff		
+> remasterowaniami	remasterować	ger:pl:inst:n:imperf:aff		
+> remasterowania	remasterować	ger:pl:nom.acc:n:imperf:aff		
+> remasterowania	remasterować	ger:sg:gen:n:imperf:aff		
+> remasterowaniem	remasterować	ger:sg:inst:n:imperf:aff		
+> remasterowanie	remasterować	ger:sg:nom.acc:n:imperf:aff		
+> remasterowaniom	remasterować	ger:pl:dat:n:imperf:aff		
+> remasterowani	remasterować	ppas:pl:nom.voc:m1:imperf:aff		
+> remasterowaniu	remasterować	ger:sg:dat.loc:n:imperf:aff		
+4310954a4311794,4311810
+> remasterowanych	remasterować	ppas:pl:acc:m1:imperf:aff		
+> remasterowanych	remasterować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> remasterowanymi	remasterować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> remasterowanym	remasterować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> remasterowanym	remasterować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> remasterowany	remasterować	ppas:sg:acc:m3:imperf:aff		
+> remasterowany	remasterować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> remasterowań	remasterować	ger:pl:gen:n:imperf:aff		
+> remasterująca	remasterować	pact:sg:nom.voc:f:imperf:aff		
+> remasterującą	remasterować	pact:sg:acc.inst:f:imperf:aff		
+> remasterującego	remasterować	pact:sg:acc:m1.m2:imperf:aff		
+> remasterującego	remasterować	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> remasterującej	remasterować	pact:sg:gen.dat.loc:f:imperf:aff		
+> remasterującemu	remasterować	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> remasterujące	remasterować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> remasterujące	remasterować	pact:sg:nom.acc.voc:n:imperf:aff		
+> remasterująco	remasterować	pacta		
+4310955a4311812,4311819
+> remasterujących	remasterować	pact:pl:acc:m1:imperf:aff		
+> remasterujących	remasterować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> remasterującymi	remasterować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> remasterującym	remasterować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> remasterującym	remasterować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> remasterujący	remasterować	pact:pl:nom.voc:m1:imperf:aff		
+> remasterujący	remasterować	pact:sg:acc:m3:imperf:aff		
+> remasterujący	remasterować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+4488862,4488958c4489726,4489822
+< nierozspacjowana	rozspacjować	ppas:sg:nom.voc:f:perf:neg		
+< nierozspacjowaną	rozspacjować	ppas:sg:acc.inst:f:perf:neg		
+< nierozspacjowanego	rozspacjować	ppas:sg:acc:m1.m2:perf:neg		
+< nierozspacjowanego	rozspacjować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+< nierozspacjowanej	rozspacjować	ppas:sg:gen.dat.loc:f:perf:neg		
+< nierozspacjowanemu	rozspacjować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+< nierozspacjowane	rozspacjować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+< nierozspacjowane	rozspacjować	ppas:sg:nom.acc.voc:n:perf:neg		
+< nierozspacjowaniach	rozspacjować	ger:pl:loc:n:perf:neg		
+< nierozspacjowaniami	rozspacjować	ger:pl:inst:n:perf:neg		
+< nierozspacjowania	rozspacjować	ger:pl:nom.acc:n:perf:neg		
+< nierozspacjowania	rozspacjować	ger:sg:gen:n:perf:neg		
+< nierozspacjowaniem	rozspacjować	ger:sg:inst:n:perf:neg		
+< nierozspacjowanie	rozspacjować	ger:sg:nom.acc:n:perf:neg		
+< nierozspacjowaniom	rozspacjować	ger:pl:dat:n:perf:neg		
+< nierozspacjowani	rozspacjować	ppas:pl:nom.voc:m1:perf:neg		
+< nierozspacjowaniu	rozspacjować	ger:sg:dat.loc:n:perf:neg		
+< nierozspacjowanych	rozspacjować	ppas:pl:acc:m1:perf:neg		
+< nierozspacjowanych	rozspacjować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+< nierozspacjowanymi	rozspacjować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+< nierozspacjowanym	rozspacjować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+< nierozspacjowanym	rozspacjować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+< nierozspacjowany	rozspacjować	ppas:sg:acc:m3:perf:neg		
+< nierozspacjowany	rozspacjować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+< nierozspacjowań	rozspacjować	ger:pl:gen:n:perf:neg		
+< rozspacjować	rozspacjować	inf:perf		
+< rozspacjowaliby	rozspacjować	cond:pl:m1:ter:perf		
+< rozspacjowalibyście	rozspacjować	cond:pl:m1:sec:perf		
+< rozspacjowalibyśmy	rozspacjować	cond:pl:m1:pri:perf		
+< rozspacjowali	rozspacjować	praet:pl:m1:perf		
+< rozspacjowali	rozspacjować	praet:pl:m1:ter:perf		
+< rozspacjowaliście	rozspacjować	praet:pl:m1:sec:perf		
+< rozspacjowaliśmy	rozspacjować	praet:pl:m1:pri:perf		
+< rozspacjowałabym	rozspacjować	cond:sg:f:pri:perf		
+< rozspacjowałaby	rozspacjować	cond:sg:f:ter:perf		
+< rozspacjowałabyś	rozspacjować	cond:sg:f:sec:perf		
+< rozspacjowałam	rozspacjować	praet:sg:f:pri:perf		
+< rozspacjowała	rozspacjować	praet:sg:f:perf		
+< rozspacjowała	rozspacjować	praet:sg:f:ter:perf		
+< rozspacjowałaś	rozspacjować	praet:sg:f:sec:perf		
+< rozspacjowałbym	rozspacjować	cond:sg:m1.m2.m3:pri:perf		
+< rozspacjowałby	rozspacjować	cond:sg:m1.m2.m3:ter:perf		
+< rozspacjowałbyś	rozspacjować	cond:sg:m1.m2.m3:sec:perf		
+< rozspacjowałem	rozspacjować	praet:sg:m1.m2.m3:pri:perf		
+< rozspacjowałeś	rozspacjować	praet:sg:m1.m2.m3:sec:perf		
+< rozspacjowałobym	rozspacjować	cond:sg:n:pri:perf		
+< rozspacjowałoby	rozspacjować	cond:sg:n:ter:perf		
+< rozspacjowałobyś	rozspacjować	cond:sg:n:sec:perf		
+< rozspacjowałom	rozspacjować	praet:sg:n:pri:perf		
+< rozspacjowało	rozspacjować	praet:sg:n:perf		
+< rozspacjowało	rozspacjować	praet:sg:n:ter:perf		
+< rozspacjowałoś	rozspacjować	praet:sg:n:sec:perf		
+< rozspacjował	rozspacjować	praet:sg:m1.m2.m3:perf		
+< rozspacjował	rozspacjować	praet:sg:m1.m2.m3:ter:perf		
+< rozspacjowałyby	rozspacjować	cond:pl:m2.m3.f.n:ter:perf		
+< rozspacjowałybyście	rozspacjować	cond:pl:m2.m3.f.n:sec:perf		
+< rozspacjowałybyśmy	rozspacjować	cond:pl:m2.m3.f.n:pri:perf		
+< rozspacjowały	rozspacjować	praet:pl:m2.m3.f.n:perf		
+< rozspacjowały	rozspacjować	praet:pl:m2.m3.f.n:ter:perf		
+< rozspacjowałyście	rozspacjować	praet:pl:m2.m3.f.n:sec:perf		
+< rozspacjowałyśmy	rozspacjować	praet:pl:m2.m3.f.n:pri:perf		
+< rozspacjowana	rozspacjować	ppas:sg:nom.voc:f:perf:aff		
+< rozspacjowaną	rozspacjować	ppas:sg:acc.inst:f:perf:aff		
+< rozspacjowanego	rozspacjować	ppas:sg:acc:m1.m2:perf:aff		
+< rozspacjowanego	rozspacjować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+< rozspacjowanej	rozspacjować	ppas:sg:gen.dat.loc:f:perf:aff		
+< rozspacjowanemu	rozspacjować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+< rozspacjowane	rozspacjować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+< rozspacjowane	rozspacjować	ppas:sg:nom.acc.voc:n:perf:aff		
+< rozspacjowaniach	rozspacjować	ger:pl:loc:n:perf:aff		
+< rozspacjowaniami	rozspacjować	ger:pl:inst:n:perf:aff		
+< rozspacjowania	rozspacjować	ger:pl:nom.acc:n:perf:aff		
+< rozspacjowania	rozspacjować	ger:sg:gen:n:perf:aff		
+< rozspacjowaniem	rozspacjować	ger:sg:inst:n:perf:aff		
+< rozspacjowanie	rozspacjować	ger:sg:nom.acc:n:perf:aff		
+< rozspacjowaniom	rozspacjować	ger:pl:dat:n:perf:aff		
+< rozspacjowani	rozspacjować	ppas:pl:nom.voc:m1:perf:aff		
+< rozspacjowaniu	rozspacjować	ger:sg:dat.loc:n:perf:aff		
+< rozspacjowano	rozspacjować	imps:perf		
+< rozspacjowanych	rozspacjować	ppas:pl:acc:m1:perf:aff		
+< rozspacjowanych	rozspacjować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+< rozspacjowanymi	rozspacjować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+< rozspacjowanym	rozspacjować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+< rozspacjowanym	rozspacjować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+< rozspacjowany	rozspacjować	ppas:sg:acc:m3:perf:aff		
+< rozspacjowany	rozspacjować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+< rozspacjowań	rozspacjować	ger:pl:gen:n:perf:aff		
+< rozspacjowawszy	rozspacjować	pant:perf		
+< rozspacjują	rozspacjować	fin:pl:ter:perf		
+< rozspacjujcie	rozspacjować	impt:pl:sec:perf		
+< rozspacjujecie	rozspacjować	fin:pl:sec:perf		
+< rozspacjujemy	rozspacjować	fin:pl:pri:perf		
+< rozspacjuje	rozspacjować	fin:sg:ter:perf		
+< rozspacjujesz	rozspacjować	fin:sg:sec:perf		
+< rozspacjuję	rozspacjować	fin:sg:pri:perf		
+< rozspacjujmy	rozspacjować	impt:pl:pri:perf		
+< rozspacjuj	rozspacjować	impt:sg:sec:perf		
+---
+> nierozspacjowana	rozspacjować	ppas:sg:nom.voc:f:perf:neg		rzad.
+> nierozspacjowaną	rozspacjować	ppas:sg:acc.inst:f:perf:neg		rzad.
+> nierozspacjowanego	rozspacjować	ppas:sg:acc:m1.m2:perf:neg		rzad.
+> nierozspacjowanego	rozspacjować	ppas:sg:gen:m1.m2.m3.n:perf:neg		rzad.
+> nierozspacjowanej	rozspacjować	ppas:sg:gen.dat.loc:f:perf:neg		rzad.
+> nierozspacjowanemu	rozspacjować	ppas:sg:dat:m1.m2.m3.n:perf:neg		rzad.
+> nierozspacjowane	rozspacjować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		rzad.
+> nierozspacjowane	rozspacjować	ppas:sg:nom.acc.voc:n:perf:neg		rzad.
+> nierozspacjowaniach	rozspacjować	ger:pl:loc:n:perf:neg		rzad.
+> nierozspacjowaniami	rozspacjować	ger:pl:inst:n:perf:neg		rzad.
+> nierozspacjowania	rozspacjować	ger:pl:nom.acc:n:perf:neg		rzad.
+> nierozspacjowania	rozspacjować	ger:sg:gen:n:perf:neg		rzad.
+> nierozspacjowaniem	rozspacjować	ger:sg:inst:n:perf:neg		rzad.
+> nierozspacjowanie	rozspacjować	ger:sg:nom.acc:n:perf:neg		rzad.
+> nierozspacjowaniom	rozspacjować	ger:pl:dat:n:perf:neg		rzad.
+> nierozspacjowani	rozspacjować	ppas:pl:nom.voc:m1:perf:neg		rzad.
+> nierozspacjowaniu	rozspacjować	ger:sg:dat.loc:n:perf:neg		rzad.
+> nierozspacjowanych	rozspacjować	ppas:pl:acc:m1:perf:neg		rzad.
+> nierozspacjowanych	rozspacjować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		rzad.
+> nierozspacjowanymi	rozspacjować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		rzad.
+> nierozspacjowanym	rozspacjować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		rzad.
+> nierozspacjowanym	rozspacjować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		rzad.
+> nierozspacjowany	rozspacjować	ppas:sg:acc:m3:perf:neg		rzad.
+> nierozspacjowany	rozspacjować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		rzad.
+> nierozspacjowań	rozspacjować	ger:pl:gen:n:perf:neg		rzad.
+> rozspacjować	rozspacjować	inf:perf		rzad.
+> rozspacjowaliby	rozspacjować	cond:pl:m1:ter:perf		rzad.
+> rozspacjowalibyście	rozspacjować	cond:pl:m1:sec:perf		rzad.
+> rozspacjowalibyśmy	rozspacjować	cond:pl:m1:pri:perf		rzad.
+> rozspacjowali	rozspacjować	praet:pl:m1:perf		rzad.
+> rozspacjowali	rozspacjować	praet:pl:m1:ter:perf		rzad.
+> rozspacjowaliście	rozspacjować	praet:pl:m1:sec:perf		rzad.
+> rozspacjowaliśmy	rozspacjować	praet:pl:m1:pri:perf		rzad.
+> rozspacjowałabym	rozspacjować	cond:sg:f:pri:perf		rzad.
+> rozspacjowałaby	rozspacjować	cond:sg:f:ter:perf		rzad.
+> rozspacjowałabyś	rozspacjować	cond:sg:f:sec:perf		rzad.
+> rozspacjowałam	rozspacjować	praet:sg:f:pri:perf		rzad.
+> rozspacjowała	rozspacjować	praet:sg:f:perf		rzad.
+> rozspacjowała	rozspacjować	praet:sg:f:ter:perf		rzad.
+> rozspacjowałaś	rozspacjować	praet:sg:f:sec:perf		rzad.
+> rozspacjowałbym	rozspacjować	cond:sg:m1.m2.m3:pri:perf		rzad.
+> rozspacjowałby	rozspacjować	cond:sg:m1.m2.m3:ter:perf		rzad.
+> rozspacjowałbyś	rozspacjować	cond:sg:m1.m2.m3:sec:perf		rzad.
+> rozspacjowałem	rozspacjować	praet:sg:m1.m2.m3:pri:perf		rzad.
+> rozspacjowałeś	rozspacjować	praet:sg:m1.m2.m3:sec:perf		rzad.
+> rozspacjowałobym	rozspacjować	cond:sg:n:pri:perf		rzad.
+> rozspacjowałoby	rozspacjować	cond:sg:n:ter:perf		rzad.
+> rozspacjowałobyś	rozspacjować	cond:sg:n:sec:perf		rzad.
+> rozspacjowałom	rozspacjować	praet:sg:n:pri:perf		rzad.
+> rozspacjowało	rozspacjować	praet:sg:n:perf		rzad.
+> rozspacjowało	rozspacjować	praet:sg:n:ter:perf		rzad.
+> rozspacjowałoś	rozspacjować	praet:sg:n:sec:perf		rzad.
+> rozspacjował	rozspacjować	praet:sg:m1.m2.m3:perf		rzad.
+> rozspacjował	rozspacjować	praet:sg:m1.m2.m3:ter:perf		rzad.
+> rozspacjowałyby	rozspacjować	cond:pl:m2.m3.f.n:ter:perf		rzad.
+> rozspacjowałybyście	rozspacjować	cond:pl:m2.m3.f.n:sec:perf		rzad.
+> rozspacjowałybyśmy	rozspacjować	cond:pl:m2.m3.f.n:pri:perf		rzad.
+> rozspacjowały	rozspacjować	praet:pl:m2.m3.f.n:perf		rzad.
+> rozspacjowały	rozspacjować	praet:pl:m2.m3.f.n:ter:perf		rzad.
+> rozspacjowałyście	rozspacjować	praet:pl:m2.m3.f.n:sec:perf		rzad.
+> rozspacjowałyśmy	rozspacjować	praet:pl:m2.m3.f.n:pri:perf		rzad.
+> rozspacjowana	rozspacjować	ppas:sg:nom.voc:f:perf:aff		rzad.
+> rozspacjowaną	rozspacjować	ppas:sg:acc.inst:f:perf:aff		rzad.
+> rozspacjowanego	rozspacjować	ppas:sg:acc:m1.m2:perf:aff		rzad.
+> rozspacjowanego	rozspacjować	ppas:sg:gen:m1.m2.m3.n:perf:aff		rzad.
+> rozspacjowanej	rozspacjować	ppas:sg:gen.dat.loc:f:perf:aff		rzad.
+> rozspacjowanemu	rozspacjować	ppas:sg:dat:m1.m2.m3.n:perf:aff		rzad.
+> rozspacjowane	rozspacjować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		rzad.
+> rozspacjowane	rozspacjować	ppas:sg:nom.acc.voc:n:perf:aff		rzad.
+> rozspacjowaniach	rozspacjować	ger:pl:loc:n:perf:aff		rzad.
+> rozspacjowaniami	rozspacjować	ger:pl:inst:n:perf:aff		rzad.
+> rozspacjowania	rozspacjować	ger:pl:nom.acc:n:perf:aff		rzad.
+> rozspacjowania	rozspacjować	ger:sg:gen:n:perf:aff		rzad.
+> rozspacjowaniem	rozspacjować	ger:sg:inst:n:perf:aff		rzad.
+> rozspacjowanie	rozspacjować	ger:sg:nom.acc:n:perf:aff		rzad.
+> rozspacjowaniom	rozspacjować	ger:pl:dat:n:perf:aff		rzad.
+> rozspacjowani	rozspacjować	ppas:pl:nom.voc:m1:perf:aff		rzad.
+> rozspacjowaniu	rozspacjować	ger:sg:dat.loc:n:perf:aff		rzad.
+> rozspacjowano	rozspacjować	imps:perf		rzad.
+> rozspacjowanych	rozspacjować	ppas:pl:acc:m1:perf:aff		rzad.
+> rozspacjowanych	rozspacjować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		rzad.
+> rozspacjowanymi	rozspacjować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		rzad.
+> rozspacjowanym	rozspacjować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		rzad.
+> rozspacjowanym	rozspacjować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		rzad.
+> rozspacjowany	rozspacjować	ppas:sg:acc:m3:perf:aff		rzad.
+> rozspacjowany	rozspacjować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		rzad.
+> rozspacjowań	rozspacjować	ger:pl:gen:n:perf:aff		rzad.
+> rozspacjowawszy	rozspacjować	pant:perf		rzad.
+> rozspacjują	rozspacjować	fin:pl:ter:perf		rzad.
+> rozspacjujcie	rozspacjować	impt:pl:sec:perf		rzad.
+> rozspacjujecie	rozspacjować	fin:pl:sec:perf		rzad.
+> rozspacjujemy	rozspacjować	fin:pl:pri:perf		rzad.
+> rozspacjuje	rozspacjować	fin:sg:ter:perf		rzad.
+> rozspacjujesz	rozspacjować	fin:sg:sec:perf		rzad.
+> rozspacjuję	rozspacjować	fin:sg:pri:perf		rzad.
+> rozspacjujmy	rozspacjować	impt:pl:pri:perf		rzad.
+> rozspacjuj	rozspacjować	impt:sg:sec:perf		rzad.
+4568842a4569707
+> sabatarianów	sabatarianin	subst:pl:gen.acc:m1	nazwa pospolita	
+4735700a4736566
+> socynian	socynianin	subst:pl:gen.acc:m1	nazwa pospolita	
+4749901a4750768,4750814
+> spamować	spamować	inf:imperf		
+> spamowaliby	spamować	cond:pl:m1:ter:imperf		
+> spamowalibyście	spamować	cond:pl:m1:sec:imperf		
+> spamowalibyśmy	spamować	cond:pl:m1:pri:imperf		
+> spamowali	spamować	praet:pl:m1:imperf		
+> spamowali	spamować	praet:pl:m1:ter:imperf		
+> spamowaliście	spamować	praet:pl:m1:sec:imperf		
+> spamowaliśmy	spamować	praet:pl:m1:pri:imperf		
+> spamowałabym	spamować	cond:sg:f:pri:imperf		
+> spamowałaby	spamować	cond:sg:f:ter:imperf		
+> spamowałabyś	spamować	cond:sg:f:sec:imperf		
+> spamowałam	spamować	praet:sg:f:pri:imperf		
+> spamowała	spamować	praet:sg:f:imperf		
+> spamowała	spamować	praet:sg:f:ter:imperf		
+> spamowałaś	spamować	praet:sg:f:sec:imperf		
+> spamowałbym	spamować	cond:sg:m1.m2.m3:pri:imperf		
+> spamowałby	spamować	cond:sg:m1.m2.m3:ter:imperf		
+> spamowałbyś	spamować	cond:sg:m1.m2.m3:sec:imperf		
+> spamowałem	spamować	praet:sg:m1.m2.m3:pri:imperf		
+> spamowałeś	spamować	praet:sg:m1.m2.m3:sec:imperf		
+> spamowałobym	spamować	cond:sg:n:pri:imperf		
+> spamowałoby	spamować	cond:sg:n:ter:imperf		
+> spamowałobyś	spamować	cond:sg:n:sec:imperf		
+> spamowałom	spamować	praet:sg:n:pri:imperf		
+> spamowało	spamować	praet:sg:n:imperf		
+> spamowało	spamować	praet:sg:n:ter:imperf		
+> spamowałoś	spamować	praet:sg:n:sec:imperf		
+> spamował	spamować	praet:sg:m1.m2.m3:imperf		
+> spamował	spamować	praet:sg:m1.m2.m3:ter:imperf		
+> spamowałyby	spamować	cond:pl:m2.m3.f.n:ter:imperf		
+> spamowałybyście	spamować	cond:pl:m2.m3.f.n:sec:imperf		
+> spamowałybyśmy	spamować	cond:pl:m2.m3.f.n:pri:imperf		
+> spamowały	spamować	praet:pl:m2.m3.f.n:imperf		
+> spamowały	spamować	praet:pl:m2.m3.f.n:ter:imperf		
+> spamowałyście	spamować	praet:pl:m2.m3.f.n:sec:imperf		
+> spamowałyśmy	spamować	praet:pl:m2.m3.f.n:pri:imperf		
+> spamowano	spamować	imps:imperf		
+> spamując	spamować	pcon:imperf		
+> spamują	spamować	fin:pl:ter:imperf		
+> spamujcie	spamować	impt:pl:sec:imperf		
+> spamujecie	spamować	fin:pl:sec:imperf		
+> spamujemy	spamować	fin:pl:pri:imperf		
+> spamuje	spamować	fin:sg:ter:imperf		
+> spamujesz	spamować	fin:sg:sec:imperf		
+> spamuję	spamować	fin:sg:pri:imperf		
+> spamujmy	spamować	impt:pl:pri:imperf		
+> spamuj	spamować	impt:sg:sec:imperf		
+4854529a4855443,4855572
+> niestrukturowana	strukturować	ppas:sg:nom.voc:f:imperf:neg		
+> niestrukturowaną	strukturować	ppas:sg:acc.inst:f:imperf:neg		
+> niestrukturowanego	strukturować	ppas:sg:acc:m1.m2:imperf:neg		
+> niestrukturowanego	strukturować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> niestrukturowanej	strukturować	ppas:sg:gen.dat.loc:f:imperf:neg		
+> niestrukturowanemu	strukturować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> niestrukturowane	strukturować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niestrukturowane	strukturować	ppas:sg:nom.acc.voc:n:imperf:neg		
+> niestrukturowaniach	strukturować	ger:pl:loc:n:imperf:neg		
+> niestrukturowaniami	strukturować	ger:pl:inst:n:imperf:neg		
+> niestrukturowania	strukturować	ger:pl:nom.acc:n:imperf:neg		
+> niestrukturowania	strukturować	ger:sg:gen:n:imperf:neg		
+> niestrukturowaniem	strukturować	ger:sg:inst:n:imperf:neg		
+> niestrukturowanie	strukturować	ger:sg:nom.acc:n:imperf:neg		
+> niestrukturowaniom	strukturować	ger:pl:dat:n:imperf:neg		
+> niestrukturowani	strukturować	ppas:pl:nom.voc:m1:imperf:neg		
+> niestrukturowaniu	strukturować	ger:sg:dat.loc:n:imperf:neg		
+> niestrukturowanych	strukturować	ppas:pl:acc:m1:imperf:neg		
+> niestrukturowanych	strukturować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niestrukturowanymi	strukturować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niestrukturowanym	strukturować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niestrukturowanym	strukturować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niestrukturowany	strukturować	ppas:sg:acc:m3:imperf:neg		
+> niestrukturowany	strukturować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niestrukturowań	strukturować	ger:pl:gen:n:imperf:neg		
+> niestrukturująca	strukturować	pact:sg:nom.voc:f:imperf:neg		
+> niestrukturującą	strukturować	pact:sg:acc.inst:f:imperf:neg		
+> niestrukturującego	strukturować	pact:sg:acc:m1.m2:imperf:neg		
+> niestrukturującego	strukturować	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> niestrukturującej	strukturować	pact:sg:gen.dat.loc:f:imperf:neg		
+> niestrukturującemu	strukturować	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> niestrukturujące	strukturować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niestrukturujące	strukturować	pact:sg:nom.acc.voc:n:imperf:neg		
+> niestrukturujących	strukturować	pact:pl:acc:m1:imperf:neg		
+> niestrukturujących	strukturować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niestrukturującymi	strukturować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niestrukturującym	strukturować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niestrukturującym	strukturować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niestrukturujący	strukturować	pact:pl:nom.voc:m1:imperf:neg		
+> niestrukturujący	strukturować	pact:sg:acc:m3:imperf:neg		
+> niestrukturujący	strukturować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> strukturować	strukturować	inf:imperf		
+> strukturowaliby	strukturować	cond:pl:m1:ter:imperf		
+> strukturowalibyście	strukturować	cond:pl:m1:sec:imperf		
+> strukturowalibyśmy	strukturować	cond:pl:m1:pri:imperf		
+> strukturowali	strukturować	praet:pl:m1:imperf		
+> strukturowali	strukturować	praet:pl:m1:ter:imperf		
+> strukturowaliście	strukturować	praet:pl:m1:sec:imperf		
+> strukturowaliśmy	strukturować	praet:pl:m1:pri:imperf		
+> strukturowałabym	strukturować	cond:sg:f:pri:imperf		
+> strukturowałaby	strukturować	cond:sg:f:ter:imperf		
+> strukturowałabyś	strukturować	cond:sg:f:sec:imperf		
+> strukturowałam	strukturować	praet:sg:f:pri:imperf		
+> strukturowała	strukturować	praet:sg:f:imperf		
+> strukturowała	strukturować	praet:sg:f:ter:imperf		
+> strukturowałaś	strukturować	praet:sg:f:sec:imperf		
+> strukturowałbym	strukturować	cond:sg:m1.m2.m3:pri:imperf		
+> strukturowałby	strukturować	cond:sg:m1.m2.m3:ter:imperf		
+> strukturowałbyś	strukturować	cond:sg:m1.m2.m3:sec:imperf		
+> strukturowałem	strukturować	praet:sg:m1.m2.m3:pri:imperf		
+> strukturowałeś	strukturować	praet:sg:m1.m2.m3:sec:imperf		
+> strukturowałobym	strukturować	cond:sg:n:pri:imperf		
+> strukturowałoby	strukturować	cond:sg:n:ter:imperf		
+> strukturowałobyś	strukturować	cond:sg:n:sec:imperf		
+> strukturowałom	strukturować	praet:sg:n:pri:imperf		
+> strukturowało	strukturować	praet:sg:n:imperf		
+> strukturowało	strukturować	praet:sg:n:ter:imperf		
+> strukturowałoś	strukturować	praet:sg:n:sec:imperf		
+> strukturował	strukturować	praet:sg:m1.m2.m3:imperf		
+> strukturował	strukturować	praet:sg:m1.m2.m3:ter:imperf		
+> strukturowałyby	strukturować	cond:pl:m2.m3.f.n:ter:imperf		
+> strukturowałybyście	strukturować	cond:pl:m2.m3.f.n:sec:imperf		
+> strukturowałybyśmy	strukturować	cond:pl:m2.m3.f.n:pri:imperf		
+> strukturowały	strukturować	praet:pl:m2.m3.f.n:imperf		
+> strukturowały	strukturować	praet:pl:m2.m3.f.n:ter:imperf		
+> strukturowałyście	strukturować	praet:pl:m2.m3.f.n:sec:imperf		
+> strukturowałyśmy	strukturować	praet:pl:m2.m3.f.n:pri:imperf		
+> strukturowana	strukturować	ppas:sg:nom.voc:f:imperf:aff		
+> strukturowaną	strukturować	ppas:sg:acc.inst:f:imperf:aff		
+> strukturowanego	strukturować	ppas:sg:acc:m1.m2:imperf:aff		
+> strukturowanego	strukturować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> strukturowanej	strukturować	ppas:sg:gen.dat.loc:f:imperf:aff		
+> strukturowanemu	strukturować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> strukturowane	strukturować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> strukturowane	strukturować	ppas:sg:nom.acc.voc:n:imperf:aff		
+> strukturowaniach	strukturować	ger:pl:loc:n:imperf:aff		
+> strukturowaniami	strukturować	ger:pl:inst:n:imperf:aff		
+> strukturowania	strukturować	ger:pl:nom.acc:n:imperf:aff		
+> strukturowania	strukturować	ger:sg:gen:n:imperf:aff		
+> strukturowaniem	strukturować	ger:sg:inst:n:imperf:aff		
+> strukturowanie	strukturować	ger:sg:nom.acc:n:imperf:aff		
+> strukturowaniom	strukturować	ger:pl:dat:n:imperf:aff		
+> strukturowani	strukturować	ppas:pl:nom.voc:m1:imperf:aff		
+> strukturowaniu	strukturować	ger:sg:dat.loc:n:imperf:aff		
+> strukturowano	strukturować	imps:imperf		
+> strukturowanych	strukturować	ppas:pl:acc:m1:imperf:aff		
+> strukturowanych	strukturować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> strukturowanymi	strukturować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> strukturowanym	strukturować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> strukturowanym	strukturować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> strukturowany	strukturować	ppas:sg:acc:m3:imperf:aff		
+> strukturowany	strukturować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> strukturowań	strukturować	ger:pl:gen:n:imperf:aff		
+> strukturująca	strukturować	pact:sg:nom.voc:f:imperf:aff		
+> strukturującą	strukturować	pact:sg:acc.inst:f:imperf:aff		
+> strukturującego	strukturować	pact:sg:acc:m1.m2:imperf:aff		
+> strukturującego	strukturować	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> strukturującej	strukturować	pact:sg:gen.dat.loc:f:imperf:aff		
+> strukturującemu	strukturować	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> strukturujące	strukturować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> strukturujące	strukturować	pact:sg:nom.acc.voc:n:imperf:aff		
+> strukturująco	strukturować	pacta		
+> strukturując	strukturować	pcon:imperf		
+> strukturujących	strukturować	pact:pl:acc:m1:imperf:aff		
+> strukturujących	strukturować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> strukturującymi	strukturować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> strukturującym	strukturować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> strukturującym	strukturować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> strukturujący	strukturować	pact:pl:nom.voc:m1:imperf:aff		
+> strukturujący	strukturować	pact:sg:acc:m3:imperf:aff		
+> strukturujący	strukturować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> strukturują	strukturować	fin:pl:ter:imperf		
+> strukturujcie	strukturować	impt:pl:sec:imperf		
+> strukturujecie	strukturować	fin:pl:sec:imperf		
+> strukturujemy	strukturować	fin:pl:pri:imperf		
+> strukturuje	strukturować	fin:sg:ter:imperf		
+> strukturujesz	strukturować	fin:sg:sec:imperf		
+> strukturuję	strukturować	fin:sg:pri:imperf		
+> strukturujmy	strukturować	impt:pl:pri:imperf		
+> strukturuj	strukturować	impt:sg:sec:imperf		
+4854577,4854706c4855620,4855796
+< niestrukturyzowana	strukturyzować	ppas:sg:nom.voc:f:imperf:neg		
+< niestrukturyzowaną	strukturyzować	ppas:sg:acc.inst:f:imperf:neg		
+< niestrukturyzowanego	strukturyzować	ppas:sg:acc:m1.m2:imperf:neg		
+< niestrukturyzowanego	strukturyzować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+< niestrukturyzowanej	strukturyzować	ppas:sg:gen.dat.loc:f:imperf:neg		
+< niestrukturyzowanemu	strukturyzować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+< niestrukturyzowane	strukturyzować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+< niestrukturyzowane	strukturyzować	ppas:sg:nom.acc.voc:n:imperf:neg		
+< niestrukturyzowaniach	strukturyzować	ger:pl:loc:n:imperf:neg		
+< niestrukturyzowaniami	strukturyzować	ger:pl:inst:n:imperf:neg		
+< niestrukturyzowania	strukturyzować	ger:pl:nom.acc:n:imperf:neg		
+< niestrukturyzowania	strukturyzować	ger:sg:gen:n:imperf:neg		
+< niestrukturyzowaniem	strukturyzować	ger:sg:inst:n:imperf:neg		
+< niestrukturyzowanie	strukturyzować	ger:sg:nom.acc:n:imperf:neg		
+< niestrukturyzowaniom	strukturyzować	ger:pl:dat:n:imperf:neg		
+< niestrukturyzowani	strukturyzować	ppas:pl:nom.voc:m1:imperf:neg		
+< niestrukturyzowaniu	strukturyzować	ger:sg:dat.loc:n:imperf:neg		
+< niestrukturyzowanych	strukturyzować	ppas:pl:acc:m1:imperf:neg		
+< niestrukturyzowanych	strukturyzować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+< niestrukturyzowanymi	strukturyzować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+< niestrukturyzowanym	strukturyzować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+< niestrukturyzowanym	strukturyzować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+< niestrukturyzowany	strukturyzować	ppas:sg:acc:m3:imperf:neg		
+< niestrukturyzowany	strukturyzować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+< niestrukturyzowań	strukturyzować	ger:pl:gen:n:imperf:neg		
+< niestrukturyzująca	strukturyzować	pact:sg:nom.voc:f:imperf:neg		
+< niestrukturyzującą	strukturyzować	pact:sg:acc.inst:f:imperf:neg		
+< niestrukturyzującego	strukturyzować	pact:sg:acc:m1.m2:imperf:neg		
+< niestrukturyzującego	strukturyzować	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+< niestrukturyzującej	strukturyzować	pact:sg:gen.dat.loc:f:imperf:neg		
+< niestrukturyzującemu	strukturyzować	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+< niestrukturyzujące	strukturyzować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+< niestrukturyzujące	strukturyzować	pact:sg:nom.acc.voc:n:imperf:neg		
+< niestrukturyzujących	strukturyzować	pact:pl:acc:m1:imperf:neg		
+< niestrukturyzujących	strukturyzować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+< niestrukturyzującymi	strukturyzować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+< niestrukturyzującym	strukturyzować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+< niestrukturyzującym	strukturyzować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+< niestrukturyzujący	strukturyzować	pact:pl:nom.voc:m1:imperf:neg		
+< niestrukturyzujący	strukturyzować	pact:sg:acc:m3:imperf:neg		
+< niestrukturyzujący	strukturyzować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+< strukturyzować	strukturyzować	inf:imperf		
+< strukturyzowaliby	strukturyzować	cond:pl:m1:ter:imperf		
+< strukturyzowalibyście	strukturyzować	cond:pl:m1:sec:imperf		
+< strukturyzowalibyśmy	strukturyzować	cond:pl:m1:pri:imperf		
+< strukturyzowali	strukturyzować	praet:pl:m1:imperf		
+< strukturyzowali	strukturyzować	praet:pl:m1:ter:imperf		
+< strukturyzowaliście	strukturyzować	praet:pl:m1:sec:imperf		
+< strukturyzowaliśmy	strukturyzować	praet:pl:m1:pri:imperf		
+< strukturyzowałabym	strukturyzować	cond:sg:f:pri:imperf		
+< strukturyzowałaby	strukturyzować	cond:sg:f:ter:imperf		
+< strukturyzowałabyś	strukturyzować	cond:sg:f:sec:imperf		
+< strukturyzowałam	strukturyzować	praet:sg:f:pri:imperf		
+< strukturyzowała	strukturyzować	praet:sg:f:imperf		
+< strukturyzowała	strukturyzować	praet:sg:f:ter:imperf		
+< strukturyzowałaś	strukturyzować	praet:sg:f:sec:imperf		
+< strukturyzowałbym	strukturyzować	cond:sg:m1.m2.m3:pri:imperf		
+< strukturyzowałby	strukturyzować	cond:sg:m1.m2.m3:ter:imperf		
+< strukturyzowałbyś	strukturyzować	cond:sg:m1.m2.m3:sec:imperf		
+< strukturyzowałem	strukturyzować	praet:sg:m1.m2.m3:pri:imperf		
+< strukturyzowałeś	strukturyzować	praet:sg:m1.m2.m3:sec:imperf		
+< strukturyzowałobym	strukturyzować	cond:sg:n:pri:imperf		
+< strukturyzowałoby	strukturyzować	cond:sg:n:ter:imperf		
+< strukturyzowałobyś	strukturyzować	cond:sg:n:sec:imperf		
+< strukturyzowałom	strukturyzować	praet:sg:n:pri:imperf		
+< strukturyzowało	strukturyzować	praet:sg:n:imperf		
+< strukturyzowało	strukturyzować	praet:sg:n:ter:imperf		
+< strukturyzowałoś	strukturyzować	praet:sg:n:sec:imperf		
+< strukturyzował	strukturyzować	praet:sg:m1.m2.m3:imperf		
+< strukturyzował	strukturyzować	praet:sg:m1.m2.m3:ter:imperf		
+< strukturyzowałyby	strukturyzować	cond:pl:m2.m3.f.n:ter:imperf		
+< strukturyzowałybyście	strukturyzować	cond:pl:m2.m3.f.n:sec:imperf		
+< strukturyzowałybyśmy	strukturyzować	cond:pl:m2.m3.f.n:pri:imperf		
+< strukturyzowały	strukturyzować	praet:pl:m2.m3.f.n:imperf		
+< strukturyzowały	strukturyzować	praet:pl:m2.m3.f.n:ter:imperf		
+< strukturyzowałyście	strukturyzować	praet:pl:m2.m3.f.n:sec:imperf		
+< strukturyzowałyśmy	strukturyzować	praet:pl:m2.m3.f.n:pri:imperf		
+< strukturyzowana	strukturyzować	ppas:sg:nom.voc:f:imperf:aff		
+< strukturyzowaną	strukturyzować	ppas:sg:acc.inst:f:imperf:aff		
+< strukturyzowanego	strukturyzować	ppas:sg:acc:m1.m2:imperf:aff		
+< strukturyzowanego	strukturyzować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+< strukturyzowanej	strukturyzować	ppas:sg:gen.dat.loc:f:imperf:aff		
+< strukturyzowanemu	strukturyzować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+< strukturyzowane	strukturyzować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+< strukturyzowane	strukturyzować	ppas:sg:nom.acc.voc:n:imperf:aff		
+< strukturyzowaniach	strukturyzować	ger:pl:loc:n:imperf:aff		
+< strukturyzowaniami	strukturyzować	ger:pl:inst:n:imperf:aff		
+< strukturyzowania	strukturyzować	ger:pl:nom.acc:n:imperf:aff		
+< strukturyzowania	strukturyzować	ger:sg:gen:n:imperf:aff		
+< strukturyzowaniem	strukturyzować	ger:sg:inst:n:imperf:aff		
+< strukturyzowanie	strukturyzować	ger:sg:nom.acc:n:imperf:aff		
+< strukturyzowaniom	strukturyzować	ger:pl:dat:n:imperf:aff		
+< strukturyzowani	strukturyzować	ppas:pl:nom.voc:m1:imperf:aff		
+< strukturyzowaniu	strukturyzować	ger:sg:dat.loc:n:imperf:aff		
+< strukturyzowano	strukturyzować	imps:imperf		
+< strukturyzowanych	strukturyzować	ppas:pl:acc:m1:imperf:aff		
+< strukturyzowanych	strukturyzować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+< strukturyzowanymi	strukturyzować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+< strukturyzowanym	strukturyzować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+< strukturyzowanym	strukturyzować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+< strukturyzowany	strukturyzować	ppas:sg:acc:m3:imperf:aff		
+< strukturyzowany	strukturyzować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+< strukturyzowań	strukturyzować	ger:pl:gen:n:imperf:aff		
+< strukturyzująca	strukturyzować	pact:sg:nom.voc:f:imperf:aff		
+< strukturyzującą	strukturyzować	pact:sg:acc.inst:f:imperf:aff		
+< strukturyzującego	strukturyzować	pact:sg:acc:m1.m2:imperf:aff		
+< strukturyzującego	strukturyzować	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+< strukturyzującej	strukturyzować	pact:sg:gen.dat.loc:f:imperf:aff		
+< strukturyzującemu	strukturyzować	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+< strukturyzujące	strukturyzować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+< strukturyzujące	strukturyzować	pact:sg:nom.acc.voc:n:imperf:aff		
+< strukturyzująco	strukturyzować	pacta		
+< strukturyzując	strukturyzować	pcon:imperf		
+< strukturyzujących	strukturyzować	pact:pl:acc:m1:imperf:aff		
+< strukturyzujących	strukturyzować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+< strukturyzującymi	strukturyzować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+< strukturyzującym	strukturyzować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+< strukturyzującym	strukturyzować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+< strukturyzujący	strukturyzować	pact:pl:nom.voc:m1:imperf:aff		
+< strukturyzujący	strukturyzować	pact:sg:acc:m3:imperf:aff		
+< strukturyzujący	strukturyzować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+< strukturyzują	strukturyzować	fin:pl:ter:imperf		
+< strukturyzujcie	strukturyzować	impt:pl:sec:imperf		
+< strukturyzujecie	strukturyzować	fin:pl:sec:imperf		
+< strukturyzujemy	strukturyzować	fin:pl:pri:imperf		
+< strukturyzuje	strukturyzować	fin:sg:ter:imperf		
+< strukturyzujesz	strukturyzować	fin:sg:sec:imperf		
+< strukturyzuję	strukturyzować	fin:sg:pri:imperf		
+< strukturyzujmy	strukturyzować	impt:pl:pri:imperf		
+< strukturyzuj	strukturyzować	impt:sg:sec:imperf		
+---
+> niestrukturyzowana	strukturyzować:v1	ppas:sg:nom.voc:f:imperf:neg		
+> niestrukturyzowaną	strukturyzować:v1	ppas:sg:acc.inst:f:imperf:neg		
+> niestrukturyzowanego	strukturyzować:v1	ppas:sg:acc:m1.m2:imperf:neg		
+> niestrukturyzowanego	strukturyzować:v1	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> niestrukturyzowanej	strukturyzować:v1	ppas:sg:gen.dat.loc:f:imperf:neg		
+> niestrukturyzowanemu	strukturyzować:v1	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> niestrukturyzowane	strukturyzować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niestrukturyzowane	strukturyzować:v1	ppas:sg:nom.acc.voc:n:imperf:neg		
+> niestrukturyzowaniach	strukturyzować:v1	ger:pl:loc:n:imperf:neg		
+> niestrukturyzowaniami	strukturyzować:v1	ger:pl:inst:n:imperf:neg		
+> niestrukturyzowania	strukturyzować:v1	ger:pl:nom.acc:n:imperf:neg		
+> niestrukturyzowania	strukturyzować:v1	ger:sg:gen:n:imperf:neg		
+> niestrukturyzowaniem	strukturyzować:v1	ger:sg:inst:n:imperf:neg		
+> niestrukturyzowanie	strukturyzować:v1	ger:sg:nom.acc:n:imperf:neg		
+> niestrukturyzowaniom	strukturyzować:v1	ger:pl:dat:n:imperf:neg		
+> niestrukturyzowani	strukturyzować:v1	ppas:pl:nom.voc:m1:imperf:neg		
+> niestrukturyzowaniu	strukturyzować:v1	ger:sg:dat.loc:n:imperf:neg		
+> niestrukturyzowanych	strukturyzować:v1	ppas:pl:acc:m1:imperf:neg		
+> niestrukturyzowanych	strukturyzować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niestrukturyzowanymi	strukturyzować:v1	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niestrukturyzowanym	strukturyzować:v1	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niestrukturyzowanym	strukturyzować:v1	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niestrukturyzowany	strukturyzować:v1	ppas:sg:acc:m3:imperf:neg		
+> niestrukturyzowany	strukturyzować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niestrukturyzowań	strukturyzować:v1	ger:pl:gen:n:imperf:neg		
+> niestrukturyzująca	strukturyzować:v1	pact:sg:nom.voc:f:imperf:neg		
+> niestrukturyzującą	strukturyzować:v1	pact:sg:acc.inst:f:imperf:neg		
+> niestrukturyzującego	strukturyzować:v1	pact:sg:acc:m1.m2:imperf:neg		
+> niestrukturyzującego	strukturyzować:v1	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> niestrukturyzującej	strukturyzować:v1	pact:sg:gen.dat.loc:f:imperf:neg		
+> niestrukturyzującemu	strukturyzować:v1	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> niestrukturyzujące	strukturyzować:v1	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niestrukturyzujące	strukturyzować:v1	pact:sg:nom.acc.voc:n:imperf:neg		
+> niestrukturyzujących	strukturyzować:v1	pact:pl:acc:m1:imperf:neg		
+> niestrukturyzujących	strukturyzować:v1	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niestrukturyzującymi	strukturyzować:v1	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niestrukturyzującym	strukturyzować:v1	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niestrukturyzującym	strukturyzować:v1	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niestrukturyzujący	strukturyzować:v1	pact:pl:nom.voc:m1:imperf:neg		
+> niestrukturyzujący	strukturyzować:v1	pact:sg:acc:m3:imperf:neg		
+> niestrukturyzujący	strukturyzować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> strukturyzować	strukturyzować:v1	inf:imperf		
+> strukturyzowaliby	strukturyzować:v1	cond:pl:m1:ter:imperf		
+> strukturyzowalibyście	strukturyzować:v1	cond:pl:m1:sec:imperf		
+> strukturyzowalibyśmy	strukturyzować:v1	cond:pl:m1:pri:imperf		
+> strukturyzowali	strukturyzować:v1	praet:pl:m1:imperf		
+> strukturyzowali	strukturyzować:v1	praet:pl:m1:ter:imperf		
+> strukturyzowaliście	strukturyzować:v1	praet:pl:m1:sec:imperf		
+> strukturyzowaliśmy	strukturyzować:v1	praet:pl:m1:pri:imperf		
+> strukturyzowałabym	strukturyzować:v1	cond:sg:f:pri:imperf		
+> strukturyzowałaby	strukturyzować:v1	cond:sg:f:ter:imperf		
+> strukturyzowałabyś	strukturyzować:v1	cond:sg:f:sec:imperf		
+> strukturyzowałam	strukturyzować:v1	praet:sg:f:pri:imperf		
+> strukturyzowała	strukturyzować:v1	praet:sg:f:imperf		
+> strukturyzowała	strukturyzować:v1	praet:sg:f:ter:imperf		
+> strukturyzowałaś	strukturyzować:v1	praet:sg:f:sec:imperf		
+> strukturyzowałbym	strukturyzować:v1	cond:sg:m1.m2.m3:pri:imperf		
+> strukturyzowałby	strukturyzować:v1	cond:sg:m1.m2.m3:ter:imperf		
+> strukturyzowałbyś	strukturyzować:v1	cond:sg:m1.m2.m3:sec:imperf		
+> strukturyzowałem	strukturyzować:v1	praet:sg:m1.m2.m3:pri:imperf		
+> strukturyzowałeś	strukturyzować:v1	praet:sg:m1.m2.m3:sec:imperf		
+> strukturyzowałobym	strukturyzować:v1	cond:sg:n:pri:imperf		
+> strukturyzowałoby	strukturyzować:v1	cond:sg:n:ter:imperf		
+> strukturyzowałobyś	strukturyzować:v1	cond:sg:n:sec:imperf		
+> strukturyzowałom	strukturyzować:v1	praet:sg:n:pri:imperf		
+> strukturyzowało	strukturyzować:v1	praet:sg:n:imperf		
+> strukturyzowało	strukturyzować:v1	praet:sg:n:ter:imperf		
+> strukturyzowałoś	strukturyzować:v1	praet:sg:n:sec:imperf		
+> strukturyzował	strukturyzować:v1	praet:sg:m1.m2.m3:imperf		
+> strukturyzował	strukturyzować:v1	praet:sg:m1.m2.m3:ter:imperf		
+> strukturyzowałyby	strukturyzować:v1	cond:pl:m2.m3.f.n:ter:imperf		
+> strukturyzowałybyście	strukturyzować:v1	cond:pl:m2.m3.f.n:sec:imperf		
+> strukturyzowałybyśmy	strukturyzować:v1	cond:pl:m2.m3.f.n:pri:imperf		
+> strukturyzowały	strukturyzować:v1	praet:pl:m2.m3.f.n:imperf		
+> strukturyzowały	strukturyzować:v1	praet:pl:m2.m3.f.n:ter:imperf		
+> strukturyzowałyście	strukturyzować:v1	praet:pl:m2.m3.f.n:sec:imperf		
+> strukturyzowałyśmy	strukturyzować:v1	praet:pl:m2.m3.f.n:pri:imperf		
+> strukturyzowana	strukturyzować:v1	ppas:sg:nom.voc:f:imperf:aff		
+> strukturyzowaną	strukturyzować:v1	ppas:sg:acc.inst:f:imperf:aff		
+> strukturyzowanego	strukturyzować:v1	ppas:sg:acc:m1.m2:imperf:aff		
+> strukturyzowanego	strukturyzować:v1	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> strukturyzowanej	strukturyzować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
+> strukturyzowanemu	strukturyzować:v1	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> strukturyzowane	strukturyzować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> strukturyzowane	strukturyzować:v1	ppas:sg:nom.acc.voc:n:imperf:aff		
+> strukturyzowaniach	strukturyzować:v1	ger:pl:loc:n:imperf:aff		
+> strukturyzowaniami	strukturyzować:v1	ger:pl:inst:n:imperf:aff		
+> strukturyzowania	strukturyzować:v1	ger:pl:nom.acc:n:imperf:aff		
+> strukturyzowania	strukturyzować:v1	ger:sg:gen:n:imperf:aff		
+> strukturyzowaniem	strukturyzować:v1	ger:sg:inst:n:imperf:aff		
+> strukturyzowanie	strukturyzować:v1	ger:sg:nom.acc:n:imperf:aff		
+> strukturyzowaniom	strukturyzować:v1	ger:pl:dat:n:imperf:aff		
+> strukturyzowani	strukturyzować:v1	ppas:pl:nom.voc:m1:imperf:aff		
+> strukturyzowaniu	strukturyzować:v1	ger:sg:dat.loc:n:imperf:aff		
+> strukturyzowano	strukturyzować:v1	imps:imperf		
+> strukturyzowanych	strukturyzować:v1	ppas:pl:acc:m1:imperf:aff		
+> strukturyzowanych	strukturyzować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> strukturyzowanymi	strukturyzować:v1	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> strukturyzowanym	strukturyzować:v1	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> strukturyzowanym	strukturyzować:v1	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> strukturyzowany	strukturyzować:v1	ppas:sg:acc:m3:imperf:aff		
+> strukturyzowany	strukturyzować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> strukturyzowań	strukturyzować:v1	ger:pl:gen:n:imperf:aff		
+> strukturyzująca	strukturyzować:v1	pact:sg:nom.voc:f:imperf:aff		
+> strukturyzującą	strukturyzować:v1	pact:sg:acc.inst:f:imperf:aff		
+> strukturyzującego	strukturyzować:v1	pact:sg:acc:m1.m2:imperf:aff		
+> strukturyzującego	strukturyzować:v1	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> strukturyzującej	strukturyzować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
+> strukturyzującemu	strukturyzować:v1	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> strukturyzujące	strukturyzować:v1	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> strukturyzujące	strukturyzować:v1	pact:sg:nom.acc.voc:n:imperf:aff		
+> strukturyzująco	strukturyzować:v1	pacta		
+> strukturyzując	strukturyzować:v1	pcon:imperf		
+> strukturyzujących	strukturyzować:v1	pact:pl:acc:m1:imperf:aff		
+> strukturyzujących	strukturyzować:v1	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> strukturyzującymi	strukturyzować:v1	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> strukturyzującym	strukturyzować:v1	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> strukturyzującym	strukturyzować:v1	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> strukturyzujący	strukturyzować:v1	pact:pl:nom.voc:m1:imperf:aff		
+> strukturyzujący	strukturyzować:v1	pact:sg:acc:m3:imperf:aff		
+> strukturyzujący	strukturyzować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> strukturyzują	strukturyzować:v1	fin:pl:ter:imperf		
+> strukturyzujcie	strukturyzować:v1	impt:pl:sec:imperf		
+> strukturyzujecie	strukturyzować:v1	fin:pl:sec:imperf		
+> strukturyzujemy	strukturyzować:v1	fin:pl:pri:imperf		
+> strukturyzuje	strukturyzować:v1	fin:sg:ter:imperf		
+> strukturyzujesz	strukturyzować:v1	fin:sg:sec:imperf		
+> strukturyzuję	strukturyzować:v1	fin:sg:pri:imperf		
+> strukturyzujmy	strukturyzować:v1	impt:pl:pri:imperf		
+> strukturyzuj	strukturyzować:v1	impt:sg:sec:imperf		
+> strukturyzować	strukturyzować:v2	inf:imperf		
+> strukturyzowaliby	strukturyzować:v2	cond:pl:m1:ter:imperf		
+> strukturyzowalibyście	strukturyzować:v2	cond:pl:m1:sec:imperf		
+> strukturyzowalibyśmy	strukturyzować:v2	cond:pl:m1:pri:imperf		
+> strukturyzowali	strukturyzować:v2	praet:pl:m1:imperf		
+> strukturyzowali	strukturyzować:v2	praet:pl:m1:ter:imperf		
+> strukturyzowaliście	strukturyzować:v2	praet:pl:m1:sec:imperf		
+> strukturyzowaliśmy	strukturyzować:v2	praet:pl:m1:pri:imperf		
+> strukturyzowałabym	strukturyzować:v2	cond:sg:f:pri:imperf		
+> strukturyzowałaby	strukturyzować:v2	cond:sg:f:ter:imperf		
+> strukturyzowałabyś	strukturyzować:v2	cond:sg:f:sec:imperf		
+> strukturyzowałam	strukturyzować:v2	praet:sg:f:pri:imperf		
+> strukturyzowała	strukturyzować:v2	praet:sg:f:imperf		
+> strukturyzowała	strukturyzować:v2	praet:sg:f:ter:imperf		
+> strukturyzowałaś	strukturyzować:v2	praet:sg:f:sec:imperf		
+> strukturyzowałbym	strukturyzować:v2	cond:sg:m1.m2.m3:pri:imperf		
+> strukturyzowałby	strukturyzować:v2	cond:sg:m1.m2.m3:ter:imperf		
+> strukturyzowałbyś	strukturyzować:v2	cond:sg:m1.m2.m3:sec:imperf		
+> strukturyzowałem	strukturyzować:v2	praet:sg:m1.m2.m3:pri:imperf		
+> strukturyzowałeś	strukturyzować:v2	praet:sg:m1.m2.m3:sec:imperf		
+> strukturyzowałobym	strukturyzować:v2	cond:sg:n:pri:imperf		
+> strukturyzowałoby	strukturyzować:v2	cond:sg:n:ter:imperf		
+> strukturyzowałobyś	strukturyzować:v2	cond:sg:n:sec:imperf		
+> strukturyzowałom	strukturyzować:v2	praet:sg:n:pri:imperf		
+> strukturyzowało	strukturyzować:v2	praet:sg:n:imperf		
+> strukturyzowało	strukturyzować:v2	praet:sg:n:ter:imperf		
+> strukturyzowałoś	strukturyzować:v2	praet:sg:n:sec:imperf		
+> strukturyzował	strukturyzować:v2	praet:sg:m1.m2.m3:imperf		
+> strukturyzował	strukturyzować:v2	praet:sg:m1.m2.m3:ter:imperf		
+> strukturyzowałyby	strukturyzować:v2	cond:pl:m2.m3.f.n:ter:imperf		
+> strukturyzowałybyście	strukturyzować:v2	cond:pl:m2.m3.f.n:sec:imperf		
+> strukturyzowałybyśmy	strukturyzować:v2	cond:pl:m2.m3.f.n:pri:imperf		
+> strukturyzowały	strukturyzować:v2	praet:pl:m2.m3.f.n:imperf		
+> strukturyzowały	strukturyzować:v2	praet:pl:m2.m3.f.n:ter:imperf		
+> strukturyzowałyście	strukturyzować:v2	praet:pl:m2.m3.f.n:sec:imperf		
+> strukturyzowałyśmy	strukturyzować:v2	praet:pl:m2.m3.f.n:pri:imperf		
+> strukturyzowano	strukturyzować:v2	imps:imperf		
+> strukturyzując	strukturyzować:v2	pcon:imperf		
+> strukturyzują	strukturyzować:v2	fin:pl:ter:imperf		
+> strukturyzujcie	strukturyzować:v2	impt:pl:sec:imperf		
+> strukturyzujecie	strukturyzować:v2	fin:pl:sec:imperf		
+> strukturyzujemy	strukturyzować:v2	fin:pl:pri:imperf		
+> strukturyzuje	strukturyzować:v2	fin:sg:ter:imperf		
+> strukturyzujesz	strukturyzować:v2	fin:sg:sec:imperf		
+> strukturyzuję	strukturyzować:v2	fin:sg:pri:imperf		
+> strukturyzujmy	strukturyzować:v2	impt:pl:pri:imperf		
+> strukturyzuj	strukturyzować:v2	impt:sg:sec:imperf		
+5059292,5059302c5060382,5060403
+< touchpadach	touchpad	subst:pl:loc:m3	nazwa pospolita	
+< touchpadami	touchpad	subst:pl:inst:m3	nazwa pospolita	
+< touchpada	touchpad	subst:sg:gen:m3	nazwa pospolita	
+< touchpadem	touchpad	subst:sg:inst:m3	nazwa pospolita	
+< touchpadom	touchpad	subst:pl:dat:m3	nazwa pospolita	
+< touchpadowi	touchpad	subst:sg:dat:m3	nazwa pospolita	
+< touchpadów	touchpad	subst:pl:gen:m3	nazwa pospolita	
+< touchpad	touchpad	subst:sg:nom.acc:m3	nazwa pospolita	
+< touchpady	touchpad	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< touchpadzie	touchpad	subst:sg:loc:m3	nazwa pospolita	
+< touchpadzie	touchpad	subst:sg:voc:m3	nazwa pospolita	
+---
+> touchpadach	touchpad	subst:pl:loc:m3	nazwa pospolita	komp.
+> touchpadami	touchpad	subst:pl:inst:m3	nazwa pospolita	komp.
+> touchpada	touchpad	subst:sg:gen:m3	nazwa pospolita	komp.
+> touchpadem	touchpad	subst:sg:inst:m3	nazwa pospolita	komp.
+> touchpadom	touchpad	subst:pl:dat:m3	nazwa pospolita	komp.
+> touchpadowi	touchpad	subst:sg:dat:m3	nazwa pospolita	komp.
+> touchpadów	touchpad	subst:pl:gen:m3	nazwa pospolita	komp.
+> touchpad	touchpad	subst:sg:nom.acc:m3	nazwa pospolita	komp.
+> touchpady	touchpad	subst:pl:nom.acc.voc:m3	nazwa pospolita	komp.
+> touchpadzie	touchpad	subst:sg:loc:m3	nazwa pospolita	komp.
+> touchpadzie	touchpad	subst:sg:voc:m3	nazwa pospolita	komp.
+> touch-screenach	touch-screen	subst:pl:loc:m3	nazwa pospolita	komp.
+> touch-screenami	touch-screen	subst:pl:inst:m3	nazwa pospolita	komp.
+> touch-screenem	touch-screen	subst:sg:inst:m3	nazwa pospolita	komp.
+> touch-screenie	touch-screen	subst:sg:loc:m3	nazwa pospolita	komp.
+> touch-screenie	touch-screen	subst:sg:voc:m3	nazwa pospolita	komp.
+> touch-screenom	touch-screen	subst:pl:dat:m3	nazwa pospolita	komp.
+> touch-screenowi	touch-screen	subst:sg:dat:m3	nazwa pospolita	komp.
+> touch-screenów	touch-screen	subst:pl:gen:m3	nazwa pospolita	komp.
+> touch-screen	touch-screen	subst:sg:nom.acc:m3	nazwa pospolita	komp.
+> touch-screenu	touch-screen	subst:sg:gen:m3	nazwa pospolita	komp.
+> touch-screeny	touch-screen	subst:pl:nom.acc.voc:m3	nazwa pospolita	komp.
+5294215a5295317,5295413
+> nieustrukturowana	ustrukturować	ppas:sg:nom.voc:f:perf:neg		
+> nieustrukturowaną	ustrukturować	ppas:sg:acc.inst:f:perf:neg		
+> nieustrukturowanego	ustrukturować	ppas:sg:acc:m1.m2:perf:neg		
+> nieustrukturowanego	ustrukturować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> nieustrukturowanej	ustrukturować	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieustrukturowanemu	ustrukturować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> nieustrukturowane	ustrukturować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> nieustrukturowane	ustrukturować	ppas:sg:nom.acc.voc:n:perf:neg		
+> nieustrukturowaniach	ustrukturować	ger:pl:loc:n:perf:neg		
+> nieustrukturowaniami	ustrukturować	ger:pl:inst:n:perf:neg		
+> nieustrukturowania	ustrukturować	ger:pl:nom.acc:n:perf:neg		
+> nieustrukturowania	ustrukturować	ger:sg:gen:n:perf:neg		
+> nieustrukturowaniem	ustrukturować	ger:sg:inst:n:perf:neg		
+> nieustrukturowanie	ustrukturować	ger:sg:nom.acc:n:perf:neg		
+> nieustrukturowaniom	ustrukturować	ger:pl:dat:n:perf:neg		
+> nieustrukturowani	ustrukturować	ppas:pl:nom.voc:m1:perf:neg		
+> nieustrukturowaniu	ustrukturować	ger:sg:dat.loc:n:perf:neg		
+> nieustrukturowanych	ustrukturować	ppas:pl:acc:m1:perf:neg		
+> nieustrukturowanych	ustrukturować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> nieustrukturowanymi	ustrukturować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> nieustrukturowanym	ustrukturować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> nieustrukturowanym	ustrukturować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> nieustrukturowany	ustrukturować	ppas:sg:acc:m3:perf:neg		
+> nieustrukturowany	ustrukturować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nieustrukturowań	ustrukturować	ger:pl:gen:n:perf:neg		
+> ustrukturować	ustrukturować	inf:perf		
+> ustrukturowalibyście	ustrukturować	cond:pl:m1:sec:perf		
+> ustrukturowalibyśmy	ustrukturować	cond:pl:m1:pri:perf		
+> ustrukturowaliby	ustrukturować	cond:pl:m1:ter:perf		
+> ustrukturowaliście	ustrukturować	praet:pl:m1:sec:perf		
+> ustrukturowaliśmy	ustrukturować	praet:pl:m1:pri:perf		
+> ustrukturowali	ustrukturować	praet:pl:m1:perf		
+> ustrukturowali	ustrukturować	praet:pl:m1:ter:perf		
+> ustrukturowałabym	ustrukturować	cond:sg:f:pri:perf		
+> ustrukturowałabyś	ustrukturować	cond:sg:f:sec:perf		
+> ustrukturowałaby	ustrukturować	cond:sg:f:ter:perf		
+> ustrukturowałam	ustrukturować	praet:sg:f:pri:perf		
+> ustrukturowałaś	ustrukturować	praet:sg:f:sec:perf		
+> ustrukturowała	ustrukturować	praet:sg:f:perf		
+> ustrukturowała	ustrukturować	praet:sg:f:ter:perf		
+> ustrukturowałbym	ustrukturować	cond:sg:m1.m2.m3:pri:perf		
+> ustrukturowałbyś	ustrukturować	cond:sg:m1.m2.m3:sec:perf		
+> ustrukturowałby	ustrukturować	cond:sg:m1.m2.m3:ter:perf		
+> ustrukturowałem	ustrukturować	praet:sg:m1.m2.m3:pri:perf		
+> ustrukturowałeś	ustrukturować	praet:sg:m1.m2.m3:sec:perf		
+> ustrukturowałobym	ustrukturować	cond:sg:n:pri:perf		
+> ustrukturowałobyś	ustrukturować	cond:sg:n:sec:perf		
+> ustrukturowałoby	ustrukturować	cond:sg:n:ter:perf		
+> ustrukturowałom	ustrukturować	praet:sg:n:pri:perf		
+> ustrukturowałoś	ustrukturować	praet:sg:n:sec:perf		
+> ustrukturowało	ustrukturować	praet:sg:n:perf		
+> ustrukturowało	ustrukturować	praet:sg:n:ter:perf		
+> ustrukturował	ustrukturować	praet:sg:m1.m2.m3:perf		
+> ustrukturował	ustrukturować	praet:sg:m1.m2.m3:ter:perf		
+> ustrukturowałybyście	ustrukturować	cond:pl:m2.m3.f.n:sec:perf		
+> ustrukturowałybyśmy	ustrukturować	cond:pl:m2.m3.f.n:pri:perf		
+> ustrukturowałyby	ustrukturować	cond:pl:m2.m3.f.n:ter:perf		
+> ustrukturowałyście	ustrukturować	praet:pl:m2.m3.f.n:sec:perf		
+> ustrukturowałyśmy	ustrukturować	praet:pl:m2.m3.f.n:pri:perf		
+> ustrukturowały	ustrukturować	praet:pl:m2.m3.f.n:perf		
+> ustrukturowały	ustrukturować	praet:pl:m2.m3.f.n:ter:perf		
+> ustrukturowana	ustrukturować	ppas:sg:nom.voc:f:perf:aff		
+> ustrukturowaną	ustrukturować	ppas:sg:acc.inst:f:perf:aff		
+> ustrukturowanego	ustrukturować	ppas:sg:acc:m1.m2:perf:aff		
+> ustrukturowanego	ustrukturować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> ustrukturowanej	ustrukturować	ppas:sg:gen.dat.loc:f:perf:aff		
+> ustrukturowanemu	ustrukturować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> ustrukturowane	ustrukturować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> ustrukturowane	ustrukturować	ppas:sg:nom.acc.voc:n:perf:aff		
+> ustrukturowaniach	ustrukturować	ger:pl:loc:n:perf:aff		
+> ustrukturowaniami	ustrukturować	ger:pl:inst:n:perf:aff		
+> ustrukturowania	ustrukturować	ger:pl:nom.acc:n:perf:aff		
+> ustrukturowania	ustrukturować	ger:sg:gen:n:perf:aff		
+> ustrukturowaniem	ustrukturować	ger:sg:inst:n:perf:aff		
+> ustrukturowanie	ustrukturować	ger:sg:nom.acc:n:perf:aff		
+> ustrukturowaniom	ustrukturować	ger:pl:dat:n:perf:aff		
+> ustrukturowani	ustrukturować	ppas:pl:nom.voc:m1:perf:aff		
+> ustrukturowaniu	ustrukturować	ger:sg:dat.loc:n:perf:aff		
+> ustrukturowano	ustrukturować	imps:perf		
+> ustrukturowanych	ustrukturować	ppas:pl:acc:m1:perf:aff		
+> ustrukturowanych	ustrukturować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> ustrukturowanymi	ustrukturować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> ustrukturowanym	ustrukturować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> ustrukturowanym	ustrukturować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> ustrukturowany	ustrukturować	ppas:sg:acc:m3:perf:aff		
+> ustrukturowany	ustrukturować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> ustrukturowań	ustrukturować	ger:pl:gen:n:perf:aff		
+> ustrukturowawszy	ustrukturować	pant:perf		
+> ustrukturują	ustrukturować	fin:pl:ter:perf		
+> ustrukturujcie	ustrukturować	impt:pl:sec:perf		
+> ustrukturujecie	ustrukturować	fin:pl:sec:perf		
+> ustrukturujemy	ustrukturować	fin:pl:pri:perf		
+> ustrukturujesz	ustrukturować	fin:sg:sec:perf		
+> ustrukturuje	ustrukturować	fin:sg:ter:perf		
+> ustrukturuję	ustrukturować	fin:sg:pri:perf		
+> ustrukturujmy	ustrukturować	impt:pl:pri:perf		
+> ustrukturuj	ustrukturować	impt:sg:sec:perf		
+5606899a5608098,5608244
+> nieodfiletowana	wyfiletować	ppas:sg:nom.voc:f:perf:neg		
+> nieodfiletowaną	wyfiletować	ppas:sg:acc.inst:f:perf:neg		
+> nieodfiletowanego	wyfiletować	ppas:sg:acc:m1.m2:perf:neg		
+> nieodfiletowanego	wyfiletować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> nieodfiletowanej	wyfiletować	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieodfiletowanemu	wyfiletować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> nieodfiletowane	wyfiletować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> nieodfiletowane	wyfiletować	ppas:sg:nom.acc.voc:n:perf:neg		
+> nieodfiletowaniach	wyfiletować	ger:pl:loc:n:perf:neg		
+> nieodfiletowaniami	wyfiletować	ger:pl:inst:n:perf:neg		
+> nieodfiletowania	wyfiletować	ger:pl:nom.acc:n:perf:neg		
+> nieodfiletowania	wyfiletować	ger:sg:gen:n:perf:neg		
+> nieodfiletowaniem	wyfiletować	ger:sg:inst:n:perf:neg		
+> nieodfiletowanie	wyfiletować	ger:sg:nom.acc:n:perf:neg		
+> nieodfiletowaniom	wyfiletować	ger:pl:dat:n:perf:neg		
+> nieodfiletowaniu	wyfiletować	ger:sg:dat.loc:n:perf:neg		
+> nieodfiletowani	wyfiletować	ppas:pl:nom.voc:m1:perf:neg		
+> nieodfiletowanych	wyfiletować	ppas:pl:acc:m1:perf:neg		
+> nieodfiletowanych	wyfiletować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> nieodfiletowanymi	wyfiletować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> nieodfiletowanym	wyfiletować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> nieodfiletowanym	wyfiletować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> nieodfiletowany	wyfiletować	ppas:sg:acc:m3:perf:neg		
+> nieodfiletowany	wyfiletować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nieodfiletowań	wyfiletować	ger:pl:gen:n:perf:neg		
+> niewyfiletowana	wyfiletować	ppas:sg:nom.voc:f:perf:neg		
+> niewyfiletowaną	wyfiletować	ppas:sg:acc.inst:f:perf:neg		
+> niewyfiletowanego	wyfiletować	ppas:sg:acc:m1.m2:perf:neg		
+> niewyfiletowanego	wyfiletować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niewyfiletowanej	wyfiletować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niewyfiletowanemu	wyfiletować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niewyfiletowane	wyfiletować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niewyfiletowane	wyfiletować	ppas:sg:nom.acc.voc:n:perf:neg		
+> niewyfiletowaniach	wyfiletować	ger:pl:loc:n:perf:neg		
+> niewyfiletowaniami	wyfiletować	ger:pl:inst:n:perf:neg		
+> niewyfiletowania	wyfiletować	ger:pl:nom.acc:n:perf:neg		
+> niewyfiletowania	wyfiletować	ger:sg:gen:n:perf:neg		
+> niewyfiletowaniem	wyfiletować	ger:sg:inst:n:perf:neg		
+> niewyfiletowanie	wyfiletować	ger:sg:nom.acc:n:perf:neg		
+> niewyfiletowaniom	wyfiletować	ger:pl:dat:n:perf:neg		
+> niewyfiletowaniu	wyfiletować	ger:sg:dat.loc:n:perf:neg		
+> niewyfiletowani	wyfiletować	ppas:pl:nom.voc:m1:perf:neg		
+> niewyfiletowanych	wyfiletować	ppas:pl:acc:m1:perf:neg		
+> niewyfiletowanych	wyfiletować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niewyfiletowanymi	wyfiletować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niewyfiletowanym	wyfiletować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niewyfiletowanym	wyfiletować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niewyfiletowany	wyfiletować	ppas:sg:acc:m3:perf:neg		
+> niewyfiletowany	wyfiletować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niewyfiletowań	wyfiletować	ger:pl:gen:n:perf:neg		
+> odfiletowana	wyfiletować	ppas:sg:nom.voc:f:perf:aff		
+> odfiletowaną	wyfiletować	ppas:sg:acc.inst:f:perf:aff		
+> odfiletowanego	wyfiletować	ppas:sg:acc:m1.m2:perf:aff		
+> odfiletowanego	wyfiletować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> odfiletowanej	wyfiletować	ppas:sg:gen.dat.loc:f:perf:aff		
+> odfiletowanemu	wyfiletować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> odfiletowane	wyfiletować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> odfiletowane	wyfiletować	ppas:sg:nom.acc.voc:n:perf:aff		
+> odfiletowaniach	wyfiletować	ger:pl:loc:n:perf:aff		
+> odfiletowaniami	wyfiletować	ger:pl:inst:n:perf:aff		
+> odfiletowania	wyfiletować	ger:pl:nom.acc:n:perf:aff		
+> odfiletowania	wyfiletować	ger:sg:gen:n:perf:aff		
+> odfiletowaniem	wyfiletować	ger:sg:inst:n:perf:aff		
+> odfiletowanie	wyfiletować	ger:sg:nom.acc:n:perf:aff		
+> odfiletowaniom	wyfiletować	ger:pl:dat:n:perf:aff		
+> odfiletowaniu	wyfiletować	ger:sg:dat.loc:n:perf:aff		
+> odfiletowani	wyfiletować	ppas:pl:nom.voc:m1:perf:aff		
+> odfiletowanych	wyfiletować	ppas:pl:acc:m1:perf:aff		
+> odfiletowanych	wyfiletować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> odfiletowanymi	wyfiletować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> odfiletowanym	wyfiletować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> odfiletowanym	wyfiletować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> odfiletowany	wyfiletować	ppas:sg:acc:m3:perf:aff		
+> odfiletowany	wyfiletować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> odfiletowań	wyfiletować	ger:pl:gen:n:perf:aff		
+> wyfiletować	wyfiletować	inf:perf		
+> wyfiletowalibyście	wyfiletować	cond:pl:m1:sec:perf		
+> wyfiletowalibyśmy	wyfiletować	cond:pl:m1:pri:perf		
+> wyfiletowaliby	wyfiletować	cond:pl:m1:ter:perf		
+> wyfiletowaliście	wyfiletować	praet:pl:m1:sec:perf		
+> wyfiletowaliśmy	wyfiletować	praet:pl:m1:pri:perf		
+> wyfiletowali	wyfiletować	praet:pl:m1:perf		
+> wyfiletowali	wyfiletować	praet:pl:m1:ter:perf		
+> wyfiletowałabym	wyfiletować	cond:sg:f:pri:perf		
+> wyfiletowałabyś	wyfiletować	cond:sg:f:sec:perf		
+> wyfiletowałaby	wyfiletować	cond:sg:f:ter:perf		
+> wyfiletowałam	wyfiletować	praet:sg:f:pri:perf		
+> wyfiletowałaś	wyfiletować	praet:sg:f:sec:perf		
+> wyfiletowała	wyfiletować	praet:sg:f:perf		
+> wyfiletowała	wyfiletować	praet:sg:f:ter:perf		
+> wyfiletowałbym	wyfiletować	cond:sg:m1.m2.m3:pri:perf		
+> wyfiletowałbyś	wyfiletować	cond:sg:m1.m2.m3:sec:perf		
+> wyfiletowałby	wyfiletować	cond:sg:m1.m2.m3:ter:perf		
+> wyfiletowałem	wyfiletować	praet:sg:m1.m2.m3:pri:perf		
+> wyfiletowałeś	wyfiletować	praet:sg:m1.m2.m3:sec:perf		
+> wyfiletowałobym	wyfiletować	cond:sg:n:pri:perf		
+> wyfiletowałobyś	wyfiletować	cond:sg:n:sec:perf		
+> wyfiletowałoby	wyfiletować	cond:sg:n:ter:perf		
+> wyfiletowałom	wyfiletować	praet:sg:n:pri:perf		
+> wyfiletowałoś	wyfiletować	praet:sg:n:sec:perf		
+> wyfiletowało	wyfiletować	praet:sg:n:perf		
+> wyfiletowało	wyfiletować	praet:sg:n:ter:perf		
+> wyfiletował	wyfiletować	praet:sg:m1.m2.m3:perf		
+> wyfiletował	wyfiletować	praet:sg:m1.m2.m3:ter:perf		
+> wyfiletowałybyście	wyfiletować	cond:pl:m2.m3.f.n:sec:perf		
+> wyfiletowałybyśmy	wyfiletować	cond:pl:m2.m3.f.n:pri:perf		
+> wyfiletowałyby	wyfiletować	cond:pl:m2.m3.f.n:ter:perf		
+> wyfiletowałyście	wyfiletować	praet:pl:m2.m3.f.n:sec:perf		
+> wyfiletowałyśmy	wyfiletować	praet:pl:m2.m3.f.n:pri:perf		
+> wyfiletowały	wyfiletować	praet:pl:m2.m3.f.n:perf		
+> wyfiletowały	wyfiletować	praet:pl:m2.m3.f.n:ter:perf		
+> wyfiletowana	wyfiletować	ppas:sg:nom.voc:f:perf:aff		
+> wyfiletowaną	wyfiletować	ppas:sg:acc.inst:f:perf:aff		
+> wyfiletowanego	wyfiletować	ppas:sg:acc:m1.m2:perf:aff		
+> wyfiletowanego	wyfiletować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> wyfiletowanej	wyfiletować	ppas:sg:gen.dat.loc:f:perf:aff		
+> wyfiletowanemu	wyfiletować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> wyfiletowane	wyfiletować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> wyfiletowane	wyfiletować	ppas:sg:nom.acc.voc:n:perf:aff		
+> wyfiletowaniach	wyfiletować	ger:pl:loc:n:perf:aff		
+> wyfiletowaniami	wyfiletować	ger:pl:inst:n:perf:aff		
+> wyfiletowania	wyfiletować	ger:pl:nom.acc:n:perf:aff		
+> wyfiletowania	wyfiletować	ger:sg:gen:n:perf:aff		
+> wyfiletowaniem	wyfiletować	ger:sg:inst:n:perf:aff		
+> wyfiletowanie	wyfiletować	ger:sg:nom.acc:n:perf:aff		
+> wyfiletowaniom	wyfiletować	ger:pl:dat:n:perf:aff		
+> wyfiletowaniu	wyfiletować	ger:sg:dat.loc:n:perf:aff		
+> wyfiletowani	wyfiletować	ppas:pl:nom.voc:m1:perf:aff		
+> wyfiletowano	wyfiletować	imps:perf		
+> wyfiletowanych	wyfiletować	ppas:pl:acc:m1:perf:aff		
+> wyfiletowanych	wyfiletować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> wyfiletowanymi	wyfiletować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> wyfiletowanym	wyfiletować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> wyfiletowanym	wyfiletować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> wyfiletowany	wyfiletować	ppas:sg:acc:m3:perf:aff		
+> wyfiletowany	wyfiletować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> wyfiletowań	wyfiletować	ger:pl:gen:n:perf:aff		
+> wyfiletowawszy	wyfiletować	pant:perf		
+> wyfiletują	wyfiletować	fin:pl:ter:perf		
+> wyfiletujcie	wyfiletować	impt:pl:sec:perf		
+> wyfiletujecie	wyfiletować	fin:pl:sec:perf		
+> wyfiletujemy	wyfiletować	fin:pl:pri:perf		
+> wyfiletujesz	wyfiletować	fin:sg:sec:perf		
+> wyfiletuje	wyfiletować	fin:sg:ter:perf		
+> wyfiletuję	wyfiletować	fin:sg:pri:perf		
+> wyfiletujmy	wyfiletować	impt:pl:pri:perf		
+> wyfiletuj	wyfiletować	impt:sg:sec:perf		
+5661206a5662552,5662648
+> niewylapisowana	wylapisować	ppas:sg:nom.voc:f:perf:neg		
+> niewylapisowaną	wylapisować	ppas:sg:acc.inst:f:perf:neg		
+> niewylapisowanego	wylapisować	ppas:sg:acc:m1.m2:perf:neg		
+> niewylapisowanego	wylapisować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niewylapisowanej	wylapisować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niewylapisowanemu	wylapisować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niewylapisowane	wylapisować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niewylapisowane	wylapisować	ppas:sg:nom.acc.voc:n:perf:neg		
+> niewylapisowaniach	wylapisować	ger:pl:loc:n:perf:neg		
+> niewylapisowaniami	wylapisować	ger:pl:inst:n:perf:neg		
+> niewylapisowania	wylapisować	ger:pl:nom.acc:n:perf:neg		
+> niewylapisowania	wylapisować	ger:sg:gen:n:perf:neg		
+> niewylapisowaniem	wylapisować	ger:sg:inst:n:perf:neg		
+> niewylapisowanie	wylapisować	ger:sg:nom.acc:n:perf:neg		
+> niewylapisowaniom	wylapisować	ger:pl:dat:n:perf:neg		
+> niewylapisowaniu	wylapisować	ger:sg:dat.loc:n:perf:neg		
+> niewylapisowani	wylapisować	ppas:pl:nom.voc:m1:perf:neg		
+> niewylapisowanych	wylapisować	ppas:pl:acc:m1:perf:neg		
+> niewylapisowanych	wylapisować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niewylapisowanymi	wylapisować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niewylapisowanym	wylapisować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niewylapisowanym	wylapisować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niewylapisowany	wylapisować	ppas:sg:acc:m3:perf:neg		
+> niewylapisowany	wylapisować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niewylapisowań	wylapisować	ger:pl:gen:n:perf:neg		
+> wylapisować	wylapisować	inf:perf		
+> wylapisowalibyście	wylapisować	cond:pl:m1:sec:perf		
+> wylapisowalibyśmy	wylapisować	cond:pl:m1:pri:perf		
+> wylapisowaliby	wylapisować	cond:pl:m1:ter:perf		
+> wylapisowaliście	wylapisować	praet:pl:m1:sec:perf		
+> wylapisowaliśmy	wylapisować	praet:pl:m1:pri:perf		
+> wylapisowali	wylapisować	praet:pl:m1:perf		
+> wylapisowali	wylapisować	praet:pl:m1:ter:perf		
+> wylapisowałabym	wylapisować	cond:sg:f:pri:perf		
+> wylapisowałabyś	wylapisować	cond:sg:f:sec:perf		
+> wylapisowałaby	wylapisować	cond:sg:f:ter:perf		
+> wylapisowałam	wylapisować	praet:sg:f:pri:perf		
+> wylapisowałaś	wylapisować	praet:sg:f:sec:perf		
+> wylapisowała	wylapisować	praet:sg:f:perf		
+> wylapisowała	wylapisować	praet:sg:f:ter:perf		
+> wylapisowałbym	wylapisować	cond:sg:m1.m2.m3:pri:perf		
+> wylapisowałbyś	wylapisować	cond:sg:m1.m2.m3:sec:perf		
+> wylapisowałby	wylapisować	cond:sg:m1.m2.m3:ter:perf		
+> wylapisowałem	wylapisować	praet:sg:m1.m2.m3:pri:perf		
+> wylapisowałeś	wylapisować	praet:sg:m1.m2.m3:sec:perf		
+> wylapisowałobym	wylapisować	cond:sg:n:pri:perf		
+> wylapisowałobyś	wylapisować	cond:sg:n:sec:perf		
+> wylapisowałoby	wylapisować	cond:sg:n:ter:perf		
+> wylapisowałom	wylapisować	praet:sg:n:pri:perf		
+> wylapisowałoś	wylapisować	praet:sg:n:sec:perf		
+> wylapisowało	wylapisować	praet:sg:n:perf		
+> wylapisowało	wylapisować	praet:sg:n:ter:perf		
+> wylapisował	wylapisować	praet:sg:m1.m2.m3:perf		
+> wylapisował	wylapisować	praet:sg:m1.m2.m3:ter:perf		
+> wylapisowałybyście	wylapisować	cond:pl:m2.m3.f.n:sec:perf		
+> wylapisowałybyśmy	wylapisować	cond:pl:m2.m3.f.n:pri:perf		
+> wylapisowałyby	wylapisować	cond:pl:m2.m3.f.n:ter:perf		
+> wylapisowałyście	wylapisować	praet:pl:m2.m3.f.n:sec:perf		
+> wylapisowałyśmy	wylapisować	praet:pl:m2.m3.f.n:pri:perf		
+> wylapisowały	wylapisować	praet:pl:m2.m3.f.n:perf		
+> wylapisowały	wylapisować	praet:pl:m2.m3.f.n:ter:perf		
+> wylapisowana	wylapisować	ppas:sg:nom.voc:f:perf:aff		
+> wylapisowaną	wylapisować	ppas:sg:acc.inst:f:perf:aff		
+> wylapisowanego	wylapisować	ppas:sg:acc:m1.m2:perf:aff		
+> wylapisowanego	wylapisować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> wylapisowanej	wylapisować	ppas:sg:gen.dat.loc:f:perf:aff		
+> wylapisowanemu	wylapisować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> wylapisowane	wylapisować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> wylapisowane	wylapisować	ppas:sg:nom.acc.voc:n:perf:aff		
+> wylapisowaniach	wylapisować	ger:pl:loc:n:perf:aff		
+> wylapisowaniami	wylapisować	ger:pl:inst:n:perf:aff		
+> wylapisowania	wylapisować	ger:pl:nom.acc:n:perf:aff		
+> wylapisowania	wylapisować	ger:sg:gen:n:perf:aff		
+> wylapisowaniem	wylapisować	ger:sg:inst:n:perf:aff		
+> wylapisowanie	wylapisować	ger:sg:nom.acc:n:perf:aff		
+> wylapisowaniom	wylapisować	ger:pl:dat:n:perf:aff		
+> wylapisowaniu	wylapisować	ger:sg:dat.loc:n:perf:aff		
+> wylapisowani	wylapisować	ppas:pl:nom.voc:m1:perf:aff		
+> wylapisowano	wylapisować	imps:perf		
+> wylapisowanych	wylapisować	ppas:pl:acc:m1:perf:aff		
+> wylapisowanych	wylapisować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> wylapisowanymi	wylapisować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> wylapisowanym	wylapisować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> wylapisowanym	wylapisować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> wylapisowany	wylapisować	ppas:sg:acc:m3:perf:aff		
+> wylapisowany	wylapisować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> wylapisowań	wylapisować	ger:pl:gen:n:perf:aff		
+> wylapisowawszy	wylapisować	pant:perf		
+> wylapisują	wylapisować	fin:pl:ter:perf		
+> wylapisujcie	wylapisować	impt:pl:sec:perf		
+> wylapisujecie	wylapisować	fin:pl:sec:perf		
+> wylapisujemy	wylapisować	fin:pl:pri:perf		
+> wylapisujesz	wylapisować	fin:sg:sec:perf		
+> wylapisuje	wylapisować	fin:sg:ter:perf		
+> wylapisuję	wylapisować	fin:sg:pri:perf		
+> wylapisujmy	wylapisować	impt:pl:pri:perf		
+> wylapisuj	wylapisować	impt:sg:sec:perf		
+5771593a5773036,5773132
+> niewyspacjowana	wyspacjować	ppas:sg:nom.voc:f:perf:neg		rzad.
+> niewyspacjowaną	wyspacjować	ppas:sg:acc.inst:f:perf:neg		rzad.
+> niewyspacjowanego	wyspacjować	ppas:sg:acc:m1.m2:perf:neg		rzad.
+> niewyspacjowanego	wyspacjować	ppas:sg:gen:m1.m2.m3.n:perf:neg		rzad.
+> niewyspacjowanej	wyspacjować	ppas:sg:gen.dat.loc:f:perf:neg		rzad.
+> niewyspacjowanemu	wyspacjować	ppas:sg:dat:m1.m2.m3.n:perf:neg		rzad.
+> niewyspacjowane	wyspacjować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		rzad.
+> niewyspacjowane	wyspacjować	ppas:sg:nom.acc.voc:n:perf:neg		rzad.
+> niewyspacjowaniach	wyspacjować	ger:pl:loc:n:perf:neg		rzad.
+> niewyspacjowaniami	wyspacjować	ger:pl:inst:n:perf:neg		rzad.
+> niewyspacjowania	wyspacjować	ger:pl:nom.acc:n:perf:neg		rzad.
+> niewyspacjowania	wyspacjować	ger:sg:gen:n:perf:neg		rzad.
+> niewyspacjowaniem	wyspacjować	ger:sg:inst:n:perf:neg		rzad.
+> niewyspacjowanie	wyspacjować	ger:sg:nom.acc:n:perf:neg		rzad.
+> niewyspacjowaniom	wyspacjować	ger:pl:dat:n:perf:neg		rzad.
+> niewyspacjowaniu	wyspacjować	ger:sg:dat.loc:n:perf:neg		rzad.
+> niewyspacjowani	wyspacjować	ppas:pl:nom.voc:m1:perf:neg		rzad.
+> niewyspacjowanych	wyspacjować	ppas:pl:acc:m1:perf:neg		rzad.
+> niewyspacjowanych	wyspacjować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		rzad.
+> niewyspacjowanymi	wyspacjować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		rzad.
+> niewyspacjowanym	wyspacjować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		rzad.
+> niewyspacjowanym	wyspacjować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		rzad.
+> niewyspacjowany	wyspacjować	ppas:sg:acc:m3:perf:neg		rzad.
+> niewyspacjowany	wyspacjować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		rzad.
+> niewyspacjowań	wyspacjować	ger:pl:gen:n:perf:neg		rzad.
+> wyspacjować	wyspacjować	inf:perf		rzad.
+> wyspacjowalibyście	wyspacjować	cond:pl:m1:sec:perf		rzad.
+> wyspacjowalibyśmy	wyspacjować	cond:pl:m1:pri:perf		rzad.
+> wyspacjowaliby	wyspacjować	cond:pl:m1:ter:perf		rzad.
+> wyspacjowaliście	wyspacjować	praet:pl:m1:sec:perf		rzad.
+> wyspacjowaliśmy	wyspacjować	praet:pl:m1:pri:perf		rzad.
+> wyspacjowali	wyspacjować	praet:pl:m1:perf		rzad.
+> wyspacjowali	wyspacjować	praet:pl:m1:ter:perf		rzad.
+> wyspacjowałabym	wyspacjować	cond:sg:f:pri:perf		rzad.
+> wyspacjowałabyś	wyspacjować	cond:sg:f:sec:perf		rzad.
+> wyspacjowałaby	wyspacjować	cond:sg:f:ter:perf		rzad.
+> wyspacjowałam	wyspacjować	praet:sg:f:pri:perf		rzad.
+> wyspacjowałaś	wyspacjować	praet:sg:f:sec:perf		rzad.
+> wyspacjowała	wyspacjować	praet:sg:f:perf		rzad.
+> wyspacjowała	wyspacjować	praet:sg:f:ter:perf		rzad.
+> wyspacjowałbym	wyspacjować	cond:sg:m1.m2.m3:pri:perf		rzad.
+> wyspacjowałbyś	wyspacjować	cond:sg:m1.m2.m3:sec:perf		rzad.
+> wyspacjowałby	wyspacjować	cond:sg:m1.m2.m3:ter:perf		rzad.
+> wyspacjowałem	wyspacjować	praet:sg:m1.m2.m3:pri:perf		rzad.
+> wyspacjowałeś	wyspacjować	praet:sg:m1.m2.m3:sec:perf		rzad.
+> wyspacjowałobym	wyspacjować	cond:sg:n:pri:perf		rzad.
+> wyspacjowałobyś	wyspacjować	cond:sg:n:sec:perf		rzad.
+> wyspacjowałoby	wyspacjować	cond:sg:n:ter:perf		rzad.
+> wyspacjowałom	wyspacjować	praet:sg:n:pri:perf		rzad.
+> wyspacjowałoś	wyspacjować	praet:sg:n:sec:perf		rzad.
+> wyspacjowało	wyspacjować	praet:sg:n:perf		rzad.
+> wyspacjowało	wyspacjować	praet:sg:n:ter:perf		rzad.
+> wyspacjował	wyspacjować	praet:sg:m1.m2.m3:perf		rzad.
+> wyspacjował	wyspacjować	praet:sg:m1.m2.m3:ter:perf		rzad.
+> wyspacjowałybyście	wyspacjować	cond:pl:m2.m3.f.n:sec:perf		rzad.
+> wyspacjowałybyśmy	wyspacjować	cond:pl:m2.m3.f.n:pri:perf		rzad.
+> wyspacjowałyby	wyspacjować	cond:pl:m2.m3.f.n:ter:perf		rzad.
+> wyspacjowałyście	wyspacjować	praet:pl:m2.m3.f.n:sec:perf		rzad.
+> wyspacjowałyśmy	wyspacjować	praet:pl:m2.m3.f.n:pri:perf		rzad.
+> wyspacjowały	wyspacjować	praet:pl:m2.m3.f.n:perf		rzad.
+> wyspacjowały	wyspacjować	praet:pl:m2.m3.f.n:ter:perf		rzad.
+> wyspacjowana	wyspacjować	ppas:sg:nom.voc:f:perf:aff		rzad.
+> wyspacjowaną	wyspacjować	ppas:sg:acc.inst:f:perf:aff		rzad.
+> wyspacjowanego	wyspacjować	ppas:sg:acc:m1.m2:perf:aff		rzad.
+> wyspacjowanego	wyspacjować	ppas:sg:gen:m1.m2.m3.n:perf:aff		rzad.
+> wyspacjowanej	wyspacjować	ppas:sg:gen.dat.loc:f:perf:aff		rzad.
+> wyspacjowanemu	wyspacjować	ppas:sg:dat:m1.m2.m3.n:perf:aff		rzad.
+> wyspacjowane	wyspacjować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		rzad.
+> wyspacjowane	wyspacjować	ppas:sg:nom.acc.voc:n:perf:aff		rzad.
+> wyspacjowaniach	wyspacjować	ger:pl:loc:n:perf:aff		rzad.
+> wyspacjowaniami	wyspacjować	ger:pl:inst:n:perf:aff		rzad.
+> wyspacjowania	wyspacjować	ger:pl:nom.acc:n:perf:aff		rzad.
+> wyspacjowania	wyspacjować	ger:sg:gen:n:perf:aff		rzad.
+> wyspacjowaniem	wyspacjować	ger:sg:inst:n:perf:aff		rzad.
+> wyspacjowanie	wyspacjować	ger:sg:nom.acc:n:perf:aff		rzad.
+> wyspacjowaniom	wyspacjować	ger:pl:dat:n:perf:aff		rzad.
+> wyspacjowaniu	wyspacjować	ger:sg:dat.loc:n:perf:aff		rzad.
+> wyspacjowani	wyspacjować	ppas:pl:nom.voc:m1:perf:aff		rzad.
+> wyspacjowano	wyspacjować	imps:perf		rzad.
+> wyspacjowanych	wyspacjować	ppas:pl:acc:m1:perf:aff		rzad.
+> wyspacjowanych	wyspacjować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		rzad.
+> wyspacjowanymi	wyspacjować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		rzad.
+> wyspacjowanym	wyspacjować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		rzad.
+> wyspacjowanym	wyspacjować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		rzad.
+> wyspacjowany	wyspacjować	ppas:sg:acc:m3:perf:aff		rzad.
+> wyspacjowany	wyspacjować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		rzad.
+> wyspacjowań	wyspacjować	ger:pl:gen:n:perf:aff		rzad.
+> wyspacjowawszy	wyspacjować	pant:perf		rzad.
+> wyspacjują	wyspacjować	fin:pl:ter:perf		rzad.
+> wyspacjujcie	wyspacjować	impt:pl:sec:perf		rzad.
+> wyspacjujecie	wyspacjować	fin:pl:sec:perf		rzad.
+> wyspacjujemy	wyspacjować	fin:pl:pri:perf		rzad.
+> wyspacjujesz	wyspacjować	fin:sg:sec:perf		rzad.
+> wyspacjuje	wyspacjować	fin:sg:ter:perf		rzad.
+> wyspacjuję	wyspacjować	fin:sg:pri:perf		rzad.
+> wyspacjujmy	wyspacjować	impt:pl:pri:perf		rzad.
+> wyspacjuj	wyspacjować	impt:sg:sec:perf		rzad.
+5977213a5978753,5978849
+> niezalaminowana	zalaminować	ppas:sg:nom.voc:f:perf:neg		
+> niezalaminowaną	zalaminować	ppas:sg:acc.inst:f:perf:neg		
+> niezalaminowanego	zalaminować	ppas:sg:acc:m1.m2:perf:neg		
+> niezalaminowanego	zalaminować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niezalaminowanej	zalaminować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezalaminowanemu	zalaminować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niezalaminowane	zalaminować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niezalaminowane	zalaminować	ppas:sg:nom.acc.voc:n:perf:neg		
+> niezalaminowaniach	zalaminować	ger:pl:loc:n:perf:neg		
+> niezalaminowaniami	zalaminować	ger:pl:inst:n:perf:neg		
+> niezalaminowania	zalaminować	ger:pl:nom.acc:n:perf:neg		
+> niezalaminowania	zalaminować	ger:sg:gen:n:perf:neg		
+> niezalaminowaniem	zalaminować	ger:sg:inst:n:perf:neg		
+> niezalaminowanie	zalaminować	ger:sg:nom.acc:n:perf:neg		
+> niezalaminowaniom	zalaminować	ger:pl:dat:n:perf:neg		
+> niezalaminowaniu	zalaminować	ger:sg:dat.loc:n:perf:neg		
+> niezalaminowani	zalaminować	ppas:pl:nom.voc:m1:perf:neg		
+> niezalaminowanych	zalaminować	ppas:pl:acc:m1:perf:neg		
+> niezalaminowanych	zalaminować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niezalaminowanymi	zalaminować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niezalaminowanym	zalaminować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niezalaminowanym	zalaminować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niezalaminowany	zalaminować	ppas:sg:acc:m3:perf:neg		
+> niezalaminowany	zalaminować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezalaminowań	zalaminować	ger:pl:gen:n:perf:neg		
+> zalaminować	zalaminować	inf:perf		
+> zalaminowalibyście	zalaminować	cond:pl:m1:sec:perf		
+> zalaminowalibyśmy	zalaminować	cond:pl:m1:pri:perf		
+> zalaminowaliby	zalaminować	cond:pl:m1:ter:perf		
+> zalaminowaliście	zalaminować	praet:pl:m1:sec:perf		
+> zalaminowaliśmy	zalaminować	praet:pl:m1:pri:perf		
+> zalaminowali	zalaminować	praet:pl:m1:perf		
+> zalaminowali	zalaminować	praet:pl:m1:ter:perf		
+> zalaminowałabym	zalaminować	cond:sg:f:pri:perf		
+> zalaminowałabyś	zalaminować	cond:sg:f:sec:perf		
+> zalaminowałaby	zalaminować	cond:sg:f:ter:perf		
+> zalaminowałam	zalaminować	praet:sg:f:pri:perf		
+> zalaminowałaś	zalaminować	praet:sg:f:sec:perf		
+> zalaminowała	zalaminować	praet:sg:f:perf		
+> zalaminowała	zalaminować	praet:sg:f:ter:perf		
+> zalaminowałbym	zalaminować	cond:sg:m1.m2.m3:pri:perf		
+> zalaminowałbyś	zalaminować	cond:sg:m1.m2.m3:sec:perf		
+> zalaminowałby	zalaminować	cond:sg:m1.m2.m3:ter:perf		
+> zalaminowałem	zalaminować	praet:sg:m1.m2.m3:pri:perf		
+> zalaminowałeś	zalaminować	praet:sg:m1.m2.m3:sec:perf		
+> zalaminowałobym	zalaminować	cond:sg:n:pri:perf		
+> zalaminowałobyś	zalaminować	cond:sg:n:sec:perf		
+> zalaminowałoby	zalaminować	cond:sg:n:ter:perf		
+> zalaminowałom	zalaminować	praet:sg:n:pri:perf		
+> zalaminowałoś	zalaminować	praet:sg:n:sec:perf		
+> zalaminowało	zalaminować	praet:sg:n:perf		
+> zalaminowało	zalaminować	praet:sg:n:ter:perf		
+> zalaminowałybyście	zalaminować	cond:pl:m2.m3.f.n:sec:perf		
+> zalaminowałybyśmy	zalaminować	cond:pl:m2.m3.f.n:pri:perf		
+> zalaminowałyby	zalaminować	cond:pl:m2.m3.f.n:ter:perf		
+> zalaminowałyście	zalaminować	praet:pl:m2.m3.f.n:sec:perf		
+> zalaminowałyśmy	zalaminować	praet:pl:m2.m3.f.n:pri:perf		
+> zalaminowały	zalaminować	praet:pl:m2.m3.f.n:perf		
+> zalaminowały	zalaminować	praet:pl:m2.m3.f.n:ter:perf		
+> zalaminował	zalaminować	praet:sg:m1.m2.m3:perf		
+> zalaminował	zalaminować	praet:sg:m1.m2.m3:ter:perf		
+> zalaminowana	zalaminować	ppas:sg:nom.voc:f:perf:aff		
+> zalaminowaną	zalaminować	ppas:sg:acc.inst:f:perf:aff		
+> zalaminowanego	zalaminować	ppas:sg:acc:m1.m2:perf:aff		
+> zalaminowanego	zalaminować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> zalaminowanej	zalaminować	ppas:sg:gen.dat.loc:f:perf:aff		
+> zalaminowanemu	zalaminować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> zalaminowane	zalaminować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> zalaminowane	zalaminować	ppas:sg:nom.acc.voc:n:perf:aff		
+> zalaminowaniach	zalaminować	ger:pl:loc:n:perf:aff		
+> zalaminowaniami	zalaminować	ger:pl:inst:n:perf:aff		
+> zalaminowania	zalaminować	ger:pl:nom.acc:n:perf:aff		
+> zalaminowania	zalaminować	ger:sg:gen:n:perf:aff		
+> zalaminowaniem	zalaminować	ger:sg:inst:n:perf:aff		
+> zalaminowanie	zalaminować	ger:sg:nom.acc:n:perf:aff		
+> zalaminowaniom	zalaminować	ger:pl:dat:n:perf:aff		
+> zalaminowaniu	zalaminować	ger:sg:dat.loc:n:perf:aff		
+> zalaminowani	zalaminować	ppas:pl:nom.voc:m1:perf:aff		
+> zalaminowano	zalaminować	imps:perf		
+> zalaminowanych	zalaminować	ppas:pl:acc:m1:perf:aff		
+> zalaminowanych	zalaminować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> zalaminowanymi	zalaminować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> zalaminowanym	zalaminować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> zalaminowanym	zalaminować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> zalaminowany	zalaminować	ppas:sg:acc:m3:perf:aff		
+> zalaminowany	zalaminować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zalaminowań	zalaminować	ger:pl:gen:n:perf:aff		
+> zalaminowawszy	zalaminować	pant:perf		
+> zalaminują	zalaminować	fin:pl:ter:perf		
+> zalaminujcie	zalaminować	impt:pl:sec:perf		
+> zalaminujecie	zalaminować	fin:pl:sec:perf		
+> zalaminujemy	zalaminować	fin:pl:pri:perf		
+> zalaminujesz	zalaminować	fin:sg:sec:perf		
+> zalaminuje	zalaminować	fin:sg:ter:perf		
+> zalaminuję	zalaminować	fin:sg:pri:perf		
+> zalaminujmy	zalaminować	impt:pl:pri:perf		
+> zalaminuj	zalaminować	impt:sg:sec:perf		
+6015129a6016766
+> zaodrzanów	zaodrzanin	subst:pl:gen.acc:m1	nazwa pospolita	daw.
+6078900a6080538,6080634
+> niezaspamowana	zaspamować	ppas:sg:nom.voc:f:perf:neg		
+> niezaspamowaną	zaspamować	ppas:sg:acc.inst:f:perf:neg		
+> niezaspamowanego	zaspamować	ppas:sg:acc:m1.m2:perf:neg		
+> niezaspamowanego	zaspamować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niezaspamowanej	zaspamować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezaspamowanemu	zaspamować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niezaspamowane	zaspamować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niezaspamowane	zaspamować	ppas:sg:nom.acc.voc:n:perf:neg		
+> niezaspamowaniach	zaspamować	ger:pl:loc:n:perf:neg		
+> niezaspamowaniami	zaspamować	ger:pl:inst:n:perf:neg		
+> niezaspamowania	zaspamować	ger:pl:nom.acc:n:perf:neg		
+> niezaspamowania	zaspamować	ger:sg:gen:n:perf:neg		
+> niezaspamowaniem	zaspamować	ger:sg:inst:n:perf:neg		
+> niezaspamowanie	zaspamować	ger:sg:nom.acc:n:perf:neg		
+> niezaspamowaniom	zaspamować	ger:pl:dat:n:perf:neg		
+> niezaspamowaniu	zaspamować	ger:sg:dat.loc:n:perf:neg		
+> niezaspamowani	zaspamować	ppas:pl:nom.voc:m1:perf:neg		
+> niezaspamowanych	zaspamować	ppas:pl:acc:m1:perf:neg		
+> niezaspamowanych	zaspamować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niezaspamowanymi	zaspamować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niezaspamowanym	zaspamować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niezaspamowanym	zaspamować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niezaspamowany	zaspamować	ppas:sg:acc:m3:perf:neg		
+> niezaspamowany	zaspamować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezaspamowań	zaspamować	ger:pl:gen:n:perf:neg		
+> zaspamować	zaspamować	inf:perf		
+> zaspamowalibyście	zaspamować	cond:pl:m1:sec:perf		
+> zaspamowalibyśmy	zaspamować	cond:pl:m1:pri:perf		
+> zaspamowaliby	zaspamować	cond:pl:m1:ter:perf		
+> zaspamowaliście	zaspamować	praet:pl:m1:sec:perf		
+> zaspamowaliśmy	zaspamować	praet:pl:m1:pri:perf		
+> zaspamowali	zaspamować	praet:pl:m1:perf		
+> zaspamowali	zaspamować	praet:pl:m1:ter:perf		
+> zaspamowałabym	zaspamować	cond:sg:f:pri:perf		
+> zaspamowałabyś	zaspamować	cond:sg:f:sec:perf		
+> zaspamowałaby	zaspamować	cond:sg:f:ter:perf		
+> zaspamowałam	zaspamować	praet:sg:f:pri:perf		
+> zaspamowałaś	zaspamować	praet:sg:f:sec:perf		
+> zaspamowała	zaspamować	praet:sg:f:perf		
+> zaspamowała	zaspamować	praet:sg:f:ter:perf		
+> zaspamowałbym	zaspamować	cond:sg:m1.m2.m3:pri:perf		
+> zaspamowałbyś	zaspamować	cond:sg:m1.m2.m3:sec:perf		
+> zaspamowałby	zaspamować	cond:sg:m1.m2.m3:ter:perf		
+> zaspamowałem	zaspamować	praet:sg:m1.m2.m3:pri:perf		
+> zaspamowałeś	zaspamować	praet:sg:m1.m2.m3:sec:perf		
+> zaspamowałobym	zaspamować	cond:sg:n:pri:perf		
+> zaspamowałobyś	zaspamować	cond:sg:n:sec:perf		
+> zaspamowałoby	zaspamować	cond:sg:n:ter:perf		
+> zaspamowałom	zaspamować	praet:sg:n:pri:perf		
+> zaspamowałoś	zaspamować	praet:sg:n:sec:perf		
+> zaspamowało	zaspamować	praet:sg:n:perf		
+> zaspamowało	zaspamować	praet:sg:n:ter:perf		
+> zaspamowałybyście	zaspamować	cond:pl:m2.m3.f.n:sec:perf		
+> zaspamowałybyśmy	zaspamować	cond:pl:m2.m3.f.n:pri:perf		
+> zaspamowałyby	zaspamować	cond:pl:m2.m3.f.n:ter:perf		
+> zaspamowałyście	zaspamować	praet:pl:m2.m3.f.n:sec:perf		
+> zaspamowałyśmy	zaspamować	praet:pl:m2.m3.f.n:pri:perf		
+> zaspamowały	zaspamować	praet:pl:m2.m3.f.n:perf		
+> zaspamowały	zaspamować	praet:pl:m2.m3.f.n:ter:perf		
+> zaspamował	zaspamować	praet:sg:m1.m2.m3:perf		
+> zaspamował	zaspamować	praet:sg:m1.m2.m3:ter:perf		
+> zaspamowana	zaspamować	ppas:sg:nom.voc:f:perf:aff		
+> zaspamowaną	zaspamować	ppas:sg:acc.inst:f:perf:aff		
+> zaspamowanego	zaspamować	ppas:sg:acc:m1.m2:perf:aff		
+> zaspamowanego	zaspamować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> zaspamowanej	zaspamować	ppas:sg:gen.dat.loc:f:perf:aff		
+> zaspamowanemu	zaspamować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> zaspamowane	zaspamować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> zaspamowane	zaspamować	ppas:sg:nom.acc.voc:n:perf:aff		
+> zaspamowaniach	zaspamować	ger:pl:loc:n:perf:aff		
+> zaspamowaniami	zaspamować	ger:pl:inst:n:perf:aff		
+> zaspamowania	zaspamować	ger:pl:nom.acc:n:perf:aff		
+> zaspamowania	zaspamować	ger:sg:gen:n:perf:aff		
+> zaspamowaniem	zaspamować	ger:sg:inst:n:perf:aff		
+> zaspamowanie	zaspamować	ger:sg:nom.acc:n:perf:aff		
+> zaspamowaniom	zaspamować	ger:pl:dat:n:perf:aff		
+> zaspamowaniu	zaspamować	ger:sg:dat.loc:n:perf:aff		
+> zaspamowani	zaspamować	ppas:pl:nom.voc:m1:perf:aff		
+> zaspamowano	zaspamować	imps:perf		
+> zaspamowanych	zaspamować	ppas:pl:acc:m1:perf:aff		
+> zaspamowanych	zaspamować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> zaspamowanymi	zaspamować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> zaspamowanym	zaspamować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> zaspamowanym	zaspamować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> zaspamowany	zaspamować	ppas:sg:acc:m3:perf:aff		
+> zaspamowany	zaspamować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zaspamowań	zaspamować	ger:pl:gen:n:perf:aff		
+> zaspamowawszy	zaspamować	pant:perf		
+> zaspamują	zaspamować	fin:pl:ter:perf		
+> zaspamujcie	zaspamować	impt:pl:sec:perf		
+> zaspamujecie	zaspamować	fin:pl:sec:perf		
+> zaspamujemy	zaspamować	fin:pl:pri:perf		
+> zaspamujesz	zaspamować	fin:sg:sec:perf		
+> zaspamuje	zaspamować	fin:sg:ter:perf		
+> zaspamuję	zaspamować	fin:sg:pri:perf		
+> zaspamujmy	zaspamować	impt:pl:pri:perf		
+> zaspamuj	zaspamować	impt:sg:sec:perf		
+6337491a6339226,6339250
+> niezremasterowana	zremasterować	ppas:sg:nom.voc:f:perf:neg		
+> niezremasterowaną	zremasterować	ppas:sg:acc.inst:f:perf:neg		
+> niezremasterowanego	zremasterować	ppas:sg:acc:m1.m2:perf:neg		
+> niezremasterowanego	zremasterować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niezremasterowanej	zremasterować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezremasterowanemu	zremasterować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niezremasterowane	zremasterować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niezremasterowane	zremasterować	ppas:sg:nom.acc.voc:n:perf:neg		
+> niezremasterowaniach	zremasterować	ger:pl:loc:n:perf:neg		
+> niezremasterowaniami	zremasterować	ger:pl:inst:n:perf:neg		
+> niezremasterowania	zremasterować	ger:pl:nom.acc:n:perf:neg		
+> niezremasterowania	zremasterować	ger:sg:gen:n:perf:neg		
+> niezremasterowaniem	zremasterować	ger:sg:inst:n:perf:neg		
+> niezremasterowanie	zremasterować	ger:sg:nom.acc:n:perf:neg		
+> niezremasterowaniom	zremasterować	ger:pl:dat:n:perf:neg		
+> niezremasterowaniu	zremasterować	ger:sg:dat.loc:n:perf:neg		
+> niezremasterowani	zremasterować	ppas:pl:nom.voc:m1:perf:neg		
+> niezremasterowanych	zremasterować	ppas:pl:acc:m1:perf:neg		
+> niezremasterowanych	zremasterować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niezremasterowanymi	zremasterować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niezremasterowanym	zremasterować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niezremasterowanym	zremasterować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niezremasterowany	zremasterować	ppas:sg:acc:m3:perf:neg		
+> niezremasterowany	zremasterować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezremasterowań	zremasterować	ger:pl:gen:n:perf:neg		
+6337527a6339287,6339303
+> zremasterowana	zremasterować	ppas:sg:nom.voc:f:perf:aff		
+> zremasterowaną	zremasterować	ppas:sg:acc.inst:f:perf:aff		
+> zremasterowanego	zremasterować	ppas:sg:acc:m1.m2:perf:aff		
+> zremasterowanego	zremasterować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> zremasterowanej	zremasterować	ppas:sg:gen.dat.loc:f:perf:aff		
+> zremasterowanemu	zremasterować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> zremasterowane	zremasterować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> zremasterowane	zremasterować	ppas:sg:nom.acc.voc:n:perf:aff		
+> zremasterowaniach	zremasterować	ger:pl:loc:n:perf:aff		
+> zremasterowaniami	zremasterować	ger:pl:inst:n:perf:aff		
+> zremasterowania	zremasterować	ger:pl:nom.acc:n:perf:aff		
+> zremasterowania	zremasterować	ger:sg:gen:n:perf:aff		
+> zremasterowaniem	zremasterować	ger:sg:inst:n:perf:aff		
+> zremasterowanie	zremasterować	ger:sg:nom.acc:n:perf:aff		
+> zremasterowaniom	zremasterować	ger:pl:dat:n:perf:aff		
+> zremasterowaniu	zremasterować	ger:sg:dat.loc:n:perf:aff		
+> zremasterowani	zremasterować	ppas:pl:nom.voc:m1:perf:aff		
+6337528a6339305,6339312
+> zremasterowanych	zremasterować	ppas:pl:acc:m1:perf:aff		
+> zremasterowanych	zremasterować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> zremasterowanymi	zremasterować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> zremasterowanym	zremasterować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> zremasterowanym	zremasterować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> zremasterowany	zremasterować	ppas:sg:acc:m3:perf:aff		
+> zremasterowany	zremasterować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zremasterowań	zremasterować	ger:pl:gen:n:perf:aff		
+6338508a6340293,6340389
+> niezreplikowana	zreplikować	ppas:sg:nom.voc:f:perf:neg		
+> niezreplikowaną	zreplikować	ppas:sg:acc.inst:f:perf:neg		
+> niezreplikowanego	zreplikować	ppas:sg:acc:m1.m2:perf:neg		
+> niezreplikowanego	zreplikować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niezreplikowanej	zreplikować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezreplikowanemu	zreplikować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niezreplikowane	zreplikować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niezreplikowane	zreplikować	ppas:sg:nom.acc.voc:n:perf:neg		
+> niezreplikowaniach	zreplikować	ger:pl:loc:n:perf:neg		
+> niezreplikowaniami	zreplikować	ger:pl:inst:n:perf:neg		
+> niezreplikowania	zreplikować	ger:pl:nom.acc:n:perf:neg		
+> niezreplikowania	zreplikować	ger:sg:gen:n:perf:neg		
+> niezreplikowaniem	zreplikować	ger:sg:inst:n:perf:neg		
+> niezreplikowanie	zreplikować	ger:sg:nom.acc:n:perf:neg		
+> niezreplikowaniom	zreplikować	ger:pl:dat:n:perf:neg		
+> niezreplikowaniu	zreplikować	ger:sg:dat.loc:n:perf:neg		
+> niezreplikowani	zreplikować	ppas:pl:nom.voc:m1:perf:neg		
+> niezreplikowanych	zreplikować	ppas:pl:acc:m1:perf:neg		
+> niezreplikowanych	zreplikować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niezreplikowanymi	zreplikować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niezreplikowanym	zreplikować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niezreplikowanym	zreplikować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niezreplikowany	zreplikować	ppas:sg:acc:m3:perf:neg		
+> niezreplikowany	zreplikować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezreplikowań	zreplikować	ger:pl:gen:n:perf:neg		
+> zreplikować	zreplikować	inf:perf		
+> zreplikowalibyście	zreplikować	cond:pl:m1:sec:perf		
+> zreplikowalibyśmy	zreplikować	cond:pl:m1:pri:perf		
+> zreplikowaliby	zreplikować	cond:pl:m1:ter:perf		
+> zreplikowaliście	zreplikować	praet:pl:m1:sec:perf		
+> zreplikowaliśmy	zreplikować	praet:pl:m1:pri:perf		
+> zreplikowali	zreplikować	praet:pl:m1:perf		
+> zreplikowali	zreplikować	praet:pl:m1:ter:perf		
+> zreplikowałabym	zreplikować	cond:sg:f:pri:perf		
+> zreplikowałabyś	zreplikować	cond:sg:f:sec:perf		
+> zreplikowałaby	zreplikować	cond:sg:f:ter:perf		
+> zreplikowałam	zreplikować	praet:sg:f:pri:perf		
+> zreplikowałaś	zreplikować	praet:sg:f:sec:perf		
+> zreplikowała	zreplikować	praet:sg:f:perf		
+> zreplikowała	zreplikować	praet:sg:f:ter:perf		
+> zreplikowałbym	zreplikować	cond:sg:m1.m2.m3:pri:perf		
+> zreplikowałbyś	zreplikować	cond:sg:m1.m2.m3:sec:perf		
+> zreplikowałby	zreplikować	cond:sg:m1.m2.m3:ter:perf		
+> zreplikowałem	zreplikować	praet:sg:m1.m2.m3:pri:perf		
+> zreplikowałeś	zreplikować	praet:sg:m1.m2.m3:sec:perf		
+> zreplikowałobym	zreplikować	cond:sg:n:pri:perf		
+> zreplikowałobyś	zreplikować	cond:sg:n:sec:perf		
+> zreplikowałoby	zreplikować	cond:sg:n:ter:perf		
+> zreplikowałom	zreplikować	praet:sg:n:pri:perf		
+> zreplikowałoś	zreplikować	praet:sg:n:sec:perf		
+> zreplikowało	zreplikować	praet:sg:n:perf		
+> zreplikowało	zreplikować	praet:sg:n:ter:perf		
+> zreplikowałybyście	zreplikować	cond:pl:m2.m3.f.n:sec:perf		
+> zreplikowałybyśmy	zreplikować	cond:pl:m2.m3.f.n:pri:perf		
+> zreplikowałyby	zreplikować	cond:pl:m2.m3.f.n:ter:perf		
+> zreplikowałyście	zreplikować	praet:pl:m2.m3.f.n:sec:perf		
+> zreplikowałyśmy	zreplikować	praet:pl:m2.m3.f.n:pri:perf		
+> zreplikowały	zreplikować	praet:pl:m2.m3.f.n:perf		
+> zreplikowały	zreplikować	praet:pl:m2.m3.f.n:ter:perf		
+> zreplikował	zreplikować	praet:sg:m1.m2.m3:perf		
+> zreplikował	zreplikować	praet:sg:m1.m2.m3:ter:perf		
+> zreplikowana	zreplikować	ppas:sg:nom.voc:f:perf:aff		
+> zreplikowaną	zreplikować	ppas:sg:acc.inst:f:perf:aff		
+> zreplikowanego	zreplikować	ppas:sg:acc:m1.m2:perf:aff		
+> zreplikowanego	zreplikować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> zreplikowanej	zreplikować	ppas:sg:gen.dat.loc:f:perf:aff		
+> zreplikowanemu	zreplikować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> zreplikowane	zreplikować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> zreplikowane	zreplikować	ppas:sg:nom.acc.voc:n:perf:aff		
+> zreplikowaniach	zreplikować	ger:pl:loc:n:perf:aff		
+> zreplikowaniami	zreplikować	ger:pl:inst:n:perf:aff		
+> zreplikowania	zreplikować	ger:pl:nom.acc:n:perf:aff		
+> zreplikowania	zreplikować	ger:sg:gen:n:perf:aff		
+> zreplikowaniem	zreplikować	ger:sg:inst:n:perf:aff		
+> zreplikowanie	zreplikować	ger:sg:nom.acc:n:perf:aff		
+> zreplikowaniom	zreplikować	ger:pl:dat:n:perf:aff		
+> zreplikowaniu	zreplikować	ger:sg:dat.loc:n:perf:aff		
+> zreplikowani	zreplikować	ppas:pl:nom.voc:m1:perf:aff		
+> zreplikowano	zreplikować	imps:perf		
+> zreplikowanych	zreplikować	ppas:pl:acc:m1:perf:aff		
+> zreplikowanych	zreplikować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> zreplikowanymi	zreplikować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> zreplikowanym	zreplikować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> zreplikowanym	zreplikować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> zreplikowany	zreplikować	ppas:sg:acc:m3:perf:aff		
+> zreplikowany	zreplikować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zreplikowań	zreplikować	ger:pl:gen:n:perf:aff		
+> zreplikowawszy	zreplikować	pant:perf		
+> zreplikują	zreplikować	fin:pl:ter:perf		
+> zreplikujcie	zreplikować	impt:pl:sec:perf		
+> zreplikujecie	zreplikować	fin:pl:sec:perf		
+> zreplikujemy	zreplikować	fin:pl:pri:perf		
+> zreplikujesz	zreplikować	fin:sg:sec:perf		
+> zreplikuje	zreplikować	fin:sg:ter:perf		
+> zreplikuję	zreplikować	fin:sg:pri:perf		
+> zreplikujmy	zreplikować	impt:pl:pri:perf		
+> zreplikuj	zreplikować	impt:sg:sec:perf		

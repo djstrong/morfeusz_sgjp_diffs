@@ -1,0 +1,365 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.09.16
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.09.23
+406224a406225
+> ciamciaramciach	ciamciaramcia	subst:pl:loc:f	nazwa pospolita	
+406225a406227
+> ciamciaramcia	ciamciaramcia	subst:sg:nom:f	nazwa pospolita	
+406226a406229
+> ciamciaramciami	ciamciaramcia	subst:pl:inst:f	nazwa pospolita	
+406227a406231
+> ciamciaramcią	ciamciaramcia	subst:sg:inst:f	nazwa pospolita	
+406228a406233,406234
+> ciamciaramci	ciamciaramcia	subst:pl:gen:f	nazwa pospolita	hom.
+> ciamciaramci	ciamciaramcia	subst:sg:dat.loc:f	nazwa pospolita	
+406229a406236
+> ciamciaramci	ciamciaramcia	subst:sg:gen:f	nazwa pospolita	
+406231a406239
+> ciamciaramcie	ciamciaramcia	subst:pl:nom.acc.voc:f	nazwa pospolita	
+406232a406241
+> ciamciaramcię	ciamciaramcia	subst:sg:acc:f	nazwa pospolita	
+406233a406243
+> ciamciaramcio	ciamciaramcia	subst:sg:voc:f	nazwa pospolita	
+406234a406245
+> ciamciaramciom	ciamciaramcia	subst:pl:dat:f	nazwa pospolita	
+406236a406248
+> ciamciaramciu	ciamciaramcia	subst:sg:voc:f	nazwa pospolita	
+406237a406250
+> ciamciaramć	ciamciaramcia	subst:pl:gen:f	nazwa pospolita	char.
+442040a442054,442100
+> cwaniacząc	cwaniaczyć	pcon:imperf		pot.
+> cwaniaczą	cwaniaczyć	fin:pl:ter:imperf		pot.
+> cwaniaczcie	cwaniaczyć	impt:pl:sec:imperf		pot.
+> cwaniacz	cwaniaczyć	impt:sg:sec:imperf		pot.
+> cwaniaczę	cwaniaczyć	fin:sg:pri:imperf		pot.
+> cwaniaczmy	cwaniaczyć	impt:pl:pri:imperf		pot.
+> cwaniaczono	cwaniaczyć	imps:imperf		pot.
+> cwaniaczycie	cwaniaczyć	fin:pl:sec:imperf		pot.
+> cwaniaczy	cwaniaczyć	fin:sg:ter:imperf		pot.
+> cwaniaczyć	cwaniaczyć	inf:imperf		pot.
+> cwaniaczyliby	cwaniaczyć	cond:pl:m1:ter:imperf		pot.
+> cwaniaczylibyście	cwaniaczyć	cond:pl:m1:sec:imperf		pot.
+> cwaniaczylibyśmy	cwaniaczyć	cond:pl:m1:pri:imperf		pot.
+> cwaniaczyli	cwaniaczyć	praet:pl:m1:imperf		pot.
+> cwaniaczyli	cwaniaczyć	praet:pl:m1:ter:imperf		pot.
+> cwaniaczyliście	cwaniaczyć	praet:pl:m1:sec:imperf		pot.
+> cwaniaczyliśmy	cwaniaczyć	praet:pl:m1:pri:imperf		pot.
+> cwaniaczyłaby	cwaniaczyć	cond:sg:f:ter:imperf		pot.
+> cwaniaczyłabym	cwaniaczyć	cond:sg:f:pri:imperf		pot.
+> cwaniaczyłabyś	cwaniaczyć	cond:sg:f:sec:imperf		pot.
+> cwaniaczyła	cwaniaczyć	praet:sg:f:imperf		pot.
+> cwaniaczyła	cwaniaczyć	praet:sg:f:ter:imperf		pot.
+> cwaniaczyłam	cwaniaczyć	praet:sg:f:pri:imperf		pot.
+> cwaniaczyłaś	cwaniaczyć	praet:sg:f:sec:imperf		pot.
+> cwaniaczyłby	cwaniaczyć	cond:sg:m1.m2.m3:ter:imperf		pot.
+> cwaniaczyłbym	cwaniaczyć	cond:sg:m1.m2.m3:pri:imperf		pot.
+> cwaniaczyłbyś	cwaniaczyć	cond:sg:m1.m2.m3:sec:imperf		pot.
+> cwaniaczył	cwaniaczyć	praet:sg:m1.m2.m3:imperf		pot.
+> cwaniaczył	cwaniaczyć	praet:sg:m1.m2.m3:ter:imperf		pot.
+> cwaniaczyłem	cwaniaczyć	praet:sg:m1.m2.m3:pri:imperf		pot.
+> cwaniaczyłeś	cwaniaczyć	praet:sg:m1.m2.m3:sec:imperf		pot.
+> cwaniaczyłoby	cwaniaczyć	cond:sg:n:ter:imperf		pot.
+> cwaniaczyłobym	cwaniaczyć	cond:sg:n:pri:imperf		pot.
+> cwaniaczyłobyś	cwaniaczyć	cond:sg:n:sec:imperf		pot.
+> cwaniaczyło	cwaniaczyć	praet:sg:n:imperf		pot.
+> cwaniaczyło	cwaniaczyć	praet:sg:n:ter:imperf		pot.
+> cwaniaczyłom	cwaniaczyć	praet:sg:n:pri:imperf		pot.
+> cwaniaczyłoś	cwaniaczyć	praet:sg:n:sec:imperf		pot.
+> cwaniaczyłyby	cwaniaczyć	cond:pl:m2.m3.f.n:ter:imperf		pot.
+> cwaniaczyłybyście	cwaniaczyć	cond:pl:m2.m3.f.n:sec:imperf		pot.
+> cwaniaczyłybyśmy	cwaniaczyć	cond:pl:m2.m3.f.n:pri:imperf		pot.
+> cwaniaczyły	cwaniaczyć	praet:pl:m2.m3.f.n:imperf		pot.
+> cwaniaczyły	cwaniaczyć	praet:pl:m2.m3.f.n:ter:imperf		pot.
+> cwaniaczyłyście	cwaniaczyć	praet:pl:m2.m3.f.n:sec:imperf		pot.
+> cwaniaczyłyśmy	cwaniaczyć	praet:pl:m2.m3.f.n:pri:imperf		pot.
+> cwaniaczymy	cwaniaczyć	fin:pl:pri:imperf		pot.
+> cwaniaczysz	cwaniaczyć	fin:sg:sec:imperf		pot.
+952106a952167,952178
+> germanofiliach	germanofilia	subst:pl:loc:f	nazwa pospolita	
+> germanofilia	germanofilia	subst:sg:nom:f	nazwa pospolita	
+> germanofiliami	germanofilia	subst:pl:inst:f	nazwa pospolita	
+> germanofilią	germanofilia	subst:sg:inst:f	nazwa pospolita	
+> germanofilie	germanofilia	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> germanofilię	germanofilia	subst:sg:acc:f	nazwa pospolita	
+> germanofilii	germanofilia	subst:pl:gen:f	nazwa pospolita	hom.
+> germanofilii	germanofilia	subst:sg:dat.loc:f	nazwa pospolita	
+> germanofilii	germanofilia	subst:sg:gen:f	nazwa pospolita	
+> germanofilij	germanofilia	subst:pl:gen:f	nazwa pospolita	arch.|char.
+> germanofilio	germanofilia	subst:sg:voc:f	nazwa pospolita	
+> germanofiliom	germanofilia	subst:pl:dat:f	nazwa pospolita	
+1024482,1024493d1024553
+< grawerach	grawer	subst:pl:loc:m1	nazwa pospolita	
+< grawera	grawer	subst:sg:gen.acc:m1	nazwa pospolita	
+< grawerami	grawer	subst:pl:inst:m1	nazwa pospolita	
+< grawerem	grawer	subst:sg:inst:m1	nazwa pospolita	
+< grawer	grawer	subst:sg:nom:m1	nazwa pospolita	
+< grawerom	grawer	subst:pl:dat:m1	nazwa pospolita	
+< grawerowi	grawer	subst:sg:dat:m1	nazwa pospolita	
+< grawerów	grawer	subst:pl:gen.acc:m1	nazwa pospolita	
+< grawery	grawer	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< grawerze	grawer	subst:sg:loc:m1	nazwa pospolita	
+< grawerze	grawer	subst:sg:voc:m1	nazwa pospolita	
+< grawerzy	grawer	subst:pl:nom.voc:m1	nazwa pospolita	
+1024634a1024695,1024717
+> grawerach	grawer:s1	subst:pl:loc:m1	nazwa pospolita	
+> grawera	grawer:s1	subst:sg:gen.acc:m1	nazwa pospolita	
+> grawerami	grawer:s1	subst:pl:inst:m1	nazwa pospolita	
+> grawerem	grawer:s1	subst:sg:inst:m1	nazwa pospolita	
+> grawer	grawer:s1	subst:sg:nom:m1	nazwa pospolita	
+> grawerom	grawer:s1	subst:pl:dat:m1	nazwa pospolita	
+> grawerowi	grawer:s1	subst:sg:dat:m1	nazwa pospolita	
+> grawerów	grawer:s1	subst:pl:gen.acc:m1	nazwa pospolita	
+> grawery	grawer:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> grawerze	grawer:s1	subst:sg:loc:m1	nazwa pospolita	
+> grawerze	grawer:s1	subst:sg:voc:m1	nazwa pospolita	
+> grawerzy	grawer:s1	subst:pl:nom.voc:m1	nazwa pospolita	
+> grawerach	grawer:s2	subst:pl:loc:m3	nazwa pospolita	
+> grawerami	grawer:s2	subst:pl:inst:m3	nazwa pospolita	
+> grawerem	grawer:s2	subst:sg:inst:m3	nazwa pospolita	
+> grawer	grawer:s2	subst:sg:nom.acc:m3	nazwa pospolita	
+> grawerom	grawer:s2	subst:pl:dat:m3	nazwa pospolita	
+> grawerowi	grawer:s2	subst:sg:dat:m3	nazwa pospolita	
+> grawerów	grawer:s2	subst:pl:gen:m3	nazwa pospolita	
+> graweru	grawer:s2	subst:sg:gen:m3	nazwa pospolita	
+> grawery	grawer:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> grawerze	grawer:s2	subst:sg:loc:m3	nazwa pospolita	
+> grawerze	grawer:s2	subst:sg:voc:m3	nazwa pospolita	
+2641283a2641367,2641378
+> niemcożercach	niemcożerca	subst:pl:loc:m1	nazwa pospolita	
+> niemcożercami	niemcożerca	subst:pl:inst:m1	nazwa pospolita	
+> niemcożerca	niemcożerca	subst:sg:nom:m1	nazwa pospolita	
+> niemcożercą	niemcożerca	subst:sg:inst:m1	nazwa pospolita	
+> niemcożerce	niemcożerca	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> niemcożercę	niemcożerca	subst:sg:acc:m1	nazwa pospolita	
+> niemcożercom	niemcożerca	subst:pl:dat:m1	nazwa pospolita	
+> niemcożerco	niemcożerca	subst:sg:voc:m1	nazwa pospolita	
+> niemcożerców	niemcożerca	subst:pl:gen.acc:m1	nazwa pospolita	
+> niemcożercy	niemcożerca	subst:pl:nom.voc:m1	nazwa pospolita	
+> niemcożercy	niemcożerca	subst:sg:dat.loc:m1	nazwa pospolita	
+> niemcożercy	niemcożerca	subst:sg:gen:m1	nazwa pospolita	
+4228898a4228994,4229090
+> niepoprzełączana	poprzełączać	ppas:sg:nom.voc:f:perf:neg		
+> niepoprzełączaną	poprzełączać	ppas:sg:acc.inst:f:perf:neg		
+> niepoprzełączanego	poprzełączać	ppas:sg:acc:m1.m2:perf:neg		
+> niepoprzełączanego	poprzełączać	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niepoprzełączanej	poprzełączać	ppas:sg:gen.dat.loc:f:perf:neg		
+> niepoprzełączanemu	poprzełączać	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niepoprzełączane	poprzełączać	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niepoprzełączane	poprzełączać	ppas:sg:nom.acc.voc:n:perf:neg		
+> niepoprzełączaniach	poprzełączać	ger:pl:loc:n:perf:neg		
+> niepoprzełączaniami	poprzełączać	ger:pl:inst:n:perf:neg		
+> niepoprzełączania	poprzełączać	ger:pl:nom.acc:n:perf:neg		
+> niepoprzełączania	poprzełączać	ger:sg:gen:n:perf:neg		
+> niepoprzełączaniem	poprzełączać	ger:sg:inst:n:perf:neg		
+> niepoprzełączanie	poprzełączać	ger:sg:nom.acc:n:perf:neg		
+> niepoprzełączaniom	poprzełączać	ger:pl:dat:n:perf:neg		
+> niepoprzełączani	poprzełączać	ppas:pl:nom.voc:m1:perf:neg		
+> niepoprzełączaniu	poprzełączać	ger:sg:dat.loc:n:perf:neg		
+> niepoprzełączanych	poprzełączać	ppas:pl:acc:m1:perf:neg		
+> niepoprzełączanych	poprzełączać	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niepoprzełączanymi	poprzełączać	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niepoprzełączanym	poprzełączać	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niepoprzełączanym	poprzełączać	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niepoprzełączany	poprzełączać	ppas:sg:acc:m3:perf:neg		
+> niepoprzełączany	poprzełączać	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niepoprzełączań	poprzełączać	ger:pl:gen:n:perf:neg		
+> poprzełączacie	poprzełączać	fin:pl:sec:perf		
+> poprzełączać	poprzełączać	inf:perf		
+> poprzełączają	poprzełączać	fin:pl:ter:perf		
+> poprzełączajcie	poprzełączać	impt:pl:sec:perf		
+> poprzełączajmy	poprzełączać	impt:pl:pri:perf		
+> poprzełączaj	poprzełączać	impt:sg:sec:perf		
+> poprzełączaliby	poprzełączać	cond:pl:m1:ter:perf		
+> poprzełączalibyście	poprzełączać	cond:pl:m1:sec:perf		
+> poprzełączalibyśmy	poprzełączać	cond:pl:m1:pri:perf		
+> poprzełączali	poprzełączać	praet:pl:m1:perf		
+> poprzełączali	poprzełączać	praet:pl:m1:ter:perf		
+> poprzełączaliście	poprzełączać	praet:pl:m1:sec:perf		
+> poprzełączaliśmy	poprzełączać	praet:pl:m1:pri:perf		
+> poprzełączałabym	poprzełączać	cond:sg:f:pri:perf		
+> poprzełączałaby	poprzełączać	cond:sg:f:ter:perf		
+> poprzełączałabyś	poprzełączać	cond:sg:f:sec:perf		
+> poprzełączałam	poprzełączać	praet:sg:f:pri:perf		
+> poprzełączała	poprzełączać	praet:sg:f:perf		
+> poprzełączała	poprzełączać	praet:sg:f:ter:perf		
+> poprzełączałaś	poprzełączać	praet:sg:f:sec:perf		
+> poprzełączałbym	poprzełączać	cond:sg:m1.m2.m3:pri:perf		
+> poprzełączałby	poprzełączać	cond:sg:m1.m2.m3:ter:perf		
+> poprzełączałbyś	poprzełączać	cond:sg:m1.m2.m3:sec:perf		
+> poprzełączałem	poprzełączać	praet:sg:m1.m2.m3:pri:perf		
+> poprzełączałeś	poprzełączać	praet:sg:m1.m2.m3:sec:perf		
+> poprzełączałobym	poprzełączać	cond:sg:n:pri:perf		
+> poprzełączałoby	poprzełączać	cond:sg:n:ter:perf		
+> poprzełączałobyś	poprzełączać	cond:sg:n:sec:perf		
+> poprzełączałom	poprzełączać	praet:sg:n:pri:perf		
+> poprzełączało	poprzełączać	praet:sg:n:perf		
+> poprzełączało	poprzełączać	praet:sg:n:ter:perf		
+> poprzełączałoś	poprzełączać	praet:sg:n:sec:perf		
+> poprzełączał	poprzełączać	praet:sg:m1.m2.m3:perf		
+> poprzełączał	poprzełączać	praet:sg:m1.m2.m3:ter:perf		
+> poprzełączałyby	poprzełączać	cond:pl:m2.m3.f.n:ter:perf		
+> poprzełączałybyście	poprzełączać	cond:pl:m2.m3.f.n:sec:perf		
+> poprzełączałybyśmy	poprzełączać	cond:pl:m2.m3.f.n:pri:perf		
+> poprzełączały	poprzełączać	praet:pl:m2.m3.f.n:perf		
+> poprzełączały	poprzełączać	praet:pl:m2.m3.f.n:ter:perf		
+> poprzełączałyście	poprzełączać	praet:pl:m2.m3.f.n:sec:perf		
+> poprzełączałyśmy	poprzełączać	praet:pl:m2.m3.f.n:pri:perf		
+> poprzełączam	poprzełączać	fin:sg:pri:perf		
+> poprzełączamy	poprzełączać	fin:pl:pri:perf		
+> poprzełączana	poprzełączać	ppas:sg:nom.voc:f:perf:aff		
+> poprzełączaną	poprzełączać	ppas:sg:acc.inst:f:perf:aff		
+> poprzełączanego	poprzełączać	ppas:sg:acc:m1.m2:perf:aff		
+> poprzełączanego	poprzełączać	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> poprzełączanej	poprzełączać	ppas:sg:gen.dat.loc:f:perf:aff		
+> poprzełączanemu	poprzełączać	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> poprzełączane	poprzełączać	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> poprzełączane	poprzełączać	ppas:sg:nom.acc.voc:n:perf:aff		
+> poprzełączaniach	poprzełączać	ger:pl:loc:n:perf:aff		
+> poprzełączaniami	poprzełączać	ger:pl:inst:n:perf:aff		
+> poprzełączania	poprzełączać	ger:pl:nom.acc:n:perf:aff		
+> poprzełączania	poprzełączać	ger:sg:gen:n:perf:aff		
+> poprzełączaniem	poprzełączać	ger:sg:inst:n:perf:aff		
+> poprzełączanie	poprzełączać	ger:sg:nom.acc:n:perf:aff		
+> poprzełączaniom	poprzełączać	ger:pl:dat:n:perf:aff		
+> poprzełączani	poprzełączać	ppas:pl:nom.voc:m1:perf:aff		
+> poprzełączaniu	poprzełączać	ger:sg:dat.loc:n:perf:aff		
+> poprzełączano	poprzełączać	imps:perf		
+> poprzełączanych	poprzełączać	ppas:pl:acc:m1:perf:aff		
+> poprzełączanych	poprzełączać	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> poprzełączanymi	poprzełączać	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> poprzełączanym	poprzełączać	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> poprzełączanym	poprzełączać	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> poprzełączany	poprzełączać	ppas:sg:acc:m3:perf:aff		
+> poprzełączany	poprzełączać	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> poprzełączań	poprzełączać	ger:pl:gen:n:perf:aff		
+> poprzełącza	poprzełączać	fin:sg:ter:perf		
+> poprzełączasz	poprzełączać	fin:sg:sec:perf		
+> poprzełączawszy	poprzełączać	pant:perf		
+4619476a4619669,4619679
+> przesadyzmach	przesadyzm	subst:pl:loc:m3	nazwa pospolita	żart.|pot.
+> przesadyzmami	przesadyzm	subst:pl:inst:m3	nazwa pospolita	żart.|pot.
+> przesadyzmem	przesadyzm	subst:sg:inst:m3	nazwa pospolita	żart.|pot.
+> przesadyzmie	przesadyzm	subst:sg:loc:m3	nazwa pospolita	żart.|pot.
+> przesadyzmie	przesadyzm	subst:sg:voc:m3	nazwa pospolita	żart.|pot.
+> przesadyzmom	przesadyzm	subst:pl:dat:m3	nazwa pospolita	żart.|pot.
+> przesadyzmowi	przesadyzm	subst:sg:dat:m3	nazwa pospolita	żart.|pot.
+> przesadyzmów	przesadyzm	subst:pl:gen:m3	nazwa pospolita	żart.|pot.
+> przesadyzm	przesadyzm	subst:sg:nom.acc:m3	nazwa pospolita	żart.|pot.
+> przesadyzmu	przesadyzm	subst:sg:gen:m3	nazwa pospolita	żart.|pot.
+> przesadyzmy	przesadyzm	subst:pl:nom.acc.voc:m3	nazwa pospolita	żart.|pot.
+5788218a5788422,5788423
+> trollach	troll	subst:pl:loc:m1	nazwa pospolita	
+> trollach	troll	subst:pl:loc:m1	nazwa pospolita	rzad.
+5788219a5788425,5788427
+> trollach	troll	subst:pl:loc:m2	nazwa pospolita	rzad.
+> trollami	troll	subst:pl:inst:m1	nazwa pospolita	
+> trollami	troll	subst:pl:inst:m1	nazwa pospolita	rzad.
+5788220a5788429,5788431
+> trollami	troll	subst:pl:inst:m2	nazwa pospolita	rzad.
+> trolla	troll	subst:sg:gen.acc:m1	nazwa pospolita	
+> trolla	troll	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
+5788221a5788433,5788435
+> trolla	troll	subst:sg:gen.acc:m2	nazwa pospolita	rzad.
+> trollem	troll	subst:sg:inst:m1	nazwa pospolita	
+> trollem	troll	subst:sg:inst:m1	nazwa pospolita	rzad.
+5788222a5788437,5788439
+> trollem	troll	subst:sg:inst:m2	nazwa pospolita	rzad.
+> trolle	troll	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> trolle	troll	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
+5788223a5788441,5788443
+> trolle	troll	subst:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
+> trolle	troll	subst:pl:nom.voc:m1	nazwa pospolita	
+> trolli	troll	subst:pl:gen.acc:m1	nazwa pospolita	
+5788224a5788445,5788446
+> trollom	troll	subst:pl:dat:m1	nazwa pospolita	
+> trollom	troll	subst:pl:dat:m1	nazwa pospolita	rzad.
+5788225a5788448,5788451
+> trollom	troll	subst:pl:dat:m2	nazwa pospolita	rzad.
+> trollowie	troll	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+> trollowi	troll	subst:sg:dat:m1	nazwa pospolita	
+> trollowi	troll	subst:sg:dat:m1	nazwa pospolita	rzad.
+5788227c5788453,5788457
+< trollów	troll	subst:pl:gen:m2	nazwa pospolita	
+---
+> trollowi	troll	subst:sg:dat:m2	nazwa pospolita	rzad.
+> trollów	troll	subst:pl:gen.acc:m1	nazwa pospolita	rzad.
+> trollów	troll	subst:pl:gen:m2	nazwa pospolita	rzad.
+> troll	troll	subst:sg:nom:m1	nazwa pospolita	
+> troll	troll	subst:sg:nom:m1	nazwa pospolita	rzad.
+5788228a5788459,5788461
+> troll	troll	subst:sg:nom:m2	nazwa pospolita	rzad.
+> trollu	troll	subst:sg:loc:m1	nazwa pospolita	
+> trollu	troll	subst:sg:loc:m1	nazwa pospolita	rzad.
+5788229a5788463,5788465
+> trollu	troll	subst:sg:loc:m2	nazwa pospolita	rzad.
+> trollu	troll	subst:sg:voc:m1	nazwa pospolita	
+> trollu	troll	subst:sg:voc:m1	nazwa pospolita	rzad.
+5788230a5788467
+> trollu	troll	subst:sg:voc:m2	nazwa pospolita	rzad.
+7081161a7081399,7081463
+> niezmącznieniach	zmącznieć	ger:pl:loc:n:perf:neg		
+> niezmącznieniami	zmącznieć	ger:pl:inst:n:perf:neg		
+> niezmącznienia	zmącznieć	ger:pl:nom.acc:n:perf:neg		
+> niezmącznienia	zmącznieć	ger:sg:gen:n:perf:neg		
+> niezmącznieniem	zmącznieć	ger:sg:inst:n:perf:neg		
+> niezmącznienie	zmącznieć	ger:sg:nom.acc:n:perf:neg		
+> niezmącznieniom	zmącznieć	ger:pl:dat:n:perf:neg		
+> niezmącznieniu	zmącznieć	ger:sg:dat.loc:n:perf:neg		
+> niezmącznień	zmącznieć	ger:pl:gen:n:perf:neg		
+> zmączniałabym	zmącznieć	cond:sg:f:pri:perf		
+> zmączniałabyś	zmącznieć	cond:sg:f:sec:perf		
+> zmączniałaby	zmącznieć	cond:sg:f:ter:perf		
+> zmączniałam	zmącznieć	praet:sg:f:pri:perf		
+> zmączniałaś	zmącznieć	praet:sg:f:sec:perf		
+> zmączniała	zmącznieć	praet:sg:f:perf		
+> zmączniała	zmącznieć	praet:sg:f:ter:perf		
+> zmączniałbym	zmącznieć	cond:sg:m1.m2.m3:pri:perf		
+> zmączniałbyś	zmącznieć	cond:sg:m1.m2.m3:sec:perf		
+> zmączniałby	zmącznieć	cond:sg:m1.m2.m3:ter:perf		
+> zmączniałem	zmącznieć	praet:sg:m1.m2.m3:pri:perf		
+> zmączniałeś	zmącznieć	praet:sg:m1.m2.m3:sec:perf		
+> zmączniałobym	zmącznieć	cond:sg:n:pri:perf		
+> zmączniałobyś	zmącznieć	cond:sg:n:sec:perf		
+> zmączniałoby	zmącznieć	cond:sg:n:ter:perf		
+> zmączniałom	zmącznieć	praet:sg:n:pri:perf		
+> zmączniałoś	zmącznieć	praet:sg:n:sec:perf		
+> zmączniało	zmącznieć	praet:sg:n:perf		
+> zmączniało	zmącznieć	praet:sg:n:ter:perf		
+> zmączniałybyście	zmącznieć	cond:pl:m2.m3.f.n:sec:perf		
+> zmączniałybyśmy	zmącznieć	cond:pl:m2.m3.f.n:pri:perf		
+> zmączniałyby	zmącznieć	cond:pl:m2.m3.f.n:ter:perf		
+> zmączniałyście	zmącznieć	praet:pl:m2.m3.f.n:sec:perf		
+> zmączniałyśmy	zmącznieć	praet:pl:m2.m3.f.n:pri:perf		
+> zmączniały	zmącznieć	praet:pl:m2.m3.f.n:perf		
+> zmączniały	zmącznieć	praet:pl:m2.m3.f.n:ter:perf		
+> zmączniał	zmącznieć	praet:sg:m1.m2.m3:perf		
+> zmączniał	zmącznieć	praet:sg:m1.m2.m3:ter:perf		
+> zmączniano	zmącznieć	imps:perf		
+> zmączniawszy	zmącznieć	pant:perf		
+> zmącznieć	zmącznieć	inf:perf		
+> zmącznieją	zmącznieć	fin:pl:ter:perf		
+> zmączniejcie	zmącznieć	impt:pl:sec:perf		
+> zmączniejecie	zmącznieć	fin:pl:sec:perf		
+> zmączniejemy	zmącznieć	fin:pl:pri:perf		
+> zmączniejesz	zmącznieć	fin:sg:sec:perf		
+> zmącznieje	zmącznieć	fin:sg:ter:perf		
+> zmącznieję	zmącznieć	fin:sg:pri:perf		
+> zmączniejmy	zmącznieć	impt:pl:pri:perf		
+> zmączniej	zmącznieć	impt:sg:sec:perf		
+> zmącznielibyście	zmącznieć	cond:pl:m1:sec:perf		
+> zmącznielibyśmy	zmącznieć	cond:pl:m1:pri:perf		
+> zmącznieliby	zmącznieć	cond:pl:m1:ter:perf		
+> zmącznieliście	zmącznieć	praet:pl:m1:sec:perf		
+> zmącznieliśmy	zmącznieć	praet:pl:m1:pri:perf		
+> zmącznieli	zmącznieć	praet:pl:m1:perf		
+> zmącznieli	zmącznieć	praet:pl:m1:ter:perf		
+> zmącznieniach	zmącznieć	ger:pl:loc:n:perf:aff		
+> zmącznieniami	zmącznieć	ger:pl:inst:n:perf:aff		
+> zmącznienia	zmącznieć	ger:pl:nom.acc:n:perf:aff		
+> zmącznienia	zmącznieć	ger:sg:gen:n:perf:aff		
+> zmącznieniem	zmącznieć	ger:sg:inst:n:perf:aff		
+> zmącznienie	zmącznieć	ger:sg:nom.acc:n:perf:aff		
+> zmącznieniom	zmącznieć	ger:pl:dat:n:perf:aff		
+> zmącznieniu	zmącznieć	ger:sg:dat.loc:n:perf:aff		
+> zmącznień	zmącznieć	ger:pl:gen:n:perf:aff		

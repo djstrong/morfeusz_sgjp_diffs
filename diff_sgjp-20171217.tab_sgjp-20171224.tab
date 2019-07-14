@@ -1,0 +1,146 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.12.17
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.12.24
+322010d322009
+< cdn	ciag_dalszy_nastąpi	brev:pun		
+323747a323747
+> cdn	ciąg_dalszy_nastąpi	brev:pun		
+390371c390371,390372
+< ćwierć	ćwierć:n	num:sg:nom.gen.dat.inst.acc.loc.voc:m1.m2.m3.f.n:rec		
+---
+> ćwierć	ćwierć:n	num:sg:dat.inst.loc:m1.m2.m3.f.n:congr.rec		
+> ćwierć	ćwierć:n	num:sg:nom.gen.acc.voc:m1.m2.m3.f.n:rec		
+1196078,1196079c1196079,1196080
+< k,p.a.	k,p.a.	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
+< k,p.a.	k,p.a.	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+---
+> k.p.a.	k.p.a.	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa pospolita	
+> k.p.a.	k.p.a.	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+1719105,1719140c1719106,1719141
+< newage'owo	newage'owo	adv:pos		
+< newage'owościach	newage'owość	subst:pl:loc:f	nazwa pospolita	
+< newage'owościami	newage'owość	subst:pl:inst:f	nazwa pospolita	
+< newage'owością	newage'owość	subst:sg:inst:f	nazwa pospolita	
+< newage'owości	newage'owość	subst:pl:gen:f	nazwa pospolita	
+< newage'owości	newage'owość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< newage'owości	newage'owość	subst:sg:dat.loc:f	nazwa pospolita	
+< newage'owości	newage'owość	subst:sg:gen:f	nazwa pospolita	
+< newage'owości	newage'owość	subst:sg:voc:f	nazwa pospolita	
+< newage'owościom	newage'owość	subst:pl:dat:f	nazwa pospolita	
+< newage'owość	newage'owość	subst:sg:acc:f	nazwa pospolita	
+< newage'owość	newage'owość	subst:sg:nom:f	nazwa pospolita	
+< newage'owa	newage'owy	adj:sg:nom.voc:f:pos		
+< newage'ową	newage'owy	adj:sg:acc:f:pos		
+< newage'ową	newage'owy	adj:sg:inst:f:pos		
+< newage'owego	newage'owy	adj:sg:acc:m1.m2:pos		
+< newage'owego	newage'owy	adj:sg:gen:m1.m2.m3.n:pos		
+< newage'owej	newage'owy	adj:sg:dat:f:pos		
+< newage'owej	newage'owy	adj:sg:gen:f:pos		
+< newage'owej	newage'owy	adj:sg:loc:f:pos		
+< newage'owemu	newage'owy	adj:sg:dat:m1.m2.m3.n:pos		
+< newage'owe	newage'owy	adj:pl:acc:m2.m3.f.n:pos		
+< newage'owe	newage'owy	adj:pl:nom.voc:m2.m3.f.n:pos		
+< newage'owe	newage'owy	adj:sg:acc:n:pos		
+< newage'owe	newage'owy	adj:sg:nom.voc:n:pos		
+< newage'owi	newage'owy	adj:pl:nom.voc:m1:pos		
+< newage'owo	newage'owy	adja		
+< newage'owych	newage'owy	adj:pl:acc:m1:pos		
+< newage'owych	newage'owy	adj:pl:gen:m1.m2.m3.f.n:pos		
+< newage'owych	newage'owy	adj:pl:loc:m1.m2.m3.f.n:pos		
+< newage'owymi	newage'owy	adj:pl:inst:m1.m2.m3.f.n:pos		
+< newage'owym	newage'owy	adj:pl:dat:m1.m2.m3.f.n:pos		
+< newage'owym	newage'owy	adj:sg:inst:m1.m2.m3.n:pos		
+< newage'owym	newage'owy	adj:sg:loc:m1.m2.m3.n:pos		
+< newage'owy	newage'owy	adj:sg:acc:m3:pos		
+< newage'owy	newage'owy	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> newage’owo	newage’owo	adv:pos		
+> newage’owościach	newage’owość	subst:pl:loc:f	nazwa pospolita	
+> newage’owościami	newage’owość	subst:pl:inst:f	nazwa pospolita	
+> newage’owością	newage’owość	subst:sg:inst:f	nazwa pospolita	
+> newage’owości	newage’owość	subst:pl:gen:f	nazwa pospolita	
+> newage’owości	newage’owość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> newage’owości	newage’owość	subst:sg:dat.loc:f	nazwa pospolita	
+> newage’owości	newage’owość	subst:sg:gen:f	nazwa pospolita	
+> newage’owości	newage’owość	subst:sg:voc:f	nazwa pospolita	
+> newage’owościom	newage’owość	subst:pl:dat:f	nazwa pospolita	
+> newage’owość	newage’owość	subst:sg:acc:f	nazwa pospolita	
+> newage’owość	newage’owość	subst:sg:nom:f	nazwa pospolita	
+> newage’owa	newage’owy	adj:sg:nom.voc:f:pos		
+> newage’ową	newage’owy	adj:sg:acc:f:pos		
+> newage’ową	newage’owy	adj:sg:inst:f:pos		
+> newage’owego	newage’owy	adj:sg:acc:m1.m2:pos		
+> newage’owego	newage’owy	adj:sg:gen:m1.m2.m3.n:pos		
+> newage’owej	newage’owy	adj:sg:dat:f:pos		
+> newage’owej	newage’owy	adj:sg:gen:f:pos		
+> newage’owej	newage’owy	adj:sg:loc:f:pos		
+> newage’owemu	newage’owy	adj:sg:dat:m1.m2.m3.n:pos		
+> newage’owe	newage’owy	adj:pl:acc:m2.m3.f.n:pos		
+> newage’owe	newage’owy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> newage’owe	newage’owy	adj:sg:acc:n:pos		
+> newage’owe	newage’owy	adj:sg:nom.voc:n:pos		
+> newage’owi	newage’owy	adj:pl:nom.voc:m1:pos		
+> newage’owo	newage’owy	adja		
+> newage’owych	newage’owy	adj:pl:acc:m1:pos		
+> newage’owych	newage’owy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> newage’owych	newage’owy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> newage’owymi	newage’owy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> newage’owym	newage’owy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> newage’owym	newage’owy	adj:sg:inst:m1.m2.m3.n:pos		
+> newage’owym	newage’owy	adj:sg:loc:m1.m2.m3.n:pos		
+> newage’owy	newage’owy	adj:sg:acc:m3:pos		
+> newage’owy	newage’owy	adj:sg:nom.voc:m1.m2.m3:pos		
+2257401,2257423c2257402,2257424
+< nienewage'owa	nienewage'owy	adj:sg:nom.voc:f:pos		
+< nienewage'ową	nienewage'owy	adj:sg:acc:f:pos		
+< nienewage'ową	nienewage'owy	adj:sg:inst:f:pos		
+< nienewage'owego	nienewage'owy	adj:sg:acc:m1.m2:pos		
+< nienewage'owego	nienewage'owy	adj:sg:gen:m1.m2.m3.n:pos		
+< nienewage'owej	nienewage'owy	adj:sg:dat:f:pos		
+< nienewage'owej	nienewage'owy	adj:sg:gen:f:pos		
+< nienewage'owej	nienewage'owy	adj:sg:loc:f:pos		
+< nienewage'owemu	nienewage'owy	adj:sg:dat:m1.m2.m3.n:pos		
+< nienewage'owe	nienewage'owy	adj:pl:acc:m2.m3.f.n:pos		
+< nienewage'owe	nienewage'owy	adj:pl:nom.voc:m2.m3.f.n:pos		
+< nienewage'owe	nienewage'owy	adj:sg:acc:n:pos		
+< nienewage'owe	nienewage'owy	adj:sg:nom.voc:n:pos		
+< nienewage'owi	nienewage'owy	adj:pl:nom.voc:m1:pos		
+< nienewage'owych	nienewage'owy	adj:pl:acc:m1:pos		
+< nienewage'owych	nienewage'owy	adj:pl:gen:m1.m2.m3.f.n:pos		
+< nienewage'owych	nienewage'owy	adj:pl:loc:m1.m2.m3.f.n:pos		
+< nienewage'owymi	nienewage'owy	adj:pl:inst:m1.m2.m3.f.n:pos		
+< nienewage'owym	nienewage'owy	adj:pl:dat:m1.m2.m3.f.n:pos		
+< nienewage'owym	nienewage'owy	adj:sg:inst:m1.m2.m3.n:pos		
+< nienewage'owym	nienewage'owy	adj:sg:loc:m1.m2.m3.n:pos		
+< nienewage'owy	nienewage'owy	adj:sg:acc:m3:pos		
+< nienewage'owy	nienewage'owy	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> nienewage’owa	nienewage’owy	adj:sg:nom.voc:f:pos		
+> nienewage’ową	nienewage’owy	adj:sg:acc:f:pos		
+> nienewage’ową	nienewage’owy	adj:sg:inst:f:pos		
+> nienewage’owego	nienewage’owy	adj:sg:acc:m1.m2:pos		
+> nienewage’owego	nienewage’owy	adj:sg:gen:m1.m2.m3.n:pos		
+> nienewage’owej	nienewage’owy	adj:sg:dat:f:pos		
+> nienewage’owej	nienewage’owy	adj:sg:gen:f:pos		
+> nienewage’owej	nienewage’owy	adj:sg:loc:f:pos		
+> nienewage’owemu	nienewage’owy	adj:sg:dat:m1.m2.m3.n:pos		
+> nienewage’owe	nienewage’owy	adj:pl:acc:m2.m3.f.n:pos		
+> nienewage’owe	nienewage’owy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nienewage’owe	nienewage’owy	adj:sg:acc:n:pos		
+> nienewage’owe	nienewage’owy	adj:sg:nom.voc:n:pos		
+> nienewage’owi	nienewage’owy	adj:pl:nom.voc:m1:pos		
+> nienewage’owych	nienewage’owy	adj:pl:acc:m1:pos		
+> nienewage’owych	nienewage’owy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nienewage’owych	nienewage’owy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nienewage’owymi	nienewage’owy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nienewage’owym	nienewage’owy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nienewage’owym	nienewage’owy	adj:sg:inst:m1.m2.m3.n:pos		
+> nienewage’owym	nienewage’owy	adj:sg:loc:m1.m2.m3.n:pos		
+> nienewage’owy	nienewage’owy	adj:sg:acc:m3:pos		
+> nienewage’owy	nienewage’owy	adj:sg:nom.voc:m1.m2.m3:pos		
+3886436c3886437,3886438
+< pół	pół	num:sg:nom.gen.dat.inst.acc.loc.voc:m1.m2.m3.f.n:rec		
+---
+> pół	pół	num:sg:dat.inst.loc:m1.m2.m3.f.n:congr.rec		
+> pół	pół	num:sg:nom.gen.acc.voc:m1.m2.m3.f.n:rec		

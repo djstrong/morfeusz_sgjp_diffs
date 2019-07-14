@@ -1,0 +1,939 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.06.25
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.07.02
+56652c56652
+< aniżeli	aniżeli:j	conj		
+---
+> aniżeli	aniżeli:j	conj		książk.
+967935a967936
+> jak	jak:c	comp		
+1275729a1275731,1275742
+> kynoterapiach	kynoterapia	subst:pl:loc:f	nazwa pospolita	
+> kynoterapia	kynoterapia	subst:sg:nom:f	nazwa pospolita	
+> kynoterapiami	kynoterapia	subst:pl:inst:f	nazwa pospolita	
+> kynoterapią	kynoterapia	subst:sg:inst:f	nazwa pospolita	
+> kynoterapie	kynoterapia	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> kynoterapię	kynoterapia	subst:sg:acc:f	nazwa pospolita	
+> kynoterapii	kynoterapia	subst:pl:gen:f	nazwa pospolita	hom.
+> kynoterapii	kynoterapia	subst:sg:dat.loc:f	nazwa pospolita	
+> kynoterapii	kynoterapia	subst:sg:gen:f	nazwa pospolita	
+> kynoterapij	kynoterapia	subst:pl:gen:f	nazwa pospolita	arch.|char.
+> kynoterapio	kynoterapia	subst:sg:voc:f	nazwa pospolita	
+> kynoterapiom	kynoterapia	subst:pl:dat:f	nazwa pospolita	
+1417043,1417055c1417056,1417080
+< matadorach	matador	subst:pl:loc:m1	nazwa pospolita	
+< matadora	matador	subst:sg:gen.acc:m1	nazwa pospolita	
+< matadora	matador	subst:sg:gen:m1	nazwa pospolita	
+< matadorami	matador	subst:pl:inst:m1	nazwa pospolita	
+< matadorem	matador	subst:sg:inst:m1	nazwa pospolita	
+< matador	matador	subst:sg:nom:m1	nazwa pospolita	
+< matadorom	matador	subst:pl:dat:m1	nazwa pospolita	
+< matadorowi	matador	subst:sg:dat:m1	nazwa pospolita	
+< matadorów	matador	subst:pl:gen.acc:m1	nazwa pospolita	
+< matadory	matador	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< matadorze	matador	subst:sg:loc:m1	nazwa pospolita	
+< matadorze	matador	subst:sg:voc:m1	nazwa pospolita	
+< matadorzy	matador	subst:pl:nom.voc:m1	nazwa pospolita	
+---
+> matadorach	matador:s1	subst:pl:loc:m1	nazwa pospolita	
+> matadora	matador:s1	subst:sg:gen.acc:m1	nazwa pospolita	
+> matadora	matador:s1	subst:sg:gen:m1	nazwa pospolita	
+> matadorami	matador:s1	subst:pl:inst:m1	nazwa pospolita	
+> matadorem	matador:s1	subst:sg:inst:m1	nazwa pospolita	
+> matador	matador:s1	subst:sg:nom:m1	nazwa pospolita	
+> matadorom	matador:s1	subst:pl:dat:m1	nazwa pospolita	
+> matadorowi	matador:s1	subst:sg:dat:m1	nazwa pospolita	
+> matadorów	matador:s1	subst:pl:gen.acc:m1	nazwa pospolita	
+> matadory	matador:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> matadorze	matador:s1	subst:sg:loc:m1	nazwa pospolita	
+> matadorze	matador:s1	subst:sg:voc:m1	nazwa pospolita	
+> matadorzy	matador:s1	subst:pl:nom.voc:m1	nazwa pospolita	
+> matadorach	matador:s2	subst:pl:loc:m2	nazwa pospolita	daw.|karc.
+> matadora	matador:s2	subst:sg:gen.acc:m2	nazwa pospolita	daw.|karc.
+> matadora	matador:s2	subst:sg:gen:m2	nazwa pospolita	daw.|karc.
+> matadorami	matador:s2	subst:pl:inst:m2	nazwa pospolita	daw.|karc.
+> matadorem	matador:s2	subst:sg:inst:m2	nazwa pospolita	daw.|karc.
+> matador	matador:s2	subst:sg:nom:m2	nazwa pospolita	daw.|karc.
+> matadorom	matador:s2	subst:pl:dat:m2	nazwa pospolita	daw.|karc.
+> matadorowi	matador:s2	subst:sg:dat:m2	nazwa pospolita	daw.|karc.
+> matadorów	matador:s2	subst:pl:gen:m2	nazwa pospolita	daw.|karc.
+> matadory	matador:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	daw.|karc.
+> matadorze	matador:s2	subst:sg:loc:m2	nazwa pospolita	daw.|karc.
+> matadorze	matador:s2	subst:sg:voc:m2	nazwa pospolita	daw.|karc.
+1674810,1674939c1674835,1674917
+< nastąpcie	nastąpić:v1	impt:pl:sec:perf		
+< nastąpią	nastąpić:v1	fin:pl:ter:perf		
+< nastąpicie	nastąpić:v1	fin:pl:sec:perf		
+< nastąpić	nastąpić:v1	inf:perf		
+< nastąpieniach	nastąpić:v1	ger:pl:loc:n:perf:aff		
+< nastąpieniami	nastąpić:v1	ger:pl:inst:n:perf:aff		
+< nastąpienia	nastąpić:v1	ger:pl:nom.acc:n:perf:aff		
+< nastąpienia	nastąpić:v1	ger:sg:gen:n:perf:aff		
+< nastąpieniem	nastąpić:v1	ger:sg:inst:n:perf:aff		
+< nastąpienie	nastąpić:v1	ger:sg:nom.acc:n:perf:aff		
+< nastąpieniom	nastąpić:v1	ger:pl:dat:n:perf:aff		
+< nastąpieniu	nastąpić:v1	ger:sg:dat.loc:n:perf:aff		
+< nastąpień	nastąpić:v1	ger:pl:gen:n:perf:aff		
+< nastąpię	nastąpić:v1	fin:sg:pri:perf		
+< nastąpiliby	nastąpić:v1	cond:pl:m1:ter:perf		
+< nastąpilibyście	nastąpić:v1	cond:pl:m1:sec:perf		
+< nastąpilibyśmy	nastąpić:v1	cond:pl:m1:pri:perf		
+< nastąpili	nastąpić:v1	praet:pl:m1:perf		
+< nastąpili	nastąpić:v1	praet:pl:m1:ter:perf		
+< nastąpiliście	nastąpić:v1	praet:pl:m1:sec:perf		
+< nastąpiliśmy	nastąpić:v1	praet:pl:m1:pri:perf		
+< nastąpiłabym	nastąpić:v1	cond:sg:f:pri:perf		
+< nastąpiłaby	nastąpić:v1	cond:sg:f:ter:perf		
+< nastąpiłabyś	nastąpić:v1	cond:sg:f:sec:perf		
+< nastąpiłam	nastąpić:v1	praet:sg:f:pri:perf		
+< nastąpiła	nastąpić:v1	praet:sg:f:perf		
+< nastąpiła	nastąpić:v1	praet:sg:f:ter:perf		
+< nastąpiłaś	nastąpić:v1	praet:sg:f:sec:perf		
+< nastąpiłbym	nastąpić:v1	cond:sg:m1.m2.m3:pri:perf		
+< nastąpiłby	nastąpić:v1	cond:sg:m1.m2.m3:ter:perf		
+< nastąpiłbyś	nastąpić:v1	cond:sg:m1.m2.m3:sec:perf		
+< nastąpiłem	nastąpić:v1	praet:sg:m1.m2.m3:pri:perf		
+< nastąpiłeś	nastąpić:v1	praet:sg:m1.m2.m3:sec:perf		
+< nastąpił	nastąpić:v1	praet:sg:m1.m2.m3:perf		
+< nastąpił	nastąpić:v1	praet:sg:m1.m2.m3:ter:perf		
+< nastąpiłobym	nastąpić:v1	cond:sg:n:pri:perf		
+< nastąpiłoby	nastąpić:v1	cond:sg:n:ter:perf		
+< nastąpiłobyś	nastąpić:v1	cond:sg:n:sec:perf		
+< nastąpiłom	nastąpić:v1	praet:sg:n:pri:perf		
+< nastąpiło	nastąpić:v1	praet:sg:n:perf		
+< nastąpiło	nastąpić:v1	praet:sg:n:ter:perf		
+< nastąpiłoś	nastąpić:v1	praet:sg:n:sec:perf		
+< nastąpiłyby	nastąpić:v1	cond:pl:m2.m3.f.n:ter:perf		
+< nastąpiłybyście	nastąpić:v1	cond:pl:m2.m3.f.n:sec:perf		
+< nastąpiłybyśmy	nastąpić:v1	cond:pl:m2.m3.f.n:pri:perf		
+< nastąpiły	nastąpić:v1	praet:pl:m2.m3.f.n:perf		
+< nastąpiły	nastąpić:v1	praet:pl:m2.m3.f.n:ter:perf		
+< nastąpiłyście	nastąpić:v1	praet:pl:m2.m3.f.n:sec:perf		
+< nastąpiłyśmy	nastąpić:v1	praet:pl:m2.m3.f.n:pri:perf		
+< nastąpimy	nastąpić:v1	fin:pl:pri:perf		
+< nastąpi	nastąpić:v1	fin:sg:ter:perf		
+< nastąpiono	nastąpić:v1	imps:perf		
+< nastąpisz	nastąpić:v1	fin:sg:sec:perf		
+< nastąpiwszy	nastąpić:v1	pant:perf		
+< nastąpmy	nastąpić:v1	impt:pl:pri:perf		
+< nastąp	nastąpić:v1	impt:sg:sec:perf		
+< nienastąpieniach	nastąpić:v1	ger:pl:loc:n:perf:neg		
+< nienastąpieniami	nastąpić:v1	ger:pl:inst:n:perf:neg		
+< nienastąpienia	nastąpić:v1	ger:pl:nom.acc:n:perf:neg		
+< nienastąpienia	nastąpić:v1	ger:sg:gen:n:perf:neg		
+< nienastąpieniem	nastąpić:v1	ger:sg:inst:n:perf:neg		
+< nienastąpienie	nastąpić:v1	ger:sg:nom.acc:n:perf:neg		
+< nienastąpieniom	nastąpić:v1	ger:pl:dat:n:perf:neg		
+< nienastąpieniu	nastąpić:v1	ger:sg:dat.loc:n:perf:neg		
+< nienastąpień	nastąpić:v1	ger:pl:gen:n:perf:neg		
+< nastąpcie	nastąpić:v2	impt:pl:sec:perf		gwar.
+< nastąpią	nastąpić:v2	fin:pl:ter:perf		gwar.
+< nastąpicie	nastąpić:v2	fin:pl:sec:perf		gwar.
+< nastąpić	nastąpić:v2	inf:perf		gwar.
+< nastąpieniach	nastąpić:v2	ger:pl:loc:n:perf:aff		
+< nastąpieniami	nastąpić:v2	ger:pl:inst:n:perf:aff		
+< nastąpienia	nastąpić:v2	ger:pl:nom.acc:n:perf:aff		
+< nastąpienia	nastąpić:v2	ger:sg:gen:n:perf:aff		
+< nastąpieniem	nastąpić:v2	ger:sg:inst:n:perf:aff		
+< nastąpienie	nastąpić:v2	ger:sg:nom.acc:n:perf:aff		
+< nastąpieniom	nastąpić:v2	ger:pl:dat:n:perf:aff		
+< nastąpieniu	nastąpić:v2	ger:sg:dat.loc:n:perf:aff		
+< nastąpień	nastąpić:v2	ger:pl:gen:n:perf:aff		
+< nastąpię	nastąpić:v2	fin:sg:pri:perf		gwar.
+< nastąpiliby	nastąpić:v2	cond:pl:m1:ter:perf		gwar.
+< nastąpilibyście	nastąpić:v2	cond:pl:m1:sec:perf		gwar.
+< nastąpilibyśmy	nastąpić:v2	cond:pl:m1:pri:perf		gwar.
+< nastąpili	nastąpić:v2	praet:pl:m1:perf		gwar.
+< nastąpili	nastąpić:v2	praet:pl:m1:ter:perf		gwar.
+< nastąpiliście	nastąpić:v2	praet:pl:m1:sec:perf		gwar.
+< nastąpiliśmy	nastąpić:v2	praet:pl:m1:pri:perf		gwar.
+< nastąpiłabym	nastąpić:v2	cond:sg:f:pri:perf		gwar.
+< nastąpiłaby	nastąpić:v2	cond:sg:f:ter:perf		gwar.
+< nastąpiłabyś	nastąpić:v2	cond:sg:f:sec:perf		gwar.
+< nastąpiłam	nastąpić:v2	praet:sg:f:pri:perf		gwar.
+< nastąpiła	nastąpić:v2	praet:sg:f:perf		gwar.
+< nastąpiła	nastąpić:v2	praet:sg:f:ter:perf		gwar.
+< nastąpiłaś	nastąpić:v2	praet:sg:f:sec:perf		gwar.
+< nastąpiłbym	nastąpić:v2	cond:sg:m1.m2.m3:pri:perf		gwar.
+< nastąpiłby	nastąpić:v2	cond:sg:m1.m2.m3:ter:perf		gwar.
+< nastąpiłbyś	nastąpić:v2	cond:sg:m1.m2.m3:sec:perf		gwar.
+< nastąpiłem	nastąpić:v2	praet:sg:m1.m2.m3:pri:perf		gwar.
+< nastąpiłeś	nastąpić:v2	praet:sg:m1.m2.m3:sec:perf		gwar.
+< nastąpił	nastąpić:v2	praet:sg:m1.m2.m3:perf		gwar.
+< nastąpił	nastąpić:v2	praet:sg:m1.m2.m3:ter:perf		gwar.
+< nastąpiłobym	nastąpić:v2	cond:sg:n:pri:perf		gwar.
+< nastąpiłoby	nastąpić:v2	cond:sg:n:ter:perf		gwar.
+< nastąpiłobyś	nastąpić:v2	cond:sg:n:sec:perf		gwar.
+< nastąpiłom	nastąpić:v2	praet:sg:n:pri:perf		gwar.
+< nastąpiło	nastąpić:v2	praet:sg:n:perf		gwar.
+< nastąpiło	nastąpić:v2	praet:sg:n:ter:perf		gwar.
+< nastąpiłoś	nastąpić:v2	praet:sg:n:sec:perf		gwar.
+< nastąpiłyby	nastąpić:v2	cond:pl:m2.m3.f.n:ter:perf		gwar.
+< nastąpiłybyście	nastąpić:v2	cond:pl:m2.m3.f.n:sec:perf		gwar.
+< nastąpiłybyśmy	nastąpić:v2	cond:pl:m2.m3.f.n:pri:perf		gwar.
+< nastąpiły	nastąpić:v2	praet:pl:m2.m3.f.n:perf		gwar.
+< nastąpiły	nastąpić:v2	praet:pl:m2.m3.f.n:ter:perf		gwar.
+< nastąpiłyście	nastąpić:v2	praet:pl:m2.m3.f.n:sec:perf		gwar.
+< nastąpiłyśmy	nastąpić:v2	praet:pl:m2.m3.f.n:pri:perf		gwar.
+< nastąpimy	nastąpić:v2	fin:pl:pri:perf		gwar.
+< nastąpi	nastąpić:v2	fin:sg:ter:perf		gwar.
+< nastąpiono	nastąpić:v2	imps:perf		gwar.
+< nastąpisz	nastąpić:v2	fin:sg:sec:perf		gwar.
+< nastąpiwszy	nastąpić:v2	pant:perf		gwar.
+< nastąpmy	nastąpić:v2	impt:pl:pri:perf		gwar.
+< nastąp	nastąpić:v2	impt:sg:sec:perf		gwar.
+< nienastąpieniach	nastąpić:v2	ger:pl:loc:n:perf:neg		
+< nienastąpieniami	nastąpić:v2	ger:pl:inst:n:perf:neg		
+< nienastąpienia	nastąpić:v2	ger:pl:nom.acc:n:perf:neg		
+< nienastąpienia	nastąpić:v2	ger:sg:gen:n:perf:neg		
+< nienastąpieniem	nastąpić:v2	ger:sg:inst:n:perf:neg		
+< nienastąpienie	nastąpić:v2	ger:sg:nom.acc:n:perf:neg		
+< nienastąpieniom	nastąpić:v2	ger:pl:dat:n:perf:neg		
+< nienastąpieniu	nastąpić:v2	ger:sg:dat.loc:n:perf:neg		
+< nienastąpień	nastąpić:v2	ger:pl:gen:n:perf:neg		
+---
+> nastąpcie	nastąpić	impt:pl:sec:perf		
+> nastąpią	nastąpić	fin:pl:ter:perf		
+> nastąpicie	nastąpić	fin:pl:sec:perf		
+> nastąpić	nastąpić	inf:perf		
+> nastąpieniach	nastąpić	ger:pl:loc:n:perf:aff		
+> nastąpieniami	nastąpić	ger:pl:inst:n:perf:aff		
+> nastąpienia	nastąpić	ger:pl:nom.acc:n:perf:aff		
+> nastąpienia	nastąpić	ger:sg:gen:n:perf:aff		
+> nastąpieniem	nastąpić	ger:sg:inst:n:perf:aff		
+> nastąpienie	nastąpić	ger:sg:nom.acc:n:perf:aff		
+> nastąpieniom	nastąpić	ger:pl:dat:n:perf:aff		
+> nastąpieniu	nastąpić	ger:sg:dat.loc:n:perf:aff		
+> nastąpień	nastąpić	ger:pl:gen:n:perf:aff		
+> nastąpię	nastąpić	fin:sg:pri:perf		
+> nastąpiliby	nastąpić	cond:pl:m1:ter:perf		
+> nastąpilibyście	nastąpić	cond:pl:m1:sec:perf		
+> nastąpilibyśmy	nastąpić	cond:pl:m1:pri:perf		
+> nastąpili	nastąpić	praet:pl:m1:perf		
+> nastąpili	nastąpić	praet:pl:m1:ter:perf		
+> nastąpiliście	nastąpić	praet:pl:m1:sec:perf		
+> nastąpiliśmy	nastąpić	praet:pl:m1:pri:perf		
+> nastąpiłabym	nastąpić	cond:sg:f:pri:perf		
+> nastąpiłaby	nastąpić	cond:sg:f:ter:perf		
+> nastąpiłabyś	nastąpić	cond:sg:f:sec:perf		
+> nastąpiłam	nastąpić	praet:sg:f:pri:perf		
+> nastąpiła	nastąpić	praet:sg:f:perf		
+> nastąpiła	nastąpić	praet:sg:f:ter:perf		
+> nastąpiłaś	nastąpić	praet:sg:f:sec:perf		
+> nastąpiłbym	nastąpić	cond:sg:m1.m2.m3:pri:perf		
+> nastąpiłby	nastąpić	cond:sg:m1.m2.m3:ter:perf		
+> nastąpiłbyś	nastąpić	cond:sg:m1.m2.m3:sec:perf		
+> nastąpiłem	nastąpić	praet:sg:m1.m2.m3:pri:perf		
+> nastąpiłeś	nastąpić	praet:sg:m1.m2.m3:sec:perf		
+> nastąpił	nastąpić	praet:sg:m1.m2.m3:perf		
+> nastąpił	nastąpić	praet:sg:m1.m2.m3:ter:perf		
+> nastąpiłobym	nastąpić	cond:sg:n:pri:perf		
+> nastąpiłoby	nastąpić	cond:sg:n:ter:perf		
+> nastąpiłobyś	nastąpić	cond:sg:n:sec:perf		
+> nastąpiłom	nastąpić	praet:sg:n:pri:perf		
+> nastąpiło	nastąpić	praet:sg:n:perf		
+> nastąpiło	nastąpić	praet:sg:n:ter:perf		
+> nastąpiłoś	nastąpić	praet:sg:n:sec:perf		
+> nastąpiłyby	nastąpić	cond:pl:m2.m3.f.n:ter:perf		
+> nastąpiłybyście	nastąpić	cond:pl:m2.m3.f.n:sec:perf		
+> nastąpiłybyśmy	nastąpić	cond:pl:m2.m3.f.n:pri:perf		
+> nastąpiły	nastąpić	praet:pl:m2.m3.f.n:perf		
+> nastąpiły	nastąpić	praet:pl:m2.m3.f.n:ter:perf		
+> nastąpiłyście	nastąpić	praet:pl:m2.m3.f.n:sec:perf		
+> nastąpiłyśmy	nastąpić	praet:pl:m2.m3.f.n:pri:perf		
+> nastąpimy	nastąpić	fin:pl:pri:perf		
+> nastąpi	nastąpić	fin:sg:ter:perf		
+> nastąpiono	nastąpić	imps:perf		
+> nastąpisz	nastąpić	fin:sg:sec:perf		
+> nastąpiwszy	nastąpić	pant:perf		
+> nastąpmy	nastąpić	impt:pl:pri:perf		
+> nastąp	nastąpić	impt:sg:sec:perf		
+> nienastąpieniach	nastąpić	ger:pl:loc:n:perf:neg		
+> nienastąpieniami	nastąpić	ger:pl:inst:n:perf:neg		
+> nienastąpienia	nastąpić	ger:pl:nom.acc:n:perf:neg		
+> nienastąpienia	nastąpić	ger:sg:gen:n:perf:neg		
+> nienastąpieniem	nastąpić	ger:sg:inst:n:perf:neg		
+> nienastąpienie	nastąpić	ger:sg:nom.acc:n:perf:neg		
+> nienastąpieniom	nastąpić	ger:pl:dat:n:perf:neg		
+> nienastąpieniu	nastąpić	ger:sg:dat.loc:n:perf:neg		
+> nienastąpień	nastąpić	ger:pl:gen:n:perf:neg		
+> nastąpieniach	nastąpić	ger:pl:loc:n:perf:aff		
+> nastąpieniami	nastąpić	ger:pl:inst:n:perf:aff		
+> nastąpienia	nastąpić	ger:pl:nom.acc:n:perf:aff		
+> nastąpienia	nastąpić	ger:sg:gen:n:perf:aff		
+> nastąpieniem	nastąpić	ger:sg:inst:n:perf:aff		
+> nastąpienie	nastąpić	ger:sg:nom.acc:n:perf:aff		
+> nastąpieniom	nastąpić	ger:pl:dat:n:perf:aff		
+> nastąpieniu	nastąpić	ger:sg:dat.loc:n:perf:aff		
+> nastąpień	nastąpić	ger:pl:gen:n:perf:aff		
+> nienastąpieniach	nastąpić	ger:pl:loc:n:perf:neg		
+> nienastąpieniami	nastąpić	ger:pl:inst:n:perf:neg		
+> nienastąpienia	nastąpić	ger:pl:nom.acc:n:perf:neg		
+> nienastąpienia	nastąpić	ger:sg:gen:n:perf:neg		
+> nienastąpieniem	nastąpić	ger:sg:inst:n:perf:neg		
+> nienastąpienie	nastąpić	ger:sg:nom.acc:n:perf:neg		
+> nienastąpieniom	nastąpić	ger:pl:dat:n:perf:neg		
+> nienastąpieniu	nastąpić	ger:sg:dat.loc:n:perf:neg		
+> nienastąpień	nastąpić	ger:pl:gen:n:perf:neg		
+2876140c2876118
+< niżeli	niżeli:j	conj		
+---
+> niżeli	niżeli:j	conj		książk.
+3682320a3682299,3682395
+> niepoodpinana	poodpinać	ppas:sg:nom.voc:f:perf:neg		
+> niepoodpinaną	poodpinać	ppas:sg:acc.inst:f:perf:neg		
+> niepoodpinanego	poodpinać	ppas:sg:acc:m1.m2:perf:neg		
+> niepoodpinanego	poodpinać	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niepoodpinanej	poodpinać	ppas:sg:gen.dat.loc:f:perf:neg		
+> niepoodpinanemu	poodpinać	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niepoodpinane	poodpinać	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niepoodpinane	poodpinać	ppas:sg:nom.acc.voc:n:perf:neg		
+> niepoodpinaniach	poodpinać	ger:pl:loc:n:perf:neg		
+> niepoodpinaniami	poodpinać	ger:pl:inst:n:perf:neg		
+> niepoodpinania	poodpinać	ger:pl:nom.acc:n:perf:neg		
+> niepoodpinania	poodpinać	ger:sg:gen:n:perf:neg		
+> niepoodpinaniem	poodpinać	ger:sg:inst:n:perf:neg		
+> niepoodpinanie	poodpinać	ger:sg:nom.acc:n:perf:neg		
+> niepoodpinaniom	poodpinać	ger:pl:dat:n:perf:neg		
+> niepoodpinani	poodpinać	ppas:pl:nom.voc:m1:perf:neg		
+> niepoodpinaniu	poodpinać	ger:sg:dat.loc:n:perf:neg		
+> niepoodpinanych	poodpinać	ppas:pl:acc:m1:perf:neg		
+> niepoodpinanych	poodpinać	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niepoodpinanymi	poodpinać	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niepoodpinanym	poodpinać	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niepoodpinanym	poodpinać	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niepoodpinany	poodpinać	ppas:sg:acc:m3:perf:neg		
+> niepoodpinany	poodpinać	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niepoodpinań	poodpinać	ger:pl:gen:n:perf:neg		
+> poodpinacie	poodpinać	fin:pl:sec:perf		
+> poodpinać	poodpinać	inf:perf		
+> poodpinają	poodpinać	fin:pl:ter:perf		
+> poodpinajcie	poodpinać	impt:pl:sec:perf		
+> poodpinajmy	poodpinać	impt:pl:pri:perf		
+> poodpinaj	poodpinać	impt:sg:sec:perf		
+> poodpinaliby	poodpinać	cond:pl:m1:ter:perf		
+> poodpinalibyście	poodpinać	cond:pl:m1:sec:perf		
+> poodpinalibyśmy	poodpinać	cond:pl:m1:pri:perf		
+> poodpinali	poodpinać	praet:pl:m1:perf		
+> poodpinali	poodpinać	praet:pl:m1:ter:perf		
+> poodpinaliście	poodpinać	praet:pl:m1:sec:perf		
+> poodpinaliśmy	poodpinać	praet:pl:m1:pri:perf		
+> poodpinałabym	poodpinać	cond:sg:f:pri:perf		
+> poodpinałaby	poodpinać	cond:sg:f:ter:perf		
+> poodpinałabyś	poodpinać	cond:sg:f:sec:perf		
+> poodpinałam	poodpinać	praet:sg:f:pri:perf		
+> poodpinała	poodpinać	praet:sg:f:perf		
+> poodpinała	poodpinać	praet:sg:f:ter:perf		
+> poodpinałaś	poodpinać	praet:sg:f:sec:perf		
+> poodpinałbym	poodpinać	cond:sg:m1.m2.m3:pri:perf		
+> poodpinałby	poodpinać	cond:sg:m1.m2.m3:ter:perf		
+> poodpinałbyś	poodpinać	cond:sg:m1.m2.m3:sec:perf		
+> poodpinałem	poodpinać	praet:sg:m1.m2.m3:pri:perf		
+> poodpinałeś	poodpinać	praet:sg:m1.m2.m3:sec:perf		
+> poodpinałobym	poodpinać	cond:sg:n:pri:perf		
+> poodpinałoby	poodpinać	cond:sg:n:ter:perf		
+> poodpinałobyś	poodpinać	cond:sg:n:sec:perf		
+> poodpinałom	poodpinać	praet:sg:n:pri:perf		
+> poodpinało	poodpinać	praet:sg:n:perf		
+> poodpinało	poodpinać	praet:sg:n:ter:perf		
+> poodpinałoś	poodpinać	praet:sg:n:sec:perf		
+> poodpinał	poodpinać	praet:sg:m1.m2.m3:perf		
+> poodpinał	poodpinać	praet:sg:m1.m2.m3:ter:perf		
+> poodpinałyby	poodpinać	cond:pl:m2.m3.f.n:ter:perf		
+> poodpinałybyście	poodpinać	cond:pl:m2.m3.f.n:sec:perf		
+> poodpinałybyśmy	poodpinać	cond:pl:m2.m3.f.n:pri:perf		
+> poodpinały	poodpinać	praet:pl:m2.m3.f.n:perf		
+> poodpinały	poodpinać	praet:pl:m2.m3.f.n:ter:perf		
+> poodpinałyście	poodpinać	praet:pl:m2.m3.f.n:sec:perf		
+> poodpinałyśmy	poodpinać	praet:pl:m2.m3.f.n:pri:perf		
+> poodpinam	poodpinać	fin:sg:pri:perf		
+> poodpinamy	poodpinać	fin:pl:pri:perf		
+> poodpinana	poodpinać	ppas:sg:nom.voc:f:perf:aff		
+> poodpinaną	poodpinać	ppas:sg:acc.inst:f:perf:aff		
+> poodpinanego	poodpinać	ppas:sg:acc:m1.m2:perf:aff		
+> poodpinanego	poodpinać	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> poodpinanej	poodpinać	ppas:sg:gen.dat.loc:f:perf:aff		
+> poodpinanemu	poodpinać	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> poodpinane	poodpinać	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> poodpinane	poodpinać	ppas:sg:nom.acc.voc:n:perf:aff		
+> poodpinaniach	poodpinać	ger:pl:loc:n:perf:aff		
+> poodpinaniami	poodpinać	ger:pl:inst:n:perf:aff		
+> poodpinania	poodpinać	ger:pl:nom.acc:n:perf:aff		
+> poodpinania	poodpinać	ger:sg:gen:n:perf:aff		
+> poodpinaniem	poodpinać	ger:sg:inst:n:perf:aff		
+> poodpinanie	poodpinać	ger:sg:nom.acc:n:perf:aff		
+> poodpinaniom	poodpinać	ger:pl:dat:n:perf:aff		
+> poodpinani	poodpinać	ppas:pl:nom.voc:m1:perf:aff		
+> poodpinaniu	poodpinać	ger:sg:dat.loc:n:perf:aff		
+> poodpinano	poodpinać	imps:perf		
+> poodpinanych	poodpinać	ppas:pl:acc:m1:perf:aff		
+> poodpinanych	poodpinać	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> poodpinanymi	poodpinać	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> poodpinanym	poodpinać	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> poodpinanym	poodpinać	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> poodpinany	poodpinać	ppas:sg:acc:m3:perf:aff		
+> poodpinany	poodpinać	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> poodpinań	poodpinać	ger:pl:gen:n:perf:aff		
+> poodpina	poodpinać	fin:sg:ter:perf		
+> poodpinasz	poodpinać	fin:sg:sec:perf		
+> poodpinawszy	poodpinać	pant:perf		
+3889759,3889952c3889834,3889980
+< niepożyczeniach	pożyczyć:v1	ger:pl:loc:n:perf:neg		
+< niepożyczeniami	pożyczyć:v1	ger:pl:inst:n:perf:neg		
+< niepożyczenia	pożyczyć:v1	ger:pl:nom.acc:n:perf:neg		
+< niepożyczenia	pożyczyć:v1	ger:sg:gen:n:perf:neg		
+< niepożyczeniem	pożyczyć:v1	ger:sg:inst:n:perf:neg		
+< niepożyczenie	pożyczyć:v1	ger:sg:nom.acc:n:perf:neg		
+< niepożyczeniom	pożyczyć:v1	ger:pl:dat:n:perf:neg		
+< niepożyczeni	pożyczyć:v1	ppas:pl:nom.voc:m1:perf:neg		
+< niepożyczeniu	pożyczyć:v1	ger:sg:dat.loc:n:perf:neg		
+< niepożyczeń	pożyczyć:v1	ger:pl:gen:n:perf:neg		
+< niepożyczona	pożyczyć:v1	ppas:sg:nom.voc:f:perf:neg		
+< niepożyczoną	pożyczyć:v1	ppas:sg:acc.inst:f:perf:neg		
+< niepożyczonego	pożyczyć:v1	ppas:sg:acc:m1.m2:perf:neg		
+< niepożyczonego	pożyczyć:v1	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+< niepożyczonej	pożyczyć:v1	ppas:sg:gen.dat.loc:f:perf:neg		
+< niepożyczonemu	pożyczyć:v1	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+< niepożyczone	pożyczyć:v1	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+< niepożyczone	pożyczyć:v1	ppas:sg:nom.acc.voc:n:perf:neg		
+< niepożyczonych	pożyczyć:v1	ppas:pl:acc:m1:perf:neg		
+< niepożyczonych	pożyczyć:v1	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+< niepożyczonymi	pożyczyć:v1	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+< niepożyczonym	pożyczyć:v1	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+< niepożyczonym	pożyczyć:v1	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+< niepożyczony	pożyczyć:v1	ppas:sg:acc:m3:perf:neg		
+< niepożyczony	pożyczyć:v1	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+< pożyczą	pożyczyć:v1	fin:pl:ter:perf		
+< pożyczcie	pożyczyć:v1	impt:pl:sec:perf		
+< pożyczeniach	pożyczyć:v1	ger:pl:loc:n:perf:aff		
+< pożyczeniami	pożyczyć:v1	ger:pl:inst:n:perf:aff		
+< pożyczenia	pożyczyć:v1	ger:pl:nom.acc:n:perf:aff		
+< pożyczenia	pożyczyć:v1	ger:sg:gen:n:perf:aff		
+< pożyczeniem	pożyczyć:v1	ger:sg:inst:n:perf:aff		
+< pożyczenie	pożyczyć:v1	ger:sg:nom.acc:n:perf:aff		
+< pożyczeniom	pożyczyć:v1	ger:pl:dat:n:perf:aff		
+< pożyczeni	pożyczyć:v1	ppas:pl:nom.voc:m1:perf:aff		
+< pożyczeniu	pożyczyć:v1	ger:sg:dat.loc:n:perf:aff		
+< pożyczeń	pożyczyć:v1	ger:pl:gen:n:perf:aff		
+< pożyczę	pożyczyć:v1	fin:sg:pri:perf		
+< pożyczmy	pożyczyć:v1	impt:pl:pri:perf		
+< pożyczona	pożyczyć:v1	ppas:sg:nom.voc:f:perf:aff		
+< pożyczoną	pożyczyć:v1	ppas:sg:acc.inst:f:perf:aff		
+< pożyczonego	pożyczyć:v1	ppas:sg:acc:m1.m2:perf:aff		
+< pożyczonego	pożyczyć:v1	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+< pożyczonej	pożyczyć:v1	ppas:sg:gen.dat.loc:f:perf:aff		
+< pożyczonemu	pożyczyć:v1	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+< pożyczone	pożyczyć:v1	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+< pożyczone	pożyczyć:v1	ppas:sg:nom.acc.voc:n:perf:aff		
+< pożyczono	pożyczyć:v1	imps:perf		
+< pożyczonych	pożyczyć:v1	ppas:pl:acc:m1:perf:aff		
+< pożyczonych	pożyczyć:v1	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+< pożyczonymi	pożyczyć:v1	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+< pożyczonym	pożyczyć:v1	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+< pożyczonym	pożyczyć:v1	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+< pożyczony	pożyczyć:v1	ppas:sg:acc:m3:perf:aff		
+< pożyczony	pożyczyć:v1	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+< pożycz	pożyczyć:v1	impt:sg:sec:perf		
+< pożyczycie	pożyczyć:v1	fin:pl:sec:perf		
+< pożyczyć	pożyczyć:v1	inf:perf		
+< pożyczyliby	pożyczyć:v1	cond:pl:m1:ter:perf		
+< pożyczylibyście	pożyczyć:v1	cond:pl:m1:sec:perf		
+< pożyczylibyśmy	pożyczyć:v1	cond:pl:m1:pri:perf		
+< pożyczyli	pożyczyć:v1	praet:pl:m1:perf		
+< pożyczyli	pożyczyć:v1	praet:pl:m1:ter:perf		
+< pożyczyliście	pożyczyć:v1	praet:pl:m1:sec:perf		
+< pożyczyliśmy	pożyczyć:v1	praet:pl:m1:pri:perf		
+< pożyczyłabym	pożyczyć:v1	cond:sg:f:pri:perf		
+< pożyczyłaby	pożyczyć:v1	cond:sg:f:ter:perf		
+< pożyczyłabyś	pożyczyć:v1	cond:sg:f:sec:perf		
+< pożyczyłam	pożyczyć:v1	praet:sg:f:pri:perf		
+< pożyczyła	pożyczyć:v1	praet:sg:f:perf		
+< pożyczyła	pożyczyć:v1	praet:sg:f:ter:perf		
+< pożyczyłaś	pożyczyć:v1	praet:sg:f:sec:perf		
+< pożyczyłbym	pożyczyć:v1	cond:sg:m1.m2.m3:pri:perf		
+< pożyczyłby	pożyczyć:v1	cond:sg:m1.m2.m3:ter:perf		
+< pożyczyłbyś	pożyczyć:v1	cond:sg:m1.m2.m3:sec:perf		
+< pożyczyłem	pożyczyć:v1	praet:sg:m1.m2.m3:pri:perf		
+< pożyczyłeś	pożyczyć:v1	praet:sg:m1.m2.m3:sec:perf		
+< pożyczyłobym	pożyczyć:v1	cond:sg:n:pri:perf		
+< pożyczyłoby	pożyczyć:v1	cond:sg:n:ter:perf		
+< pożyczyłobyś	pożyczyć:v1	cond:sg:n:sec:perf		
+< pożyczyłom	pożyczyć:v1	praet:sg:n:pri:perf		
+< pożyczyło	pożyczyć:v1	praet:sg:n:perf		
+< pożyczyło	pożyczyć:v1	praet:sg:n:ter:perf		
+< pożyczyłoś	pożyczyć:v1	praet:sg:n:sec:perf		
+< pożyczył	pożyczyć:v1	praet:sg:m1.m2.m3:perf		
+< pożyczył	pożyczyć:v1	praet:sg:m1.m2.m3:ter:perf		
+< pożyczyłyby	pożyczyć:v1	cond:pl:m2.m3.f.n:ter:perf		
+< pożyczyłybyście	pożyczyć:v1	cond:pl:m2.m3.f.n:sec:perf		
+< pożyczyłybyśmy	pożyczyć:v1	cond:pl:m2.m3.f.n:pri:perf		
+< pożyczyły	pożyczyć:v1	praet:pl:m2.m3.f.n:perf		
+< pożyczyły	pożyczyć:v1	praet:pl:m2.m3.f.n:ter:perf		
+< pożyczyłyście	pożyczyć:v1	praet:pl:m2.m3.f.n:sec:perf		
+< pożyczyłyśmy	pożyczyć:v1	praet:pl:m2.m3.f.n:pri:perf		
+< pożyczymy	pożyczyć:v1	fin:pl:pri:perf		
+< pożyczy	pożyczyć:v1	fin:sg:ter:perf		
+< pożyczysz	pożyczyć:v1	fin:sg:sec:perf		
+< pożyczywszy	pożyczyć:v1	pant:perf		
+< niepożyczeniach	pożyczyć:v2	ger:pl:loc:n:perf:neg		
+< niepożyczeniami	pożyczyć:v2	ger:pl:inst:n:perf:neg		
+< niepożyczenia	pożyczyć:v2	ger:pl:nom.acc:n:perf:neg		
+< niepożyczenia	pożyczyć:v2	ger:sg:gen:n:perf:neg		
+< niepożyczeniem	pożyczyć:v2	ger:sg:inst:n:perf:neg		
+< niepożyczenie	pożyczyć:v2	ger:sg:nom.acc:n:perf:neg		
+< niepożyczeniom	pożyczyć:v2	ger:pl:dat:n:perf:neg		
+< niepożyczeni	pożyczyć:v2	ppas:pl:nom.voc:m1:perf:neg		
+< niepożyczeniu	pożyczyć:v2	ger:sg:dat.loc:n:perf:neg		
+< niepożyczeń	pożyczyć:v2	ger:pl:gen:n:perf:neg		
+< niepożyczona	pożyczyć:v2	ppas:sg:nom.voc:f:perf:neg		
+< niepożyczoną	pożyczyć:v2	ppas:sg:acc.inst:f:perf:neg		
+< niepożyczonego	pożyczyć:v2	ppas:sg:acc:m1.m2:perf:neg		
+< niepożyczonego	pożyczyć:v2	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+< niepożyczonej	pożyczyć:v2	ppas:sg:gen.dat.loc:f:perf:neg		
+< niepożyczonemu	pożyczyć:v2	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+< niepożyczone	pożyczyć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+< niepożyczone	pożyczyć:v2	ppas:sg:nom.acc.voc:n:perf:neg		
+< niepożyczonych	pożyczyć:v2	ppas:pl:acc:m1:perf:neg		
+< niepożyczonych	pożyczyć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+< niepożyczonymi	pożyczyć:v2	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+< niepożyczonym	pożyczyć:v2	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+< niepożyczonym	pożyczyć:v2	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+< niepożyczony	pożyczyć:v2	ppas:sg:acc:m3:perf:neg		
+< niepożyczony	pożyczyć:v2	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+< pożyczą	pożyczyć:v2	fin:pl:ter:perf		
+< pożyczcie	pożyczyć:v2	impt:pl:sec:perf		
+< pożyczeniach	pożyczyć:v2	ger:pl:loc:n:perf:aff		
+< pożyczeniami	pożyczyć:v2	ger:pl:inst:n:perf:aff		
+< pożyczenia	pożyczyć:v2	ger:pl:nom.acc:n:perf:aff		
+< pożyczenia	pożyczyć:v2	ger:sg:gen:n:perf:aff		
+< pożyczeniem	pożyczyć:v2	ger:sg:inst:n:perf:aff		
+< pożyczenie	pożyczyć:v2	ger:sg:nom.acc:n:perf:aff		
+< pożyczeniom	pożyczyć:v2	ger:pl:dat:n:perf:aff		
+< pożyczeni	pożyczyć:v2	ppas:pl:nom.voc:m1:perf:aff		
+< pożyczeniu	pożyczyć:v2	ger:sg:dat.loc:n:perf:aff		
+< pożyczeń	pożyczyć:v2	ger:pl:gen:n:perf:aff		
+< pożyczę	pożyczyć:v2	fin:sg:pri:perf		
+< pożyczmy	pożyczyć:v2	impt:pl:pri:perf		
+< pożyczona	pożyczyć:v2	ppas:sg:nom.voc:f:perf:aff		
+< pożyczoną	pożyczyć:v2	ppas:sg:acc.inst:f:perf:aff		
+< pożyczonego	pożyczyć:v2	ppas:sg:acc:m1.m2:perf:aff		
+< pożyczonego	pożyczyć:v2	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+< pożyczonej	pożyczyć:v2	ppas:sg:gen.dat.loc:f:perf:aff		
+< pożyczonemu	pożyczyć:v2	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+< pożyczone	pożyczyć:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+< pożyczone	pożyczyć:v2	ppas:sg:nom.acc.voc:n:perf:aff		
+< pożyczono	pożyczyć:v2	imps:perf		
+< pożyczonych	pożyczyć:v2	ppas:pl:acc:m1:perf:aff		
+< pożyczonych	pożyczyć:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+< pożyczonymi	pożyczyć:v2	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+< pożyczonym	pożyczyć:v2	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+< pożyczonym	pożyczyć:v2	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+< pożyczony	pożyczyć:v2	ppas:sg:acc:m3:perf:aff		
+< pożyczony	pożyczyć:v2	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+< pożycz	pożyczyć:v2	impt:sg:sec:perf		
+< pożyczycie	pożyczyć:v2	fin:pl:sec:perf		
+< pożyczyć	pożyczyć:v2	inf:perf		
+< pożyczyliby	pożyczyć:v2	cond:pl:m1:ter:perf		
+< pożyczylibyście	pożyczyć:v2	cond:pl:m1:sec:perf		
+< pożyczylibyśmy	pożyczyć:v2	cond:pl:m1:pri:perf		
+< pożyczyli	pożyczyć:v2	praet:pl:m1:perf		
+< pożyczyli	pożyczyć:v2	praet:pl:m1:ter:perf		
+< pożyczyliście	pożyczyć:v2	praet:pl:m1:sec:perf		
+< pożyczyliśmy	pożyczyć:v2	praet:pl:m1:pri:perf		
+< pożyczyłabym	pożyczyć:v2	cond:sg:f:pri:perf		
+< pożyczyłaby	pożyczyć:v2	cond:sg:f:ter:perf		
+< pożyczyłabyś	pożyczyć:v2	cond:sg:f:sec:perf		
+< pożyczyłam	pożyczyć:v2	praet:sg:f:pri:perf		
+< pożyczyła	pożyczyć:v2	praet:sg:f:perf		
+< pożyczyła	pożyczyć:v2	praet:sg:f:ter:perf		
+< pożyczyłaś	pożyczyć:v2	praet:sg:f:sec:perf		
+< pożyczyłbym	pożyczyć:v2	cond:sg:m1.m2.m3:pri:perf		
+< pożyczyłby	pożyczyć:v2	cond:sg:m1.m2.m3:ter:perf		
+< pożyczyłbyś	pożyczyć:v2	cond:sg:m1.m2.m3:sec:perf		
+< pożyczyłem	pożyczyć:v2	praet:sg:m1.m2.m3:pri:perf		
+< pożyczyłeś	pożyczyć:v2	praet:sg:m1.m2.m3:sec:perf		
+< pożyczyłobym	pożyczyć:v2	cond:sg:n:pri:perf		
+< pożyczyłoby	pożyczyć:v2	cond:sg:n:ter:perf		
+< pożyczyłobyś	pożyczyć:v2	cond:sg:n:sec:perf		
+< pożyczyłom	pożyczyć:v2	praet:sg:n:pri:perf		
+< pożyczyło	pożyczyć:v2	praet:sg:n:perf		
+< pożyczyło	pożyczyć:v2	praet:sg:n:ter:perf		
+< pożyczyłoś	pożyczyć:v2	praet:sg:n:sec:perf		
+< pożyczył	pożyczyć:v2	praet:sg:m1.m2.m3:perf		
+< pożyczył	pożyczyć:v2	praet:sg:m1.m2.m3:ter:perf		
+< pożyczyłyby	pożyczyć:v2	cond:pl:m2.m3.f.n:ter:perf		
+< pożyczyłybyście	pożyczyć:v2	cond:pl:m2.m3.f.n:sec:perf		
+< pożyczyłybyśmy	pożyczyć:v2	cond:pl:m2.m3.f.n:pri:perf		
+< pożyczyły	pożyczyć:v2	praet:pl:m2.m3.f.n:perf		
+< pożyczyły	pożyczyć:v2	praet:pl:m2.m3.f.n:ter:perf		
+< pożyczyłyście	pożyczyć:v2	praet:pl:m2.m3.f.n:sec:perf		
+< pożyczyłyśmy	pożyczyć:v2	praet:pl:m2.m3.f.n:pri:perf		
+< pożyczymy	pożyczyć:v2	fin:pl:pri:perf		
+< pożyczy	pożyczyć:v2	fin:sg:ter:perf		
+< pożyczysz	pożyczyć:v2	fin:sg:sec:perf		
+< pożyczywszy	pożyczyć:v2	pant:perf		
+---
+> niepożyczeniach	pożyczyć	ger:pl:loc:n:perf:neg		
+> niepożyczeniami	pożyczyć	ger:pl:inst:n:perf:neg		
+> niepożyczenia	pożyczyć	ger:pl:nom.acc:n:perf:neg		
+> niepożyczenia	pożyczyć	ger:sg:gen:n:perf:neg		
+> niepożyczeniem	pożyczyć	ger:sg:inst:n:perf:neg		
+> niepożyczenie	pożyczyć	ger:sg:nom.acc:n:perf:neg		
+> niepożyczeniom	pożyczyć	ger:pl:dat:n:perf:neg		
+> niepożyczeni	pożyczyć	ppas:pl:nom.voc:m1:perf:neg		
+> niepożyczeniu	pożyczyć	ger:sg:dat.loc:n:perf:neg		
+> niepożyczeń	pożyczyć	ger:pl:gen:n:perf:neg		
+> niepożyczona	pożyczyć	ppas:sg:nom.voc:f:perf:neg		
+> niepożyczoną	pożyczyć	ppas:sg:acc.inst:f:perf:neg		
+> niepożyczonego	pożyczyć	ppas:sg:acc:m1.m2:perf:neg		
+> niepożyczonego	pożyczyć	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niepożyczonej	pożyczyć	ppas:sg:gen.dat.loc:f:perf:neg		
+> niepożyczonemu	pożyczyć	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niepożyczone	pożyczyć	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niepożyczone	pożyczyć	ppas:sg:nom.acc.voc:n:perf:neg		
+> niepożyczonych	pożyczyć	ppas:pl:acc:m1:perf:neg		
+> niepożyczonych	pożyczyć	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niepożyczonymi	pożyczyć	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niepożyczonym	pożyczyć	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niepożyczonym	pożyczyć	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niepożyczony	pożyczyć	ppas:sg:acc:m3:perf:neg		
+> niepożyczony	pożyczyć	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> pożyczą	pożyczyć	fin:pl:ter:perf		
+> pożyczcie	pożyczyć	impt:pl:sec:perf		
+> pożyczeniach	pożyczyć	ger:pl:loc:n:perf:aff		
+> pożyczeniami	pożyczyć	ger:pl:inst:n:perf:aff		
+> pożyczenia	pożyczyć	ger:pl:nom.acc:n:perf:aff		
+> pożyczenia	pożyczyć	ger:sg:gen:n:perf:aff		
+> pożyczeniem	pożyczyć	ger:sg:inst:n:perf:aff		
+> pożyczenie	pożyczyć	ger:sg:nom.acc:n:perf:aff		
+> pożyczeniom	pożyczyć	ger:pl:dat:n:perf:aff		
+> pożyczeni	pożyczyć	ppas:pl:nom.voc:m1:perf:aff		
+> pożyczeniu	pożyczyć	ger:sg:dat.loc:n:perf:aff		
+> pożyczeń	pożyczyć	ger:pl:gen:n:perf:aff		
+> pożyczę	pożyczyć	fin:sg:pri:perf		
+> pożyczmy	pożyczyć	impt:pl:pri:perf		
+> pożyczona	pożyczyć	ppas:sg:nom.voc:f:perf:aff		
+> pożyczoną	pożyczyć	ppas:sg:acc.inst:f:perf:aff		
+> pożyczonego	pożyczyć	ppas:sg:acc:m1.m2:perf:aff		
+> pożyczonego	pożyczyć	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> pożyczonej	pożyczyć	ppas:sg:gen.dat.loc:f:perf:aff		
+> pożyczonemu	pożyczyć	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> pożyczone	pożyczyć	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> pożyczone	pożyczyć	ppas:sg:nom.acc.voc:n:perf:aff		
+> pożyczono	pożyczyć	imps:perf		
+> pożyczonych	pożyczyć	ppas:pl:acc:m1:perf:aff		
+> pożyczonych	pożyczyć	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> pożyczonymi	pożyczyć	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> pożyczonym	pożyczyć	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> pożyczonym	pożyczyć	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> pożyczony	pożyczyć	ppas:sg:acc:m3:perf:aff		
+> pożyczony	pożyczyć	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> pożycz	pożyczyć	impt:sg:sec:perf		
+> pożyczycie	pożyczyć	fin:pl:sec:perf		
+> pożyczyć	pożyczyć	inf:perf		
+> pożyczyliby	pożyczyć	cond:pl:m1:ter:perf		
+> pożyczylibyście	pożyczyć	cond:pl:m1:sec:perf		
+> pożyczylibyśmy	pożyczyć	cond:pl:m1:pri:perf		
+> pożyczyli	pożyczyć	praet:pl:m1:perf		
+> pożyczyli	pożyczyć	praet:pl:m1:ter:perf		
+> pożyczyliście	pożyczyć	praet:pl:m1:sec:perf		
+> pożyczyliśmy	pożyczyć	praet:pl:m1:pri:perf		
+> pożyczyłabym	pożyczyć	cond:sg:f:pri:perf		
+> pożyczyłaby	pożyczyć	cond:sg:f:ter:perf		
+> pożyczyłabyś	pożyczyć	cond:sg:f:sec:perf		
+> pożyczyłam	pożyczyć	praet:sg:f:pri:perf		
+> pożyczyła	pożyczyć	praet:sg:f:perf		
+> pożyczyła	pożyczyć	praet:sg:f:ter:perf		
+> pożyczyłaś	pożyczyć	praet:sg:f:sec:perf		
+> pożyczyłbym	pożyczyć	cond:sg:m1.m2.m3:pri:perf		
+> pożyczyłby	pożyczyć	cond:sg:m1.m2.m3:ter:perf		
+> pożyczyłbyś	pożyczyć	cond:sg:m1.m2.m3:sec:perf		
+> pożyczyłem	pożyczyć	praet:sg:m1.m2.m3:pri:perf		
+> pożyczyłeś	pożyczyć	praet:sg:m1.m2.m3:sec:perf		
+> pożyczyłobym	pożyczyć	cond:sg:n:pri:perf		
+> pożyczyłoby	pożyczyć	cond:sg:n:ter:perf		
+> pożyczyłobyś	pożyczyć	cond:sg:n:sec:perf		
+> pożyczyłom	pożyczyć	praet:sg:n:pri:perf		
+> pożyczyło	pożyczyć	praet:sg:n:perf		
+> pożyczyło	pożyczyć	praet:sg:n:ter:perf		
+> pożyczyłoś	pożyczyć	praet:sg:n:sec:perf		
+> pożyczył	pożyczyć	praet:sg:m1.m2.m3:perf		
+> pożyczył	pożyczyć	praet:sg:m1.m2.m3:ter:perf		
+> pożyczyłyby	pożyczyć	cond:pl:m2.m3.f.n:ter:perf		
+> pożyczyłybyście	pożyczyć	cond:pl:m2.m3.f.n:sec:perf		
+> pożyczyłybyśmy	pożyczyć	cond:pl:m2.m3.f.n:pri:perf		
+> pożyczyły	pożyczyć	praet:pl:m2.m3.f.n:perf		
+> pożyczyły	pożyczyć	praet:pl:m2.m3.f.n:ter:perf		
+> pożyczyłyście	pożyczyć	praet:pl:m2.m3.f.n:sec:perf		
+> pożyczyłyśmy	pożyczyć	praet:pl:m2.m3.f.n:pri:perf		
+> pożyczymy	pożyczyć	fin:pl:pri:perf		
+> pożyczy	pożyczyć	fin:sg:ter:perf		
+> pożyczysz	pożyczyć	fin:sg:sec:perf		
+> pożyczywszy	pożyczyć	pant:perf		
+> niepożyczeniach	pożyczyć	ger:pl:loc:n:perf:neg		
+> niepożyczeniami	pożyczyć	ger:pl:inst:n:perf:neg		
+> niepożyczenia	pożyczyć	ger:pl:nom.acc:n:perf:neg		
+> niepożyczenia	pożyczyć	ger:sg:gen:n:perf:neg		
+> niepożyczeniem	pożyczyć	ger:sg:inst:n:perf:neg		
+> niepożyczenie	pożyczyć	ger:sg:nom.acc:n:perf:neg		
+> niepożyczeniom	pożyczyć	ger:pl:dat:n:perf:neg		
+> niepożyczeni	pożyczyć	ppas:pl:nom.voc:m1:perf:neg		
+> niepożyczeniu	pożyczyć	ger:sg:dat.loc:n:perf:neg		
+> niepożyczeń	pożyczyć	ger:pl:gen:n:perf:neg		
+> niepożyczona	pożyczyć	ppas:sg:nom.voc:f:perf:neg		
+> niepożyczoną	pożyczyć	ppas:sg:acc.inst:f:perf:neg		
+> niepożyczonego	pożyczyć	ppas:sg:acc:m1.m2:perf:neg		
+> niepożyczonego	pożyczyć	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niepożyczonej	pożyczyć	ppas:sg:gen.dat.loc:f:perf:neg		
+> niepożyczonemu	pożyczyć	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niepożyczone	pożyczyć	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niepożyczone	pożyczyć	ppas:sg:nom.acc.voc:n:perf:neg		
+> niepożyczonych	pożyczyć	ppas:pl:acc:m1:perf:neg		
+> niepożyczonych	pożyczyć	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niepożyczonymi	pożyczyć	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niepożyczonym	pożyczyć	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niepożyczonym	pożyczyć	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niepożyczony	pożyczyć	ppas:sg:acc:m3:perf:neg		
+> niepożyczony	pożyczyć	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> pożyczeniach	pożyczyć	ger:pl:loc:n:perf:aff		
+> pożyczeniami	pożyczyć	ger:pl:inst:n:perf:aff		
+> pożyczenia	pożyczyć	ger:pl:nom.acc:n:perf:aff		
+> pożyczenia	pożyczyć	ger:sg:gen:n:perf:aff		
+> pożyczeniem	pożyczyć	ger:sg:inst:n:perf:aff		
+> pożyczenie	pożyczyć	ger:sg:nom.acc:n:perf:aff		
+> pożyczeniom	pożyczyć	ger:pl:dat:n:perf:aff		
+> pożyczeni	pożyczyć	ppas:pl:nom.voc:m1:perf:aff		
+> pożyczeniu	pożyczyć	ger:sg:dat.loc:n:perf:aff		
+> pożyczeń	pożyczyć	ger:pl:gen:n:perf:aff		
+> pożyczona	pożyczyć	ppas:sg:nom.voc:f:perf:aff		
+> pożyczoną	pożyczyć	ppas:sg:acc.inst:f:perf:aff		
+> pożyczonego	pożyczyć	ppas:sg:acc:m1.m2:perf:aff		
+> pożyczonego	pożyczyć	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> pożyczonej	pożyczyć	ppas:sg:gen.dat.loc:f:perf:aff		
+> pożyczonemu	pożyczyć	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> pożyczone	pożyczyć	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> pożyczone	pożyczyć	ppas:sg:nom.acc.voc:n:perf:aff		
+> pożyczonych	pożyczyć	ppas:pl:acc:m1:perf:aff		
+> pożyczonych	pożyczyć	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> pożyczonymi	pożyczyć	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> pożyczonym	pożyczyć	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> pożyczonym	pożyczyć	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> pożyczony	pożyczyć	ppas:sg:acc:m3:perf:aff		
+> pożyczony	pożyczyć	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+4020951,4021078c4020979,4021060
+< nieprzejściach	przejść:v1	ger:pl:loc:n:perf:neg		
+< nieprzejściami	przejść:v1	ger:pl:inst:n:perf:neg		
+< nieprzejścia	przejść:v1	ger:pl:nom.acc:n:perf:neg		
+< nieprzejścia	przejść:v1	ger:sg:gen:n:perf:neg		
+< nieprzejściem	przejść:v1	ger:sg:inst:n:perf:neg		
+< nieprzejście	przejść:v1	ger:sg:nom.acc:n:perf:neg		
+< nieprzejściom	przejść:v1	ger:pl:dat:n:perf:neg		
+< nieprzejściu	przejść:v1	ger:sg:dat.loc:n:perf:neg		
+< nieprzejść	przejść:v1	ger:pl:gen:n:perf:neg		
+< przejdą	przejść:v1	fin:pl:ter:perf		
+< przejdę	przejść:v1	fin:sg:pri:perf		
+< przejdziecie	przejść:v1	fin:pl:sec:perf		
+< przejdziemy	przejść:v1	fin:pl:pri:perf		
+< przejdzie	przejść:v1	fin:sg:ter:perf		
+< przejdziesz	przejść:v1	fin:sg:sec:perf		
+< przejdźcie	przejść:v1	impt:pl:sec:perf		
+< przejdźmy	przejść:v1	impt:pl:pri:perf		
+< przejdź	przejść:v1	impt:sg:sec:perf		
+< przejściach	przejść:v1	ger:pl:loc:n:perf:aff		
+< przejściami	przejść:v1	ger:pl:inst:n:perf:aff		
+< przejścia	przejść:v1	ger:pl:nom.acc:n:perf:aff		
+< przejścia	przejść:v1	ger:sg:gen:n:perf:aff		
+< przejściem	przejść:v1	ger:sg:inst:n:perf:aff		
+< przejście	przejść:v1	ger:sg:nom.acc:n:perf:aff		
+< przejściom	przejść:v1	ger:pl:dat:n:perf:aff		
+< przejściu	przejść:v1	ger:sg:dat.loc:n:perf:aff		
+< przejść	przejść:v1	ger:pl:gen:n:perf:aff		
+< przejść	przejść:v1	inf:perf		
+< przeszedłbym	przejść:v1	cond:sg:m1.m2.m3:pri:perf		
+< przeszedłby	przejść:v1	cond:sg:m1.m2.m3:ter:perf		
+< przeszedłbyś	przejść:v1	cond:sg:m1.m2.m3:sec:perf		
+< przeszedłem	przejść:v1	praet:sg:m1.m2.m3:pri:perf		
+< przeszedłeś	przejść:v1	praet:sg:m1.m2.m3:sec:perf		
+< przeszedł	przejść:v1	praet:sg:m1.m2.m3:perf		
+< przeszedł	przejść:v1	praet:sg:m1.m2.m3:ter:perf		
+< przeszedłszy	przejść:v1	pant:perf		
+< przeszliby	przejść:v1	cond:pl:m1:ter:perf		
+< przeszlibyście	przejść:v1	cond:pl:m1:sec:perf		
+< przeszlibyśmy	przejść:v1	cond:pl:m1:pri:perf		
+< przeszli	przejść:v1	praet:pl:m1:perf		
+< przeszli	przejść:v1	praet:pl:m1:ter:perf		
+< przeszliście	przejść:v1	praet:pl:m1:sec:perf		
+< przeszliśmy	przejść:v1	praet:pl:m1:pri:perf		
+< przeszłabym	przejść:v1	cond:sg:f:pri:perf		
+< przeszłaby	przejść:v1	cond:sg:f:ter:perf		
+< przeszłabyś	przejść:v1	cond:sg:f:sec:perf		
+< przeszłam	przejść:v1	praet:sg:f:pri:perf		
+< przeszła	przejść:v1	praet:sg:f:perf		
+< przeszła	przejść:v1	praet:sg:f:ter:perf		
+< przeszłaś	przejść:v1	praet:sg:f:sec:perf		
+< przeszłobym	przejść:v1	cond:sg:n:pri:perf		
+< przeszłoby	przejść:v1	cond:sg:n:ter:perf		
+< przeszłobyś	przejść:v1	cond:sg:n:sec:perf		
+< przeszłom	przejść:v1	praet:sg:n:pri:perf		
+< przeszło	przejść:v1	praet:sg:n:perf		
+< przeszło	przejść:v1	praet:sg:n:ter:perf		
+< przeszłoś	przejść:v1	praet:sg:n:sec:perf		
+< przeszłyby	przejść:v1	cond:pl:m2.m3.f.n:ter:perf		
+< przeszłybyście	przejść:v1	cond:pl:m2.m3.f.n:sec:perf		
+< przeszłybyśmy	przejść:v1	cond:pl:m2.m3.f.n:pri:perf		
+< przeszły	przejść:v1	praet:pl:m2.m3.f.n:perf		
+< przeszły	przejść:v1	praet:pl:m2.m3.f.n:ter:perf		
+< przeszłyście	przejść:v1	praet:pl:m2.m3.f.n:sec:perf		
+< przeszłyśmy	przejść:v1	praet:pl:m2.m3.f.n:pri:perf		
+< nieprzejściach	przejść:v2	ger:pl:loc:n:perf:neg		
+< nieprzejściami	przejść:v2	ger:pl:inst:n:perf:neg		
+< nieprzejścia	przejść:v2	ger:pl:nom.acc:n:perf:neg		
+< nieprzejścia	przejść:v2	ger:sg:gen:n:perf:neg		
+< nieprzejściem	przejść:v2	ger:sg:inst:n:perf:neg		
+< nieprzejście	przejść:v2	ger:sg:nom.acc:n:perf:neg		
+< nieprzejściom	przejść:v2	ger:pl:dat:n:perf:neg		
+< nieprzejściu	przejść:v2	ger:sg:dat.loc:n:perf:neg		
+< nieprzejść	przejść:v2	ger:pl:gen:n:perf:neg		
+< przejdą	przejść:v2	fin:pl:ter:perf		
+< przejdę	przejść:v2	fin:sg:pri:perf		
+< przejdziecie	przejść:v2	fin:pl:sec:perf		
+< przejdziemy	przejść:v2	fin:pl:pri:perf		
+< przejdzie	przejść:v2	fin:sg:ter:perf		
+< przejdziesz	przejść:v2	fin:sg:sec:perf		
+< przejdźcie	przejść:v2	impt:pl:sec:perf		
+< przejdźmy	przejść:v2	impt:pl:pri:perf		
+< przejdź	przejść:v2	impt:sg:sec:perf		
+< przejściach	przejść:v2	ger:pl:loc:n:perf:aff		
+< przejściami	przejść:v2	ger:pl:inst:n:perf:aff		
+< przejścia	przejść:v2	ger:pl:nom.acc:n:perf:aff		
+< przejścia	przejść:v2	ger:sg:gen:n:perf:aff		
+< przejściem	przejść:v2	ger:sg:inst:n:perf:aff		
+< przejście	przejść:v2	ger:sg:nom.acc:n:perf:aff		
+< przejściom	przejść:v2	ger:pl:dat:n:perf:aff		
+< przejściu	przejść:v2	ger:sg:dat.loc:n:perf:aff		
+< przejść	przejść:v2	ger:pl:gen:n:perf:aff		
+< przejść	przejść:v2	inf:perf		
+< przeszedłbym	przejść:v2	cond:sg:m1.m2.m3:pri:perf		
+< przeszedłby	przejść:v2	cond:sg:m1.m2.m3:ter:perf		
+< przeszedłbyś	przejść:v2	cond:sg:m1.m2.m3:sec:perf		
+< przeszedłem	przejść:v2	praet:sg:m1.m2.m3:pri:perf		
+< przeszedłeś	przejść:v2	praet:sg:m1.m2.m3:sec:perf		
+< przeszedł	przejść:v2	praet:sg:m1.m2.m3:perf		
+< przeszedł	przejść:v2	praet:sg:m1.m2.m3:ter:perf		
+< przeszedłszy	przejść:v2	pant:perf		
+< przeszliby	przejść:v2	cond:pl:m1:ter:perf		
+< przeszlibyście	przejść:v2	cond:pl:m1:sec:perf		
+< przeszlibyśmy	przejść:v2	cond:pl:m1:pri:perf		
+< przeszli	przejść:v2	praet:pl:m1:perf		
+< przeszli	przejść:v2	praet:pl:m1:ter:perf		
+< przeszliście	przejść:v2	praet:pl:m1:sec:perf		
+< przeszliśmy	przejść:v2	praet:pl:m1:pri:perf		
+< przeszłabym	przejść:v2	cond:sg:f:pri:perf		
+< przeszłaby	przejść:v2	cond:sg:f:ter:perf		
+< przeszłabyś	przejść:v2	cond:sg:f:sec:perf		
+< przeszłam	przejść:v2	praet:sg:f:pri:perf		
+< przeszła	przejść:v2	praet:sg:f:perf		
+< przeszła	przejść:v2	praet:sg:f:ter:perf		
+< przeszłaś	przejść:v2	praet:sg:f:sec:perf		
+< przeszłobym	przejść:v2	cond:sg:n:pri:perf		
+< przeszłoby	przejść:v2	cond:sg:n:ter:perf		
+< przeszłobyś	przejść:v2	cond:sg:n:sec:perf		
+< przeszłom	przejść:v2	praet:sg:n:pri:perf		
+< przeszło	przejść:v2	praet:sg:n:perf		
+< przeszło	przejść:v2	praet:sg:n:ter:perf		
+< przeszłoś	przejść:v2	praet:sg:n:sec:perf		
+< przeszłyby	przejść:v2	cond:pl:m2.m3.f.n:ter:perf		
+< przeszłybyście	przejść:v2	cond:pl:m2.m3.f.n:sec:perf		
+< przeszłybyśmy	przejść:v2	cond:pl:m2.m3.f.n:pri:perf		
+< przeszły	przejść:v2	praet:pl:m2.m3.f.n:perf		
+< przeszły	przejść:v2	praet:pl:m2.m3.f.n:ter:perf		
+< przeszłyście	przejść:v2	praet:pl:m2.m3.f.n:sec:perf		
+< przeszłyśmy	przejść:v2	praet:pl:m2.m3.f.n:pri:perf		
+---
+> nieprzejściach	przejść	ger:pl:loc:n:perf:neg		
+> nieprzejściami	przejść	ger:pl:inst:n:perf:neg		
+> nieprzejścia	przejść	ger:pl:nom.acc:n:perf:neg		
+> nieprzejścia	przejść	ger:sg:gen:n:perf:neg		
+> nieprzejściem	przejść	ger:sg:inst:n:perf:neg		
+> nieprzejście	przejść	ger:sg:nom.acc:n:perf:neg		
+> nieprzejściom	przejść	ger:pl:dat:n:perf:neg		
+> nieprzejściu	przejść	ger:sg:dat.loc:n:perf:neg		
+> nieprzejść	przejść	ger:pl:gen:n:perf:neg		
+> przejściach	przejść	ger:pl:loc:n:perf:aff		
+> przejściami	przejść	ger:pl:inst:n:perf:aff		
+> przejścia	przejść	ger:pl:nom.acc:n:perf:aff		
+> przejścia	przejść	ger:sg:gen:n:perf:aff		
+> przejściem	przejść	ger:sg:inst:n:perf:aff		
+> przejście	przejść	ger:sg:nom.acc:n:perf:aff		
+> przejściom	przejść	ger:pl:dat:n:perf:aff		
+> przejściu	przejść	ger:sg:dat.loc:n:perf:aff		
+> przejść	przejść	ger:pl:gen:n:perf:aff		
+> nieprzejściach	przejść	ger:pl:loc:n:perf:neg		
+> nieprzejściami	przejść	ger:pl:inst:n:perf:neg		
+> nieprzejścia	przejść	ger:pl:nom.acc:n:perf:neg		
+> nieprzejścia	przejść	ger:sg:gen:n:perf:neg		
+> nieprzejściem	przejść	ger:sg:inst:n:perf:neg		
+> nieprzejście	przejść	ger:sg:nom.acc:n:perf:neg		
+> nieprzejściom	przejść	ger:pl:dat:n:perf:neg		
+> nieprzejściu	przejść	ger:sg:dat.loc:n:perf:neg		
+> nieprzejść	przejść	ger:pl:gen:n:perf:neg		
+> przejdą	przejść	fin:pl:ter:perf		
+> przejdę	przejść	fin:sg:pri:perf		
+> przejdziecie	przejść	fin:pl:sec:perf		
+> przejdziemy	przejść	fin:pl:pri:perf		
+> przejdzie	przejść	fin:sg:ter:perf		
+> przejdziesz	przejść	fin:sg:sec:perf		
+> przejdźcie	przejść	impt:pl:sec:perf		
+> przejdźmy	przejść	impt:pl:pri:perf		
+> przejdź	przejść	impt:sg:sec:perf		
+> przejściach	przejść	ger:pl:loc:n:perf:aff		
+> przejściami	przejść	ger:pl:inst:n:perf:aff		
+> przejścia	przejść	ger:pl:nom.acc:n:perf:aff		
+> przejścia	przejść	ger:sg:gen:n:perf:aff		
+> przejściem	przejść	ger:sg:inst:n:perf:aff		
+> przejście	przejść	ger:sg:nom.acc:n:perf:aff		
+> przejściom	przejść	ger:pl:dat:n:perf:aff		
+> przejściu	przejść	ger:sg:dat.loc:n:perf:aff		
+> przejść	przejść	ger:pl:gen:n:perf:aff		
+> przejść	przejść	inf:perf		
+> przeszedłbym	przejść	cond:sg:m1.m2.m3:pri:perf		
+> przeszedłby	przejść	cond:sg:m1.m2.m3:ter:perf		
+> przeszedłbyś	przejść	cond:sg:m1.m2.m3:sec:perf		
+> przeszedłem	przejść	praet:sg:m1.m2.m3:pri:perf		
+> przeszedłeś	przejść	praet:sg:m1.m2.m3:sec:perf		
+> przeszedł	przejść	praet:sg:m1.m2.m3:perf		
+> przeszedł	przejść	praet:sg:m1.m2.m3:ter:perf		
+> przeszedłszy	przejść	pant:perf		
+> przeszliby	przejść	cond:pl:m1:ter:perf		
+> przeszlibyście	przejść	cond:pl:m1:sec:perf		
+> przeszlibyśmy	przejść	cond:pl:m1:pri:perf		
+> przeszli	przejść	praet:pl:m1:perf		
+> przeszli	przejść	praet:pl:m1:ter:perf		
+> przeszliście	przejść	praet:pl:m1:sec:perf		
+> przeszliśmy	przejść	praet:pl:m1:pri:perf		
+> przeszłabym	przejść	cond:sg:f:pri:perf		
+> przeszłaby	przejść	cond:sg:f:ter:perf		
+> przeszłabyś	przejść	cond:sg:f:sec:perf		
+> przeszłam	przejść	praet:sg:f:pri:perf		
+> przeszła	przejść	praet:sg:f:perf		
+> przeszła	przejść	praet:sg:f:ter:perf		
+> przeszłaś	przejść	praet:sg:f:sec:perf		
+> przeszłobym	przejść	cond:sg:n:pri:perf		
+> przeszłoby	przejść	cond:sg:n:ter:perf		
+> przeszłobyś	przejść	cond:sg:n:sec:perf		
+> przeszłom	przejść	praet:sg:n:pri:perf		
+> przeszło	przejść	praet:sg:n:perf		
+> przeszło	przejść	praet:sg:n:ter:perf		
+> przeszłoś	przejść	praet:sg:n:sec:perf		
+> przeszłyby	przejść	cond:pl:m2.m3.f.n:ter:perf		
+> przeszłybyście	przejść	cond:pl:m2.m3.f.n:sec:perf		
+> przeszłybyśmy	przejść	cond:pl:m2.m3.f.n:pri:perf		
+> przeszły	przejść	praet:pl:m2.m3.f.n:perf		
+> przeszły	przejść	praet:pl:m2.m3.f.n:ter:perf		
+> przeszłyście	przejść	praet:pl:m2.m3.f.n:sec:perf		
+> przeszłyśmy	przejść	praet:pl:m2.m3.f.n:pri:perf		
+5549062c5549044
+< wszakżeż	wszakżeż	conj		
+---
+> wszakżeż	wszakżeż	conj		książk.

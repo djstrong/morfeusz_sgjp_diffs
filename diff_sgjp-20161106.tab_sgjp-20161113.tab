@@ -1,0 +1,78 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.11.06
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.11.13
+116718a116719,116732
+> automacie	automat	subst:sg:loc:m3	nazwa pospolita	
+> automacie	automat	subst:sg:voc:m3	nazwa pospolita	
+> automatach	automat	subst:pl:loc:m3	nazwa pospolita	
+> automatami	automat	subst:pl:inst:m3	nazwa pospolita	
+> automat	automat	subst:sg:acc:m3	nazwa pospolita	
+> automat	automat	subst:sg:nom:m3	nazwa pospolita	
+> automatem	automat	subst:sg:inst:m3	nazwa pospolita	
+> automatom	automat	subst:pl:dat:m3	nazwa pospolita	
+> automatowi	automat	subst:sg:dat:m3	nazwa pospolita	
+> automatów	automat	subst:pl:gen:m3	nazwa pospolita	
+> automatu	automat	subst:sg:gen:m3	nazwa pospolita	
+> automaty	automat	subst:pl:acc:m3	nazwa pospolita	
+> automaty	automat	subst:pl:nom:m3	nazwa pospolita	
+> automaty	automat	subst:pl:voc:m3	nazwa pospolita	
+116757,116784d116770
+< automacie	automat:s1	subst:sg:loc:m3	nazwa pospolita	
+< automacie	automat:s1	subst:sg:voc:m3	nazwa pospolita	
+< automatach	automat:s1	subst:pl:loc:m3	nazwa pospolita	
+< automatami	automat:s1	subst:pl:inst:m3	nazwa pospolita	
+< automat	automat:s1	subst:sg:acc:m3	nazwa pospolita	
+< automat	automat:s1	subst:sg:nom:m3	nazwa pospolita	
+< automatem	automat:s1	subst:sg:inst:m3	nazwa pospolita	
+< automatom	automat:s1	subst:pl:dat:m3	nazwa pospolita	
+< automatowi	automat:s1	subst:sg:dat:m3	nazwa pospolita	
+< automatów	automat:s1	subst:pl:gen:m3	nazwa pospolita	
+< automatu	automat:s1	subst:sg:gen:m3	nazwa pospolita	
+< automaty	automat:s1	subst:pl:acc:m3	nazwa pospolita	
+< automaty	automat:s1	subst:pl:nom:m3	nazwa pospolita	
+< automaty	automat:s1	subst:pl:voc:m3	nazwa pospolita	
+< automacie	automat:s2	subst:sg:loc:m3	nazwa pospolita	
+< automacie	automat:s2	subst:sg:voc:m3	nazwa pospolita	
+< automatach	automat:s2	subst:pl:loc:m3	nazwa pospolita	
+< automatami	automat:s2	subst:pl:inst:m3	nazwa pospolita	
+< automat	automat:s2	subst:sg:acc:m3	nazwa pospolita	
+< automat	automat:s2	subst:sg:nom:m3	nazwa pospolita	
+< automatem	automat:s2	subst:sg:inst:m3	nazwa pospolita	
+< automatom	automat:s2	subst:pl:dat:m3	nazwa pospolita	
+< automatowi	automat:s2	subst:sg:dat:m3	nazwa pospolita	
+< automatów	automat:s2	subst:pl:gen:m3	nazwa pospolita	
+< automatu	automat:s2	subst:sg:gen:m3	nazwa pospolita	
+< automaty	automat:s2	subst:pl:acc:m3	nazwa pospolita	
+< automaty	automat:s2	subst:pl:nom:m3	nazwa pospolita	
+< automaty	automat:s2	subst:pl:voc:m3	nazwa pospolita	
+1710178,1710191c1710164,1710177
+< multanach	multan	subst:pl:loc:m3	nazwa pospolita	
+< multanami	multan	subst:pl:inst:m3	nazwa pospolita	
+< multanem	multan	subst:sg:inst:m3	nazwa pospolita	
+< multanie	multan	subst:sg:loc:m3	nazwa pospolita	
+< multanie	multan	subst:sg:voc:m3	nazwa pospolita	
+< multan	multan	subst:sg:acc:m3	nazwa pospolita	
+< multan	multan	subst:sg:nom:m3	nazwa pospolita	
+< multanom	multan	subst:pl:dat:m3	nazwa pospolita	
+< multanowi	multan	subst:sg:dat:m3	nazwa pospolita	
+< multanów	multan	subst:pl:gen:m3	nazwa pospolita	
+< multanu	multan	subst:sg:gen:m3	nazwa pospolita	
+< multany	multan	subst:pl:acc:m3	nazwa pospolita	
+< multany	multan	subst:pl:nom:m3	nazwa pospolita	
+< multany	multan	subst:pl:voc:m3	nazwa pospolita	
+---
+> multanach	multan	subst:pl:loc:m3	nazwa pospolita	hist.
+> multanami	multan	subst:pl:inst:m3	nazwa pospolita	hist.
+> multanem	multan	subst:sg:inst:m3	nazwa pospolita	hist.
+> multanie	multan	subst:sg:loc:m3	nazwa pospolita	hist.
+> multanie	multan	subst:sg:voc:m3	nazwa pospolita	hist.
+> multan	multan	subst:sg:acc:m3	nazwa pospolita	hist.
+> multan	multan	subst:sg:nom:m3	nazwa pospolita	hist.
+> multanom	multan	subst:pl:dat:m3	nazwa pospolita	hist.
+> multanowi	multan	subst:sg:dat:m3	nazwa pospolita	hist.
+> multanów	multan	subst:pl:gen:m3	nazwa pospolita	hist.
+> multanu	multan	subst:sg:gen:m3	nazwa pospolita	hist.
+> multany	multan	subst:pl:acc:m3	nazwa pospolita	hist.
+> multany	multan	subst:pl:nom:m3	nazwa pospolita	hist.
+> multany	multan	subst:pl:voc:m3	nazwa pospolita	hist.

@@ -1,0 +1,1616 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.03.05
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.03.12
+1889,1918c1889,1932
+< ablegier	ablegier	subst:sg:acc:m3	nazwa pospolita	
+< ablegier	ablegier	subst:sg:nom:m3	nazwa pospolita	
+< ablegra	ablegier	subst:sg:gen:m3	nazwa pospolita	
+< ablegrach	ablegier	subst:pl:loc:m3	nazwa pospolita	
+< ablegrami	ablegier	subst:pl:inst:m3	nazwa pospolita	
+< ablegrem	ablegier	subst:sg:inst:m3	nazwa pospolita	
+< ablegrom	ablegier	subst:pl:dat:m3	nazwa pospolita	
+< ablegrowi	ablegier	subst:sg:dat:m3	nazwa pospolita	
+< ablegrów	ablegier	subst:pl:gen:m3	nazwa pospolita	
+< ablegry	ablegier	subst:pl:acc:m3	nazwa pospolita	
+< ablegry	ablegier	subst:pl:nom:m3	nazwa pospolita	
+< ablegry	ablegier	subst:pl:voc:m3	nazwa pospolita	
+< ablegrze	ablegier	subst:sg:loc:m3	nazwa pospolita	
+< ablegrze	ablegier	subst:sg:voc:m3	nazwa pospolita	
+< ablegierek	ablegierek	subst:sg:nom:m1	nazwa pospolita	przen.
+< ablegierka	ablegierek	subst:sg:acc:m1	nazwa pospolita	przen.
+< ablegierka	ablegierek	subst:sg:gen:m1	nazwa pospolita	przen.
+< ablegierkach	ablegierek	subst:pl:loc:m1	nazwa pospolita	przen.
+< ablegierkami	ablegierek	subst:pl:inst:m1	nazwa pospolita	przen.
+< ablegierki	ablegierek	depr:pl:nom:m2	nazwa pospolita	przen.
+< ablegierki	ablegierek	depr:pl:voc:m2	nazwa pospolita	przen.
+< ablegierkiem	ablegierek	subst:sg:inst:m1	nazwa pospolita	przen.
+< ablegierkom	ablegierek	subst:pl:dat:m1	nazwa pospolita	przen.
+< ablegierkowi	ablegierek	subst:sg:dat:m1	nazwa pospolita	przen.
+< ablegierkowie	ablegierek	subst:pl:nom:m1	nazwa pospolita	przen.
+< ablegierkowie	ablegierek	subst:pl:voc:m1	nazwa pospolita	przen.
+< ablegierków	ablegierek	subst:pl:acc:m1	nazwa pospolita	przen.
+< ablegierków	ablegierek	subst:pl:gen:m1	nazwa pospolita	przen.
+< ablegierku	ablegierek	subst:sg:loc:m1	nazwa pospolita	przen.
+< ablegierku	ablegierek	subst:sg:voc:m1	nazwa pospolita	przen.
+---
+> ablegier	ablegier	subst:sg:acc:m3	nazwa pospolita	ogr.
+> ablegier	ablegier	subst:sg:nom:m3	nazwa pospolita	ogr.
+> ablegra	ablegier	subst:sg:gen:m3	nazwa pospolita	ogr.
+> ablegrach	ablegier	subst:pl:loc:m3	nazwa pospolita	ogr.
+> ablegrami	ablegier	subst:pl:inst:m3	nazwa pospolita	ogr.
+> ablegrem	ablegier	subst:sg:inst:m3	nazwa pospolita	ogr.
+> ablegrom	ablegier	subst:pl:dat:m3	nazwa pospolita	ogr.
+> ablegrowi	ablegier	subst:sg:dat:m3	nazwa pospolita	ogr.
+> ablegrów	ablegier	subst:pl:gen:m3	nazwa pospolita	ogr.
+> ablegry	ablegier	subst:pl:acc:m3	nazwa pospolita	ogr.
+> ablegry	ablegier	subst:pl:nom:m3	nazwa pospolita	ogr.
+> ablegry	ablegier	subst:pl:voc:m3	nazwa pospolita	ogr.
+> ablegrze	ablegier	subst:sg:loc:m3	nazwa pospolita	ogr.
+> ablegrze	ablegier	subst:sg:voc:m3	nazwa pospolita	ogr.
+> ablegierek	ablegierek:s1	subst:sg:nom:m1	nazwa pospolita	przen.
+> ablegierka	ablegierek:s1	subst:sg:acc:m1	nazwa pospolita	przen.
+> ablegierka	ablegierek:s1	subst:sg:gen:m1	nazwa pospolita	przen.
+> ablegierkach	ablegierek:s1	subst:pl:loc:m1	nazwa pospolita	przen.
+> ablegierkami	ablegierek:s1	subst:pl:inst:m1	nazwa pospolita	przen.
+> ablegierki	ablegierek:s1	depr:pl:nom:m2	nazwa pospolita	przen.
+> ablegierki	ablegierek:s1	depr:pl:voc:m2	nazwa pospolita	przen.
+> ablegierkiem	ablegierek:s1	subst:sg:inst:m1	nazwa pospolita	przen.
+> ablegierkom	ablegierek:s1	subst:pl:dat:m1	nazwa pospolita	przen.
+> ablegierkowi	ablegierek:s1	subst:sg:dat:m1	nazwa pospolita	przen.
+> ablegierkowie	ablegierek:s1	subst:pl:nom:m1	nazwa pospolita	przen.
+> ablegierkowie	ablegierek:s1	subst:pl:voc:m1	nazwa pospolita	przen.
+> ablegierków	ablegierek:s1	subst:pl:acc:m1	nazwa pospolita	przen.
+> ablegierków	ablegierek:s1	subst:pl:gen:m1	nazwa pospolita	przen.
+> ablegierku	ablegierek:s1	subst:sg:loc:m1	nazwa pospolita	przen.
+> ablegierku	ablegierek:s1	subst:sg:voc:m1	nazwa pospolita	przen.
+> ablegierek	ablegierek:s2	subst:sg:acc:m3	nazwa pospolita	przen.
+> ablegierek	ablegierek:s2	subst:sg:nom:m3	nazwa pospolita	przen.
+> ablegierka	ablegierek:s2	subst:sg:gen:m3	nazwa pospolita	przen.
+> ablegierkach	ablegierek:s2	subst:pl:loc:m3	nazwa pospolita	przen.
+> ablegierkami	ablegierek:s2	subst:pl:inst:m3	nazwa pospolita	przen.
+> ablegierki	ablegierek:s2	subst:pl:acc:m3	nazwa pospolita	przen.
+> ablegierki	ablegierek:s2	subst:pl:nom:m3	nazwa pospolita	przen.
+> ablegierki	ablegierek:s2	subst:pl:voc:m3	nazwa pospolita	przen.
+> ablegierkiem	ablegierek:s2	subst:sg:inst:m3	nazwa pospolita	przen.
+> ablegierkom	ablegierek:s2	subst:pl:dat:m3	nazwa pospolita	przen.
+> ablegierkowi	ablegierek:s2	subst:sg:dat:m3	nazwa pospolita	przen.
+> ablegierków	ablegierek:s2	subst:pl:gen:m3	nazwa pospolita	przen.
+> ablegierku	ablegierek:s2	subst:sg:loc:m3	nazwa pospolita	przen.
+> ablegierku	ablegierek:s2	subst:sg:voc:m3	nazwa pospolita	przen.
+60951a60966
+> ang	angielski	brev:pun		
+66576a66592,66736
+> anonimizacja	anonimizacja	subst:sg:nom:f	nazwa pospolita	
+> anonimizacjach	anonimizacja	subst:pl:loc:f	nazwa pospolita	
+> anonimizacjami	anonimizacja	subst:pl:inst:f	nazwa pospolita	
+> anonimizacją	anonimizacja	subst:sg:inst:f	nazwa pospolita	
+> anonimizacje	anonimizacja	subst:pl:acc:f	nazwa pospolita	
+> anonimizacje	anonimizacja	subst:pl:nom:f	nazwa pospolita	
+> anonimizacje	anonimizacja	subst:pl:voc:f	nazwa pospolita	
+> anonimizację	anonimizacja	subst:sg:acc:f	nazwa pospolita	
+> anonimizacji	anonimizacja	subst:pl:gen:f	nazwa pospolita	hom.
+> anonimizacji	anonimizacja	subst:sg:dat:f	nazwa pospolita	
+> anonimizacji	anonimizacja	subst:sg:gen:f	nazwa pospolita	
+> anonimizacji	anonimizacja	subst:sg:loc:f	nazwa pospolita	
+> anonimizacjo	anonimizacja	subst:sg:voc:f	nazwa pospolita	
+> anonimizacjom	anonimizacja	subst:pl:dat:f	nazwa pospolita	
+> anonimizacyj	anonimizacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
+> anonimizować	anonimizować	inf:imperf		
+> anonimizowali	anonimizować	praet:pl:m1.p1:imperf		
+> anonimizowali	anonimizować	praet:pl:m1.p1:ter:imperf		
+> anonimizowaliby	anonimizować	cond:pl:m1.p1:ter:imperf		
+> anonimizowalibyście	anonimizować	cond:pl:m1.p1:sec:imperf		
+> anonimizowalibyśmy	anonimizować	cond:pl:m1.p1:pri:imperf		
+> anonimizowaliście	anonimizować	praet:pl:m1.p1:sec:imperf		
+> anonimizowaliśmy	anonimizować	praet:pl:m1.p1:pri:imperf		
+> anonimizowała	anonimizować	praet:sg:f:imperf		
+> anonimizowała	anonimizować	praet:sg:f:ter:imperf		
+> anonimizowałaby	anonimizować	cond:sg:f:ter:imperf		
+> anonimizowałabym	anonimizować	cond:sg:f:pri:imperf		
+> anonimizowałabyś	anonimizować	cond:sg:f:sec:imperf		
+> anonimizowałam	anonimizować	praet:sg:f:pri:imperf		
+> anonimizował	anonimizować	praet:sg:m1.m2.m3:imperf		
+> anonimizował	anonimizować	praet:sg:m1.m2.m3:ter:imperf		
+> anonimizowałaś	anonimizować	praet:sg:f:sec:imperf		
+> anonimizowałby	anonimizować	cond:sg:m1.m2.m3:ter:imperf		
+> anonimizowałbym	anonimizować	cond:sg:m1.m2.m3:pri:imperf		
+> anonimizowałbyś	anonimizować	cond:sg:m1.m2.m3:sec:imperf		
+> anonimizowałem	anonimizować	praet:sg:m1.m2.m3:pri:imperf		
+> anonimizowałeś	anonimizować	praet:sg:m1.m2.m3:sec:imperf		
+> anonimizowało	anonimizować	praet:sg:n1.n2:imperf		
+> anonimizowało	anonimizować	praet:sg:n1.n2:ter:imperf		
+> anonimizowałoby	anonimizować	cond:sg:n1.n2:ter:imperf		
+> anonimizowałobym	anonimizować	cond:sg:n1.n2:pri:imperf		
+> anonimizowałobyś	anonimizować	cond:sg:n1.n2:sec:imperf		
+> anonimizowałom	anonimizować	praet:sg:n1.n2:pri:imperf		
+> anonimizowałoś	anonimizować	praet:sg:n1.n2:sec:imperf		
+> anonimizowały	anonimizować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+> anonimizowały	anonimizować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> anonimizowałyby	anonimizować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> anonimizowałybyście	anonimizować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> anonimizowałybyśmy	anonimizować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> anonimizowałyście	anonimizować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> anonimizowałyśmy	anonimizować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> anonimizowana	anonimizować	ppas:sg:nom.voc:f:imperf:aff		
+> anonimizowaną	anonimizować	ppas:sg:acc.inst:f:imperf:aff		
+> anonimizowane	anonimizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> anonimizowane	anonimizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+> anonimizowanego	anonimizować	ppas:sg:acc:m1.m2:imperf:aff		
+> anonimizowanego	anonimizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> anonimizowanej	anonimizować	ppas:sg:gen.dat.loc:f:imperf:aff		
+> anonimizowanemu	anonimizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+> anonimizowania	anonimizować	ger:pl:nom.acc:n2:imperf:aff		
+> anonimizowania	anonimizować	ger:sg:gen:n2:imperf:aff		
+> anonimizowaniach	anonimizować	ger:pl:loc:n2:imperf:aff		
+> anonimizowaniami	anonimizować	ger:pl:inst:n2:imperf:aff		
+> anonimizowani	anonimizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
+> anonimizowanie	anonimizować	ger:sg:nom.acc:n2:imperf:aff		
+> anonimizowaniem	anonimizować	ger:sg:inst:n2:imperf:aff		
+> anonimizowaniom	anonimizować	ger:pl:dat:n2:imperf:aff		
+> anonimizowaniu	anonimizować	ger:sg:dat.loc:n2:imperf:aff		
+> anonimizowano	anonimizować	imps:imperf		
+> anonimizowany	anonimizować	ppas:sg:acc:m3:imperf:aff		
+> anonimizowany	anonimizować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> anonimizowanych	anonimizować	ppas:pl:acc:m1.p1:imperf:aff		
+> anonimizowanych	anonimizować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> anonimizowanym	anonimizować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> anonimizowanym	anonimizować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> anonimizowanymi	anonimizować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> anonimizowań	anonimizować	ger:pl:gen:n2:imperf:aff		
+> anonimizuj	anonimizować	impt:sg:sec:imperf		
+> anonimizują	anonimizować	fin:pl:ter:imperf		
+> anonimizująca	anonimizować	pact:sg:nom.voc:f:imperf:aff		
+> anonimizując	anonimizować	pcon:imperf		
+> anonimizującą	anonimizować	pact:sg:acc.inst:f:imperf:aff		
+> anonimizujące	anonimizować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> anonimizujące	anonimizować	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+> anonimizującego	anonimizować	pact:sg:acc:m1.m2:imperf:aff		
+> anonimizującego	anonimizować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> anonimizującej	anonimizować	pact:sg:gen.dat.loc:f:imperf:aff		
+> anonimizującemu	anonimizować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+> anonimizująco	anonimizować	pacta		
+> anonimizujący	anonimizować	pact:pl:nom.voc:m1.p1:imperf:aff		
+> anonimizujący	anonimizować	pact:sg:acc:m3:imperf:aff		
+> anonimizujący	anonimizować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> anonimizujących	anonimizować	pact:pl:acc:m1.p1:imperf:aff		
+> anonimizujących	anonimizować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> anonimizującym	anonimizować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> anonimizującym	anonimizować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> anonimizującymi	anonimizować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> anonimizujcie	anonimizować	impt:pl:sec:imperf		
+> anonimizuje	anonimizować	fin:sg:ter:imperf		
+> anonimizujecie	anonimizować	fin:pl:sec:imperf		
+> anonimizujemy	anonimizować	fin:pl:pri:imperf		
+> anonimizujesz	anonimizować	fin:sg:sec:imperf		
+> anonimizuję	anonimizować	fin:sg:pri:imperf		
+> anonimizujmy	anonimizować	impt:pl:pri:imperf		
+> nieanonimizowana	anonimizować	ppas:sg:nom.voc:f:imperf:neg		
+> nieanonimizowaną	anonimizować	ppas:sg:acc.inst:f:imperf:neg		
+> nieanonimizowane	anonimizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> nieanonimizowane	anonimizować	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+> nieanonimizowanego	anonimizować	ppas:sg:acc:m1.m2:imperf:neg		
+> nieanonimizowanego	anonimizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> nieanonimizowanej	anonimizować	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieanonimizowanemu	anonimizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+> nieanonimizowania	anonimizować	ger:pl:nom.acc:n2:imperf:neg		
+> nieanonimizowania	anonimizować	ger:sg:gen:n2:imperf:neg		
+> nieanonimizowaniach	anonimizować	ger:pl:loc:n2:imperf:neg		
+> nieanonimizowaniami	anonimizować	ger:pl:inst:n2:imperf:neg		
+> nieanonimizowani	anonimizować	ppas:pl:nom.voc:m1.p1:imperf:neg		
+> nieanonimizowanie	anonimizować	ger:sg:nom.acc:n2:imperf:neg		
+> nieanonimizowaniem	anonimizować	ger:sg:inst:n2:imperf:neg		
+> nieanonimizowaniom	anonimizować	ger:pl:dat:n2:imperf:neg		
+> nieanonimizowaniu	anonimizować	ger:sg:dat.loc:n2:imperf:neg		
+> nieanonimizowany	anonimizować	ppas:sg:acc:m3:imperf:neg		
+> nieanonimizowany	anonimizować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieanonimizowanych	anonimizować	ppas:pl:acc:m1.p1:imperf:neg		
+> nieanonimizowanych	anonimizować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieanonimizowanym	anonimizować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieanonimizowanym	anonimizować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> nieanonimizowanymi	anonimizować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieanonimizowań	anonimizować	ger:pl:gen:n2:imperf:neg		
+> nieanonimizująca	anonimizować	pact:sg:nom.voc:f:imperf:neg		
+> nieanonimizującą	anonimizować	pact:sg:acc.inst:f:imperf:neg		
+> nieanonimizujące	anonimizować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> nieanonimizujące	anonimizować	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
+> nieanonimizującego	anonimizować	pact:sg:acc:m1.m2:imperf:neg		
+> nieanonimizującego	anonimizować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> nieanonimizującej	anonimizować	pact:sg:gen.dat.loc:f:imperf:neg		
+> nieanonimizującemu	anonimizować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+> nieanonimizujący	anonimizować	pact:pl:nom.voc:m1.p1:imperf:neg		
+> nieanonimizujący	anonimizować	pact:sg:acc:m3:imperf:neg		
+> nieanonimizujący	anonimizować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieanonimizujących	anonimizować	pact:pl:acc:m1.p1:imperf:neg		
+> nieanonimizujących	anonimizować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieanonimizującym	anonimizować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieanonimizującym	anonimizować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> nieanonimizującymi	anonimizować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+80155,80168c80315,80328
+< aplegier	aplegier	subst:sg:acc:m3	nazwa pospolita	
+< aplegier	aplegier	subst:sg:nom:m3	nazwa pospolita	
+< aplegra	aplegier	subst:sg:gen:m3	nazwa pospolita	
+< aplegrach	aplegier	subst:pl:loc:m3	nazwa pospolita	
+< aplegrami	aplegier	subst:pl:inst:m3	nazwa pospolita	
+< aplegrem	aplegier	subst:sg:inst:m3	nazwa pospolita	
+< aplegrom	aplegier	subst:pl:dat:m3	nazwa pospolita	
+< aplegrowi	aplegier	subst:sg:dat:m3	nazwa pospolita	
+< aplegrów	aplegier	subst:pl:gen:m3	nazwa pospolita	
+< aplegry	aplegier	subst:pl:acc:m3	nazwa pospolita	
+< aplegry	aplegier	subst:pl:nom:m3	nazwa pospolita	
+< aplegry	aplegier	subst:pl:voc:m3	nazwa pospolita	
+< aplegrze	aplegier	subst:sg:loc:m3	nazwa pospolita	
+< aplegrze	aplegier	subst:sg:voc:m3	nazwa pospolita	
+---
+> aplegier	aplegier	subst:sg:acc:m3	nazwa pospolita	ogr.
+> aplegier	aplegier	subst:sg:nom:m3	nazwa pospolita	ogr.
+> aplegra	aplegier	subst:sg:gen:m3	nazwa pospolita	ogr.
+> aplegrach	aplegier	subst:pl:loc:m3	nazwa pospolita	ogr.
+> aplegrami	aplegier	subst:pl:inst:m3	nazwa pospolita	ogr.
+> aplegrem	aplegier	subst:sg:inst:m3	nazwa pospolita	ogr.
+> aplegrom	aplegier	subst:pl:dat:m3	nazwa pospolita	ogr.
+> aplegrowi	aplegier	subst:sg:dat:m3	nazwa pospolita	ogr.
+> aplegrów	aplegier	subst:pl:gen:m3	nazwa pospolita	ogr.
+> aplegry	aplegier	subst:pl:acc:m3	nazwa pospolita	ogr.
+> aplegry	aplegier	subst:pl:nom:m3	nazwa pospolita	ogr.
+> aplegry	aplegier	subst:pl:voc:m3	nazwa pospolita	ogr.
+> aplegrze	aplegier	subst:sg:loc:m3	nazwa pospolita	ogr.
+> aplegrze	aplegier	subst:sg:voc:m3	nazwa pospolita	ogr.
+88609a88770
+> arch	architekt	brev:pun		
+103302a103464
+> ASAP	as_soon_as_possible	brev:npun		
+207545d207706
+< bm	bieżący_miesiąc	brev:pun		
+298834a298996
+> BTW	by_the_way	brev:npun		
+306815a306978,306991
+> cebulactwa	cebulactwo	subst:pl:acc:n2	nazwa pospolita	pogard.|pot.
+> cebulactwa	cebulactwo	subst:pl:nom:n2	nazwa pospolita	pogard.|pot.
+> cebulactwa	cebulactwo	subst:pl:voc:n2	nazwa pospolita	pogard.|pot.
+> cebulactwa	cebulactwo	subst:sg:gen:n2	nazwa pospolita	pogard.|pot.
+> cebulactwach	cebulactwo	subst:pl:loc:n2	nazwa pospolita	pogard.|pot.
+> cebulactwami	cebulactwo	subst:pl:inst:n2	nazwa pospolita	pogard.|pot.
+> cebulactw	cebulactwo	subst:pl:gen:n2	nazwa pospolita	pogard.|pot.
+> cebulactwem	cebulactwo	subst:sg:inst:n2	nazwa pospolita	pogard.|pot.
+> cebulactwie	cebulactwo	subst:sg:loc:n2	nazwa pospolita	pogard.|pot.
+> cebulactwo	cebulactwo	subst:sg:acc:n2	nazwa pospolita	pogard.|pot.
+> cebulactwo	cebulactwo	subst:sg:nom:n2	nazwa pospolita	pogard.|pot.
+> cebulactwo	cebulactwo	subst:sg:voc:n2	nazwa pospolita	pogard.|pot.
+> cebulactwom	cebulactwo	subst:pl:dat:n2	nazwa pospolita	pogard.|pot.
+> cebulactwu	cebulactwo	subst:sg:dat:n2	nazwa pospolita	pogard.|pot.
+360636a360813,360826
+> chujostwach	chujostwo	subst:pl:loc:n2	nazwa pospolita	wulg.
+> chujostwa	chujostwo	subst:pl:acc:n2	nazwa pospolita	wulg.
+> chujostwa	chujostwo	subst:pl:nom:n2	nazwa pospolita	wulg.
+> chujostwa	chujostwo	subst:pl:voc:n2	nazwa pospolita	wulg.
+> chujostwa	chujostwo	subst:sg:gen:n2	nazwa pospolita	wulg.
+> chujostwami	chujostwo	subst:pl:inst:n2	nazwa pospolita	wulg.
+> chujostw	chujostwo	subst:pl:gen:n2	nazwa pospolita	wulg.
+> chujostwem	chujostwo	subst:sg:inst:n2	nazwa pospolita	wulg.
+> chujostwie	chujostwo	subst:sg:loc:n2	nazwa pospolita	wulg.
+> chujostwo	chujostwo	subst:sg:acc:n2	nazwa pospolita	wulg.
+> chujostwo	chujostwo	subst:sg:nom:n2	nazwa pospolita	wulg.
+> chujostwo	chujostwo	subst:sg:voc:n2	nazwa pospolita	wulg.
+> chujostwom	chujostwo	subst:pl:dat:n2	nazwa pospolita	wulg.
+> chujostwu	chujostwo	subst:sg:dat:n2	nazwa pospolita	wulg.
+360689a360880,360893
+> chujozach	chujoza	subst:pl:loc:f	nazwa pospolita	wulg.
+> chujoza	chujoza	subst:sg:nom:f	nazwa pospolita	wulg.
+> chujozami	chujoza	subst:pl:inst:f	nazwa pospolita	wulg.
+> chujozą	chujoza	subst:sg:inst:f	nazwa pospolita	wulg.
+> chujoz	chujoza	subst:pl:gen:f	nazwa pospolita	wulg.
+> chujozę	chujoza	subst:sg:acc:f	nazwa pospolita	wulg.
+> chujozie	chujoza	subst:sg:dat:f	nazwa pospolita	wulg.
+> chujozie	chujoza	subst:sg:loc:f	nazwa pospolita	wulg.
+> chujozo	chujoza	subst:sg:voc:f	nazwa pospolita	wulg.
+> chujozom	chujoza	subst:pl:dat:f	nazwa pospolita	wulg.
+> chujozy	chujoza	subst:pl:acc:f	nazwa pospolita	wulg.
+> chujozy	chujoza	subst:pl:nom:f	nazwa pospolita	wulg.
+> chujozy	chujoza	subst:pl:voc:f	nazwa pospolita	wulg.
+> chujozy	chujoza	subst:sg:gen:f	nazwa pospolita	wulg.
+360719a360924,360937
+> chujstwach	chujstwo	subst:pl:loc:n2	nazwa pospolita	wulg.
+> chujstwa	chujstwo	subst:pl:acc:n2	nazwa pospolita	wulg.
+> chujstwa	chujstwo	subst:pl:nom:n2	nazwa pospolita	wulg.
+> chujstwa	chujstwo	subst:pl:voc:n2	nazwa pospolita	wulg.
+> chujstwa	chujstwo	subst:sg:gen:n2	nazwa pospolita	wulg.
+> chujstwami	chujstwo	subst:pl:inst:n2	nazwa pospolita	wulg.
+> chujstw	chujstwo	subst:pl:gen:n2	nazwa pospolita	wulg.
+> chujstwem	chujstwo	subst:sg:inst:n2	nazwa pospolita	wulg.
+> chujstwie	chujstwo	subst:sg:loc:n2	nazwa pospolita	wulg.
+> chujstwo	chujstwo	subst:sg:acc:n2	nazwa pospolita	wulg.
+> chujstwo	chujstwo	subst:sg:nom:n2	nazwa pospolita	wulg.
+> chujstwo	chujstwo	subst:sg:voc:n2	nazwa pospolita	wulg.
+> chujstwom	chujstwo	subst:pl:dat:n2	nazwa pospolita	wulg.
+> chujstwu	chujstwo	subst:sg:dat:n2	nazwa pospolita	wulg.
+367500a367719,367734
+> ciapaci	ciapaty	subst:pl:nom:m1	nazwa pospolita	
+> ciapaci	ciapaty	subst:pl:voc:m1	nazwa pospolita	
+> ciapate	ciapaty	depr:pl:nom:m2	nazwa pospolita	
+> ciapate	ciapaty	depr:pl:voc:m2	nazwa pospolita	
+> ciapatego	ciapaty	subst:sg:acc:m1	nazwa pospolita	
+> ciapatego	ciapaty	subst:sg:gen:m1	nazwa pospolita	
+> ciapatemu	ciapaty	subst:sg:dat:m1	nazwa pospolita	
+> ciapatych	ciapaty	subst:pl:acc:m1	nazwa pospolita	
+> ciapatych	ciapaty	subst:pl:gen:m1	nazwa pospolita	
+> ciapatych	ciapaty	subst:pl:loc:m1	nazwa pospolita	
+> ciapaty	ciapaty	subst:sg:nom:m1	nazwa pospolita	
+> ciapaty	ciapaty	subst:sg:voc:m1	nazwa pospolita	
+> ciapatym	ciapaty	subst:pl:dat:m1	nazwa pospolita	
+> ciapatym	ciapaty	subst:sg:inst:m1	nazwa pospolita	
+> ciapatym	ciapaty	subst:sg:loc:m1	nazwa pospolita	
+> ciapatymi	ciapaty	subst:pl:inst:m1	nazwa pospolita	
+448031a448266
+> dalszoplanowo	dalszoplanowo	adv:pos		
+497835a498071,498085
+> dezubekizacjach	dezubekizacja	subst:pl:loc:f	nazwa pospolita	
+> dezubekizacja	dezubekizacja	subst:sg:nom:f	nazwa pospolita	
+> dezubekizacjami	dezubekizacja	subst:pl:inst:f	nazwa pospolita	
+> dezubekizacją	dezubekizacja	subst:sg:inst:f	nazwa pospolita	
+> dezubekizacje	dezubekizacja	subst:pl:acc:f	nazwa pospolita	
+> dezubekizacje	dezubekizacja	subst:pl:nom:f	nazwa pospolita	
+> dezubekizacje	dezubekizacja	subst:pl:voc:f	nazwa pospolita	
+> dezubekizację	dezubekizacja	subst:sg:acc:f	nazwa pospolita	
+> dezubekizacji	dezubekizacja	subst:pl:gen:f	nazwa pospolita	hom.
+> dezubekizacji	dezubekizacja	subst:sg:dat:f	nazwa pospolita	
+> dezubekizacji	dezubekizacja	subst:sg:gen:f	nazwa pospolita	
+> dezubekizacji	dezubekizacja	subst:sg:loc:f	nazwa pospolita	
+> dezubekizacjo	dezubekizacja	subst:sg:voc:f	nazwa pospolita	
+> dezubekizacjom	dezubekizacja	subst:pl:dat:f	nazwa pospolita	
+> dezubekizacyj	dezubekizacja	subst:pl:gen:f	nazwa pospolita	arch.|char.
+509805a510056
+> dł	długość	brev:pun		geogr.
+545953a546205
+> dol	dolar	brev:pun		
+548319a548572
+> dol	dolina	brev:pun		
+646436c646689
+< dwu	dwa	num:pl:inst:m1.m2.m3.n2:congr		
+---
+> dwu	dwa	num:pl:inst:m1.m2.m3.f.n2:congr		
+819782a820036
+> fot	fotografia	brev:pun		
+890687a890942
+> głęb	głębokość	brev:pun		
+902491a902747
+> h	godzina	brev:npun		
+959313a959570
+> hab	habilitowany	brev:pun		
+961841a962099,962112
+> hajsach	hajs	subst:pl:loc:m3	nazwa pospolita	pot.
+> hajsami	hajs	subst:pl:inst:m3	nazwa pospolita	pot.
+> hajsem	hajs	subst:sg:inst:m3	nazwa pospolita	pot.
+> hajs	hajs	subst:sg:acc:m3	nazwa pospolita	pot.
+> hajs	hajs	subst:sg:nom:m3	nazwa pospolita	pot.
+> hajsie	hajs	subst:sg:loc:m3	nazwa pospolita	pot.
+> hajsie	hajs	subst:sg:voc:m3	nazwa pospolita	pot.
+> hajsom	hajs	subst:pl:dat:m3	nazwa pospolita	pot.
+> hajsowi	hajs	subst:sg:dat:m3	nazwa pospolita	pot.
+> hajsów	hajs	subst:pl:gen:m3	nazwa pospolita	pot.
+> hajsu	hajs	subst:sg:gen:m3	nazwa pospolita	pot.
+> hajsy	hajs	subst:pl:acc:m3	nazwa pospolita	pot.
+> hajsy	hajs	subst:pl:nom:m3	nazwa pospolita	pot.
+> hajsy	hajs	subst:pl:voc:m3	nazwa pospolita	pot.
+962234,962269c962505,962540
+< hakować	hakować	inf:imperf		przest.
+< hakowaliby	hakować	cond:pl:m1.p1:ter:imperf		przest.
+< hakowalibyście	hakować	cond:pl:m1.p1:sec:imperf		przest.
+< hakowalibyśmy	hakować	cond:pl:m1.p1:pri:imperf		przest.
+< hakowali	hakować	praet:pl:m1.p1:imperf		przest.
+< hakowali	hakować	praet:pl:m1.p1:ter:imperf		przest.
+< hakowaliście	hakować	praet:pl:m1.p1:sec:imperf		przest.
+< hakowaliśmy	hakować	praet:pl:m1.p1:pri:imperf		przest.
+< hakowałaby	hakować	cond:sg:f:ter:imperf		przest.
+< hakowałabym	hakować	cond:sg:f:pri:imperf		przest.
+< hakowałabyś	hakować	cond:sg:f:sec:imperf		przest.
+< hakowała	hakować	praet:sg:f:imperf		przest.
+< hakowała	hakować	praet:sg:f:ter:imperf		przest.
+< hakowałam	hakować	praet:sg:f:pri:imperf		przest.
+< hakowałaś	hakować	praet:sg:f:sec:imperf		przest.
+< hakowałby	hakować	cond:sg:m1.m2.m3:ter:imperf		przest.
+< hakowałbym	hakować	cond:sg:m1.m2.m3:pri:imperf		przest.
+< hakowałbyś	hakować	cond:sg:m1.m2.m3:sec:imperf		przest.
+< hakowałem	hakować	praet:sg:m1.m2.m3:pri:imperf		przest.
+< hakowałeś	hakować	praet:sg:m1.m2.m3:sec:imperf		przest.
+< hakował	hakować	praet:sg:m1.m2.m3:imperf		przest.
+< hakował	hakować	praet:sg:m1.m2.m3:ter:imperf		przest.
+< hakowałoby	hakować	cond:sg:n1.n2:ter:imperf		przest.
+< hakowałobym	hakować	cond:sg:n1.n2:pri:imperf		przest.
+< hakowałobyś	hakować	cond:sg:n1.n2:sec:imperf		przest.
+< hakowało	hakować	praet:sg:n1.n2:imperf		przest.
+< hakowało	hakować	praet:sg:n1.n2:ter:imperf		przest.
+< hakowałom	hakować	praet:sg:n1.n2:pri:imperf		przest.
+< hakowałoś	hakować	praet:sg:n1.n2:sec:imperf		przest.
+< hakowałyby	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
+< hakowałybyście	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
+< hakowałybyśmy	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+< hakowały	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		przest.
+< hakowały	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		przest.
+< hakowałyście	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		przest.
+< hakowałyśmy	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		przest.
+---
+> hakować	hakować	inf:imperf		
+> hakowaliby	hakować	cond:pl:m1.p1:ter:imperf		
+> hakowalibyście	hakować	cond:pl:m1.p1:sec:imperf		
+> hakowalibyśmy	hakować	cond:pl:m1.p1:pri:imperf		
+> hakowali	hakować	praet:pl:m1.p1:imperf		
+> hakowali	hakować	praet:pl:m1.p1:ter:imperf		
+> hakowaliście	hakować	praet:pl:m1.p1:sec:imperf		
+> hakowaliśmy	hakować	praet:pl:m1.p1:pri:imperf		
+> hakowałaby	hakować	cond:sg:f:ter:imperf		
+> hakowałabym	hakować	cond:sg:f:pri:imperf		
+> hakowałabyś	hakować	cond:sg:f:sec:imperf		
+> hakowała	hakować	praet:sg:f:imperf		
+> hakowała	hakować	praet:sg:f:ter:imperf		
+> hakowałam	hakować	praet:sg:f:pri:imperf		
+> hakowałaś	hakować	praet:sg:f:sec:imperf		
+> hakowałby	hakować	cond:sg:m1.m2.m3:ter:imperf		
+> hakowałbym	hakować	cond:sg:m1.m2.m3:pri:imperf		
+> hakowałbyś	hakować	cond:sg:m1.m2.m3:sec:imperf		
+> hakowałem	hakować	praet:sg:m1.m2.m3:pri:imperf		
+> hakowałeś	hakować	praet:sg:m1.m2.m3:sec:imperf		
+> hakował	hakować	praet:sg:m1.m2.m3:imperf		
+> hakował	hakować	praet:sg:m1.m2.m3:ter:imperf		
+> hakowałoby	hakować	cond:sg:n1.n2:ter:imperf		
+> hakowałobym	hakować	cond:sg:n1.n2:pri:imperf		
+> hakowałobyś	hakować	cond:sg:n1.n2:sec:imperf		
+> hakowało	hakować	praet:sg:n1.n2:imperf		
+> hakowało	hakować	praet:sg:n1.n2:ter:imperf		
+> hakowałom	hakować	praet:sg:n1.n2:pri:imperf		
+> hakowałoś	hakować	praet:sg:n1.n2:sec:imperf		
+> hakowałyby	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> hakowałybyście	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> hakowałybyśmy	hakować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> hakowały	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+> hakowały	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> hakowałyście	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> hakowałyśmy	hakować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+962287c962558
+< hakowano	hakować	imps:imperf		przest.
+---
+> hakowano	hakować	imps:imperf		
+962304c962575
+< hakując	hakować	pcon:imperf		przest.
+---
+> hakując	hakować	pcon:imperf		
+962314,962322c962585,962593
+< hakują	hakować	fin:pl:ter:imperf		przest.
+< hakujcie	hakować	impt:pl:sec:imperf		przest.
+< hakujecie	hakować	fin:pl:sec:imperf		przest.
+< hakuje	hakować	fin:sg:ter:imperf		przest.
+< hakujemy	hakować	fin:pl:pri:imperf		przest.
+< hakujesz	hakować	fin:sg:sec:imperf		przest.
+< hakuję	hakować	fin:sg:pri:imperf		przest.
+< hakuj	hakować	impt:sg:sec:imperf		przest.
+< hakujmy	hakować	impt:pl:pri:imperf		przest.
+---
+> hakują	hakować	fin:pl:ter:imperf		
+> hakujcie	hakować	impt:pl:sec:imperf		
+> hakujecie	hakować	fin:pl:sec:imperf		
+> hakuje	hakować	fin:sg:ter:imperf		
+> hakujemy	hakować	fin:pl:pri:imperf		
+> hakujesz	hakować	fin:sg:sec:imperf		
+> hakuję	hakować	fin:sg:pri:imperf		
+> hakuj	hakować	impt:sg:sec:imperf		
+> hakujmy	hakować	impt:pl:pri:imperf		
+973924a974196,974209
+> hasztagach	hasztag	subst:pl:loc:m3	nazwa pospolita	
+> hasztagami	hasztag	subst:pl:inst:m3	nazwa pospolita	
+> hasztag	hasztag	subst:sg:acc:m3	nazwa pospolita	
+> hasztag	hasztag	subst:sg:nom:m3	nazwa pospolita	
+> hasztagiem	hasztag	subst:sg:inst:m3	nazwa pospolita	
+> hasztagi	hasztag	subst:pl:acc:m3	nazwa pospolita	
+> hasztagi	hasztag	subst:pl:nom:m3	nazwa pospolita	
+> hasztagi	hasztag	subst:pl:voc:m3	nazwa pospolita	
+> hasztagom	hasztag	subst:pl:dat:m3	nazwa pospolita	
+> hasztagowi	hasztag	subst:sg:dat:m3	nazwa pospolita	
+> hasztagów	hasztag	subst:pl:gen:m3	nazwa pospolita	
+> hasztagu	hasztag	subst:sg:gen:m3	nazwa pospolita	
+> hasztagu	hasztag	subst:sg:loc:m3	nazwa pospolita	
+> hasztagu	hasztag	subst:sg:voc:m3	nazwa pospolita	
+977373a977659,977712
+> hejterscy	hejterski	adj:pl:nom.voc:m1.p1:pos		pot.
+> hejterska	hejterski	adj:sg:nom.voc:f:pos		pot.
+> hejterską	hejterski	adj:sg:acc:f:pos		pot.
+> hejterską	hejterski	adj:sg:inst:f:pos		pot.
+> hejterskich	hejterski	adj:pl:acc:m1.p1:pos		pot.
+> hejterskich	hejterski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> hejterskich	hejterski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> hejterskiego	hejterski	adj:sg:acc:m1.m2:pos		pot.
+> hejterskiego	hejterski	adj:sg:gen:m1.m2.m3.n1.n2:pos		pot.
+> hejterskie	hejterski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		pot.
+> hejterskie	hejterski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		pot.
+> hejterskie	hejterski	adj:sg:acc:n1.n2:pos		pot.
+> hejterskie	hejterski	adj:sg:nom.voc:n1.n2:pos		pot.
+> hejterskiej	hejterski	adj:sg:dat:f:pos		pot.
+> hejterskiej	hejterski	adj:sg:gen:f:pos		pot.
+> hejterskiej	hejterski	adj:sg:loc:f:pos		pot.
+> hejterskiemu	hejterski	adj:sg:dat:m1.m2.m3.n1.n2:pos		pot.
+> hejterski	hejterski	adj:sg:acc:m3:pos		pot.
+> hejterski	hejterski	adj:sg:nom.voc:m1.m2.m3:pos		pot.
+> hejterskim	hejterski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> hejterskim	hejterski	adj:sg:inst:m1.m2.m3.n1.n2:pos		pot.
+> hejterskim	hejterski	adj:sg:loc:m1.m2.m3.n1.n2:pos		pot.
+> hejterskimi	hejterski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> hejtersko	hejterski	adja		pot.
+> hejtersku	hejterski	adjp		pot.
+> hejtersko	hejtersko	adv:pos		pot.
+> hejterskościach	hejterskość	subst:pl:loc:f		pot.
+> hejterskościami	hejterskość	subst:pl:inst:f		pot.
+> hejterskością	hejterskość	subst:sg:inst:f		pot.
+> hejterskości	hejterskość	subst:pl:acc:f		pot.
+> hejterskości	hejterskość	subst:pl:gen:f		pot.
+> hejterskości	hejterskość	subst:pl:nom:f		pot.
+> hejterskości	hejterskość	subst:pl:voc:f		pot.
+> hejterskości	hejterskość	subst:sg:dat:f		pot.
+> hejterskości	hejterskość	subst:sg:gen:f		pot.
+> hejterskości	hejterskość	subst:sg:loc:f		pot.
+> hejterskości	hejterskość	subst:sg:voc:f		pot.
+> hejterskościom	hejterskość	subst:pl:dat:f		pot.
+> hejterskość	hejterskość	subst:sg:acc:f		pot.
+> hejterskość	hejterskość	subst:sg:nom:f		pot.
+> hejterstwach	hejterstwo	subst:pl:loc:n2	nazwa pospolita	pot.
+> hejterstwa	hejterstwo	subst:pl:acc:n2	nazwa pospolita	pot.
+> hejterstwa	hejterstwo	subst:pl:nom:n2	nazwa pospolita	pot.
+> hejterstwa	hejterstwo	subst:pl:voc:n2	nazwa pospolita	pot.
+> hejterstwa	hejterstwo	subst:sg:gen:n2	nazwa pospolita	pot.
+> hejterstwami	hejterstwo	subst:pl:inst:n2	nazwa pospolita	pot.
+> hejterstwem	hejterstwo	subst:sg:inst:n2	nazwa pospolita	pot.
+> hejterstw	hejterstwo	subst:pl:gen:n2	nazwa pospolita	pot.
+> hejterstwie	hejterstwo	subst:sg:loc:n2	nazwa pospolita	pot.
+> hejterstwo	hejterstwo	subst:sg:acc:n2	nazwa pospolita	pot.
+> hejterstwo	hejterstwo	subst:sg:nom:n2	nazwa pospolita	pot.
+> hejterstwo	hejterstwo	subst:sg:voc:n2	nazwa pospolita	pot.
+> hejterstwom	hejterstwo	subst:pl:dat:n2	nazwa pospolita	pot.
+> hejterstwu	hejterstwo	subst:sg:dat:n2	nazwa pospolita	pot.
+986946a987286,987324
+> heteronormatywnie	heteronormatywnie	adv:pos		
+> heteronormatywnościach	heteronormatywność	subst:pl:loc:f	nazwa pospolita	
+> heteronormatywnościami	heteronormatywność	subst:pl:inst:f	nazwa pospolita	
+> heteronormatywnością	heteronormatywność	subst:sg:inst:f	nazwa pospolita	
+> heteronormatywności	heteronormatywność	subst:pl:acc:f	nazwa pospolita	
+> heteronormatywności	heteronormatywność	subst:pl:gen:f	nazwa pospolita	
+> heteronormatywności	heteronormatywność	subst:pl:nom:f	nazwa pospolita	
+> heteronormatywności	heteronormatywność	subst:pl:voc:f	nazwa pospolita	
+> heteronormatywności	heteronormatywność	subst:sg:dat:f	nazwa pospolita	
+> heteronormatywności	heteronormatywność	subst:sg:gen:f	nazwa pospolita	
+> heteronormatywności	heteronormatywność	subst:sg:loc:f	nazwa pospolita	
+> heteronormatywności	heteronormatywność	subst:sg:voc:f	nazwa pospolita	
+> heteronormatywnościom	heteronormatywność	subst:pl:dat:f	nazwa pospolita	
+> heteronormatywność	heteronormatywność	subst:sg:acc:f	nazwa pospolita	
+> heteronormatywność	heteronormatywność	subst:sg:nom:f	nazwa pospolita	
+> heteronormatywna	heteronormatywny	adj:sg:nom.voc:f:pos		
+> heteronormatywną	heteronormatywny	adj:sg:acc:f:pos		
+> heteronormatywną	heteronormatywny	adj:sg:inst:f:pos		
+> heteronormatywnego	heteronormatywny	adj:sg:acc:m1.m2:pos		
+> heteronormatywnego	heteronormatywny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> heteronormatywne	heteronormatywny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> heteronormatywne	heteronormatywny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> heteronormatywne	heteronormatywny	adj:sg:acc:n1.n2:pos		
+> heteronormatywne	heteronormatywny	adj:sg:nom.voc:n1.n2:pos		
+> heteronormatywnej	heteronormatywny	adj:sg:dat:f:pos		
+> heteronormatywnej	heteronormatywny	adj:sg:gen:f:pos		
+> heteronormatywnej	heteronormatywny	adj:sg:loc:f:pos		
+> heteronormatywnemu	heteronormatywny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> heteronormatywni	heteronormatywny	adj:pl:nom.voc:m1.p1:pos		
+> heteronormatywno	heteronormatywny	adja		
+> heteronormatywnych	heteronormatywny	adj:pl:acc:m1.p1:pos		
+> heteronormatywnych	heteronormatywny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> heteronormatywnych	heteronormatywny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> heteronormatywny	heteronormatywny	adj:sg:acc:m3:pos		
+> heteronormatywny	heteronormatywny	adj:sg:nom.voc:m1.m2.m3:pos		
+> heteronormatywnym	heteronormatywny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> heteronormatywnym	heteronormatywny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> heteronormatywnym	heteronormatywny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> heteronormatywnymi	heteronormatywny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+1048397a1048776,1048777
+> IMHO	in_my_humble_opinion	brev:npun		
+> IMO	in_my_opinion	brev:npun		
+1066429a1066810,1066816
+> IPN	IPN	subst:pl:acc:m3	nazwa instytucji	
+> IPN	IPN	subst:pl:dat:m3	nazwa instytucji	
+> IPN	IPN	subst:pl:gen:m3	nazwa instytucji	
+> IPN	IPN	subst:pl:inst:m3	nazwa instytucji	
+> IPN	IPN	subst:pl:loc:m3	nazwa instytucji	
+> IPN	IPN	subst:pl:nom:m3	nazwa instytucji	
+> IPN	IPN	subst:pl:voc:m3	nazwa instytucji	
+1066430a1066818,1066821
+> IPN	IPN	subst:sg:dat:m3	nazwa instytucji	
+> IPN	IPN	subst:sg:gen:m3	nazwa instytucji	
+> IPN	IPN	subst:sg:inst:m3	nazwa instytucji	
+> IPN	IPN	subst:sg:loc:m3	nazwa instytucji	
+1066431a1066823
+> IPN	IPN	subst:sg:voc:m3	nazwa instytucji	
+1111378a1111771
+> jez	jezioro	brev:pun		geogr.
+1178241a1178635,1178648
+> kasiorach	kasiora	subst:pl:loc:f	nazwa pospolita	pot.
+> kasiora	kasiora	subst:sg:nom:f	nazwa pospolita	pot.
+> kasiorami	kasiora	subst:pl:inst:f	nazwa pospolita	pot.
+> kasiorą	kasiora	subst:sg:inst:f	nazwa pospolita	pot.
+> kasiorę	kasiora	subst:sg:acc:f	nazwa pospolita	pot.
+> kasior	kasiora	subst:pl:gen:f	nazwa pospolita	pot.
+> kasioro	kasiora	subst:sg:voc:f	nazwa pospolita	pot.
+> kasiorom	kasiora	subst:pl:dat:f	nazwa pospolita	pot.
+> kasiory	kasiora	subst:pl:acc:f	nazwa pospolita	pot.
+> kasiory	kasiora	subst:pl:nom:f	nazwa pospolita	pot.
+> kasiory	kasiora	subst:pl:voc:f	nazwa pospolita	pot.
+> kasiory	kasiora	subst:sg:gen:f	nazwa pospolita	pot.
+> kasiorze	kasiora	subst:sg:dat:f	nazwa pospolita	pot.
+> kasiorze	kasiora	subst:sg:loc:f	nazwa pospolita	pot.
+1183505a1183913
+> kat	katalog	brev:pun		
+1186817a1187226
+> kat	katolicki	brev:pun		
+1239803a1240213,1240342
+> kminiąca	kminić	pact:sg:nom.voc:f:imperf:aff		pot.
+> kminiącą	kminić	pact:sg:acc.inst:f:imperf:aff		pot.
+> kminiącego	kminić	pact:sg:acc:m1.m2:imperf:aff		pot.
+> kminiącego	kminić	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		pot.
+> kminiącej	kminić	pact:sg:gen.dat.loc:f:imperf:aff		pot.
+> kminiące	kminić	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		pot.
+> kminiące	kminić	pact:sg:nom.acc.voc:n1.n2:imperf:aff		pot.
+> kminiącemu	kminić	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		pot.
+> kminiąc	kminić	pcon:imperf		pot.
+> kminiąco	kminić	pacta		pot.
+> kminiących	kminić	pact:pl:acc:m1.p1:imperf:aff		pot.
+> kminiących	kminić	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		pot.
+> kminiący	kminić	pact:pl:nom.voc:m1.p1:imperf:aff		pot.
+> kminiący	kminić	pact:sg:acc:m3:imperf:aff		pot.
+> kminiący	kminić	pact:sg:nom.voc:m1.m2.m3:imperf:aff		pot.
+> kminiącymi	kminić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		pot.
+> kminiącym	kminić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		pot.
+> kminiącym	kminić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		pot.
+> kminią	kminić	fin:pl:ter:imperf		pot.
+> kminicie	kminić	fin:pl:sec:imperf		pot.
+> kminić	kminić	inf:imperf		pot.
+> kminieniach	kminić	ger:pl:loc:n2:imperf:aff		pot.
+> kminienia	kminić	ger:pl:nom.acc:n2:imperf:aff		pot.
+> kminienia	kminić	ger:sg:gen:n2:imperf:aff		pot.
+> kminieniami	kminić	ger:pl:inst:n2:imperf:aff		pot.
+> kminienie	kminić	ger:sg:nom.acc:n2:imperf:aff		pot.
+> kminieniem	kminić	ger:sg:inst:n2:imperf:aff		pot.
+> kminieniom	kminić	ger:pl:dat:n2:imperf:aff		pot.
+> kminieniu	kminić	ger:sg:dat.loc:n2:imperf:aff		pot.
+> kminień	kminić	ger:pl:gen:n2:imperf:aff		pot.
+> kminię	kminić	fin:sg:pri:imperf		pot.
+> kmini	kminić	fin:sg:ter:imperf		pot.
+> kminiliby	kminić	cond:pl:m1.p1:ter:imperf		pot.
+> kminilibyście	kminić	cond:pl:m1.p1:sec:imperf		pot.
+> kminilibyśmy	kminić	cond:pl:m1.p1:pri:imperf		pot.
+> kminili	kminić	praet:pl:m1.p1:imperf		pot.
+> kminili	kminić	praet:pl:m1.p1:ter:imperf		pot.
+> kminiliście	kminić	praet:pl:m1.p1:sec:imperf		pot.
+> kminiliśmy	kminić	praet:pl:m1.p1:pri:imperf		pot.
+> kminiłaby	kminić	cond:sg:f:ter:imperf		pot.
+> kminiłabym	kminić	cond:sg:f:pri:imperf		pot.
+> kminiłabyś	kminić	cond:sg:f:sec:imperf		pot.
+> kminiła	kminić	praet:sg:f:imperf		pot.
+> kminiła	kminić	praet:sg:f:ter:imperf		pot.
+> kminiłam	kminić	praet:sg:f:pri:imperf		pot.
+> kminiłaś	kminić	praet:sg:f:sec:imperf		pot.
+> kminiłby	kminić	cond:sg:m1.m2.m3:ter:imperf		pot.
+> kminiłbym	kminić	cond:sg:m1.m2.m3:pri:imperf		pot.
+> kminiłbyś	kminić	cond:sg:m1.m2.m3:sec:imperf		pot.
+> kminiłem	kminić	praet:sg:m1.m2.m3:pri:imperf		pot.
+> kminiłeś	kminić	praet:sg:m1.m2.m3:sec:imperf		pot.
+> kminił	kminić	praet:sg:m1.m2.m3:imperf		pot.
+> kminił	kminić	praet:sg:m1.m2.m3:ter:imperf		pot.
+> kminiłoby	kminić	cond:sg:n1.n2:ter:imperf		pot.
+> kminiłobym	kminić	cond:sg:n1.n2:pri:imperf		pot.
+> kminiłobyś	kminić	cond:sg:n1.n2:sec:imperf		pot.
+> kminiło	kminić	praet:sg:n1.n2:imperf		pot.
+> kminiło	kminić	praet:sg:n1.n2:ter:imperf		pot.
+> kminiłom	kminić	praet:sg:n1.n2:pri:imperf		pot.
+> kminiłoś	kminić	praet:sg:n1.n2:sec:imperf		pot.
+> kminiłyby	kminić	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
+> kminiłybyście	kminić	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
+> kminiłybyśmy	kminić	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+> kminiły	kminić	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		pot.
+> kminiły	kminić	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
+> kminiłyście	kminić	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
+> kminiłyśmy	kminić	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+> kminimy	kminić	fin:pl:pri:imperf		pot.
+> kminiona	kminić	ppas:sg:nom.voc:f:imperf:aff		pot.
+> kminioną	kminić	ppas:sg:acc.inst:f:imperf:aff		pot.
+> kminionego	kminić	ppas:sg:acc:m1.m2:imperf:aff		pot.
+> kminionego	kminić	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		pot.
+> kminionej	kminić	ppas:sg:gen.dat.loc:f:imperf:aff		pot.
+> kminione	kminić	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		pot.
+> kminione	kminić	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		pot.
+> kminionemu	kminić	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		pot.
+> kminioni	kminić	ppas:pl:nom.voc:m1.p1:imperf:aff		pot.
+> kminiono	kminić	imps:imperf		pot.
+> kminionych	kminić	ppas:pl:acc:m1.p1:imperf:aff		pot.
+> kminionych	kminić	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		pot.
+> kminiony	kminić	ppas:sg:acc:m3:imperf:aff		pot.
+> kminiony	kminić	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		pot.
+> kminionymi	kminić	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		pot.
+> kminionym	kminić	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		pot.
+> kminionym	kminić	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		pot.
+> kminisz	kminić	fin:sg:sec:imperf		pot.
+> kmińcie	kminić	impt:pl:sec:imperf		pot.
+> kmiń	kminić	impt:sg:sec:imperf		pot.
+> kmińmy	kminić	impt:pl:pri:imperf		pot.
+> niekminiąca	kminić	pact:sg:nom.voc:f:imperf:neg		pot.
+> niekminiącą	kminić	pact:sg:acc.inst:f:imperf:neg		pot.
+> niekminiącego	kminić	pact:sg:acc:m1.m2:imperf:neg		pot.
+> niekminiącego	kminić	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		pot.
+> niekminiącej	kminić	pact:sg:gen.dat.loc:f:imperf:neg		pot.
+> niekminiące	kminić	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		pot.
+> niekminiące	kminić	pact:sg:nom.acc.voc:n1.n2:imperf:neg		pot.
+> niekminiącemu	kminić	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		pot.
+> niekminiących	kminić	pact:pl:acc:m1.p1:imperf:neg		pot.
+> niekminiących	kminić	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		pot.
+> niekminiący	kminić	pact:pl:nom.voc:m1.p1:imperf:neg		pot.
+> niekminiący	kminić	pact:sg:acc:m3:imperf:neg		pot.
+> niekminiący	kminić	pact:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+> niekminiącymi	kminić	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		pot.
+> niekminiącym	kminić	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		pot.
+> niekminiącym	kminić	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		pot.
+> niekminieniach	kminić	ger:pl:loc:n2:imperf:neg		pot.
+> niekminienia	kminić	ger:pl:nom.acc:n2:imperf:neg		pot.
+> niekminienia	kminić	ger:sg:gen:n2:imperf:neg		pot.
+> niekminieniami	kminić	ger:pl:inst:n2:imperf:neg		pot.
+> niekminienie	kminić	ger:sg:nom.acc:n2:imperf:neg		pot.
+> niekminieniem	kminić	ger:sg:inst:n2:imperf:neg		pot.
+> niekminieniom	kminić	ger:pl:dat:n2:imperf:neg		pot.
+> niekminieniu	kminić	ger:sg:dat.loc:n2:imperf:neg		pot.
+> niekminień	kminić	ger:pl:gen:n2:imperf:neg		pot.
+> niekminiona	kminić	ppas:sg:nom.voc:f:imperf:neg		pot.
+> niekminioną	kminić	ppas:sg:acc.inst:f:imperf:neg		pot.
+> niekminionego	kminić	ppas:sg:acc:m1.m2:imperf:neg		pot.
+> niekminionego	kminić	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		pot.
+> niekminionej	kminić	ppas:sg:gen.dat.loc:f:imperf:neg		pot.
+> niekminione	kminić	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		pot.
+> niekminione	kminić	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		pot.
+> niekminionemu	kminić	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		pot.
+> niekminioni	kminić	ppas:pl:nom.voc:m1.p1:imperf:neg		pot.
+> niekminionych	kminić	ppas:pl:acc:m1.p1:imperf:neg		pot.
+> niekminionych	kminić	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		pot.
+> niekminiony	kminić	ppas:sg:acc:m3:imperf:neg		pot.
+> niekminiony	kminić	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+> niekminionymi	kminić	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		pot.
+> niekminionym	kminić	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		pot.
+> niekminionym	kminić	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		pot.
+1346960a1347500,1347513
+> Krasnego	Krasne	subst:sg:gen:n2	nazwa geograficzna	
+> Krasne	Krasne	subst:pl:acc:n2	nazwa geograficzna	
+> Krasne	Krasne	subst:pl:nom:n2	nazwa geograficzna	
+> Krasne	Krasne	subst:pl:voc:n2	nazwa geograficzna	
+> Krasne	Krasne	subst:sg:acc:n2	nazwa geograficzna	
+> Krasne	Krasne	subst:sg:nom:n2	nazwa geograficzna	
+> Krasne	Krasne	subst:sg:voc:n2	nazwa geograficzna	
+> Krasnem	Krasne	subst:sg:inst:n2	nazwa geograficzna	
+> Krasnem	Krasne	subst:sg:loc:n2	nazwa geograficzna	
+> Krasnemu	Krasne	subst:sg:dat:n2	nazwa geograficzna	
+> Krasnych	Krasne	subst:pl:gen:n2	nazwa geograficzna	
+> Krasnych	Krasne	subst:pl:loc:n2	nazwa geograficzna	
+> Krasnymi	Krasne	subst:pl:inst:n2	nazwa geograficzna	
+> Krasnym	Krasne	subst:pl:dat:n2	nazwa geograficzna	
+1387204a1387758
+> ks	książę	brev:pun		
+1412576a1413131,1413145
+> kurwiarniach	kurwiarnia	subst:pl:loc:f	nazwa pospolita	wulg.
+> kurwiarnia	kurwiarnia	subst:sg:nom:f	nazwa pospolita	wulg.
+> kurwiarniami	kurwiarnia	subst:pl:inst:f	nazwa pospolita	wulg.
+> kurwiarnią	kurwiarnia	subst:sg:inst:f	nazwa pospolita	wulg.
+> kurwiarnie	kurwiarnia	subst:pl:acc:f	nazwa pospolita	wulg.
+> kurwiarnie	kurwiarnia	subst:pl:nom:f	nazwa pospolita	wulg.
+> kurwiarnie	kurwiarnia	subst:pl:voc:f	nazwa pospolita	wulg.
+> kurwiarnię	kurwiarnia	subst:sg:acc:f	nazwa pospolita	wulg.
+> kurwiarni	kurwiarnia	subst:pl:gen:f	nazwa pospolita	hom.|wulg.
+> kurwiarni	kurwiarnia	subst:sg:dat:f	nazwa pospolita	wulg.
+> kurwiarni	kurwiarnia	subst:sg:gen:f	nazwa pospolita	wulg.
+> kurwiarni	kurwiarnia	subst:sg:loc:f	nazwa pospolita	wulg.
+> kurwiarnio	kurwiarnia	subst:sg:voc:f	nazwa pospolita	wulg.
+> kurwiarniom	kurwiarnia	subst:pl:dat:f	nazwa pospolita	wulg.
+> kurwiarń	kurwiarnia	subst:pl:gen:f	nazwa pospolita	char.|wulg.
+1417169a1417739
+> kw	kwadratowy	brev:pun		mat.
+1476991a1477562
+> lit	litera	brev:pun		
+1477172a1477744
+> lit	literatura	brev:pun		
+1477619a1478192
+> lit	litewski	brev:pun		
+1499853a1500427
+> lustracyjnie	lustracyjnie	adv:pos		
+1505192a1505767
+> łac	łaciński	brev:pun		
+1596396a1596972
+> mec	mecenas	brev:pun		
+1632510a1633087,1633088
+> mk	mieszkaniec	brev:pun		
+> mieszk	mieszkaniec	brev:pun		
+1655190a1655769
+> min	minimum	brev:pun		
+1830698a1831278,1831291
+> napince	napinka	subst:sg:dat:f	nazwa pospolita	pot.
+> napince	napinka	subst:sg:loc:f	nazwa pospolita	pot.
+> napinek	napinka	subst:pl:gen:f	nazwa pospolita	pot.
+> napinkach	napinka	subst:pl:loc:f	nazwa pospolita	pot.
+> napinkami	napinka	subst:pl:inst:f	nazwa pospolita	pot.
+> napinka	napinka	subst:sg:nom:f	nazwa pospolita	pot.
+> napinką	napinka	subst:sg:inst:f	nazwa pospolita	pot.
+> napinkę	napinka	subst:sg:acc:f	nazwa pospolita	pot.
+> napinki	napinka	subst:pl:acc:f	nazwa pospolita	pot.
+> napinki	napinka	subst:pl:nom:f	nazwa pospolita	pot.
+> napinki	napinka	subst:pl:voc:f	nazwa pospolita	pot.
+> napinki	napinka	subst:sg:gen:f	nazwa pospolita	pot.
+> napinkom	napinka	subst:pl:dat:f	nazwa pospolita	pot.
+> napinko	napinka	subst:sg:voc:f	nazwa pospolita	pot.
+2076079a2076673
+> niedalszoplanowo	niedalszoplanowo	adv:pos		
+2223709a2224304,2224318
+> niehejtersko	niehejtersko	adv:pos		pot.
+> niehejterskościach	niehejterskość	subst:pl:loc:f		pot.
+> niehejterskościami	niehejterskość	subst:pl:inst:f		pot.
+> niehejterskością	niehejterskość	subst:sg:inst:f		pot.
+> niehejterskości	niehejterskość	subst:pl:acc:f		pot.
+> niehejterskości	niehejterskość	subst:pl:gen:f		pot.
+> niehejterskości	niehejterskość	subst:pl:nom:f		pot.
+> niehejterskości	niehejterskość	subst:pl:voc:f		pot.
+> niehejterskości	niehejterskość	subst:sg:dat:f		pot.
+> niehejterskości	niehejterskość	subst:sg:gen:f		pot.
+> niehejterskości	niehejterskość	subst:sg:loc:f		pot.
+> niehejterskości	niehejterskość	subst:sg:voc:f		pot.
+> niehejterskościom	niehejterskość	subst:pl:dat:f		pot.
+> niehejterskość	niehejterskość	subst:sg:acc:f		pot.
+> niehejterskość	niehejterskość	subst:sg:nom:f		pot.
+2226945a2227555,2227593
+> nieheteronormatywnie	nieheteronormatywnie	adv:pos		
+> nieheteronormatywnościach	nieheteronormatywność	subst:pl:loc:f		
+> nieheteronormatywnościami	nieheteronormatywność	subst:pl:inst:f		
+> nieheteronormatywnością	nieheteronormatywność	subst:sg:inst:f		
+> nieheteronormatywności	nieheteronormatywność	subst:pl:acc:f		
+> nieheteronormatywności	nieheteronormatywność	subst:pl:gen:f		
+> nieheteronormatywności	nieheteronormatywność	subst:pl:nom:f		
+> nieheteronormatywności	nieheteronormatywność	subst:pl:voc:f		
+> nieheteronormatywności	nieheteronormatywność	subst:sg:dat:f		
+> nieheteronormatywności	nieheteronormatywność	subst:sg:gen:f		
+> nieheteronormatywności	nieheteronormatywność	subst:sg:loc:f		
+> nieheteronormatywności	nieheteronormatywność	subst:sg:voc:f		
+> nieheteronormatywnościom	nieheteronormatywność	subst:pl:dat:f		
+> nieheteronormatywność	nieheteronormatywność	subst:sg:acc:f		
+> nieheteronormatywność	nieheteronormatywność	subst:sg:nom:f		
+> nieheteronormatywna	nieheteronormatywny	adj:sg:nom.voc:f:pos		
+> nieheteronormatywną	nieheteronormatywny	adj:sg:acc:f:pos		
+> nieheteronormatywną	nieheteronormatywny	adj:sg:inst:f:pos		
+> nieheteronormatywnego	nieheteronormatywny	adj:sg:acc:m1.m2:pos		
+> nieheteronormatywnego	nieheteronormatywny	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> nieheteronormatywnej	nieheteronormatywny	adj:sg:dat:f:pos		
+> nieheteronormatywnej	nieheteronormatywny	adj:sg:gen:f:pos		
+> nieheteronormatywnej	nieheteronormatywny	adj:sg:loc:f:pos		
+> nieheteronormatywnemu	nieheteronormatywny	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> nieheteronormatywne	nieheteronormatywny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> nieheteronormatywne	nieheteronormatywny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> nieheteronormatywne	nieheteronormatywny	adj:sg:acc:n1.n2:pos		
+> nieheteronormatywne	nieheteronormatywny	adj:sg:nom.voc:n1.n2:pos		
+> nieheteronormatywni	nieheteronormatywny	adj:pl:nom.voc:m1.p1:pos		
+> nieheteronormatywno	nieheteronormatywny	adja		
+> nieheteronormatywnych	nieheteronormatywny	adj:pl:acc:m1.p1:pos		
+> nieheteronormatywnych	nieheteronormatywny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieheteronormatywnych	nieheteronormatywny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieheteronormatywnymi	nieheteronormatywny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieheteronormatywnym	nieheteronormatywny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieheteronormatywnym	nieheteronormatywny	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> nieheteronormatywnym	nieheteronormatywny	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> nieheteronormatywny	nieheteronormatywny	adj:sg:acc:m3:pos		
+> nieheteronormatywny	nieheteronormatywny	adj:sg:nom.voc:m1.m2.m3:pos		
+2399733a2400382
+> nielustracyjnie	nielustracyjnie	adv:pos		
+2692471a2693121,2693134
+> nieprawilnościach	nieprawilność	subst:pl:loc:f		pot.
+> nieprawilnościami	nieprawilność	subst:pl:inst:f		pot.
+> nieprawilnością	nieprawilność	subst:sg:inst:f		pot.
+> nieprawilności	nieprawilność	subst:pl:acc:f		pot.
+> nieprawilności	nieprawilność	subst:pl:gen:f		pot.
+> nieprawilności	nieprawilność	subst:pl:nom:f		pot.
+> nieprawilności	nieprawilność	subst:pl:voc:f		pot.
+> nieprawilności	nieprawilność	subst:sg:dat:f		pot.
+> nieprawilności	nieprawilność	subst:sg:gen:f		pot.
+> nieprawilności	nieprawilność	subst:sg:loc:f		pot.
+> nieprawilności	nieprawilność	subst:sg:voc:f		pot.
+> nieprawilnościom	nieprawilność	subst:pl:dat:f		pot.
+> nieprawilność	nieprawilność	subst:sg:acc:f		pot.
+> nieprawilność	nieprawilność	subst:sg:nom:f		pot.
+2758315a2758979,2758993
+> niequeerowo	niequeerowo	adv:pos		
+> niequeerowościach	niequeerowość	subst:pl:loc:f		
+> niequeerowościami	niequeerowość	subst:pl:inst:f		
+> niequeerowością	niequeerowość	subst:sg:inst:f		
+> niequeerowości	niequeerowość	subst:pl:acc:f		
+> niequeerowości	niequeerowość	subst:pl:gen:f		
+> niequeerowości	niequeerowość	subst:pl:nom:f		
+> niequeerowości	niequeerowość	subst:pl:voc:f		
+> niequeerowości	niequeerowość	subst:sg:dat:f		
+> niequeerowości	niequeerowość	subst:sg:gen:f		
+> niequeerowości	niequeerowość	subst:sg:loc:f		
+> niequeerowości	niequeerowość	subst:sg:voc:f		
+> niequeerowościom	niequeerowość	subst:pl:dat:f		
+> niequeerowość	niequeerowość	subst:sg:acc:f		
+> niequeerowość	niequeerowość	subst:sg:nom:f		
+2907209a2907888,2907902
+> nieszafiarsko	nieszafiarsko	adv:pos		
+> nieszafiarskościach	nieszafiarskość	subst:pl:loc:f		
+> nieszafiarskościami	nieszafiarskość	subst:pl:inst:f		
+> nieszafiarskością	nieszafiarskość	subst:sg:inst:f		
+> nieszafiarskości	nieszafiarskość	subst:pl:acc:f		
+> nieszafiarskości	nieszafiarskość	subst:pl:gen:f		
+> nieszafiarskości	nieszafiarskość	subst:pl:nom:f		
+> nieszafiarskości	nieszafiarskość	subst:pl:voc:f		
+> nieszafiarskości	nieszafiarskość	subst:sg:dat:f		
+> nieszafiarskości	nieszafiarskość	subst:sg:gen:f		
+> nieszafiarskości	nieszafiarskość	subst:sg:loc:f		
+> nieszafiarskości	nieszafiarskość	subst:sg:voc:f		
+> nieszafiarskościom	nieszafiarskość	subst:pl:dat:f		
+> nieszafiarskość	nieszafiarskość	subst:sg:acc:f		
+> nieszafiarskość	nieszafiarskość	subst:sg:nom:f		
+3185557c3186250
+< obu	oba	num:pl:inst:m1.m2.m3.n2:congr		
+---
+> obu	oba	num:pl:inst:m1.m2.m3.f.n2:congr		
+3186141c3186834
+< obudwu	obadwa	num:pl:inst:m1.m2.m3.n2:congr		daw.
+---
+> obudwu	obadwa	num:pl:inst:m1.m2.m3.f.n2:congr		daw.
+3276362c3277055
+< obydwu	obydwa	num:pl:inst:m1.m2.m3.n2:congr		
+---
+> obydwu	obydwa	num:pl:inst:m1.m2.m3.f.n2:congr		
+3568681a3569375
+> os	osiedle	brev:pun		
+3581465a3582160
+> os	osoba	brev:pun		
+3663867a3664563
+> paraf	parafialny	brev:pun		
+3664349a3665046
+> paraf	parafraza	brev:pun		
+3810542a3811240
+> pocz	początek	brev:pun		
+3907137a3907836
+> pw	pod_wezwaniem	brev:pun		
+3976242a3976942
+> poł	połowa	brev:pun		
+4102724a4103425
+> PS	post_scriptum	brev:npun		
+4223230a4223932
+> poz	pozycja	brev:pun		
+4229283d4229984
+< pn	pólnoc	brev:pun		
+4236526a4237228
+> pn	północ	brev:pun		
+4253778a4254481,4254518
+> prawilnościach	prawilność	subst:pl:loc:f		pot.
+> prawilnościami	prawilność	subst:pl:inst:f		pot.
+> prawilnością	prawilność	subst:sg:inst:f		pot.
+> prawilnościom	prawilność	subst:pl:dat:f		pot.
+> prawilności	prawilność	subst:pl:acc:f		pot.
+> prawilności	prawilność	subst:pl:gen:f		pot.
+> prawilności	prawilność	subst:pl:nom:f		pot.
+> prawilności	prawilność	subst:pl:voc:f		pot.
+> prawilności	prawilność	subst:sg:dat:f		pot.
+> prawilności	prawilność	subst:sg:gen:f		pot.
+> prawilności	prawilność	subst:sg:loc:f		pot.
+> prawilności	prawilność	subst:sg:voc:f		pot.
+> prawilność	prawilność	subst:sg:acc:f		pot.
+> prawilność	prawilność	subst:sg:nom:f		pot.
+> prawilna	prawilny	adj:sg:nom.voc:f:pos		pot.
+> prawilną	prawilny	adj:sg:acc:f:pos		pot.
+> prawilną	prawilny	adj:sg:inst:f:pos		pot.
+> prawilnego	prawilny	adj:sg:acc:m1.m2:pos		pot.
+> prawilnego	prawilny	adj:sg:gen:m1.m2.m3.n1.n2:pos		pot.
+> prawilnej	prawilny	adj:sg:dat:f:pos		pot.
+> prawilnej	prawilny	adj:sg:gen:f:pos		pot.
+> prawilnej	prawilny	adj:sg:loc:f:pos		pot.
+> prawilnemu	prawilny	adj:sg:dat:m1.m2.m3.n1.n2:pos		pot.
+> prawilne	prawilny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		pot.
+> prawilne	prawilny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		pot.
+> prawilne	prawilny	adj:sg:acc:n1.n2:pos		pot.
+> prawilne	prawilny	adj:sg:nom.voc:n1.n2:pos		pot.
+> prawilni	prawilny	adj:pl:nom.voc:m1.p1:pos		pot.
+> prawilno	prawilny	adja		pot.
+> prawilnych	prawilny	adj:pl:acc:m1.p1:pos		pot.
+> prawilnych	prawilny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> prawilnych	prawilny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> prawilnymi	prawilny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> prawilnym	prawilny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> prawilnym	prawilny	adj:sg:inst:m1.m2.m3.n1.n2:pos		pot.
+> prawilnym	prawilny	adj:sg:loc:m1.m2.m3.n1.n2:pos		pot.
+> prawilny	prawilny	adj:sg:acc:m3:pos		pot.
+> prawilny	prawilny	adj:sg:nom.voc:m1.m2.m3:pos		pot.
+4259861a4260602,4260633
+> prekariacie	prekariat	subst:sg:loc:m3	nazwa pospolita	
+> prekariacie	prekariat	subst:sg:voc:m3	nazwa pospolita	
+> prekariatach	prekariat	subst:pl:loc:m3	nazwa pospolita	
+> prekariatami	prekariat	subst:pl:inst:m3	nazwa pospolita	
+> prekariatem	prekariat	subst:sg:inst:m3	nazwa pospolita	
+> prekariatom	prekariat	subst:pl:dat:m3	nazwa pospolita	
+> prekariatowi	prekariat	subst:sg:dat:m3	nazwa pospolita	
+> prekariatów	prekariat	subst:pl:gen:m3	nazwa pospolita	
+> prekariat	prekariat	subst:sg:acc:m3	nazwa pospolita	
+> prekariat	prekariat	subst:sg:nom:m3	nazwa pospolita	
+> prekariatu	prekariat	subst:sg:gen:m3	nazwa pospolita	
+> prekariaty	prekariat	subst:pl:acc:m3	nazwa pospolita	
+> prekariaty	prekariat	subst:pl:nom:m3	nazwa pospolita	
+> prekariaty	prekariat	subst:pl:voc:m3	nazwa pospolita	
+> prekariuszach	prekariusz	subst:pl:loc:m1	nazwa pospolita	
+> prekariuszami	prekariusz	subst:pl:inst:m1	nazwa pospolita	
+> prekariusza	prekariusz	subst:sg:acc:m1	nazwa pospolita	
+> prekariusza	prekariusz	subst:sg:gen:m1	nazwa pospolita	
+> prekariuszem	prekariusz	subst:sg:inst:m1	nazwa pospolita	
+> prekariusze	prekariusz	depr:pl:nom:m2	nazwa pospolita	
+> prekariusze	prekariusz	depr:pl:voc:m2	nazwa pospolita	
+> prekariusze	prekariusz	subst:pl:nom:m1	nazwa pospolita	
+> prekariusze	prekariusz	subst:pl:voc:m1	nazwa pospolita	
+> prekariuszom	prekariusz	subst:pl:dat:m1	nazwa pospolita	
+> prekariuszowi	prekariusz	subst:sg:dat:m1	nazwa pospolita	
+> prekariuszów	prekariusz	subst:pl:acc:m1	nazwa pospolita	
+> prekariuszów	prekariusz	subst:pl:gen:m1	nazwa pospolita	
+> prekariusz	prekariusz	subst:sg:nom:m1	nazwa pospolita	
+> prekariuszu	prekariusz	subst:sg:loc:m1	nazwa pospolita	
+> prekariuszu	prekariusz	subst:sg:voc:m1	nazwa pospolita	
+> prekariuszy	prekariusz	subst:pl:acc:m1	nazwa pospolita	
+> prekariuszy	prekariusz	subst:pl:gen:m1	nazwa pospolita	
+4274204a4274977
+> proj	projekt	brev:pun		
+4562187a4562961
+> przyp	przypis	brev:pun		
+4613188a4613963
+> ps	pseudonim	brev:pun		
+4627504a4628280,4628307
+> pulsomierzach	pulsomierz	subst:pl:loc:m3	nazwa pospolita	
+> pulsomierzach	pulsomierz	subst:pl:loc:m3	nazwa pospolita	rzad.
+> pulsomierzami	pulsomierz	subst:pl:inst:m3	nazwa pospolita	
+> pulsomierzami	pulsomierz	subst:pl:inst:m3	nazwa pospolita	rzad.
+> pulsomierza	pulsomierz	subst:sg:gen:m3	nazwa pospolita	
+> pulsomierza	pulsomierz	subst:sg:gen:m3	nazwa pospolita	rzad.
+> pulsomierzem	pulsomierz	subst:sg:inst:m3	nazwa pospolita	
+> pulsomierzem	pulsomierz	subst:sg:inst:m3	nazwa pospolita	rzad.
+> pulsomierze	pulsomierz	subst:pl:acc:m3	nazwa pospolita	
+> pulsomierze	pulsomierz	subst:pl:acc:m3	nazwa pospolita	rzad.
+> pulsomierze	pulsomierz	subst:pl:nom:m3	nazwa pospolita	
+> pulsomierze	pulsomierz	subst:pl:nom:m3	nazwa pospolita	rzad.
+> pulsomierze	pulsomierz	subst:pl:voc:m3	nazwa pospolita	
+> pulsomierze	pulsomierz	subst:pl:voc:m3	nazwa pospolita	rzad.
+> pulsomierzom	pulsomierz	subst:pl:dat:m3	nazwa pospolita	
+> pulsomierzom	pulsomierz	subst:pl:dat:m3	nazwa pospolita	rzad.
+> pulsomierzowi	pulsomierz	subst:sg:dat:m3	nazwa pospolita	
+> pulsomierzowi	pulsomierz	subst:sg:dat:m3	nazwa pospolita	rzad.
+> pulsomierzów	pulsomierz	subst:pl:gen:m3	nazwa pospolita	rzad.
+> pulsomierz	pulsomierz	subst:sg:acc:m3	nazwa pospolita	
+> pulsomierz	pulsomierz	subst:sg:acc:m3	nazwa pospolita	rzad.
+> pulsomierz	pulsomierz	subst:sg:nom:m3	nazwa pospolita	
+> pulsomierz	pulsomierz	subst:sg:nom:m3	nazwa pospolita	rzad.
+> pulsomierzu	pulsomierz	subst:sg:loc:m3	nazwa pospolita	
+> pulsomierzu	pulsomierz	subst:sg:loc:m3	nazwa pospolita	rzad.
+> pulsomierzu	pulsomierz	subst:sg:voc:m3	nazwa pospolita	
+> pulsomierzu	pulsomierz	subst:sg:voc:m3	nazwa pospolita	rzad.
+> pulsomierzy	pulsomierz	subst:pl:gen:m3	nazwa pospolita	
+4639136a4639940,4639978
+> queerowo	queerowo	adv:pos		
+> queerowościach	queerowość	subst:pl:loc:f		
+> queerowościami	queerowość	subst:pl:inst:f		
+> queerowością	queerowość	subst:sg:inst:f		
+> queerowościom	queerowość	subst:pl:dat:f		
+> queerowości	queerowość	subst:pl:acc:f		
+> queerowości	queerowość	subst:pl:gen:f		
+> queerowości	queerowość	subst:pl:nom:f		
+> queerowości	queerowość	subst:pl:voc:f		
+> queerowości	queerowość	subst:sg:dat:f		
+> queerowości	queerowość	subst:sg:gen:f		
+> queerowości	queerowość	subst:sg:loc:f		
+> queerowości	queerowość	subst:sg:voc:f		
+> queerowość	queerowość	subst:sg:acc:f		
+> queerowość	queerowość	subst:sg:nom:f		
+> queerowa	queerowy	adj:sg:nom.voc:f:pos		
+> queerową	queerowy	adj:sg:acc:f:pos		
+> queerową	queerowy	adj:sg:inst:f:pos		
+> queerowego	queerowy	adj:sg:acc:m1.m2:pos		
+> queerowego	queerowy	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> queerowej	queerowy	adj:sg:dat:f:pos		
+> queerowej	queerowy	adj:sg:gen:f:pos		
+> queerowej	queerowy	adj:sg:loc:f:pos		
+> queerowemu	queerowy	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> queerowe	queerowy	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> queerowe	queerowy	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> queerowe	queerowy	adj:sg:acc:n1.n2:pos		
+> queerowe	queerowy	adj:sg:nom.voc:n1.n2:pos		
+> queerowi	queerowy	adj:pl:nom.voc:m1.p1:pos		
+> queerowo	queerowy	adja		
+> queerowych	queerowy	adj:pl:acc:m1.p1:pos		
+> queerowych	queerowy	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> queerowych	queerowy	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> queerowymi	queerowy	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> queerowym	queerowy	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> queerowym	queerowy	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> queerowym	queerowy	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> queerowy	queerowy	adj:sg:acc:m3:pos		
+> queerowy	queerowy	adj:sg:nom.voc:m1.m2.m3:pos		
+4705042a4705885
+> reż	reżyseria	brev:pun		
+4755893a4756737
+> rozdz	rozdział	brev:pun		
+4792173a4793018,4793175
+> rozkminach	rozkmina	subst:pl:loc:f	nazwa pospolita	pot.
+> rozkminami	rozkmina	subst:pl:inst:f	nazwa pospolita	pot.
+> rozkmina	rozkmina	subst:sg:nom:f	nazwa pospolita	pot.
+> rozkminą	rozkmina	subst:sg:inst:f	nazwa pospolita	pot.
+> rozkminę	rozkmina	subst:sg:acc:f	nazwa pospolita	pot.
+> rozkminie	rozkmina	subst:sg:dat:f	nazwa pospolita	pot.
+> rozkminie	rozkmina	subst:sg:loc:f	nazwa pospolita	pot.
+> rozkminom	rozkmina	subst:pl:dat:f	nazwa pospolita	pot.
+> rozkmino	rozkmina	subst:sg:voc:f	nazwa pospolita	pot.
+> rozkmin	rozkmina	subst:pl:gen:f	nazwa pospolita	pot.
+> rozkminy	rozkmina	subst:pl:acc:f	nazwa pospolita	pot.
+> rozkminy	rozkmina	subst:pl:nom:f	nazwa pospolita	pot.
+> rozkminy	rozkmina	subst:pl:voc:f	nazwa pospolita	pot.
+> rozkminy	rozkmina	subst:sg:gen:f	nazwa pospolita	pot.
+> rozkminiacie	rozkminiać	fin:pl:sec:imperf		pot.
+> rozkminiać	rozkminiać	inf:imperf		pot.
+> rozkminiając	rozkminiać	pcon:imperf		pot.
+> rozkminiają	rozkminiać	fin:pl:ter:imperf		pot.
+> rozkminiajcie	rozkminiać	impt:pl:sec:imperf		pot.
+> rozkminiajmy	rozkminiać	impt:pl:pri:imperf		pot.
+> rozkminiaj	rozkminiać	impt:sg:sec:imperf		pot.
+> rozkminialiby	rozkminiać	cond:pl:m1.p1:ter:imperf		pot.
+> rozkminialibyście	rozkminiać	cond:pl:m1.p1:sec:imperf		pot.
+> rozkminialibyśmy	rozkminiać	cond:pl:m1.p1:pri:imperf		pot.
+> rozkminiali	rozkminiać	praet:pl:m1.p1:imperf		pot.
+> rozkminiali	rozkminiać	praet:pl:m1.p1:ter:imperf		pot.
+> rozkminialiście	rozkminiać	praet:pl:m1.p1:sec:imperf		pot.
+> rozkminialiśmy	rozkminiać	praet:pl:m1.p1:pri:imperf		pot.
+> rozkminiałabym	rozkminiać	cond:sg:f:pri:imperf		pot.
+> rozkminiałaby	rozkminiać	cond:sg:f:ter:imperf		pot.
+> rozkminiałabyś	rozkminiać	cond:sg:f:sec:imperf		pot.
+> rozkminiałam	rozkminiać	praet:sg:f:pri:imperf		pot.
+> rozkminiała	rozkminiać	praet:sg:f:imperf		pot.
+> rozkminiała	rozkminiać	praet:sg:f:ter:imperf		pot.
+> rozkminiałaś	rozkminiać	praet:sg:f:sec:imperf		pot.
+> rozkminiałbym	rozkminiać	cond:sg:m1.m2.m3:pri:imperf		pot.
+> rozkminiałby	rozkminiać	cond:sg:m1.m2.m3:ter:imperf		pot.
+> rozkminiałbyś	rozkminiać	cond:sg:m1.m2.m3:sec:imperf		pot.
+> rozkminiałem	rozkminiać	praet:sg:m1.m2.m3:pri:imperf		pot.
+> rozkminiałeś	rozkminiać	praet:sg:m1.m2.m3:sec:imperf		pot.
+> rozkminiałobym	rozkminiać	cond:sg:n1.n2:pri:imperf		pot.
+> rozkminiałoby	rozkminiać	cond:sg:n1.n2:ter:imperf		pot.
+> rozkminiałobyś	rozkminiać	cond:sg:n1.n2:sec:imperf		pot.
+> rozkminiałom	rozkminiać	praet:sg:n1.n2:pri:imperf		pot.
+> rozkminiało	rozkminiać	praet:sg:n1.n2:imperf		pot.
+> rozkminiało	rozkminiać	praet:sg:n1.n2:ter:imperf		pot.
+> rozkminiałoś	rozkminiać	praet:sg:n1.n2:sec:imperf		pot.
+> rozkminiał	rozkminiać	praet:sg:m1.m2.m3:imperf		pot.
+> rozkminiał	rozkminiać	praet:sg:m1.m2.m3:ter:imperf		pot.
+> rozkminiałyby	rozkminiać	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
+> rozkminiałybyście	rozkminiać	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
+> rozkminiałybyśmy	rozkminiać	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+> rozkminiały	rozkminiać	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		pot.
+> rozkminiały	rozkminiać	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		pot.
+> rozkminiałyście	rozkminiać	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		pot.
+> rozkminiałyśmy	rozkminiać	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		pot.
+> rozkminiam	rozkminiać	fin:sg:pri:imperf		pot.
+> rozkminiamy	rozkminiać	fin:pl:pri:imperf		pot.
+> rozkminiano	rozkminiać	imps:imperf		pot.
+> rozkminia	rozkminiać	fin:sg:ter:imperf		pot.
+> rozkminiasz	rozkminiać	fin:sg:sec:imperf		pot.
+> nierozkminieniach	rozkminić	ger:pl:loc:n2:perf:neg		pot.
+> nierozkminieniami	rozkminić	ger:pl:inst:n2:perf:neg		pot.
+> nierozkminienia	rozkminić	ger:pl:nom.acc:n2:perf:neg		pot.
+> nierozkminienia	rozkminić	ger:sg:gen:n2:perf:neg		pot.
+> nierozkminieniem	rozkminić	ger:sg:inst:n2:perf:neg		pot.
+> nierozkminienie	rozkminić	ger:sg:nom.acc:n2:perf:neg		pot.
+> nierozkminieniom	rozkminić	ger:pl:dat:n2:perf:neg		pot.
+> nierozkminieniu	rozkminić	ger:sg:dat.loc:n2:perf:neg		pot.
+> nierozkminień	rozkminić	ger:pl:gen:n2:perf:neg		pot.
+> nierozkminiona	rozkminić	ppas:sg:nom.voc:f:perf:neg		pot.
+> nierozkminioną	rozkminić	ppas:sg:acc.inst:f:perf:neg		pot.
+> nierozkminionego	rozkminić	ppas:sg:acc:m1.m2:perf:neg		pot.
+> nierozkminionego	rozkminić	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		pot.
+> nierozkminionej	rozkminić	ppas:sg:gen.dat.loc:f:perf:neg		pot.
+> nierozkminionemu	rozkminić	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		pot.
+> nierozkminione	rozkminić	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		pot.
+> nierozkminione	rozkminić	ppas:sg:nom.acc.voc:n1.n2:perf:neg		pot.
+> nierozkminioni	rozkminić	ppas:pl:nom.voc:m1.p1:perf:neg		pot.
+> nierozkminionych	rozkminić	ppas:pl:acc:m1.p1:perf:neg		pot.
+> nierozkminionych	rozkminić	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		pot.
+> nierozkminionymi	rozkminić	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		pot.
+> nierozkminionym	rozkminić	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		pot.
+> nierozkminionym	rozkminić	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		pot.
+> nierozkminiony	rozkminić	ppas:sg:acc:m3:perf:neg		pot.
+> nierozkminiony	rozkminić	ppas:sg:nom.voc:m1.m2.m3:perf:neg		pot.
+> rozkminią	rozkminić	fin:pl:ter:perf		pot.
+> rozkminicie	rozkminić	fin:pl:sec:perf		pot.
+> rozkminić	rozkminić	inf:perf		pot.
+> rozkminieniach	rozkminić	ger:pl:loc:n2:perf:aff		pot.
+> rozkminieniami	rozkminić	ger:pl:inst:n2:perf:aff		pot.
+> rozkminienia	rozkminić	ger:pl:nom.acc:n2:perf:aff		pot.
+> rozkminienia	rozkminić	ger:sg:gen:n2:perf:aff		pot.
+> rozkminieniem	rozkminić	ger:sg:inst:n2:perf:aff		pot.
+> rozkminienie	rozkminić	ger:sg:nom.acc:n2:perf:aff		pot.
+> rozkminieniom	rozkminić	ger:pl:dat:n2:perf:aff		pot.
+> rozkminieniu	rozkminić	ger:sg:dat.loc:n2:perf:aff		pot.
+> rozkminień	rozkminić	ger:pl:gen:n2:perf:aff		pot.
+> rozkminię	rozkminić	fin:sg:pri:perf		pot.
+> rozkminiliby	rozkminić	cond:pl:m1.p1:ter:perf		pot.
+> rozkminilibyście	rozkminić	cond:pl:m1.p1:sec:perf		pot.
+> rozkminilibyśmy	rozkminić	cond:pl:m1.p1:pri:perf		pot.
+> rozkminili	rozkminić	praet:pl:m1.p1:perf		pot.
+> rozkminili	rozkminić	praet:pl:m1.p1:ter:perf		pot.
+> rozkminiliście	rozkminić	praet:pl:m1.p1:sec:perf		pot.
+> rozkminiliśmy	rozkminić	praet:pl:m1.p1:pri:perf		pot.
+> rozkminiłabym	rozkminić	cond:sg:f:pri:perf		pot.
+> rozkminiłaby	rozkminić	cond:sg:f:ter:perf		pot.
+> rozkminiłabyś	rozkminić	cond:sg:f:sec:perf		pot.
+> rozkminiłam	rozkminić	praet:sg:f:pri:perf		pot.
+> rozkminiła	rozkminić	praet:sg:f:perf		pot.
+> rozkminiła	rozkminić	praet:sg:f:ter:perf		pot.
+> rozkminiłaś	rozkminić	praet:sg:f:sec:perf		pot.
+> rozkminiłbym	rozkminić	cond:sg:m1.m2.m3:pri:perf		pot.
+> rozkminiłby	rozkminić	cond:sg:m1.m2.m3:ter:perf		pot.
+> rozkminiłbyś	rozkminić	cond:sg:m1.m2.m3:sec:perf		pot.
+> rozkminiłem	rozkminić	praet:sg:m1.m2.m3:pri:perf		pot.
+> rozkminiłeś	rozkminić	praet:sg:m1.m2.m3:sec:perf		pot.
+> rozkminiłobym	rozkminić	cond:sg:n1.n2:pri:perf		pot.
+> rozkminiłoby	rozkminić	cond:sg:n1.n2:ter:perf		pot.
+> rozkminiłobyś	rozkminić	cond:sg:n1.n2:sec:perf		pot.
+> rozkminiłom	rozkminić	praet:sg:n1.n2:pri:perf		pot.
+> rozkminiło	rozkminić	praet:sg:n1.n2:perf		pot.
+> rozkminiło	rozkminić	praet:sg:n1.n2:ter:perf		pot.
+> rozkminiłoś	rozkminić	praet:sg:n1.n2:sec:perf		pot.
+> rozkminił	rozkminić	praet:sg:m1.m2.m3:perf		pot.
+> rozkminił	rozkminić	praet:sg:m1.m2.m3:ter:perf		pot.
+> rozkminiłyby	rozkminić	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		pot.
+> rozkminiłybyście	rozkminić	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		pot.
+> rozkminiłybyśmy	rozkminić	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		pot.
+> rozkminiły	rozkminić	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		pot.
+> rozkminiły	rozkminić	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		pot.
+> rozkminiłyście	rozkminić	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		pot.
+> rozkminiłyśmy	rozkminić	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		pot.
+> rozkminimy	rozkminić	fin:pl:pri:perf		pot.
+> rozkminiona	rozkminić	ppas:sg:nom.voc:f:perf:aff		pot.
+> rozkminioną	rozkminić	ppas:sg:acc.inst:f:perf:aff		pot.
+> rozkminionego	rozkminić	ppas:sg:acc:m1.m2:perf:aff		pot.
+> rozkminionego	rozkminić	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		pot.
+> rozkminionej	rozkminić	ppas:sg:gen.dat.loc:f:perf:aff		pot.
+> rozkminionemu	rozkminić	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		pot.
+> rozkminione	rozkminić	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		pot.
+> rozkminione	rozkminić	ppas:sg:nom.acc.voc:n1.n2:perf:aff		pot.
+> rozkminioni	rozkminić	ppas:pl:nom.voc:m1.p1:perf:aff		pot.
+> rozkminiono	rozkminić	imps:perf		pot.
+> rozkminionych	rozkminić	ppas:pl:acc:m1.p1:perf:aff		pot.
+> rozkminionych	rozkminić	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		pot.
+> rozkminionymi	rozkminić	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		pot.
+> rozkminionym	rozkminić	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		pot.
+> rozkminionym	rozkminić	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		pot.
+> rozkminiony	rozkminić	ppas:sg:acc:m3:perf:aff		pot.
+> rozkminiony	rozkminić	ppas:sg:nom.voc:m1.m2.m3:perf:aff		pot.
+> rozkmini	rozkminić	fin:sg:ter:perf		pot.
+> rozkminisz	rozkminić	fin:sg:sec:perf		pot.
+> rozkminiwszy	rozkminić	pant:perf		pot.
+> rozkmińcie	rozkminić	impt:pl:sec:perf		pot.
+> rozkmińmy	rozkminić	impt:pl:pri:perf		pot.
+> rozkmiń	rozkminić	impt:sg:sec:perf		pot.
+4949033a4950036
+> rz	rzeka	brev:pun		geogr.
+5009986a5010990,5011003
+> selfie	selfie	subst:pl:acc:n2	nazwa pospolita	
+> selfie	selfie	subst:pl:dat:n2	nazwa pospolita	
+> selfie	selfie	subst:pl:gen:n2	nazwa pospolita	
+> selfie	selfie	subst:pl:inst:n2	nazwa pospolita	
+> selfie	selfie	subst:pl:loc:n2	nazwa pospolita	
+> selfie	selfie	subst:pl:nom:n2	nazwa pospolita	
+> selfie	selfie	subst:pl:voc:n2	nazwa pospolita	
+> selfie	selfie	subst:sg:acc:n2	nazwa pospolita	
+> selfie	selfie	subst:sg:dat:n2	nazwa pospolita	
+> selfie	selfie	subst:sg:gen:n2	nazwa pospolita	
+> selfie	selfie	subst:sg:inst:n2	nazwa pospolita	
+> selfie	selfie	subst:sg:loc:n2	nazwa pospolita	
+> selfie	selfie	subst:sg:nom:n2	nazwa pospolita	
+> selfie	selfie	subst:sg:voc:n2	nazwa pospolita	
+5116286a5117304,5117317
+> słodziakach	słodziak	subst:pl:loc:m2	nazwa pospolita	pot.
+> słodziakami	słodziak	subst:pl:inst:m2	nazwa pospolita	pot.
+> słodziaka	słodziak	subst:sg:acc:m2	nazwa pospolita	pot.
+> słodziaka	słodziak	subst:sg:gen:m2	nazwa pospolita	pot.
+> słodziakiem	słodziak	subst:sg:inst:m2	nazwa pospolita	pot.
+> słodziaki	słodziak	subst:pl:acc:m2	nazwa pospolita	pot.
+> słodziaki	słodziak	subst:pl:nom:m2	nazwa pospolita	pot.
+> słodziaki	słodziak	subst:pl:voc:m2	nazwa pospolita	pot.
+> słodziakom	słodziak	subst:pl:dat:m2	nazwa pospolita	pot.
+> słodziakowi	słodziak	subst:sg:dat:m2	nazwa pospolita	pot.
+> słodziaków	słodziak	subst:pl:gen:m2	nazwa pospolita	pot.
+> słodziak	słodziak	subst:sg:nom:m2	nazwa pospolita	pot.
+> słodziaku	słodziak	subst:sg:loc:m2	nazwa pospolita	pot.
+> słodziaku	słodziak	subst:sg:voc:m2	nazwa pospolita	pot.
+5186268a5187300
+> społ	społeczeństwo	brev:pun		
+5251723a5252756
+> st	stopień	brev:pun		jęz.
+5262552a5263586
+> str	strona	brev:pun		
+5321095a5322130,5322215
+> szafiarce	szafiarka	subst:sg:dat:f	nazwa pospolita	pot.
+> szafiarce	szafiarka	subst:sg:loc:f	nazwa pospolita	pot.
+> szafiarek	szafiarka	subst:pl:gen:f	nazwa pospolita	pot.
+> szafiarkach	szafiarka	subst:pl:loc:f	nazwa pospolita	pot.
+> szafiarkami	szafiarka	subst:pl:inst:f	nazwa pospolita	pot.
+> szafiarka	szafiarka	subst:sg:nom:f	nazwa pospolita	pot.
+> szafiarką	szafiarka	subst:sg:inst:f	nazwa pospolita	pot.
+> szafiarkę	szafiarka	subst:sg:acc:f	nazwa pospolita	pot.
+> szafiarki	szafiarka	subst:pl:acc:f	nazwa pospolita	pot.
+> szafiarki	szafiarka	subst:pl:nom:f	nazwa pospolita	pot.
+> szafiarki	szafiarka	subst:pl:voc:f	nazwa pospolita	pot.
+> szafiarki	szafiarka	subst:sg:gen:f	nazwa pospolita	pot.
+> szafiarkom	szafiarka	subst:pl:dat:f	nazwa pospolita	pot.
+> szafiarko	szafiarka	subst:sg:voc:f	nazwa pospolita	pot.
+> szafiarscy	szafiarski	adj:pl:nom.voc:m1.p1:pos		pot.
+> szafiarska	szafiarski	adj:sg:nom.voc:f:pos		pot.
+> szafiarską	szafiarski	adj:sg:acc:f:pos		pot.
+> szafiarską	szafiarski	adj:sg:inst:f:pos		pot.
+> szafiarskich	szafiarski	adj:pl:acc:m1.p1:pos		pot.
+> szafiarskich	szafiarski	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> szafiarskich	szafiarski	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> szafiarskiego	szafiarski	adj:sg:acc:m1.m2:pos		pot.
+> szafiarskiego	szafiarski	adj:sg:gen:m1.m2.m3.n1.n2:pos		pot.
+> szafiarskiej	szafiarski	adj:sg:dat:f:pos		pot.
+> szafiarskiej	szafiarski	adj:sg:gen:f:pos		pot.
+> szafiarskiej	szafiarski	adj:sg:loc:f:pos		pot.
+> szafiarskiemu	szafiarski	adj:sg:dat:m1.m2.m3.n1.n2:pos		pot.
+> szafiarskie	szafiarski	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		pot.
+> szafiarskie	szafiarski	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		pot.
+> szafiarskie	szafiarski	adj:sg:acc:n1.n2:pos		pot.
+> szafiarskie	szafiarski	adj:sg:nom.voc:n1.n2:pos		pot.
+> szafiarskimi	szafiarski	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> szafiarskim	szafiarski	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		pot.
+> szafiarskim	szafiarski	adj:sg:inst:m1.m2.m3.n1.n2:pos		pot.
+> szafiarskim	szafiarski	adj:sg:loc:m1.m2.m3.n1.n2:pos		pot.
+> szafiarski	szafiarski	adj:sg:acc:m3:pos		pot.
+> szafiarski	szafiarski	adj:sg:nom.voc:m1.m2.m3:pos		pot.
+> szafiarsko	szafiarski	adja		pot.
+> szafiarsku	szafiarski	adjp		pot.
+> szafiarsko	szafiarsko	adv:pos		
+> szafiarskościach	szafiarskość	subst:pl:loc:f		
+> szafiarskościami	szafiarskość	subst:pl:inst:f		
+> szafiarskością	szafiarskość	subst:sg:inst:f		
+> szafiarskościom	szafiarskość	subst:pl:dat:f		
+> szafiarskości	szafiarskość	subst:pl:acc:f		
+> szafiarskości	szafiarskość	subst:pl:gen:f		
+> szafiarskości	szafiarskość	subst:pl:nom:f		
+> szafiarskości	szafiarskość	subst:pl:voc:f		
+> szafiarskości	szafiarskość	subst:sg:dat:f		
+> szafiarskości	szafiarskość	subst:sg:gen:f		
+> szafiarskości	szafiarskość	subst:sg:loc:f		
+> szafiarskości	szafiarskość	subst:sg:voc:f		
+> szafiarskość	szafiarskość	subst:sg:acc:f		
+> szafiarskość	szafiarskość	subst:sg:nom:f		
+> szafiarzach	szafiarz	subst:pl:loc:m1	nazwa pospolita	pot.
+> szafiarzach	szafiarz	subst:pl:loc:m1	nazwa pospolita	rzad.|pot.
+> szafiarzami	szafiarz	subst:pl:inst:m1	nazwa pospolita	pot.
+> szafiarzami	szafiarz	subst:pl:inst:m1	nazwa pospolita	rzad.|pot.
+> szafiarza	szafiarz	subst:sg:acc:m1	nazwa pospolita	pot.
+> szafiarza	szafiarz	subst:sg:acc:m1	nazwa pospolita	rzad.|pot.
+> szafiarza	szafiarz	subst:sg:gen:m1	nazwa pospolita	pot.
+> szafiarza	szafiarz	subst:sg:gen:m1	nazwa pospolita	rzad.|pot.
+> szafiarzem	szafiarz	subst:sg:inst:m1	nazwa pospolita	pot.
+> szafiarzem	szafiarz	subst:sg:inst:m1	nazwa pospolita	rzad.|pot.
+> szafiarze	szafiarz	depr:pl:nom:m2	nazwa pospolita	pot.
+> szafiarze	szafiarz	depr:pl:nom:m2	nazwa pospolita	rzad.|pot.
+> szafiarze	szafiarz	depr:pl:voc:m2	nazwa pospolita	pot.
+> szafiarze	szafiarz	depr:pl:voc:m2	nazwa pospolita	rzad.|pot.
+> szafiarze	szafiarz	subst:pl:nom:m1	nazwa pospolita	pot.
+> szafiarze	szafiarz	subst:pl:nom:m1	nazwa pospolita	rzad.|pot.
+> szafiarze	szafiarz	subst:pl:voc:m1	nazwa pospolita	pot.
+> szafiarze	szafiarz	subst:pl:voc:m1	nazwa pospolita	rzad.|pot.
+> szafiarzom	szafiarz	subst:pl:dat:m1	nazwa pospolita	pot.
+> szafiarzom	szafiarz	subst:pl:dat:m1	nazwa pospolita	rzad.|pot.
+> szafiarzowi	szafiarz	subst:sg:dat:m1	nazwa pospolita	pot.
+> szafiarzowi	szafiarz	subst:sg:dat:m1	nazwa pospolita	rzad.|pot.
+> szafiarzów	szafiarz	subst:pl:acc:m1	nazwa pospolita	rzad.|pot.
+> szafiarzów	szafiarz	subst:pl:gen:m1	nazwa pospolita	rzad.|pot.
+> szafiarz	szafiarz	subst:sg:nom:m1	nazwa pospolita	pot.
+> szafiarz	szafiarz	subst:sg:nom:m1	nazwa pospolita	rzad.|pot.
+> szafiarzu	szafiarz	subst:sg:loc:m1	nazwa pospolita	pot.
+> szafiarzu	szafiarz	subst:sg:loc:m1	nazwa pospolita	rzad.|pot.
+> szafiarzu	szafiarz	subst:sg:voc:m1	nazwa pospolita	pot.
+> szafiarzu	szafiarz	subst:sg:voc:m1	nazwa pospolita	rzad.|pot.
+> szafiarzy	szafiarz	subst:pl:acc:m1	nazwa pospolita	pot.
+> szafiarzy	szafiarz	subst:pl:gen:m1	nazwa pospolita	pot.
+5369341a5370462,5370475
+> szpejach	szpej	subst:pl:loc:m3	nazwa pospolita	pot.
+> szpejami	szpej	subst:pl:inst:m3	nazwa pospolita	pot.
+> szpeja	szpej	subst:sg:gen:m3	nazwa pospolita	pot.
+> szpejem	szpej	subst:sg:inst:m3	nazwa pospolita	pot.
+> szpeje	szpej	subst:pl:acc:m3	nazwa pospolita	pot.
+> szpeje	szpej	subst:pl:nom:m3	nazwa pospolita	pot.
+> szpeje	szpej	subst:pl:voc:m3	nazwa pospolita	pot.
+> szpejie	szpej	subst:sg:loc:m3	nazwa pospolita	pot.
+> szpejie	szpej	subst:sg:voc:m3	nazwa pospolita	pot.
+> szpejom	szpej	subst:pl:dat:m3	nazwa pospolita	pot.
+> szpejowi	szpej	subst:sg:dat:m3	nazwa pospolita	pot.
+> szpejów	szpej	subst:pl:gen:m3	nazwa pospolita	pot.
+> szpej	szpej	subst:sg:acc:m3	nazwa pospolita	pot.
+> szpej	szpej	subst:sg:nom:m3	nazwa pospolita	pot.
+5378019a5379154
+> szt	sztuka	brev:pun		
+5463220a5464356
+> temp	temperatura	brev:pun		
+5486898a5488035
+> t	tona	brev:npun		
+5526245a5527383,5527447
+> nietrybieniach	trybić	ger:pl:loc:n2:perf:neg		
+> nietrybieniami	trybić	ger:pl:inst:n2:perf:neg		
+> nietrybienia	trybić	ger:pl:nom.acc:n2:perf:neg		
+> nietrybienia	trybić	ger:sg:gen:n2:perf:neg		
+> nietrybieniem	trybić	ger:sg:inst:n2:perf:neg		
+> nietrybienie	trybić	ger:sg:nom.acc:n2:perf:neg		
+> nietrybieniom	trybić	ger:pl:dat:n2:perf:neg		
+> nietrybieniu	trybić	ger:sg:dat.loc:n2:perf:neg		
+> nietrybień	trybić	ger:pl:gen:n2:perf:neg		
+> trybcie	trybić	impt:pl:sec:perf		
+> trybią	trybić	fin:pl:ter:perf		
+> trybicie	trybić	fin:pl:sec:perf		
+> trybić	trybić	inf:perf		
+> trybieniach	trybić	ger:pl:loc:n2:perf:aff		
+> trybieniami	trybić	ger:pl:inst:n2:perf:aff		
+> trybienia	trybić	ger:pl:nom.acc:n2:perf:aff		
+> trybienia	trybić	ger:sg:gen:n2:perf:aff		
+> trybieniem	trybić	ger:sg:inst:n2:perf:aff		
+> trybienie	trybić	ger:sg:nom.acc:n2:perf:aff		
+> trybieniom	trybić	ger:pl:dat:n2:perf:aff		
+> trybieniu	trybić	ger:sg:dat.loc:n2:perf:aff		
+> trybień	trybić	ger:pl:gen:n2:perf:aff		
+> trybię	trybić	fin:sg:pri:perf		
+> trybilibyście	trybić	cond:pl:m1.p1:sec:perf		
+> trybilibyśmy	trybić	cond:pl:m1.p1:pri:perf		
+> trybiliby	trybić	cond:pl:m1.p1:ter:perf		
+> trybiliście	trybić	praet:pl:m1.p1:sec:perf		
+> trybiliśmy	trybić	praet:pl:m1.p1:pri:perf		
+> trybili	trybić	praet:pl:m1.p1:perf		
+> trybili	trybić	praet:pl:m1.p1:ter:perf		
+> trybiłabym	trybić	cond:sg:f:pri:perf		
+> trybiłabyś	trybić	cond:sg:f:sec:perf		
+> trybiłaby	trybić	cond:sg:f:ter:perf		
+> trybiłam	trybić	praet:sg:f:pri:perf		
+> trybiłaś	trybić	praet:sg:f:sec:perf		
+> trybiła	trybić	praet:sg:f:perf		
+> trybiła	trybić	praet:sg:f:ter:perf		
+> trybiłbym	trybić	cond:sg:m1.m2.m3:pri:perf		
+> trybiłbyś	trybić	cond:sg:m1.m2.m3:sec:perf		
+> trybiłby	trybić	cond:sg:m1.m2.m3:ter:perf		
+> trybiłem	trybić	praet:sg:m1.m2.m3:pri:perf		
+> trybiłeś	trybić	praet:sg:m1.m2.m3:sec:perf		
+> trybiłobym	trybić	cond:sg:n1.n2:pri:perf		
+> trybiłobyś	trybić	cond:sg:n1.n2:sec:perf		
+> trybiłoby	trybić	cond:sg:n1.n2:ter:perf		
+> trybiłom	trybić	praet:sg:n1.n2:pri:perf		
+> trybiłoś	trybić	praet:sg:n1.n2:sec:perf		
+> trybiło	trybić	praet:sg:n1.n2:perf		
+> trybiło	trybić	praet:sg:n1.n2:ter:perf		
+> trybił	trybić	praet:sg:m1.m2.m3:perf		
+> trybił	trybić	praet:sg:m1.m2.m3:ter:perf		
+> trybiłybyście	trybić	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> trybiłybyśmy	trybić	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> trybiłyby	trybić	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> trybiłyście	trybić	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> trybiłyśmy	trybić	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> trybiły	trybić	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> trybiły	trybić	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> trybimy	trybić	fin:pl:pri:perf		
+> trybiono	trybić	imps:perf		
+> trybisz	trybić	fin:sg:sec:perf		
+> trybi	trybić	fin:sg:ter:perf		
+> trybiwszy	trybić	pant:perf		
+> trybmy	trybić	impt:pl:pri:perf		
+> tryb	trybić	impt:sg:sec:perf		
+5562622a5563825
+> tys	tysiąc	brev:pun		
+5973944a5975148
+> wsch	wschodni	brev:pun		
+6053165a6054370
+> wyd	wydanie	brev:pun		
+6054308a6055514
+> wyd	wydawca	brev:pun		
+6352763a6353970
+> zach	zachodni	brev:pun		
+6472553a6473761
+> zam	zamieszkały	brev:pun		
+6728852a6730061,6730157
+> niezhakowana	zhakować	ppas:sg:nom.voc:f:perf:neg		
+> niezhakowaną	zhakować	ppas:sg:acc.inst:f:perf:neg		
+> niezhakowanego	zhakować	ppas:sg:acc:m1.m2:perf:neg		
+> niezhakowanego	zhakować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> niezhakowanej	zhakować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezhakowanemu	zhakować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> niezhakowane	zhakować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> niezhakowane	zhakować	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> niezhakowaniach	zhakować	ger:pl:loc:n2:perf:neg		
+> niezhakowaniami	zhakować	ger:pl:inst:n2:perf:neg		
+> niezhakowania	zhakować	ger:pl:nom.acc:n2:perf:neg		
+> niezhakowania	zhakować	ger:sg:gen:n2:perf:neg		
+> niezhakowaniem	zhakować	ger:sg:inst:n2:perf:neg		
+> niezhakowanie	zhakować	ger:sg:nom.acc:n2:perf:neg		
+> niezhakowaniom	zhakować	ger:pl:dat:n2:perf:neg		
+> niezhakowaniu	zhakować	ger:sg:dat.loc:n2:perf:neg		
+> niezhakowani	zhakować	ppas:pl:nom.voc:m1.p1:perf:neg		
+> niezhakowanych	zhakować	ppas:pl:acc:m1.p1:perf:neg		
+> niezhakowanych	zhakować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezhakowanymi	zhakować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezhakowanym	zhakować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezhakowanym	zhakować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> niezhakowany	zhakować	ppas:sg:acc:m3:perf:neg		
+> niezhakowany	zhakować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezhakowań	zhakować	ger:pl:gen:n2:perf:neg		
+> zhakować	zhakować	inf:perf		
+> zhakowalibyście	zhakować	cond:pl:m1.p1:sec:perf		
+> zhakowalibyśmy	zhakować	cond:pl:m1.p1:pri:perf		
+> zhakowaliby	zhakować	cond:pl:m1.p1:ter:perf		
+> zhakowaliście	zhakować	praet:pl:m1.p1:sec:perf		
+> zhakowaliśmy	zhakować	praet:pl:m1.p1:pri:perf		
+> zhakowali	zhakować	praet:pl:m1.p1:perf		
+> zhakowali	zhakować	praet:pl:m1.p1:ter:perf		
+> zhakowałabym	zhakować	cond:sg:f:pri:perf		
+> zhakowałabyś	zhakować	cond:sg:f:sec:perf		
+> zhakowałaby	zhakować	cond:sg:f:ter:perf		
+> zhakowałam	zhakować	praet:sg:f:pri:perf		
+> zhakowałaś	zhakować	praet:sg:f:sec:perf		
+> zhakowała	zhakować	praet:sg:f:perf		
+> zhakowała	zhakować	praet:sg:f:ter:perf		
+> zhakowałbym	zhakować	cond:sg:m1.m2.m3:pri:perf		
+> zhakowałbyś	zhakować	cond:sg:m1.m2.m3:sec:perf		
+> zhakowałby	zhakować	cond:sg:m1.m2.m3:ter:perf		
+> zhakowałem	zhakować	praet:sg:m1.m2.m3:pri:perf		
+> zhakowałeś	zhakować	praet:sg:m1.m2.m3:sec:perf		
+> zhakowałobym	zhakować	cond:sg:n1.n2:pri:perf		
+> zhakowałobyś	zhakować	cond:sg:n1.n2:sec:perf		
+> zhakowałoby	zhakować	cond:sg:n1.n2:ter:perf		
+> zhakowałom	zhakować	praet:sg:n1.n2:pri:perf		
+> zhakowałoś	zhakować	praet:sg:n1.n2:sec:perf		
+> zhakowało	zhakować	praet:sg:n1.n2:perf		
+> zhakowało	zhakować	praet:sg:n1.n2:ter:perf		
+> zhakowałybyście	zhakować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zhakowałybyśmy	zhakować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zhakowałyby	zhakować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zhakowałyście	zhakować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		
+> zhakowałyśmy	zhakować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		
+> zhakowały	zhakować	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		
+> zhakowały	zhakować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		
+> zhakował	zhakować	praet:sg:m1.m2.m3:perf		
+> zhakował	zhakować	praet:sg:m1.m2.m3:ter:perf		
+> zhakowana	zhakować	ppas:sg:nom.voc:f:perf:aff		
+> zhakowaną	zhakować	ppas:sg:acc.inst:f:perf:aff		
+> zhakowanego	zhakować	ppas:sg:acc:m1.m2:perf:aff		
+> zhakowanego	zhakować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> zhakowanej	zhakować	ppas:sg:gen.dat.loc:f:perf:aff		
+> zhakowanemu	zhakować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> zhakowane	zhakować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> zhakowane	zhakować	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> zhakowaniach	zhakować	ger:pl:loc:n2:perf:aff		
+> zhakowaniami	zhakować	ger:pl:inst:n2:perf:aff		
+> zhakowania	zhakować	ger:pl:nom.acc:n2:perf:aff		
+> zhakowania	zhakować	ger:sg:gen:n2:perf:aff		
+> zhakowaniem	zhakować	ger:sg:inst:n2:perf:aff		
+> zhakowanie	zhakować	ger:sg:nom.acc:n2:perf:aff		
+> zhakowaniom	zhakować	ger:pl:dat:n2:perf:aff		
+> zhakowaniu	zhakować	ger:sg:dat.loc:n2:perf:aff		
+> zhakowani	zhakować	ppas:pl:nom.voc:m1.p1:perf:aff		
+> zhakowano	zhakować	imps:perf		
+> zhakowanych	zhakować	ppas:pl:acc:m1.p1:perf:aff		
+> zhakowanych	zhakować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zhakowanymi	zhakować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zhakowanym	zhakować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zhakowanym	zhakować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> zhakowany	zhakować	ppas:sg:acc:m3:perf:aff		
+> zhakowany	zhakować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zhakowań	zhakować	ger:pl:gen:n2:perf:aff		
+> zhakowawszy	zhakować	pant:perf		
+> zhakują	zhakować	fin:pl:ter:perf		
+> zhakujcie	zhakować	impt:pl:sec:perf		
+> zhakujecie	zhakować	fin:pl:sec:perf		
+> zhakujemy	zhakować	fin:pl:pri:perf		
+> zhakujesz	zhakować	fin:sg:sec:perf		
+> zhakuje	zhakować	fin:sg:ter:perf		
+> zhakuję	zhakować	fin:sg:pri:perf		
+> zhakujmy	zhakować	impt:pl:pri:perf		
+> zhakuj	zhakować	impt:sg:sec:perf		

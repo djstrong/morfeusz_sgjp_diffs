@@ -1,0 +1,200 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.01.28
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.02.04
+910554,910565c910554,910565
+< fusach	fus	subst:pl:loc:m3	nazwa pospolita	przest.
+< fusa	fus	subst:sg:gen:m3	nazwa pospolita	przest.
+< fusami	fus	subst:pl:inst:m3	nazwa pospolita	przest.
+< fusem	fus	subst:sg:inst:m3	nazwa pospolita	przest.
+< fus	fus	subst:sg:nom.acc:m3	nazwa pospolita	przest.
+< fusie	fus	subst:sg:loc:m3	nazwa pospolita	przest.
+< fusie	fus	subst:sg:voc:m3	nazwa pospolita	przest.
+< fusom	fus	subst:pl:dat:m3	nazwa pospolita	przest.
+< fusowi	fus	subst:sg:dat:m3	nazwa pospolita	przest.
+< fusów	fus	subst:pl:gen:m3	nazwa pospolita	przest.
+< fusu	fus	subst:sg:gen:m3	nazwa pospolita	przest.
+< fusy	fus	subst:pl:nom.acc.voc:m3	nazwa pospolita	przest.
+---
+> fusach	fus	subst:pl:loc:m3	nazwa pospolita	daw.
+> fusa	fus	subst:sg:gen:m3	nazwa pospolita	daw.
+> fusami	fus	subst:pl:inst:m3	nazwa pospolita	daw.
+> fusem	fus	subst:sg:inst:m3	nazwa pospolita	daw.
+> fus	fus	subst:sg:nom.acc:m3	nazwa pospolita	daw.
+> fusie	fus	subst:sg:loc:m3	nazwa pospolita	daw.
+> fusie	fus	subst:sg:voc:m3	nazwa pospolita	daw.
+> fusom	fus	subst:pl:dat:m3	nazwa pospolita	daw.
+> fusowi	fus	subst:sg:dat:m3	nazwa pospolita	daw.
+> fusów	fus	subst:pl:gen:m3	nazwa pospolita	daw.
+> fusu	fus	subst:sg:gen:m3	nazwa pospolita	daw.
+> fusy	fus	subst:pl:nom.acc.voc:m3	nazwa pospolita	daw.
+2675120,2675130c2675120,2675130
+< niemowlach	niemowla	subst:pl:loc:f	nazwa pospolita	
+< niemowlami	niemowla	subst:pl:inst:f	nazwa pospolita	
+< niemowla	niemowla	subst:sg:nom:f	nazwa pospolita	
+< niemowlą	niemowla	subst:sg:inst:f	nazwa pospolita	
+< niemowle	niemowla	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< niemowlę	niemowla	subst:sg:acc:f	nazwa pospolita	
+< niemowli	niemowla	subst:pl:gen:f	nazwa pospolita	
+< niemowli	niemowla	subst:sg:dat.loc:f	nazwa pospolita	
+< niemowli	niemowla	subst:sg:gen:f	nazwa pospolita	
+< niemowlom	niemowla	subst:pl:dat:f	nazwa pospolita	
+< niemowlo	niemowla	subst:sg:voc:f	nazwa pospolita	
+---
+> niemowlach	niemowla	subst:pl:loc:f	nazwa pospolita	rzad.
+> niemowlami	niemowla	subst:pl:inst:f	nazwa pospolita	rzad.
+> niemowla	niemowla	subst:sg:nom:f	nazwa pospolita	rzad.
+> niemowlą	niemowla	subst:sg:inst:f	nazwa pospolita	rzad.
+> niemowle	niemowla	subst:pl:nom.acc.voc:f	nazwa pospolita	rzad.
+> niemowlę	niemowla	subst:sg:acc:f	nazwa pospolita	rzad.
+> niemowli	niemowla	subst:pl:gen:f	nazwa pospolita	rzad.
+> niemowli	niemowla	subst:sg:dat.loc:f	nazwa pospolita	rzad.
+> niemowli	niemowla	subst:sg:gen:f	nazwa pospolita	rzad.
+> niemowlom	niemowla	subst:pl:dat:f	nazwa pospolita	rzad.
+> niemowlo	niemowla	subst:sg:voc:f	nazwa pospolita	rzad.
+3581298a3581299
+> odtamtąd	odtamtąd	adv		rzad.
+3668523,3668652d3668523
+< nieomożebniająca	omożebniać	pact:sg:nom.voc:f:imperf:neg		
+< nieomożebniającą	omożebniać	pact:sg:acc.inst:f:imperf:neg		
+< nieomożebniającego	omożebniać	pact:sg:acc:m1.m2:imperf:neg		
+< nieomożebniającego	omożebniać	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+< nieomożebniającej	omożebniać	pact:sg:gen.dat.loc:f:imperf:neg		
+< nieomożebniającemu	omożebniać	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+< nieomożebniające	omożebniać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+< nieomożebniające	omożebniać	pact:sg:nom.acc.voc:n:imperf:neg		
+< nieomożebniających	omożebniać	pact:pl:acc:m1:imperf:neg		
+< nieomożebniających	omożebniać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+< nieomożebniającymi	omożebniać	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+< nieomożebniającym	omożebniać	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+< nieomożebniającym	omożebniać	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+< nieomożebniający	omożebniać	pact:pl:nom.voc:m1:imperf:neg		
+< nieomożebniający	omożebniać	pact:sg:acc:m3:imperf:neg		
+< nieomożebniający	omożebniać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+< nieomożebniana	omożebniać	ppas:sg:nom.voc:f:imperf:neg		
+< nieomożebnianą	omożebniać	ppas:sg:acc.inst:f:imperf:neg		
+< nieomożebnianego	omożebniać	ppas:sg:acc:m1.m2:imperf:neg		
+< nieomożebnianego	omożebniać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+< nieomożebnianej	omożebniać	ppas:sg:gen.dat.loc:f:imperf:neg		
+< nieomożebnianemu	omożebniać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+< nieomożebniane	omożebniać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+< nieomożebniane	omożebniać	ppas:sg:nom.acc.voc:n:imperf:neg		
+< nieomożebnianiach	omożebniać	ger:pl:loc:n:imperf:neg		
+< nieomożebnianiami	omożebniać	ger:pl:inst:n:imperf:neg		
+< nieomożebniania	omożebniać	ger:pl:nom.acc:n:imperf:neg		
+< nieomożebniania	omożebniać	ger:sg:gen:n:imperf:neg		
+< nieomożebnianiem	omożebniać	ger:sg:inst:n:imperf:neg		
+< nieomożebnianie	omożebniać	ger:sg:nom.acc:n:imperf:neg		
+< nieomożebnianiom	omożebniać	ger:pl:dat:n:imperf:neg		
+< nieomożebniani	omożebniać	ppas:pl:nom.voc:m1:imperf:neg		
+< nieomożebnianiu	omożebniać	ger:sg:dat.loc:n:imperf:neg		
+< nieomożebnianych	omożebniać	ppas:pl:acc:m1:imperf:neg		
+< nieomożebnianych	omożebniać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+< nieomożebnianymi	omożebniać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+< nieomożebnianym	omożebniać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+< nieomożebnianym	omożebniać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+< nieomożebniany	omożebniać	ppas:sg:acc:m3:imperf:neg		
+< nieomożebniany	omożebniać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+< nieomożebniań	omożebniać	ger:pl:gen:n:imperf:neg		
+< omożebniacie	omożebniać	fin:pl:sec:imperf		
+< omożebniać	omożebniać	inf:imperf		
+< omożebniająca	omożebniać	pact:sg:nom.voc:f:imperf:aff		
+< omożebniającą	omożebniać	pact:sg:acc.inst:f:imperf:aff		
+< omożebniającego	omożebniać	pact:sg:acc:m1.m2:imperf:aff		
+< omożebniającego	omożebniać	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+< omożebniającej	omożebniać	pact:sg:gen.dat.loc:f:imperf:aff		
+< omożebniającemu	omożebniać	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+< omożebniające	omożebniać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+< omożebniające	omożebniać	pact:sg:nom.acc.voc:n:imperf:aff		
+< omożebniając	omożebniać	pcon:imperf		
+< omożebniająco	omożebniać	pacta		
+< omożebniających	omożebniać	pact:pl:acc:m1:imperf:aff		
+< omożebniających	omożebniać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+< omożebniającymi	omożebniać	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+< omożebniającym	omożebniać	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+< omożebniającym	omożebniać	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+< omożebniający	omożebniać	pact:pl:nom.voc:m1:imperf:aff		
+< omożebniający	omożebniać	pact:sg:acc:m3:imperf:aff		
+< omożebniający	omożebniać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+< omożebniają	omożebniać	fin:pl:ter:imperf		
+< omożebniajcie	omożebniać	impt:pl:sec:imperf		
+< omożebniajmy	omożebniać	impt:pl:pri:imperf		
+< omożebniaj	omożebniać	impt:sg:sec:imperf		
+< omożebnialiby	omożebniać	cond:pl:m1:ter:imperf		
+< omożebnialibyście	omożebniać	cond:pl:m1:sec:imperf		
+< omożebnialibyśmy	omożebniać	cond:pl:m1:pri:imperf		
+< omożebniali	omożebniać	praet:pl:m1:imperf		
+< omożebniali	omożebniać	praet:pl:m1:ter:imperf		
+< omożebnialiście	omożebniać	praet:pl:m1:sec:imperf		
+< omożebnialiśmy	omożebniać	praet:pl:m1:pri:imperf		
+< omożebniałabym	omożebniać	cond:sg:f:pri:imperf		
+< omożebniałaby	omożebniać	cond:sg:f:ter:imperf		
+< omożebniałabyś	omożebniać	cond:sg:f:sec:imperf		
+< omożebniałam	omożebniać	praet:sg:f:pri:imperf		
+< omożebniała	omożebniać	praet:sg:f:imperf		
+< omożebniała	omożebniać	praet:sg:f:ter:imperf		
+< omożebniałaś	omożebniać	praet:sg:f:sec:imperf		
+< omożebniałbym	omożebniać	cond:sg:m1.m2.m3:pri:imperf		
+< omożebniałby	omożebniać	cond:sg:m1.m2.m3:ter:imperf		
+< omożebniałbyś	omożebniać	cond:sg:m1.m2.m3:sec:imperf		
+< omożebniałem	omożebniać	praet:sg:m1.m2.m3:pri:imperf		
+< omożebniałeś	omożebniać	praet:sg:m1.m2.m3:sec:imperf		
+< omożebniałobym	omożebniać	cond:sg:n:pri:imperf		
+< omożebniałoby	omożebniać	cond:sg:n:ter:imperf		
+< omożebniałobyś	omożebniać	cond:sg:n:sec:imperf		
+< omożebniałom	omożebniać	praet:sg:n:pri:imperf		
+< omożebniał	omożebniać	praet:sg:m1.m2.m3:imperf		
+< omożebniał	omożebniać	praet:sg:m1.m2.m3:ter:imperf		
+< omożebniało	omożebniać	praet:sg:n:imperf		
+< omożebniało	omożebniać	praet:sg:n:ter:imperf		
+< omożebniałoś	omożebniać	praet:sg:n:sec:imperf		
+< omożebniałyby	omożebniać	cond:pl:m2.m3.f.n:ter:imperf		
+< omożebniałybyście	omożebniać	cond:pl:m2.m3.f.n:sec:imperf		
+< omożebniałybyśmy	omożebniać	cond:pl:m2.m3.f.n:pri:imperf		
+< omożebniały	omożebniać	praet:pl:m2.m3.f.n:imperf		
+< omożebniały	omożebniać	praet:pl:m2.m3.f.n:ter:imperf		
+< omożebniałyście	omożebniać	praet:pl:m2.m3.f.n:sec:imperf		
+< omożebniałyśmy	omożebniać	praet:pl:m2.m3.f.n:pri:imperf		
+< omożebniam	omożebniać	fin:sg:pri:imperf		
+< omożebniamy	omożebniać	fin:pl:pri:imperf		
+< omożebniana	omożebniać	ppas:sg:nom.voc:f:imperf:aff		
+< omożebnianą	omożebniać	ppas:sg:acc.inst:f:imperf:aff		
+< omożebnianego	omożebniać	ppas:sg:acc:m1.m2:imperf:aff		
+< omożebnianego	omożebniać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+< omożebnianej	omożebniać	ppas:sg:gen.dat.loc:f:imperf:aff		
+< omożebnianemu	omożebniać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+< omożebniane	omożebniać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+< omożebniane	omożebniać	ppas:sg:nom.acc.voc:n:imperf:aff		
+< omożebnianiach	omożebniać	ger:pl:loc:n:imperf:aff		
+< omożebnianiami	omożebniać	ger:pl:inst:n:imperf:aff		
+< omożebniania	omożebniać	ger:pl:nom.acc:n:imperf:aff		
+< omożebniania	omożebniać	ger:sg:gen:n:imperf:aff		
+< omożebnianiem	omożebniać	ger:sg:inst:n:imperf:aff		
+< omożebnianie	omożebniać	ger:sg:nom.acc:n:imperf:aff		
+< omożebnianiom	omożebniać	ger:pl:dat:n:imperf:aff		
+< omożebniani	omożebniać	ppas:pl:nom.voc:m1:imperf:aff		
+< omożebnianiu	omożebniać	ger:sg:dat.loc:n:imperf:aff		
+< omożebniano	omożebniać	imps:imperf		
+< omożebnianych	omożebniać	ppas:pl:acc:m1:imperf:aff		
+< omożebnianych	omożebniać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+< omożebnianymi	omożebniać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+< omożebnianym	omożebniać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+< omożebnianym	omożebniać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+< omożebniany	omożebniać	ppas:sg:acc:m3:imperf:aff		
+< omożebniany	omożebniać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+< omożebniań	omożebniać	ger:pl:gen:n:imperf:aff		
+< omożebnia	omożebniać	fin:sg:ter:imperf		
+< omożebniasz	omożebniać	fin:sg:sec:imperf		
+5424106c5423977
+< sprawozdają	sprawozdać	fin:pl:ter:perf		środ.
+---
+> sprawozdadzą	sprawozdać	fin:pl:ter:perf		środ.
+5728702a5728574,5728576
+> telewizornii	telewizornia	subst:pl:gen:f	nazwa pospolita	pot.
+> telewizornii	telewizornia	subst:sg:dat.loc:f	nazwa pospolita	pot.
+> telewizornii	telewizornia	subst:sg:gen:f	nazwa pospolita	pot.
+5728705,5728708d5728578
+< telewizorni	telewizornia	subst:pl:gen:f	nazwa pospolita	hom.|pot.
+< telewizorni	telewizornia	subst:sg:dat.loc:f	nazwa pospolita	pot.
+< telewizorni	telewizornia	subst:sg:gen:f	nazwa pospolita	pot.
+< telewizorń	telewizornia	subst:pl:gen:f	nazwa pospolita	char.|pot.

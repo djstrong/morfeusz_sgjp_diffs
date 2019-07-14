@@ -1,0 +1,777 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.12.03
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.12.10
+452061d452060
+< dn	dnia	brev:pun		
+573804,573814c573803,573813
+< dubnach	dubn	subst:pl:loc:m3	nazwa pospolita	
+< dubnami	dubn	subst:pl:inst:m3	nazwa pospolita	
+< dubn	dubn	subst:sg:nom.acc:m3	nazwa pospolita	
+< dubnem	dubn	subst:sg:inst:m3	nazwa pospolita	
+< dubnie	dubn	subst:sg:loc:m3	nazwa pospolita	
+< dubnie	dubn	subst:sg:voc:m3	nazwa pospolita	
+< dubnom	dubn	subst:pl:dat:m3	nazwa pospolita	
+< dubnowi	dubn	subst:sg:dat:m3	nazwa pospolita	
+< dubnów	dubn	subst:pl:gen:m3	nazwa pospolita	
+< dubnu	dubn	subst:sg:gen:m3	nazwa pospolita	
+< dubny	dubn	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+---
+> dubnach	dubn	subst:pl:loc:m3	nazwa pospolita	chem.
+> dubnami	dubn	subst:pl:inst:m3	nazwa pospolita	chem.
+> dubn	dubn	subst:sg:nom.acc:m3	nazwa pospolita	chem.
+> dubnem	dubn	subst:sg:inst:m3	nazwa pospolita	chem.
+> dubnie	dubn	subst:sg:loc:m3	nazwa pospolita	chem.
+> dubnie	dubn	subst:sg:voc:m3	nazwa pospolita	chem.
+> dubnom	dubn	subst:pl:dat:m3	nazwa pospolita	chem.
+> dubnowi	dubn	subst:sg:dat:m3	nazwa pospolita	chem.
+> dubnów	dubn	subst:pl:gen:m3	nazwa pospolita	chem.
+> dubnu	dubn	subst:sg:gen:m3	nazwa pospolita	chem.
+> dubny	dubn	subst:pl:nom.acc.voc:m3	nazwa pospolita	chem.
+615564a615564
+> dn	dzień	brev:pun		
+685004a685005
+> falafelach	falafel	subst:pl:loc:m2	nazwa pospolita	kulin.|pot.
+685005a685007
+> falafela	falafel	subst:sg:gen.acc:m2	nazwa pospolita	kulin.|pot.
+685006a685009
+> falafelami	falafel	subst:pl:inst:m2	nazwa pospolita	kulin.|pot.
+685007a685011
+> falafele	falafel	subst:pl:nom.acc.voc:m2	nazwa pospolita	kulin.|pot.
+685008a685013
+> falafelem	falafel	subst:sg:inst:m2	nazwa pospolita	kulin.|pot.
+685012a685018
+> falafelom	falafel	subst:pl:dat:m2	nazwa pospolita	kulin.|pot.
+685013a685020
+> falafelowi	falafel	subst:sg:dat:m2	nazwa pospolita	kulin.|pot.
+685014a685022,685023
+> falafelów	falafel	subst:pl:gen:m2	nazwa pospolita	kulin.|pot.
+> falafelu	falafel	subst:sg:loc:m2	nazwa pospolita	kulin.|pot.
+685015a685025
+> falafelu	falafel	subst:sg:voc:m2	nazwa pospolita	kulin.|pot.
+685017,685026d685026
+< falaflach	falafel	subst:pl:loc:m2	nazwa pospolita	kulin.|pot.
+< falafla	falafel	subst:sg:gen.acc:m2	nazwa pospolita	kulin.|pot.
+< falaflami	falafel	subst:pl:inst:m2	nazwa pospolita	kulin.|pot.
+< falafle	falafel	subst:pl:nom.acc.voc:m2	nazwa pospolita	kulin.|pot.
+< falaflem	falafel	subst:sg:inst:m2	nazwa pospolita	kulin.|pot.
+< falaflom	falafel	subst:pl:dat:m2	nazwa pospolita	kulin.|pot.
+< falaflowi	falafel	subst:sg:dat:m2	nazwa pospolita	kulin.|pot.
+< falaflów	falafel	subst:pl:gen:m2	nazwa pospolita	kulin.|pot.
+< falaflu	falafel	subst:sg:loc:m2	nazwa pospolita	kulin.|pot.
+< falaflu	falafel	subst:sg:voc:m2	nazwa pospolita	kulin.|pot.
+2937069a2937070,2937116
+> obpielą	obpielić	fin:pl:ter:perf		rzad.
+> obpielcie	obpielić	impt:pl:sec:perf		rzad.
+> obpielę	obpielić	fin:sg:pri:perf		rzad.
+> obpielicie	obpielić	fin:pl:sec:perf		rzad.
+> obpielić	obpielić	inf:perf		rzad.
+> obpieliliby	obpielić	cond:pl:m1:ter:perf		rzad.
+> obpielilibyście	obpielić	cond:pl:m1:sec:perf		rzad.
+> obpielilibyśmy	obpielić	cond:pl:m1:pri:perf		rzad.
+> obpielili	obpielić	praet:pl:m1:perf		rzad.
+> obpielili	obpielić	praet:pl:m1:ter:perf		rzad.
+> obpieliliście	obpielić	praet:pl:m1:sec:perf		rzad.
+> obpieliliśmy	obpielić	praet:pl:m1:pri:perf		rzad.
+> obpieliłabym	obpielić	cond:sg:f:pri:perf		rzad.
+> obpieliłaby	obpielić	cond:sg:f:ter:perf		rzad.
+> obpieliłabyś	obpielić	cond:sg:f:sec:perf		rzad.
+> obpieliłam	obpielić	praet:sg:f:pri:perf		rzad.
+> obpieliła	obpielić	praet:sg:f:perf		rzad.
+> obpieliła	obpielić	praet:sg:f:ter:perf		rzad.
+> obpieliłaś	obpielić	praet:sg:f:sec:perf		rzad.
+> obpieliłbym	obpielić	cond:sg:m1.m2.m3:pri:perf		rzad.
+> obpieliłby	obpielić	cond:sg:m1.m2.m3:ter:perf		rzad.
+> obpieliłbyś	obpielić	cond:sg:m1.m2.m3:sec:perf		rzad.
+> obpieliłem	obpielić	praet:sg:m1.m2.m3:pri:perf		rzad.
+> obpieliłeś	obpielić	praet:sg:m1.m2.m3:sec:perf		rzad.
+> obpielił	obpielić	praet:sg:m1.m2.m3:perf		rzad.
+> obpielił	obpielić	praet:sg:m1.m2.m3:ter:perf		rzad.
+> obpieliłobym	obpielić	cond:sg:n:pri:perf		rzad.
+> obpieliłoby	obpielić	cond:sg:n:ter:perf		rzad.
+> obpieliłobyś	obpielić	cond:sg:n:sec:perf		rzad.
+> obpieliłom	obpielić	praet:sg:n:pri:perf		rzad.
+> obpieliło	obpielić	praet:sg:n:perf		rzad.
+> obpieliło	obpielić	praet:sg:n:ter:perf		rzad.
+> obpieliłoś	obpielić	praet:sg:n:sec:perf		rzad.
+> obpieliłyby	obpielić	cond:pl:m2.m3.f.n:ter:perf		rzad.
+> obpieliłybyście	obpielić	cond:pl:m2.m3.f.n:sec:perf		rzad.
+> obpieliłybyśmy	obpielić	cond:pl:m2.m3.f.n:pri:perf		rzad.
+> obpieliły	obpielić	praet:pl:m2.m3.f.n:perf		rzad.
+> obpieliły	obpielić	praet:pl:m2.m3.f.n:ter:perf		rzad.
+> obpieliłyście	obpielić	praet:pl:m2.m3.f.n:sec:perf		rzad.
+> obpieliłyśmy	obpielić	praet:pl:m2.m3.f.n:pri:perf		rzad.
+> obpielimy	obpielić	fin:pl:pri:perf		rzad.
+> obpieli	obpielić	fin:sg:ter:perf		rzad.
+> obpielisz	obpielić	fin:sg:sec:perf		rzad.
+> obpieliwszy	obpielić	pant:perf		rzad.
+> obpielmy	obpielić	impt:pl:pri:perf		rzad.
+> obpiel	obpielić	impt:sg:sec:perf		rzad.
+> obpielono	obpielić	imps:perf		rzad.
+3538245a3538293,3538339
+> podpielą	podpielić	fin:pl:ter:perf		rzad.
+> podpielcie	podpielić	impt:pl:sec:perf		rzad.
+> podpielę	podpielić	fin:sg:pri:perf		rzad.
+> podpielicie	podpielić	fin:pl:sec:perf		rzad.
+> podpielić	podpielić	inf:perf		rzad.
+> podpieliliby	podpielić	cond:pl:m1:ter:perf		rzad.
+> podpielilibyście	podpielić	cond:pl:m1:sec:perf		rzad.
+> podpielilibyśmy	podpielić	cond:pl:m1:pri:perf		rzad.
+> podpielili	podpielić	praet:pl:m1:perf		rzad.
+> podpielili	podpielić	praet:pl:m1:ter:perf		rzad.
+> podpieliliście	podpielić	praet:pl:m1:sec:perf		rzad.
+> podpieliliśmy	podpielić	praet:pl:m1:pri:perf		rzad.
+> podpieliłabym	podpielić	cond:sg:f:pri:perf		rzad.
+> podpieliłaby	podpielić	cond:sg:f:ter:perf		rzad.
+> podpieliłabyś	podpielić	cond:sg:f:sec:perf		rzad.
+> podpieliłam	podpielić	praet:sg:f:pri:perf		rzad.
+> podpieliła	podpielić	praet:sg:f:perf		rzad.
+> podpieliła	podpielić	praet:sg:f:ter:perf		rzad.
+> podpieliłaś	podpielić	praet:sg:f:sec:perf		rzad.
+> podpieliłbym	podpielić	cond:sg:m1.m2.m3:pri:perf		rzad.
+> podpieliłby	podpielić	cond:sg:m1.m2.m3:ter:perf		rzad.
+> podpieliłbyś	podpielić	cond:sg:m1.m2.m3:sec:perf		rzad.
+> podpieliłem	podpielić	praet:sg:m1.m2.m3:pri:perf		rzad.
+> podpieliłeś	podpielić	praet:sg:m1.m2.m3:sec:perf		rzad.
+> podpieliłobym	podpielić	cond:sg:n:pri:perf		rzad.
+> podpieliłoby	podpielić	cond:sg:n:ter:perf		rzad.
+> podpieliłobyś	podpielić	cond:sg:n:sec:perf		rzad.
+> podpieliłom	podpielić	praet:sg:n:pri:perf		rzad.
+> podpieliło	podpielić	praet:sg:n:perf		rzad.
+> podpieliło	podpielić	praet:sg:n:ter:perf		rzad.
+> podpieliłoś	podpielić	praet:sg:n:sec:perf		rzad.
+> podpielił	podpielić	praet:sg:m1.m2.m3:perf		rzad.
+> podpielił	podpielić	praet:sg:m1.m2.m3:ter:perf		rzad.
+> podpieliłyby	podpielić	cond:pl:m2.m3.f.n:ter:perf		rzad.
+> podpieliłybyście	podpielić	cond:pl:m2.m3.f.n:sec:perf		rzad.
+> podpieliłybyśmy	podpielić	cond:pl:m2.m3.f.n:pri:perf		rzad.
+> podpieliły	podpielić	praet:pl:m2.m3.f.n:perf		rzad.
+> podpieliły	podpielić	praet:pl:m2.m3.f.n:ter:perf		rzad.
+> podpieliłyście	podpielić	praet:pl:m2.m3.f.n:sec:perf		rzad.
+> podpieliłyśmy	podpielić	praet:pl:m2.m3.f.n:pri:perf		rzad.
+> podpielimy	podpielić	fin:pl:pri:perf		rzad.
+> podpieli	podpielić	fin:sg:ter:perf		rzad.
+> podpielisz	podpielić	fin:sg:sec:perf		rzad.
+> podpieliwszy	podpielić	pant:perf		rzad.
+> podpielmy	podpielić	impt:pl:pri:perf		rzad.
+> podpielono	podpielić	imps:perf		rzad.
+> podpiel	podpielić	impt:sg:sec:perf		rzad.
+3937504a3937599,3937609
+> protistach	protist	subst:pl:loc:m2	nazwa pospolita	biol.
+> protistami	protist	subst:pl:inst:m2	nazwa pospolita	biol.
+> protista	protist	subst:sg:gen.acc:m2	nazwa pospolita	biol.
+> protistem	protist	subst:sg:inst:m2	nazwa pospolita	biol.
+> protistom	protist	subst:pl:dat:m2	nazwa pospolita	biol.
+> protistowi	protist	subst:sg:dat:m2	nazwa pospolita	biol.
+> protistów	protist	subst:pl:gen:m2	nazwa pospolita	biol.
+> protist	protist	subst:sg:nom:m2	nazwa pospolita	biol.
+> protisty	protist	subst:pl:nom.acc.voc:m2	nazwa pospolita	biol.
+> protiście	protist	subst:sg:loc:m2	nazwa pospolita	biol.
+> protiście	protist	subst:sg:voc:m2	nazwa pospolita	biol.
+4150144,4150469c4150249,4150475
+< nieprzychrzaniająca	przychrzaniać:v1	pact:sg:nom.voc:f:imperf:neg		
+< nieprzychrzaniającą	przychrzaniać:v1	pact:sg:acc.inst:f:imperf:neg		
+< nieprzychrzaniającego	przychrzaniać:v1	pact:sg:acc:m1.m2:imperf:neg		
+< nieprzychrzaniającego	przychrzaniać:v1	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+< nieprzychrzaniającej	przychrzaniać:v1	pact:sg:gen.dat.loc:f:imperf:neg		
+< nieprzychrzaniającemu	przychrzaniać:v1	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+< nieprzychrzaniające	przychrzaniać:v1	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+< nieprzychrzaniające	przychrzaniać:v1	pact:sg:nom.acc.voc:n:imperf:neg		
+< nieprzychrzaniających	przychrzaniać:v1	pact:pl:acc:m1:imperf:neg		
+< nieprzychrzaniających	przychrzaniać:v1	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+< nieprzychrzaniającymi	przychrzaniać:v1	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+< nieprzychrzaniającym	przychrzaniać:v1	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+< nieprzychrzaniającym	przychrzaniać:v1	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+< nieprzychrzaniający	przychrzaniać:v1	pact:pl:nom.voc:m1:imperf:neg		
+< nieprzychrzaniający	przychrzaniać:v1	pact:sg:acc:m3:imperf:neg		
+< nieprzychrzaniający	przychrzaniać:v1	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+< nieprzychrzanianiach	przychrzaniać:v1	ger:pl:loc:n:imperf:neg		
+< nieprzychrzanianiami	przychrzaniać:v1	ger:pl:inst:n:imperf:neg		
+< nieprzychrzaniania	przychrzaniać:v1	ger:pl:nom.acc:n:imperf:neg		
+< nieprzychrzaniania	przychrzaniać:v1	ger:sg:gen:n:imperf:neg		
+< nieprzychrzanianiem	przychrzaniać:v1	ger:sg:inst:n:imperf:neg		
+< nieprzychrzanianie	przychrzaniać:v1	ger:sg:nom.acc:n:imperf:neg		
+< nieprzychrzanianiom	przychrzaniać:v1	ger:pl:dat:n:imperf:neg		
+< nieprzychrzanianiu	przychrzaniać:v1	ger:sg:dat.loc:n:imperf:neg		
+< nieprzychrzaniań	przychrzaniać:v1	ger:pl:gen:n:imperf:neg		
+< przychrzaniacie	przychrzaniać:v1	fin:pl:sec:imperf		pot.
+< przychrzaniać	przychrzaniać:v1	inf:imperf		pot.
+< przychrzaniająca	przychrzaniać:v1	pact:sg:nom.voc:f:imperf:aff		
+< przychrzaniającą	przychrzaniać:v1	pact:sg:acc.inst:f:imperf:aff		
+< przychrzaniającego	przychrzaniać:v1	pact:sg:acc:m1.m2:imperf:aff		
+< przychrzaniającego	przychrzaniać:v1	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+< przychrzaniającej	przychrzaniać:v1	pact:sg:gen.dat.loc:f:imperf:aff		
+< przychrzaniającemu	przychrzaniać:v1	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+< przychrzaniające	przychrzaniać:v1	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+< przychrzaniające	przychrzaniać:v1	pact:sg:nom.acc.voc:n:imperf:aff		
+< przychrzaniająco	przychrzaniać:v1	pacta		
+< przychrzaniając	przychrzaniać:v1	pcon:imperf		pot.
+< przychrzaniających	przychrzaniać:v1	pact:pl:acc:m1:imperf:aff		
+< przychrzaniających	przychrzaniać:v1	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+< przychrzaniającymi	przychrzaniać:v1	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+< przychrzaniającym	przychrzaniać:v1	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+< przychrzaniającym	przychrzaniać:v1	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+< przychrzaniający	przychrzaniać:v1	pact:pl:nom.voc:m1:imperf:aff		
+< przychrzaniający	przychrzaniać:v1	pact:sg:acc:m3:imperf:aff		
+< przychrzaniający	przychrzaniać:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+< przychrzaniają	przychrzaniać:v1	fin:pl:ter:imperf		pot.
+< przychrzaniajcie	przychrzaniać:v1	impt:pl:sec:imperf		pot.
+< przychrzaniajmy	przychrzaniać:v1	impt:pl:pri:imperf		pot.
+< przychrzaniaj	przychrzaniać:v1	impt:sg:sec:imperf		pot.
+< przychrzanialiby	przychrzaniać:v1	cond:pl:m1:ter:imperf		pot.
+< przychrzanialibyście	przychrzaniać:v1	cond:pl:m1:sec:imperf		pot.
+< przychrzanialibyśmy	przychrzaniać:v1	cond:pl:m1:pri:imperf		pot.
+< przychrzaniali	przychrzaniać:v1	praet:pl:m1:imperf		pot.
+< przychrzaniali	przychrzaniać:v1	praet:pl:m1:ter:imperf		pot.
+< przychrzanialiście	przychrzaniać:v1	praet:pl:m1:sec:imperf		pot.
+< przychrzanialiśmy	przychrzaniać:v1	praet:pl:m1:pri:imperf		pot.
+< przychrzaniałabym	przychrzaniać:v1	cond:sg:f:pri:imperf		pot.
+< przychrzaniałaby	przychrzaniać:v1	cond:sg:f:ter:imperf		pot.
+< przychrzaniałabyś	przychrzaniać:v1	cond:sg:f:sec:imperf		pot.
+< przychrzaniałam	przychrzaniać:v1	praet:sg:f:pri:imperf		pot.
+< przychrzaniała	przychrzaniać:v1	praet:sg:f:imperf		pot.
+< przychrzaniała	przychrzaniać:v1	praet:sg:f:ter:imperf		pot.
+< przychrzaniałaś	przychrzaniać:v1	praet:sg:f:sec:imperf		pot.
+< przychrzaniałbym	przychrzaniać:v1	cond:sg:m1.m2.m3:pri:imperf		pot.
+< przychrzaniałby	przychrzaniać:v1	cond:sg:m1.m2.m3:ter:imperf		pot.
+< przychrzaniałbyś	przychrzaniać:v1	cond:sg:m1.m2.m3:sec:imperf		pot.
+< przychrzaniałem	przychrzaniać:v1	praet:sg:m1.m2.m3:pri:imperf		pot.
+< przychrzaniałeś	przychrzaniać:v1	praet:sg:m1.m2.m3:sec:imperf		pot.
+< przychrzaniałobym	przychrzaniać:v1	cond:sg:n:pri:imperf		pot.
+< przychrzaniałoby	przychrzaniać:v1	cond:sg:n:ter:imperf		pot.
+< przychrzaniałobyś	przychrzaniać:v1	cond:sg:n:sec:imperf		pot.
+< przychrzaniałom	przychrzaniać:v1	praet:sg:n:pri:imperf		pot.
+< przychrzaniało	przychrzaniać:v1	praet:sg:n:imperf		pot.
+< przychrzaniało	przychrzaniać:v1	praet:sg:n:ter:imperf		pot.
+< przychrzaniałoś	przychrzaniać:v1	praet:sg:n:sec:imperf		pot.
+< przychrzaniał	przychrzaniać:v1	praet:sg:m1.m2.m3:imperf		pot.
+< przychrzaniał	przychrzaniać:v1	praet:sg:m1.m2.m3:ter:imperf		pot.
+< przychrzaniałyby	przychrzaniać:v1	cond:pl:m2.m3.f.n:ter:imperf		pot.
+< przychrzaniałybyście	przychrzaniać:v1	cond:pl:m2.m3.f.n:sec:imperf		pot.
+< przychrzaniałybyśmy	przychrzaniać:v1	cond:pl:m2.m3.f.n:pri:imperf		pot.
+< przychrzaniały	przychrzaniać:v1	praet:pl:m2.m3.f.n:imperf		pot.
+< przychrzaniały	przychrzaniać:v1	praet:pl:m2.m3.f.n:ter:imperf		pot.
+< przychrzaniałyście	przychrzaniać:v1	praet:pl:m2.m3.f.n:sec:imperf		pot.
+< przychrzaniałyśmy	przychrzaniać:v1	praet:pl:m2.m3.f.n:pri:imperf		pot.
+< przychrzaniam	przychrzaniać:v1	fin:sg:pri:imperf		pot.
+< przychrzaniamy	przychrzaniać:v1	fin:pl:pri:imperf		pot.
+< przychrzanianiach	przychrzaniać:v1	ger:pl:loc:n:imperf:aff		
+< przychrzanianiami	przychrzaniać:v1	ger:pl:inst:n:imperf:aff		
+< przychrzaniania	przychrzaniać:v1	ger:pl:nom.acc:n:imperf:aff		
+< przychrzaniania	przychrzaniać:v1	ger:sg:gen:n:imperf:aff		
+< przychrzanianiem	przychrzaniać:v1	ger:sg:inst:n:imperf:aff		
+< przychrzanianie	przychrzaniać:v1	ger:sg:nom.acc:n:imperf:aff		
+< przychrzanianiom	przychrzaniać:v1	ger:pl:dat:n:imperf:aff		
+< przychrzanianiu	przychrzaniać:v1	ger:sg:dat.loc:n:imperf:aff		
+< przychrzaniano	przychrzaniać:v1	imps:imperf		pot.
+< przychrzaniań	przychrzaniać:v1	ger:pl:gen:n:imperf:aff		
+< przychrzania	przychrzaniać:v1	fin:sg:ter:imperf		pot.
+< przychrzaniasz	przychrzaniać:v1	fin:sg:sec:imperf		pot.
+< nieprzychrzaniająca	przychrzaniać:v2	pact:sg:nom.voc:f:imperf:neg		
+< nieprzychrzaniającą	przychrzaniać:v2	pact:sg:acc.inst:f:imperf:neg		
+< nieprzychrzaniającego	przychrzaniać:v2	pact:sg:acc:m1.m2:imperf:neg		
+< nieprzychrzaniającego	przychrzaniać:v2	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+< nieprzychrzaniającej	przychrzaniać:v2	pact:sg:gen.dat.loc:f:imperf:neg		
+< nieprzychrzaniającemu	przychrzaniać:v2	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+< nieprzychrzaniające	przychrzaniać:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+< nieprzychrzaniające	przychrzaniać:v2	pact:sg:nom.acc.voc:n:imperf:neg		
+< nieprzychrzaniających	przychrzaniać:v2	pact:pl:acc:m1:imperf:neg		
+< nieprzychrzaniających	przychrzaniać:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+< nieprzychrzaniającymi	przychrzaniać:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+< nieprzychrzaniającym	przychrzaniać:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+< nieprzychrzaniającym	przychrzaniać:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+< nieprzychrzaniający	przychrzaniać:v2	pact:pl:nom.voc:m1:imperf:neg		
+< nieprzychrzaniający	przychrzaniać:v2	pact:sg:acc:m3:imperf:neg		
+< nieprzychrzaniający	przychrzaniać:v2	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+< nieprzychrzanianiach	przychrzaniać:v2	ger:pl:loc:n:imperf:neg		
+< nieprzychrzanianiami	przychrzaniać:v2	ger:pl:inst:n:imperf:neg		
+< nieprzychrzaniania	przychrzaniać:v2	ger:pl:nom.acc:n:imperf:neg		
+< nieprzychrzaniania	przychrzaniać:v2	ger:sg:gen:n:imperf:neg		
+< nieprzychrzanianiem	przychrzaniać:v2	ger:sg:inst:n:imperf:neg		
+< nieprzychrzanianie	przychrzaniać:v2	ger:sg:nom.acc:n:imperf:neg		
+< nieprzychrzanianiom	przychrzaniać:v2	ger:pl:dat:n:imperf:neg		
+< nieprzychrzanianiu	przychrzaniać:v2	ger:sg:dat.loc:n:imperf:neg		
+< nieprzychrzaniań	przychrzaniać:v2	ger:pl:gen:n:imperf:neg		
+< przychrzaniacie	przychrzaniać:v2	fin:pl:sec:imperf		pot.
+< przychrzaniać	przychrzaniać:v2	inf:imperf		pot.
+< przychrzaniająca	przychrzaniać:v2	pact:sg:nom.voc:f:imperf:aff		
+< przychrzaniającą	przychrzaniać:v2	pact:sg:acc.inst:f:imperf:aff		
+< przychrzaniającego	przychrzaniać:v2	pact:sg:acc:m1.m2:imperf:aff		
+< przychrzaniającego	przychrzaniać:v2	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+< przychrzaniającej	przychrzaniać:v2	pact:sg:gen.dat.loc:f:imperf:aff		
+< przychrzaniającemu	przychrzaniać:v2	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+< przychrzaniające	przychrzaniać:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+< przychrzaniające	przychrzaniać:v2	pact:sg:nom.acc.voc:n:imperf:aff		
+< przychrzaniająco	przychrzaniać:v2	pacta		
+< przychrzaniając	przychrzaniać:v2	pcon:imperf		pot.
+< przychrzaniających	przychrzaniać:v2	pact:pl:acc:m1:imperf:aff		
+< przychrzaniających	przychrzaniać:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+< przychrzaniającymi	przychrzaniać:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+< przychrzaniającym	przychrzaniać:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+< przychrzaniającym	przychrzaniać:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+< przychrzaniający	przychrzaniać:v2	pact:pl:nom.voc:m1:imperf:aff		
+< przychrzaniający	przychrzaniać:v2	pact:sg:acc:m3:imperf:aff		
+< przychrzaniający	przychrzaniać:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+< przychrzaniają	przychrzaniać:v2	fin:pl:ter:imperf		pot.
+< przychrzaniajcie	przychrzaniać:v2	impt:pl:sec:imperf		pot.
+< przychrzaniajmy	przychrzaniać:v2	impt:pl:pri:imperf		pot.
+< przychrzaniaj	przychrzaniać:v2	impt:sg:sec:imperf		pot.
+< przychrzanialiby	przychrzaniać:v2	cond:pl:m1:ter:imperf		pot.
+< przychrzanialibyście	przychrzaniać:v2	cond:pl:m1:sec:imperf		pot.
+< przychrzanialibyśmy	przychrzaniać:v2	cond:pl:m1:pri:imperf		pot.
+< przychrzaniali	przychrzaniać:v2	praet:pl:m1:imperf		pot.
+< przychrzaniali	przychrzaniać:v2	praet:pl:m1:ter:imperf		pot.
+< przychrzanialiście	przychrzaniać:v2	praet:pl:m1:sec:imperf		pot.
+< przychrzanialiśmy	przychrzaniać:v2	praet:pl:m1:pri:imperf		pot.
+< przychrzaniałabym	przychrzaniać:v2	cond:sg:f:pri:imperf		pot.
+< przychrzaniałaby	przychrzaniać:v2	cond:sg:f:ter:imperf		pot.
+< przychrzaniałabyś	przychrzaniać:v2	cond:sg:f:sec:imperf		pot.
+< przychrzaniałam	przychrzaniać:v2	praet:sg:f:pri:imperf		pot.
+< przychrzaniała	przychrzaniać:v2	praet:sg:f:imperf		pot.
+< przychrzaniała	przychrzaniać:v2	praet:sg:f:ter:imperf		pot.
+< przychrzaniałaś	przychrzaniać:v2	praet:sg:f:sec:imperf		pot.
+< przychrzaniałbym	przychrzaniać:v2	cond:sg:m1.m2.m3:pri:imperf		pot.
+< przychrzaniałby	przychrzaniać:v2	cond:sg:m1.m2.m3:ter:imperf		pot.
+< przychrzaniałbyś	przychrzaniać:v2	cond:sg:m1.m2.m3:sec:imperf		pot.
+< przychrzaniałem	przychrzaniać:v2	praet:sg:m1.m2.m3:pri:imperf		pot.
+< przychrzaniałeś	przychrzaniać:v2	praet:sg:m1.m2.m3:sec:imperf		pot.
+< przychrzaniałobym	przychrzaniać:v2	cond:sg:n:pri:imperf		pot.
+< przychrzaniałoby	przychrzaniać:v2	cond:sg:n:ter:imperf		pot.
+< przychrzaniałobyś	przychrzaniać:v2	cond:sg:n:sec:imperf		pot.
+< przychrzaniałom	przychrzaniać:v2	praet:sg:n:pri:imperf		pot.
+< przychrzaniało	przychrzaniać:v2	praet:sg:n:imperf		pot.
+< przychrzaniało	przychrzaniać:v2	praet:sg:n:ter:imperf		pot.
+< przychrzaniałoś	przychrzaniać:v2	praet:sg:n:sec:imperf		pot.
+< przychrzaniał	przychrzaniać:v2	praet:sg:m1.m2.m3:imperf		pot.
+< przychrzaniał	przychrzaniać:v2	praet:sg:m1.m2.m3:ter:imperf		pot.
+< przychrzaniałyby	przychrzaniać:v2	cond:pl:m2.m3.f.n:ter:imperf		pot.
+< przychrzaniałybyście	przychrzaniać:v2	cond:pl:m2.m3.f.n:sec:imperf		pot.
+< przychrzaniałybyśmy	przychrzaniać:v2	cond:pl:m2.m3.f.n:pri:imperf		pot.
+< przychrzaniały	przychrzaniać:v2	praet:pl:m2.m3.f.n:imperf		pot.
+< przychrzaniały	przychrzaniać:v2	praet:pl:m2.m3.f.n:ter:imperf		pot.
+< przychrzaniałyście	przychrzaniać:v2	praet:pl:m2.m3.f.n:sec:imperf		pot.
+< przychrzaniałyśmy	przychrzaniać:v2	praet:pl:m2.m3.f.n:pri:imperf		pot.
+< przychrzaniam	przychrzaniać:v2	fin:sg:pri:imperf		pot.
+< przychrzaniamy	przychrzaniać:v2	fin:pl:pri:imperf		pot.
+< przychrzanianiach	przychrzaniać:v2	ger:pl:loc:n:imperf:aff		
+< przychrzanianiami	przychrzaniać:v2	ger:pl:inst:n:imperf:aff		
+< przychrzaniania	przychrzaniać:v2	ger:pl:nom.acc:n:imperf:aff		
+< przychrzaniania	przychrzaniać:v2	ger:sg:gen:n:imperf:aff		
+< przychrzanianiem	przychrzaniać:v2	ger:sg:inst:n:imperf:aff		
+< przychrzanianie	przychrzaniać:v2	ger:sg:nom.acc:n:imperf:aff		
+< przychrzanianiom	przychrzaniać:v2	ger:pl:dat:n:imperf:aff		
+< przychrzanianiu	przychrzaniać:v2	ger:sg:dat.loc:n:imperf:aff		
+< przychrzaniano	przychrzaniać:v2	imps:imperf		pot.
+< przychrzaniań	przychrzaniać:v2	ger:pl:gen:n:imperf:aff		
+< przychrzania	przychrzaniać:v2	fin:sg:ter:imperf		pot.
+< przychrzaniasz	przychrzaniać:v2	fin:sg:sec:imperf		pot.
+< nieprzychrzanieniach	przychrzanić:v1	ger:pl:loc:n:perf:neg		
+< nieprzychrzanieniami	przychrzanić:v1	ger:pl:inst:n:perf:neg		
+< nieprzychrzanienia	przychrzanić:v1	ger:pl:nom.acc:n:perf:neg		
+< nieprzychrzanienia	przychrzanić:v1	ger:sg:gen:n:perf:neg		
+< nieprzychrzanieniem	przychrzanić:v1	ger:sg:inst:n:perf:neg		
+< nieprzychrzanienie	przychrzanić:v1	ger:sg:nom.acc:n:perf:neg		
+< nieprzychrzanieniom	przychrzanić:v1	ger:pl:dat:n:perf:neg		
+< nieprzychrzanieniu	przychrzanić:v1	ger:sg:dat.loc:n:perf:neg		
+< nieprzychrzanień	przychrzanić:v1	ger:pl:gen:n:perf:neg		
+< przychrzanią	przychrzanić:v1	fin:pl:ter:perf		euf.
+< przychrzanicie	przychrzanić:v1	fin:pl:sec:perf		euf.
+< przychrzanić	przychrzanić:v1	inf:perf		euf.
+< przychrzanieniach	przychrzanić:v1	ger:pl:loc:n:perf:aff		
+< przychrzanieniami	przychrzanić:v1	ger:pl:inst:n:perf:aff		
+< przychrzanienia	przychrzanić:v1	ger:pl:nom.acc:n:perf:aff		
+< przychrzanienia	przychrzanić:v1	ger:sg:gen:n:perf:aff		
+< przychrzanieniem	przychrzanić:v1	ger:sg:inst:n:perf:aff		
+< przychrzanienie	przychrzanić:v1	ger:sg:nom.acc:n:perf:aff		
+< przychrzanieniom	przychrzanić:v1	ger:pl:dat:n:perf:aff		
+< przychrzanieniu	przychrzanić:v1	ger:sg:dat.loc:n:perf:aff		
+< przychrzanień	przychrzanić:v1	ger:pl:gen:n:perf:aff		
+< przychrzanię	przychrzanić:v1	fin:sg:pri:perf		euf.
+< przychrzaniliby	przychrzanić:v1	cond:pl:m1:ter:perf		euf.
+< przychrzanilibyście	przychrzanić:v1	cond:pl:m1:sec:perf		euf.
+< przychrzanilibyśmy	przychrzanić:v1	cond:pl:m1:pri:perf		euf.
+< przychrzanili	przychrzanić:v1	praet:pl:m1:perf		euf.
+< przychrzanili	przychrzanić:v1	praet:pl:m1:ter:perf		euf.
+< przychrzaniliście	przychrzanić:v1	praet:pl:m1:sec:perf		euf.
+< przychrzaniliśmy	przychrzanić:v1	praet:pl:m1:pri:perf		euf.
+< przychrzaniłabym	przychrzanić:v1	cond:sg:f:pri:perf		euf.
+< przychrzaniłaby	przychrzanić:v1	cond:sg:f:ter:perf		euf.
+< przychrzaniłabyś	przychrzanić:v1	cond:sg:f:sec:perf		euf.
+< przychrzaniłam	przychrzanić:v1	praet:sg:f:pri:perf		euf.
+< przychrzaniła	przychrzanić:v1	praet:sg:f:perf		euf.
+< przychrzaniła	przychrzanić:v1	praet:sg:f:ter:perf		euf.
+< przychrzaniłaś	przychrzanić:v1	praet:sg:f:sec:perf		euf.
+< przychrzaniłbym	przychrzanić:v1	cond:sg:m1.m2.m3:pri:perf		euf.
+< przychrzaniłby	przychrzanić:v1	cond:sg:m1.m2.m3:ter:perf		euf.
+< przychrzaniłbyś	przychrzanić:v1	cond:sg:m1.m2.m3:sec:perf		euf.
+< przychrzaniłem	przychrzanić:v1	praet:sg:m1.m2.m3:pri:perf		euf.
+< przychrzaniłeś	przychrzanić:v1	praet:sg:m1.m2.m3:sec:perf		euf.
+< przychrzaniłobym	przychrzanić:v1	cond:sg:n:pri:perf		euf.
+< przychrzaniłoby	przychrzanić:v1	cond:sg:n:ter:perf		euf.
+< przychrzaniłobyś	przychrzanić:v1	cond:sg:n:sec:perf		euf.
+< przychrzaniłom	przychrzanić:v1	praet:sg:n:pri:perf		euf.
+< przychrzaniło	przychrzanić:v1	praet:sg:n:perf		euf.
+< przychrzaniło	przychrzanić:v1	praet:sg:n:ter:perf		euf.
+< przychrzaniłoś	przychrzanić:v1	praet:sg:n:sec:perf		euf.
+< przychrzanił	przychrzanić:v1	praet:sg:m1.m2.m3:perf		euf.
+< przychrzanił	przychrzanić:v1	praet:sg:m1.m2.m3:ter:perf		euf.
+< przychrzaniłyby	przychrzanić:v1	cond:pl:m2.m3.f.n:ter:perf		euf.
+< przychrzaniłybyście	przychrzanić:v1	cond:pl:m2.m3.f.n:sec:perf		euf.
+< przychrzaniłybyśmy	przychrzanić:v1	cond:pl:m2.m3.f.n:pri:perf		euf.
+< przychrzaniły	przychrzanić:v1	praet:pl:m2.m3.f.n:perf		euf.
+< przychrzaniły	przychrzanić:v1	praet:pl:m2.m3.f.n:ter:perf		euf.
+< przychrzaniłyście	przychrzanić:v1	praet:pl:m2.m3.f.n:sec:perf		euf.
+< przychrzaniłyśmy	przychrzanić:v1	praet:pl:m2.m3.f.n:pri:perf		euf.
+< przychrzanimy	przychrzanić:v1	fin:pl:pri:perf		euf.
+< przychrzaniono	przychrzanić:v1	imps:perf		euf.
+< przychrzani	przychrzanić:v1	fin:sg:ter:perf		euf.
+< przychrzanisz	przychrzanić:v1	fin:sg:sec:perf		euf.
+< przychrzaniwszy	przychrzanić:v1	pant:perf		euf.
+< przychrzańcie	przychrzanić:v1	impt:pl:sec:perf		euf.
+< przychrzańmy	przychrzanić:v1	impt:pl:pri:perf		euf.
+< przychrzań	przychrzanić:v1	impt:sg:sec:perf		euf.
+< nieprzychrzanieniach	przychrzanić:v2	ger:pl:loc:n:perf:neg		
+< nieprzychrzanieniami	przychrzanić:v2	ger:pl:inst:n:perf:neg		
+< nieprzychrzanienia	przychrzanić:v2	ger:pl:nom.acc:n:perf:neg		
+< nieprzychrzanienia	przychrzanić:v2	ger:sg:gen:n:perf:neg		
+< nieprzychrzanieniem	przychrzanić:v2	ger:sg:inst:n:perf:neg		
+< nieprzychrzanienie	przychrzanić:v2	ger:sg:nom.acc:n:perf:neg		
+< nieprzychrzanieniom	przychrzanić:v2	ger:pl:dat:n:perf:neg		
+< nieprzychrzanieniu	przychrzanić:v2	ger:sg:dat.loc:n:perf:neg		
+< nieprzychrzanień	przychrzanić:v2	ger:pl:gen:n:perf:neg		
+< przychrzanią	przychrzanić:v2	fin:pl:ter:perf		pot.
+< przychrzanicie	przychrzanić:v2	fin:pl:sec:perf		pot.
+< przychrzanić	przychrzanić:v2	inf:perf		pot.
+< przychrzanieniach	przychrzanić:v2	ger:pl:loc:n:perf:aff		
+< przychrzanieniami	przychrzanić:v2	ger:pl:inst:n:perf:aff		
+< przychrzanienia	przychrzanić:v2	ger:pl:nom.acc:n:perf:aff		
+< przychrzanienia	przychrzanić:v2	ger:sg:gen:n:perf:aff		
+< przychrzanieniem	przychrzanić:v2	ger:sg:inst:n:perf:aff		
+< przychrzanienie	przychrzanić:v2	ger:sg:nom.acc:n:perf:aff		
+< przychrzanieniom	przychrzanić:v2	ger:pl:dat:n:perf:aff		
+< przychrzanieniu	przychrzanić:v2	ger:sg:dat.loc:n:perf:aff		
+< przychrzanień	przychrzanić:v2	ger:pl:gen:n:perf:aff		
+< przychrzanię	przychrzanić:v2	fin:sg:pri:perf		pot.
+< przychrzaniliby	przychrzanić:v2	cond:pl:m1:ter:perf		pot.
+< przychrzanilibyście	przychrzanić:v2	cond:pl:m1:sec:perf		pot.
+< przychrzanilibyśmy	przychrzanić:v2	cond:pl:m1:pri:perf		pot.
+< przychrzanili	przychrzanić:v2	praet:pl:m1:perf		pot.
+< przychrzanili	przychrzanić:v2	praet:pl:m1:ter:perf		pot.
+< przychrzaniliście	przychrzanić:v2	praet:pl:m1:sec:perf		pot.
+< przychrzaniliśmy	przychrzanić:v2	praet:pl:m1:pri:perf		pot.
+< przychrzaniłabym	przychrzanić:v2	cond:sg:f:pri:perf		pot.
+< przychrzaniłaby	przychrzanić:v2	cond:sg:f:ter:perf		pot.
+< przychrzaniłabyś	przychrzanić:v2	cond:sg:f:sec:perf		pot.
+< przychrzaniłam	przychrzanić:v2	praet:sg:f:pri:perf		pot.
+< przychrzaniła	przychrzanić:v2	praet:sg:f:perf		pot.
+< przychrzaniła	przychrzanić:v2	praet:sg:f:ter:perf		pot.
+< przychrzaniłaś	przychrzanić:v2	praet:sg:f:sec:perf		pot.
+< przychrzaniłbym	przychrzanić:v2	cond:sg:m1.m2.m3:pri:perf		pot.
+< przychrzaniłby	przychrzanić:v2	cond:sg:m1.m2.m3:ter:perf		pot.
+< przychrzaniłbyś	przychrzanić:v2	cond:sg:m1.m2.m3:sec:perf		pot.
+< przychrzaniłem	przychrzanić:v2	praet:sg:m1.m2.m3:pri:perf		pot.
+< przychrzaniłeś	przychrzanić:v2	praet:sg:m1.m2.m3:sec:perf		pot.
+< przychrzaniłobym	przychrzanić:v2	cond:sg:n:pri:perf		pot.
+< przychrzaniłoby	przychrzanić:v2	cond:sg:n:ter:perf		pot.
+< przychrzaniłobyś	przychrzanić:v2	cond:sg:n:sec:perf		pot.
+< przychrzaniłom	przychrzanić:v2	praet:sg:n:pri:perf		pot.
+< przychrzaniło	przychrzanić:v2	praet:sg:n:perf		pot.
+< przychrzaniło	przychrzanić:v2	praet:sg:n:ter:perf		pot.
+< przychrzaniłoś	przychrzanić:v2	praet:sg:n:sec:perf		pot.
+< przychrzanił	przychrzanić:v2	praet:sg:m1.m2.m3:perf		pot.
+< przychrzanił	przychrzanić:v2	praet:sg:m1.m2.m3:ter:perf		pot.
+< przychrzaniłyby	przychrzanić:v2	cond:pl:m2.m3.f.n:ter:perf		pot.
+< przychrzaniłybyście	przychrzanić:v2	cond:pl:m2.m3.f.n:sec:perf		pot.
+< przychrzaniłybyśmy	przychrzanić:v2	cond:pl:m2.m3.f.n:pri:perf		pot.
+< przychrzaniły	przychrzanić:v2	praet:pl:m2.m3.f.n:perf		pot.
+< przychrzaniły	przychrzanić:v2	praet:pl:m2.m3.f.n:ter:perf		pot.
+< przychrzaniłyście	przychrzanić:v2	praet:pl:m2.m3.f.n:sec:perf		pot.
+< przychrzaniłyśmy	przychrzanić:v2	praet:pl:m2.m3.f.n:pri:perf		pot.
+< przychrzanimy	przychrzanić:v2	fin:pl:pri:perf		pot.
+< przychrzaniono	przychrzanić:v2	imps:perf		pot.
+< przychrzani	przychrzanić:v2	fin:sg:ter:perf		pot.
+< przychrzanisz	przychrzanić:v2	fin:sg:sec:perf		pot.
+< przychrzaniwszy	przychrzanić:v2	pant:perf		pot.
+< przychrzańcie	przychrzanić:v2	impt:pl:sec:perf		pot.
+< przychrzańmy	przychrzanić:v2	impt:pl:pri:perf		pot.
+< przychrzań	przychrzanić:v2	impt:sg:sec:perf		pot.
+---
+> nieprzychrzaniająca	przychrzaniać	pact:sg:nom.voc:f:imperf:neg		
+> nieprzychrzaniającą	przychrzaniać	pact:sg:acc.inst:f:imperf:neg		
+> nieprzychrzaniającego	przychrzaniać	pact:sg:acc:m1.m2:imperf:neg		
+> nieprzychrzaniającego	przychrzaniać	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieprzychrzaniającej	przychrzaniać	pact:sg:gen.dat.loc:f:imperf:neg		
+> nieprzychrzaniającemu	przychrzaniać	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieprzychrzaniające	przychrzaniać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieprzychrzaniające	przychrzaniać	pact:sg:nom.acc.voc:n:imperf:neg		
+> nieprzychrzaniających	przychrzaniać	pact:pl:acc:m1:imperf:neg		
+> nieprzychrzaniających	przychrzaniać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieprzychrzaniającymi	przychrzaniać	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieprzychrzaniającym	przychrzaniać	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieprzychrzaniającym	przychrzaniać	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieprzychrzaniający	przychrzaniać	pact:pl:nom.voc:m1:imperf:neg		
+> nieprzychrzaniający	przychrzaniać	pact:sg:acc:m3:imperf:neg		
+> nieprzychrzaniający	przychrzaniać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieprzychrzaniana	przychrzaniać	ppas:sg:nom.voc:f:imperf:neg		pot.
+> nieprzychrzanianą	przychrzaniać	ppas:sg:acc.inst:f:imperf:neg		pot.
+> nieprzychrzanianego	przychrzaniać	ppas:sg:acc:m1.m2:imperf:neg		pot.
+> nieprzychrzanianego	przychrzaniać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		pot.
+> nieprzychrzanianej	przychrzaniać	ppas:sg:gen.dat.loc:f:imperf:neg		pot.
+> nieprzychrzanianemu	przychrzaniać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		pot.
+> nieprzychrzaniane	przychrzaniać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		pot.
+> nieprzychrzaniane	przychrzaniać	ppas:sg:nom.acc.voc:n:imperf:neg		pot.
+> nieprzychrzanianiach	przychrzaniać	ger:pl:loc:n:imperf:neg		
+> nieprzychrzanianiami	przychrzaniać	ger:pl:inst:n:imperf:neg		
+> nieprzychrzaniania	przychrzaniać	ger:pl:nom.acc:n:imperf:neg		
+> nieprzychrzaniania	przychrzaniać	ger:sg:gen:n:imperf:neg		
+> nieprzychrzanianiem	przychrzaniać	ger:sg:inst:n:imperf:neg		
+> nieprzychrzanianie	przychrzaniać	ger:sg:nom.acc:n:imperf:neg		
+> nieprzychrzanianiom	przychrzaniać	ger:pl:dat:n:imperf:neg		
+> nieprzychrzaniani	przychrzaniać	ppas:pl:nom.voc:m1:imperf:neg		pot.
+> nieprzychrzanianiu	przychrzaniać	ger:sg:dat.loc:n:imperf:neg		
+> nieprzychrzanianych	przychrzaniać	ppas:pl:acc:m1:imperf:neg		pot.
+> nieprzychrzanianych	przychrzaniać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		pot.
+> nieprzychrzanianymi	przychrzaniać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		pot.
+> nieprzychrzanianym	przychrzaniać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		pot.
+> nieprzychrzanianym	przychrzaniać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		pot.
+> nieprzychrzaniany	przychrzaniać	ppas:sg:acc:m3:imperf:neg		pot.
+> nieprzychrzaniany	przychrzaniać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		pot.
+> nieprzychrzaniań	przychrzaniać	ger:pl:gen:n:imperf:neg		
+> przychrzaniacie	przychrzaniać	fin:pl:sec:imperf		pot.
+> przychrzaniać	przychrzaniać	inf:imperf		pot.
+> przychrzaniająca	przychrzaniać	pact:sg:nom.voc:f:imperf:aff		
+> przychrzaniającą	przychrzaniać	pact:sg:acc.inst:f:imperf:aff		
+> przychrzaniającego	przychrzaniać	pact:sg:acc:m1.m2:imperf:aff		
+> przychrzaniającego	przychrzaniać	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> przychrzaniającej	przychrzaniać	pact:sg:gen.dat.loc:f:imperf:aff		
+> przychrzaniającemu	przychrzaniać	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> przychrzaniające	przychrzaniać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> przychrzaniające	przychrzaniać	pact:sg:nom.acc.voc:n:imperf:aff		
+> przychrzaniająco	przychrzaniać	pacta		
+> przychrzaniając	przychrzaniać	pcon:imperf		pot.
+> przychrzaniających	przychrzaniać	pact:pl:acc:m1:imperf:aff		
+> przychrzaniających	przychrzaniać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> przychrzaniającymi	przychrzaniać	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> przychrzaniającym	przychrzaniać	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> przychrzaniającym	przychrzaniać	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> przychrzaniający	przychrzaniać	pact:pl:nom.voc:m1:imperf:aff		
+> przychrzaniający	przychrzaniać	pact:sg:acc:m3:imperf:aff		
+> przychrzaniający	przychrzaniać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> przychrzaniają	przychrzaniać	fin:pl:ter:imperf		pot.
+> przychrzaniajcie	przychrzaniać	impt:pl:sec:imperf		pot.
+> przychrzaniajmy	przychrzaniać	impt:pl:pri:imperf		pot.
+> przychrzaniaj	przychrzaniać	impt:sg:sec:imperf		pot.
+> przychrzanialiby	przychrzaniać	cond:pl:m1:ter:imperf		pot.
+> przychrzanialibyście	przychrzaniać	cond:pl:m1:sec:imperf		pot.
+> przychrzanialibyśmy	przychrzaniać	cond:pl:m1:pri:imperf		pot.
+> przychrzaniali	przychrzaniać	praet:pl:m1:imperf		pot.
+> przychrzaniali	przychrzaniać	praet:pl:m1:ter:imperf		pot.
+> przychrzanialiście	przychrzaniać	praet:pl:m1:sec:imperf		pot.
+> przychrzanialiśmy	przychrzaniać	praet:pl:m1:pri:imperf		pot.
+> przychrzaniałabym	przychrzaniać	cond:sg:f:pri:imperf		pot.
+> przychrzaniałaby	przychrzaniać	cond:sg:f:ter:imperf		pot.
+> przychrzaniałabyś	przychrzaniać	cond:sg:f:sec:imperf		pot.
+> przychrzaniałam	przychrzaniać	praet:sg:f:pri:imperf		pot.
+> przychrzaniała	przychrzaniać	praet:sg:f:imperf		pot.
+> przychrzaniała	przychrzaniać	praet:sg:f:ter:imperf		pot.
+> przychrzaniałaś	przychrzaniać	praet:sg:f:sec:imperf		pot.
+> przychrzaniałbym	przychrzaniać	cond:sg:m1.m2.m3:pri:imperf		pot.
+> przychrzaniałby	przychrzaniać	cond:sg:m1.m2.m3:ter:imperf		pot.
+> przychrzaniałbyś	przychrzaniać	cond:sg:m1.m2.m3:sec:imperf		pot.
+> przychrzaniałem	przychrzaniać	praet:sg:m1.m2.m3:pri:imperf		pot.
+> przychrzaniałeś	przychrzaniać	praet:sg:m1.m2.m3:sec:imperf		pot.
+> przychrzaniałobym	przychrzaniać	cond:sg:n:pri:imperf		pot.
+> przychrzaniałoby	przychrzaniać	cond:sg:n:ter:imperf		pot.
+> przychrzaniałobyś	przychrzaniać	cond:sg:n:sec:imperf		pot.
+> przychrzaniałom	przychrzaniać	praet:sg:n:pri:imperf		pot.
+> przychrzaniało	przychrzaniać	praet:sg:n:imperf		pot.
+> przychrzaniało	przychrzaniać	praet:sg:n:ter:imperf		pot.
+> przychrzaniałoś	przychrzaniać	praet:sg:n:sec:imperf		pot.
+> przychrzaniał	przychrzaniać	praet:sg:m1.m2.m3:imperf		pot.
+> przychrzaniał	przychrzaniać	praet:sg:m1.m2.m3:ter:imperf		pot.
+> przychrzaniałyby	przychrzaniać	cond:pl:m2.m3.f.n:ter:imperf		pot.
+> przychrzaniałybyście	przychrzaniać	cond:pl:m2.m3.f.n:sec:imperf		pot.
+> przychrzaniałybyśmy	przychrzaniać	cond:pl:m2.m3.f.n:pri:imperf		pot.
+> przychrzaniały	przychrzaniać	praet:pl:m2.m3.f.n:imperf		pot.
+> przychrzaniały	przychrzaniać	praet:pl:m2.m3.f.n:ter:imperf		pot.
+> przychrzaniałyście	przychrzaniać	praet:pl:m2.m3.f.n:sec:imperf		pot.
+> przychrzaniałyśmy	przychrzaniać	praet:pl:m2.m3.f.n:pri:imperf		pot.
+> przychrzaniam	przychrzaniać	fin:sg:pri:imperf		pot.
+> przychrzaniamy	przychrzaniać	fin:pl:pri:imperf		pot.
+> przychrzaniana	przychrzaniać	ppas:sg:nom.voc:f:imperf:aff		pot.
+> przychrzanianą	przychrzaniać	ppas:sg:acc.inst:f:imperf:aff		pot.
+> przychrzanianego	przychrzaniać	ppas:sg:acc:m1.m2:imperf:aff		pot.
+> przychrzanianego	przychrzaniać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		pot.
+> przychrzanianej	przychrzaniać	ppas:sg:gen.dat.loc:f:imperf:aff		pot.
+> przychrzanianemu	przychrzaniać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		pot.
+> przychrzaniane	przychrzaniać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		pot.
+> przychrzaniane	przychrzaniać	ppas:sg:nom.acc.voc:n:imperf:aff		pot.
+> przychrzanianiach	przychrzaniać	ger:pl:loc:n:imperf:aff		
+> przychrzanianiami	przychrzaniać	ger:pl:inst:n:imperf:aff		
+> przychrzaniania	przychrzaniać	ger:pl:nom.acc:n:imperf:aff		
+> przychrzaniania	przychrzaniać	ger:sg:gen:n:imperf:aff		
+> przychrzanianiem	przychrzaniać	ger:sg:inst:n:imperf:aff		
+> przychrzanianie	przychrzaniać	ger:sg:nom.acc:n:imperf:aff		
+> przychrzanianiom	przychrzaniać	ger:pl:dat:n:imperf:aff		
+> przychrzaniani	przychrzaniać	ppas:pl:nom.voc:m1:imperf:aff		pot.
+> przychrzanianiu	przychrzaniać	ger:sg:dat.loc:n:imperf:aff		
+> przychrzaniano	przychrzaniać	imps:imperf		pot.
+> przychrzanianych	przychrzaniać	ppas:pl:acc:m1:imperf:aff		pot.
+> przychrzanianych	przychrzaniać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		pot.
+> przychrzanianymi	przychrzaniać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		pot.
+> przychrzanianym	przychrzaniać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		pot.
+> przychrzanianym	przychrzaniać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		pot.
+> przychrzaniany	przychrzaniać	ppas:sg:acc:m3:imperf:aff		pot.
+> przychrzaniany	przychrzaniać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		pot.
+> przychrzaniań	przychrzaniać	ger:pl:gen:n:imperf:aff		
+> przychrzania	przychrzaniać	fin:sg:ter:imperf		pot.
+> przychrzaniasz	przychrzaniać	fin:sg:sec:imperf		pot.
+> nieprzychrzanieniach	przychrzanić	ger:pl:loc:n:perf:neg		
+> nieprzychrzanieniami	przychrzanić	ger:pl:inst:n:perf:neg		
+> nieprzychrzanienia	przychrzanić	ger:pl:nom.acc:n:perf:neg		
+> nieprzychrzanienia	przychrzanić	ger:sg:gen:n:perf:neg		
+> nieprzychrzanieniem	przychrzanić	ger:sg:inst:n:perf:neg		
+> nieprzychrzanienie	przychrzanić	ger:sg:nom.acc:n:perf:neg		
+> nieprzychrzanieniom	przychrzanić	ger:pl:dat:n:perf:neg		
+> nieprzychrzanieniu	przychrzanić	ger:sg:dat.loc:n:perf:neg		
+> nieprzychrzanień	przychrzanić	ger:pl:gen:n:perf:neg		
+> nieprzychrzaniona	przychrzanić	ppas:sg:nom.voc:f:perf:neg		pot.
+> nieprzychrzanioną	przychrzanić	ppas:sg:acc.inst:f:perf:neg		pot.
+> nieprzychrzanionego	przychrzanić	ppas:sg:acc:m1.m2:perf:neg		pot.
+> nieprzychrzanionego	przychrzanić	ppas:sg:gen:m1.m2.m3.n:perf:neg		pot.
+> nieprzychrzanionej	przychrzanić	ppas:sg:gen.dat.loc:f:perf:neg		pot.
+> nieprzychrzanionemu	przychrzanić	ppas:sg:dat:m1.m2.m3.n:perf:neg		pot.
+> nieprzychrzanione	przychrzanić	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		pot.
+> nieprzychrzanione	przychrzanić	ppas:sg:nom.acc.voc:n:perf:neg		pot.
+> nieprzychrzanioni	przychrzanić	ppas:pl:nom.voc:m1:perf:neg		pot.
+> nieprzychrzanionych	przychrzanić	ppas:pl:acc:m1:perf:neg		pot.
+> nieprzychrzanionych	przychrzanić	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		pot.
+> nieprzychrzanionymi	przychrzanić	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		pot.
+> nieprzychrzanionym	przychrzanić	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		pot.
+> nieprzychrzanionym	przychrzanić	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		pot.
+> nieprzychrzaniony	przychrzanić	ppas:sg:acc:m3:perf:neg		pot.
+> nieprzychrzaniony	przychrzanić	ppas:sg:nom.voc:m1.m2.m3:perf:neg		pot.
+> przychrzanią	przychrzanić	fin:pl:ter:perf		pot.
+> przychrzanicie	przychrzanić	fin:pl:sec:perf		pot.
+> przychrzanić	przychrzanić	inf:perf		pot.
+> przychrzanieniach	przychrzanić	ger:pl:loc:n:perf:aff		
+> przychrzanieniami	przychrzanić	ger:pl:inst:n:perf:aff		
+> przychrzanienia	przychrzanić	ger:pl:nom.acc:n:perf:aff		
+> przychrzanienia	przychrzanić	ger:sg:gen:n:perf:aff		
+> przychrzanieniem	przychrzanić	ger:sg:inst:n:perf:aff		
+> przychrzanienie	przychrzanić	ger:sg:nom.acc:n:perf:aff		
+> przychrzanieniom	przychrzanić	ger:pl:dat:n:perf:aff		
+> przychrzanieniu	przychrzanić	ger:sg:dat.loc:n:perf:aff		
+> przychrzanień	przychrzanić	ger:pl:gen:n:perf:aff		
+> przychrzanię	przychrzanić	fin:sg:pri:perf		pot.
+> przychrzaniliby	przychrzanić	cond:pl:m1:ter:perf		pot.
+> przychrzanilibyście	przychrzanić	cond:pl:m1:sec:perf		pot.
+> przychrzanilibyśmy	przychrzanić	cond:pl:m1:pri:perf		pot.
+> przychrzanili	przychrzanić	praet:pl:m1:perf		pot.
+> przychrzanili	przychrzanić	praet:pl:m1:ter:perf		pot.
+> przychrzaniliście	przychrzanić	praet:pl:m1:sec:perf		pot.
+> przychrzaniliśmy	przychrzanić	praet:pl:m1:pri:perf		pot.
+> przychrzaniłabym	przychrzanić	cond:sg:f:pri:perf		pot.
+> przychrzaniłaby	przychrzanić	cond:sg:f:ter:perf		pot.
+> przychrzaniłabyś	przychrzanić	cond:sg:f:sec:perf		pot.
+> przychrzaniłam	przychrzanić	praet:sg:f:pri:perf		pot.
+> przychrzaniła	przychrzanić	praet:sg:f:perf		pot.
+> przychrzaniła	przychrzanić	praet:sg:f:ter:perf		pot.
+> przychrzaniłaś	przychrzanić	praet:sg:f:sec:perf		pot.
+> przychrzaniłbym	przychrzanić	cond:sg:m1.m2.m3:pri:perf		pot.
+> przychrzaniłby	przychrzanić	cond:sg:m1.m2.m3:ter:perf		pot.
+> przychrzaniłbyś	przychrzanić	cond:sg:m1.m2.m3:sec:perf		pot.
+> przychrzaniłem	przychrzanić	praet:sg:m1.m2.m3:pri:perf		pot.
+> przychrzaniłeś	przychrzanić	praet:sg:m1.m2.m3:sec:perf		pot.
+> przychrzaniłobym	przychrzanić	cond:sg:n:pri:perf		pot.
+> przychrzaniłoby	przychrzanić	cond:sg:n:ter:perf		pot.
+> przychrzaniłobyś	przychrzanić	cond:sg:n:sec:perf		pot.
+> przychrzaniłom	przychrzanić	praet:sg:n:pri:perf		pot.
+> przychrzaniło	przychrzanić	praet:sg:n:perf		pot.
+> przychrzaniło	przychrzanić	praet:sg:n:ter:perf		pot.
+> przychrzaniłoś	przychrzanić	praet:sg:n:sec:perf		pot.
+> przychrzanił	przychrzanić	praet:sg:m1.m2.m3:perf		pot.
+> przychrzanił	przychrzanić	praet:sg:m1.m2.m3:ter:perf		pot.
+> przychrzaniłyby	przychrzanić	cond:pl:m2.m3.f.n:ter:perf		pot.
+> przychrzaniłybyście	przychrzanić	cond:pl:m2.m3.f.n:sec:perf		pot.
+> przychrzaniłybyśmy	przychrzanić	cond:pl:m2.m3.f.n:pri:perf		pot.
+> przychrzaniły	przychrzanić	praet:pl:m2.m3.f.n:perf		pot.
+> przychrzaniły	przychrzanić	praet:pl:m2.m3.f.n:ter:perf		pot.
+> przychrzaniłyście	przychrzanić	praet:pl:m2.m3.f.n:sec:perf		pot.
+> przychrzaniłyśmy	przychrzanić	praet:pl:m2.m3.f.n:pri:perf		pot.
+> przychrzanimy	przychrzanić	fin:pl:pri:perf		pot.
+> przychrzaniona	przychrzanić	ppas:sg:nom.voc:f:perf:aff		pot.
+> przychrzanioną	przychrzanić	ppas:sg:acc.inst:f:perf:aff		pot.
+> przychrzanionego	przychrzanić	ppas:sg:acc:m1.m2:perf:aff		pot.
+> przychrzanionego	przychrzanić	ppas:sg:gen:m1.m2.m3.n:perf:aff		pot.
+> przychrzanionej	przychrzanić	ppas:sg:gen.dat.loc:f:perf:aff		pot.
+> przychrzanionemu	przychrzanić	ppas:sg:dat:m1.m2.m3.n:perf:aff		pot.
+> przychrzanione	przychrzanić	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		pot.
+> przychrzanione	przychrzanić	ppas:sg:nom.acc.voc:n:perf:aff		pot.
+> przychrzanioni	przychrzanić	ppas:pl:nom.voc:m1:perf:aff		pot.
+> przychrzaniono	przychrzanić	imps:perf		pot.
+> przychrzanionych	przychrzanić	ppas:pl:acc:m1:perf:aff		pot.
+> przychrzanionych	przychrzanić	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		pot.
+> przychrzanionymi	przychrzanić	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		pot.
+> przychrzanionym	przychrzanić	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		pot.
+> przychrzanionym	przychrzanić	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		pot.
+> przychrzaniony	przychrzanić	ppas:sg:acc:m3:perf:aff		pot.
+> przychrzaniony	przychrzanić	ppas:sg:nom.voc:m1.m2.m3:perf:aff		pot.
+> przychrzani	przychrzanić	fin:sg:ter:perf		pot.
+> przychrzanisz	przychrzanić	fin:sg:sec:perf		pot.
+> przychrzaniwszy	przychrzanić	pant:perf		pot.
+> przychrzańcie	przychrzanić	impt:pl:sec:perf		pot.
+> przychrzańmy	przychrzanić	impt:pl:pri:perf		pot.
+> przychrzań	przychrzanić	impt:sg:sec:perf		pot.
+4657499a4657506,4657529
+> singiel	singiel:s3	subst:sg:nom.acc:m3	nazwa pospolita	
+> singiel	singiel:s3	subst:sg:nom:m2	nazwa pospolita	
+> singlach	singiel:s3	subst:pl:loc:m2	nazwa pospolita	
+> singlach	singiel:s3	subst:pl:loc:m3	nazwa pospolita	
+> singlami	singiel:s3	subst:pl:inst:m2	nazwa pospolita	
+> singlami	singiel:s3	subst:pl:inst:m3	nazwa pospolita	
+> singla	singiel:s3	subst:sg:gen.acc:m2	nazwa pospolita	
+> singla	singiel:s3	subst:sg:gen:m3	nazwa pospolita	
+> singlem	singiel:s3	subst:sg:inst:m2	nazwa pospolita	
+> singlem	singiel:s3	subst:sg:inst:m3	nazwa pospolita	
+> single	singiel:s3	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+> single	singiel:s3	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> singli	singiel:s3	subst:pl:gen:m2	nazwa pospolita	
+> singli	singiel:s3	subst:pl:gen:m3	nazwa pospolita	
+> singlom	singiel:s3	subst:pl:dat:m2	nazwa pospolita	
+> singlom	singiel:s3	subst:pl:dat:m3	nazwa pospolita	
+> singlowi	singiel:s3	subst:sg:dat:m2	nazwa pospolita	
+> singlowi	singiel:s3	subst:sg:dat:m3	nazwa pospolita	
+> singlów	singiel:s3	subst:pl:gen:m2	nazwa pospolita	
+> singlów	singiel:s3	subst:pl:gen:m3	nazwa pospolita	
+> singlu	singiel:s3	subst:sg:loc:m2	nazwa pospolita	
+> singlu	singiel:s3	subst:sg:loc:m3	nazwa pospolita	
+> singlu	singiel:s3	subst:sg:voc:m2	nazwa pospolita	
+> singlu	singiel:s3	subst:sg:voc:m3	nazwa pospolita	
+5397529d5397558
+< we	we	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+6218973a6219003,6219013
+> Zerubabelach	Zerubabel	subst:pl:loc:m1	imię	
+> Zerubabelami	Zerubabel	subst:pl:inst:m1	imię	
+> Zerubabela	Zerubabel	subst:sg:gen.acc:m1	imię	
+> Zerubabelem	Zerubabel	subst:sg:inst:m1	imię	
+> Zerubabele	Zerubabel	depr:pl:nom.acc.voc:m2	imię	
+> Zerubabelom	Zerubabel	subst:pl:dat:m1	imię	
+> Zerubabelowie	Zerubabel	subst:pl:nom.voc:m1	imię	
+> Zerubabelowi	Zerubabel	subst:sg:dat:m1	imię	
+> Zerubabelów	Zerubabel	subst:pl:gen.acc:m1	imię	
+> Zerubabelu	Zerubabel	subst:sg:loc:m1	imię	
+> Zerubabelu	Zerubabel	subst:sg:voc:m1	imię	
+6218975,6218986d6219014
+< Zerubablach	Zerubabel	subst:pl:loc:m1	imię	
+< Zerubablami	Zerubabel	subst:pl:inst:m1	imię	
+< Zerubabla	Zerubabel	subst:sg:gen.acc:m1	imię	
+< Zerubablem	Zerubabel	subst:sg:inst:m1	imię	
+< Zerubable	Zerubabel	depr:pl:nom.acc.voc:m2	imię	
+< Zerubable	Zerubabel	subst:pl:nom.voc:m1	imię	
+< Zerubabli	Zerubabel	subst:pl:gen.acc:m1	imię	
+< Zerubablom	Zerubabel	subst:pl:dat:m1	imię	
+< Zerubablowi	Zerubabel	subst:sg:dat:m1	imię	
+< Zerubablów	Zerubabel	subst:pl:gen.acc:m1	imię	
+< Zerubablu	Zerubabel	subst:sg:loc:m1	imię	
+< Zerubablu	Zerubabel	subst:sg:voc:m1	imię	

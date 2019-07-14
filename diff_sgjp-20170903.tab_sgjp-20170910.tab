@@ -1,0 +1,859 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.09.03
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.09.10
+62543a62544
+> antyferromagnetyka	antyferromagnetyk	subst:sg:gen:m3	nazwa pospolita	
+79946,79956c79947,79957
+< arece	areka	subst:sg:dat.loc:f	nazwa pospolita	
+< areka	areka	subst:sg:nom:f	nazwa pospolita	
+< arekach	areka	subst:pl:loc:f	nazwa pospolita	
+< arekami	areka	subst:pl:inst:f	nazwa pospolita	
+< arek	areka	subst:pl:gen:f	nazwa pospolita	
+< areką	areka	subst:sg:inst:f	nazwa pospolita	
+< arekę	areka	subst:sg:acc:f	nazwa pospolita	
+< areki	areka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< areki	areka	subst:sg:gen:f	nazwa pospolita	
+< areko	areka	subst:sg:voc:f	nazwa pospolita	
+< arekom	areka	subst:pl:dat:f	nazwa pospolita	
+---
+> arece	areka	subst:sg:dat.loc:f	nazwa pospolita	bot.
+> areka	areka	subst:sg:nom:f	nazwa pospolita	bot.
+> arekach	areka	subst:pl:loc:f	nazwa pospolita	bot.
+> arekami	areka	subst:pl:inst:f	nazwa pospolita	bot.
+> arek	areka	subst:pl:gen:f	nazwa pospolita	bot.
+> areką	areka	subst:sg:inst:f	nazwa pospolita	bot.
+> arekę	areka	subst:sg:acc:f	nazwa pospolita	bot.
+> areki	areka	subst:pl:nom.acc.voc:f	nazwa pospolita	bot.
+> areki	areka	subst:sg:gen:f	nazwa pospolita	bot.
+> areko	areka	subst:sg:voc:f	nazwa pospolita	bot.
+> arekom	areka	subst:pl:dat:f	nazwa pospolita	bot.
+82104a82106,82107
+> arce	arka	subst:sg:dat.loc:f	nazwa pospolita	rzad.
+> arek	arka	subst:pl:gen:f	nazwa pospolita	
+82105a82109
+> arka	arka	subst:sg:nom:f	nazwa pospolita	rzad.
+82106a82111
+> arkach	arka	subst:pl:loc:f	nazwa pospolita	rzad.
+82108c82113,82114
+< ark	arka	subst:pl:gen:f	nazwa pospolita	
+---
+> arkami	arka	subst:pl:inst:f	nazwa pospolita	rzad.
+> ark	arka	subst:pl:gen:f	nazwa pospolita	rzad.
+82109a82116
+> arką	arka	subst:sg:inst:f	nazwa pospolita	rzad.
+82110a82118
+> arkę	arka	subst:sg:acc:f	nazwa pospolita	rzad.
+82111a82120
+> arki	arka	subst:pl:nom.acc.voc:f	nazwa pospolita	rzad.
+82112a82122
+> arki	arka	subst:sg:gen:f	nazwa pospolita	rzad.
+82113a82124
+> arko	arka	subst:sg:voc:f	nazwa pospolita	rzad.
+82114a82126
+> arkom	arka	subst:pl:dat:f	nazwa pospolita	rzad.
+97972a97985,97987
+> Auschwitzach	Auschwitz	subst:pl:loc:m3	nazwa geograficzna	hist.
+> Auschwitzami	Auschwitz	subst:pl:inst:m3	nazwa geograficzna	hist.
+> Auschwitz	Auschwitz	subst:sg:nom.acc:m3	nazwa geograficzna	hist.
+97973a97989,97996
+> Auschwitze	Auschwitz	subst:pl:nom.acc.voc:m3	nazwa geograficzna	hist.
+> Auschwitzem	Auschwitz	subst:sg:inst:m3	nazwa geograficzna	hist.
+> Auschwitzom	Auschwitz	subst:pl:dat:m3	nazwa geograficzna	hist.
+> Auschwitzowi	Auschwitz	subst:sg:dat:m3	nazwa geograficzna	hist.
+> Auschwitzów	Auschwitz	subst:pl:gen:m3	nazwa geograficzna	hist.
+> Auschwitzu	Auschwitz	subst:sg:gen:m3	nazwa geograficzna	hist.
+> Auschwitzu	Auschwitz	subst:sg:loc:m3	nazwa geograficzna	hist.
+> Auschwitzu	Auschwitz	subst:sg:voc:m3	nazwa geograficzna	hist.
+113851,113862c113874
+< bajdusia	bajduś	subst:sg:gen.acc:m1	nazwa pospolita	
+< bajdusiach	bajduś	subst:pl:loc:m1	nazwa pospolita	
+< bajdusiami	bajduś	subst:pl:inst:m1	nazwa pospolita	
+< bajdusie	bajduś	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< bajdusie	bajduś	subst:pl:nom.voc:m1	nazwa pospolita	
+< bajdusiem	bajduś	subst:sg:inst:m1	nazwa pospolita	
+< bajdusiom	bajduś	subst:pl:dat:m1	nazwa pospolita	
+< bajdusiowi	bajduś	subst:sg:dat:m1	nazwa pospolita	
+< bajdusiów	bajduś	subst:pl:gen.acc:m1	nazwa pospolita	
+< bajdusiu	bajduś	subst:sg:loc:m1	nazwa pospolita	
+< bajdusiu	bajduś	subst:sg:voc:m1	nazwa pospolita	
+< bajduś	bajduś	subst:sg:nom:m1	nazwa pospolita	
+---
+> bajduś	bajduś	burk		
+125197a125210
+> bandżol	bandżola	subst:pl:gen:f	nazwa pospolita	char.|muz.
+125200c125213
+< bandżoli	bandżola	subst:pl:gen:f	nazwa pospolita	muz.
+---
+> bandżoli	bandżola	subst:pl:gen:f	nazwa pospolita	muz.|hom.
+274605a274619
+> centyla	centyl	subst:sg:gen:m3	nazwa pospolita	
+274610a274625
+> centyli	centyl	subst:pl:gen:m3	nazwa pospolita	
+336288d336302
+< ciotulo	ciotula	subst:sg:voc:f	nazwa pospolita	
+336289a336304
+> ciotulu	ciotula	subst:sg:voc:f	nazwa pospolita	
+432799a432815
+> dżdży	deszcz	subst:pl:gen:m3	nazwa pospolita	daw.
+443411a443428
+> diamagnetyka	diamagnetyk	subst:sg:gen:m3	nazwa pospolita	
+481943a481961
+> dokumencie	dokument	subst:sg:loc:m3	nazwa pospolita	daw.
+481944a481963
+> dokumencie	dokument	subst:sg:voc:m3	nazwa pospolita	daw.
+481945a481965,481966
+> dokumentach	dokument	subst:pl:loc:m3	nazwa pospolita	daw.
+> dokumenta	dokument	subst:pl:nom.acc.voc:m3	nazwa pospolita	daw.
+481946a481968
+> dokumentami	dokument	subst:pl:inst:m3	nazwa pospolita	daw.
+481947a481970
+> dokument	dokument	subst:sg:nom.acc:m3	nazwa pospolita	daw.
+481948a481972
+> dokumentem	dokument	subst:sg:inst:m3	nazwa pospolita	daw.
+481949a481974
+> dokumentom	dokument	subst:pl:dat:m3	nazwa pospolita	daw.
+481950a481976
+> dokumentowi	dokument	subst:sg:dat:m3	nazwa pospolita	daw.
+481951a481978
+> dokumentów	dokument	subst:pl:gen:m3	nazwa pospolita	daw.
+481952a481980
+> dokumentu	dokument	subst:sg:gen:m3	nazwa pospolita	daw.
+543606,543646d543633
+< dotyczałaby	dotyczeć	cond:sg:f:ter:perf		daw.
+< dotyczałabym	dotyczeć	cond:sg:f:pri:perf		daw.
+< dotyczałabyś	dotyczeć	cond:sg:f:sec:perf		daw.
+< dotyczała	dotyczeć	praet:sg:f:perf		daw.
+< dotyczała	dotyczeć	praet:sg:f:ter:perf		daw.
+< dotyczałam	dotyczeć	praet:sg:f:pri:perf		daw.
+< dotyczałaś	dotyczeć	praet:sg:f:sec:perf		daw.
+< dotyczałby	dotyczeć	cond:sg:m1.m2.m3:ter:perf		daw.
+< dotyczałbym	dotyczeć	cond:sg:m1.m2.m3:pri:perf		daw.
+< dotyczałbyś	dotyczeć	cond:sg:m1.m2.m3:sec:perf		daw.
+< dotyczał	dotyczeć	praet:sg:m1.m2.m3:perf		daw.
+< dotyczał	dotyczeć	praet:sg:m1.m2.m3:ter:perf		daw.
+< dotyczałem	dotyczeć	praet:sg:m1.m2.m3:pri:perf		daw.
+< dotyczałeś	dotyczeć	praet:sg:m1.m2.m3:sec:perf		daw.
+< dotyczałoby	dotyczeć	cond:sg:n:ter:perf		daw.
+< dotyczałobym	dotyczeć	cond:sg:n:pri:perf		daw.
+< dotyczałobyś	dotyczeć	cond:sg:n:sec:perf		daw.
+< dotyczało	dotyczeć	praet:sg:n:perf		daw.
+< dotyczało	dotyczeć	praet:sg:n:ter:perf		daw.
+< dotyczałom	dotyczeć	praet:sg:n:pri:perf		daw.
+< dotyczałoś	dotyczeć	praet:sg:n:sec:perf		daw.
+< dotyczałyby	dotyczeć	cond:pl:m2.m3.f.n:ter:perf		daw.
+< dotyczałybyście	dotyczeć	cond:pl:m2.m3.f.n:sec:perf		daw.
+< dotyczałybyśmy	dotyczeć	cond:pl:m2.m3.f.n:pri:perf		daw.
+< dotyczały	dotyczeć	praet:pl:m2.m3.f.n:perf		daw.
+< dotyczały	dotyczeć	praet:pl:m2.m3.f.n:ter:perf		daw.
+< dotyczałyście	dotyczeć	praet:pl:m2.m3.f.n:sec:perf		daw.
+< dotyczałyśmy	dotyczeć	praet:pl:m2.m3.f.n:pri:perf		daw.
+< dotyczano	dotyczeć	imps:perf		daw.
+< dotyczawszy	dotyczeć	pant:perf		daw.
+< dotyczą	dotyczeć	fin:pl:ter:perf		daw.
+< dotyczcie	dotyczeć	impt:pl:sec:perf		daw.
+< dotycz	dotyczeć	impt:sg:sec:perf		daw.
+< dotyczeć	dotyczeć	inf:perf		daw.
+< dotyczeliby	dotyczeć	cond:pl:m1:ter:perf		daw.
+< dotyczelibyście	dotyczeć	cond:pl:m1:sec:perf		daw.
+< dotyczelibyśmy	dotyczeć	cond:pl:m1:pri:perf		daw.
+< dotyczeli	dotyczeć	praet:pl:m1:perf		daw.
+< dotyczeli	dotyczeć	praet:pl:m1:ter:perf		daw.
+< dotyczeliście	dotyczeć	praet:pl:m1:sec:perf		daw.
+< dotyczeliśmy	dotyczeć	praet:pl:m1:pri:perf		daw.
+543656,543661d543642
+< dotyczę	dotyczeć	fin:sg:pri:perf		daw.
+< dotyczmy	dotyczeć	impt:pl:pri:perf		daw.
+< dotyczycie	dotyczeć	fin:pl:sec:perf		daw.
+< dotyczy	dotyczeć	fin:sg:ter:perf		daw.
+< dotyczymy	dotyczeć	fin:pl:pri:perf		daw.
+< dotyczysz	dotyczeć	fin:sg:sec:perf		daw.
+581921a581903,581904
+> dwuboi	dwubój	subst:pl:gen:m3	nazwa pospolita	rzad.|sport.
+> dwubojach	dwubój	subst:pl:loc:m3	nazwa pospolita	rzad.|sport.
+581922a581906
+> dwubojami	dwubój	subst:pl:inst:m3	nazwa pospolita	rzad.|sport.
+581923a581908
+> dwuboje	dwubój	subst:pl:nom.acc.voc:m3	nazwa pospolita	rzad.|sport.
+581924a581910
+> dwubojem	dwubój	subst:sg:inst:m3	nazwa pospolita	rzad.|sport.
+581925a581912
+> dwubojom	dwubój	subst:pl:dat:m3	nazwa pospolita	rzad.|sport.
+581926a581914
+> dwubojowi	dwubój	subst:sg:dat:m3	nazwa pospolita	rzad.|sport.
+581928a581917
+> dwuboju	dwubój	subst:sg:gen:m3	nazwa pospolita	rzad.|sport.
+581929a581919
+> dwuboju	dwubój	subst:sg:loc:m3	nazwa pospolita	rzad.|sport.
+581930a581921
+> dwuboju	dwubój	subst:sg:voc:m3	nazwa pospolita	rzad.|sport.
+581931a581923
+> dwubój	dwubój	subst:sg:nom.acc:m3	nazwa pospolita	rzad.|sport.
+695234c695226,695227
+< faveli	favela	subst:pl:gen:f	nazwa pospolita	
+---
+> favel	favela	subst:pl:gen:f	nazwa pospolita	char.
+> faveli	favela	subst:pl:gen:f	nazwa pospolita	hom.
+701386a701380
+> ferromagnetyka	ferromagnetyk	subst:sg:gen:m3	nazwa pospolita	
+715596a715591
+> flader	fladra	subst:pl:gen:f	nazwa pospolita	łow.
+868680a868676
+> haszyszy	haszysz	subst:pl:gen:m3	nazwa pospolita	
+901304a901301
+> humanoidach	humanoid	subst:pl:loc:m1	nazwa pospolita	
+901305a901303
+> humanoida	humanoid	subst:sg:gen.acc:m1	nazwa pospolita	
+901306a901305
+> humanoidami	humanoid	subst:pl:inst:m1	nazwa pospolita	
+901307a901307
+> humanoidem	humanoid	subst:sg:inst:m1	nazwa pospolita	
+901308a901309
+> humanoid	humanoid	subst:sg:nom:m1	nazwa pospolita	
+901309a901311
+> humanoidom	humanoid	subst:pl:dat:m1	nazwa pospolita	
+901310a901313
+> humanoidowi	humanoid	subst:sg:dat:m1	nazwa pospolita	
+901311a901315
+> humanoidów	humanoid	subst:pl:gen.acc:m1	nazwa pospolita	
+901312a901317
+> humanoidy	humanoid	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+901313a901319
+> humanoidzie	humanoid	subst:sg:loc:m1	nazwa pospolita	
+901314a901321
+> humanoidzie	humanoid	subst:sg:voc:m1	nazwa pospolita	
+901315a901323
+> humanoidzi	humanoid	subst:pl:nom.voc:m1	nazwa pospolita	
+911589,911600c911597,911608
+< Ifigeniach	Ifigenia	subst:pl:loc:f	imię	
+< Ifigenia	Ifigenia	subst:sg:nom:f	imię	
+< Ifigeniami	Ifigenia	subst:pl:inst:f	imię	
+< Ifigenią	Ifigenia	subst:sg:inst:f	imię	
+< Ifigenie	Ifigenia	subst:pl:nom.acc.voc:f	imię	
+< Ifigenię	Ifigenia	subst:sg:acc:f	imię	
+< Ifigenii	Ifigenia	subst:pl:gen:f	imię	hom.
+< Ifigenii	Ifigenia	subst:sg:dat.loc:f	imię	
+< Ifigenii	Ifigenia	subst:sg:gen:f	imię	
+< Ifigenij	Ifigenia	subst:pl:gen:f	imię	arch.|char.
+< Ifigenio	Ifigenia	subst:sg:voc:f	imię	
+< Ifigeniom	Ifigenia	subst:pl:dat:f	imię	
+---
+> Ifigeniach	Ifigenia	subst:pl:loc:f	imię	mit.
+> Ifigenia	Ifigenia	subst:sg:nom:f	imię	mit.
+> Ifigeniami	Ifigenia	subst:pl:inst:f	imię	mit.
+> Ifigenią	Ifigenia	subst:sg:inst:f	imię	mit.
+> Ifigenie	Ifigenia	subst:pl:nom.acc.voc:f	imię	mit.
+> Ifigenię	Ifigenia	subst:sg:acc:f	imię	mit.
+> Ifigenii	Ifigenia	subst:pl:gen:f	imię	hom.|mit.
+> Ifigenii	Ifigenia	subst:sg:dat.loc:f	imię	mit.
+> Ifigenii	Ifigenia	subst:sg:gen:f	imię	mit.
+> Ifigenij	Ifigenia	subst:pl:gen:f	imię	arch.|char.|mit.
+> Ifigenio	Ifigenia	subst:sg:voc:f	imię	mit.
+> Ifigeniom	Ifigenia	subst:pl:dat:f	imię	mit.
+914262d914269
+< Ilje	Ilja	subst:pl:nom.voc:m1	imię	
+914267a914275
+> Iljowie	Ilja	subst:pl:nom.voc:m1	imię	
+986502a986511
+> jeleniów	jeleń:s2	subst:pl:gen.acc:m1	nazwa pospolita	
+1075671a1075681
+> kilometrażów	kilometraż	subst:pl:gen:m3	nazwa pospolita	
+1076198a1076209
+> kimationa	kimation	subst:sg:gen:m3	nazwa pospolita	
+1092809a1092821
+> klipera	kliper	subst:sg:gen:m3	nazwa pospolita	żegl.
+1145651a1145664
+> koniakach	koniak	subst:pl:loc:m2	nazwa pospolita	reg.
+1145652a1145666,1145667
+> koniaka	koniak	subst:sg:gen.acc:m2	nazwa pospolita	reg.
+> koniakami	koniak	subst:pl:inst:m2	nazwa pospolita	reg.
+1145653a1145669
+> koniakiem	koniak	subst:sg:inst:m2	nazwa pospolita	reg.
+1145654a1145671
+> koniaki	koniak	subst:pl:nom.acc.voc:m2	nazwa pospolita	reg.
+1145656a1145674,1145675
+> koniak	koniak	subst:sg:nom:m2	nazwa pospolita	reg.
+> koniakom	koniak	subst:pl:dat:m2	nazwa pospolita	reg.
+1145657a1145677
+> koniakowi	koniak	subst:sg:dat:m2	nazwa pospolita	reg.
+1145658a1145679
+> koniaków	koniak	subst:pl:gen:m2	nazwa pospolita	reg.
+1145660a1145682
+> koniaku	koniak	subst:sg:loc:m2	nazwa pospolita	reg.
+1145661a1145684
+> koniaku	koniak	subst:sg:voc:m2	nazwa pospolita	reg.
+1275064a1275088,1275110
+> Lankijczycy	Lankijczyk	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Lankijczykach	Lankijczyk	subst:pl:loc:m1	nazwa pospolita	etn.
+> Lankijczyka	Lankijczyk	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Lankijczykami	Lankijczyk	subst:pl:inst:m1	nazwa pospolita	etn.
+> Lankijczykiem	Lankijczyk	subst:sg:inst:m1	nazwa pospolita	etn.
+> Lankijczyki	Lankijczyk	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+> Lankijczyk	Lankijczyk	subst:sg:nom:m1	nazwa pospolita	etn.
+> Lankijczykom	Lankijczyk	subst:pl:dat:m1	nazwa pospolita	etn.
+> Lankijczykowi	Lankijczyk	subst:sg:dat:m1	nazwa pospolita	etn.
+> Lankijczyków	Lankijczyk	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Lankijczyku	Lankijczyk	subst:sg:loc:m1	nazwa pospolita	etn.
+> Lankijczyku	Lankijczyk	subst:sg:voc:m1	nazwa pospolita	etn.
+> Lankijce	Lankijka	subst:sg:dat.loc:f	nazwa pospolita	etn.
+> Lankijek	Lankijka	subst:pl:gen:f	nazwa pospolita	etn.
+> Lankijkach	Lankijka	subst:pl:loc:f	nazwa pospolita	etn.
+> Lankijka	Lankijka	subst:sg:nom:f	nazwa pospolita	etn.
+> Lankijkami	Lankijka	subst:pl:inst:f	nazwa pospolita	etn.
+> Lankijką	Lankijka	subst:sg:inst:f	nazwa pospolita	etn.
+> Lankijkę	Lankijka	subst:sg:acc:f	nazwa pospolita	etn.
+> Lankijki	Lankijka	subst:pl:nom.acc.voc:f	nazwa pospolita	etn.
+> Lankijki	Lankijka	subst:sg:gen:f	nazwa pospolita	etn.
+> Lankijko	Lankijka	subst:sg:voc:f	nazwa pospolita	etn.
+> Lankijkom	Lankijka	subst:pl:dat:f	nazwa pospolita	etn.
+1306389a1306436
+> lineażów	lineaż	subst:pl:gen:m3	nazwa pospolita	
+1329125a1329173,1329176
+> lugerach	luger	subst:pl:loc:m3	nazwa pospolita	
+> lugera	luger	subst:sg:gen:m3	nazwa pospolita	
+> lugerami	luger	subst:pl:inst:m3	nazwa pospolita	
+> lugerem	luger	subst:sg:inst:m3	nazwa pospolita	
+1329126a1329178,1329183
+> lugerom	luger	subst:pl:dat:m3	nazwa pospolita	
+> lugerowi	luger	subst:sg:dat:m3	nazwa pospolita	
+> lugerów	luger	subst:pl:gen:m3	nazwa pospolita	
+> lugery	luger	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> lugerze	luger	subst:sg:loc:m3	nazwa pospolita	
+> lugerze	luger	subst:sg:voc:m3	nazwa pospolita	
+1386525d1386581
+< mamulo	mamula	subst:sg:voc:f	nazwa pospolita	przest.
+1386526a1386583
+> mamulu	mamula	subst:sg:voc:f	nazwa pospolita	przest.
+1386609a1386667
+> mamuńku	mamuńka	subst:sg:voc:f	nazwa pospolita	
+1400842,1400852c1400900,1400910
+< marszach	marsz:s1	subst:pl:loc:m3	nazwa pospolita	
+< marszami	marsz:s1	subst:pl:inst:m3	nazwa pospolita	
+< marsze	marsz:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< marszem	marsz:s1	subst:sg:inst:m3	nazwa pospolita	
+< marsz	marsz:s1	subst:sg:nom.acc:m3	nazwa pospolita	
+< marszom	marsz:s1	subst:pl:dat:m3	nazwa pospolita	
+< marszowi	marsz:s1	subst:sg:dat:m3	nazwa pospolita	
+< marszów	marsz:s1	subst:pl:gen:m3	nazwa pospolita	
+< marszu	marsz:s1	subst:sg:gen:m3	nazwa pospolita	
+< marszu	marsz:s1	subst:sg:loc:m3	nazwa pospolita	
+< marszu	marsz:s1	subst:sg:voc:m3	nazwa pospolita	
+---
+> marszach	marsz:s1	subst:pl:loc:m3	nazwa pospolita	rzad.|geogr.
+> marszami	marsz:s1	subst:pl:inst:m3	nazwa pospolita	rzad.|geogr.
+> marsze	marsz:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	rzad.|geogr.
+> marszem	marsz:s1	subst:sg:inst:m3	nazwa pospolita	rzad.|geogr.
+> marsz	marsz:s1	subst:sg:nom.acc:m3	nazwa pospolita	rzad.|geogr.
+> marszom	marsz:s1	subst:pl:dat:m3	nazwa pospolita	rzad.|geogr.
+> marszowi	marsz:s1	subst:sg:dat:m3	nazwa pospolita	rzad.|geogr.
+> marszów	marsz:s1	subst:pl:gen:m3	nazwa pospolita	rzad.|geogr.
+> marszu	marsz:s1	subst:sg:gen:m3	nazwa pospolita	rzad.|geogr.
+> marszu	marsz:s1	subst:sg:loc:m3	nazwa pospolita	rzad.|geogr.
+> marszu	marsz:s1	subst:sg:voc:m3	nazwa pospolita	rzad.|geogr.
+1400853a1400912
+> marszach	marsz:s2	subst:pl:loc:m3	nazwa pospolita	muz.
+1400854a1400914
+> marsza	marsz:s2	subst:sg:gen:m3	nazwa pospolita	muz.
+1400855a1400916
+> marszami	marsz:s2	subst:pl:inst:m3	nazwa pospolita	muz.
+1400856a1400918
+> marsze	marsz:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	muz.
+1400857a1400920,1400921
+> marszem	marsz:s2	subst:sg:inst:m3	nazwa pospolita	muz.
+> marsz	marsz:s2	subst:sg:nom.acc:m3	nazwa pospolita	muz.
+1400859a1400924
+> marszom	marsz:s2	subst:pl:dat:m3	nazwa pospolita	muz.
+1400860a1400926
+> marszowi	marsz:s2	subst:sg:dat:m3	nazwa pospolita	muz.
+1400862a1400929
+> marszu	marsz:s2	subst:sg:loc:m3	nazwa pospolita	muz.
+1400863a1400931,1400932
+> marszu	marsz:s2	subst:sg:voc:m3	nazwa pospolita	muz.
+> marszy	marsz:s2	subst:pl:gen:m3	nazwa pospolita	muz.
+1410557a1410627,1410632
+> matrixach	matrix	subst:pl:loc:m3	nazwa pospolita	
+> matrixa	matrix	subst:sg:gen:m3	nazwa pospolita	
+> matrixami	matrix	subst:pl:inst:m3	nazwa pospolita	
+> matrixem	matrix	subst:sg:inst:m3	nazwa pospolita	
+> matrixie	matrix	subst:sg:loc:m3	nazwa pospolita	
+> matrixie	matrix	subst:sg:voc:m3	nazwa pospolita	
+1410558a1410634,1410637
+> matrixom	matrix	subst:pl:dat:m3	nazwa pospolita	
+> matrixowi	matrix	subst:sg:dat:m3	nazwa pospolita	
+> matrixów	matrix	subst:pl:gen:m3	nazwa pospolita	
+> matrixy	matrix	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+1411133a1411213
+> matuli	matula	subst:pl:gen:f	nazwa pospolita	hom.|przest.
+1411136c1411216
+< matul	matula	subst:pl:gen:f	nazwa pospolita	przest.
+---
+> matul	matula	subst:pl:gen:f	nazwa pospolita	char.|przest.
+1411451a1411532
+> matuśku	matuśka	subst:sg:voc:f	nazwa pospolita	
+1555544a1555626
+> Nadii	Nadia	subst:pl:gen:f	imię	
+1555549a1555632
+> Nadiu	Nadia	subst:sg:voc:f	imię	
+2355619a2355703,2355725
+> niepisowscy	niepisowski	adj:pl:nom.voc:m1:pos		
+> niepisowska	niepisowski	adj:sg:nom.voc:f:pos		
+> niepisowską	niepisowski	adj:sg:acc:f:pos		
+> niepisowską	niepisowski	adj:sg:inst:f:pos		
+> niepisowskich	niepisowski	adj:pl:acc:m1:pos		
+> niepisowskich	niepisowski	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niepisowskich	niepisowski	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niepisowskiego	niepisowski	adj:sg:acc:m1.m2:pos		
+> niepisowskiego	niepisowski	adj:sg:gen:m1.m2.m3.n:pos		
+> niepisowskiej	niepisowski	adj:sg:dat:f:pos		
+> niepisowskiej	niepisowski	adj:sg:gen:f:pos		
+> niepisowskiej	niepisowski	adj:sg:loc:f:pos		
+> niepisowskiemu	niepisowski	adj:sg:dat:m1.m2.m3.n:pos		
+> niepisowskie	niepisowski	adj:pl:acc:m2.m3.f.n:pos		
+> niepisowskie	niepisowski	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niepisowskie	niepisowski	adj:sg:acc:n:pos		
+> niepisowskie	niepisowski	adj:sg:nom.voc:n:pos		
+> niepisowskimi	niepisowski	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niepisowskim	niepisowski	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niepisowskim	niepisowski	adj:sg:inst:m1.m2.m3.n:pos		
+> niepisowskim	niepisowski	adj:sg:loc:m1.m2.m3.n:pos		
+> niepisowski	niepisowski	adj:sg:acc:m3:pos		
+> niepisowski	niepisowski	adj:sg:nom.voc:m1.m2.m3:pos		
+2407983a2408090,2408112
+> niepotrzebniccy	niepotrzebnicki	adj:pl:nom.voc:m1:pos		
+> niepotrzebnicka	niepotrzebnicki	adj:sg:nom.voc:f:pos		
+> niepotrzebnicką	niepotrzebnicki	adj:sg:acc:f:pos		
+> niepotrzebnicką	niepotrzebnicki	adj:sg:inst:f:pos		
+> niepotrzebnickich	niepotrzebnicki	adj:pl:acc:m1:pos		
+> niepotrzebnickich	niepotrzebnicki	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niepotrzebnickich	niepotrzebnicki	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niepotrzebnickiego	niepotrzebnicki	adj:sg:acc:m1.m2:pos		
+> niepotrzebnickiego	niepotrzebnicki	adj:sg:gen:m1.m2.m3.n:pos		
+> niepotrzebnickiej	niepotrzebnicki	adj:sg:dat:f:pos		
+> niepotrzebnickiej	niepotrzebnicki	adj:sg:gen:f:pos		
+> niepotrzebnickiej	niepotrzebnicki	adj:sg:loc:f:pos		
+> niepotrzebnickiemu	niepotrzebnicki	adj:sg:dat:m1.m2.m3.n:pos		
+> niepotrzebnickie	niepotrzebnicki	adj:pl:acc:m2.m3.f.n:pos		
+> niepotrzebnickie	niepotrzebnicki	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niepotrzebnickie	niepotrzebnicki	adj:sg:acc:n:pos		
+> niepotrzebnickie	niepotrzebnicki	adj:sg:nom.voc:n:pos		
+> niepotrzebnickimi	niepotrzebnicki	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niepotrzebnickim	niepotrzebnicki	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niepotrzebnickim	niepotrzebnicki	adj:sg:inst:m1.m2.m3.n:pos		
+> niepotrzebnickim	niepotrzebnicki	adj:sg:loc:m1.m2.m3.n:pos		
+> niepotrzebnicki	niepotrzebnicki	adj:sg:acc:m3:pos		
+> niepotrzebnicki	niepotrzebnicki	adj:sg:nom.voc:m1.m2.m3:pos		
+2861340d2861468
+< ninje	ninja	subst:pl:nom.voc:m1	nazwa pospolita	
+2861350a2861479
+> ninjowie	ninja	subst:pl:nom.voc:m1	nazwa pospolita	
+3343555a3343685
+> paramagnetyka	paramagnetyk	subst:sg:gen:m3	nazwa pospolita	
+4648095,4648105c4648225,4648235
+< siłce	siłka	subst:sg:dat.loc:f	nazwa pospolita	daw.
+< siłek	siłka	subst:pl:gen:f	nazwa pospolita	daw.
+< siłkach	siłka	subst:pl:loc:f	nazwa pospolita	daw.
+< siłkami	siłka	subst:pl:inst:f	nazwa pospolita	daw.
+< siłka	siłka	subst:sg:nom:f	nazwa pospolita	daw.
+< siłką	siłka	subst:sg:inst:f	nazwa pospolita	daw.
+< siłkę	siłka	subst:sg:acc:f	nazwa pospolita	daw.
+< siłki	siłka	subst:pl:nom.acc.voc:f	nazwa pospolita	daw.
+< siłki	siłka	subst:sg:gen:f	nazwa pospolita	daw.
+< siłkom	siłka	subst:pl:dat:f	nazwa pospolita	daw.
+< siłko	siłka	subst:sg:voc:f	nazwa pospolita	daw.
+---
+> siłce	siłka	subst:sg:dat.loc:f	nazwa pospolita	daw._dziś_środ.
+> siłek	siłka	subst:pl:gen:f	nazwa pospolita	daw._dziś_środ.
+> siłkach	siłka	subst:pl:loc:f	nazwa pospolita	daw._dziś_środ.
+> siłkami	siłka	subst:pl:inst:f	nazwa pospolita	daw._dziś_środ.
+> siłka	siłka	subst:sg:nom:f	nazwa pospolita	daw._dziś_środ.
+> siłką	siłka	subst:sg:inst:f	nazwa pospolita	daw._dziś_środ.
+> siłkę	siłka	subst:sg:acc:f	nazwa pospolita	daw._dziś_środ.
+> siłki	siłka	subst:pl:nom.acc.voc:f	nazwa pospolita	daw._dziś_środ.
+> siłki	siłka	subst:sg:gen:f	nazwa pospolita	daw._dziś_środ.
+> siłkom	siłka	subst:pl:dat:f	nazwa pospolita	daw._dziś_środ.
+> siłko	siłka	subst:sg:voc:f	nazwa pospolita	daw._dziś_środ.
+4802711,4802722c4802841,4802864
+< spryciulach	spryciula	subst:pl:loc:f	nazwa pospolita	
+< spryciulami	spryciula	subst:pl:inst:f	nazwa pospolita	
+< spryciula	spryciula	subst:sg:nom:f	nazwa pospolita	
+< spryciulą	spryciula	subst:sg:inst:f	nazwa pospolita	
+< spryciule	spryciula	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< spryciulę	spryciula	subst:sg:acc:f	nazwa pospolita	
+< spryciuli	spryciula	subst:pl:gen:f	nazwa pospolita	hom.
+< spryciuli	spryciula	subst:sg:dat.loc:f	nazwa pospolita	
+< spryciuli	spryciula	subst:sg:gen:f	nazwa pospolita	
+< spryciulom	spryciula	subst:pl:dat:f	nazwa pospolita	
+< spryciulo	spryciula	subst:sg:voc:f	nazwa pospolita	
+< spryciul	spryciula	subst:pl:gen:f	nazwa pospolita	char.
+---
+> spryciulach	spryciula:s1	subst:pl:loc:f	nazwa pospolita	
+> spryciulami	spryciula:s1	subst:pl:inst:f	nazwa pospolita	
+> spryciula	spryciula:s1	subst:sg:nom:f	nazwa pospolita	
+> spryciulą	spryciula:s1	subst:sg:inst:f	nazwa pospolita	
+> spryciule	spryciula:s1	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> spryciulę	spryciula:s1	subst:sg:acc:f	nazwa pospolita	
+> spryciuli	spryciula:s1	subst:pl:gen:f	nazwa pospolita	hom.
+> spryciuli	spryciula:s1	subst:sg:dat.loc:f	nazwa pospolita	
+> spryciuli	spryciula:s1	subst:sg:gen:f	nazwa pospolita	
+> spryciulom	spryciula:s1	subst:pl:dat:f	nazwa pospolita	
+> spryciulo	spryciula:s1	subst:sg:voc:f	nazwa pospolita	
+> spryciul	spryciula:s1	subst:pl:gen:f	nazwa pospolita	char.
+> spryciulach	spryciula:s2	subst:pl:loc:m1	nazwa pospolita	pot.
+> spryciulami	spryciula:s2	subst:pl:inst:m1	nazwa pospolita	pot.
+> spryciula	spryciula:s2	subst:sg:nom:m1	nazwa pospolita	pot.
+> spryciulą	spryciula:s2	subst:sg:inst:m1	nazwa pospolita	pot.
+> spryciule	spryciula:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+> spryciule	spryciula:s2	subst:pl:nom.voc:m1	nazwa pospolita	pot.
+> spryciulę	spryciula:s2	subst:sg:acc:m1	nazwa pospolita	pot.
+> spryciuli	spryciula:s2	subst:sg:dat.loc:m1	nazwa pospolita	pot.
+> spryciuli	spryciula:s2	subst:sg:gen:m1	nazwa pospolita	pot.
+> spryciulom	spryciula:s2	subst:pl:dat:m1	nazwa pospolita	pot.
+> spryciulo	spryciula:s2	subst:sg:voc:m1	nazwa pospolita	pot.
+> spryciulów	spryciula:s2	subst:pl:gen.acc:m1	nazwa pospolita	pot.
+4903401,4903424c4903543,4903586
+< szaber	szaber	subst:sg:nom.acc:m3	nazwa pospolita	
+< szabrach	szaber	subst:pl:loc:m3	nazwa pospolita	
+< szabrami	szaber	subst:pl:inst:m3	nazwa pospolita	
+< szabra	szaber	subst:sg:gen:m3	nazwa pospolita	
+< szabrem	szaber	subst:sg:inst:m3	nazwa pospolita	
+< szabrom	szaber	subst:pl:dat:m3	nazwa pospolita	
+< szabrowi	szaber	subst:sg:dat:m3	nazwa pospolita	
+< szabrów	szaber	subst:pl:gen:m3	nazwa pospolita	
+< szabru	szaber	subst:sg:gen:m3	nazwa pospolita	
+< szabry	szaber	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< szabrze	szaber	subst:sg:loc:m3	nazwa pospolita	
+< szabrze	szaber	subst:sg:voc:m3	nazwa pospolita	
+< szaberek	szaberek	subst:sg:nom.acc:m3	nazwa pospolita	
+< szaberkach	szaberek	subst:pl:loc:m3	nazwa pospolita	
+< szaberkami	szaberek	subst:pl:inst:m3	nazwa pospolita	
+< szaberka	szaberek	subst:sg:gen:m3	nazwa pospolita	
+< szaberkiem	szaberek	subst:sg:inst:m3	nazwa pospolita	
+< szaberki	szaberek	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< szaberkom	szaberek	subst:pl:dat:m3	nazwa pospolita	
+< szaberkowi	szaberek	subst:sg:dat:m3	nazwa pospolita	
+< szaberków	szaberek	subst:pl:gen:m3	nazwa pospolita	
+< szaberku	szaberek	subst:sg:gen:m3	nazwa pospolita	
+< szaberku	szaberek	subst:sg:loc:m3	nazwa pospolita	
+< szaberku	szaberek	subst:sg:voc:m3	nazwa pospolita	
+---
+> szaberek	szaberek:s1	subst:sg:nom.acc:m3	nazwa pospolita	
+> szaberkach	szaberek:s1	subst:pl:loc:m3	nazwa pospolita	
+> szaberkami	szaberek:s1	subst:pl:inst:m3	nazwa pospolita	
+> szaberka	szaberek:s1	subst:sg:gen:m3	nazwa pospolita	
+> szaberkiem	szaberek:s1	subst:sg:inst:m3	nazwa pospolita	
+> szaberki	szaberek:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> szaberkom	szaberek:s1	subst:pl:dat:m3	nazwa pospolita	
+> szaberkowi	szaberek:s1	subst:sg:dat:m3	nazwa pospolita	
+> szaberków	szaberek:s1	subst:pl:gen:m3	nazwa pospolita	
+> szaberku	szaberek:s1	subst:sg:loc:m3	nazwa pospolita	
+> szaberku	szaberek:s1	subst:sg:voc:m3	nazwa pospolita	
+> szaberek	szaberek:s2	subst:sg:nom.acc:m3	nazwa pospolita	
+> szaberkach	szaberek:s2	subst:pl:loc:m3	nazwa pospolita	
+> szaberkami	szaberek:s2	subst:pl:inst:m3	nazwa pospolita	
+> szaberkiem	szaberek:s2	subst:sg:inst:m3	nazwa pospolita	
+> szaberki	szaberek:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> szaberkom	szaberek:s2	subst:pl:dat:m3	nazwa pospolita	
+> szaberkowi	szaberek:s2	subst:sg:dat:m3	nazwa pospolita	
+> szaberków	szaberek:s2	subst:pl:gen:m3	nazwa pospolita	
+> szaberku	szaberek:s2	subst:sg:gen:m3	nazwa pospolita	
+> szaberku	szaberek:s2	subst:sg:loc:m3	nazwa pospolita	
+> szaberku	szaberek:s2	subst:sg:voc:m3	nazwa pospolita	
+> szaber	szaber:s1	subst:sg:nom.acc:m3	nazwa pospolita	
+> szabrach	szaber:s1	subst:pl:loc:m3	nazwa pospolita	
+> szabrami	szaber:s1	subst:pl:inst:m3	nazwa pospolita	
+> szabra	szaber:s1	subst:sg:gen:m3	nazwa pospolita	
+> szabrem	szaber:s1	subst:sg:inst:m3	nazwa pospolita	
+> szabrom	szaber:s1	subst:pl:dat:m3	nazwa pospolita	
+> szabrowi	szaber:s1	subst:sg:dat:m3	nazwa pospolita	
+> szabrów	szaber:s1	subst:pl:gen:m3	nazwa pospolita	
+> szabry	szaber:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> szabrze	szaber:s1	subst:sg:loc:m3	nazwa pospolita	
+> szabrze	szaber:s1	subst:sg:voc:m3	nazwa pospolita	
+> szaber	szaber:s2	subst:sg:nom.acc:m3	nazwa pospolita	
+> szabrach	szaber:s2	subst:pl:loc:m3	nazwa pospolita	
+> szabrami	szaber:s2	subst:pl:inst:m3	nazwa pospolita	
+> szabrem	szaber:s2	subst:sg:inst:m3	nazwa pospolita	
+> szabrom	szaber:s2	subst:pl:dat:m3	nazwa pospolita	
+> szabrowi	szaber:s2	subst:sg:dat:m3	nazwa pospolita	
+> szabrów	szaber:s2	subst:pl:gen:m3	nazwa pospolita	
+> szabru	szaber:s2	subst:sg:gen:m3	nazwa pospolita	
+> szabry	szaber:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> szabrze	szaber:s2	subst:sg:loc:m3	nazwa pospolita	
+> szabrze	szaber:s2	subst:sg:voc:m3	nazwa pospolita	
+4933381,4933392c4933543,4933564
+< szetlandach	szetland	subst:pl:loc:m3	nazwa pospolita	
+< szetlandami	szetland	subst:pl:inst:m3	nazwa pospolita	
+< szetlanda	szetland	subst:sg:gen:m3	nazwa pospolita	
+< szetlandem	szetland	subst:sg:inst:m3	nazwa pospolita	
+< szetlandom	szetland	subst:pl:dat:m3	nazwa pospolita	
+< szetlandowi	szetland	subst:sg:dat:m3	nazwa pospolita	
+< szetlandów	szetland	subst:pl:gen:m3	nazwa pospolita	
+< szetland	szetland	subst:sg:nom.acc:m3	nazwa pospolita	
+< szetlandu	szetland	subst:sg:gen:m3	nazwa pospolita	
+< szetlandy	szetland	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< szetlandzie	szetland	subst:sg:loc:m3	nazwa pospolita	
+< szetlandzie	szetland	subst:sg:voc:m3	nazwa pospolita	
+---
+> szetlandach	szetland:s1	subst:pl:loc:m3	nazwa pospolita	
+> szetlandami	szetland:s1	subst:pl:inst:m3	nazwa pospolita	
+> szetlandem	szetland:s1	subst:sg:inst:m3	nazwa pospolita	
+> szetlandom	szetland:s1	subst:pl:dat:m3	nazwa pospolita	
+> szetlandowi	szetland:s1	subst:sg:dat:m3	nazwa pospolita	
+> szetlandów	szetland:s1	subst:pl:gen:m3	nazwa pospolita	
+> szetland	szetland:s1	subst:sg:nom.acc:m3	nazwa pospolita	
+> szetlandu	szetland:s1	subst:sg:gen:m3	nazwa pospolita	
+> szetlandy	szetland:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> szetlandzie	szetland:s1	subst:sg:loc:m3	nazwa pospolita	
+> szetlandzie	szetland:s1	subst:sg:voc:m3	nazwa pospolita	
+> szetlandach	szetland:s2	subst:pl:loc:m2	nazwa pospolita	
+> szetlandami	szetland:s2	subst:pl:inst:m2	nazwa pospolita	
+> szetlanda	szetland:s2	subst:sg:gen.acc:m2	nazwa pospolita	
+> szetlandem	szetland:s2	subst:sg:inst:m2	nazwa pospolita	
+> szetlandom	szetland:s2	subst:pl:dat:m2	nazwa pospolita	
+> szetlandowi	szetland:s2	subst:sg:dat:m2	nazwa pospolita	
+> szetlandów	szetland:s2	subst:pl:gen:m2	nazwa pospolita	
+> szetland	szetland:s2	subst:sg:nom:m2	nazwa pospolita	
+> szetlandy	szetland:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+> szetlandzie	szetland:s2	subst:sg:loc:m2	nazwa pospolita	
+> szetlandzie	szetland:s2	subst:sg:voc:m2	nazwa pospolita	
+4951492a4951665
+> szpondru	szponder	subst:sg:gen:m3	nazwa pospolita	
+5075426a5075600
+> treliażów	treliaż	subst:pl:gen:m3	nazwa pospolita	
+5075431d5075604
+< treliaży	treliaż	subst:pl:gen:m3	nazwa pospolita	
+5115891,5115919d5116063
+< tyczałabym	tyczeć	cond:sg:f:pri:imperf		rzad.
+< tyczałabyś	tyczeć	cond:sg:f:sec:imperf		rzad.
+< tyczałaby	tyczeć	cond:sg:f:ter:imperf		rzad.
+< tyczałam	tyczeć	praet:sg:f:pri:imperf		rzad.
+< tyczałaś	tyczeć	praet:sg:f:sec:imperf		rzad.
+< tyczała	tyczeć	praet:sg:f:imperf		rzad.
+< tyczała	tyczeć	praet:sg:f:ter:imperf		rzad.
+< tyczałbym	tyczeć	cond:sg:m1.m2.m3:pri:imperf		rzad.
+< tyczałbyś	tyczeć	cond:sg:m1.m2.m3:sec:imperf		rzad.
+< tyczałby	tyczeć	cond:sg:m1.m2.m3:ter:imperf		rzad.
+< tyczałem	tyczeć	praet:sg:m1.m2.m3:pri:imperf		rzad.
+< tyczałeś	tyczeć	praet:sg:m1.m2.m3:sec:imperf		rzad.
+< tyczałobym	tyczeć	cond:sg:n:pri:imperf		rzad.
+< tyczałobyś	tyczeć	cond:sg:n:sec:imperf		rzad.
+< tyczałoby	tyczeć	cond:sg:n:ter:imperf		rzad.
+< tyczałom	tyczeć	praet:sg:n:pri:imperf		rzad.
+< tyczałoś	tyczeć	praet:sg:n:sec:imperf		rzad.
+< tyczało	tyczeć	praet:sg:n:imperf		rzad.
+< tyczało	tyczeć	praet:sg:n:ter:imperf		rzad.
+< tyczał	tyczeć	praet:sg:m1.m2.m3:imperf		rzad.
+< tyczał	tyczeć	praet:sg:m1.m2.m3:ter:imperf		rzad.
+< tyczałybyście	tyczeć	cond:pl:m2.m3.f.n:sec:imperf		rzad.
+< tyczałybyśmy	tyczeć	cond:pl:m2.m3.f.n:pri:imperf		rzad.
+< tyczałyby	tyczeć	cond:pl:m2.m3.f.n:ter:imperf		rzad.
+< tyczałyście	tyczeć	praet:pl:m2.m3.f.n:sec:imperf		rzad.
+< tyczałyśmy	tyczeć	praet:pl:m2.m3.f.n:pri:imperf		rzad.
+< tyczały	tyczeć	praet:pl:m2.m3.f.n:imperf		rzad.
+< tyczały	tyczeć	praet:pl:m2.m3.f.n:ter:imperf		rzad.
+< tyczano	tyczeć	imps:imperf		rzad.
+5115929d5116072
+< tycząc	tyczeć	pcon:imperf		rzad.
+5115938,5115947d5116080
+< tyczą	tyczeć	fin:pl:ter:imperf		rzad.
+< tyczcie	tyczeć	impt:pl:sec:imperf		rzad.
+< tyczeć	tyczeć	inf:imperf		rzad.
+< tyczelibyście	tyczeć	cond:pl:m1:sec:imperf		rzad.
+< tyczelibyśmy	tyczeć	cond:pl:m1:pri:imperf		rzad.
+< tyczeliby	tyczeć	cond:pl:m1:ter:imperf		rzad.
+< tyczeliście	tyczeć	praet:pl:m1:sec:imperf		rzad.
+< tyczeliśmy	tyczeć	praet:pl:m1:pri:imperf		rzad.
+< tyczeli	tyczeć	praet:pl:m1:imperf		rzad.
+< tyczeli	tyczeć	praet:pl:m1:ter:imperf		rzad.
+5115957,5115963d5116089
+< tyczę	tyczeć	fin:sg:pri:imperf		rzad.
+< tyczmy	tyczeć	impt:pl:pri:imperf		rzad.
+< tycz	tyczeć	impt:sg:sec:imperf		rzad.
+< tyczycie	tyczeć	fin:pl:sec:imperf		rzad.
+< tyczymy	tyczeć	fin:pl:pri:imperf		rzad.
+< tyczysz	tyczeć	fin:sg:sec:imperf		rzad.
+< tyczy	tyczeć	fin:sg:ter:imperf		rzad.
+5351390,5351400c5351516,5351526
+< vedetcie	vedetta	subst:sg:dat.loc:f	nazwa pospolita	
+< vedettach	vedetta	subst:pl:loc:f	nazwa pospolita	
+< vedettami	vedetta	subst:pl:inst:f	nazwa pospolita	
+< vedetta	vedetta	subst:sg:nom:f	nazwa pospolita	
+< vedettą	vedetta	subst:sg:inst:f	nazwa pospolita	
+< vedettę	vedetta	subst:sg:acc:f	nazwa pospolita	
+< vedettom	vedetta	subst:pl:dat:f	nazwa pospolita	
+< vedetto	vedetta	subst:sg:voc:f	nazwa pospolita	
+< vedett	vedetta	subst:pl:gen:f	nazwa pospolita	
+< vedetty	vedetta	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< vedetty	vedetta	subst:sg:gen:f	nazwa pospolita	
+---
+> vedetcie	vedetta	subst:sg:dat.loc:f	nazwa pospolita	wojsk.
+> vedettach	vedetta	subst:pl:loc:f	nazwa pospolita	wojsk.
+> vedettami	vedetta	subst:pl:inst:f	nazwa pospolita	wojsk.
+> vedetta	vedetta	subst:sg:nom:f	nazwa pospolita	wojsk.
+> vedettą	vedetta	subst:sg:inst:f	nazwa pospolita	wojsk.
+> vedettę	vedetta	subst:sg:acc:f	nazwa pospolita	wojsk.
+> vedettom	vedetta	subst:pl:dat:f	nazwa pospolita	wojsk.
+> vedetto	vedetta	subst:sg:voc:f	nazwa pospolita	wojsk.
+> vedett	vedetta	subst:pl:gen:f	nazwa pospolita	wojsk.
+> vedetty	vedetta	subst:pl:nom.acc.voc:f	nazwa pospolita	wojsk.
+> vedetty	vedetta	subst:sg:gen:f	nazwa pospolita	wojsk.
+5387571,5387581c5387697,5387707
+< wedecie	wedeta	subst:sg:dat.loc:f	nazwa pospolita	
+< wedetach	wedeta	subst:pl:loc:f	nazwa pospolita	
+< wedetami	wedeta	subst:pl:inst:f	nazwa pospolita	
+< wedeta	wedeta	subst:sg:nom:f	nazwa pospolita	
+< wedetą	wedeta	subst:sg:inst:f	nazwa pospolita	
+< wedetę	wedeta	subst:sg:acc:f	nazwa pospolita	
+< wedetom	wedeta	subst:pl:dat:f	nazwa pospolita	
+< wedeto	wedeta	subst:sg:voc:f	nazwa pospolita	
+< wedet	wedeta	subst:pl:gen:f	nazwa pospolita	
+< wedety	wedeta	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< wedety	wedeta	subst:sg:gen:f	nazwa pospolita	
+---
+> wedecie	wedeta	subst:sg:dat.loc:f	nazwa pospolita	wojsk.
+> wedetach	wedeta	subst:pl:loc:f	nazwa pospolita	wojsk.
+> wedetami	wedeta	subst:pl:inst:f	nazwa pospolita	wojsk.
+> wedeta	wedeta	subst:sg:nom:f	nazwa pospolita	wojsk.
+> wedetą	wedeta	subst:sg:inst:f	nazwa pospolita	wojsk.
+> wedetę	wedeta	subst:sg:acc:f	nazwa pospolita	wojsk.
+> wedetom	wedeta	subst:pl:dat:f	nazwa pospolita	wojsk.
+> wedeto	wedeta	subst:sg:voc:f	nazwa pospolita	wojsk.
+> wedet	wedeta	subst:pl:gen:f	nazwa pospolita	wojsk.
+> wedety	wedeta	subst:pl:nom.acc.voc:f	nazwa pospolita	wojsk.
+> wedety	wedeta	subst:sg:gen:f	nazwa pospolita	wojsk.
+5393267,5393278c5393393,5393415
+< weredach	wereda	subst:pl:loc:m1	nazwa pospolita	
+< weredami	wereda	subst:pl:inst:m1	nazwa pospolita	
+< wereda	wereda	subst:sg:nom:m1	nazwa pospolita	
+< weredą	wereda	subst:sg:inst:m1	nazwa pospolita	
+< weredę	wereda	subst:sg:acc:m1	nazwa pospolita	
+< weredom	wereda	subst:pl:dat:m1	nazwa pospolita	
+< weredo	wereda	subst:sg:voc:m1	nazwa pospolita	
+< weredowie	wereda	subst:pl:nom.voc:m1	nazwa pospolita	
+< weredów	wereda	subst:pl:gen.acc:m1	nazwa pospolita	
+< weredy	wereda	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< weredy	wereda	subst:sg:gen:m1	nazwa pospolita	
+< weredzie	wereda	subst:sg:dat.loc:m1	nazwa pospolita	
+---
+> weredach	wereda:s1	subst:pl:loc:m1	nazwa pospolita	gwar.
+> weredami	wereda:s1	subst:pl:inst:m1	nazwa pospolita	gwar.
+> wereda	wereda:s1	subst:sg:nom:m1	nazwa pospolita	gwar.
+> weredą	wereda:s1	subst:sg:inst:m1	nazwa pospolita	gwar.
+> weredę	wereda:s1	subst:sg:acc:m1	nazwa pospolita	gwar.
+> weredom	wereda:s1	subst:pl:dat:m1	nazwa pospolita	gwar.
+> weredo	wereda:s1	subst:sg:voc:m1	nazwa pospolita	gwar.
+> weredowie	wereda:s1	subst:pl:nom.voc:m1	nazwa pospolita	gwar.
+> weredów	wereda:s1	subst:pl:gen.acc:m1	nazwa pospolita	gwar.
+> weredy	wereda:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	gwar.
+> weredy	wereda:s1	subst:sg:gen:m1	nazwa pospolita	gwar.
+> weredzie	wereda:s1	subst:sg:dat.loc:m1	nazwa pospolita	gwar.
+> weredach	wereda:s2	subst:pl:loc:f	nazwa pospolita	gwar.
+> weredami	wereda:s2	subst:pl:inst:f	nazwa pospolita	gwar.
+> wereda	wereda:s2	subst:sg:nom:f	nazwa pospolita	gwar.
+> weredą	wereda:s2	subst:sg:inst:f	nazwa pospolita	gwar.
+> weredę	wereda:s2	subst:sg:acc:f	nazwa pospolita	gwar.
+> weredom	wereda:s2	subst:pl:dat:f	nazwa pospolita	gwar.
+> weredo	wereda:s2	subst:sg:voc:f	nazwa pospolita	gwar.
+> wered	wereda:s2	subst:pl:gen:f	nazwa pospolita	gwar.
+> weredy	wereda:s2	subst:pl:nom.acc.voc:f	nazwa pospolita	gwar.
+> weredy	wereda:s2	subst:sg:gen:f	nazwa pospolita	gwar.
+> weredzie	wereda:s2	subst:sg:dat.loc:f	nazwa pospolita	gwar.
+5413341,5413351c5413478,5413488
+< widecie	wideta	subst:sg:dat.loc:f	nazwa pospolita	przest.
+< widetach	wideta	subst:pl:loc:f	nazwa pospolita	przest.
+< widetami	wideta	subst:pl:inst:f	nazwa pospolita	przest.
+< wideta	wideta	subst:sg:nom:f	nazwa pospolita	przest.
+< widetą	wideta	subst:sg:inst:f	nazwa pospolita	przest.
+< widetę	wideta	subst:sg:acc:f	nazwa pospolita	przest.
+< widetom	wideta	subst:pl:dat:f	nazwa pospolita	przest.
+< wideto	wideta	subst:sg:voc:f	nazwa pospolita	przest.
+< widet	wideta	subst:pl:gen:f	nazwa pospolita	przest.
+< widety	wideta	subst:pl:nom.acc.voc:f	nazwa pospolita	przest.
+< widety	wideta	subst:sg:gen:f	nazwa pospolita	przest.
+---
+> widecie	wideta	subst:sg:dat.loc:f	nazwa pospolita	przest.|wojsk.
+> widetach	wideta	subst:pl:loc:f	nazwa pospolita	przest.|wojsk.
+> widetami	wideta	subst:pl:inst:f	nazwa pospolita	przest.|wojsk.
+> wideta	wideta	subst:sg:nom:f	nazwa pospolita	przest.|wojsk.
+> widetą	wideta	subst:sg:inst:f	nazwa pospolita	przest.|wojsk.
+> widetę	wideta	subst:sg:acc:f	nazwa pospolita	przest.|wojsk.
+> widetom	wideta	subst:pl:dat:f	nazwa pospolita	przest.|wojsk.
+> wideto	wideta	subst:sg:voc:f	nazwa pospolita	przest.|wojsk.
+> widet	wideta	subst:pl:gen:f	nazwa pospolita	przest.|wojsk.
+> widety	wideta	subst:pl:nom.acc.voc:f	nazwa pospolita	przest.|wojsk.
+> widety	wideta	subst:sg:gen:f	nazwa pospolita	przest.|wojsk.
+5502406d5502542
+< wraz	wraz:b	burk		
+6026770,6026780c6026906,6026928
+< zapchajdziurach	zapchajdziura	subst:pl:loc:f	nazwa pospolita	pot.
+< zapchajdziurami	zapchajdziura	subst:pl:inst:f	nazwa pospolita	pot.
+< zapchajdziura	zapchajdziura	subst:sg:nom:f	nazwa pospolita	pot.
+< zapchajdziurą	zapchajdziura	subst:sg:inst:f	nazwa pospolita	pot.
+< zapchajdziurę	zapchajdziura	subst:sg:acc:f	nazwa pospolita	pot.
+< zapchajdziurom	zapchajdziura	subst:pl:dat:f	nazwa pospolita	pot.
+< zapchajdziuro	zapchajdziura	subst:sg:voc:f	nazwa pospolita	pot.
+< zapchajdziury	zapchajdziura	subst:pl:nom.acc.voc:f	nazwa pospolita	pot.
+< zapchajdziury	zapchajdziura	subst:sg:gen:f	nazwa pospolita	pot.
+< zapchajdziur	zapchajdziura	subst:pl:gen:f	nazwa pospolita	pot.
+< zapchajdziurze	zapchajdziura	subst:sg:dat.loc:f	nazwa pospolita	pot.
+---
+> zapchajdziurach	zapchajdziura:s1	subst:pl:loc:f	nazwa pospolita	pot.
+> zapchajdziurami	zapchajdziura:s1	subst:pl:inst:f	nazwa pospolita	pot.
+> zapchajdziura	zapchajdziura:s1	subst:sg:nom:f	nazwa pospolita	pot.
+> zapchajdziurą	zapchajdziura:s1	subst:sg:inst:f	nazwa pospolita	pot.
+> zapchajdziurę	zapchajdziura:s1	subst:sg:acc:f	nazwa pospolita	pot.
+> zapchajdziurom	zapchajdziura:s1	subst:pl:dat:f	nazwa pospolita	pot.
+> zapchajdziuro	zapchajdziura:s1	subst:sg:voc:f	nazwa pospolita	pot.
+> zapchajdziury	zapchajdziura:s1	subst:pl:nom.acc.voc:f	nazwa pospolita	pot.
+> zapchajdziury	zapchajdziura:s1	subst:sg:gen:f	nazwa pospolita	pot.
+> zapchajdziur	zapchajdziura:s1	subst:pl:gen:f	nazwa pospolita	pot.
+> zapchajdziurze	zapchajdziura:s1	subst:sg:dat.loc:f	nazwa pospolita	pot.
+> zapchajdziurach	zapchajdziura:s2	subst:pl:loc:m1	nazwa pospolita	pot.
+> zapchajdziurami	zapchajdziura:s2	subst:pl:inst:m1	nazwa pospolita	pot.
+> zapchajdziura	zapchajdziura:s2	subst:sg:nom:m1	nazwa pospolita	pot.
+> zapchajdziurą	zapchajdziura:s2	subst:sg:inst:m1	nazwa pospolita	pot.
+> zapchajdziurę	zapchajdziura:s2	subst:sg:acc:m1	nazwa pospolita	pot.
+> zapchajdziurom	zapchajdziura:s2	subst:pl:dat:m1	nazwa pospolita	pot.
+> zapchajdziuro	zapchajdziura:s2	subst:sg:voc:m1	nazwa pospolita	pot.
+> zapchajdziurów	zapchajdziura:s2	subst:pl:gen.acc:m1	nazwa pospolita	pot.
+> zapchajdziury	zapchajdziura:s2	depr:pl:nom.acc.voc:m2	nazwa pospolita	pot.
+> zapchajdziury	zapchajdziura:s2	subst:sg:gen:m1	nazwa pospolita	pot.
+> zapchajdziurze	zapchajdziura:s2	subst:sg:dat.loc:m1	nazwa pospolita	pot.
+> zapchajdziurzy	zapchajdziura:s2	subst:pl:nom.voc:m1	nazwa pospolita	pot.
+6418397,6418408d6418544
+< żydach	żyd	subst:pl:loc:m1	nazwa pospolita	
+< żydami	żyd	subst:pl:inst:m1	nazwa pospolita	
+< żyda	żyd	subst:sg:gen.acc:m1	nazwa pospolita	
+< żydem	żyd	subst:sg:inst:m1	nazwa pospolita	
+< żydom	żyd	subst:pl:dat:m1	nazwa pospolita	
+< żydowi	żyd	subst:sg:dat:m1	nazwa pospolita	
+< żydów	żyd	subst:pl:gen.acc:m1	nazwa pospolita	
+< żydy	żyd	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< żydzie	żyd	subst:sg:loc:m1	nazwa pospolita	
+< żydzie	żyd	subst:sg:voc:m1	nazwa pospolita	
+< żydzi	żyd	subst:pl:nom.voc:m1	nazwa pospolita	
+< żyd	żyd	subst:sg:nom:m1	nazwa pospolita	
+6418751a6418888,6418910
+> żydach	żyd:s1	subst:pl:loc:m1	nazwa pospolita	
+> żydami	żyd:s1	subst:pl:inst:m1	nazwa pospolita	
+> żyda	żyd:s1	subst:sg:gen.acc:m1	nazwa pospolita	
+> żydem	żyd:s1	subst:sg:inst:m1	nazwa pospolita	
+> żydom	żyd:s1	subst:pl:dat:m1	nazwa pospolita	
+> żydowi	żyd:s1	subst:sg:dat:m1	nazwa pospolita	
+> żydów	żyd:s1	subst:pl:gen.acc:m1	nazwa pospolita	
+> żydy	żyd:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> żydzie	żyd:s1	subst:sg:loc:m1	nazwa pospolita	
+> żydzie	żyd:s1	subst:sg:voc:m1	nazwa pospolita	
+> żydzi	żyd:s1	subst:pl:nom.voc:m1	nazwa pospolita	
+> żyd	żyd:s1	subst:sg:nom:m1	nazwa pospolita	
+> żydach	żyd:s2	subst:pl:loc:m2	nazwa pospolita	przest.
+> żydami	żyd:s2	subst:pl:inst:m2	nazwa pospolita	przest.
+> żyda	żyd:s2	subst:sg:gen.acc:m2	nazwa pospolita	przest.
+> żydem	żyd:s2	subst:sg:inst:m2	nazwa pospolita	przest.
+> żydom	żyd:s2	subst:pl:dat:m2	nazwa pospolita	przest.
+> żydowi	żyd:s2	subst:sg:dat:m2	nazwa pospolita	przest.
+> żydów	żyd:s2	subst:pl:gen:m2	nazwa pospolita	przest.
+> żydy	żyd:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	przest.
+> żydzie	żyd:s2	subst:sg:loc:m2	nazwa pospolita	przest.
+> żydzie	żyd:s2	subst:sg:voc:m2	nazwa pospolita	przest.
+> żyd	żyd:s2	subst:sg:nom:m2	nazwa pospolita	przest.

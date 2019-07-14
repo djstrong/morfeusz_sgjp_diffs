@@ -1,0 +1,332 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.07.16
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.07.30
+5925247a5925248,5925263
+> niezadumiona	zadumieć	ppas:sg:nom.voc:f:perf:neg		daw.|rzad.
+> niezadumioną	zadumieć	ppas:sg:acc.inst:f:perf:neg		daw.|rzad.
+> niezadumionego	zadumieć	ppas:sg:acc:m1.m2:perf:neg		daw.|rzad.
+> niezadumionego	zadumieć	ppas:sg:gen:m1.m2.m3.n:perf:neg		daw.|rzad.
+> niezadumionej	zadumieć	ppas:sg:gen.dat.loc:f:perf:neg		daw.|rzad.
+> niezadumionemu	zadumieć	ppas:sg:dat:m1.m2.m3.n:perf:neg		daw.|rzad.
+> niezadumione	zadumieć	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		daw.|rzad.
+> niezadumione	zadumieć	ppas:sg:nom.acc.voc:n:perf:neg		daw.|rzad.
+> niezadumioni	zadumieć	ppas:pl:nom.voc:m1:perf:neg		daw.|rzad.
+> niezadumionych	zadumieć	ppas:pl:acc:m1:perf:neg		daw.|rzad.
+> niezadumionych	zadumieć	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		daw.|rzad.
+> niezadumionymi	zadumieć	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		daw.|rzad.
+> niezadumionym	zadumieć	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		daw.|rzad.
+> niezadumionym	zadumieć	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		daw.|rzad.
+> niezadumiony	zadumieć	ppas:sg:acc:m3:perf:neg		daw.|rzad.
+> niezadumiony	zadumieć	ppas:sg:nom.voc:m1.m2.m3:perf:neg		daw.|rzad.
+5925297a5925314,5925322
+> zadumieją	zadumieć	fin:pl:ter:perf		daw.
+> zadumiejcie	zadumieć	impt:pl:sec:perf		daw.
+> zadumiejecie	zadumieć	fin:pl:sec:perf		daw.
+> zadumiejemy	zadumieć	fin:pl:pri:perf		daw.
+> zadumiejesz	zadumieć	fin:sg:sec:perf		daw.
+> zadumieje	zadumieć	fin:sg:ter:perf		daw.
+> zadumieję	zadumieć	fin:sg:pri:perf		daw.
+> zadumiejmy	zadumieć	impt:pl:pri:perf		daw.
+> zadumiej	zadumieć	impt:sg:sec:perf		daw.
+5925315a5925341,5925357
+> zadumiona	zadumieć	ppas:sg:nom.voc:f:perf:aff		daw.|rzad.
+> zadumioną	zadumieć	ppas:sg:acc.inst:f:perf:aff		daw.|rzad.
+> zadumionego	zadumieć	ppas:sg:acc:m1.m2:perf:aff		daw.|rzad.
+> zadumionego	zadumieć	ppas:sg:gen:m1.m2.m3.n:perf:aff		daw.|rzad.
+> zadumionej	zadumieć	ppas:sg:gen.dat.loc:f:perf:aff		daw.|rzad.
+> zadumionemu	zadumieć	ppas:sg:dat:m1.m2.m3.n:perf:aff		daw.|rzad.
+> zadumione	zadumieć	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		daw.|rzad.
+> zadumione	zadumieć	ppas:sg:nom.acc.voc:n:perf:aff		daw.|rzad.
+> zadumioni	zadumieć	ppas:pl:nom.voc:m1:perf:aff		daw.|rzad.
+> zadumiono	zadumieć	imps:perf		daw.
+> zadumionych	zadumieć	ppas:pl:acc:m1:perf:aff		daw.|rzad.
+> zadumionych	zadumieć	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		daw.|rzad.
+> zadumionymi	zadumieć	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		daw.|rzad.
+> zadumionym	zadumieć	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		daw.|rzad.
+> zadumionym	zadumieć	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		daw.|rzad.
+> zadumiony	zadumieć	ppas:sg:acc:m3:perf:aff		daw.|rzad.
+> zadumiony	zadumieć	ppas:sg:nom.voc:m1.m2.m3:perf:aff		daw.|rzad.
+6207829,6207870c6207871,6207958
+< zdumiałabym	zdumieć	cond:sg:f:pri:perf		
+< zdumiałabyś	zdumieć	cond:sg:f:sec:perf		
+< zdumiałaby	zdumieć	cond:sg:f:ter:perf		
+< zdumiałam	zdumieć	praet:sg:f:pri:perf		
+< zdumiałaś	zdumieć	praet:sg:f:sec:perf		
+< zdumiała	zdumieć	praet:sg:f:perf		
+< zdumiała	zdumieć	praet:sg:f:ter:perf		
+< zdumiałbym	zdumieć	cond:sg:m1.m2.m3:pri:perf		
+< zdumiałbyś	zdumieć	cond:sg:m1.m2.m3:sec:perf		
+< zdumiałby	zdumieć	cond:sg:m1.m2.m3:ter:perf		
+< zdumiałem	zdumieć	praet:sg:m1.m2.m3:pri:perf		
+< zdumiałeś	zdumieć	praet:sg:m1.m2.m3:sec:perf		
+< zdumiałobym	zdumieć	cond:sg:n:pri:perf		
+< zdumiałobyś	zdumieć	cond:sg:n:sec:perf		
+< zdumiałoby	zdumieć	cond:sg:n:ter:perf		
+< zdumiałom	zdumieć	praet:sg:n:pri:perf		
+< zdumiałoś	zdumieć	praet:sg:n:sec:perf		
+< zdumiało	zdumieć	praet:sg:n:perf		
+< zdumiało	zdumieć	praet:sg:n:ter:perf		
+< zdumiałybyście	zdumieć	cond:pl:m2.m3.f.n:sec:perf		
+< zdumiałybyśmy	zdumieć	cond:pl:m2.m3.f.n:pri:perf		
+< zdumiałyby	zdumieć	cond:pl:m2.m3.f.n:ter:perf		
+< zdumiałyście	zdumieć	praet:pl:m2.m3.f.n:sec:perf		
+< zdumiałyśmy	zdumieć	praet:pl:m2.m3.f.n:pri:perf		
+< zdumiały	zdumieć	praet:pl:m2.m3.f.n:perf		
+< zdumiały	zdumieć	praet:pl:m2.m3.f.n:ter:perf		
+< zdumiał	zdumieć	praet:sg:m1.m2.m3:perf		
+< zdumiał	zdumieć	praet:sg:m1.m2.m3:ter:perf		
+< zdumiawszy	zdumieć	pant:perf		
+< zdumią	zdumieć	fin:pl:ter:perf		
+< zdumicie	zdumieć	fin:pl:sec:perf		
+< zdumieć	zdumieć	inf:perf		
+< zdumiejcie	zdumieć	impt:pl:sec:perf		
+< zdumiejmy	zdumieć	impt:pl:pri:perf		
+< zdumiej	zdumieć	impt:sg:sec:perf		
+< zdumielibyście	zdumieć	cond:pl:m1:sec:perf		
+< zdumielibyśmy	zdumieć	cond:pl:m1:pri:perf		
+< zdumieliby	zdumieć	cond:pl:m1:ter:perf		
+< zdumieliście	zdumieć	praet:pl:m1:sec:perf		
+< zdumieliśmy	zdumieć	praet:pl:m1:pri:perf		
+< zdumieli	zdumieć	praet:pl:m1:perf		
+< zdumieli	zdumieć	praet:pl:m1:ter:perf		
+---
+> zdumiałabym	zdumieć	cond:sg:f:pri:perf		książk.
+> zdumiałabym	zdumieć	cond:sg:f:pri:perf		rzad.|książk.
+> zdumiałabyś	zdumieć	cond:sg:f:sec:perf		książk.
+> zdumiałabyś	zdumieć	cond:sg:f:sec:perf		rzad.|książk.
+> zdumiałaby	zdumieć	cond:sg:f:ter:perf		książk.
+> zdumiałaby	zdumieć	cond:sg:f:ter:perf		rzad.|książk.
+> zdumiałam	zdumieć	praet:sg:f:pri:perf		książk.
+> zdumiałam	zdumieć	praet:sg:f:pri:perf		rzad.|książk.
+> zdumiałaś	zdumieć	praet:sg:f:sec:perf		książk.
+> zdumiałaś	zdumieć	praet:sg:f:sec:perf		rzad.|książk.
+> zdumiała	zdumieć	praet:sg:f:perf		książk.
+> zdumiała	zdumieć	praet:sg:f:perf		rzad.|książk.
+> zdumiała	zdumieć	praet:sg:f:ter:perf		książk.
+> zdumiała	zdumieć	praet:sg:f:ter:perf		rzad.|książk.
+> zdumiałbym	zdumieć	cond:sg:m1.m2.m3:pri:perf		książk.
+> zdumiałbym	zdumieć	cond:sg:m1.m2.m3:pri:perf		rzad.|książk.
+> zdumiałbyś	zdumieć	cond:sg:m1.m2.m3:sec:perf		książk.
+> zdumiałbyś	zdumieć	cond:sg:m1.m2.m3:sec:perf		rzad.|książk.
+> zdumiałby	zdumieć	cond:sg:m1.m2.m3:ter:perf		książk.
+> zdumiałby	zdumieć	cond:sg:m1.m2.m3:ter:perf		rzad.|książk.
+> zdumiałem	zdumieć	praet:sg:m1.m2.m3:pri:perf		książk.
+> zdumiałem	zdumieć	praet:sg:m1.m2.m3:pri:perf		rzad.|książk.
+> zdumiałeś	zdumieć	praet:sg:m1.m2.m3:sec:perf		książk.
+> zdumiałeś	zdumieć	praet:sg:m1.m2.m3:sec:perf		rzad.|książk.
+> zdumiałobym	zdumieć	cond:sg:n:pri:perf		książk.
+> zdumiałobym	zdumieć	cond:sg:n:pri:perf		rzad.|książk.
+> zdumiałobyś	zdumieć	cond:sg:n:sec:perf		książk.
+> zdumiałobyś	zdumieć	cond:sg:n:sec:perf		rzad.|książk.
+> zdumiałoby	zdumieć	cond:sg:n:ter:perf		książk.
+> zdumiałoby	zdumieć	cond:sg:n:ter:perf		rzad.|książk.
+> zdumiałom	zdumieć	praet:sg:n:pri:perf		książk.
+> zdumiałom	zdumieć	praet:sg:n:pri:perf		rzad.|książk.
+> zdumiałoś	zdumieć	praet:sg:n:sec:perf		książk.
+> zdumiałoś	zdumieć	praet:sg:n:sec:perf		rzad.|książk.
+> zdumiało	zdumieć	praet:sg:n:perf		książk.
+> zdumiało	zdumieć	praet:sg:n:perf		rzad.|książk.
+> zdumiało	zdumieć	praet:sg:n:ter:perf		książk.
+> zdumiało	zdumieć	praet:sg:n:ter:perf		rzad.|książk.
+> zdumiałybyście	zdumieć	cond:pl:m2.m3.f.n:sec:perf		książk.
+> zdumiałybyście	zdumieć	cond:pl:m2.m3.f.n:sec:perf		rzad.|książk.
+> zdumiałybyśmy	zdumieć	cond:pl:m2.m3.f.n:pri:perf		książk.
+> zdumiałybyśmy	zdumieć	cond:pl:m2.m3.f.n:pri:perf		rzad.|książk.
+> zdumiałyby	zdumieć	cond:pl:m2.m3.f.n:ter:perf		książk.
+> zdumiałyby	zdumieć	cond:pl:m2.m3.f.n:ter:perf		rzad.|książk.
+> zdumiałyście	zdumieć	praet:pl:m2.m3.f.n:sec:perf		książk.
+> zdumiałyście	zdumieć	praet:pl:m2.m3.f.n:sec:perf		rzad.|książk.
+> zdumiałyśmy	zdumieć	praet:pl:m2.m3.f.n:pri:perf		książk.
+> zdumiałyśmy	zdumieć	praet:pl:m2.m3.f.n:pri:perf		rzad.|książk.
+> zdumiały	zdumieć	praet:pl:m2.m3.f.n:perf		książk.
+> zdumiały	zdumieć	praet:pl:m2.m3.f.n:perf		rzad.|książk.
+> zdumiały	zdumieć	praet:pl:m2.m3.f.n:ter:perf		książk.
+> zdumiały	zdumieć	praet:pl:m2.m3.f.n:ter:perf		rzad.|książk.
+> zdumiał	zdumieć	praet:sg:m1.m2.m3:perf		książk.
+> zdumiał	zdumieć	praet:sg:m1.m2.m3:perf		rzad.|książk.
+> zdumiał	zdumieć	praet:sg:m1.m2.m3:ter:perf		książk.
+> zdumiał	zdumieć	praet:sg:m1.m2.m3:ter:perf		rzad.|książk.
+> zdumiawszy	zdumieć	pant:perf		książk.
+> zdumiawszy	zdumieć	pant:perf		rzad.|książk.
+> zdumią	zdumieć	fin:pl:ter:perf		rzad.|książk.
+> zdumicie	zdumieć	fin:pl:sec:perf		rzad.|książk.
+> zdumieć	zdumieć	inf:perf		książk.
+> zdumieć	zdumieć	inf:perf		rzad.|książk.
+> zdumieją	zdumieć	fin:pl:ter:perf		książk.
+> zdumiejcie	zdumieć	impt:pl:sec:perf		książk.
+> zdumiejcie	zdumieć	impt:pl:sec:perf		rzad.|książk.
+> zdumiejecie	zdumieć	fin:pl:sec:perf		książk.
+> zdumiejemy	zdumieć	fin:pl:pri:perf		książk.
+> zdumiejesz	zdumieć	fin:sg:sec:perf		książk.
+> zdumieje	zdumieć	fin:sg:ter:perf		książk.
+> zdumieję	zdumieć	fin:sg:pri:perf		książk.
+> zdumiejmy	zdumieć	impt:pl:pri:perf		książk.
+> zdumiejmy	zdumieć	impt:pl:pri:perf		rzad.|książk.
+> zdumiej	zdumieć	impt:sg:sec:perf		książk.
+> zdumiej	zdumieć	impt:sg:sec:perf		rzad.|książk.
+> zdumielibyście	zdumieć	cond:pl:m1:sec:perf		książk.
+> zdumielibyście	zdumieć	cond:pl:m1:sec:perf		rzad.|książk.
+> zdumielibyśmy	zdumieć	cond:pl:m1:pri:perf		książk.
+> zdumielibyśmy	zdumieć	cond:pl:m1:pri:perf		rzad.|książk.
+> zdumieliby	zdumieć	cond:pl:m1:ter:perf		książk.
+> zdumieliby	zdumieć	cond:pl:m1:ter:perf		rzad.|książk.
+> zdumieliście	zdumieć	praet:pl:m1:sec:perf		książk.
+> zdumieliście	zdumieć	praet:pl:m1:sec:perf		rzad.|książk.
+> zdumieliśmy	zdumieć	praet:pl:m1:pri:perf		książk.
+> zdumieliśmy	zdumieć	praet:pl:m1:pri:perf		rzad.|książk.
+> zdumieli	zdumieć	praet:pl:m1:perf		książk.
+> zdumieli	zdumieć	praet:pl:m1:perf		rzad.|książk.
+> zdumieli	zdumieć	praet:pl:m1:ter:perf		książk.
+> zdumieli	zdumieć	praet:pl:m1:ter:perf		rzad.|książk.
+6207881,6207882c6207969,6207970
+< zdumię	zdumieć	fin:sg:pri:perf		
+< zdumimy	zdumieć	fin:pl:pri:perf		
+---
+> zdumię	zdumieć	fin:sg:pri:perf		rzad.|książk.
+> zdumimy	zdumieć	fin:pl:pri:perf		rzad.|książk.
+6207891c6207979,6207980
+< zdumiono	zdumieć	imps:perf		
+---
+> zdumiono	zdumieć	imps:perf		książk.
+> zdumiono	zdumieć	imps:perf		rzad.|książk.
+6207899,6207900c6207988,6207989
+< zdumisz	zdumieć	fin:sg:sec:perf		
+< zdumi	zdumieć	fin:sg:ter:perf		
+---
+> zdumisz	zdumieć	fin:sg:sec:perf		rzad.|książk.
+> zdumi	zdumieć	fin:sg:ter:perf		rzad.|książk.
+6238082a6238172,6238187
+> niezeszpecająca	zeszpecać	pact:sg:nom.voc:f:imperf:neg		
+> niezeszpecającą	zeszpecać	pact:sg:acc.inst:f:imperf:neg		
+> niezeszpecającego	zeszpecać	pact:sg:acc:m1.m2:imperf:neg		
+> niezeszpecającego	zeszpecać	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> niezeszpecającej	zeszpecać	pact:sg:gen.dat.loc:f:imperf:neg		
+> niezeszpecającemu	zeszpecać	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> niezeszpecające	zeszpecać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niezeszpecające	zeszpecać	pact:sg:nom.acc.voc:n:imperf:neg		
+> niezeszpecających	zeszpecać	pact:pl:acc:m1:imperf:neg		
+> niezeszpecających	zeszpecać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niezeszpecającymi	zeszpecać	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niezeszpecającym	zeszpecać	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niezeszpecającym	zeszpecać	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niezeszpecający	zeszpecać	pact:pl:nom.voc:m1:imperf:neg		
+> niezeszpecający	zeszpecać	pact:sg:acc:m3:imperf:neg		
+> niezeszpecający	zeszpecać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+6238108,6238150c6238213,6238273
+< zeszpecacie	zeszpecać	fin:pl:sec:perf		
+< zeszpecać	zeszpecać	inf:perf		
+< zeszpecają	zeszpecać	fin:pl:ter:perf		
+< zeszpecajcie	zeszpecać	impt:pl:sec:perf		
+< zeszpecajmy	zeszpecać	impt:pl:pri:perf		
+< zeszpecaj	zeszpecać	impt:sg:sec:perf		
+< zeszpecalibyście	zeszpecać	cond:pl:m1:sec:perf		
+< zeszpecalibyśmy	zeszpecać	cond:pl:m1:pri:perf		
+< zeszpecaliby	zeszpecać	cond:pl:m1:ter:perf		
+< zeszpecaliście	zeszpecać	praet:pl:m1:sec:perf		
+< zeszpecaliśmy	zeszpecać	praet:pl:m1:pri:perf		
+< zeszpecali	zeszpecać	praet:pl:m1:perf		
+< zeszpecali	zeszpecać	praet:pl:m1:ter:perf		
+< zeszpecałabym	zeszpecać	cond:sg:f:pri:perf		
+< zeszpecałabyś	zeszpecać	cond:sg:f:sec:perf		
+< zeszpecałaby	zeszpecać	cond:sg:f:ter:perf		
+< zeszpecałam	zeszpecać	praet:sg:f:pri:perf		
+< zeszpecałaś	zeszpecać	praet:sg:f:sec:perf		
+< zeszpecała	zeszpecać	praet:sg:f:perf		
+< zeszpecała	zeszpecać	praet:sg:f:ter:perf		
+< zeszpecałbym	zeszpecać	cond:sg:m1.m2.m3:pri:perf		
+< zeszpecałbyś	zeszpecać	cond:sg:m1.m2.m3:sec:perf		
+< zeszpecałby	zeszpecać	cond:sg:m1.m2.m3:ter:perf		
+< zeszpecałem	zeszpecać	praet:sg:m1.m2.m3:pri:perf		
+< zeszpecałeś	zeszpecać	praet:sg:m1.m2.m3:sec:perf		
+< zeszpecałobym	zeszpecać	cond:sg:n:pri:perf		
+< zeszpecałobyś	zeszpecać	cond:sg:n:sec:perf		
+< zeszpecałoby	zeszpecać	cond:sg:n:ter:perf		
+< zeszpecałom	zeszpecać	praet:sg:n:pri:perf		
+< zeszpecałoś	zeszpecać	praet:sg:n:sec:perf		
+< zeszpecało	zeszpecać	praet:sg:n:perf		
+< zeszpecało	zeszpecać	praet:sg:n:ter:perf		
+< zeszpecałybyście	zeszpecać	cond:pl:m2.m3.f.n:sec:perf		
+< zeszpecałybyśmy	zeszpecać	cond:pl:m2.m3.f.n:pri:perf		
+< zeszpecałyby	zeszpecać	cond:pl:m2.m3.f.n:ter:perf		
+< zeszpecałyście	zeszpecać	praet:pl:m2.m3.f.n:sec:perf		
+< zeszpecałyśmy	zeszpecać	praet:pl:m2.m3.f.n:pri:perf		
+< zeszpecały	zeszpecać	praet:pl:m2.m3.f.n:perf		
+< zeszpecały	zeszpecać	praet:pl:m2.m3.f.n:ter:perf		
+< zeszpecał	zeszpecać	praet:sg:m1.m2.m3:perf		
+< zeszpecał	zeszpecać	praet:sg:m1.m2.m3:ter:perf		
+< zeszpecamy	zeszpecać	fin:pl:pri:perf		
+< zeszpecam	zeszpecać	fin:sg:pri:perf		
+---
+> zeszpecacie	zeszpecać	fin:pl:sec:imperf		
+> zeszpecać	zeszpecać	inf:imperf		
+> zeszpecająca	zeszpecać	pact:sg:nom.voc:f:imperf:aff		
+> zeszpecającą	zeszpecać	pact:sg:acc.inst:f:imperf:aff		
+> zeszpecającego	zeszpecać	pact:sg:acc:m1.m2:imperf:aff		
+> zeszpecającego	zeszpecać	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> zeszpecającej	zeszpecać	pact:sg:gen.dat.loc:f:imperf:aff		
+> zeszpecającemu	zeszpecać	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> zeszpecające	zeszpecać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> zeszpecające	zeszpecać	pact:sg:nom.acc.voc:n:imperf:aff		
+> zeszpecająco	zeszpecać	pacta		
+> zeszpecających	zeszpecać	pact:pl:acc:m1:imperf:aff		
+> zeszpecających	zeszpecać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> zeszpecającymi	zeszpecać	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> zeszpecającym	zeszpecać	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> zeszpecającym	zeszpecać	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> zeszpecający	zeszpecać	pact:pl:nom.voc:m1:imperf:aff		
+> zeszpecający	zeszpecać	pact:sg:acc:m3:imperf:aff		
+> zeszpecający	zeszpecać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> zeszpecając	zeszpecać	pcon:imperf		
+> zeszpecają	zeszpecać	fin:pl:ter:imperf		
+> zeszpecajcie	zeszpecać	impt:pl:sec:imperf		
+> zeszpecajmy	zeszpecać	impt:pl:pri:imperf		
+> zeszpecaj	zeszpecać	impt:sg:sec:imperf		
+> zeszpecalibyście	zeszpecać	cond:pl:m1:sec:imperf		
+> zeszpecalibyśmy	zeszpecać	cond:pl:m1:pri:imperf		
+> zeszpecaliby	zeszpecać	cond:pl:m1:ter:imperf		
+> zeszpecaliście	zeszpecać	praet:pl:m1:sec:imperf		
+> zeszpecaliśmy	zeszpecać	praet:pl:m1:pri:imperf		
+> zeszpecali	zeszpecać	praet:pl:m1:imperf		
+> zeszpecali	zeszpecać	praet:pl:m1:ter:imperf		
+> zeszpecałabym	zeszpecać	cond:sg:f:pri:imperf		
+> zeszpecałabyś	zeszpecać	cond:sg:f:sec:imperf		
+> zeszpecałaby	zeszpecać	cond:sg:f:ter:imperf		
+> zeszpecałam	zeszpecać	praet:sg:f:pri:imperf		
+> zeszpecałaś	zeszpecać	praet:sg:f:sec:imperf		
+> zeszpecała	zeszpecać	praet:sg:f:imperf		
+> zeszpecała	zeszpecać	praet:sg:f:ter:imperf		
+> zeszpecałbym	zeszpecać	cond:sg:m1.m2.m3:pri:imperf		
+> zeszpecałbyś	zeszpecać	cond:sg:m1.m2.m3:sec:imperf		
+> zeszpecałby	zeszpecać	cond:sg:m1.m2.m3:ter:imperf		
+> zeszpecałem	zeszpecać	praet:sg:m1.m2.m3:pri:imperf		
+> zeszpecałeś	zeszpecać	praet:sg:m1.m2.m3:sec:imperf		
+> zeszpecałobym	zeszpecać	cond:sg:n:pri:imperf		
+> zeszpecałobyś	zeszpecać	cond:sg:n:sec:imperf		
+> zeszpecałoby	zeszpecać	cond:sg:n:ter:imperf		
+> zeszpecałom	zeszpecać	praet:sg:n:pri:imperf		
+> zeszpecałoś	zeszpecać	praet:sg:n:sec:imperf		
+> zeszpecało	zeszpecać	praet:sg:n:imperf		
+> zeszpecało	zeszpecać	praet:sg:n:ter:imperf		
+> zeszpecałybyście	zeszpecać	cond:pl:m2.m3.f.n:sec:imperf		
+> zeszpecałybyśmy	zeszpecać	cond:pl:m2.m3.f.n:pri:imperf		
+> zeszpecałyby	zeszpecać	cond:pl:m2.m3.f.n:ter:imperf		
+> zeszpecałyście	zeszpecać	praet:pl:m2.m3.f.n:sec:imperf		
+> zeszpecałyśmy	zeszpecać	praet:pl:m2.m3.f.n:pri:imperf		
+> zeszpecały	zeszpecać	praet:pl:m2.m3.f.n:imperf		
+> zeszpecały	zeszpecać	praet:pl:m2.m3.f.n:ter:imperf		
+> zeszpecał	zeszpecać	praet:sg:m1.m2.m3:imperf		
+> zeszpecał	zeszpecać	praet:sg:m1.m2.m3:ter:imperf		
+> zeszpecamy	zeszpecać	fin:pl:pri:imperf		
+> zeszpecam	zeszpecać	fin:sg:pri:imperf		
+6238168c6238291
+< zeszpecano	zeszpecać	imps:perf		
+---
+> zeszpecano	zeszpecać	imps:imperf		
+6238177,6238179c6238300,6238301
+< zeszpecasz	zeszpecać	fin:sg:sec:perf		
+< zeszpecawszy	zeszpecać	pant:perf		
+< zeszpeca	zeszpecać	fin:sg:ter:perf		
+---
+> zeszpecasz	zeszpecać	fin:sg:sec:imperf		
+> zeszpeca	zeszpecać	fin:sg:ter:imperf		

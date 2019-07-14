@@ -1,0 +1,132 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.10.05
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.10.09
+3139992a3139993,3140015
+> niezróżnicowana	niezróżnicowany	adj:sg:nom.voc:f:pos		
+> niezróżnicowaną	niezróżnicowany	adj:sg:acc:f:pos		
+> niezróżnicowaną	niezróżnicowany	adj:sg:inst:f:pos		
+> niezróżnicowanego	niezróżnicowany	adj:sg:acc:m1.m2:pos		
+> niezróżnicowanego	niezróżnicowany	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> niezróżnicowanej	niezróżnicowany	adj:sg:dat:f:pos		
+> niezróżnicowanej	niezróżnicowany	adj:sg:gen:f:pos		
+> niezróżnicowanej	niezróżnicowany	adj:sg:loc:f:pos		
+> niezróżnicowanemu	niezróżnicowany	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> niezróżnicowane	niezróżnicowany	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> niezróżnicowane	niezróżnicowany	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> niezróżnicowane	niezróżnicowany	adj:sg:acc:n1.n2:pos		
+> niezróżnicowane	niezróżnicowany	adj:sg:nom.voc:n1.n2:pos		
+> niezróżnicowani	niezróżnicowany	adj:pl:nom.voc:m1.p1:pos		
+> niezróżnicowanych	niezróżnicowany	adj:pl:acc:m1.p1:pos		
+> niezróżnicowanych	niezróżnicowany	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> niezróżnicowanych	niezróżnicowany	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> niezróżnicowanymi	niezróżnicowany	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> niezróżnicowanym	niezróżnicowany	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> niezróżnicowanym	niezróżnicowany	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> niezróżnicowanym	niezróżnicowany	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> niezróżnicowany	niezróżnicowany	adj:sg:acc:m3:pos		
+> niezróżnicowany	niezróżnicowany	adj:sg:nom.voc:m1.m2.m3:pos		
+3551064,3551078c3551087,3551101
+< ordynariach	ordynaria	subst:pl:loc:f	nazwa pospolita	
+< ordynariami	ordynaria	subst:pl:inst:f	nazwa pospolita	
+< ordynaria	ordynaria	subst:sg:nom:f	nazwa pospolita	
+< ordynarią	ordynaria	subst:sg:inst:f	nazwa pospolita	
+< ordynarie	ordynaria	subst:pl:acc:f	nazwa pospolita	
+< ordynarie	ordynaria	subst:pl:nom:f	nazwa pospolita	
+< ordynarie	ordynaria	subst:pl:voc:f	nazwa pospolita	
+< ordynarię	ordynaria	subst:sg:acc:f	nazwa pospolita	
+< ordynarii	ordynaria	subst:pl:gen:f	nazwa pospolita	hom.
+< ordynarii	ordynaria	subst:sg:dat:f	nazwa pospolita	
+< ordynarii	ordynaria	subst:sg:gen:f	nazwa pospolita	
+< ordynarii	ordynaria	subst:sg:loc:f	nazwa pospolita	
+< ordynariom	ordynaria	subst:pl:dat:f	nazwa pospolita	
+< ordynario	ordynaria	subst:sg:voc:f	nazwa pospolita	
+< ordynaryj	ordynaria	subst:pl:gen:f	nazwa pospolita	arch.|char.
+---
+> ordynariach	ordynaria	subst:pl:loc:f	nazwa pospolita	hist.
+> ordynariami	ordynaria	subst:pl:inst:f	nazwa pospolita	hist.
+> ordynaria	ordynaria	subst:sg:nom:f	nazwa pospolita	hist.
+> ordynarią	ordynaria	subst:sg:inst:f	nazwa pospolita	hist.
+> ordynarie	ordynaria	subst:pl:acc:f	nazwa pospolita	hist.
+> ordynarie	ordynaria	subst:pl:nom:f	nazwa pospolita	hist.
+> ordynarie	ordynaria	subst:pl:voc:f	nazwa pospolita	hist.
+> ordynarię	ordynaria	subst:sg:acc:f	nazwa pospolita	hist.
+> ordynarii	ordynaria	subst:pl:gen:f	nazwa pospolita	hom.|hist.
+> ordynarii	ordynaria	subst:sg:dat:f	nazwa pospolita	hist.
+> ordynarii	ordynaria	subst:sg:gen:f	nazwa pospolita	hist.
+> ordynarii	ordynaria	subst:sg:loc:f	nazwa pospolita	hist.
+> ordynariom	ordynaria	subst:pl:dat:f	nazwa pospolita	hist.
+> ordynario	ordynaria	subst:sg:voc:f	nazwa pospolita	hist.
+> ordynaryj	ordynaria	subst:pl:gen:f	nazwa pospolita	arch.|char.|hist.
+5131288a5131312,5131334
+> najsnadniejsi	snadny	adj:pl:nom.voc:m1.p1:sup		daw.
+> najsnadniejsza	snadny	adj:sg:nom.voc:f:sup		daw.
+> najsnadniejszą	snadny	adj:sg:acc:f:sup		daw.
+> najsnadniejszą	snadny	adj:sg:inst:f:sup		daw.
+> najsnadniejszego	snadny	adj:sg:acc:m1.m2:sup		daw.
+> najsnadniejszego	snadny	adj:sg:gen:m1.m2.m3.n1.n2:sup		daw.
+> najsnadniejszej	snadny	adj:sg:dat:f:sup		daw.
+> najsnadniejszej	snadny	adj:sg:gen:f:sup		daw.
+> najsnadniejszej	snadny	adj:sg:loc:f:sup		daw.
+> najsnadniejszemu	snadny	adj:sg:dat:m1.m2.m3.n1.n2:sup		daw.
+> najsnadniejsze	snadny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:sup		daw.
+> najsnadniejsze	snadny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:sup		daw.
+> najsnadniejsze	snadny	adj:sg:acc:n1.n2:sup		daw.
+> najsnadniejsze	snadny	adj:sg:nom.voc:n1.n2:sup		daw.
+> najsnadniejszych	snadny	adj:pl:acc:m1.p1:sup		daw.
+> najsnadniejszych	snadny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		daw.
+> najsnadniejszych	snadny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		daw.
+> najsnadniejszymi	snadny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		daw.
+> najsnadniejszym	snadny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:sup		daw.
+> najsnadniejszym	snadny	adj:sg:inst:m1.m2.m3.n1.n2:sup		daw.
+> najsnadniejszym	snadny	adj:sg:loc:m1.m2.m3.n1.n2:sup		daw.
+> najsnadniejszy	snadny	adj:sg:acc:m3:sup		daw.
+> najsnadniejszy	snadny	adj:sg:nom.voc:m1.m2.m3:sup		daw.
+5131301a5131348,5131370
+> snadniejsi	snadny	adj:pl:nom.voc:m1.p1:com		daw.
+> snadniejsza	snadny	adj:sg:nom.voc:f:com		daw.
+> snadniejszą	snadny	adj:sg:acc:f:com		daw.
+> snadniejszą	snadny	adj:sg:inst:f:com		daw.
+> snadniejszego	snadny	adj:sg:acc:m1.m2:com		daw.
+> snadniejszego	snadny	adj:sg:gen:m1.m2.m3.n1.n2:com		daw.
+> snadniejszej	snadny	adj:sg:dat:f:com		daw.
+> snadniejszej	snadny	adj:sg:gen:f:com		daw.
+> snadniejszej	snadny	adj:sg:loc:f:com		daw.
+> snadniejszemu	snadny	adj:sg:dat:m1.m2.m3.n1.n2:com		daw.
+> snadniejsze	snadny	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:com		daw.
+> snadniejsze	snadny	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:com		daw.
+> snadniejsze	snadny	adj:sg:acc:n1.n2:com		daw.
+> snadniejsze	snadny	adj:sg:nom.voc:n1.n2:com		daw.
+> snadniejszych	snadny	adj:pl:acc:m1.p1:com		daw.
+> snadniejszych	snadny	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:com		daw.
+> snadniejszych	snadny	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:com		daw.
+> snadniejszymi	snadny	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:com		daw.
+> snadniejszym	snadny	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:com		daw.
+> snadniejszym	snadny	adj:sg:inst:m1.m2.m3.n1.n2:com		daw.
+> snadniejszym	snadny	adj:sg:loc:m1.m2.m3.n1.n2:com		daw.
+> snadniejszy	snadny	adj:sg:acc:m3:com		daw.
+> snadniejszy	snadny	adj:sg:nom.voc:m1.m2.m3:com		daw.
+6827408a6827478,6827500
+> zróżnicowana	zróżnicowany	adj:sg:nom.voc:f:pos		
+> zróżnicowaną	zróżnicowany	adj:sg:acc:f:pos		
+> zróżnicowaną	zróżnicowany	adj:sg:inst:f:pos		
+> zróżnicowanego	zróżnicowany	adj:sg:acc:m1.m2:pos		
+> zróżnicowanego	zróżnicowany	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> zróżnicowanej	zróżnicowany	adj:sg:dat:f:pos		
+> zróżnicowanej	zróżnicowany	adj:sg:gen:f:pos		
+> zróżnicowanej	zróżnicowany	adj:sg:loc:f:pos		
+> zróżnicowanemu	zróżnicowany	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> zróżnicowane	zróżnicowany	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> zróżnicowane	zróżnicowany	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> zróżnicowane	zróżnicowany	adj:sg:acc:n1.n2:pos		
+> zróżnicowane	zróżnicowany	adj:sg:nom.voc:n1.n2:pos		
+> zróżnicowani	zróżnicowany	adj:pl:nom.voc:m1.p1:pos		
+> zróżnicowanych	zróżnicowany	adj:pl:acc:m1.p1:pos		
+> zróżnicowanych	zróżnicowany	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> zróżnicowanych	zróżnicowany	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> zróżnicowanymi	zróżnicowany	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> zróżnicowanym	zróżnicowany	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> zróżnicowanym	zróżnicowany	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> zróżnicowanym	zróżnicowany	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> zróżnicowany	zróżnicowany	adj:sg:acc:m3:pos		
+> zróżnicowany	zróżnicowany	adj:sg:nom.voc:m1.m2.m3:pos		

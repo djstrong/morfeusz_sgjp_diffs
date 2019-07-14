@@ -1,0 +1,417 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2016.01.31
+---
+> #!DICT-ID pl.sgjp.sgjp-2016.02.04
+3399632a3399633,3399729
+> nieodredagowana	odredagować	ppas:sg:nom.voc:f:perf:neg		
+> nieodredagowaną	odredagować	ppas:sg:acc.inst:f:perf:neg		
+> nieodredagowanego	odredagować	ppas:sg:acc:m1.m2:perf:neg		
+> nieodredagowanego	odredagować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> nieodredagowanej	odredagować	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieodredagowanemu	odredagować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> nieodredagowane	odredagować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> nieodredagowane	odredagować	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> nieodredagowaniach	odredagować	ger:pl:loc:n2:perf:neg		
+> nieodredagowaniami	odredagować	ger:pl:inst:n2:perf:neg		
+> nieodredagowania	odredagować	ger:pl:nom.acc:n2:perf:neg		
+> nieodredagowania	odredagować	ger:sg:gen:n2:perf:neg		
+> nieodredagowaniem	odredagować	ger:sg:inst:n2:perf:neg		
+> nieodredagowanie	odredagować	ger:sg:nom.acc:n2:perf:neg		
+> nieodredagowani	odredagować	ppas:pl:nom.voc:m1.p1:perf:neg		
+> nieodredagowaniom	odredagować	ger:pl:dat:n2:perf:neg		
+> nieodredagowaniu	odredagować	ger:sg:dat.loc:n2:perf:neg		
+> nieodredagowanych	odredagować	ppas:pl:acc:m1.p1:perf:neg		
+> nieodredagowanych	odredagować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieodredagowanymi	odredagować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieodredagowanym	odredagować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieodredagowanym	odredagować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> nieodredagowany	odredagować	ppas:sg:acc:m3:perf:neg		
+> nieodredagowany	odredagować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nieodredagowań	odredagować	ger:pl:gen:n2:perf:neg		
+> odredagować	odredagować	inf:perf		rzad.
+> odredagowaliby	odredagować	cond:pl:m1.p1:ter:perf		rzad.
+> odredagowalibyście	odredagować	cond:pl:m1.p1:sec:perf		rzad.
+> odredagowalibyśmy	odredagować	cond:pl:m1.p1:pri:perf		rzad.
+> odredagowali	odredagować	praet:pl:m1.p1:perf		rzad.
+> odredagowali	odredagować	praet:pl:m1.p1:ter:perf		rzad.
+> odredagowaliście	odredagować	praet:pl:m1.p1:sec:perf		rzad.
+> odredagowaliśmy	odredagować	praet:pl:m1.p1:pri:perf		rzad.
+> odredagowałabym	odredagować	cond:sg:f:pri:perf		rzad.
+> odredagowałaby	odredagować	cond:sg:f:ter:perf		rzad.
+> odredagowałabyś	odredagować	cond:sg:f:sec:perf		rzad.
+> odredagowałam	odredagować	praet:sg:f:pri:perf		rzad.
+> odredagowała	odredagować	praet:sg:f:perf		rzad.
+> odredagowała	odredagować	praet:sg:f:ter:perf		rzad.
+> odredagowałaś	odredagować	praet:sg:f:sec:perf		rzad.
+> odredagowałbym	odredagować	cond:sg:m1.m2.m3:pri:perf		rzad.
+> odredagowałby	odredagować	cond:sg:m1.m2.m3:ter:perf		rzad.
+> odredagowałbyś	odredagować	cond:sg:m1.m2.m3:sec:perf		rzad.
+> odredagowałem	odredagować	praet:sg:m1.m2.m3:pri:perf		rzad.
+> odredagowałeś	odredagować	praet:sg:m1.m2.m3:sec:perf		rzad.
+> odredagowałobym	odredagować	cond:sg:n1.n2:pri:perf		rzad.
+> odredagowałoby	odredagować	cond:sg:n1.n2:ter:perf		rzad.
+> odredagowałobyś	odredagować	cond:sg:n1.n2:sec:perf		rzad.
+> odredagował	odredagować	praet:sg:m1.m2.m3:perf		rzad.
+> odredagował	odredagować	praet:sg:m1.m2.m3:ter:perf		rzad.
+> odredagowałom	odredagować	praet:sg:n1.n2:pri:perf		rzad.
+> odredagowało	odredagować	praet:sg:n1.n2:perf		rzad.
+> odredagowało	odredagować	praet:sg:n1.n2:ter:perf		rzad.
+> odredagowałoś	odredagować	praet:sg:n1.n2:sec:perf		rzad.
+> odredagowałyby	odredagować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> odredagowałybyście	odredagować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> odredagowałybyśmy	odredagować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> odredagowały	odredagować	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> odredagowały	odredagować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> odredagowałyście	odredagować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> odredagowałyśmy	odredagować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> odredagowana	odredagować	ppas:sg:nom.voc:f:perf:aff		
+> odredagowaną	odredagować	ppas:sg:acc.inst:f:perf:aff		
+> odredagowanego	odredagować	ppas:sg:acc:m1.m2:perf:aff		
+> odredagowanego	odredagować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> odredagowanej	odredagować	ppas:sg:gen.dat.loc:f:perf:aff		
+> odredagowanemu	odredagować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> odredagowane	odredagować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> odredagowane	odredagować	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> odredagowaniach	odredagować	ger:pl:loc:n2:perf:aff		
+> odredagowaniami	odredagować	ger:pl:inst:n2:perf:aff		
+> odredagowania	odredagować	ger:pl:nom.acc:n2:perf:aff		
+> odredagowania	odredagować	ger:sg:gen:n2:perf:aff		
+> odredagowaniem	odredagować	ger:sg:inst:n2:perf:aff		
+> odredagowanie	odredagować	ger:sg:nom.acc:n2:perf:aff		
+> odredagowani	odredagować	ppas:pl:nom.voc:m1.p1:perf:aff		
+> odredagowaniom	odredagować	ger:pl:dat:n2:perf:aff		
+> odredagowaniu	odredagować	ger:sg:dat.loc:n2:perf:aff		
+> odredagowano	odredagować	imps:perf		rzad.
+> odredagowanych	odredagować	ppas:pl:acc:m1.p1:perf:aff		
+> odredagowanych	odredagować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> odredagowanymi	odredagować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> odredagowanym	odredagować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> odredagowanym	odredagować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> odredagowany	odredagować	ppas:sg:acc:m3:perf:aff		
+> odredagowany	odredagować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> odredagowań	odredagować	ger:pl:gen:n2:perf:aff		
+> odredagowawszy	odredagować	pant:perf		rzad.
+> odredagują	odredagować	fin:pl:ter:perf		rzad.
+> odredagujcie	odredagować	impt:pl:sec:perf		rzad.
+> odredagujecie	odredagować	fin:pl:sec:perf		rzad.
+> odredagujemy	odredagować	fin:pl:pri:perf		rzad.
+> odredaguje	odredagować	fin:sg:ter:perf		rzad.
+> odredagujesz	odredagować	fin:sg:sec:perf		rzad.
+> odredaguję	odredagować	fin:sg:pri:perf		rzad.
+> odredagujmy	odredagować	impt:pl:pri:perf		rzad.
+> odredaguj	odredagować	impt:sg:sec:perf		rzad.
+4273307a4273405
+> procent	procent	subst:sg:gen:m3	nazwa pospolita	po_liczebniku
+4335023a4335122
+> przededniach	przeddzień	subst:pl:loc:m3	nazwa pospolita	
+4335035d4335133
+< przedniach	przeddzień	subst:pl:loc:m3	nazwa pospolita	
+4672997,4673173c4673095,4673224
+< nieredagowana	redagować:v1	ppas:sg:nom.voc:f:imperf:neg		
+< nieredagowaną	redagować:v1	ppas:sg:acc.inst:f:imperf:neg		
+< nieredagowanego	redagować:v1	ppas:sg:acc:m1.m2:imperf:neg		
+< nieredagowanego	redagować:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+< nieredagowanej	redagować:v1	ppas:sg:gen.dat.loc:f:imperf:neg		
+< nieredagowanemu	redagować:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+< nieredagowane	redagować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+< nieredagowane	redagować:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+< nieredagowaniach	redagować:v1	ger:pl:loc:n2:imperf:neg		
+< nieredagowaniami	redagować:v1	ger:pl:inst:n2:imperf:neg		
+< nieredagowania	redagować:v1	ger:pl:nom.acc:n2:imperf:neg		
+< nieredagowania	redagować:v1	ger:sg:gen:n2:imperf:neg		
+< nieredagowaniem	redagować:v1	ger:sg:inst:n2:imperf:neg		
+< nieredagowanie	redagować:v1	ger:sg:nom.acc:n2:imperf:neg		
+< nieredagowaniom	redagować:v1	ger:pl:dat:n2:imperf:neg		
+< nieredagowani	redagować:v1	ppas:pl:nom.voc:m1.p1:imperf:neg		
+< nieredagowaniu	redagować:v1	ger:sg:dat.loc:n2:imperf:neg		
+< nieredagowanych	redagować:v1	ppas:pl:acc:m1.p1:imperf:neg		
+< nieredagowanych	redagować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nieredagowanymi	redagować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nieredagowanym	redagować:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nieredagowanym	redagować:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+< nieredagowany	redagować:v1	ppas:sg:acc:m3:imperf:neg		
+< nieredagowany	redagować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+< nieredagowań	redagować:v1	ger:pl:gen:n2:imperf:neg		
+< nieredagująca	redagować:v1	pact:sg:nom.voc:f:imperf:neg		
+< nieredagującą	redagować:v1	pact:sg:acc.inst:f:imperf:neg		
+< nieredagującego	redagować:v1	pact:sg:acc:m1.m2:imperf:neg		
+< nieredagującego	redagować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+< nieredagującej	redagować:v1	pact:sg:gen.dat.loc:f:imperf:neg		
+< nieredagującemu	redagować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+< nieredagujące	redagować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+< nieredagujące	redagować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
+< nieredagujących	redagować:v1	pact:pl:acc:m1.p1:imperf:neg		
+< nieredagujących	redagować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nieredagującymi	redagować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nieredagującym	redagować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+< nieredagującym	redagować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+< nieredagujący	redagować:v1	pact:pl:nom.voc:m1.p1:imperf:neg		
+< nieredagujący	redagować:v1	pact:sg:acc:m3:imperf:neg		
+< nieredagujący	redagować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+< redagować	redagować:v1	inf:imperf		
+< redagowaliby	redagować:v1	cond:pl:m1.p1:ter:imperf		
+< redagowalibyście	redagować:v1	cond:pl:m1.p1:sec:imperf		
+< redagowalibyśmy	redagować:v1	cond:pl:m1.p1:pri:imperf		
+< redagowali	redagować:v1	praet:pl:m1.p1:imperf		
+< redagowali	redagować:v1	praet:pl:m1.p1:ter:imperf		
+< redagowaliście	redagować:v1	praet:pl:m1.p1:sec:imperf		
+< redagowaliśmy	redagować:v1	praet:pl:m1.p1:pri:imperf		
+< redagowałabym	redagować:v1	cond:sg:f:pri:imperf		
+< redagowałaby	redagować:v1	cond:sg:f:ter:imperf		
+< redagowałabyś	redagować:v1	cond:sg:f:sec:imperf		
+< redagowałam	redagować:v1	praet:sg:f:pri:imperf		
+< redagowała	redagować:v1	praet:sg:f:imperf		
+< redagowała	redagować:v1	praet:sg:f:ter:imperf		
+< redagowałaś	redagować:v1	praet:sg:f:sec:imperf		
+< redagowałbym	redagować:v1	cond:sg:m1.m2.m3:pri:imperf		
+< redagowałby	redagować:v1	cond:sg:m1.m2.m3:ter:imperf		
+< redagowałbyś	redagować:v1	cond:sg:m1.m2.m3:sec:imperf		
+< redagowałem	redagować:v1	praet:sg:m1.m2.m3:pri:imperf		
+< redagowałeś	redagować:v1	praet:sg:m1.m2.m3:sec:imperf		
+< redagowałobym	redagować:v1	cond:sg:n1.n2:pri:imperf		
+< redagowałoby	redagować:v1	cond:sg:n1.n2:ter:imperf		
+< redagowałobyś	redagować:v1	cond:sg:n1.n2:sec:imperf		
+< redagowałom	redagować:v1	praet:sg:n1.n2:pri:imperf		
+< redagowało	redagować:v1	praet:sg:n1.n2:imperf		
+< redagowało	redagować:v1	praet:sg:n1.n2:ter:imperf		
+< redagowałoś	redagować:v1	praet:sg:n1.n2:sec:imperf		
+< redagował	redagować:v1	praet:sg:m1.m2.m3:imperf		
+< redagował	redagować:v1	praet:sg:m1.m2.m3:ter:imperf		
+< redagowałyby	redagować:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+< redagowałybyście	redagować:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+< redagowałybyśmy	redagować:v1	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+< redagowały	redagować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+< redagowały	redagować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+< redagowałyście	redagować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+< redagowałyśmy	redagować:v1	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+< redagowana	redagować:v1	ppas:sg:nom.voc:f:imperf:aff		
+< redagowaną	redagować:v1	ppas:sg:acc.inst:f:imperf:aff		
+< redagowanego	redagować:v1	ppas:sg:acc:m1.m2:imperf:aff		
+< redagowanego	redagować:v1	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+< redagowanej	redagować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
+< redagowanemu	redagować:v1	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+< redagowane	redagować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+< redagowane	redagować:v1	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+< redagowaniach	redagować:v1	ger:pl:loc:n2:imperf:aff		
+< redagowaniami	redagować:v1	ger:pl:inst:n2:imperf:aff		
+< redagowania	redagować:v1	ger:pl:nom.acc:n2:imperf:aff		
+< redagowania	redagować:v1	ger:sg:gen:n2:imperf:aff		
+< redagowaniem	redagować:v1	ger:sg:inst:n2:imperf:aff		
+< redagowanie	redagować:v1	ger:sg:nom.acc:n2:imperf:aff		
+< redagowaniom	redagować:v1	ger:pl:dat:n2:imperf:aff		
+< redagowani	redagować:v1	ppas:pl:nom.voc:m1.p1:imperf:aff		
+< redagowaniu	redagować:v1	ger:sg:dat.loc:n2:imperf:aff		
+< redagowano	redagować:v1	imps:imperf		
+< redagowanych	redagować:v1	ppas:pl:acc:m1.p1:imperf:aff		
+< redagowanych	redagować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< redagowanymi	redagować:v1	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< redagowanym	redagować:v1	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< redagowanym	redagować:v1	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+< redagowany	redagować:v1	ppas:sg:acc:m3:imperf:aff		
+< redagowany	redagować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+< redagowań	redagować:v1	ger:pl:gen:n2:imperf:aff		
+< redagująca	redagować:v1	pact:sg:nom.voc:f:imperf:aff		
+< redagującą	redagować:v1	pact:sg:acc.inst:f:imperf:aff		
+< redagującego	redagować:v1	pact:sg:acc:m1.m2:imperf:aff		
+< redagującego	redagować:v1	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+< redagującej	redagować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
+< redagującemu	redagować:v1	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+< redagujące	redagować:v1	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+< redagujące	redagować:v1	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+< redagująco	redagować:v1	pacta		
+< redagując	redagować:v1	pcon:imperf		
+< redagujących	redagować:v1	pact:pl:acc:m1.p1:imperf:aff		
+< redagujących	redagować:v1	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< redagującymi	redagować:v1	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< redagującym	redagować:v1	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+< redagującym	redagować:v1	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+< redagujący	redagować:v1	pact:pl:nom.voc:m1.p1:imperf:aff		
+< redagujący	redagować:v1	pact:sg:acc:m3:imperf:aff		
+< redagujący	redagować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+< redagują	redagować:v1	fin:pl:ter:imperf		
+< redagujcie	redagować:v1	impt:pl:sec:imperf		
+< redagujecie	redagować:v1	fin:pl:sec:imperf		
+< redagujemy	redagować:v1	fin:pl:pri:imperf		
+< redaguje	redagować:v1	fin:sg:ter:imperf		
+< redagujesz	redagować:v1	fin:sg:sec:imperf		
+< redaguję	redagować:v1	fin:sg:pri:imperf		
+< redagujmy	redagować:v1	impt:pl:pri:imperf		
+< redaguj	redagować:v1	impt:sg:sec:imperf		
+< redagować	redagować:v2	inf:imperf		
+< redagowaliby	redagować:v2	cond:pl:m1.p1:ter:imperf		
+< redagowalibyście	redagować:v2	cond:pl:m1.p1:sec:imperf		
+< redagowalibyśmy	redagować:v2	cond:pl:m1.p1:pri:imperf		
+< redagowali	redagować:v2	praet:pl:m1.p1:imperf		
+< redagowali	redagować:v2	praet:pl:m1.p1:ter:imperf		
+< redagowaliście	redagować:v2	praet:pl:m1.p1:sec:imperf		
+< redagowaliśmy	redagować:v2	praet:pl:m1.p1:pri:imperf		
+< redagowałabym	redagować:v2	cond:sg:f:pri:imperf		
+< redagowałaby	redagować:v2	cond:sg:f:ter:imperf		
+< redagowałabyś	redagować:v2	cond:sg:f:sec:imperf		
+< redagowałam	redagować:v2	praet:sg:f:pri:imperf		
+< redagowała	redagować:v2	praet:sg:f:imperf		
+< redagowała	redagować:v2	praet:sg:f:ter:imperf		
+< redagowałaś	redagować:v2	praet:sg:f:sec:imperf		
+< redagowałbym	redagować:v2	cond:sg:m1.m2.m3:pri:imperf		
+< redagowałby	redagować:v2	cond:sg:m1.m2.m3:ter:imperf		
+< redagowałbyś	redagować:v2	cond:sg:m1.m2.m3:sec:imperf		
+< redagowałem	redagować:v2	praet:sg:m1.m2.m3:pri:imperf		
+< redagowałeś	redagować:v2	praet:sg:m1.m2.m3:sec:imperf		
+< redagowałobym	redagować:v2	cond:sg:n1.n2:pri:imperf		
+< redagowałoby	redagować:v2	cond:sg:n1.n2:ter:imperf		
+< redagowałobyś	redagować:v2	cond:sg:n1.n2:sec:imperf		
+< redagowałom	redagować:v2	praet:sg:n1.n2:pri:imperf		
+< redagowało	redagować:v2	praet:sg:n1.n2:imperf		
+< redagowało	redagować:v2	praet:sg:n1.n2:ter:imperf		
+< redagowałoś	redagować:v2	praet:sg:n1.n2:sec:imperf		
+< redagował	redagować:v2	praet:sg:m1.m2.m3:imperf		
+< redagował	redagować:v2	praet:sg:m1.m2.m3:ter:imperf		
+< redagowałyby	redagować:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+< redagowałybyście	redagować:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+< redagowałybyśmy	redagować:v2	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+< redagowały	redagować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+< redagowały	redagować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+< redagowałyście	redagować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+< redagowałyśmy	redagować:v2	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+< redagowano	redagować:v2	imps:imperf		
+< redagując	redagować:v2	pcon:imperf		
+< redagują	redagować:v2	fin:pl:ter:imperf		
+< redagujcie	redagować:v2	impt:pl:sec:imperf		
+< redagujecie	redagować:v2	fin:pl:sec:imperf		
+< redagujemy	redagować:v2	fin:pl:pri:imperf		
+< redaguje	redagować:v2	fin:sg:ter:imperf		
+< redagujesz	redagować:v2	fin:sg:sec:imperf		
+< redaguję	redagować:v2	fin:sg:pri:imperf		
+< redagujmy	redagować:v2	impt:pl:pri:imperf		
+< redaguj	redagować:v2	impt:sg:sec:imperf		
+---
+> nieredagowana	redagować	ppas:sg:nom.voc:f:imperf:neg		
+> nieredagowaną	redagować	ppas:sg:acc.inst:f:imperf:neg		
+> nieredagowanego	redagować	ppas:sg:acc:m1.m2:imperf:neg		
+> nieredagowanego	redagować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> nieredagowanej	redagować	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieredagowanemu	redagować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+> nieredagowane	redagować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> nieredagowane	redagować	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+> nieredagowaniach	redagować	ger:pl:loc:n2:imperf:neg		
+> nieredagowaniami	redagować	ger:pl:inst:n2:imperf:neg		
+> nieredagowania	redagować	ger:pl:nom.acc:n2:imperf:neg		
+> nieredagowania	redagować	ger:sg:gen:n2:imperf:neg		
+> nieredagowaniem	redagować	ger:sg:inst:n2:imperf:neg		
+> nieredagowanie	redagować	ger:sg:nom.acc:n2:imperf:neg		
+> nieredagowaniom	redagować	ger:pl:dat:n2:imperf:neg		
+> nieredagowani	redagować	ppas:pl:nom.voc:m1.p1:imperf:neg		
+> nieredagowaniu	redagować	ger:sg:dat.loc:n2:imperf:neg		
+> nieredagowanych	redagować	ppas:pl:acc:m1.p1:imperf:neg		
+> nieredagowanych	redagować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieredagowanymi	redagować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieredagowanym	redagować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieredagowanym	redagować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> nieredagowany	redagować	ppas:sg:acc:m3:imperf:neg		
+> nieredagowany	redagować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieredagowań	redagować	ger:pl:gen:n2:imperf:neg		
+> nieredagująca	redagować	pact:sg:nom.voc:f:imperf:neg		
+> nieredagującą	redagować	pact:sg:acc.inst:f:imperf:neg		
+> nieredagującego	redagować	pact:sg:acc:m1.m2:imperf:neg		
+> nieredagującego	redagować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> nieredagującej	redagować	pact:sg:gen.dat.loc:f:imperf:neg		
+> nieredagującemu	redagować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+> nieredagujące	redagować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> nieredagujące	redagować	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
+> nieredagujących	redagować	pact:pl:acc:m1.p1:imperf:neg		
+> nieredagujących	redagować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieredagującymi	redagować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieredagującym	redagować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieredagującym	redagować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> nieredagujący	redagować	pact:pl:nom.voc:m1.p1:imperf:neg		
+> nieredagujący	redagować	pact:sg:acc:m3:imperf:neg		
+> nieredagujący	redagować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> redagować	redagować	inf:imperf		
+> redagowaliby	redagować	cond:pl:m1.p1:ter:imperf		
+> redagowalibyście	redagować	cond:pl:m1.p1:sec:imperf		
+> redagowalibyśmy	redagować	cond:pl:m1.p1:pri:imperf		
+> redagowali	redagować	praet:pl:m1.p1:imperf		
+> redagowali	redagować	praet:pl:m1.p1:ter:imperf		
+> redagowaliście	redagować	praet:pl:m1.p1:sec:imperf		
+> redagowaliśmy	redagować	praet:pl:m1.p1:pri:imperf		
+> redagowałabym	redagować	cond:sg:f:pri:imperf		
+> redagowałaby	redagować	cond:sg:f:ter:imperf		
+> redagowałabyś	redagować	cond:sg:f:sec:imperf		
+> redagowałam	redagować	praet:sg:f:pri:imperf		
+> redagowała	redagować	praet:sg:f:imperf		
+> redagowała	redagować	praet:sg:f:ter:imperf		
+> redagowałaś	redagować	praet:sg:f:sec:imperf		
+> redagowałbym	redagować	cond:sg:m1.m2.m3:pri:imperf		
+> redagowałby	redagować	cond:sg:m1.m2.m3:ter:imperf		
+> redagowałbyś	redagować	cond:sg:m1.m2.m3:sec:imperf		
+> redagowałem	redagować	praet:sg:m1.m2.m3:pri:imperf		
+> redagowałeś	redagować	praet:sg:m1.m2.m3:sec:imperf		
+> redagowałobym	redagować	cond:sg:n1.n2:pri:imperf		
+> redagowałoby	redagować	cond:sg:n1.n2:ter:imperf		
+> redagowałobyś	redagować	cond:sg:n1.n2:sec:imperf		
+> redagowałom	redagować	praet:sg:n1.n2:pri:imperf		
+> redagowało	redagować	praet:sg:n1.n2:imperf		
+> redagowało	redagować	praet:sg:n1.n2:ter:imperf		
+> redagowałoś	redagować	praet:sg:n1.n2:sec:imperf		
+> redagował	redagować	praet:sg:m1.m2.m3:imperf		
+> redagował	redagować	praet:sg:m1.m2.m3:ter:imperf		
+> redagowałyby	redagować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> redagowałybyście	redagować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> redagowałybyśmy	redagować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> redagowały	redagować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+> redagowały	redagować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> redagowałyście	redagować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> redagowałyśmy	redagować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> redagowana	redagować	ppas:sg:nom.voc:f:imperf:aff		
+> redagowaną	redagować	ppas:sg:acc.inst:f:imperf:aff		
+> redagowanego	redagować	ppas:sg:acc:m1.m2:imperf:aff		
+> redagowanego	redagować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> redagowanej	redagować	ppas:sg:gen.dat.loc:f:imperf:aff		
+> redagowanemu	redagować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+> redagowane	redagować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> redagowane	redagować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+> redagowaniach	redagować	ger:pl:loc:n2:imperf:aff		
+> redagowaniami	redagować	ger:pl:inst:n2:imperf:aff		
+> redagowania	redagować	ger:pl:nom.acc:n2:imperf:aff		
+> redagowania	redagować	ger:sg:gen:n2:imperf:aff		
+> redagowaniem	redagować	ger:sg:inst:n2:imperf:aff		
+> redagowanie	redagować	ger:sg:nom.acc:n2:imperf:aff		
+> redagowaniom	redagować	ger:pl:dat:n2:imperf:aff		
+> redagowani	redagować	ppas:pl:nom.voc:m1.p1:imperf:aff		
+> redagowaniu	redagować	ger:sg:dat.loc:n2:imperf:aff		
+> redagowano	redagować	imps:imperf		
+> redagowanych	redagować	ppas:pl:acc:m1.p1:imperf:aff		
+> redagowanych	redagować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> redagowanymi	redagować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> redagowanym	redagować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> redagowanym	redagować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> redagowany	redagować	ppas:sg:acc:m3:imperf:aff		
+> redagowany	redagować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> redagowań	redagować	ger:pl:gen:n2:imperf:aff		
+> redagująca	redagować	pact:sg:nom.voc:f:imperf:aff		
+> redagującą	redagować	pact:sg:acc.inst:f:imperf:aff		
+> redagującego	redagować	pact:sg:acc:m1.m2:imperf:aff		
+> redagującego	redagować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> redagującej	redagować	pact:sg:gen.dat.loc:f:imperf:aff		
+> redagującemu	redagować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+> redagujące	redagować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> redagujące	redagować	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+> redagująco	redagować	pacta		
+> redagując	redagować	pcon:imperf		
+> redagujących	redagować	pact:pl:acc:m1.p1:imperf:aff		
+> redagujących	redagować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> redagującymi	redagować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> redagującym	redagować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> redagującym	redagować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> redagujący	redagować	pact:pl:nom.voc:m1.p1:imperf:aff		
+> redagujący	redagować	pact:sg:acc:m3:imperf:aff		
+> redagujący	redagować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> redagują	redagować	fin:pl:ter:imperf		
+> redagujcie	redagować	impt:pl:sec:imperf		
+> redagujecie	redagować	fin:pl:sec:imperf		
+> redagujemy	redagować	fin:pl:pri:imperf		
+> redaguje	redagować	fin:sg:ter:imperf		
+> redagujesz	redagować	fin:sg:sec:imperf		
+> redaguję	redagować	fin:sg:pri:imperf		
+> redagujmy	redagować	impt:pl:pri:imperf		
+> redaguj	redagować	impt:sg:sec:imperf		

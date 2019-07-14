@@ -1,0 +1,412 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2014.10.13
+---
+> #!DICT-ID pl.sgjp.sgjp-2014.11.06
+3465210a3465211,3465218
+> nieonanizowana	onanizować	ppas:sg:nom.voc:f:imperf:neg		
+> nieonanizowaną	onanizować	ppas:sg:acc.inst:f:imperf:neg		
+> nieonanizowanego	onanizować	ppas:sg:acc:m1.m2:imperf:neg		
+> nieonanizowanego	onanizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> nieonanizowanej	onanizować	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieonanizowanemu	onanizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+> nieonanizowane	onanizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> nieonanizowane	onanizować	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+3465216a3465225
+> nieonanizowani	onanizować	ppas:pl:nom.voc:m1.p1:imperf:neg		
+3465217a3465227,3465233
+> nieonanizowanych	onanizować	ppas:pl:acc:m1.p1:imperf:neg		
+> nieonanizowanych	onanizować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieonanizowanymi	onanizować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieonanizowanym	onanizować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieonanizowanym	onanizować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> nieonanizowany	onanizować	ppas:sg:acc:m3:imperf:neg		
+> nieonanizowany	onanizować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+3465270a3465287,3465294
+> onanizowana	onanizować	ppas:sg:nom.voc:f:imperf:aff		
+> onanizowaną	onanizować	ppas:sg:acc.inst:f:imperf:aff		
+> onanizowanego	onanizować	ppas:sg:acc:m1.m2:imperf:aff		
+> onanizowanego	onanizować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> onanizowanej	onanizować	ppas:sg:gen.dat.loc:f:imperf:aff		
+> onanizowanemu	onanizować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+> onanizowane	onanizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> onanizowane	onanizować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+3465276a3465301
+> onanizowani	onanizować	ppas:pl:nom.voc:m1.p1:imperf:aff		
+3465278a3465304,3465310
+> onanizowanych	onanizować	ppas:pl:acc:m1.p1:imperf:aff		
+> onanizowanych	onanizować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> onanizowanymi	onanizować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> onanizowanym	onanizować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> onanizowanym	onanizować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> onanizowany	onanizować	ppas:sg:acc:m3:imperf:aff		
+> onanizowany	onanizować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+3893190a3893223,3893224
+> niepokosztowana	pokosztować	ppas:sg:nom.voc:f:perf:neg		
+> niepokosztowaną	pokosztować	ppas:sg:acc.inst:f:perf:neg		
+3893192a3893227,3893228
+> niepokosztowanego	pokosztować	ppas:sg:acc:m1.m2:perf:neg		
+> niepokosztowanego	pokosztować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+3893194a3893231,3893232
+> niepokosztowanej	pokosztować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niepokosztowanemu	pokosztować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+3893196a3893235,3893236
+> niepokosztowane	pokosztować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> niepokosztowane	pokosztować	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+3893204a3893245
+> niepokosztowani	pokosztować	ppas:pl:nom.voc:m1.p1:perf:neg		
+3893206a3893248
+> niepokosztowanych	pokosztować	ppas:pl:acc:m1.p1:perf:neg		
+3893207a3893250,3893251
+> niepokosztowanych	pokosztować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niepokosztowanymi	pokosztować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+3893209a3893254,3893255
+> niepokosztowanym	pokosztować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niepokosztowanym	pokosztować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+3893211a3893258,3893259
+> niepokosztowany	pokosztować	ppas:sg:acc:m3:perf:neg		
+> niepokosztowany	pokosztować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+3893250a3893299,3893300
+> pokosztowana	pokosztować	ppas:sg:nom.voc:f:perf:aff		
+> pokosztowaną	pokosztować	ppas:sg:acc.inst:f:perf:aff		
+3893252a3893303,3893304
+> pokosztowanego	pokosztować	ppas:sg:acc:m1.m2:perf:aff		
+> pokosztowanego	pokosztować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+3893254a3893307,3893308
+> pokosztowanej	pokosztować	ppas:sg:gen.dat.loc:f:perf:aff		
+> pokosztowanemu	pokosztować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+3893256a3893311,3893312
+> pokosztowane	pokosztować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> pokosztowane	pokosztować	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+3893264a3893321
+> pokosztowani	pokosztować	ppas:pl:nom.voc:m1.p1:perf:aff		
+3893267a3893325
+> pokosztowanych	pokosztować	ppas:pl:acc:m1.p1:perf:aff		
+3893268a3893327,3893328
+> pokosztowanych	pokosztować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> pokosztowanymi	pokosztować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+3893270a3893331,3893332
+> pokosztowanym	pokosztować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> pokosztowanym	pokosztować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+3893272a3893335,3893336
+> pokosztowany	pokosztować	ppas:sg:acc:m3:perf:aff		
+> pokosztowany	pokosztować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+4263691a4263756,4263763
+> nieprzeczołgana	przeczołgać	ppas:sg:nom.voc:f:perf:neg		
+> nieprzeczołganą	przeczołgać	ppas:sg:acc.inst:f:perf:neg		
+> nieprzeczołganego	przeczołgać	ppas:sg:acc:m1.m2:perf:neg		
+> nieprzeczołganego	przeczołgać	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> nieprzeczołganej	przeczołgać	ppas:sg:gen.dat.loc:f:perf:neg		
+> nieprzeczołganemu	przeczołgać	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> nieprzeczołgane	przeczołgać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> nieprzeczołgane	przeczołgać	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+4263697a4263770
+> nieprzeczołgani	przeczołgać	ppas:pl:nom.voc:m1.p1:perf:neg		
+4263698a4263772,4263778
+> nieprzeczołganych	przeczołgać	ppas:pl:acc:m1.p1:perf:neg		
+> nieprzeczołganych	przeczołgać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieprzeczołganymi	przeczołgać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieprzeczołganym	przeczołgać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> nieprzeczołganym	przeczołgać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> nieprzeczołgany	przeczołgać	ppas:sg:acc:m3:perf:neg		
+> nieprzeczołgany	przeczołgać	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+4263742a4263823,4263830
+> przeczołgana	przeczołgać	ppas:sg:nom.voc:f:perf:aff		
+> przeczołganą	przeczołgać	ppas:sg:acc.inst:f:perf:aff		
+> przeczołganego	przeczołgać	ppas:sg:acc:m1.m2:perf:aff		
+> przeczołganego	przeczołgać	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> przeczołganej	przeczołgać	ppas:sg:gen.dat.loc:f:perf:aff		
+> przeczołganemu	przeczołgać	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> przeczołgane	przeczołgać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> przeczołgane	przeczołgać	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+4263748a4263837
+> przeczołgani	przeczołgać	ppas:pl:nom.voc:m1.p1:perf:aff		
+4263750a4263840,4263846
+> przeczołganych	przeczołgać	ppas:pl:acc:m1.p1:perf:aff		
+> przeczołganych	przeczołgać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> przeczołganymi	przeczołgać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> przeczołganym	przeczołgać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> przeczołganym	przeczołgać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> przeczołgany	przeczołgać	ppas:sg:acc:m3:perf:aff		
+> przeczołgany	przeczołgać	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+4263754a4263851,4263858
+> nieprzeczołgiwana	przeczołgiwać	ppas:sg:nom.voc:f:imperf:neg		
+> nieprzeczołgiwaną	przeczołgiwać	ppas:sg:acc.inst:f:imperf:neg		
+> nieprzeczołgiwanego	przeczołgiwać	ppas:sg:acc:m1.m2:imperf:neg		
+> nieprzeczołgiwanego	przeczołgiwać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> nieprzeczołgiwanej	przeczołgiwać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieprzeczołgiwanemu	przeczołgiwać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+> nieprzeczołgiwane	przeczołgiwać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> nieprzeczołgiwane	przeczołgiwać	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+4263760a4263865
+> nieprzeczołgiwani	przeczołgiwać	ppas:pl:nom.voc:m1.p1:imperf:neg		
+4263761a4263867,4263873
+> nieprzeczołgiwanych	przeczołgiwać	ppas:pl:acc:m1.p1:imperf:neg		
+> nieprzeczołgiwanych	przeczołgiwać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieprzeczołgiwanymi	przeczołgiwać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieprzeczołgiwanym	przeczołgiwać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieprzeczołgiwanym	przeczołgiwać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> nieprzeczołgiwany	przeczołgiwać	ppas:sg:acc:m3:imperf:neg		
+> nieprzeczołgiwany	przeczołgiwać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+4263814a4263927,4263934
+> przeczołgiwana	przeczołgiwać	ppas:sg:nom.voc:f:imperf:aff		
+> przeczołgiwaną	przeczołgiwać	ppas:sg:acc.inst:f:imperf:aff		
+> przeczołgiwanego	przeczołgiwać	ppas:sg:acc:m1.m2:imperf:aff		
+> przeczołgiwanego	przeczołgiwać	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> przeczołgiwanej	przeczołgiwać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> przeczołgiwanemu	przeczołgiwać	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+> przeczołgiwane	przeczołgiwać	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> przeczołgiwane	przeczołgiwać	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+4263820a4263941
+> przeczołgiwani	przeczołgiwać	ppas:pl:nom.voc:m1.p1:imperf:aff		
+4263822a4263944,4263950
+> przeczołgiwanych	przeczołgiwać	ppas:pl:acc:m1.p1:imperf:aff		
+> przeczołgiwanych	przeczołgiwać	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> przeczołgiwanymi	przeczołgiwać	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> przeczołgiwanym	przeczołgiwać	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> przeczołgiwanym	przeczołgiwać	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> przeczołgiwany	przeczołgiwać	ppas:sg:acc:m3:imperf:aff		
+> przeczołgiwany	przeczołgiwać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+4263855a4263984
+> nieprzeczołgnięci	przeczołgnąć	ppas:pl:nom.voc:m1.p1:perf:neg		rzad.
+4263857a4263987,4264001
+> nieprzeczołgnięta	przeczołgnąć	ppas:sg:nom.voc:f:perf:neg		rzad.
+> nieprzeczołgniętą	przeczołgnąć	ppas:sg:acc.inst:f:perf:neg		rzad.
+> nieprzeczołgniętego	przeczołgnąć	ppas:sg:acc:m1.m2:perf:neg		rzad.
+> nieprzeczołgniętego	przeczołgnąć	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		rzad.
+> nieprzeczołgniętej	przeczołgnąć	ppas:sg:gen.dat.loc:f:perf:neg		rzad.
+> nieprzeczołgniętemu	przeczołgnąć	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		rzad.
+> nieprzeczołgnięte	przeczołgnąć	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		rzad.
+> nieprzeczołgnięte	przeczołgnąć	ppas:sg:nom.acc.voc:n1.n2:perf:neg		rzad.
+> nieprzeczołgniętych	przeczołgnąć	ppas:pl:acc:m1.p1:perf:neg		rzad.
+> nieprzeczołgniętych	przeczołgnąć	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		rzad.
+> nieprzeczołgniętymi	przeczołgnąć	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		rzad.
+> nieprzeczołgniętym	przeczołgnąć	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		rzad.
+> nieprzeczołgniętym	przeczołgnąć	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		rzad.
+> nieprzeczołgnięty	przeczołgnąć	ppas:sg:acc:m3:perf:neg		rzad.
+> nieprzeczołgnięty	przeczołgnąć	ppas:sg:nom.voc:m1.m2.m3:perf:neg		rzad.
+4263906a4264051
+> przeczołgnięci	przeczołgnąć	ppas:pl:nom.voc:m1.p1:perf:aff		rzad.
+4263908a4264054,4264061
+> przeczołgnięta	przeczołgnąć	ppas:sg:nom.voc:f:perf:aff		rzad.
+> przeczołgniętą	przeczołgnąć	ppas:sg:acc.inst:f:perf:aff		rzad.
+> przeczołgniętego	przeczołgnąć	ppas:sg:acc:m1.m2:perf:aff		rzad.
+> przeczołgniętego	przeczołgnąć	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		rzad.
+> przeczołgniętej	przeczołgnąć	ppas:sg:gen.dat.loc:f:perf:aff		rzad.
+> przeczołgniętemu	przeczołgnąć	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		rzad.
+> przeczołgnięte	przeczołgnąć	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		rzad.
+> przeczołgnięte	przeczołgnąć	ppas:sg:nom.acc.voc:n1.n2:perf:aff		rzad.
+4263909a4264063,4264069
+> przeczołgniętych	przeczołgnąć	ppas:pl:acc:m1.p1:perf:aff		rzad.
+> przeczołgniętych	przeczołgnąć	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		rzad.
+> przeczołgniętymi	przeczołgnąć	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		rzad.
+> przeczołgniętym	przeczołgnąć	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		rzad.
+> przeczołgniętym	przeczołgnąć	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		rzad.
+> przeczołgnięty	przeczołgnąć	ppas:sg:acc:m3:perf:aff		rzad.
+> przeczołgnięty	przeczołgnąć	ppas:sg:nom.voc:m1.m2.m3:perf:aff		rzad.
+5466457,5466470c5466617,5466711
+< tweeterach	tweeter	subst:pl:loc:m3	pospolita	
+< tweeterami	tweeter	subst:pl:inst:m3	pospolita	
+< tweetera	tweeter	subst:sg:gen:m3	pospolita	
+< tweeterem	tweeter	subst:sg:inst:m3	pospolita	
+< tweeterom	tweeter	subst:pl:dat:m3	pospolita	
+< tweeterowi	tweeter	subst:sg:dat:m3	pospolita	
+< tweeterów	tweeter	subst:pl:gen:m3	pospolita	
+< tweeter	tweeter	subst:sg:acc:m3	pospolita	
+< tweeter	tweeter	subst:sg:nom:m3	pospolita	
+< tweetery	tweeter	subst:pl:acc:m3	pospolita	
+< tweetery	tweeter	subst:pl:nom:m3	pospolita	
+< tweetery	tweeter	subst:pl:voc:m3	pospolita	
+< tweeterze	tweeter	subst:sg:loc:m3	pospolita	
+< tweeterze	tweeter	subst:sg:voc:m3	pospolita	
+---
+> nietweetowaniami	tweetować	ger:pl:inst:n2:imperf:neg		
+> nietweetowania	tweetować	ger:pl:nom.acc:n2:imperf:neg		
+> nietweetowania	tweetować	ger:sg:gen:n2:imperf:neg		
+> nietweetowaniem	tweetować	ger:sg:inst:n2:imperf:neg		
+> nietweetowanie	tweetować	ger:sg:nom.acc:n2:imperf:neg		
+> nietweetowaniom	tweetować	ger:pl:dat.loc:n2:imperf:neg		
+> nietweetowaniu	tweetować	ger:sg:dat.loc:n2:imperf:neg		
+> nietweetowań	tweetować	ger:pl:gen:n2:imperf:neg		
+> nietweetująca	tweetować	pact:sg:nom.voc:f:imperf:neg		
+> nietweetującą	tweetować	pact:sg:acc.inst:f:imperf:neg		
+> nietweetującego	tweetować	pact:sg:acc:m1.m2:imperf:neg		
+> nietweetującego	tweetować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> nietweetującej	tweetować	pact:sg:gen.dat.loc:f:imperf:neg		
+> nietweetującemu	tweetować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+> nietweetujące	tweetować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> nietweetujące	tweetować	pact:sg:nom.acc.voc:n1.n2:imperf:neg		
+> nietweetujących	tweetować	pact:pl:acc:m1.p1:imperf:neg		
+> nietweetujących	tweetować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nietweetującymi	tweetować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nietweetującym	tweetować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nietweetującym	tweetować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> nietweetujący	tweetować	pact:pl:nom.voc:m1.p1:imperf:neg		
+> nietweetujący	tweetować	pact:sg:acc:m3:imperf:neg		
+> nietweetujący	tweetować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> tweetować	tweetować	inf:imperf		
+> tweetowalibyście	tweetować	cond:pl:m1.p1:sec:imperf		
+> tweetowalibyśmy	tweetować	cond:pl:m1.p1:pri:imperf		
+> tweetowaliby	tweetować	cond:pl:m1.p1:ter:imperf		
+> tweetowaliście	tweetować	praet:pl:m1.p1:sec:imperf		
+> tweetowaliśmy	tweetować	praet:pl:m1.p1:pri:imperf		
+> tweetowali	tweetować	praet:pl:m1.p1:imperf		
+> tweetowali	tweetować	praet:pl:m1.p1:ter:imperf		
+> tweetowałabym	tweetować	cond:sg:f:pri:imperf		
+> tweetowałabyś	tweetować	cond:sg:f:sec:imperf		
+> tweetowałaby	tweetować	cond:sg:f:ter:imperf		
+> tweetowałam	tweetować	praet:sg:f:pri:imperf		
+> tweetowałaś	tweetować	praet:sg:f:sec:imperf		
+> tweetowała	tweetować	praet:sg:f:imperf		
+> tweetowała	tweetować	praet:sg:f:ter:imperf		
+> tweetowałbym	tweetować	cond:sg:m1.m2.m3:pri:imperf		
+> tweetowałbyś	tweetować	cond:sg:m1.m2.m3:sec:imperf		
+> tweetowałby	tweetować	cond:sg:m1.m2.m3:ter:imperf		
+> tweetowałem	tweetować	praet:sg:m1.m2.m3:pri:imperf		
+> tweetowałeś	tweetować	praet:sg:m1.m2.m3:sec:imperf		
+> tweetowałobym	tweetować	cond:sg:n1.n2:pri:imperf		
+> tweetowałobyś	tweetować	cond:sg:n1.n2:sec:imperf		
+> tweetowałoby	tweetować	cond:sg:n1.n2:ter:imperf		
+> tweetowałom	tweetować	praet:sg:n1.n2:pri:imperf		
+> tweetowałoś	tweetować	praet:sg:n1.n2:sec:imperf		
+> tweetowało	tweetować	praet:sg:n1.n2:imperf		
+> tweetowało	tweetować	praet:sg:n1.n2:ter:imperf		
+> tweetował	tweetować	praet:sg:m1.m2.m3:imperf		
+> tweetował	tweetować	praet:sg:m1.m2.m3:ter:imperf		
+> tweetowałybyście	tweetować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> tweetowałybyśmy	tweetować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> tweetowałyby	tweetować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> tweetowałyście	tweetować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+> tweetowałyśmy	tweetować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+> tweetowały	tweetować	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+> tweetowały	tweetować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+> tweetowaniami	tweetować	ger:pl:inst:n2:imperf:aff		
+> tweetowania	tweetować	ger:pl:nom.acc:n2:imperf:aff		
+> tweetowania	tweetować	ger:sg:gen:n2:imperf:aff		
+> tweetowaniem	tweetować	ger:sg:inst:n2:imperf:aff		
+> tweetowanie	tweetować	ger:sg:nom.acc:n2:imperf:aff		
+> tweetowaniom	tweetować	ger:pl:dat.loc:n2:imperf:aff		
+> tweetowaniu	tweetować	ger:sg:dat.loc:n2:imperf:aff		
+> tweetowano	tweetować	imps:imperf		
+> tweetowań	tweetować	ger:pl:gen:n2:imperf:aff		
+> tweetująca	tweetować	pact:sg:nom.voc:f:imperf:aff		
+> tweetującą	tweetować	pact:sg:acc.inst:f:imperf:aff		
+> tweetującego	tweetować	pact:sg:acc:m1.m2:imperf:aff		
+> tweetującego	tweetować	pact:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> tweetującej	tweetować	pact:sg:gen.dat.loc:f:imperf:aff		
+> tweetującemu	tweetować	pact:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+> tweetujące	tweetować	pact:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> tweetujące	tweetować	pact:sg:nom.acc.voc:n1.n2:imperf:aff		
+> tweetując	tweetować	pcon:imperf		
+> tweetujących	tweetować	pact:pl:acc:m1.p1:imperf:aff		
+> tweetujących	tweetować	pact:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> tweetującymi	tweetować	pact:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> tweetującym	tweetować	pact:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> tweetującym	tweetować	pact:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> tweetujący	tweetować	pact:pl:nom.voc:m1.p1:imperf:aff		
+> tweetujący	tweetować	pact:sg:acc:m3:imperf:aff		
+> tweetujący	tweetować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> tweetują	tweetować	fin:pl:ter:imperf		
+> tweetujcie	tweetować	impt:pl:sec:imperf		
+> tweetujecie	tweetować	fin:pl:sec:imperf		
+> tweetujemy	tweetować	fin:pl:pri:imperf		
+> tweetujesz	tweetować	fin:sg:sec:imperf		
+> tweetuje	tweetować	fin:sg:ter:imperf		
+> tweetuję	tweetować	fin:sg:pri:imperf		
+> tweetujmy	tweetować	impt:pl:pri:imperf		
+> tweetuj	tweetować	impt:sg:sec:imperf		
+6698575a6698817,6698911
+> niezonanizowana	zonanizować	ppas:sg:nom.voc:f:perf:neg		
+> niezonanizowaną	zonanizować	ppas:sg:acc.inst:f:perf:neg		
+> niezonanizowanego	zonanizować	ppas:sg:acc:m1.m2:perf:neg		
+> niezonanizowanego	zonanizować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:neg		
+> niezonanizowanej	zonanizować	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezonanizowanemu	zonanizować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:neg		
+> niezonanizowane	zonanizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:neg		
+> niezonanizowane	zonanizować	ppas:sg:nom.acc.voc:n1.n2:perf:neg		
+> niezonanizowaniami	zonanizować	ger:pl:inst:n2:perf:neg		
+> niezonanizowania	zonanizować	ger:pl:nom.acc:n2:perf:neg		
+> niezonanizowania	zonanizować	ger:sg:gen:n2:perf:neg		
+> niezonanizowaniem	zonanizować	ger:sg:inst:n2:perf:neg		
+> niezonanizowanie	zonanizować	ger:sg:nom.acc:n2:perf:neg		
+> niezonanizowaniom	zonanizować	ger:pl:dat.loc:n2:perf:neg		
+> niezonanizowaniu	zonanizować	ger:sg:dat.loc:n2:perf:neg		
+> niezonanizowani	zonanizować	ppas:pl:nom.voc:m1.p1:perf:neg		
+> niezonanizowanych	zonanizować	ppas:pl:acc:m1.p1:perf:neg		
+> niezonanizowanych	zonanizować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezonanizowanymi	zonanizować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezonanizowanym	zonanizować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:neg		
+> niezonanizowanym	zonanizować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:neg		
+> niezonanizowany	zonanizować	ppas:sg:acc:m3:perf:neg		
+> niezonanizowany	zonanizować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezonanizowań	zonanizować	ger:pl:gen:n2:perf:neg		
+> zonanizować	zonanizować	inf:perf		rzad.
+> zonanizowalibyście	zonanizować	cond:pl:m1.p1:sec:perf		rzad.
+> zonanizowalibyśmy	zonanizować	cond:pl:m1.p1:pri:perf		rzad.
+> zonanizowaliby	zonanizować	cond:pl:m1.p1:ter:perf		rzad.
+> zonanizowaliście	zonanizować	praet:pl:m1.p1:sec:perf		rzad.
+> zonanizowaliśmy	zonanizować	praet:pl:m1.p1:pri:perf		rzad.
+> zonanizowali	zonanizować	praet:pl:m1.p1:perf		rzad.
+> zonanizowali	zonanizować	praet:pl:m1.p1:ter:perf		rzad.
+> zonanizowałabym	zonanizować	cond:sg:f:pri:perf		rzad.
+> zonanizowałabyś	zonanizować	cond:sg:f:sec:perf		rzad.
+> zonanizowałaby	zonanizować	cond:sg:f:ter:perf		rzad.
+> zonanizowałam	zonanizować	praet:sg:f:pri:perf		rzad.
+> zonanizowałaś	zonanizować	praet:sg:f:sec:perf		rzad.
+> zonanizowała	zonanizować	praet:sg:f:perf		rzad.
+> zonanizowała	zonanizować	praet:sg:f:ter:perf		rzad.
+> zonanizowałbym	zonanizować	cond:sg:m1.m2.m3:pri:perf		rzad.
+> zonanizowałbyś	zonanizować	cond:sg:m1.m2.m3:sec:perf		rzad.
+> zonanizowałby	zonanizować	cond:sg:m1.m2.m3:ter:perf		rzad.
+> zonanizowałem	zonanizować	praet:sg:m1.m2.m3:pri:perf		rzad.
+> zonanizowałeś	zonanizować	praet:sg:m1.m2.m3:sec:perf		rzad.
+> zonanizowałobym	zonanizować	cond:sg:n1.n2:pri:perf		rzad.
+> zonanizowałobyś	zonanizować	cond:sg:n1.n2:sec:perf		rzad.
+> zonanizowałoby	zonanizować	cond:sg:n1.n2:ter:perf		rzad.
+> zonanizowałom	zonanizować	praet:sg:n1.n2:pri:perf		rzad.
+> zonanizowałoś	zonanizować	praet:sg:n1.n2:sec:perf		rzad.
+> zonanizowało	zonanizować	praet:sg:n1.n2:perf		rzad.
+> zonanizowało	zonanizować	praet:sg:n1.n2:ter:perf		rzad.
+> zonanizowałybyście	zonanizować	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zonanizowałybyśmy	zonanizować	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zonanizowałyby	zonanizować	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> zonanizowałyście	zonanizować	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		rzad.
+> zonanizowałyśmy	zonanizować	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		rzad.
+> zonanizowały	zonanizować	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		rzad.
+> zonanizowały	zonanizować	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		rzad.
+> zonanizował	zonanizować	praet:sg:m1.m2.m3:perf		rzad.
+> zonanizował	zonanizować	praet:sg:m1.m2.m3:ter:perf		rzad.
+> zonanizowana	zonanizować	ppas:sg:nom.voc:f:perf:aff		
+> zonanizowaną	zonanizować	ppas:sg:acc.inst:f:perf:aff		
+> zonanizowanego	zonanizować	ppas:sg:acc:m1.m2:perf:aff		
+> zonanizowanego	zonanizować	ppas:sg:gen:m1.m2.m3.n1.n2:perf:aff		
+> zonanizowanej	zonanizować	ppas:sg:gen.dat.loc:f:perf:aff		
+> zonanizowanemu	zonanizować	ppas:sg:dat:m1.m2.m3.n1.n2:perf:aff		
+> zonanizowane	zonanizować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:perf:aff		
+> zonanizowane	zonanizować	ppas:sg:nom.acc.voc:n1.n2:perf:aff		
+> zonanizowaniami	zonanizować	ger:pl:inst:n2:perf:aff		
+> zonanizowania	zonanizować	ger:pl:nom.acc:n2:perf:aff		
+> zonanizowania	zonanizować	ger:sg:gen:n2:perf:aff		
+> zonanizowaniem	zonanizować	ger:sg:inst:n2:perf:aff		
+> zonanizowanie	zonanizować	ger:sg:nom.acc:n2:perf:aff		
+> zonanizowaniom	zonanizować	ger:pl:dat.loc:n2:perf:aff		
+> zonanizowaniu	zonanizować	ger:sg:dat.loc:n2:perf:aff		
+> zonanizowani	zonanizować	ppas:pl:nom.voc:m1.p1:perf:aff		
+> zonanizowano	zonanizować	imps:perf		rzad.
+> zonanizowanych	zonanizować	ppas:pl:acc:m1.p1:perf:aff		
+> zonanizowanych	zonanizować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zonanizowanymi	zonanizować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zonanizowanym	zonanizować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:perf:aff		
+> zonanizowanym	zonanizować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:perf:aff		
+> zonanizowany	zonanizować	ppas:sg:acc:m3:perf:aff		
+> zonanizowany	zonanizować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zonanizowań	zonanizować	ger:pl:gen:n2:perf:aff		
+> zonanizowawszy	zonanizować	pant:perf		rzad.
+> zonanizują	zonanizować	fin:pl:ter:perf		rzad.
+> zonanizujcie	zonanizować	impt:pl:sec:perf		rzad.
+> zonanizujecie	zonanizować	fin:pl:sec:perf		rzad.
+> zonanizujemy	zonanizować	fin:pl:pri:perf		rzad.
+> zonanizujesz	zonanizować	fin:sg:sec:perf		rzad.
+> zonanizuje	zonanizować	fin:sg:ter:perf		rzad.
+> zonanizuję	zonanizować	fin:sg:pri:perf		rzad.
+> zonanizujmy	zonanizować	impt:pl:pri:perf		rzad.
+> zonanizuj	zonanizować	impt:sg:sec:perf		rzad.

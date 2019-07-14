@@ -1,0 +1,120 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.01.20
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.02.03
+5946872a5946873,5946884
+> Światle	Światło	subst:sg:dat.loc:m1	nazwisko	
+> Światłach	Światło	subst:pl:loc:m1	nazwisko	
+> Światłami	Światło	subst:pl:inst:m1	nazwisko	
+> Światłą	Światło	subst:sg:inst:m1	nazwisko	
+> Światłę	Światło	subst:sg:acc:m1	nazwisko	
+> Światłom	Światło	subst:pl:dat:m1	nazwisko	
+> Światło	Światło	subst:sg:nom:m1	nazwisko	
+> Światło	Światło	subst:sg:voc:m1	nazwisko	
+> Światłowie	Światło	subst:pl:nom.voc:m1	nazwisko	
+> Światłów	Światło	subst:pl:gen.acc:m1	nazwisko	
+> Światły	Światło	depr:pl:nom.acc.voc:m2	nazwisko	
+> Światły	Światło	subst:sg:gen:m1	nazwisko	
+6435349c6435361,6435362
+< widać	widać	pred		
+---
+> widać	widać:q	part		
+> widać	widać:v	pred		
+7313594a7313608,7313704
+> niezezłoceniach	zezłocić	ger:pl:loc:n:perf:neg		
+> niezezłoceniami	zezłocić	ger:pl:inst:n:perf:neg		
+> niezezłocenia	zezłocić	ger:pl:nom.acc:n:perf:neg		
+> niezezłocenia	zezłocić	ger:sg:gen:n:perf:neg		
+> niezezłoceniem	zezłocić	ger:sg:inst:n:perf:neg		
+> niezezłocenie	zezłocić	ger:sg:nom.acc:n:perf:neg		
+> niezezłoceniom	zezłocić	ger:pl:dat:n:perf:neg		
+> niezezłoceniu	zezłocić	ger:sg:dat.loc:n:perf:neg		
+> niezezłoceni	zezłocić	ppas:pl:nom.voc:m1:perf:neg		
+> niezezłoceń	zezłocić	ger:pl:gen:n:perf:neg		
+> niezezłocona	zezłocić	ppas:sg:nom.voc:f:perf:neg		
+> niezezłoconą	zezłocić	ppas:sg:acc.inst:f:perf:neg		
+> niezezłoconego	zezłocić	ppas:sg:acc:m1.m2:perf:neg		
+> niezezłoconego	zezłocić	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niezezłoconej	zezłocić	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezezłoconemu	zezłocić	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niezezłocone	zezłocić	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niezezłocone	zezłocić	ppas:sg:nom.acc.voc:n:perf:neg		
+> niezezłoconych	zezłocić	ppas:pl:acc:m1:perf:neg		
+> niezezłoconych	zezłocić	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niezezłoconymi	zezłocić	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niezezłoconym	zezłocić	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niezezłoconym	zezłocić	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niezezłocony	zezłocić	ppas:sg:acc:m3:perf:neg		
+> niezezłocony	zezłocić	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> zezłocą	zezłocić	fin:pl:ter:perf		
+> zezłoceniach	zezłocić	ger:pl:loc:n:perf:aff		
+> zezłoceniami	zezłocić	ger:pl:inst:n:perf:aff		
+> zezłocenia	zezłocić	ger:pl:nom.acc:n:perf:aff		
+> zezłocenia	zezłocić	ger:sg:gen:n:perf:aff		
+> zezłoceniem	zezłocić	ger:sg:inst:n:perf:aff		
+> zezłocenie	zezłocić	ger:sg:nom.acc:n:perf:aff		
+> zezłoceniom	zezłocić	ger:pl:dat:n:perf:aff		
+> zezłoceniu	zezłocić	ger:sg:dat.loc:n:perf:aff		
+> zezłoceni	zezłocić	ppas:pl:nom.voc:m1:perf:aff		
+> zezłoceń	zezłocić	ger:pl:gen:n:perf:aff		
+> zezłocę	zezłocić	fin:sg:pri:perf		
+> zezłocicie	zezłocić	fin:pl:sec:perf		
+> zezłocić	zezłocić	inf:perf		
+> zezłocilibyście	zezłocić	cond:pl:m1:sec:perf		
+> zezłocilibyśmy	zezłocić	cond:pl:m1:pri:perf		
+> zezłociliby	zezłocić	cond:pl:m1:ter:perf		
+> zezłociliście	zezłocić	praet:pl:m1:sec:perf		
+> zezłociliśmy	zezłocić	praet:pl:m1:pri:perf		
+> zezłocili	zezłocić	praet:pl:m1:perf		
+> zezłocili	zezłocić	praet:pl:m1:ter:perf		
+> zezłociłabym	zezłocić	cond:sg:f:pri:perf		
+> zezłociłabyś	zezłocić	cond:sg:f:sec:perf		
+> zezłociłaby	zezłocić	cond:sg:f:ter:perf		
+> zezłociłam	zezłocić	praet:sg:f:pri:perf		
+> zezłociłaś	zezłocić	praet:sg:f:sec:perf		
+> zezłociła	zezłocić	praet:sg:f:perf		
+> zezłociła	zezłocić	praet:sg:f:ter:perf		
+> zezłociłbym	zezłocić	cond:sg:m1.m2.m3:pri:perf		
+> zezłociłbyś	zezłocić	cond:sg:m1.m2.m3:sec:perf		
+> zezłociłby	zezłocić	cond:sg:m1.m2.m3:ter:perf		
+> zezłociłem	zezłocić	praet:sg:m1.m2.m3:pri:perf		
+> zezłociłeś	zezłocić	praet:sg:m1.m2.m3:sec:perf		
+> zezłociłobym	zezłocić	cond:sg:n:pri:perf		
+> zezłociłobyś	zezłocić	cond:sg:n:sec:perf		
+> zezłociłoby	zezłocić	cond:sg:n:ter:perf		
+> zezłociłom	zezłocić	praet:sg:n:pri:perf		
+> zezłociłoś	zezłocić	praet:sg:n:sec:perf		
+> zezłociło	zezłocić	praet:sg:n:perf		
+> zezłociło	zezłocić	praet:sg:n:ter:perf		
+> zezłociłybyście	zezłocić	cond:pl:m2.m3.f.n:sec:perf		
+> zezłociłybyśmy	zezłocić	cond:pl:m2.m3.f.n:pri:perf		
+> zezłociłyby	zezłocić	cond:pl:m2.m3.f.n:ter:perf		
+> zezłociłyście	zezłocić	praet:pl:m2.m3.f.n:sec:perf		
+> zezłociłyśmy	zezłocić	praet:pl:m2.m3.f.n:pri:perf		
+> zezłociły	zezłocić	praet:pl:m2.m3.f.n:perf		
+> zezłociły	zezłocić	praet:pl:m2.m3.f.n:ter:perf		
+> zezłocił	zezłocić	praet:sg:m1.m2.m3:perf		
+> zezłocił	zezłocić	praet:sg:m1.m2.m3:ter:perf		
+> zezłocimy	zezłocić	fin:pl:pri:perf		
+> zezłocisz	zezłocić	fin:sg:sec:perf		
+> zezłociwszy	zezłocić	pant:perf		
+> zezłoci	zezłocić	fin:sg:ter:perf		
+> zezłocona	zezłocić	ppas:sg:nom.voc:f:perf:aff		
+> zezłoconą	zezłocić	ppas:sg:acc.inst:f:perf:aff		
+> zezłoconego	zezłocić	ppas:sg:acc:m1.m2:perf:aff		
+> zezłoconego	zezłocić	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> zezłoconej	zezłocić	ppas:sg:gen.dat.loc:f:perf:aff		
+> zezłoconemu	zezłocić	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> zezłocone	zezłocić	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> zezłocone	zezłocić	ppas:sg:nom.acc.voc:n:perf:aff		
+> zezłocono	zezłocić	imps:perf		
+> zezłoconych	zezłocić	ppas:pl:acc:m1:perf:aff		
+> zezłoconych	zezłocić	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> zezłoconymi	zezłocić	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> zezłoconym	zezłocić	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> zezłoconym	zezłocić	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> zezłocony	zezłocić	ppas:sg:acc:m3:perf:aff		
+> zezłocony	zezłocić	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zezłoćcie	zezłocić	impt:pl:sec:perf		
+> zezłoćmy	zezłocić	impt:pl:pri:perf		
+> zezłoć	zezłocić	impt:sg:sec:perf		

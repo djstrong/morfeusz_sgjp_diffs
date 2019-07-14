@@ -1,0 +1,966 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.09.10
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.09.14
+511618d511617
+< doprawdy	doprawdy:d	adv		
+511619a511619
+> doprawdy	doprawdy:q	qub		
+855883a855884,856013
+> hackować	hackować	inf:imperf		środ.
+> hackowaliby	hackować	cond:pl:m1:ter:imperf		środ.
+> hackowalibyście	hackować	cond:pl:m1:sec:imperf		środ.
+> hackowalibyśmy	hackować	cond:pl:m1:pri:imperf		środ.
+> hackowali	hackować	praet:pl:m1:imperf		środ.
+> hackowali	hackować	praet:pl:m1:ter:imperf		środ.
+> hackowaliście	hackować	praet:pl:m1:sec:imperf		środ.
+> hackowaliśmy	hackować	praet:pl:m1:pri:imperf		środ.
+> hackowałaby	hackować	cond:sg:f:ter:imperf		środ.
+> hackowałabym	hackować	cond:sg:f:pri:imperf		środ.
+> hackowałabyś	hackować	cond:sg:f:sec:imperf		środ.
+> hackowała	hackować	praet:sg:f:imperf		środ.
+> hackowała	hackować	praet:sg:f:ter:imperf		środ.
+> hackowałam	hackować	praet:sg:f:pri:imperf		środ.
+> hackowałaś	hackować	praet:sg:f:sec:imperf		środ.
+> hackowałby	hackować	cond:sg:m1.m2.m3:ter:imperf		środ.
+> hackowałbym	hackować	cond:sg:m1.m2.m3:pri:imperf		środ.
+> hackowałbyś	hackować	cond:sg:m1.m2.m3:sec:imperf		środ.
+> hackowałem	hackować	praet:sg:m1.m2.m3:pri:imperf		środ.
+> hackowałeś	hackować	praet:sg:m1.m2.m3:sec:imperf		środ.
+> hackował	hackować	praet:sg:m1.m2.m3:imperf		środ.
+> hackował	hackować	praet:sg:m1.m2.m3:ter:imperf		środ.
+> hackowałoby	hackować	cond:sg:n:ter:imperf		środ.
+> hackowałobym	hackować	cond:sg:n:pri:imperf		środ.
+> hackowałobyś	hackować	cond:sg:n:sec:imperf		środ.
+> hackowało	hackować	praet:sg:n:imperf		środ.
+> hackowało	hackować	praet:sg:n:ter:imperf		środ.
+> hackowałom	hackować	praet:sg:n:pri:imperf		środ.
+> hackowałoś	hackować	praet:sg:n:sec:imperf		środ.
+> hackowałyby	hackować	cond:pl:m2.m3.f.n:ter:imperf		środ.
+> hackowałybyście	hackować	cond:pl:m2.m3.f.n:sec:imperf		środ.
+> hackowałybyśmy	hackować	cond:pl:m2.m3.f.n:pri:imperf		środ.
+> hackowały	hackować	praet:pl:m2.m3.f.n:imperf		środ.
+> hackowały	hackować	praet:pl:m2.m3.f.n:ter:imperf		środ.
+> hackowałyście	hackować	praet:pl:m2.m3.f.n:sec:imperf		środ.
+> hackowałyśmy	hackować	praet:pl:m2.m3.f.n:pri:imperf		środ.
+> hackowana	hackować	ppas:sg:nom.voc:f:imperf:aff		środ.
+> hackowaną	hackować	ppas:sg:acc.inst:f:imperf:aff		środ.
+> hackowanego	hackować	ppas:sg:acc:m1.m2:imperf:aff		środ.
+> hackowanego	hackować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		środ.
+> hackowane	hackować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		środ.
+> hackowane	hackować	ppas:sg:nom.acc.voc:n:imperf:aff		środ.
+> hackowanej	hackować	ppas:sg:gen.dat.loc:f:imperf:aff		środ.
+> hackowanemu	hackować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		środ.
+> hackowaniach	hackować	ger:pl:loc:n:imperf:aff		środ.
+> hackowania	hackować	ger:pl:nom.acc:n:imperf:aff		środ.
+> hackowania	hackować	ger:sg:gen:n:imperf:aff		środ.
+> hackowaniami	hackować	ger:pl:inst:n:imperf:aff		środ.
+> hackowanie	hackować	ger:sg:nom.acc:n:imperf:aff		środ.
+> hackowaniem	hackować	ger:sg:inst:n:imperf:aff		środ.
+> hackowani	hackować	ppas:pl:nom.voc:m1:imperf:aff		środ.
+> hackowaniom	hackować	ger:pl:dat:n:imperf:aff		środ.
+> hackowaniu	hackować	ger:sg:dat.loc:n:imperf:aff		środ.
+> hackowano	hackować	imps:imperf		środ.
+> hackowanych	hackować	ppas:pl:acc:m1:imperf:aff		środ.
+> hackowanych	hackować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		środ.
+> hackowany	hackować	ppas:sg:acc:m3:imperf:aff		środ.
+> hackowany	hackować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		środ.
+> hackowanym	hackować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		środ.
+> hackowanym	hackować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		środ.
+> hackowanymi	hackować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		środ.
+> hackowań	hackować	ger:pl:gen:n:imperf:aff		środ.
+> hackująca	hackować	pact:sg:nom.voc:f:imperf:aff		środ.
+> hackującą	hackować	pact:sg:acc.inst:f:imperf:aff		środ.
+> hackującego	hackować	pact:sg:acc:m1.m2:imperf:aff		środ.
+> hackującego	hackować	pact:sg:gen:m1.m2.m3.n:imperf:aff		środ.
+> hackujące	hackować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		środ.
+> hackujące	hackować	pact:sg:nom.acc.voc:n:imperf:aff		środ.
+> hackującej	hackować	pact:sg:gen.dat.loc:f:imperf:aff		środ.
+> hackującemu	hackować	pact:sg:dat:m1.m2.m3.n:imperf:aff		środ.
+> hackując	hackować	pcon:imperf		środ.
+> hackująco	hackować	pacta		środ.
+> hackujących	hackować	pact:pl:acc:m1:imperf:aff		środ.
+> hackujących	hackować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		środ.
+> hackujący	hackować	pact:pl:nom.voc:m1:imperf:aff		środ.
+> hackujący	hackować	pact:sg:acc:m3:imperf:aff		środ.
+> hackujący	hackować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		środ.
+> hackującym	hackować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		środ.
+> hackującym	hackować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		środ.
+> hackującymi	hackować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		środ.
+> hackują	hackować	fin:pl:ter:imperf		środ.
+> hackujcie	hackować	impt:pl:sec:imperf		środ.
+> hackujecie	hackować	fin:pl:sec:imperf		środ.
+> hackuje	hackować	fin:sg:ter:imperf		środ.
+> hackujemy	hackować	fin:pl:pri:imperf		środ.
+> hackujesz	hackować	fin:sg:sec:imperf		środ.
+> hackuję	hackować	fin:sg:pri:imperf		środ.
+> hackuj	hackować	impt:sg:sec:imperf		środ.
+> hackujmy	hackować	impt:pl:pri:imperf		środ.
+> niehackowana	hackować	ppas:sg:nom.voc:f:imperf:neg		środ.
+> niehackowaną	hackować	ppas:sg:acc.inst:f:imperf:neg		środ.
+> niehackowanego	hackować	ppas:sg:acc:m1.m2:imperf:neg		środ.
+> niehackowanego	hackować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		środ.
+> niehackowane	hackować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		środ.
+> niehackowane	hackować	ppas:sg:nom.acc.voc:n:imperf:neg		środ.
+> niehackowanej	hackować	ppas:sg:gen.dat.loc:f:imperf:neg		środ.
+> niehackowanemu	hackować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		środ.
+> niehackowaniach	hackować	ger:pl:loc:n:imperf:neg		środ.
+> niehackowania	hackować	ger:pl:nom.acc:n:imperf:neg		środ.
+> niehackowania	hackować	ger:sg:gen:n:imperf:neg		środ.
+> niehackowaniami	hackować	ger:pl:inst:n:imperf:neg		środ.
+> niehackowanie	hackować	ger:sg:nom.acc:n:imperf:neg		środ.
+> niehackowaniem	hackować	ger:sg:inst:n:imperf:neg		środ.
+> niehackowani	hackować	ppas:pl:nom.voc:m1:imperf:neg		środ.
+> niehackowaniom	hackować	ger:pl:dat:n:imperf:neg		środ.
+> niehackowaniu	hackować	ger:sg:dat.loc:n:imperf:neg		środ.
+> niehackowanych	hackować	ppas:pl:acc:m1:imperf:neg		środ.
+> niehackowanych	hackować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		środ.
+> niehackowany	hackować	ppas:sg:acc:m3:imperf:neg		środ.
+> niehackowany	hackować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		środ.
+> niehackowanym	hackować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		środ.
+> niehackowanym	hackować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		środ.
+> niehackowanymi	hackować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		środ.
+> niehackowań	hackować	ger:pl:gen:n:imperf:neg		środ.
+> niehackująca	hackować	pact:sg:nom.voc:f:imperf:neg		środ.
+> niehackującą	hackować	pact:sg:acc.inst:f:imperf:neg		środ.
+> niehackującego	hackować	pact:sg:acc:m1.m2:imperf:neg		środ.
+> niehackującego	hackować	pact:sg:gen:m1.m2.m3.n:imperf:neg		środ.
+> niehackujące	hackować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		środ.
+> niehackujące	hackować	pact:sg:nom.acc.voc:n:imperf:neg		środ.
+> niehackującej	hackować	pact:sg:gen.dat.loc:f:imperf:neg		środ.
+> niehackującemu	hackować	pact:sg:dat:m1.m2.m3.n:imperf:neg		środ.
+> niehackujących	hackować	pact:pl:acc:m1:imperf:neg		środ.
+> niehackujących	hackować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		środ.
+> niehackujący	hackować	pact:pl:nom.voc:m1:imperf:neg		środ.
+> niehackujący	hackować	pact:sg:acc:m3:imperf:neg		środ.
+> niehackujący	hackować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		środ.
+> niehackującym	hackować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		środ.
+> niehackującym	hackować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		środ.
+> niehackującymi	hackować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		środ.
+858255,858384c858385,858644
+< hakować	hakować	inf:imperf		
+< hakowaliby	hakować	cond:pl:m1:ter:imperf		
+< hakowalibyście	hakować	cond:pl:m1:sec:imperf		
+< hakowalibyśmy	hakować	cond:pl:m1:pri:imperf		
+< hakowali	hakować	praet:pl:m1:imperf		
+< hakowali	hakować	praet:pl:m1:ter:imperf		
+< hakowaliście	hakować	praet:pl:m1:sec:imperf		
+< hakowaliśmy	hakować	praet:pl:m1:pri:imperf		
+< hakowałaby	hakować	cond:sg:f:ter:imperf		
+< hakowałabym	hakować	cond:sg:f:pri:imperf		
+< hakowałabyś	hakować	cond:sg:f:sec:imperf		
+< hakowała	hakować	praet:sg:f:imperf		
+< hakowała	hakować	praet:sg:f:ter:imperf		
+< hakowałam	hakować	praet:sg:f:pri:imperf		
+< hakowałaś	hakować	praet:sg:f:sec:imperf		
+< hakowałby	hakować	cond:sg:m1.m2.m3:ter:imperf		
+< hakowałbym	hakować	cond:sg:m1.m2.m3:pri:imperf		
+< hakowałbyś	hakować	cond:sg:m1.m2.m3:sec:imperf		
+< hakowałem	hakować	praet:sg:m1.m2.m3:pri:imperf		
+< hakowałeś	hakować	praet:sg:m1.m2.m3:sec:imperf		
+< hakował	hakować	praet:sg:m1.m2.m3:imperf		
+< hakował	hakować	praet:sg:m1.m2.m3:ter:imperf		
+< hakowałoby	hakować	cond:sg:n:ter:imperf		
+< hakowałobym	hakować	cond:sg:n:pri:imperf		
+< hakowałobyś	hakować	cond:sg:n:sec:imperf		
+< hakowało	hakować	praet:sg:n:imperf		
+< hakowało	hakować	praet:sg:n:ter:imperf		
+< hakowałom	hakować	praet:sg:n:pri:imperf		
+< hakowałoś	hakować	praet:sg:n:sec:imperf		
+< hakowałyby	hakować	cond:pl:m2.m3.f.n:ter:imperf		
+< hakowałybyście	hakować	cond:pl:m2.m3.f.n:sec:imperf		
+< hakowałybyśmy	hakować	cond:pl:m2.m3.f.n:pri:imperf		
+< hakowały	hakować	praet:pl:m2.m3.f.n:imperf		
+< hakowały	hakować	praet:pl:m2.m3.f.n:ter:imperf		
+< hakowałyście	hakować	praet:pl:m2.m3.f.n:sec:imperf		
+< hakowałyśmy	hakować	praet:pl:m2.m3.f.n:pri:imperf		
+< hakowana	hakować	ppas:sg:nom.voc:f:imperf:aff		
+< hakowaną	hakować	ppas:sg:acc.inst:f:imperf:aff		
+< hakowanego	hakować	ppas:sg:acc:m1.m2:imperf:aff		
+< hakowanego	hakować	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+< hakowane	hakować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+< hakowane	hakować	ppas:sg:nom.acc.voc:n:imperf:aff		
+< hakowanej	hakować	ppas:sg:gen.dat.loc:f:imperf:aff		
+< hakowanemu	hakować	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+< hakowaniach	hakować	ger:pl:loc:n:imperf:aff		
+< hakowania	hakować	ger:pl:nom.acc:n:imperf:aff		
+< hakowania	hakować	ger:sg:gen:n:imperf:aff		
+< hakowaniami	hakować	ger:pl:inst:n:imperf:aff		
+< hakowanie	hakować	ger:sg:nom.acc:n:imperf:aff		
+< hakowaniem	hakować	ger:sg:inst:n:imperf:aff		
+< hakowani	hakować	ppas:pl:nom.voc:m1:imperf:aff		
+< hakowaniom	hakować	ger:pl:dat:n:imperf:aff		
+< hakowaniu	hakować	ger:sg:dat.loc:n:imperf:aff		
+< hakowano	hakować	imps:imperf		
+< hakowanych	hakować	ppas:pl:acc:m1:imperf:aff		
+< hakowanych	hakować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+< hakowany	hakować	ppas:sg:acc:m3:imperf:aff		
+< hakowany	hakować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+< hakowanym	hakować	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+< hakowanym	hakować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+< hakowanymi	hakować	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+< hakowań	hakować	ger:pl:gen:n:imperf:aff		
+< hakująca	hakować	pact:sg:nom.voc:f:imperf:aff		
+< hakującą	hakować	pact:sg:acc.inst:f:imperf:aff		
+< hakującego	hakować	pact:sg:acc:m1.m2:imperf:aff		
+< hakującego	hakować	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+< hakujące	hakować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+< hakujące	hakować	pact:sg:nom.acc.voc:n:imperf:aff		
+< hakującej	hakować	pact:sg:gen.dat.loc:f:imperf:aff		
+< hakującemu	hakować	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+< hakując	hakować	pcon:imperf		
+< hakująco	hakować	pacta		
+< hakujących	hakować	pact:pl:acc:m1:imperf:aff		
+< hakujących	hakować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+< hakujący	hakować	pact:pl:nom.voc:m1:imperf:aff		
+< hakujący	hakować	pact:sg:acc:m3:imperf:aff		
+< hakujący	hakować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+< hakującym	hakować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+< hakującym	hakować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+< hakującymi	hakować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+< hakują	hakować	fin:pl:ter:imperf		
+< hakujcie	hakować	impt:pl:sec:imperf		
+< hakujecie	hakować	fin:pl:sec:imperf		
+< hakuje	hakować	fin:sg:ter:imperf		
+< hakujemy	hakować	fin:pl:pri:imperf		
+< hakujesz	hakować	fin:sg:sec:imperf		
+< hakuję	hakować	fin:sg:pri:imperf		
+< hakuj	hakować	impt:sg:sec:imperf		
+< hakujmy	hakować	impt:pl:pri:imperf		
+< niehakowana	hakować	ppas:sg:nom.voc:f:imperf:neg		
+< niehakowaną	hakować	ppas:sg:acc.inst:f:imperf:neg		
+< niehakowanego	hakować	ppas:sg:acc:m1.m2:imperf:neg		
+< niehakowanego	hakować	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+< niehakowane	hakować	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+< niehakowane	hakować	ppas:sg:nom.acc.voc:n:imperf:neg		
+< niehakowanej	hakować	ppas:sg:gen.dat.loc:f:imperf:neg		
+< niehakowanemu	hakować	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+< niehakowaniach	hakować	ger:pl:loc:n:imperf:neg		
+< niehakowania	hakować	ger:pl:nom.acc:n:imperf:neg		
+< niehakowania	hakować	ger:sg:gen:n:imperf:neg		
+< niehakowaniami	hakować	ger:pl:inst:n:imperf:neg		
+< niehakowanie	hakować	ger:sg:nom.acc:n:imperf:neg		
+< niehakowaniem	hakować	ger:sg:inst:n:imperf:neg		
+< niehakowani	hakować	ppas:pl:nom.voc:m1:imperf:neg		
+< niehakowaniom	hakować	ger:pl:dat:n:imperf:neg		
+< niehakowaniu	hakować	ger:sg:dat.loc:n:imperf:neg		
+< niehakowanych	hakować	ppas:pl:acc:m1:imperf:neg		
+< niehakowanych	hakować	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+< niehakowany	hakować	ppas:sg:acc:m3:imperf:neg		
+< niehakowany	hakować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+< niehakowanym	hakować	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+< niehakowanym	hakować	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+< niehakowanymi	hakować	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+< niehakowań	hakować	ger:pl:gen:n:imperf:neg		
+< niehakująca	hakować	pact:sg:nom.voc:f:imperf:neg		
+< niehakującą	hakować	pact:sg:acc.inst:f:imperf:neg		
+< niehakującego	hakować	pact:sg:acc:m1.m2:imperf:neg		
+< niehakującego	hakować	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+< niehakujące	hakować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+< niehakujące	hakować	pact:sg:nom.acc.voc:n:imperf:neg		
+< niehakującej	hakować	pact:sg:gen.dat.loc:f:imperf:neg		
+< niehakującemu	hakować	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+< niehakujących	hakować	pact:pl:acc:m1:imperf:neg		
+< niehakujących	hakować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+< niehakujący	hakować	pact:pl:nom.voc:m1:imperf:neg		
+< niehakujący	hakować	pact:sg:acc:m3:imperf:neg		
+< niehakujący	hakować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+< niehakującym	hakować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+< niehakującym	hakować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+< niehakującymi	hakować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+---
+> hakować	hakować:v1	inf:imperf		przest.
+> hakowaliby	hakować:v1	cond:pl:m1:ter:imperf		przest.
+> hakowalibyście	hakować:v1	cond:pl:m1:sec:imperf		przest.
+> hakowalibyśmy	hakować:v1	cond:pl:m1:pri:imperf		przest.
+> hakowali	hakować:v1	praet:pl:m1:imperf		przest.
+> hakowali	hakować:v1	praet:pl:m1:ter:imperf		przest.
+> hakowaliście	hakować:v1	praet:pl:m1:sec:imperf		przest.
+> hakowaliśmy	hakować:v1	praet:pl:m1:pri:imperf		przest.
+> hakowałaby	hakować:v1	cond:sg:f:ter:imperf		przest.
+> hakowałabym	hakować:v1	cond:sg:f:pri:imperf		przest.
+> hakowałabyś	hakować:v1	cond:sg:f:sec:imperf		przest.
+> hakowała	hakować:v1	praet:sg:f:imperf		przest.
+> hakowała	hakować:v1	praet:sg:f:ter:imperf		przest.
+> hakowałam	hakować:v1	praet:sg:f:pri:imperf		przest.
+> hakowałaś	hakować:v1	praet:sg:f:sec:imperf		przest.
+> hakowałby	hakować:v1	cond:sg:m1.m2.m3:ter:imperf		przest.
+> hakowałbym	hakować:v1	cond:sg:m1.m2.m3:pri:imperf		przest.
+> hakowałbyś	hakować:v1	cond:sg:m1.m2.m3:sec:imperf		przest.
+> hakowałem	hakować:v1	praet:sg:m1.m2.m3:pri:imperf		przest.
+> hakowałeś	hakować:v1	praet:sg:m1.m2.m3:sec:imperf		przest.
+> hakował	hakować:v1	praet:sg:m1.m2.m3:imperf		przest.
+> hakował	hakować:v1	praet:sg:m1.m2.m3:ter:imperf		przest.
+> hakowałoby	hakować:v1	cond:sg:n:ter:imperf		przest.
+> hakowałobym	hakować:v1	cond:sg:n:pri:imperf		przest.
+> hakowałobyś	hakować:v1	cond:sg:n:sec:imperf		przest.
+> hakowało	hakować:v1	praet:sg:n:imperf		przest.
+> hakowało	hakować:v1	praet:sg:n:ter:imperf		przest.
+> hakowałom	hakować:v1	praet:sg:n:pri:imperf		przest.
+> hakowałoś	hakować:v1	praet:sg:n:sec:imperf		przest.
+> hakowałyby	hakować:v1	cond:pl:m2.m3.f.n:ter:imperf		przest.
+> hakowałybyście	hakować:v1	cond:pl:m2.m3.f.n:sec:imperf		przest.
+> hakowałybyśmy	hakować:v1	cond:pl:m2.m3.f.n:pri:imperf		przest.
+> hakowały	hakować:v1	praet:pl:m2.m3.f.n:imperf		przest.
+> hakowały	hakować:v1	praet:pl:m2.m3.f.n:ter:imperf		przest.
+> hakowałyście	hakować:v1	praet:pl:m2.m3.f.n:sec:imperf		przest.
+> hakowałyśmy	hakować:v1	praet:pl:m2.m3.f.n:pri:imperf		przest.
+> hakowana	hakować:v1	ppas:sg:nom.voc:f:imperf:aff		
+> hakowaną	hakować:v1	ppas:sg:acc.inst:f:imperf:aff		
+> hakowanego	hakować:v1	ppas:sg:acc:m1.m2:imperf:aff		
+> hakowanego	hakować:v1	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> hakowane	hakować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> hakowane	hakować:v1	ppas:sg:nom.acc.voc:n:imperf:aff		
+> hakowanej	hakować:v1	ppas:sg:gen.dat.loc:f:imperf:aff		
+> hakowanemu	hakować:v1	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> hakowaniach	hakować:v1	ger:pl:loc:n:imperf:aff		
+> hakowania	hakować:v1	ger:pl:nom.acc:n:imperf:aff		
+> hakowania	hakować:v1	ger:sg:gen:n:imperf:aff		
+> hakowaniami	hakować:v1	ger:pl:inst:n:imperf:aff		
+> hakowanie	hakować:v1	ger:sg:nom.acc:n:imperf:aff		
+> hakowaniem	hakować:v1	ger:sg:inst:n:imperf:aff		
+> hakowani	hakować:v1	ppas:pl:nom.voc:m1:imperf:aff		
+> hakowaniom	hakować:v1	ger:pl:dat:n:imperf:aff		
+> hakowaniu	hakować:v1	ger:sg:dat.loc:n:imperf:aff		
+> hakowano	hakować:v1	imps:imperf		przest.
+> hakowanych	hakować:v1	ppas:pl:acc:m1:imperf:aff		
+> hakowanych	hakować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> hakowany	hakować:v1	ppas:sg:acc:m3:imperf:aff		
+> hakowany	hakować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> hakowanym	hakować:v1	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> hakowanym	hakować:v1	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> hakowanymi	hakować:v1	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> hakowań	hakować:v1	ger:pl:gen:n:imperf:aff		
+> hakująca	hakować:v1	pact:sg:nom.voc:f:imperf:aff		
+> hakującą	hakować:v1	pact:sg:acc.inst:f:imperf:aff		
+> hakującego	hakować:v1	pact:sg:acc:m1.m2:imperf:aff		
+> hakującego	hakować:v1	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> hakujące	hakować:v1	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> hakujące	hakować:v1	pact:sg:nom.acc.voc:n:imperf:aff		
+> hakującej	hakować:v1	pact:sg:gen.dat.loc:f:imperf:aff		
+> hakującemu	hakować:v1	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> hakując	hakować:v1	pcon:imperf		przest.
+> hakująco	hakować:v1	pacta		
+> hakujących	hakować:v1	pact:pl:acc:m1:imperf:aff		
+> hakujących	hakować:v1	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> hakujący	hakować:v1	pact:pl:nom.voc:m1:imperf:aff		
+> hakujący	hakować:v1	pact:sg:acc:m3:imperf:aff		
+> hakujący	hakować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> hakującym	hakować:v1	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> hakującym	hakować:v1	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> hakującymi	hakować:v1	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> hakują	hakować:v1	fin:pl:ter:imperf		przest.
+> hakujcie	hakować:v1	impt:pl:sec:imperf		przest.
+> hakujecie	hakować:v1	fin:pl:sec:imperf		przest.
+> hakuje	hakować:v1	fin:sg:ter:imperf		przest.
+> hakujemy	hakować:v1	fin:pl:pri:imperf		przest.
+> hakujesz	hakować:v1	fin:sg:sec:imperf		przest.
+> hakuję	hakować:v1	fin:sg:pri:imperf		przest.
+> hakuj	hakować:v1	impt:sg:sec:imperf		przest.
+> hakujmy	hakować:v1	impt:pl:pri:imperf		przest.
+> niehakowana	hakować:v1	ppas:sg:nom.voc:f:imperf:neg		
+> niehakowaną	hakować:v1	ppas:sg:acc.inst:f:imperf:neg		
+> niehakowanego	hakować:v1	ppas:sg:acc:m1.m2:imperf:neg		
+> niehakowanego	hakować:v1	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> niehakowane	hakować:v1	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niehakowane	hakować:v1	ppas:sg:nom.acc.voc:n:imperf:neg		
+> niehakowanej	hakować:v1	ppas:sg:gen.dat.loc:f:imperf:neg		
+> niehakowanemu	hakować:v1	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> niehakowaniach	hakować:v1	ger:pl:loc:n:imperf:neg		
+> niehakowania	hakować:v1	ger:pl:nom.acc:n:imperf:neg		
+> niehakowania	hakować:v1	ger:sg:gen:n:imperf:neg		
+> niehakowaniami	hakować:v1	ger:pl:inst:n:imperf:neg		
+> niehakowanie	hakować:v1	ger:sg:nom.acc:n:imperf:neg		
+> niehakowaniem	hakować:v1	ger:sg:inst:n:imperf:neg		
+> niehakowani	hakować:v1	ppas:pl:nom.voc:m1:imperf:neg		
+> niehakowaniom	hakować:v1	ger:pl:dat:n:imperf:neg		
+> niehakowaniu	hakować:v1	ger:sg:dat.loc:n:imperf:neg		
+> niehakowanych	hakować:v1	ppas:pl:acc:m1:imperf:neg		
+> niehakowanych	hakować:v1	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niehakowany	hakować:v1	ppas:sg:acc:m3:imperf:neg		
+> niehakowany	hakować:v1	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niehakowanym	hakować:v1	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niehakowanym	hakować:v1	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niehakowanymi	hakować:v1	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> niehakowań	hakować:v1	ger:pl:gen:n:imperf:neg		
+> niehakująca	hakować:v1	pact:sg:nom.voc:f:imperf:neg		
+> niehakującą	hakować:v1	pact:sg:acc.inst:f:imperf:neg		
+> niehakującego	hakować:v1	pact:sg:acc:m1.m2:imperf:neg		
+> niehakującego	hakować:v1	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> niehakujące	hakować:v1	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> niehakujące	hakować:v1	pact:sg:nom.acc.voc:n:imperf:neg		
+> niehakującej	hakować:v1	pact:sg:gen.dat.loc:f:imperf:neg		
+> niehakującemu	hakować:v1	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> niehakujących	hakować:v1	pact:pl:acc:m1:imperf:neg		
+> niehakujących	hakować:v1	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> niehakujący	hakować:v1	pact:pl:nom.voc:m1:imperf:neg		
+> niehakujący	hakować:v1	pact:sg:acc:m3:imperf:neg		
+> niehakujący	hakować:v1	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> niehakującym	hakować:v1	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> niehakującym	hakować:v1	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> niehakującymi	hakować:v1	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> hakować	hakować:v2	inf:imperf		środ.
+> hakowaliby	hakować:v2	cond:pl:m1:ter:imperf		środ.
+> hakowalibyście	hakować:v2	cond:pl:m1:sec:imperf		środ.
+> hakowalibyśmy	hakować:v2	cond:pl:m1:pri:imperf		środ.
+> hakowali	hakować:v2	praet:pl:m1:imperf		środ.
+> hakowali	hakować:v2	praet:pl:m1:ter:imperf		środ.
+> hakowaliście	hakować:v2	praet:pl:m1:sec:imperf		środ.
+> hakowaliśmy	hakować:v2	praet:pl:m1:pri:imperf		środ.
+> hakowałaby	hakować:v2	cond:sg:f:ter:imperf		środ.
+> hakowałabym	hakować:v2	cond:sg:f:pri:imperf		środ.
+> hakowałabyś	hakować:v2	cond:sg:f:sec:imperf		środ.
+> hakowała	hakować:v2	praet:sg:f:imperf		środ.
+> hakowała	hakować:v2	praet:sg:f:ter:imperf		środ.
+> hakowałam	hakować:v2	praet:sg:f:pri:imperf		środ.
+> hakowałaś	hakować:v2	praet:sg:f:sec:imperf		środ.
+> hakowałby	hakować:v2	cond:sg:m1.m2.m3:ter:imperf		środ.
+> hakowałbym	hakować:v2	cond:sg:m1.m2.m3:pri:imperf		środ.
+> hakowałbyś	hakować:v2	cond:sg:m1.m2.m3:sec:imperf		środ.
+> hakowałem	hakować:v2	praet:sg:m1.m2.m3:pri:imperf		środ.
+> hakowałeś	hakować:v2	praet:sg:m1.m2.m3:sec:imperf		środ.
+> hakował	hakować:v2	praet:sg:m1.m2.m3:imperf		środ.
+> hakował	hakować:v2	praet:sg:m1.m2.m3:ter:imperf		środ.
+> hakowałoby	hakować:v2	cond:sg:n:ter:imperf		środ.
+> hakowałobym	hakować:v2	cond:sg:n:pri:imperf		środ.
+> hakowałobyś	hakować:v2	cond:sg:n:sec:imperf		środ.
+> hakowało	hakować:v2	praet:sg:n:imperf		środ.
+> hakowało	hakować:v2	praet:sg:n:ter:imperf		środ.
+> hakowałom	hakować:v2	praet:sg:n:pri:imperf		środ.
+> hakowałoś	hakować:v2	praet:sg:n:sec:imperf		środ.
+> hakowałyby	hakować:v2	cond:pl:m2.m3.f.n:ter:imperf		środ.
+> hakowałybyście	hakować:v2	cond:pl:m2.m3.f.n:sec:imperf		środ.
+> hakowałybyśmy	hakować:v2	cond:pl:m2.m3.f.n:pri:imperf		środ.
+> hakowały	hakować:v2	praet:pl:m2.m3.f.n:imperf		środ.
+> hakowały	hakować:v2	praet:pl:m2.m3.f.n:ter:imperf		środ.
+> hakowałyście	hakować:v2	praet:pl:m2.m3.f.n:sec:imperf		środ.
+> hakowałyśmy	hakować:v2	praet:pl:m2.m3.f.n:pri:imperf		środ.
+> hakowana	hakować:v2	ppas:sg:nom.voc:f:imperf:aff		środ.
+> hakowaną	hakować:v2	ppas:sg:acc.inst:f:imperf:aff		środ.
+> hakowanego	hakować:v2	ppas:sg:acc:m1.m2:imperf:aff		środ.
+> hakowanego	hakować:v2	ppas:sg:gen:m1.m2.m3.n:imperf:aff		środ.
+> hakowane	hakować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		środ.
+> hakowane	hakować:v2	ppas:sg:nom.acc.voc:n:imperf:aff		środ.
+> hakowanej	hakować:v2	ppas:sg:gen.dat.loc:f:imperf:aff		środ.
+> hakowanemu	hakować:v2	ppas:sg:dat:m1.m2.m3.n:imperf:aff		środ.
+> hakowaniach	hakować:v2	ger:pl:loc:n:imperf:aff		środ.
+> hakowania	hakować:v2	ger:pl:nom.acc:n:imperf:aff		środ.
+> hakowania	hakować:v2	ger:sg:gen:n:imperf:aff		środ.
+> hakowaniami	hakować:v2	ger:pl:inst:n:imperf:aff		środ.
+> hakowanie	hakować:v2	ger:sg:nom.acc:n:imperf:aff		środ.
+> hakowaniem	hakować:v2	ger:sg:inst:n:imperf:aff		środ.
+> hakowani	hakować:v2	ppas:pl:nom.voc:m1:imperf:aff		środ.
+> hakowaniom	hakować:v2	ger:pl:dat:n:imperf:aff		środ.
+> hakowaniu	hakować:v2	ger:sg:dat.loc:n:imperf:aff		środ.
+> hakowano	hakować:v2	imps:imperf		środ.
+> hakowanych	hakować:v2	ppas:pl:acc:m1:imperf:aff		środ.
+> hakowanych	hakować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		środ.
+> hakowany	hakować:v2	ppas:sg:acc:m3:imperf:aff		środ.
+> hakowany	hakować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		środ.
+> hakowanym	hakować:v2	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		środ.
+> hakowanym	hakować:v2	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		środ.
+> hakowanymi	hakować:v2	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		środ.
+> hakowań	hakować:v2	ger:pl:gen:n:imperf:aff		środ.
+> hakująca	hakować:v2	pact:sg:nom.voc:f:imperf:aff		środ.
+> hakującą	hakować:v2	pact:sg:acc.inst:f:imperf:aff		środ.
+> hakującego	hakować:v2	pact:sg:acc:m1.m2:imperf:aff		środ.
+> hakującego	hakować:v2	pact:sg:gen:m1.m2.m3.n:imperf:aff		środ.
+> hakujące	hakować:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		środ.
+> hakujące	hakować:v2	pact:sg:nom.acc.voc:n:imperf:aff		środ.
+> hakującej	hakować:v2	pact:sg:gen.dat.loc:f:imperf:aff		środ.
+> hakującemu	hakować:v2	pact:sg:dat:m1.m2.m3.n:imperf:aff		środ.
+> hakując	hakować:v2	pcon:imperf		środ.
+> hakująco	hakować:v2	pacta		środ.
+> hakujących	hakować:v2	pact:pl:acc:m1:imperf:aff		środ.
+> hakujących	hakować:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		środ.
+> hakujący	hakować:v2	pact:pl:nom.voc:m1:imperf:aff		środ.
+> hakujący	hakować:v2	pact:sg:acc:m3:imperf:aff		środ.
+> hakujący	hakować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		środ.
+> hakującym	hakować:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		środ.
+> hakującym	hakować:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		środ.
+> hakującymi	hakować:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		środ.
+> hakują	hakować:v2	fin:pl:ter:imperf		środ.
+> hakujcie	hakować:v2	impt:pl:sec:imperf		środ.
+> hakujecie	hakować:v2	fin:pl:sec:imperf		środ.
+> hakuje	hakować:v2	fin:sg:ter:imperf		środ.
+> hakujemy	hakować:v2	fin:pl:pri:imperf		środ.
+> hakujesz	hakować:v2	fin:sg:sec:imperf		środ.
+> hakuję	hakować:v2	fin:sg:pri:imperf		środ.
+> hakuj	hakować:v2	impt:sg:sec:imperf		środ.
+> hakujmy	hakować:v2	impt:pl:pri:imperf		środ.
+> niehakowana	hakować:v2	ppas:sg:nom.voc:f:imperf:neg		środ.
+> niehakowaną	hakować:v2	ppas:sg:acc.inst:f:imperf:neg		środ.
+> niehakowanego	hakować:v2	ppas:sg:acc:m1.m2:imperf:neg		środ.
+> niehakowanego	hakować:v2	ppas:sg:gen:m1.m2.m3.n:imperf:neg		środ.
+> niehakowane	hakować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		środ.
+> niehakowane	hakować:v2	ppas:sg:nom.acc.voc:n:imperf:neg		środ.
+> niehakowanej	hakować:v2	ppas:sg:gen.dat.loc:f:imperf:neg		środ.
+> niehakowanemu	hakować:v2	ppas:sg:dat:m1.m2.m3.n:imperf:neg		środ.
+> niehakowaniach	hakować:v2	ger:pl:loc:n:imperf:neg		środ.
+> niehakowania	hakować:v2	ger:pl:nom.acc:n:imperf:neg		środ.
+> niehakowania	hakować:v2	ger:sg:gen:n:imperf:neg		środ.
+> niehakowaniami	hakować:v2	ger:pl:inst:n:imperf:neg		środ.
+> niehakowanie	hakować:v2	ger:sg:nom.acc:n:imperf:neg		środ.
+> niehakowaniem	hakować:v2	ger:sg:inst:n:imperf:neg		środ.
+> niehakowani	hakować:v2	ppas:pl:nom.voc:m1:imperf:neg		środ.
+> niehakowaniom	hakować:v2	ger:pl:dat:n:imperf:neg		środ.
+> niehakowaniu	hakować:v2	ger:sg:dat.loc:n:imperf:neg		środ.
+> niehakowanych	hakować:v2	ppas:pl:acc:m1:imperf:neg		środ.
+> niehakowanych	hakować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		środ.
+> niehakowany	hakować:v2	ppas:sg:acc:m3:imperf:neg		środ.
+> niehakowany	hakować:v2	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		środ.
+> niehakowanym	hakować:v2	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		środ.
+> niehakowanym	hakować:v2	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		środ.
+> niehakowanymi	hakować:v2	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		środ.
+> niehakowań	hakować:v2	ger:pl:gen:n:imperf:neg		środ.
+> niehakująca	hakować:v2	pact:sg:nom.voc:f:imperf:neg		środ.
+> niehakującą	hakować:v2	pact:sg:acc.inst:f:imperf:neg		środ.
+> niehakującego	hakować:v2	pact:sg:acc:m1.m2:imperf:neg		środ.
+> niehakującego	hakować:v2	pact:sg:gen:m1.m2.m3.n:imperf:neg		środ.
+> niehakujące	hakować:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		środ.
+> niehakujące	hakować:v2	pact:sg:nom.acc.voc:n:imperf:neg		środ.
+> niehakującej	hakować:v2	pact:sg:gen.dat.loc:f:imperf:neg		środ.
+> niehakującemu	hakować:v2	pact:sg:dat:m1.m2.m3.n:imperf:neg		środ.
+> niehakujących	hakować:v2	pact:pl:acc:m1:imperf:neg		środ.
+> niehakujących	hakować:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		środ.
+> niehakujący	hakować:v2	pact:pl:nom.voc:m1:imperf:neg		środ.
+> niehakujący	hakować:v2	pact:sg:acc:m3:imperf:neg		środ.
+> niehakujący	hakować:v2	pact:sg:nom.voc:m1.m2.m3:imperf:neg		środ.
+> niehakującym	hakować:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		środ.
+> niehakującym	hakować:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		środ.
+> niehakującymi	hakować:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		środ.
+1861083d1861342
+< niedaleko	niedaleko	adv:pos		
+1861117a1861377
+> niedaleko	niedaleko:d	adv:pos		
+1861186a1861447
+> niedaleko	niedaleko:p	prep:gen		
+1992731,1992742c1992992,1993015
+< niehackersko	niehackersko	adv:pos		
+< niehackerskościach	niehackerskość	subst:pl:loc:f	nazwa pospolita	
+< niehackerskościami	niehackerskość	subst:pl:inst:f	nazwa pospolita	
+< niehackerskością	niehackerskość	subst:sg:inst:f	nazwa pospolita	
+< niehackerskości	niehackerskość	subst:pl:gen:f	nazwa pospolita	
+< niehackerskości	niehackerskość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< niehackerskości	niehackerskość	subst:sg:dat.loc:f	nazwa pospolita	
+< niehackerskości	niehackerskość	subst:sg:gen:f	nazwa pospolita	
+< niehackerskości	niehackerskość	subst:sg:voc:f	nazwa pospolita	
+< niehackerskościom	niehackerskość	subst:pl:dat:f	nazwa pospolita	
+< niehackerskość	niehackerskość	subst:sg:acc:f	nazwa pospolita	
+< niehackerskość	niehackerskość	subst:sg:nom:f	nazwa pospolita	
+---
+> niehackersko	niehackersko:d1	adv:pos		
+> niehackersko	niehackersko:d2	adv:pos		
+> niehackerskościach	niehackerskość:s1	subst:pl:loc:f	nazwa pospolita	
+> niehackerskościami	niehackerskość:s1	subst:pl:inst:f	nazwa pospolita	
+> niehackerskością	niehackerskość:s1	subst:sg:inst:f	nazwa pospolita	
+> niehackerskości	niehackerskość:s1	subst:pl:gen:f	nazwa pospolita	
+> niehackerskości	niehackerskość:s1	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> niehackerskości	niehackerskość:s1	subst:sg:dat.loc:f	nazwa pospolita	
+> niehackerskości	niehackerskość:s1	subst:sg:gen:f	nazwa pospolita	
+> niehackerskości	niehackerskość:s1	subst:sg:voc:f	nazwa pospolita	
+> niehackerskościom	niehackerskość:s1	subst:pl:dat:f	nazwa pospolita	
+> niehackerskość	niehackerskość:s1	subst:sg:acc:f	nazwa pospolita	
+> niehackerskość	niehackerskość:s1	subst:sg:nom:f	nazwa pospolita	
+> niehackerskościach	niehackerskość:s2	subst:pl:loc:f		
+> niehackerskościami	niehackerskość:s2	subst:pl:inst:f		
+> niehackerskością	niehackerskość:s2	subst:sg:inst:f		
+> niehackerskości	niehackerskość:s2	subst:pl:gen:f		
+> niehackerskości	niehackerskość:s2	subst:pl:nom.acc.voc:f		
+> niehackerskości	niehackerskość:s2	subst:sg:dat.loc:f		
+> niehackerskości	niehackerskość:s2	subst:sg:gen:f		
+> niehackerskości	niehackerskość:s2	subst:sg:voc:f		
+> niehackerskościom	niehackerskość:s2	subst:pl:dat:f		
+> niehackerskość	niehackerskość:s2	subst:sg:acc:f		
+> niehackerskość	niehackerskość:s2	subst:sg:nom:f		
+6249266a6249540,6249636
+> niezhackowana	zhackować	ppas:sg:nom.voc:f:perf:neg		środ.
+> niezhackowaną	zhackować	ppas:sg:acc.inst:f:perf:neg		środ.
+> niezhackowanego	zhackować	ppas:sg:acc:m1.m2:perf:neg		środ.
+> niezhackowanego	zhackować	ppas:sg:gen:m1.m2.m3.n:perf:neg		środ.
+> niezhackowanej	zhackować	ppas:sg:gen.dat.loc:f:perf:neg		środ.
+> niezhackowanemu	zhackować	ppas:sg:dat:m1.m2.m3.n:perf:neg		środ.
+> niezhackowane	zhackować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		środ.
+> niezhackowane	zhackować	ppas:sg:nom.acc.voc:n:perf:neg		środ.
+> niezhackowaniach	zhackować	ger:pl:loc:n:perf:neg		środ.
+> niezhackowaniami	zhackować	ger:pl:inst:n:perf:neg		środ.
+> niezhackowania	zhackować	ger:pl:nom.acc:n:perf:neg		środ.
+> niezhackowania	zhackować	ger:sg:gen:n:perf:neg		środ.
+> niezhackowaniem	zhackować	ger:sg:inst:n:perf:neg		środ.
+> niezhackowanie	zhackować	ger:sg:nom.acc:n:perf:neg		środ.
+> niezhackowaniom	zhackować	ger:pl:dat:n:perf:neg		środ.
+> niezhackowaniu	zhackować	ger:sg:dat.loc:n:perf:neg		środ.
+> niezhackowani	zhackować	ppas:pl:nom.voc:m1:perf:neg		środ.
+> niezhackowanych	zhackować	ppas:pl:acc:m1:perf:neg		środ.
+> niezhackowanych	zhackować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		środ.
+> niezhackowanymi	zhackować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		środ.
+> niezhackowanym	zhackować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		środ.
+> niezhackowanym	zhackować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		środ.
+> niezhackowany	zhackować	ppas:sg:acc:m3:perf:neg		środ.
+> niezhackowany	zhackować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		środ.
+> niezhackowań	zhackować	ger:pl:gen:n:perf:neg		środ.
+> zhackować	zhackować	inf:perf		środ.
+> zhackowalibyście	zhackować	cond:pl:m1:sec:perf		środ.
+> zhackowalibyśmy	zhackować	cond:pl:m1:pri:perf		środ.
+> zhackowaliby	zhackować	cond:pl:m1:ter:perf		środ.
+> zhackowaliście	zhackować	praet:pl:m1:sec:perf		środ.
+> zhackowaliśmy	zhackować	praet:pl:m1:pri:perf		środ.
+> zhackowali	zhackować	praet:pl:m1:perf		środ.
+> zhackowali	zhackować	praet:pl:m1:ter:perf		środ.
+> zhackowałabym	zhackować	cond:sg:f:pri:perf		środ.
+> zhackowałabyś	zhackować	cond:sg:f:sec:perf		środ.
+> zhackowałaby	zhackować	cond:sg:f:ter:perf		środ.
+> zhackowałam	zhackować	praet:sg:f:pri:perf		środ.
+> zhackowałaś	zhackować	praet:sg:f:sec:perf		środ.
+> zhackowała	zhackować	praet:sg:f:perf		środ.
+> zhackowała	zhackować	praet:sg:f:ter:perf		środ.
+> zhackowałbym	zhackować	cond:sg:m1.m2.m3:pri:perf		środ.
+> zhackowałbyś	zhackować	cond:sg:m1.m2.m3:sec:perf		środ.
+> zhackowałby	zhackować	cond:sg:m1.m2.m3:ter:perf		środ.
+> zhackowałem	zhackować	praet:sg:m1.m2.m3:pri:perf		środ.
+> zhackowałeś	zhackować	praet:sg:m1.m2.m3:sec:perf		środ.
+> zhackowałobym	zhackować	cond:sg:n:pri:perf		środ.
+> zhackowałobyś	zhackować	cond:sg:n:sec:perf		środ.
+> zhackowałoby	zhackować	cond:sg:n:ter:perf		środ.
+> zhackowałom	zhackować	praet:sg:n:pri:perf		środ.
+> zhackowałoś	zhackować	praet:sg:n:sec:perf		środ.
+> zhackowało	zhackować	praet:sg:n:perf		środ.
+> zhackowało	zhackować	praet:sg:n:ter:perf		środ.
+> zhackowałybyście	zhackować	cond:pl:m2.m3.f.n:sec:perf		środ.
+> zhackowałybyśmy	zhackować	cond:pl:m2.m3.f.n:pri:perf		środ.
+> zhackowałyby	zhackować	cond:pl:m2.m3.f.n:ter:perf		środ.
+> zhackowałyście	zhackować	praet:pl:m2.m3.f.n:sec:perf		środ.
+> zhackowałyśmy	zhackować	praet:pl:m2.m3.f.n:pri:perf		środ.
+> zhackowały	zhackować	praet:pl:m2.m3.f.n:perf		środ.
+> zhackowały	zhackować	praet:pl:m2.m3.f.n:ter:perf		środ.
+> zhackował	zhackować	praet:sg:m1.m2.m3:perf		środ.
+> zhackował	zhackować	praet:sg:m1.m2.m3:ter:perf		środ.
+> zhackowana	zhackować	ppas:sg:nom.voc:f:perf:aff		środ.
+> zhackowaną	zhackować	ppas:sg:acc.inst:f:perf:aff		środ.
+> zhackowanego	zhackować	ppas:sg:acc:m1.m2:perf:aff		środ.
+> zhackowanego	zhackować	ppas:sg:gen:m1.m2.m3.n:perf:aff		środ.
+> zhackowanej	zhackować	ppas:sg:gen.dat.loc:f:perf:aff		środ.
+> zhackowanemu	zhackować	ppas:sg:dat:m1.m2.m3.n:perf:aff		środ.
+> zhackowane	zhackować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		środ.
+> zhackowane	zhackować	ppas:sg:nom.acc.voc:n:perf:aff		środ.
+> zhackowaniach	zhackować	ger:pl:loc:n:perf:aff		środ.
+> zhackowaniami	zhackować	ger:pl:inst:n:perf:aff		środ.
+> zhackowania	zhackować	ger:pl:nom.acc:n:perf:aff		środ.
+> zhackowania	zhackować	ger:sg:gen:n:perf:aff		środ.
+> zhackowaniem	zhackować	ger:sg:inst:n:perf:aff		środ.
+> zhackowanie	zhackować	ger:sg:nom.acc:n:perf:aff		środ.
+> zhackowaniom	zhackować	ger:pl:dat:n:perf:aff		środ.
+> zhackowaniu	zhackować	ger:sg:dat.loc:n:perf:aff		środ.
+> zhackowani	zhackować	ppas:pl:nom.voc:m1:perf:aff		środ.
+> zhackowano	zhackować	imps:perf		środ.
+> zhackowanych	zhackować	ppas:pl:acc:m1:perf:aff		środ.
+> zhackowanych	zhackować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		środ.
+> zhackowanymi	zhackować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		środ.
+> zhackowanym	zhackować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		środ.
+> zhackowanym	zhackować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		środ.
+> zhackowany	zhackować	ppas:sg:acc:m3:perf:aff		środ.
+> zhackowany	zhackować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		środ.
+> zhackowań	zhackować	ger:pl:gen:n:perf:aff		środ.
+> zhackowawszy	zhackować	pant:perf		środ.
+> zhackują	zhackować	fin:pl:ter:perf		środ.
+> zhackujcie	zhackować	impt:pl:sec:perf		środ.
+> zhackujecie	zhackować	fin:pl:sec:perf		środ.
+> zhackujemy	zhackować	fin:pl:pri:perf		środ.
+> zhackujesz	zhackować	fin:sg:sec:perf		środ.
+> zhackuje	zhackować	fin:sg:ter:perf		środ.
+> zhackuję	zhackować	fin:sg:pri:perf		środ.
+> zhackujmy	zhackować	impt:pl:pri:perf		środ.
+> zhackuj	zhackować	impt:sg:sec:perf		środ.
+6249364,6249460c6249734,6249927
+< niezhakowana	zhakować	ppas:sg:nom.voc:f:perf:neg		
+< niezhakowaną	zhakować	ppas:sg:acc.inst:f:perf:neg		
+< niezhakowanego	zhakować	ppas:sg:acc:m1.m2:perf:neg		
+< niezhakowanego	zhakować	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+< niezhakowanej	zhakować	ppas:sg:gen.dat.loc:f:perf:neg		
+< niezhakowanemu	zhakować	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+< niezhakowane	zhakować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+< niezhakowane	zhakować	ppas:sg:nom.acc.voc:n:perf:neg		
+< niezhakowaniach	zhakować	ger:pl:loc:n:perf:neg		
+< niezhakowaniami	zhakować	ger:pl:inst:n:perf:neg		
+< niezhakowania	zhakować	ger:pl:nom.acc:n:perf:neg		
+< niezhakowania	zhakować	ger:sg:gen:n:perf:neg		
+< niezhakowaniem	zhakować	ger:sg:inst:n:perf:neg		
+< niezhakowanie	zhakować	ger:sg:nom.acc:n:perf:neg		
+< niezhakowaniom	zhakować	ger:pl:dat:n:perf:neg		
+< niezhakowaniu	zhakować	ger:sg:dat.loc:n:perf:neg		
+< niezhakowani	zhakować	ppas:pl:nom.voc:m1:perf:neg		
+< niezhakowanych	zhakować	ppas:pl:acc:m1:perf:neg		
+< niezhakowanych	zhakować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+< niezhakowanymi	zhakować	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+< niezhakowanym	zhakować	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+< niezhakowanym	zhakować	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+< niezhakowany	zhakować	ppas:sg:acc:m3:perf:neg		
+< niezhakowany	zhakować	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+< niezhakowań	zhakować	ger:pl:gen:n:perf:neg		
+< zhakować	zhakować	inf:perf		
+< zhakowalibyście	zhakować	cond:pl:m1:sec:perf		
+< zhakowalibyśmy	zhakować	cond:pl:m1:pri:perf		
+< zhakowaliby	zhakować	cond:pl:m1:ter:perf		
+< zhakowaliście	zhakować	praet:pl:m1:sec:perf		
+< zhakowaliśmy	zhakować	praet:pl:m1:pri:perf		
+< zhakowali	zhakować	praet:pl:m1:perf		
+< zhakowali	zhakować	praet:pl:m1:ter:perf		
+< zhakowałabym	zhakować	cond:sg:f:pri:perf		
+< zhakowałabyś	zhakować	cond:sg:f:sec:perf		
+< zhakowałaby	zhakować	cond:sg:f:ter:perf		
+< zhakowałam	zhakować	praet:sg:f:pri:perf		
+< zhakowałaś	zhakować	praet:sg:f:sec:perf		
+< zhakowała	zhakować	praet:sg:f:perf		
+< zhakowała	zhakować	praet:sg:f:ter:perf		
+< zhakowałbym	zhakować	cond:sg:m1.m2.m3:pri:perf		
+< zhakowałbyś	zhakować	cond:sg:m1.m2.m3:sec:perf		
+< zhakowałby	zhakować	cond:sg:m1.m2.m3:ter:perf		
+< zhakowałem	zhakować	praet:sg:m1.m2.m3:pri:perf		
+< zhakowałeś	zhakować	praet:sg:m1.m2.m3:sec:perf		
+< zhakowałobym	zhakować	cond:sg:n:pri:perf		
+< zhakowałobyś	zhakować	cond:sg:n:sec:perf		
+< zhakowałoby	zhakować	cond:sg:n:ter:perf		
+< zhakowałom	zhakować	praet:sg:n:pri:perf		
+< zhakowałoś	zhakować	praet:sg:n:sec:perf		
+< zhakowało	zhakować	praet:sg:n:perf		
+< zhakowało	zhakować	praet:sg:n:ter:perf		
+< zhakowałybyście	zhakować	cond:pl:m2.m3.f.n:sec:perf		
+< zhakowałybyśmy	zhakować	cond:pl:m2.m3.f.n:pri:perf		
+< zhakowałyby	zhakować	cond:pl:m2.m3.f.n:ter:perf		
+< zhakowałyście	zhakować	praet:pl:m2.m3.f.n:sec:perf		
+< zhakowałyśmy	zhakować	praet:pl:m2.m3.f.n:pri:perf		
+< zhakowały	zhakować	praet:pl:m2.m3.f.n:perf		
+< zhakowały	zhakować	praet:pl:m2.m3.f.n:ter:perf		
+< zhakował	zhakować	praet:sg:m1.m2.m3:perf		
+< zhakował	zhakować	praet:sg:m1.m2.m3:ter:perf		
+< zhakowana	zhakować	ppas:sg:nom.voc:f:perf:aff		
+< zhakowaną	zhakować	ppas:sg:acc.inst:f:perf:aff		
+< zhakowanego	zhakować	ppas:sg:acc:m1.m2:perf:aff		
+< zhakowanego	zhakować	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+< zhakowanej	zhakować	ppas:sg:gen.dat.loc:f:perf:aff		
+< zhakowanemu	zhakować	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+< zhakowane	zhakować	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+< zhakowane	zhakować	ppas:sg:nom.acc.voc:n:perf:aff		
+< zhakowaniach	zhakować	ger:pl:loc:n:perf:aff		
+< zhakowaniami	zhakować	ger:pl:inst:n:perf:aff		
+< zhakowania	zhakować	ger:pl:nom.acc:n:perf:aff		
+< zhakowania	zhakować	ger:sg:gen:n:perf:aff		
+< zhakowaniem	zhakować	ger:sg:inst:n:perf:aff		
+< zhakowanie	zhakować	ger:sg:nom.acc:n:perf:aff		
+< zhakowaniom	zhakować	ger:pl:dat:n:perf:aff		
+< zhakowaniu	zhakować	ger:sg:dat.loc:n:perf:aff		
+< zhakowani	zhakować	ppas:pl:nom.voc:m1:perf:aff		
+< zhakowano	zhakować	imps:perf		
+< zhakowanych	zhakować	ppas:pl:acc:m1:perf:aff		
+< zhakowanych	zhakować	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+< zhakowanymi	zhakować	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+< zhakowanym	zhakować	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+< zhakowanym	zhakować	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+< zhakowany	zhakować	ppas:sg:acc:m3:perf:aff		
+< zhakowany	zhakować	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+< zhakowań	zhakować	ger:pl:gen:n:perf:aff		
+< zhakowawszy	zhakować	pant:perf		
+< zhakują	zhakować	fin:pl:ter:perf		
+< zhakujcie	zhakować	impt:pl:sec:perf		
+< zhakujecie	zhakować	fin:pl:sec:perf		
+< zhakujemy	zhakować	fin:pl:pri:perf		
+< zhakujesz	zhakować	fin:sg:sec:perf		
+< zhakuje	zhakować	fin:sg:ter:perf		
+< zhakuję	zhakować	fin:sg:pri:perf		
+< zhakujmy	zhakować	impt:pl:pri:perf		
+< zhakuj	zhakować	impt:sg:sec:perf		
+---
+> niezhakowana	zhakować:v2	ppas:sg:nom.voc:f:perf:neg		
+> niezhakowaną	zhakować:v2	ppas:sg:acc.inst:f:perf:neg		
+> niezhakowanego	zhakować:v2	ppas:sg:acc:m1.m2:perf:neg		
+> niezhakowanego	zhakować:v2	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niezhakowanej	zhakować:v2	ppas:sg:gen.dat.loc:f:perf:neg		
+> niezhakowanemu	zhakować:v2	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niezhakowane	zhakować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niezhakowane	zhakować:v2	ppas:sg:nom.acc.voc:n:perf:neg		
+> niezhakowaniach	zhakować:v2	ger:pl:loc:n:perf:neg		
+> niezhakowaniami	zhakować:v2	ger:pl:inst:n:perf:neg		
+> niezhakowania	zhakować:v2	ger:pl:nom.acc:n:perf:neg		
+> niezhakowania	zhakować:v2	ger:sg:gen:n:perf:neg		
+> niezhakowaniem	zhakować:v2	ger:sg:inst:n:perf:neg		
+> niezhakowanie	zhakować:v2	ger:sg:nom.acc:n:perf:neg		
+> niezhakowaniom	zhakować:v2	ger:pl:dat:n:perf:neg		
+> niezhakowaniu	zhakować:v2	ger:sg:dat.loc:n:perf:neg		
+> niezhakowani	zhakować:v2	ppas:pl:nom.voc:m1:perf:neg		
+> niezhakowanych	zhakować:v2	ppas:pl:acc:m1:perf:neg		
+> niezhakowanych	zhakować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niezhakowanymi	zhakować:v2	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niezhakowanym	zhakować:v2	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niezhakowanym	zhakować:v2	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niezhakowany	zhakować:v2	ppas:sg:acc:m3:perf:neg		
+> niezhakowany	zhakować:v2	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> niezhakowań	zhakować:v2	ger:pl:gen:n:perf:neg		
+> zhakować	zhakować:v2	inf:perf		
+> zhakowalibyście	zhakować:v2	cond:pl:m1:sec:perf		
+> zhakowalibyśmy	zhakować:v2	cond:pl:m1:pri:perf		
+> zhakowaliby	zhakować:v2	cond:pl:m1:ter:perf		
+> zhakowaliście	zhakować:v2	praet:pl:m1:sec:perf		
+> zhakowaliśmy	zhakować:v2	praet:pl:m1:pri:perf		
+> zhakowali	zhakować:v2	praet:pl:m1:perf		
+> zhakowali	zhakować:v2	praet:pl:m1:ter:perf		
+> zhakowałabym	zhakować:v2	cond:sg:f:pri:perf		
+> zhakowałabyś	zhakować:v2	cond:sg:f:sec:perf		
+> zhakowałaby	zhakować:v2	cond:sg:f:ter:perf		
+> zhakowałam	zhakować:v2	praet:sg:f:pri:perf		
+> zhakowałaś	zhakować:v2	praet:sg:f:sec:perf		
+> zhakowała	zhakować:v2	praet:sg:f:perf		
+> zhakowała	zhakować:v2	praet:sg:f:ter:perf		
+> zhakowałbym	zhakować:v2	cond:sg:m1.m2.m3:pri:perf		
+> zhakowałbyś	zhakować:v2	cond:sg:m1.m2.m3:sec:perf		
+> zhakowałby	zhakować:v2	cond:sg:m1.m2.m3:ter:perf		
+> zhakowałem	zhakować:v2	praet:sg:m1.m2.m3:pri:perf		
+> zhakowałeś	zhakować:v2	praet:sg:m1.m2.m3:sec:perf		
+> zhakowałobym	zhakować:v2	cond:sg:n:pri:perf		
+> zhakowałobyś	zhakować:v2	cond:sg:n:sec:perf		
+> zhakowałoby	zhakować:v2	cond:sg:n:ter:perf		
+> zhakowałom	zhakować:v2	praet:sg:n:pri:perf		
+> zhakowałoś	zhakować:v2	praet:sg:n:sec:perf		
+> zhakowało	zhakować:v2	praet:sg:n:perf		
+> zhakowało	zhakować:v2	praet:sg:n:ter:perf		
+> zhakowałybyście	zhakować:v2	cond:pl:m2.m3.f.n:sec:perf		
+> zhakowałybyśmy	zhakować:v2	cond:pl:m2.m3.f.n:pri:perf		
+> zhakowałyby	zhakować:v2	cond:pl:m2.m3.f.n:ter:perf		
+> zhakowałyście	zhakować:v2	praet:pl:m2.m3.f.n:sec:perf		
+> zhakowałyśmy	zhakować:v2	praet:pl:m2.m3.f.n:pri:perf		
+> zhakowały	zhakować:v2	praet:pl:m2.m3.f.n:perf		
+> zhakowały	zhakować:v2	praet:pl:m2.m3.f.n:ter:perf		
+> zhakował	zhakować:v2	praet:sg:m1.m2.m3:perf		
+> zhakował	zhakować:v2	praet:sg:m1.m2.m3:ter:perf		
+> zhakowana	zhakować:v2	ppas:sg:nom.voc:f:perf:aff		
+> zhakowaną	zhakować:v2	ppas:sg:acc.inst:f:perf:aff		
+> zhakowanego	zhakować:v2	ppas:sg:acc:m1.m2:perf:aff		
+> zhakowanego	zhakować:v2	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> zhakowanej	zhakować:v2	ppas:sg:gen.dat.loc:f:perf:aff		
+> zhakowanemu	zhakować:v2	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> zhakowane	zhakować:v2	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> zhakowane	zhakować:v2	ppas:sg:nom.acc.voc:n:perf:aff		
+> zhakowaniach	zhakować:v2	ger:pl:loc:n:perf:aff		
+> zhakowaniami	zhakować:v2	ger:pl:inst:n:perf:aff		
+> zhakowania	zhakować:v2	ger:pl:nom.acc:n:perf:aff		
+> zhakowania	zhakować:v2	ger:sg:gen:n:perf:aff		
+> zhakowaniem	zhakować:v2	ger:sg:inst:n:perf:aff		
+> zhakowanie	zhakować:v2	ger:sg:nom.acc:n:perf:aff		
+> zhakowaniom	zhakować:v2	ger:pl:dat:n:perf:aff		
+> zhakowaniu	zhakować:v2	ger:sg:dat.loc:n:perf:aff		
+> zhakowani	zhakować:v2	ppas:pl:nom.voc:m1:perf:aff		
+> zhakowano	zhakować:v2	imps:perf		
+> zhakowanych	zhakować:v2	ppas:pl:acc:m1:perf:aff		
+> zhakowanych	zhakować:v2	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> zhakowanymi	zhakować:v2	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> zhakowanym	zhakować:v2	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> zhakowanym	zhakować:v2	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> zhakowany	zhakować:v2	ppas:sg:acc:m3:perf:aff		
+> zhakowany	zhakować:v2	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> zhakowań	zhakować:v2	ger:pl:gen:n:perf:aff		
+> zhakowawszy	zhakować:v2	pant:perf		
+> zhakują	zhakować:v2	fin:pl:ter:perf		
+> zhakujcie	zhakować:v2	impt:pl:sec:perf		
+> zhakujecie	zhakować:v2	fin:pl:sec:perf		
+> zhakujemy	zhakować:v2	fin:pl:pri:perf		
+> zhakujesz	zhakować:v2	fin:sg:sec:perf		
+> zhakuje	zhakować:v2	fin:sg:ter:perf		
+> zhakuję	zhakować:v2	fin:sg:pri:perf		
+> zhakujmy	zhakować:v2	impt:pl:pri:perf		
+> zhakuj	zhakować:v2	impt:sg:sec:perf		
+> niezhakowana	zhakować:v3	ppas:sg:nom.voc:f:perf:neg		środ.
+> niezhakowaną	zhakować:v3	ppas:sg:acc.inst:f:perf:neg		środ.
+> niezhakowanego	zhakować:v3	ppas:sg:acc:m1.m2:perf:neg		środ.
+> niezhakowanego	zhakować:v3	ppas:sg:gen:m1.m2.m3.n:perf:neg		środ.
+> niezhakowanej	zhakować:v3	ppas:sg:gen.dat.loc:f:perf:neg		środ.
+> niezhakowanemu	zhakować:v3	ppas:sg:dat:m1.m2.m3.n:perf:neg		środ.
+> niezhakowane	zhakować:v3	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		środ.
+> niezhakowane	zhakować:v3	ppas:sg:nom.acc.voc:n:perf:neg		środ.
+> niezhakowaniach	zhakować:v3	ger:pl:loc:n:perf:neg		środ.
+> niezhakowaniami	zhakować:v3	ger:pl:inst:n:perf:neg		środ.
+> niezhakowania	zhakować:v3	ger:pl:nom.acc:n:perf:neg		środ.
+> niezhakowania	zhakować:v3	ger:sg:gen:n:perf:neg		środ.
+> niezhakowaniem	zhakować:v3	ger:sg:inst:n:perf:neg		środ.
+> niezhakowanie	zhakować:v3	ger:sg:nom.acc:n:perf:neg		środ.
+> niezhakowaniom	zhakować:v3	ger:pl:dat:n:perf:neg		środ.
+> niezhakowaniu	zhakować:v3	ger:sg:dat.loc:n:perf:neg		środ.
+> niezhakowani	zhakować:v3	ppas:pl:nom.voc:m1:perf:neg		środ.
+> niezhakowanych	zhakować:v3	ppas:pl:acc:m1:perf:neg		środ.
+> niezhakowanych	zhakować:v3	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		środ.
+> niezhakowanymi	zhakować:v3	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		środ.
+> niezhakowanym	zhakować:v3	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		środ.
+> niezhakowanym	zhakować:v3	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		środ.
+> niezhakowany	zhakować:v3	ppas:sg:acc:m3:perf:neg		środ.
+> niezhakowany	zhakować:v3	ppas:sg:nom.voc:m1.m2.m3:perf:neg		środ.
+> niezhakowań	zhakować:v3	ger:pl:gen:n:perf:neg		środ.
+> zhakować	zhakować:v3	inf:perf		środ.
+> zhakowalibyście	zhakować:v3	cond:pl:m1:sec:perf		środ.
+> zhakowalibyśmy	zhakować:v3	cond:pl:m1:pri:perf		środ.
+> zhakowaliby	zhakować:v3	cond:pl:m1:ter:perf		środ.
+> zhakowaliście	zhakować:v3	praet:pl:m1:sec:perf		środ.
+> zhakowaliśmy	zhakować:v3	praet:pl:m1:pri:perf		środ.
+> zhakowali	zhakować:v3	praet:pl:m1:perf		środ.
+> zhakowali	zhakować:v3	praet:pl:m1:ter:perf		środ.
+> zhakowałabym	zhakować:v3	cond:sg:f:pri:perf		środ.
+> zhakowałabyś	zhakować:v3	cond:sg:f:sec:perf		środ.
+> zhakowałaby	zhakować:v3	cond:sg:f:ter:perf		środ.
+> zhakowałam	zhakować:v3	praet:sg:f:pri:perf		środ.
+> zhakowałaś	zhakować:v3	praet:sg:f:sec:perf		środ.
+> zhakowała	zhakować:v3	praet:sg:f:perf		środ.
+> zhakowała	zhakować:v3	praet:sg:f:ter:perf		środ.
+> zhakowałbym	zhakować:v3	cond:sg:m1.m2.m3:pri:perf		środ.
+> zhakowałbyś	zhakować:v3	cond:sg:m1.m2.m3:sec:perf		środ.
+> zhakowałby	zhakować:v3	cond:sg:m1.m2.m3:ter:perf		środ.
+> zhakowałem	zhakować:v3	praet:sg:m1.m2.m3:pri:perf		środ.
+> zhakowałeś	zhakować:v3	praet:sg:m1.m2.m3:sec:perf		środ.
+> zhakowałobym	zhakować:v3	cond:sg:n:pri:perf		środ.
+> zhakowałobyś	zhakować:v3	cond:sg:n:sec:perf		środ.
+> zhakowałoby	zhakować:v3	cond:sg:n:ter:perf		środ.
+> zhakowałom	zhakować:v3	praet:sg:n:pri:perf		środ.
+> zhakowałoś	zhakować:v3	praet:sg:n:sec:perf		środ.
+> zhakowało	zhakować:v3	praet:sg:n:perf		środ.
+> zhakowało	zhakować:v3	praet:sg:n:ter:perf		środ.
+> zhakowałybyście	zhakować:v3	cond:pl:m2.m3.f.n:sec:perf		środ.
+> zhakowałybyśmy	zhakować:v3	cond:pl:m2.m3.f.n:pri:perf		środ.
+> zhakowałyby	zhakować:v3	cond:pl:m2.m3.f.n:ter:perf		środ.
+> zhakowałyście	zhakować:v3	praet:pl:m2.m3.f.n:sec:perf		środ.
+> zhakowałyśmy	zhakować:v3	praet:pl:m2.m3.f.n:pri:perf		środ.
+> zhakowały	zhakować:v3	praet:pl:m2.m3.f.n:perf		środ.
+> zhakowały	zhakować:v3	praet:pl:m2.m3.f.n:ter:perf		środ.
+> zhakował	zhakować:v3	praet:sg:m1.m2.m3:perf		środ.
+> zhakował	zhakować:v3	praet:sg:m1.m2.m3:ter:perf		środ.
+> zhakowana	zhakować:v3	ppas:sg:nom.voc:f:perf:aff		środ.
+> zhakowaną	zhakować:v3	ppas:sg:acc.inst:f:perf:aff		środ.
+> zhakowanego	zhakować:v3	ppas:sg:acc:m1.m2:perf:aff		środ.
+> zhakowanego	zhakować:v3	ppas:sg:gen:m1.m2.m3.n:perf:aff		środ.
+> zhakowanej	zhakować:v3	ppas:sg:gen.dat.loc:f:perf:aff		środ.
+> zhakowanemu	zhakować:v3	ppas:sg:dat:m1.m2.m3.n:perf:aff		środ.
+> zhakowane	zhakować:v3	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		środ.
+> zhakowane	zhakować:v3	ppas:sg:nom.acc.voc:n:perf:aff		środ.
+> zhakowaniach	zhakować:v3	ger:pl:loc:n:perf:aff		środ.
+> zhakowaniami	zhakować:v3	ger:pl:inst:n:perf:aff		środ.
+> zhakowania	zhakować:v3	ger:pl:nom.acc:n:perf:aff		środ.
+> zhakowania	zhakować:v3	ger:sg:gen:n:perf:aff		środ.
+> zhakowaniem	zhakować:v3	ger:sg:inst:n:perf:aff		środ.
+> zhakowanie	zhakować:v3	ger:sg:nom.acc:n:perf:aff		środ.
+> zhakowaniom	zhakować:v3	ger:pl:dat:n:perf:aff		środ.
+> zhakowaniu	zhakować:v3	ger:sg:dat.loc:n:perf:aff		środ.
+> zhakowani	zhakować:v3	ppas:pl:nom.voc:m1:perf:aff		środ.
+> zhakowano	zhakować:v3	imps:perf		środ.
+> zhakowanych	zhakować:v3	ppas:pl:acc:m1:perf:aff		środ.
+> zhakowanych	zhakować:v3	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		środ.
+> zhakowanymi	zhakować:v3	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		środ.
+> zhakowanym	zhakować:v3	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		środ.
+> zhakowanym	zhakować:v3	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		środ.
+> zhakowany	zhakować:v3	ppas:sg:acc:m3:perf:aff		środ.
+> zhakowany	zhakować:v3	ppas:sg:nom.voc:m1.m2.m3:perf:aff		środ.
+> zhakowań	zhakować:v3	ger:pl:gen:n:perf:aff		środ.
+> zhakowawszy	zhakować:v3	pant:perf		środ.
+> zhakują	zhakować:v3	fin:pl:ter:perf		środ.
+> zhakujcie	zhakować:v3	impt:pl:sec:perf		środ.
+> zhakujecie	zhakować:v3	fin:pl:sec:perf		środ.
+> zhakujemy	zhakować:v3	fin:pl:pri:perf		środ.
+> zhakujesz	zhakować:v3	fin:sg:sec:perf		środ.
+> zhakuje	zhakować:v3	fin:sg:ter:perf		środ.
+> zhakuję	zhakować:v3	fin:sg:pri:perf		środ.
+> zhakujmy	zhakować:v3	impt:pl:pri:perf		środ.
+> zhakuj	zhakować:v3	impt:sg:sec:perf		środ.

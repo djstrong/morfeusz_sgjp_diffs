@@ -1,0 +1,1235 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2015.08.25
+---
+> #!DICT-ID pl.sgjp.sgjp-2015.09.03
+8839c8839
+< Adel	Adela	subst:pl:gen:f	imię	
+---
+> Adel	Adela	subst:pl:gen:f	imię	char.
+8845a8846
+> Adeli	Adela	subst:pl:gen:f	imię	hom.
+8848a8850
+> Adelo	Adela	subst:sg:voc:f	imię	
+46025a46028
+> Amaltei	Amalteja	subst:pl:gen:f	imię	hom.|mit.
+46031a46035
+> Amaltej	Amalteja	subst:pl:gen:f	imię	char.|mit.
+46039a46044
+> Amalteju	Amalteja	subst:sg:voc:f	imię	mit.
+52884,52885c52889,52900
+< ampexach	ampex	subst:pl:loc:m3	pospolita	techn.
+< ampexami	ampex	subst:pl:inst:m3	pospolita	techn.
+---
+> ampeksach	ampex	subst:pl:loc:m3	pospolita	techn.
+> ampeksami	ampex	subst:pl:inst:m3	pospolita	techn.
+> ampeksem	ampex	subst:sg:inst:m3	pospolita	techn.
+> ampeksie	ampex	subst:sg:loc:m3	pospolita	techn.
+> ampeksie	ampex	subst:sg:voc:m3	pospolita	techn.
+> ampeksom	ampex	subst:pl:dat:m3	pospolita	techn.
+> ampeksowi	ampex	subst:sg:dat:m3	pospolita	techn.
+> ampeksów	ampex	subst:pl:gen:m3	pospolita	techn.
+> ampeksu	ampex	subst:sg:gen:m3	pospolita	techn.
+> ampeksy	ampex	subst:pl:acc:m3	pospolita	techn.
+> ampeksy	ampex	subst:pl:nom:m3	pospolita	techn.
+> ampeksy	ampex	subst:pl:voc:m3	pospolita	techn.
+52888,52897d52902
+< ampexem	ampex	subst:sg:inst:m3	pospolita	techn.
+< ampexie	ampex	subst:sg:loc:m3	pospolita	techn.
+< ampexie	ampex	subst:sg:voc:m3	pospolita	techn.
+< ampexom	ampex	subst:pl:dat:m3	pospolita	techn.
+< ampexowi	ampex	subst:sg:dat:m3	pospolita	techn.
+< ampexów	ampex	subst:pl:gen:m3	pospolita	techn.
+< ampexu	ampex	subst:sg:gen:m3	pospolita	techn.
+< ampexy	ampex	subst:pl:acc:m3	pospolita	techn.
+< ampexy	ampex	subst:pl:nom:m3	pospolita	techn.
+< ampexy	ampex	subst:pl:voc:m3	pospolita	techn.
+95255a95261,95274
+> Armence	Armenka	subst:sg:dat:f	pospolita	
+> Armence	Armenka	subst:sg:loc:f	pospolita	
+> Armenek	Armenka	subst:pl:gen:f	pospolita	
+> Armenka	Armenka	subst:sg:nom:f	pospolita	
+> Armenkach	Armenka	subst:pl:loc:f	pospolita	
+> Armenkami	Armenka	subst:pl:inst:f	pospolita	
+> Armenką	Armenka	subst:sg:inst:f	pospolita	
+> Armenkę	Armenka	subst:sg:acc:f	pospolita	
+> Armenki	Armenka	subst:pl:acc:f	pospolita	
+> Armenki	Armenka	subst:pl:nom:f	pospolita	
+> Armenki	Armenka	subst:pl:voc:f	pospolita	
+> Armenki	Armenka	subst:sg:gen:f	pospolita	
+> Armenko	Armenka	subst:sg:voc:f	pospolita	
+> Armenkom	Armenka	subst:pl:dat:f	pospolita	
+113410a113430,113431
+> Austro-Węgier	Austro-Węgry	subst:pl:gen:p2	geograficzna	rzad.|hist.
+> Austro-Węgier	Austro-Węgry	subst:pl:gen:p3	geograficzna	hist.
+199042a199064,199077
+> Białegostoku	Białystok	subst:sg:gen:m3	geograficzna	
+> Białemustokowi	Białystok	subst:sg:dat:m3	geograficzna	
+> Białestoki	Białystok	subst:pl:acc:m3	geograficzna	
+> Białestoki	Białystok	subst:pl:nom:m3	geograficzna	
+> Białestoki	Białystok	subst:pl:voc:m3	geograficzna	
+> Białychstokach	Białystok	subst:pl:loc:m3	geograficzna	
+> Białychstoków	Białystok	subst:pl:gen:m3	geograficzna	
+> Białymistokami	Białystok	subst:pl:inst:m3	geograficzna	
+> Białymstokiem	Białystok	subst:sg:inst:m3	geograficzna	
+> Białymstokom	Białystok	subst:pl:dat:m3	geograficzna	
+> Białymstoku	Białystok	subst:sg:loc:m3	geograficzna	
+> Białystok	Białystok	subst:sg:acc:m3	geograficzna	
+> Białystok	Białystok	subst:sg:nom:m3	geograficzna	
+> Białystoku	Białystok	subst:sg:voc:m3	geograficzna	
+201251,201266c201286,201301
+< bidula	bidula:s2	subst:sg:nom:m1	pospolita	
+< bidulach	bidula:s2	subst:pl:loc:m1	pospolita	
+< bidulami	bidula:s2	subst:pl:inst:m1	pospolita	
+< bidulą	bidula:s2	subst:sg:inst:m1	pospolita	
+< bidule	bidula:s2	depr:pl:nom:m2	pospolita	
+< bidule	bidula:s2	depr:pl:voc:m2	pospolita	
+< bidule	bidula:s2	subst:pl:nom:m1	pospolita	
+< bidule	bidula:s2	subst:pl:voc:m1	pospolita	
+< bidulę	bidula:s2	subst:sg:acc:m1	pospolita	
+< biduli	bidula:s2	subst:sg:dat:m1	pospolita	
+< biduli	bidula:s2	subst:sg:gen:m1	pospolita	
+< biduli	bidula:s2	subst:sg:loc:m1	pospolita	
+< bidulo	bidula:s2	subst:sg:voc:m1	pospolita	
+< bidulom	bidula:s2	subst:pl:dat:m1	pospolita	
+< bidulów	bidula:s2	subst:pl:acc:m1	pospolita	
+< bidulów	bidula:s2	subst:pl:gen:m1	pospolita	
+---
+> bidula	bidula:s3	subst:sg:nom:m1	pospolita	
+> bidulach	bidula:s3	subst:pl:loc:m1	pospolita	
+> bidulami	bidula:s3	subst:pl:inst:m1	pospolita	
+> bidulą	bidula:s3	subst:sg:inst:m1	pospolita	
+> bidule	bidula:s3	depr:pl:nom:m2	pospolita	
+> bidule	bidula:s3	depr:pl:voc:m2	pospolita	
+> bidule	bidula:s3	subst:pl:nom:m1	pospolita	
+> bidule	bidula:s3	subst:pl:voc:m1	pospolita	
+> bidulę	bidula:s3	subst:sg:acc:m1	pospolita	
+> biduli	bidula:s3	subst:sg:dat:m1	pospolita	
+> biduli	bidula:s3	subst:sg:gen:m1	pospolita	
+> biduli	bidula:s3	subst:sg:loc:m1	pospolita	
+> bidulo	bidula:s3	subst:sg:voc:m1	pospolita	
+> bidulom	bidula:s3	subst:pl:dat:m1	pospolita	
+> bidulów	bidula:s3	subst:pl:acc:m1	pospolita	
+> bidulów	bidula:s3	subst:pl:gen:m1	pospolita	
+215129,215130c215164,215165
+< birrze	birr	subst:sg:loc:m2	pospolita	
+< birrze	birr	subst:sg:voc:m2	pospolita	
+---
+> birze	birr	subst:sg:loc:m2	pospolita	
+> birze	birr	subst:sg:voc:m2	pospolita	
+319895a319931
+> Chaju	Chaja	subst:sg:voc:f	imię	
+364404c364440
+< Chyloni	Chylonia	subst:pl:gen:f	geograficzna	hom.|rzad.
+---
+> Chyloni	Chylonia	subst:pl:gen:f	geograficzna	hom.
+364411a364448
+> Chylonio	Chylonia	subst:sg:voc:f	geograficzna	
+364413d364449
+< Chyloniu	Chylonia	subst:sg:voc:f	geograficzna	
+402141a402178
+> Cylu	Cyla	subst:sg:voc:f	imię	
+402590a402628,402629
+> cymbale	cymbał:s2	subst:sg:loc:m3	pospolita	
+> cymbale	cymbał:s2	subst:sg:voc:m3	pospolita	
+402596,402597d402634
+< cymbałie	cymbał:s2	subst:sg:loc:m3	pospolita	
+< cymbałie	cymbał:s2	subst:sg:voc:m3	pospolita	
+437273a437311,437333
+> czyichże	czyjże	adj:pl:acc:m1.p1:pos		
+> czyichże	czyjże	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> czyichże	czyjże	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> czyimiż	czyjże	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> czyimże	czyjże	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> czyimże	czyjże	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> czyimże	czyjże	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> czyiż	czyjże	adj:pl:nom.voc:m1.p1:pos		
+> czyjaż	czyjże	adj:sg:nom.voc:f:pos		
+> czyjąż	czyjże	adj:sg:acc:f:pos		
+> czyjąż	czyjże	adj:sg:inst:f:pos		
+> czyjegoż	czyjże	adj:sg:acc:m1.m2:pos		
+> czyjegoż	czyjże	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> czyjejże	czyjże	adj:sg:dat:f:pos		
+> czyjejże	czyjże	adj:sg:gen:f:pos		
+> czyjejże	czyjże	adj:sg:loc:f:pos		
+> czyjemuż	czyjże	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> czyjeż	czyjże	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> czyjeż	czyjże	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> czyjeż	czyjże	adj:sg:acc:n1.n2:pos		
+> czyjeż	czyjże	adj:sg:nom.voc:n1.n2:pos		
+> czyjże	czyjże	adj:sg:acc:m3:pos		
+> czyjże	czyjże	adj:sg:nom.voc:m1.m2.m3:pos		
+470122,470125c470182,470195
+< Delerue’ach	Delerue	subst:pl:loc:m1	nazwisko	
+< Delerue’a	Delerue	subst:sg:acc:m1	nazwisko	
+< Delerue’a	Delerue	subst:sg:gen:m1	nazwisko	
+< Delerue’ami	Delerue	subst:pl:inst:m1	nazwisko	
+---
+> Delerue	Delerue	depr:pl:nom:m2	nazwisko	
+> Delerue	Delerue	depr:pl:voc:m2	nazwisko	
+> Delerue	Delerue	subst:pl:acc:m1	nazwisko	
+> Delerue	Delerue	subst:pl:dat:m1	nazwisko	
+> Delerue	Delerue	subst:pl:gen:m1	nazwisko	
+> Delerue	Delerue	subst:pl:inst:m1	nazwisko	
+> Delerue	Delerue	subst:pl:loc:m1	nazwisko	
+> Delerue	Delerue	subst:pl:nom:m1	nazwisko	
+> Delerue	Delerue	subst:pl:voc:m1	nazwisko	
+> Delerue	Delerue	subst:sg:acc:m1	nazwisko	
+> Delerue	Delerue	subst:sg:dat:m1	nazwisko	
+> Delerue	Delerue	subst:sg:gen:m1	nazwisko	
+> Delerue	Delerue	subst:sg:inst:m1	nazwisko	
+> Delerue	Delerue	subst:sg:loc:m1	nazwisko	
+470127,470137c470197
+< Delerue’em	Delerue	subst:sg:inst:m1	nazwisko	
+< Delerue’om	Delerue	subst:pl:dat:m1	nazwisko	
+< Delerue’owi	Delerue	subst:sg:dat:m1	nazwisko	
+< Delerue’owie	Delerue	subst:pl:nom:m1	nazwisko	
+< Delerue’owie	Delerue	subst:pl:voc:m1	nazwisko	
+< Delerue’ów	Delerue	subst:pl:acc:m1	nazwisko	
+< Delerue’ów	Delerue	subst:pl:gen:m1	nazwisko	
+< Delerue’y	Delerue	depr:pl:nom:m2	nazwisko	
+< Delerue’y	Delerue	depr:pl:voc:m2	nazwisko	
+< Delerze	Delerue	subst:sg:loc:m1	nazwisko	
+< Delerze	Delerue	subst:sg:voc:m1	nazwisko	
+---
+> Delerue	Delerue	subst:sg:voc:m1	nazwisko	
+719127a719188
+> elegijnie	elegijnie	adv:pos		
+805331a805393
+> fluorescencyjnie	fluorescencyjnie	adv:pos		
+839141,839142d839202
+< Gadu	Gad	subst:sg:loc:m1	imię|nazwisko	bibl.
+< Gadu	Gad	subst:sg:voc:m1	imię|nazwisko	bibl.
+839144a839205,839206
+> Gadzie	Gad	subst:sg:loc:m1	imię|nazwisko	bibl.
+> Gadzie	Gad	subst:sg:voc:m1	imię|nazwisko	bibl.
+841091a841154
+> Gaju	Gaja	subst:sg:voc:f	imię	mit.
+906770,906799c906833
+< gorałaby	goreć	cond:sg:f:ter:imperf		
+< gorałabym	goreć	cond:sg:f:pri:imperf		
+< gorałabyś	goreć	cond:sg:f:sec:imperf		
+< gorała	goreć	praet:sg:f:imperf		
+< gorała	goreć	praet:sg:f:ter:imperf		
+< gorałam	goreć	praet:sg:f:pri:imperf		
+< gorałaś	goreć	praet:sg:f:sec:imperf		
+< gorałby	goreć	cond:sg:m1.m2.m3:ter:imperf		
+< gorałbym	goreć	cond:sg:m1.m2.m3:pri:imperf		
+< gorałbyś	goreć	cond:sg:m1.m2.m3:sec:imperf		
+< gorałem	goreć	praet:sg:m1.m2.m3:pri:imperf		
+< gorałeś	goreć	praet:sg:m1.m2.m3:sec:imperf		
+< gorał	goreć	praet:sg:m1.m2.m3:imperf		
+< gorał	goreć	praet:sg:m1.m2.m3:ter:imperf		
+< gorałoby	goreć	cond:sg:n1.n2:ter:imperf		
+< gorałobym	goreć	cond:sg:n1.n2:pri:imperf		
+< gorałobyś	goreć	cond:sg:n1.n2:sec:imperf		
+< gorało	goreć	praet:sg:n1.n2:imperf		
+< gorało	goreć	praet:sg:n1.n2:ter:imperf		
+< gorałom	goreć	praet:sg:n1.n2:pri:imperf		
+< gorałoś	goreć	praet:sg:n1.n2:sec:imperf		
+< gorałyby	goreć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+< gorałybyście	goreć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+< gorałybyśmy	goreć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+< gorały	goreć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		
+< gorały	goreć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		
+< gorałyście	goreć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		
+< gorałyśmy	goreć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		
+< gorano	goreć	imps:imperf		
+< goreć	goreć	inf:imperf		
+---
+> goreć	goreć	inf:imperf		poet.
+906808c906842
+< gorejąc	goreć	pcon:imperf		
+---
+> gorejąc	goreć	pcon:imperf		poet.
+906817,906832c906851,906859
+< goreją	goreć	fin:pl:ter:imperf		
+< gorejcie	goreć	impt:pl:sec:imperf		
+< gorejecie	goreć	fin:pl:sec:imperf		
+< goreje	goreć	fin:sg:ter:imperf		
+< gorejemy	goreć	fin:pl:pri:imperf		
+< gorejesz	goreć	fin:sg:sec:imperf		
+< goreję	goreć	fin:sg:pri:imperf		
+< gorej	goreć	impt:sg:sec:imperf		
+< gorejmy	goreć	impt:pl:pri:imperf		
+< goreliby	goreć	cond:pl:m1.p1:ter:imperf		
+< gorelibyście	goreć	cond:pl:m1.p1:sec:imperf		
+< gorelibyśmy	goreć	cond:pl:m1.p1:pri:imperf		
+< goreli	goreć	praet:pl:m1.p1:imperf		
+< goreli	goreć	praet:pl:m1.p1:ter:imperf		
+< goreliście	goreć	praet:pl:m1.p1:sec:imperf		
+< goreliśmy	goreć	praet:pl:m1.p1:pri:imperf		
+---
+> goreją	goreć	fin:pl:ter:imperf		poet.
+> gorejcie	goreć	impt:pl:sec:imperf		poet.
+> gorejecie	goreć	fin:pl:sec:imperf		poet.
+> goreje	goreć	fin:sg:ter:imperf		poet.
+> gorejemy	goreć	fin:pl:pri:imperf		poet.
+> gorejesz	goreć	fin:sg:sec:imperf		poet.
+> goreję	goreć	fin:sg:pri:imperf		poet.
+> gorej	goreć	impt:sg:sec:imperf		poet.
+> gorejmy	goreć	impt:pl:pri:imperf		poet.
+908225a908253,908254
+> gorąc	gorzeć	pcon:imperf		podniosłe|daw.
+> gorą	gorzeć	fin:pl:ter:imperf		podniosłe|daw.
+908229a908259
+> gorę	gorzeć	fin:sg:pri:imperf		podniosłe|daw.
+908230a908261
+> gorzałaby	gorzeć	cond:sg:f:ter:imperf		podniosłe|daw.
+908231a908263
+> gorzałabym	gorzeć	cond:sg:f:pri:imperf		podniosłe|daw.
+908232a908265
+> gorzałabyś	gorzeć	cond:sg:f:sec:imperf		podniosłe|daw.
+908233a908267
+> gorzała	gorzeć	praet:sg:f:imperf		podniosłe|daw.
+908234a908269
+> gorzała	gorzeć	praet:sg:f:ter:imperf		podniosłe|daw.
+908235a908271
+> gorzałam	gorzeć	praet:sg:f:pri:imperf		podniosłe|daw.
+908236a908273
+> gorzałaś	gorzeć	praet:sg:f:sec:imperf		podniosłe|daw.
+908237a908275
+> gorzałby	gorzeć	cond:sg:m1.m2.m3:ter:imperf		podniosłe|daw.
+908238a908277
+> gorzałbym	gorzeć	cond:sg:m1.m2.m3:pri:imperf		podniosłe|daw.
+908239a908279
+> gorzałbyś	gorzeć	cond:sg:m1.m2.m3:sec:imperf		podniosłe|daw.
+908240a908281
+> gorzałem	gorzeć	praet:sg:m1.m2.m3:pri:imperf		podniosłe|daw.
+908241a908283
+> gorzałeś	gorzeć	praet:sg:m1.m2.m3:sec:imperf		podniosłe|daw.
+908242a908285
+> gorzał	gorzeć	praet:sg:m1.m2.m3:imperf		podniosłe|daw.
+908243a908287
+> gorzał	gorzeć	praet:sg:m1.m2.m3:ter:imperf		podniosłe|daw.
+908244a908289
+> gorzałoby	gorzeć	cond:sg:n1.n2:ter:imperf		podniosłe|daw.
+908245a908291
+> gorzałobym	gorzeć	cond:sg:n1.n2:pri:imperf		podniosłe|daw.
+908246a908293
+> gorzałobyś	gorzeć	cond:sg:n1.n2:sec:imperf		podniosłe|daw.
+908247a908295
+> gorzało	gorzeć	praet:sg:n1.n2:imperf		podniosłe|daw.
+908248a908297
+> gorzało	gorzeć	praet:sg:n1.n2:ter:imperf		podniosłe|daw.
+908249a908299
+> gorzałom	gorzeć	praet:sg:n1.n2:pri:imperf		podniosłe|daw.
+908250a908301
+> gorzałoś	gorzeć	praet:sg:n1.n2:sec:imperf		podniosłe|daw.
+908251a908303
+> gorzałyby	gorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		podniosłe|daw.
+908252a908305
+> gorzałybyście	gorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		podniosłe|daw.
+908253a908307
+> gorzałybyśmy	gorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		podniosłe|daw.
+908254a908309
+> gorzały	gorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:imperf		podniosłe|daw.
+908255a908311
+> gorzały	gorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:imperf		podniosłe|daw.
+908256a908313
+> gorzałyście	gorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:imperf		podniosłe|daw.
+908257a908315
+> gorzałyśmy	gorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:imperf		podniosłe|daw.
+908258a908317
+> gorzano	gorzeć	imps:imperf		podniosłe|daw.
+908266a908326
+> gorząc	gorzeć	pcon:imperf		podniosłe|daw.
+908274a908335
+> gorzą	gorzeć	fin:pl:ter:imperf		podniosłe|daw.
+908305a908367
+> gorzeliby	gorzeć	cond:pl:m1.p1:ter:imperf		podniosłe|daw.
+908306a908369
+> gorzelibyście	gorzeć	cond:pl:m1.p1:sec:imperf		podniosłe|daw.
+908307a908371
+> gorzelibyśmy	gorzeć	cond:pl:m1.p1:pri:imperf		podniosłe|daw.
+908308a908373
+> gorzeli	gorzeć	praet:pl:m1.p1:imperf		podniosłe|daw.
+908309a908375
+> gorzeli	gorzeć	praet:pl:m1.p1:ter:imperf		podniosłe|daw.
+908310a908377
+> gorzeliście	gorzeć	praet:pl:m1.p1:sec:imperf		podniosłe|daw.
+908311a908379
+> gorzeliśmy	gorzeć	praet:pl:m1.p1:pri:imperf		podniosłe|daw.
+908322a908391,908394
+> gorzę	gorzeć	fin:sg:pri:imperf		podniosłe|daw.
+> gorzyjcie	gorzeć	impt:pl:sec:imperf		podniosłe|daw.
+> gorzyj	gorzeć	impt:sg:sec:imperf		podniosłe|daw.
+> gorzyjmy	gorzeć	impt:pl:pri:imperf		podniosłe|daw.
+938645,938672c938717,938730
+< grywalnościach	grywalność:s1	subst:pl:loc:f		
+< grywalnościami	grywalność:s1	subst:pl:inst:f		
+< grywalnością	grywalność:s1	subst:sg:inst:f		
+< grywalności	grywalność:s1	subst:pl:acc:f		
+< grywalności	grywalność:s1	subst:pl:gen:f		
+< grywalności	grywalność:s1	subst:pl:nom:f		
+< grywalności	grywalność:s1	subst:pl:voc:f		
+< grywalności	grywalność:s1	subst:sg:dat:f		
+< grywalności	grywalność:s1	subst:sg:gen:f		
+< grywalności	grywalność:s1	subst:sg:loc:f		
+< grywalności	grywalność:s1	subst:sg:voc:f		
+< grywalnościom	grywalność:s1	subst:pl:dat:f		
+< grywalność	grywalność:s1	subst:sg:acc:f		
+< grywalność	grywalność:s1	subst:sg:nom:f		
+< grywalnościach	grywalność:s2	subst:pl:loc:f		
+< grywalnościami	grywalność:s2	subst:pl:inst:f		
+< grywalnością	grywalność:s2	subst:sg:inst:f		
+< grywalności	grywalność:s2	subst:pl:acc:f		
+< grywalności	grywalność:s2	subst:pl:gen:f		
+< grywalności	grywalność:s2	subst:pl:nom:f		
+< grywalności	grywalność:s2	subst:pl:voc:f		
+< grywalności	grywalność:s2	subst:sg:dat:f		
+< grywalności	grywalność:s2	subst:sg:gen:f		
+< grywalności	grywalność:s2	subst:sg:loc:f		
+< grywalności	grywalność:s2	subst:sg:voc:f		
+< grywalnościom	grywalność:s2	subst:pl:dat:f		
+< grywalność	grywalność:s2	subst:sg:acc:f		
+< grywalność	grywalność:s2	subst:sg:nom:f		
+---
+> grywalnościach	grywalność	subst:pl:loc:f		
+> grywalnościami	grywalność	subst:pl:inst:f		
+> grywalnością	grywalność	subst:sg:inst:f		
+> grywalności	grywalność	subst:pl:acc:f		
+> grywalności	grywalność	subst:pl:gen:f		
+> grywalności	grywalność	subst:pl:nom:f		
+> grywalności	grywalność	subst:pl:voc:f		
+> grywalności	grywalność	subst:sg:dat:f		
+> grywalności	grywalność	subst:sg:gen:f		
+> grywalności	grywalność	subst:sg:loc:f		
+> grywalności	grywalność	subst:sg:voc:f		
+> grywalnościom	grywalność	subst:pl:dat:f		
+> grywalność	grywalność	subst:sg:acc:f		
+> grywalność	grywalność	subst:sg:nom:f		
+950126a950185,950198
+> guzdraninach	guzdranina	subst:pl:loc:f	pospolita	
+> guzdranina	guzdranina	subst:sg:nom:f	pospolita	
+> guzdraninami	guzdranina	subst:pl:inst:f	pospolita	
+> guzdraniną	guzdranina	subst:sg:inst:f	pospolita	
+> guzdraninę	guzdranina	subst:sg:acc:f	pospolita	
+> guzdranin	guzdranina	subst:pl:gen:f	pospolita	
+> guzdraninie	guzdranina	subst:sg:dat:f	pospolita	
+> guzdraninie	guzdranina	subst:sg:loc:f	pospolita	
+> guzdranino	guzdranina	subst:sg:voc:f	pospolita	
+> guzdraninom	guzdranina	subst:pl:dat:f	pospolita	
+> guzdraniny	guzdranina	subst:pl:acc:f	pospolita	
+> guzdraniny	guzdranina	subst:pl:nom:f	pospolita	
+> guzdraniny	guzdranina	subst:pl:voc:f	pospolita	
+> guzdraniny	guzdranina	subst:sg:gen:f	pospolita	
+1077102c1077174,1077175
+< jakkolwiek	jakkolwiek	comp		
+---
+> jakkolwiek	jakkolwiek:c	comp		
+> jakkolwiek	jakkolwiek:d	adv:pos		
+1128252a1128326
+> Kaju	Kaja	subst:sg:voc:f	imię	
+1380776a1380851
+> Kseni	Ksenia	subst:pl:gen:f	imię	hom.
+1380780a1380856
+> Ksenio	Ksenia	subst:sg:voc:f	imię	
+1566244a1566321
+> Marioli	Mariola	subst:pl:gen:f	imię	hom.
+1566248c1566325,1566326
+< Mariol	Mariola	subst:pl:gen:f	imię	
+---
+> Mariol	Mariola	subst:pl:gen:f	imię	char.
+> Mariolo	Mariola	subst:sg:voc:f	imię	
+1573591a1573670
+> Maryli	Maryla	subst:pl:gen:f	imię	hom.
+1573595c1573674,1573675
+< Maryl	Maryla	subst:pl:gen:f	imię	
+---
+> Maryl	Maryla	subst:pl:gen:f	imię	char.
+> Marylo	Maryla	subst:sg:voc:f	imię	
+1588026,1588039c1588106,1588135
+< mądralach	mądrala	subst:pl:loc:f	pospolita	pot.
+< mądrala	mądrala	subst:sg:nom:f	pospolita	pot.
+< mądralami	mądrala	subst:pl:inst:f	pospolita	pot.
+< mądralą	mądrala	subst:sg:inst:f	pospolita	pot.
+< mądrale	mądrala	subst:pl:acc:f	pospolita	pot.
+< mądrale	mądrala	subst:pl:nom:f	pospolita	pot.
+< mądrale	mądrala	subst:pl:voc:f	pospolita	pot.
+< mądralę	mądrala	subst:sg:acc:f	pospolita	pot.
+< mądrali	mądrala	subst:pl:gen:f	pospolita	pot.
+< mądrali	mądrala	subst:sg:dat:f	pospolita	pot.
+< mądrali	mądrala	subst:sg:gen:f	pospolita	pot.
+< mądrali	mądrala	subst:sg:loc:f	pospolita	pot.
+< mądralo	mądrala	subst:sg:voc:f	pospolita	pot.
+< mądralom	mądrala	subst:pl:dat:f	pospolita	pot.
+---
+> mądralach	mądrala:s1	subst:pl:loc:m1	pospolita	
+> mądrala	mądrala:s1	subst:sg:nom:m1	pospolita	
+> mądralami	mądrala:s1	subst:pl:inst:m1	pospolita	
+> mądralą	mądrala:s1	subst:sg:inst:m1	pospolita	
+> mądrale	mądrala:s1	depr:pl:nom:m2	pospolita	
+> mądrale	mądrala:s1	depr:pl:voc:m2	pospolita	
+> mądrale	mądrala:s1	subst:pl:nom:m1	pospolita	
+> mądrale	mądrala:s1	subst:pl:voc:m1	pospolita	
+> mądralę	mądrala:s1	subst:sg:acc:m1	pospolita	
+> mądrali	mądrala:s1	subst:sg:dat:m1	pospolita	
+> mądrali	mądrala:s1	subst:sg:gen:m1	pospolita	
+> mądrali	mądrala:s1	subst:sg:loc:m1	pospolita	
+> mądralo	mądrala:s1	subst:sg:voc:m1	pospolita	
+> mądralom	mądrala:s1	subst:pl:dat:m1	pospolita	
+> mądralów	mądrala:s1	subst:pl:acc:m1	pospolita	
+> mądralów	mądrala:s1	subst:pl:gen:m1	pospolita	
+> mądralach	mądrala:s2	subst:pl:loc:f	pospolita	pot.
+> mądrala	mądrala:s2	subst:sg:nom:f	pospolita	pot.
+> mądralami	mądrala:s2	subst:pl:inst:f	pospolita	pot.
+> mądralą	mądrala:s2	subst:sg:inst:f	pospolita	pot.
+> mądrale	mądrala:s2	subst:pl:acc:f	pospolita	pot.
+> mądrale	mądrala:s2	subst:pl:nom:f	pospolita	pot.
+> mądrale	mądrala:s2	subst:pl:voc:f	pospolita	pot.
+> mądralę	mądrala:s2	subst:sg:acc:f	pospolita	pot.
+> mądrali	mądrala:s2	subst:pl:gen:f	pospolita	pot.
+> mądrali	mądrala:s2	subst:sg:dat:f	pospolita	pot.
+> mądrali	mądrala:s2	subst:sg:gen:f	pospolita	pot.
+> mądrali	mądrala:s2	subst:sg:loc:f	pospolita	pot.
+> mądralo	mądrala:s2	subst:sg:voc:f	pospolita	pot.
+> mądralom	mądrala:s2	subst:pl:dat:f	pospolita	pot.
+1593970d1594065
+< Mefiscie	Mefisto	subst:sg:loc:m1	imię	
+1593972,1593973d1594066
+< Mefista	Mefisto	depr:pl:nom:m2	imię	
+< Mefista	Mefisto	depr:pl:voc:m2	imię	
+1593985a1594079,1594081
+> Mefisty	Mefisto	depr:pl:nom:m2	imię	
+> Mefisty	Mefisto	depr:pl:voc:m2	imię	
+> Mefiście	Mefisto	subst:sg:loc:m1	imię	
+1715698a1715795,1715810
+> myśliweczek	myśliweczek	subst:sg:nom:m1	pospolita	
+> myśliweczkach	myśliweczek	subst:pl:loc:m1	pospolita	
+> myśliweczkami	myśliweczek	subst:pl:inst:m1	pospolita	
+> myśliweczka	myśliweczek	subst:sg:acc:m1	pospolita	
+> myśliweczka	myśliweczek	subst:sg:gen:m1	pospolita	
+> myśliweczkiem	myśliweczek	subst:sg:inst:m1	pospolita	
+> myśliweczki	myśliweczek	depr:pl:nom:m2	pospolita	
+> myśliweczki	myśliweczek	depr:pl:voc:m2	pospolita	
+> myśliweczkom	myśliweczek	subst:pl:dat:m1	pospolita	
+> myśliweczkowie	myśliweczek	subst:pl:nom:m1	pospolita	
+> myśliweczkowie	myśliweczek	subst:pl:voc:m1	pospolita	
+> myśliweczkowi	myśliweczek	subst:sg:dat:m1	pospolita	
+> myśliweczków	myśliweczek	subst:pl:acc:m1	pospolita	
+> myśliweczków	myśliweczek	subst:pl:gen:m1	pospolita	
+> myśliweczku	myśliweczek	subst:sg:loc:m1	pospolita	
+> myśliweczku	myśliweczek	subst:sg:voc:m1	pospolita	
+1994633a1994746
+> niebios	niebiosa	subst:pl:gen:p3	pospolita	rzad.
+1994636d1994748
+< niebiosów	niebiosa	subst:pl:gen:p3	pospolita	rzad.
+1994640d1994751
+< niebiesiech	niebiosy	subst:pl:loc:p3	pospolita	rzad.
+1994643,1994646d1994753
+< niebiosa	niebiosy	subst:pl:acc:p3	pospolita	rzad.
+< niebiosa	niebiosy	subst:pl:nom:p3	pospolita	rzad.
+< niebiosa	niebiosy	subst:pl:voc:p3	pospolita	rzad.
+< niebios	niebiosy	subst:pl:gen:p3	pospolita	rzad.
+2206295,2206322c2206402,2206415
+< niegrywalnościach	niegrywalność:s1	subst:pl:loc:f		
+< niegrywalnościami	niegrywalność:s1	subst:pl:inst:f		
+< niegrywalnością	niegrywalność:s1	subst:sg:inst:f		
+< niegrywalności	niegrywalność:s1	subst:pl:acc:f		
+< niegrywalności	niegrywalność:s1	subst:pl:gen:f		
+< niegrywalności	niegrywalność:s1	subst:pl:nom:f		
+< niegrywalności	niegrywalność:s1	subst:pl:voc:f		
+< niegrywalności	niegrywalność:s1	subst:sg:dat:f		
+< niegrywalności	niegrywalność:s1	subst:sg:gen:f		
+< niegrywalności	niegrywalność:s1	subst:sg:loc:f		
+< niegrywalności	niegrywalność:s1	subst:sg:voc:f		
+< niegrywalnościom	niegrywalność:s1	subst:pl:dat:f		
+< niegrywalność	niegrywalność:s1	subst:sg:acc:f		
+< niegrywalność	niegrywalność:s1	subst:sg:nom:f		
+< niegrywalnościach	niegrywalność:s2	subst:pl:loc:f		
+< niegrywalnościami	niegrywalność:s2	subst:pl:inst:f		
+< niegrywalnością	niegrywalność:s2	subst:sg:inst:f		
+< niegrywalności	niegrywalność:s2	subst:pl:acc:f		
+< niegrywalności	niegrywalność:s2	subst:pl:gen:f		
+< niegrywalności	niegrywalność:s2	subst:pl:nom:f		
+< niegrywalności	niegrywalność:s2	subst:pl:voc:f		
+< niegrywalności	niegrywalność:s2	subst:sg:dat:f		
+< niegrywalności	niegrywalność:s2	subst:sg:gen:f		
+< niegrywalności	niegrywalność:s2	subst:sg:loc:f		
+< niegrywalności	niegrywalność:s2	subst:sg:voc:f		
+< niegrywalnościom	niegrywalność:s2	subst:pl:dat:f		
+< niegrywalność	niegrywalność:s2	subst:sg:acc:f		
+< niegrywalność	niegrywalność:s2	subst:sg:nom:f		
+---
+> niegrywalnościach	niegrywalność	subst:pl:loc:f		
+> niegrywalnościami	niegrywalność	subst:pl:inst:f		
+> niegrywalnością	niegrywalność	subst:sg:inst:f		
+> niegrywalności	niegrywalność	subst:pl:acc:f		
+> niegrywalności	niegrywalność	subst:pl:gen:f		
+> niegrywalności	niegrywalność	subst:pl:nom:f		
+> niegrywalności	niegrywalność	subst:pl:voc:f		
+> niegrywalności	niegrywalność	subst:sg:dat:f		
+> niegrywalności	niegrywalność	subst:sg:gen:f		
+> niegrywalności	niegrywalność	subst:sg:loc:f		
+> niegrywalności	niegrywalność	subst:sg:voc:f		
+> niegrywalnościom	niegrywalność	subst:pl:dat:f		
+> niegrywalność	niegrywalność	subst:sg:acc:f		
+> niegrywalność	niegrywalność	subst:sg:nom:f		
+2251664a2251758
+> niejakkolwiek	niejakkolwiek	adv:pos		
+3507546,3507549c3507640,3507643
+< ich	on:o	ppron3:pl:acc:m1.p1:ter:_:npraep		
+< ich	on:o	ppron3:pl:gen:_:ter:_:npraep		
+< im	on:o	ppron3:pl:dat:_:ter:_:npraep		
+< ją	on:o	ppron3:sg:acc:f:ter:_:npraep		
+---
+> ich	on:o	ppron3:pl:acc:m1.p1:ter:akc.nakc:npraep		
+> ich	on:o	ppron3:pl:gen:_:ter:akc.nakc:npraep		
+> im	on:o	ppron3:pl:dat:_:ter:akc.nakc:npraep		
+> ją	on:o	ppron3:sg:acc:f:ter:akc.nakc:npraep		
+3507553,3507554c3507647,3507648
+< jej	on:o	ppron3:sg:dat:f:ter:_:npraep		
+< jej	on:o	ppron3:sg:gen:f:ter:_:npraep		
+---
+> jej	on:o	ppron3:sg:dat:f:ter:akc.nakc:npraep		
+> jej	on:o	ppron3:sg:gen:f:ter:akc.nakc:npraep		
+3507557,3507558c3507651,3507652
+< je	on:o	ppron3:pl:acc:m2.m3.f.n1.n2.p2.p3:ter:_:npraep		
+< je	on:o	ppron3:sg:acc:n1.n2:ter:_:npraep		
+---
+> je	on:o	ppron3:pl:acc:m2.m3.f.n1.n2.p2.p3:ter:akc.nakc:npraep		
+> je	on:o	ppron3:sg:acc:n1.n2:ter:akc.nakc:npraep		
+3507561,3507565c3507655,3507659
+< nią	on:o	ppron3:sg:acc:f:ter:_:praep		
+< nią	on:o	ppron3:sg:inst:f:ter:_:_		
+< nich	on:o	ppron3:pl:acc:m1.p1:ter:_:praep		
+< nich	on:o	ppron3:pl:gen:_:ter:_:praep		
+< nich	on:o	ppron3:pl:loc:_:ter:_:_		
+---
+> nią	on:o	ppron3:sg:acc:f:ter:akc.nakc:praep		
+> nią	on:o	ppron3:sg:inst:f:ter:akc.nakc:praep.npraep		
+> nich	on:o	ppron3:pl:acc:m1.p1:ter:akc.nakc:praep		
+> nich	on:o	ppron3:pl:gen:_:ter:akc.nakc:praep		
+> nich	on:o	ppron3:pl:loc:_:ter:akc.nakc:praep.npraep		
+3507568,3507581c3507662,3507675
+< niego	on:o	ppron3:sg:gen:n1.n2:ter:_:praep		
+< niej	on:o	ppron3:sg:dat:f:ter:_:praep		
+< niej	on:o	ppron3:sg:gen:f:ter:_:praep		
+< niej	on:o	ppron3:sg:loc:f:ter:_:_		
+< niemu	on:o	ppron3:sg:dat:m1.m2.m3:ter:_:praep		
+< niemu	on:o	ppron3:sg:dat:n1.n2:ter:_:praep		
+< nie	on:o	ppron3:pl:acc:m2.m3.f.n1.n2.p2.p3:ter:_:praep		
+< nie	on:o	ppron3:sg:acc:n1.n2:ter:_:praep		
+< nimi	on:o	ppron3:pl:inst:_:ter:_:_		
+< nim	on:o	ppron3:pl:dat:_:ter:_:praep		
+< nim	on:o	ppron3:sg:inst:m1.m2.m3:ter:_:_		
+< nim	on:o	ppron3:sg:inst:n1.n2:ter:_:_		
+< nim	on:o	ppron3:sg:loc:m1.m2.m3:ter:_:_		
+< nim	on:o	ppron3:sg:loc:n1.n2:ter:_:_		
+---
+> niego	on:o	ppron3:sg:gen:n1.n2:ter:akc.nakc:praep		
+> niej	on:o	ppron3:sg:dat:f:ter:akc.nakc:praep		
+> niej	on:o	ppron3:sg:gen:f:ter:akc.nakc:praep		
+> niej	on:o	ppron3:sg:loc:f:ter:akc.nakc:praep.npraep		
+> niemu	on:o	ppron3:sg:dat:m1.m2.m3:ter:akc.nakc:praep		
+> niemu	on:o	ppron3:sg:dat:n1.n2:ter:akc.nakc:praep		
+> nie	on:o	ppron3:pl:acc:m2.m3.f.n1.n2.p2.p3:ter:akc.nakc:praep		
+> nie	on:o	ppron3:sg:acc:n1.n2:ter:akc.nakc:praep		
+> nimi	on:o	ppron3:pl:inst:_:ter:akc.nakc:praep.npraep		
+> nim	on:o	ppron3:pl:dat:_:ter:akc.nakc:praep		
+> nim	on:o	ppron3:sg:inst:m1.m2.m3:ter:akc.nakc:praep.npraep		
+> nim	on:o	ppron3:sg:inst:n1.n2:ter:akc.nakc:praep.npraep		
+> nim	on:o	ppron3:sg:loc:m1.m2.m3:ter:akc.nakc:praep.npraep		
+> nim	on:o	ppron3:sg:loc:n1.n2:ter:akc.nakc:praep.npraep		
+3507584,3507588c3507678,3507682
+< ona	on:o	ppron3:sg:nom:f:ter:_:_		
+< one	on:o	ppron3:pl:nom:m2.m3.f.n1.n2.p2.p3:ter:_:_		
+< oni	on:o	ppron3:pl:nom:m1.p1:ter:_:_		
+< on	on:o	ppron3:sg:nom:m1.m2.m3:ter:_:_		
+< ono	on:o	ppron3:sg:nom:n1.n2:ter:_:_		
+---
+> ona	on:o	ppron3:sg:nom:f:ter:akc.nakc:praep.npraep		
+> one	on:o	ppron3:pl:nom:m2.m3.f.n1.n2.p2.p3:ter:akc.nakc:praep.npraep		
+> oni	on:o	ppron3:pl:nom:m1.p1:ter:akc.nakc:praep.npraep		
+> on	on:o	ppron3:sg:nom:m1.m2.m3:ter:akc.nakc:praep.npraep		
+> ono	on:o	ppron3:sg:nom:n1.n2:ter:akc.nakc:praep.npraep		
+3667442a3667537
+> parra	parr	subst:sg:gen:m3	pospolita	
+3667449d3667543
+< parru	parr	subst:sg:gen:m3	pospolita	
+3667453,3667454c3667547,3667548
+< parrze	parr	subst:sg:loc:m3	pospolita	
+< parrze	parr	subst:sg:voc:m3	pospolita	
+---
+> parze	parr	subst:sg:loc:m3	pospolita	
+> parze	parr	subst:sg:voc:m3	pospolita	
+3708124,3708141c3708218,3708235
+< Petöfich	Petöfi	subst:pl:acc:m1	nazwisko	
+< Petöfich	Petöfi	subst:pl:gen:m1	nazwisko	
+< Petöfich	Petöfi	subst:pl:loc:m1	nazwisko	
+< Petöfiego	Petöfi	subst:sg:acc:m1	nazwisko	
+< Petöfiego	Petöfi	subst:sg:gen:m1	nazwisko	
+< Petöfiemu	Petöfi	subst:sg:dat:m1	nazwisko	
+< Petöfie	Petöfi	depr:pl:nom:m2	nazwisko	
+< Petöfie	Petöfi	depr:pl:voc:m2	nazwisko	
+< Petöfimi	Petöfi	subst:pl:inst:m1	nazwisko	
+< Petöfim	Petöfi	subst:pl:dat:m1	nazwisko	
+< Petöfim	Petöfi	subst:sg:inst:m1	nazwisko	
+< Petöfim	Petöfi	subst:sg:loc:m1	nazwisko	
+< Petöfiowie	Petöfi	subst:pl:nom:m1	nazwisko	
+< Petöfiowie	Petöfi	subst:pl:voc:m1	nazwisko	
+< Petöfi	Petöfi	subst:pl:nom:m1	nazwisko	
+< Petöfi	Petöfi	subst:pl:voc:m1	nazwisko	
+< Petöfi	Petöfi	subst:sg:nom:m1	nazwisko	
+< Petöfi	Petöfi	subst:sg:voc:m1	nazwisko	
+---
+> Petőfich	Petőfi	subst:pl:acc:m1	nazwisko	
+> Petőfich	Petőfi	subst:pl:gen:m1	nazwisko	
+> Petőfich	Petőfi	subst:pl:loc:m1	nazwisko	
+> Petőfiego	Petőfi	subst:sg:acc:m1	nazwisko	
+> Petőfiego	Petőfi	subst:sg:gen:m1	nazwisko	
+> Petőfiemu	Petőfi	subst:sg:dat:m1	nazwisko	
+> Petőfie	Petőfi	depr:pl:nom:m2	nazwisko	
+> Petőfie	Petőfi	depr:pl:voc:m2	nazwisko	
+> Petőfimi	Petőfi	subst:pl:inst:m1	nazwisko	
+> Petőfim	Petőfi	subst:pl:dat:m1	nazwisko	
+> Petőfim	Petőfi	subst:sg:inst:m1	nazwisko	
+> Petőfim	Petőfi	subst:sg:loc:m1	nazwisko	
+> Petőfiowie	Petőfi	subst:pl:nom:m1	nazwisko	
+> Petőfiowie	Petőfi	subst:pl:voc:m1	nazwisko	
+> Petőfi	Petőfi	subst:pl:nom:m1	nazwisko	
+> Petőfi	Petőfi	subst:pl:voc:m1	nazwisko	
+> Petőfi	Petőfi	subst:sg:nom:m1	nazwisko	
+> Petőfi	Petőfi	subst:sg:voc:m1	nazwisko	
+4762191,4762220d4762284
+< rozgorałabym	rozgoreć	cond:sg:f:pri:perf		daw.
+< rozgorałaby	rozgoreć	cond:sg:f:ter:perf		daw.
+< rozgorałabyś	rozgoreć	cond:sg:f:sec:perf		daw.
+< rozgorałam	rozgoreć	praet:sg:f:pri:perf		daw.
+< rozgorała	rozgoreć	praet:sg:f:perf		daw.
+< rozgorała	rozgoreć	praet:sg:f:ter:perf		daw.
+< rozgorałaś	rozgoreć	praet:sg:f:sec:perf		daw.
+< rozgorałbym	rozgoreć	cond:sg:m1.m2.m3:pri:perf		daw.
+< rozgorałby	rozgoreć	cond:sg:m1.m2.m3:ter:perf		daw.
+< rozgorałbyś	rozgoreć	cond:sg:m1.m2.m3:sec:perf		daw.
+< rozgorałem	rozgoreć	praet:sg:m1.m2.m3:pri:perf		daw.
+< rozgorałeś	rozgoreć	praet:sg:m1.m2.m3:sec:perf		daw.
+< rozgorałobym	rozgoreć	cond:sg:n1.n2:pri:perf		daw.
+< rozgorałoby	rozgoreć	cond:sg:n1.n2:ter:perf		daw.
+< rozgorałobyś	rozgoreć	cond:sg:n1.n2:sec:perf		daw.
+< rozgorałom	rozgoreć	praet:sg:n1.n2:pri:perf		daw.
+< rozgorało	rozgoreć	praet:sg:n1.n2:perf		daw.
+< rozgorało	rozgoreć	praet:sg:n1.n2:ter:perf		daw.
+< rozgorałoś	rozgoreć	praet:sg:n1.n2:sec:perf		daw.
+< rozgorał	rozgoreć	praet:sg:m1.m2.m3:perf		daw.
+< rozgorał	rozgoreć	praet:sg:m1.m2.m3:ter:perf		daw.
+< rozgorałyby	rozgoreć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+< rozgorałybyście	rozgoreć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< rozgorałybyśmy	rozgoreć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< rozgorały	rozgoreć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+< rozgorały	rozgoreć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+< rozgorałyście	rozgoreć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< rozgorałyśmy	rozgoreć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< rozgorano	rozgoreć	imps:perf		daw.
+< rozgorawszy	rozgoreć	pant:perf		daw.
+4762231,4762237d4762294
+< rozgoreliby	rozgoreć	cond:pl:m1.p1:ter:perf		daw.
+< rozgorelibyście	rozgoreć	cond:pl:m1.p1:sec:perf		daw.
+< rozgorelibyśmy	rozgoreć	cond:pl:m1.p1:pri:perf		daw.
+< rozgoreli	rozgoreć	praet:pl:m1.p1:perf		daw.
+< rozgoreli	rozgoreć	praet:pl:m1.p1:ter:perf		daw.
+< rozgoreliście	rozgoreć	praet:pl:m1.p1:sec:perf		daw.
+< rozgoreliśmy	rozgoreć	praet:pl:m1.p1:pri:perf		daw.
+4762616a4762674
+> rozgorą	rozgorzeć	fin:pl:ter:perf		podniosłe|przest.
+4762620a4762679,4762680
+> rozgorę	rozgorzeć	fin:sg:pri:perf		podniosłe|przest.
+> rozgorzałabym	rozgorzeć	cond:sg:f:pri:perf		podniosłe|przest.
+4762621a4762682
+> rozgorzałaby	rozgorzeć	cond:sg:f:ter:perf		podniosłe|przest.
+4762622a4762684
+> rozgorzałabyś	rozgorzeć	cond:sg:f:sec:perf		podniosłe|przest.
+4762623a4762686
+> rozgorzałam	rozgorzeć	praet:sg:f:pri:perf		podniosłe|przest.
+4762624a4762688
+> rozgorzała	rozgorzeć	praet:sg:f:perf		podniosłe|przest.
+4762625a4762690
+> rozgorzała	rozgorzeć	praet:sg:f:ter:perf		podniosłe|przest.
+4762626a4762692
+> rozgorzałaś	rozgorzeć	praet:sg:f:sec:perf		podniosłe|przest.
+4762627a4762694
+> rozgorzałbym	rozgorzeć	cond:sg:m1.m2.m3:pri:perf		podniosłe|przest.
+4762628a4762696
+> rozgorzałby	rozgorzeć	cond:sg:m1.m2.m3:ter:perf		podniosłe|przest.
+4762629a4762698
+> rozgorzałbyś	rozgorzeć	cond:sg:m1.m2.m3:sec:perf		podniosłe|przest.
+4762630a4762700
+> rozgorzałem	rozgorzeć	praet:sg:m1.m2.m3:pri:perf		podniosłe|przest.
+4762631a4762702
+> rozgorzałeś	rozgorzeć	praet:sg:m1.m2.m3:sec:perf		podniosłe|przest.
+4762632a4762704
+> rozgorzałobym	rozgorzeć	cond:sg:n1.n2:pri:perf		podniosłe|przest.
+4762633a4762706
+> rozgorzałoby	rozgorzeć	cond:sg:n1.n2:ter:perf		podniosłe|przest.
+4762634a4762708
+> rozgorzałobyś	rozgorzeć	cond:sg:n1.n2:sec:perf		podniosłe|przest.
+4762635a4762710
+> rozgorzałom	rozgorzeć	praet:sg:n1.n2:pri:perf		podniosłe|przest.
+4762636a4762712
+> rozgorzało	rozgorzeć	praet:sg:n1.n2:perf		podniosłe|przest.
+4762637a4762714
+> rozgorzało	rozgorzeć	praet:sg:n1.n2:ter:perf		podniosłe|przest.
+4762638a4762716
+> rozgorzałoś	rozgorzeć	praet:sg:n1.n2:sec:perf		podniosłe|przest.
+4762639a4762718
+> rozgorzał	rozgorzeć	praet:sg:m1.m2.m3:perf		podniosłe|przest.
+4762640a4762720
+> rozgorzał	rozgorzeć	praet:sg:m1.m2.m3:ter:perf		podniosłe|przest.
+4762641a4762722
+> rozgorzałyby	rozgorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		podniosłe|przest.
+4762642a4762724
+> rozgorzałybyście	rozgorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		podniosłe|przest.
+4762643a4762726
+> rozgorzałybyśmy	rozgorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		podniosłe|przest.
+4762644a4762728
+> rozgorzały	rozgorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		podniosłe|przest.
+4762645a4762730
+> rozgorzały	rozgorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		podniosłe|przest.
+4762646a4762732
+> rozgorzałyście	rozgorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		podniosłe|przest.
+4762647a4762734
+> rozgorzałyśmy	rozgorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		podniosłe|przest.
+4762648a4762736
+> rozgorzano	rozgorzeć	imps:perf		podniosłe|przest.
+4762649a4762738
+> rozgorzawszy	rozgorzeć	pant:perf		podniosłe|przest.
+4762650a4762740
+> rozgorzą	rozgorzeć	fin:pl:ter:perf		podniosłe|przest.
+4762662a4762753
+> rozgorzeliby	rozgorzeć	cond:pl:m1.p1:ter:perf		podniosłe|przest.
+4762663a4762755
+> rozgorzelibyście	rozgorzeć	cond:pl:m1.p1:sec:perf		podniosłe|przest.
+4762664a4762757
+> rozgorzelibyśmy	rozgorzeć	cond:pl:m1.p1:pri:perf		podniosłe|przest.
+4762665a4762759
+> rozgorzeli	rozgorzeć	praet:pl:m1.p1:perf		podniosłe|przest.
+4762666a4762761
+> rozgorzeli	rozgorzeć	praet:pl:m1.p1:ter:perf		podniosłe|przest.
+4762667a4762763
+> rozgorzeliście	rozgorzeć	praet:pl:m1.p1:sec:perf		podniosłe|przest.
+4762668a4762765
+> rozgorzeliśmy	rozgorzeć	praet:pl:m1.p1:pri:perf		podniosłe|przest.
+4762681a4762779,4762782
+> rozgorzę	rozgorzeć	fin:sg:pri:perf		podniosłe|przest.
+> rozgorzyjcie	rozgorzeć	impt:pl:sec:perf		podniosłe|przest.
+> rozgorzyjmy	rozgorzeć	impt:pl:pri:perf		podniosłe|przest.
+> rozgorzyj	rozgorzeć	impt:sg:sec:perf		podniosłe|przest.
+5017445,5017452c5017546,5017557
+< shire’ach	shire	subst:pl:loc:m2	pospolita	
+< shire’ami	shire	subst:pl:inst:m2	pospolita	
+< shire’a	shire	subst:sg:acc:m2	pospolita	
+< shire’a	shire	subst:sg:gen:m2	pospolita	
+< shire’em	shire	subst:sg:inst:m2	pospolita	
+< shire’om	shire	subst:pl:dat:m2	pospolita	
+< shire’owi	shire	subst:sg:dat:m2	pospolita	
+< shire’ów	shire	subst:pl:gen:m2	pospolita	
+---
+> shire	shire	subst:pl:acc:m2	pospolita	
+> shire	shire	subst:pl:dat:m2	pospolita	
+> shire	shire	subst:pl:gen:m2	pospolita	
+> shire	shire	subst:pl:inst:m2	pospolita	
+> shire	shire	subst:pl:loc:m2	pospolita	
+> shire	shire	subst:pl:nom:m2	pospolita	
+> shire	shire	subst:pl:voc:m2	pospolita	
+> shire	shire	subst:sg:acc:m2	pospolita	
+> shire	shire	subst:sg:dat:m2	pospolita	
+> shire	shire	subst:sg:gen:m2	pospolita	
+> shire	shire	subst:sg:inst:m2	pospolita	
+> shire	shire	subst:sg:loc:m2	pospolita	
+5017454,5017458c5017559
+< shire’y	shire	subst:pl:acc:m2	pospolita	
+< shire’y	shire	subst:pl:nom:m2	pospolita	
+< shire’y	shire	subst:pl:voc:m2	pospolita	
+< shize	shire	subst:sg:loc:m2	pospolita	
+< shize	shire	subst:sg:voc:m2	pospolita	
+---
+> shire	shire	subst:sg:voc:m2	pospolita	
+5023313a5023415,5023416
+> Siedlec	Siedlce	subst:pl:gen:p2	geograficzna	rzad.
+> Siedlec	Siedlce	subst:pl:gen:p3	geograficzna	
+5187836a5187940,5187953
+> spóźnialstwach	spóźnialstwo	subst:pl:loc:n2	pospolita	
+> spóźnialstwami	spóźnialstwo	subst:pl:inst:n2	pospolita	
+> spóźnialstwa	spóźnialstwo	subst:pl:acc:n2	pospolita	
+> spóźnialstwa	spóźnialstwo	subst:pl:nom:n2	pospolita	
+> spóźnialstwa	spóźnialstwo	subst:pl:voc:n2	pospolita	
+> spóźnialstwa	spóźnialstwo	subst:sg:gen:n2	pospolita	
+> spóźnialstwem	spóźnialstwo	subst:sg:inst:n2	pospolita	
+> spóźnialstwie	spóźnialstwo	subst:sg:loc:n2	pospolita	
+> spóźnialstwom	spóźnialstwo	subst:pl:dat:n2	pospolita	
+> spóźnialstwo	spóźnialstwo	subst:sg:acc:n2	pospolita	
+> spóźnialstwo	spóźnialstwo	subst:sg:nom:n2	pospolita	
+> spóźnialstwo	spóźnialstwo	subst:sg:voc:n2	pospolita	
+> spóźnialstw	spóźnialstwo	subst:pl:gen:n2	pospolita	
+> spóźnialstwu	spóźnialstwo	subst:sg:dat:n2	pospolita	
+5259545a5259663,5259664
+> Strzelec	Strzelce	subst:pl:gen:p2	geograficzna	rzad.
+> Strzelec	Strzelce	subst:pl:gen:p3	geograficzna	
+5512687a5512807,5512820
+> trupowiskach	trupowisko	subst:pl:loc:n2	pospolita	
+> trupowiskami	trupowisko	subst:pl:inst:n2	pospolita	
+> trupowiska	trupowisko	subst:pl:acc:n2	pospolita	
+> trupowiska	trupowisko	subst:pl:nom:n2	pospolita	
+> trupowiska	trupowisko	subst:pl:voc:n2	pospolita	
+> trupowiska	trupowisko	subst:sg:gen:n2	pospolita	
+> trupowiskiem	trupowisko	subst:sg:inst:n2	pospolita	
+> trupowiskom	trupowisko	subst:pl:dat:n2	pospolita	
+> trupowisko	trupowisko	subst:sg:acc:n2	pospolita	
+> trupowisko	trupowisko	subst:sg:nom:n2	pospolita	
+> trupowisko	trupowisko	subst:sg:voc:n2	pospolita	
+> trupowisk	trupowisko	subst:pl:gen:n2	pospolita	
+> trupowisku	trupowisko	subst:sg:dat:n2	pospolita	
+> trupowisku	trupowisko	subst:sg:loc:n2	pospolita	
+5536583,5536596d5536715
+< Turkmence	Turkmenka	subst:sg:dat:f	pospolita	
+< Turkmence	Turkmenka	subst:sg:loc:f	pospolita	
+< Turkmenek	Turkmenka	subst:pl:gen:f	pospolita	
+< Turkmenkach	Turkmenka	subst:pl:loc:f	pospolita	
+< Turkmenkami	Turkmenka	subst:pl:inst:f	pospolita	
+< Turkmenka	Turkmenka	subst:sg:nom:f	pospolita	
+< Turkmenką	Turkmenka	subst:sg:inst:f	pospolita	
+< Turkmenkę	Turkmenka	subst:sg:acc:f	pospolita	
+< Turkmenki	Turkmenka	subst:pl:acc:f	pospolita	
+< Turkmenki	Turkmenka	subst:pl:nom:f	pospolita	
+< Turkmenki	Turkmenka	subst:pl:voc:f	pospolita	
+< Turkmenki	Turkmenka	subst:sg:gen:f	pospolita	
+< Turkmenkom	Turkmenka	subst:pl:dat:f	pospolita	
+< Turkmenko	Turkmenka	subst:sg:voc:f	pospolita	
+5704739a5704859
+> Urszulu	Urszula	subst:sg:voc:f	imię	
+5829662,5829671c5829782,5829795
+< wendetcie	wendetta	subst:sg:dat:m3	pospolita	
+< wendetcie	wendetta	subst:sg:loc:m3	pospolita	
+< wendettach	wendetta	subst:pl:loc:m3	pospolita	
+< wendettami	wendetta	subst:pl:inst:m3	pospolita	
+< wendetta	wendetta	subst:sg:nom:m3	pospolita	
+< wendettą	wendetta	subst:sg:inst:m3	pospolita	
+< wendettę	wendetta	subst:sg:acc:m3	pospolita	
+< wendettom	wendetta	subst:pl:dat:m3	pospolita	
+< wendetto	wendetta	subst:sg:voc:m3	pospolita	
+< wendetty	wendetta	subst:sg:gen:m3	pospolita	
+---
+> wendetcie	wendetta	subst:sg:dat:f	pospolita	
+> wendetcie	wendetta	subst:sg:loc:f	pospolita	
+> wendettach	wendetta	subst:pl:loc:f	pospolita	
+> wendettami	wendetta	subst:pl:inst:f	pospolita	
+> wendetta	wendetta	subst:sg:nom:f	pospolita	
+> wendettą	wendetta	subst:sg:inst:f	pospolita	
+> wendettę	wendetta	subst:sg:acc:f	pospolita	
+> wendettom	wendetta	subst:pl:dat:f	pospolita	
+> wendetto	wendetta	subst:sg:voc:f	pospolita	
+> wendett	wendetta	subst:pl:gen:f	pospolita	
+> wendetty	wendetta	subst:pl:acc:f	pospolita	
+> wendetty	wendetta	subst:pl:nom:f	pospolita	
+> wendetty	wendetta	subst:pl:voc:f	pospolita	
+> wendetty	wendetta	subst:sg:gen:f	pospolita	
+5842911a5843036,5843037
+> Węgier	Węgry	subst:pl:gen:p2	geograficzna	rzad.
+> Węgier	Węgry	subst:pl:gen:p3	geograficzna	
+5842935a5843062,5843063
+> Węgrzec	Węgrzce	subst:pl:gen:p2	geograficzna	rzad.
+> Węgrzec	Węgrzce	subst:pl:gen:p3	geograficzna	
+5907938,5907939d5908065
+< Władu	Wład	subst:sg:loc:m1	imię	
+< Władu	Wład	subst:sg:voc:m1	imię	
+5907942a5908069,5908070
+> Władzie	Wład	subst:sg:loc:m1	imię	
+> Władzie	Wład	subst:sg:voc:m1	imię	
+5910796a5910925,5910926
+> Włoch	Włochy:s1	subst:pl:gen:p2	geograficzna	rzad.
+> Włoch	Włochy:s1	subst:pl:gen:p3	geograficzna	
+6073140,6073169d6073269
+< wygorałabym	wygoreć	cond:sg:f:pri:perf		daw.
+< wygorałabyś	wygoreć	cond:sg:f:sec:perf		daw.
+< wygorałaby	wygoreć	cond:sg:f:ter:perf		daw.
+< wygorałam	wygoreć	praet:sg:f:pri:perf		daw.
+< wygorałaś	wygoreć	praet:sg:f:sec:perf		daw.
+< wygorała	wygoreć	praet:sg:f:perf		daw.
+< wygorała	wygoreć	praet:sg:f:ter:perf		daw.
+< wygorałbym	wygoreć	cond:sg:m1.m2.m3:pri:perf		daw.
+< wygorałbyś	wygoreć	cond:sg:m1.m2.m3:sec:perf		daw.
+< wygorałby	wygoreć	cond:sg:m1.m2.m3:ter:perf		daw.
+< wygorałem	wygoreć	praet:sg:m1.m2.m3:pri:perf		daw.
+< wygorałeś	wygoreć	praet:sg:m1.m2.m3:sec:perf		daw.
+< wygorałobym	wygoreć	cond:sg:n1.n2:pri:perf		daw.
+< wygorałobyś	wygoreć	cond:sg:n1.n2:sec:perf		daw.
+< wygorałoby	wygoreć	cond:sg:n1.n2:ter:perf		daw.
+< wygorałom	wygoreć	praet:sg:n1.n2:pri:perf		daw.
+< wygorałoś	wygoreć	praet:sg:n1.n2:sec:perf		daw.
+< wygorało	wygoreć	praet:sg:n1.n2:perf		daw.
+< wygorało	wygoreć	praet:sg:n1.n2:ter:perf		daw.
+< wygorał	wygoreć	praet:sg:m1.m2.m3:perf		daw.
+< wygorał	wygoreć	praet:sg:m1.m2.m3:ter:perf		daw.
+< wygorałybyście	wygoreć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< wygorałybyśmy	wygoreć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< wygorałyby	wygoreć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+< wygorałyście	wygoreć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		daw.
+< wygorałyśmy	wygoreć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		daw.
+< wygorały	wygoreć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		daw.
+< wygorały	wygoreć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		daw.
+< wygorano	wygoreć	imps:perf		daw.
+< wygorawszy	wygoreć	pant:perf		daw.
+6073180,6073186d6073279
+< wygorelibyście	wygoreć	cond:pl:m1.p1:sec:perf		daw.
+< wygorelibyśmy	wygoreć	cond:pl:m1.p1:pri:perf		daw.
+< wygoreliby	wygoreć	cond:pl:m1.p1:ter:perf		daw.
+< wygoreliście	wygoreć	praet:pl:m1.p1:sec:perf		daw.
+< wygoreliśmy	wygoreć	praet:pl:m1.p1:pri:perf		daw.
+< wygoreli	wygoreć	praet:pl:m1.p1:perf		daw.
+< wygoreli	wygoreć	praet:pl:m1.p1:ter:perf		daw.
+6073422a6073516
+> wygorą	wygorzeć	fin:pl:ter:perf		podniosłe|przest.
+6073426a6073521,6073522
+> wygorę	wygorzeć	fin:sg:pri:perf		podniosłe|przest.
+> wygorzałabym	wygorzeć	cond:sg:f:pri:perf		podniosłe|przest.
+6073427a6073524
+> wygorzałabyś	wygorzeć	cond:sg:f:sec:perf		podniosłe|przest.
+6073428a6073526
+> wygorzałaby	wygorzeć	cond:sg:f:ter:perf		podniosłe|przest.
+6073429a6073528
+> wygorzałam	wygorzeć	praet:sg:f:pri:perf		podniosłe|przest.
+6073430a6073530
+> wygorzałaś	wygorzeć	praet:sg:f:sec:perf		podniosłe|przest.
+6073431a6073532
+> wygorzała	wygorzeć	praet:sg:f:perf		podniosłe|przest.
+6073432a6073534
+> wygorzała	wygorzeć	praet:sg:f:ter:perf		podniosłe|przest.
+6073433a6073536
+> wygorzałbym	wygorzeć	cond:sg:m1.m2.m3:pri:perf		podniosłe|przest.
+6073434a6073538
+> wygorzałbyś	wygorzeć	cond:sg:m1.m2.m3:sec:perf		podniosłe|przest.
+6073435a6073540
+> wygorzałby	wygorzeć	cond:sg:m1.m2.m3:ter:perf		podniosłe|przest.
+6073436a6073542
+> wygorzałem	wygorzeć	praet:sg:m1.m2.m3:pri:perf		podniosłe|przest.
+6073437a6073544
+> wygorzałeś	wygorzeć	praet:sg:m1.m2.m3:sec:perf		podniosłe|przest.
+6073438a6073546
+> wygorzałobym	wygorzeć	cond:sg:n1.n2:pri:perf		podniosłe|przest.
+6073439a6073548
+> wygorzałobyś	wygorzeć	cond:sg:n1.n2:sec:perf		podniosłe|przest.
+6073440a6073550
+> wygorzałoby	wygorzeć	cond:sg:n1.n2:ter:perf		podniosłe|przest.
+6073441a6073552
+> wygorzałom	wygorzeć	praet:sg:n1.n2:pri:perf		podniosłe|przest.
+6073442a6073554
+> wygorzałoś	wygorzeć	praet:sg:n1.n2:sec:perf		podniosłe|przest.
+6073443a6073556
+> wygorzało	wygorzeć	praet:sg:n1.n2:perf		podniosłe|przest.
+6073444a6073558
+> wygorzało	wygorzeć	praet:sg:n1.n2:ter:perf		podniosłe|przest.
+6073445a6073560
+> wygorzał	wygorzeć	praet:sg:m1.m2.m3:perf		podniosłe|przest.
+6073446a6073562
+> wygorzał	wygorzeć	praet:sg:m1.m2.m3:ter:perf		podniosłe|przest.
+6073447a6073564
+> wygorzałybyście	wygorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		podniosłe|przest.
+6073448a6073566
+> wygorzałybyśmy	wygorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		podniosłe|przest.
+6073449a6073568
+> wygorzałyby	wygorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		podniosłe|przest.
+6073450a6073570
+> wygorzałyście	wygorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		podniosłe|przest.
+6073451a6073572
+> wygorzałyśmy	wygorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		podniosłe|przest.
+6073452a6073574
+> wygorzały	wygorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		podniosłe|przest.
+6073453a6073576
+> wygorzały	wygorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		podniosłe|przest.
+6073454a6073578
+> wygorzano	wygorzeć	imps:perf		podniosłe|przest.
+6073455a6073580
+> wygorzawszy	wygorzeć	pant:perf		podniosłe|przest.
+6073456a6073582
+> wygorzą	wygorzeć	fin:pl:ter:perf		podniosłe|przest.
+6073468a6073595
+> wygorzelibyście	wygorzeć	cond:pl:m1.p1:sec:perf		podniosłe|przest.
+6073469a6073597
+> wygorzelibyśmy	wygorzeć	cond:pl:m1.p1:pri:perf		podniosłe|przest.
+6073470a6073599
+> wygorzeliby	wygorzeć	cond:pl:m1.p1:ter:perf		podniosłe|przest.
+6073471a6073601
+> wygorzeliście	wygorzeć	praet:pl:m1.p1:sec:perf		podniosłe|przest.
+6073472a6073603
+> wygorzeliśmy	wygorzeć	praet:pl:m1.p1:pri:perf		podniosłe|przest.
+6073473a6073605
+> wygorzeli	wygorzeć	praet:pl:m1.p1:perf		podniosłe|przest.
+6073474a6073607
+> wygorzeli	wygorzeć	praet:pl:m1.p1:ter:perf		podniosłe|przest.
+6073487a6073621,6073624
+> wygorzę	wygorzeć	fin:sg:pri:perf		podniosłe|przest.
+> wygorzyjcie	wygorzeć	impt:pl:sec:perf		podniosłe|przest.
+> wygorzyjmy	wygorzeć	impt:pl:pri:perf		podniosłe|przest.
+> wygorzyj	wygorzeć	impt:sg:sec:perf		podniosłe|przest.
+6312450a6312588
+> Xenio	Xenia	subst:sg:voc:f	imię	
+6312451a6312590
+> Xeni	Xenia	subst:pl:gen:f	imię	hom.
+6388945a6389085
+> zagorą	zagorzeć	fin:pl:ter:perf		podniosłe
+6388949a6389090
+> zagorę	zagorzeć	fin:sg:pri:perf		podniosłe
+6388950a6389092
+> zagorzałabym	zagorzeć	cond:sg:f:pri:perf		podniosłe
+6388951a6389094
+> zagorzałabyś	zagorzeć	cond:sg:f:sec:perf		podniosłe
+6388952a6389096
+> zagorzałaby	zagorzeć	cond:sg:f:ter:perf		podniosłe
+6388953a6389098
+> zagorzałam	zagorzeć	praet:sg:f:pri:perf		podniosłe
+6388954a6389100
+> zagorzałaś	zagorzeć	praet:sg:f:sec:perf		podniosłe
+6388955a6389102
+> zagorzała	zagorzeć	praet:sg:f:perf		podniosłe
+6388956a6389104
+> zagorzała	zagorzeć	praet:sg:f:ter:perf		podniosłe
+6388957a6389106
+> zagorzałbym	zagorzeć	cond:sg:m1.m2.m3:pri:perf		podniosłe
+6388958a6389108
+> zagorzałbyś	zagorzeć	cond:sg:m1.m2.m3:sec:perf		podniosłe
+6388959a6389110
+> zagorzałby	zagorzeć	cond:sg:m1.m2.m3:ter:perf		podniosłe
+6388960a6389112
+> zagorzałem	zagorzeć	praet:sg:m1.m2.m3:pri:perf		podniosłe
+6388961a6389114
+> zagorzałeś	zagorzeć	praet:sg:m1.m2.m3:sec:perf		podniosłe
+6388962a6389116
+> zagorzałobym	zagorzeć	cond:sg:n1.n2:pri:perf		podniosłe
+6388963a6389118
+> zagorzałobyś	zagorzeć	cond:sg:n1.n2:sec:perf		podniosłe
+6388964a6389120
+> zagorzałoby	zagorzeć	cond:sg:n1.n2:ter:perf		podniosłe
+6388965a6389122
+> zagorzałom	zagorzeć	praet:sg:n1.n2:pri:perf		podniosłe
+6388966a6389124
+> zagorzałoś	zagorzeć	praet:sg:n1.n2:sec:perf		podniosłe
+6388967a6389126
+> zagorzało	zagorzeć	praet:sg:n1.n2:perf		podniosłe
+6388968a6389128
+> zagorzało	zagorzeć	praet:sg:n1.n2:ter:perf		podniosłe
+6388969a6389130
+> zagorzałybyście	zagorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		podniosłe
+6388970a6389132
+> zagorzałybyśmy	zagorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		podniosłe
+6388971a6389134
+> zagorzałyby	zagorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		podniosłe
+6388972a6389136
+> zagorzałyście	zagorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		podniosłe
+6388973a6389138
+> zagorzałyśmy	zagorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		podniosłe
+6388974a6389140
+> zagorzały	zagorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		podniosłe
+6388975a6389142
+> zagorzały	zagorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		podniosłe
+6388976a6389144
+> zagorzał	zagorzeć	praet:sg:m1.m2.m3:perf		podniosłe
+6388977a6389146
+> zagorzał	zagorzeć	praet:sg:m1.m2.m3:ter:perf		podniosłe
+6388978a6389148
+> zagorzano	zagorzeć	imps:perf		podniosłe
+6388979a6389150,6389151
+> zagorzawszy	zagorzeć	pant:perf		podniosłe
+> zagorzą	zagorzeć	fin:pl:ter:perf		podniosłe
+6388992a6389165
+> zagorzelibyście	zagorzeć	cond:pl:m1.p1:sec:perf		podniosłe
+6388993a6389167
+> zagorzelibyśmy	zagorzeć	cond:pl:m1.p1:pri:perf		podniosłe
+6388994a6389169
+> zagorzeliby	zagorzeć	cond:pl:m1.p1:ter:perf		podniosłe
+6388995a6389171
+> zagorzeliście	zagorzeć	praet:pl:m1.p1:sec:perf		podniosłe
+6388996a6389173
+> zagorzeliśmy	zagorzeć	praet:pl:m1.p1:pri:perf		podniosłe
+6388997a6389175
+> zagorzeli	zagorzeć	praet:pl:m1.p1:perf		podniosłe
+6388998a6389177
+> zagorzeli	zagorzeć	praet:pl:m1.p1:ter:perf		podniosłe
+6389010a6389190,6389193
+> zagorzę	zagorzeć	fin:sg:pri:perf		podniosłe
+> zagorzyjcie	zagorzeć	impt:pl:sec:perf		podniosłe
+> zagorzyjmy	zagorzeć	impt:pl:pri:perf		podniosłe
+> zagorzyj	zagorzeć	impt:sg:sec:perf		podniosłe
+6705818a6706002
+> zgorą	zgorzeć	fin:pl:ter:perf		podniosłe|przest.
+6705822a6706007,6706008
+> zgorę	zgorzeć	fin:sg:pri:perf		podniosłe|przest.
+> zgorzałabym	zgorzeć	cond:sg:f:pri:perf		podniosłe|przest.
+6705823a6706010
+> zgorzałabyś	zgorzeć	cond:sg:f:sec:perf		podniosłe|przest.
+6705824a6706012
+> zgorzałaby	zgorzeć	cond:sg:f:ter:perf		podniosłe|przest.
+6705825a6706014
+> zgorzałam	zgorzeć	praet:sg:f:pri:perf		podniosłe|przest.
+6705826a6706016
+> zgorzałaś	zgorzeć	praet:sg:f:sec:perf		podniosłe|przest.
+6705827a6706018
+> zgorzała	zgorzeć	praet:sg:f:perf		podniosłe|przest.
+6705828a6706020
+> zgorzała	zgorzeć	praet:sg:f:ter:perf		podniosłe|przest.
+6705829a6706022
+> zgorzałbym	zgorzeć	cond:sg:m1.m2.m3:pri:perf		podniosłe|przest.
+6705830a6706024
+> zgorzałbyś	zgorzeć	cond:sg:m1.m2.m3:sec:perf		podniosłe|przest.
+6705831a6706026
+> zgorzałby	zgorzeć	cond:sg:m1.m2.m3:ter:perf		podniosłe|przest.
+6705832a6706028
+> zgorzałem	zgorzeć	praet:sg:m1.m2.m3:pri:perf		podniosłe|przest.
+6705833a6706030
+> zgorzałeś	zgorzeć	praet:sg:m1.m2.m3:sec:perf		podniosłe|przest.
+6705834a6706032
+> zgorzałobym	zgorzeć	cond:sg:n1.n2:pri:perf		podniosłe|przest.
+6705835a6706034
+> zgorzałobyś	zgorzeć	cond:sg:n1.n2:sec:perf		podniosłe|przest.
+6705836a6706036
+> zgorzałoby	zgorzeć	cond:sg:n1.n2:ter:perf		podniosłe|przest.
+6705837a6706038
+> zgorzałom	zgorzeć	praet:sg:n1.n2:pri:perf		podniosłe|przest.
+6705838a6706040
+> zgorzałoś	zgorzeć	praet:sg:n1.n2:sec:perf		podniosłe|przest.
+6705839a6706042
+> zgorzało	zgorzeć	praet:sg:n1.n2:perf		podniosłe|przest.
+6705840a6706044
+> zgorzało	zgorzeć	praet:sg:n1.n2:ter:perf		podniosłe|przest.
+6705841a6706046
+> zgorzałybyście	zgorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		podniosłe|przest.
+6705842a6706048
+> zgorzałybyśmy	zgorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		podniosłe|przest.
+6705843a6706050
+> zgorzałyby	zgorzeć	cond:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		podniosłe|przest.
+6705844a6706052
+> zgorzałyście	zgorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:sec:perf		podniosłe|przest.
+6705845a6706054
+> zgorzałyśmy	zgorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:pri:perf		podniosłe|przest.
+6705846a6706056
+> zgorzały	zgorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:perf		podniosłe|przest.
+6705847a6706058
+> zgorzały	zgorzeć	praet:pl:m2.m3.f.n1.n2.p2.p3:ter:perf		podniosłe|przest.
+6705848a6706060
+> zgorzał	zgorzeć	praet:sg:m1.m2.m3:perf		podniosłe|przest.
+6705849a6706062
+> zgorzał	zgorzeć	praet:sg:m1.m2.m3:ter:perf		podniosłe|przest.
+6705850a6706064
+> zgorzano	zgorzeć	imps:perf		podniosłe|przest.
+6705851a6706066
+> zgorzawszy	zgorzeć	pant:perf		podniosłe|przest.
+6705852a6706068
+> zgorzą	zgorzeć	fin:pl:ter:perf		podniosłe|przest.
+6705864a6706081
+> zgorzelibyście	zgorzeć	cond:pl:m1.p1:sec:perf		podniosłe|przest.
+6705865a6706083
+> zgorzelibyśmy	zgorzeć	cond:pl:m1.p1:pri:perf		podniosłe|przest.
+6705866a6706085
+> zgorzeliby	zgorzeć	cond:pl:m1.p1:ter:perf		podniosłe|przest.
+6705867a6706087
+> zgorzeliście	zgorzeć	praet:pl:m1.p1:sec:perf		podniosłe|przest.
+6705868a6706089
+> zgorzeliśmy	zgorzeć	praet:pl:m1.p1:pri:perf		podniosłe|przest.
+6705869a6706091
+> zgorzeli	zgorzeć	praet:pl:m1.p1:perf		podniosłe|przest.
+6705870a6706093
+> zgorzeli	zgorzeć	praet:pl:m1.p1:ter:perf		podniosłe|przest.
+6705883a6706107,6706110
+> zgorzę	zgorzeć	fin:sg:pri:perf		podniosłe|przest.
+> zgorzyjcie	zgorzeć	impt:pl:sec:perf		podniosłe|przest.
+> zgorzyjmy	zgorzeć	impt:pl:pri:perf		podniosłe|przest.
+> zgorzyj	zgorzeć	impt:sg:sec:perf		podniosłe|przest.

@@ -1,0 +1,418 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.07.10
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.07.16
+222760c222760
+< brakłoby	braknąć	cond:sg:n:imperf.perf		
+---
+> brakłoby	braknąć	cond:sg:n:ter:imperf.perf		
+341734c341734
+< ckliłoby	cklić	cond:sg:n:imperf		gwar.
+---
+> ckliłoby	cklić	cond:sg:n:ter:imperf		gwar.
+341870c341870
+< ckniłoby	cknić	cond:sg:n:imperf		daw.
+---
+> ckniłoby	cknić	cond:sg:n:ter:imperf		daw.
+343048c343048
+< cniłoby	cnić	cond:sg:n:imperf		rzad.
+---
+> cniłoby	cnić	cond:sg:n:ter:imperf		rzad.
+435942c435942
+< deszczyłoby	deszczyć	cond:sg:n:imperf		rzad.
+---
+> deszczyłoby	deszczyć	cond:sg:n:ter:imperf		rzad.
+447830a447831,447841
+> dildach	dildo	subst:pl:loc:n:ncol	nazwa pospolita	rzad.
+> dilda	dildo	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	rzad.
+> dilda	dildo	subst:sg:gen:n:ncol	nazwa pospolita	rzad.
+> dildami	dildo	subst:pl:inst:n:ncol	nazwa pospolita	rzad.
+> dild	dildo	subst:pl:gen:n:ncol	nazwa pospolita	rzad.
+> dildem	dildo	subst:sg:inst:n:ncol	nazwa pospolita	rzad.
+> dildo	dildo	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	rzad.
+> dildo	dildo	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+> dildom	dildo	subst:pl:dat:n:ncol	nazwa pospolita	rzad.
+> dildu	dildo	subst:sg:dat:n:ncol	nazwa pospolita	rzad.
+> dildzie	dildo	subst:sg:loc:n:ncol	nazwa pospolita	rzad.
+454032c454043
+< dniałoby	dnieć	cond:sg:n:imperf		
+---
+> dniałoby	dnieć	cond:sg:n:ter:imperf		
+629248c629259
+< dżdżyłoby	dżdżyć	cond:sg:n:imperf		
+---
+> dżdżyłoby	dżdżyć	cond:sg:n:ter:imperf		
+646497,646507d646507
+< ekstce	ekstka	subst:sg:dat.loc:f	nazwa pospolita	
+< ekstek	ekstka	subst:pl:gen:f	nazwa pospolita	
+< ekstkach	ekstka	subst:pl:loc:f	nazwa pospolita	
+< ekstka	ekstka	subst:sg:nom:f	nazwa pospolita	
+< ekstkami	ekstka	subst:pl:inst:f	nazwa pospolita	
+< ekstką	ekstka	subst:sg:inst:f	nazwa pospolita	
+< ekstkę	ekstka	subst:sg:acc:f	nazwa pospolita	
+< ekstki	ekstka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< ekstki	ekstka	subst:sg:gen:f	nazwa pospolita	
+< ekstko	ekstka	subst:sg:voc:f	nazwa pospolita	
+< ekstkom	ekstka	subst:pl:dat:f	nazwa pospolita	
+963673,963683d963672
+< izotermizmach	izotermizm	subst:pl:loc:m3	nazwa pospolita	
+< izotermizmami	izotermizm	subst:pl:inst:m3	nazwa pospolita	
+< izotermizmem	izotermizm	subst:sg:inst:m3	nazwa pospolita	
+< izotermizmie	izotermizm	subst:sg:loc:m3	nazwa pospolita	
+< izotermizmie	izotermizm	subst:sg:voc:m3	nazwa pospolita	
+< izotermizm	izotermizm	subst:sg:nom.acc:m3	nazwa pospolita	
+< izotermizmom	izotermizm	subst:pl:dat:m3	nazwa pospolita	
+< izotermizmowi	izotermizm	subst:sg:dat:m3	nazwa pospolita	
+< izotermizmów	izotermizm	subst:pl:gen:m3	nazwa pospolita	
+< izotermizmu	izotermizm	subst:sg:gen:m3	nazwa pospolita	
+< izotermizmy	izotermizm	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+1272644,1272669d1272632
+< kwiaciarkarzach	kwiaciarkarz	subst:pl:loc:m1	nazwa pospolita	
+< kwiaciarkarzach	kwiaciarkarz	subst:pl:loc:m1	nazwa pospolita	rzad.
+< kwiaciarkarza	kwiaciarkarz	subst:sg:gen.acc:m1	nazwa pospolita	
+< kwiaciarkarza	kwiaciarkarz	subst:sg:gen.acc:m1	nazwa pospolita	rzad.
+< kwiaciarkarza	kwiaciarkarz	subst:sg:gen:m1	nazwa pospolita	
+< kwiaciarkarza	kwiaciarkarz	subst:sg:gen:m1	nazwa pospolita	rzad.
+< kwiaciarkarzami	kwiaciarkarz	subst:pl:inst:m1	nazwa pospolita	
+< kwiaciarkarzami	kwiaciarkarz	subst:pl:inst:m1	nazwa pospolita	rzad.
+< kwiaciarkarze	kwiaciarkarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< kwiaciarkarze	kwiaciarkarz	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.
+< kwiaciarkarze	kwiaciarkarz	subst:pl:nom.voc:m1	nazwa pospolita	
+< kwiaciarkarze	kwiaciarkarz	subst:pl:nom.voc:m1	nazwa pospolita	rzad.
+< kwiaciarkarzem	kwiaciarkarz	subst:sg:inst:m1	nazwa pospolita	
+< kwiaciarkarzem	kwiaciarkarz	subst:sg:inst:m1	nazwa pospolita	rzad.
+< kwiaciarkarz	kwiaciarkarz	subst:sg:nom:m1	nazwa pospolita	
+< kwiaciarkarz	kwiaciarkarz	subst:sg:nom:m1	nazwa pospolita	rzad.
+< kwiaciarkarzom	kwiaciarkarz	subst:pl:dat:m1	nazwa pospolita	
+< kwiaciarkarzom	kwiaciarkarz	subst:pl:dat:m1	nazwa pospolita	rzad.
+< kwiaciarkarzowi	kwiaciarkarz	subst:sg:dat:m1	nazwa pospolita	
+< kwiaciarkarzowi	kwiaciarkarz	subst:sg:dat:m1	nazwa pospolita	rzad.
+< kwiaciarkarzów	kwiaciarkarz	subst:pl:gen.acc:m1	nazwa pospolita	rzad.
+< kwiaciarkarzu	kwiaciarkarz	subst:sg:loc:m1	nazwa pospolita	
+< kwiaciarkarzu	kwiaciarkarz	subst:sg:loc:m1	nazwa pospolita	rzad.
+< kwiaciarkarzu	kwiaciarkarz	subst:sg:voc:m1	nazwa pospolita	
+< kwiaciarkarzu	kwiaciarkarz	subst:sg:voc:m1	nazwa pospolita	rzad.
+< kwiaciarkarzy	kwiaciarkarz	subst:pl:gen.acc:m1	nazwa pospolita	
+1425043c1425006
+< mdliłoby	mdlić:v1	cond:sg:n:imperf		
+---
+> mdliłoby	mdlić:v1	cond:sg:n:ter:imperf		
+1445160a1445124,1445182
+> mękoląc	mękolić	pcon:imperf		gwar.|pot.
+> mękolą	mękolić	fin:pl:ter:imperf		gwar.|pot.
+> mękolcie	mękolić	impt:pl:sec:imperf		gwar.|pot.
+> mękolę	mękolić	fin:sg:pri:imperf		gwar.|pot.
+> mękolicie	mękolić	fin:pl:sec:imperf		gwar.|pot.
+> mękolić	mękolić	inf:imperf		gwar.|pot.
+> mękoliliby	mękolić	cond:pl:m1:ter:imperf		gwar.|pot.
+> mękolilibyście	mękolić	cond:pl:m1:sec:imperf		gwar.|pot.
+> mękolilibyśmy	mękolić	cond:pl:m1:pri:imperf		gwar.|pot.
+> mękolili	mękolić	praet:pl:m1:imperf		gwar.|pot.
+> mękolili	mękolić	praet:pl:m1:ter:imperf		gwar.|pot.
+> mękoliliście	mękolić	praet:pl:m1:sec:imperf		gwar.|pot.
+> mękoliliśmy	mękolić	praet:pl:m1:pri:imperf		gwar.|pot.
+> mękoliłaby	mękolić	cond:sg:f:ter:imperf		gwar.|pot.
+> mękoliłabym	mękolić	cond:sg:f:pri:imperf		gwar.|pot.
+> mękoliłabyś	mękolić	cond:sg:f:sec:imperf		gwar.|pot.
+> mękoliła	mękolić	praet:sg:f:imperf		gwar.|pot.
+> mękoliła	mękolić	praet:sg:f:ter:imperf		gwar.|pot.
+> mękoliłam	mękolić	praet:sg:f:pri:imperf		gwar.|pot.
+> mękoliłaś	mękolić	praet:sg:f:sec:imperf		gwar.|pot.
+> mękoliłby	mękolić	cond:sg:m1.m2.m3:ter:imperf		gwar.|pot.
+> mękoliłbym	mękolić	cond:sg:m1.m2.m3:pri:imperf		gwar.|pot.
+> mękoliłbyś	mękolić	cond:sg:m1.m2.m3:sec:imperf		gwar.|pot.
+> mękoliłem	mękolić	praet:sg:m1.m2.m3:pri:imperf		gwar.|pot.
+> mękoliłeś	mękolić	praet:sg:m1.m2.m3:sec:imperf		gwar.|pot.
+> mękolił	mękolić	praet:sg:m1.m2.m3:imperf		gwar.|pot.
+> mękolił	mękolić	praet:sg:m1.m2.m3:ter:imperf		gwar.|pot.
+> mękoliłoby	mękolić	cond:sg:n:ter:imperf		gwar.|pot.
+> mękoliłobym	mękolić	cond:sg:n:pri:imperf		gwar.|pot.
+> mękoliłobyś	mękolić	cond:sg:n:sec:imperf		gwar.|pot.
+> mękoliło	mękolić	praet:sg:n:imperf		gwar.|pot.
+> mękoliło	mękolić	praet:sg:n:ter:imperf		gwar.|pot.
+> mękoliłom	mękolić	praet:sg:n:pri:imperf		gwar.|pot.
+> mękoliłoś	mękolić	praet:sg:n:sec:imperf		gwar.|pot.
+> mękoliłyby	mękolić	cond:pl:m2.m3.f.n:ter:imperf		gwar.|pot.
+> mękoliłybyście	mękolić	cond:pl:m2.m3.f.n:sec:imperf		gwar.|pot.
+> mękoliłybyśmy	mękolić	cond:pl:m2.m3.f.n:pri:imperf		gwar.|pot.
+> mękoliły	mękolić	praet:pl:m2.m3.f.n:imperf		gwar.|pot.
+> mękoliły	mękolić	praet:pl:m2.m3.f.n:ter:imperf		gwar.|pot.
+> mękoliłyście	mękolić	praet:pl:m2.m3.f.n:sec:imperf		gwar.|pot.
+> mękoliłyśmy	mękolić	praet:pl:m2.m3.f.n:pri:imperf		gwar.|pot.
+> mękoli	mękolić	fin:sg:ter:imperf		gwar.|pot.
+> mękolimy	mękolić	fin:pl:pri:imperf		gwar.|pot.
+> mękolisz	mękolić	fin:sg:sec:imperf		gwar.|pot.
+> mękol	mękolić	impt:sg:sec:imperf		gwar.|pot.
+> mękolmy	mękolić	impt:pl:pri:imperf		gwar.|pot.
+> mękolono	mękolić	imps:imperf		gwar.|pot.
+> mękole	mękoła	subst:sg:dat.loc:m1	nazwa pospolita	gwar.|pot.
+> mękołach	mękoła	subst:pl:loc:m1	nazwa pospolita	gwar.|pot.
+> mękoła	mękoła	subst:sg:nom:m1	nazwa pospolita	gwar.|pot.
+> mękołami	mękoła	subst:pl:inst:m1	nazwa pospolita	gwar.|pot.
+> mękołą	mękoła	subst:sg:inst:m1	nazwa pospolita	gwar.|pot.
+> mękołę	mękoła	subst:sg:acc:m1	nazwa pospolita	gwar.|pot.
+> mękoło	mękoła	subst:sg:voc:m1	nazwa pospolita	gwar.|pot.
+> mękołom	mękoła	subst:pl:dat:m1	nazwa pospolita	gwar.|pot.
+> mękołowie	mękoła	subst:pl:nom.voc:m1	nazwa pospolita	gwar.|pot.
+> mękołów	mękoła	subst:pl:gen.acc:m1	nazwa pospolita	gwar.|pot.
+> mękoły	mękoła	depr:pl:nom.acc.voc:m2	nazwa pospolita	gwar.|pot.
+> mękoły	mękoła	subst:sg:gen:m1	nazwa pospolita	gwar.|pot.
+1530103,1530115d1530124
+< Mururach	Mururo	subst:pl:loc:m1	nazwa własna	
+< Mururami	Mururo	subst:pl:inst:m1	nazwa własna	
+< Murura	Mururo	depr:pl:nom.acc.voc:m2	nazwa własna	
+< Murura	Mururo	subst:sg:gen.acc:m1	nazwa własna	
+< Murura	Mururo	subst:sg:gen:m1	nazwa własna	
+< Mururem	Mururo	subst:sg:inst:m1	nazwa własna	
+< Mururom	Mururo	subst:pl:dat:m1	nazwa własna	
+< Mururo	Mururo	subst:sg:nom:m1	nazwa własna	
+< Mururo	Mururo	subst:sg:voc:m1	nazwa własna	
+< Mururowie	Mururo	subst:pl:nom.voc:m1	nazwa własna	
+< Mururowi	Mururo	subst:sg:dat:m1	nazwa własna	
+< Mururów	Mururo	subst:pl:gen.acc:m1	nazwa własna	
+< Mururze	Mururo	subst:sg:loc:m1	nazwa własna	
+1622347a1622357,1622369
+> nałożnicy	nałożnik	subst:pl:nom.voc:m1	nazwa pospolita	
+> nałożnikach	nałożnik	subst:pl:loc:m1	nazwa pospolita	
+> nałożnikami	nałożnik	subst:pl:inst:m1	nazwa pospolita	
+> nałożnika	nałożnik	subst:sg:gen.acc:m1	nazwa pospolita	
+> nałożnika	nałożnik	subst:sg:gen:m1	nazwa pospolita	
+> nałożnikiem	nałożnik	subst:sg:inst:m1	nazwa pospolita	
+> nałożniki	nałożnik	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> nałożnik	nałożnik	subst:sg:nom:m1	nazwa pospolita	
+> nałożnikom	nałożnik	subst:pl:dat:m1	nazwa pospolita	
+> nałożnikowi	nałożnik	subst:sg:dat:m1	nazwa pospolita	
+> nałożników	nałożnik	subst:pl:gen.acc:m1	nazwa pospolita	
+> nałożniku	nałożnik	subst:sg:loc:m1	nazwa pospolita	
+> nałożniku	nałożnik	subst:sg:voc:m1	nazwa pospolita	
+3073082c3073104
+< odniałoby	odnieć	cond:sg:n:perf		daw.
+---
+> odniałoby	odnieć	cond:sg:n:ter:perf		daw.
+3199989c3200011
+< olśniałoby	olśnieć	cond:sg:n:perf		indyw.
+---
+> olśniałoby	olśnieć	cond:sg:n:ter:perf		indyw.
+3205051c3205073
+< omdliłoby	omdlić	cond:sg:n:perf		przest.
+---
+> omdliłoby	omdlić	cond:sg:n:ter:perf		przest.
+3411917,3411928d3411938
+< pierdole	pierdoła:s1	subst:sg:dat.loc:m1	nazwa pospolita	wulg.
+< pierdołach	pierdoła:s1	subst:pl:loc:m1	nazwa pospolita	wulg.
+< pierdołami	pierdoła:s1	subst:pl:inst:m1	nazwa pospolita	wulg.
+< pierdoła	pierdoła:s1	subst:sg:nom:m1	nazwa pospolita	wulg.
+< pierdołą	pierdoła:s1	subst:sg:inst:m1	nazwa pospolita	wulg.
+< pierdołę	pierdoła:s1	subst:sg:acc:m1	nazwa pospolita	wulg.
+< pierdołom	pierdoła:s1	subst:pl:dat:m1	nazwa pospolita	wulg.
+< pierdoło	pierdoła:s1	subst:sg:voc:m1	nazwa pospolita	wulg.
+< pierdołowie	pierdoła:s1	subst:pl:nom.voc:m1	nazwa pospolita	wulg.
+< pierdołów	pierdoła:s1	subst:pl:gen.acc:m1	nazwa pospolita	wulg.
+< pierdoły	pierdoła:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	wulg.
+< pierdoły	pierdoła:s1	subst:sg:gen:m1	nazwa pospolita	wulg.
+3637065,3637086c3637075,3637085
+< polisyndecie	polisyndet	subst:sg:loc:m3	nazwa pospolita	
+< polisyndecie	polisyndet	subst:sg:voc:m3	nazwa pospolita	
+< polisyndetach	polisyndet	subst:pl:loc:m3	nazwa pospolita	
+< polisyndetami	polisyndet	subst:pl:inst:m3	nazwa pospolita	
+< polisyndetem	polisyndet	subst:sg:inst:m3	nazwa pospolita	
+< polisyndetom	polisyndet	subst:pl:dat:m3	nazwa pospolita	
+< polisyndetowi	polisyndet	subst:sg:dat:m3	nazwa pospolita	
+< polisyndetów	polisyndet	subst:pl:gen:m3	nazwa pospolita	
+< polisyndet	polisyndet	subst:sg:nom.acc:m3	nazwa pospolita	
+< polisyndetu	polisyndet	subst:sg:gen:m3	nazwa pospolita	
+< polisyndety	polisyndet	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< polisyndetonach	polisyndeton	subst:pl:loc:m3	nazwa pospolita	
+< polisyndetonami	polisyndeton	subst:pl:inst:m3	nazwa pospolita	
+< polisyndetonem	polisyndeton	subst:sg:inst:m3	nazwa pospolita	
+< polisyndetonie	polisyndeton	subst:sg:loc:m3	nazwa pospolita	
+< polisyndetonie	polisyndeton	subst:sg:voc:m3	nazwa pospolita	
+< polisyndetonom	polisyndeton	subst:pl:dat:m3	nazwa pospolita	
+< polisyndetonowi	polisyndeton	subst:sg:dat:m3	nazwa pospolita	
+< polisyndetonów	polisyndeton	subst:pl:gen:m3	nazwa pospolita	
+< polisyndeton	polisyndeton	subst:sg:nom.acc:m3	nazwa pospolita	
+< polisyndetonu	polisyndeton	subst:sg:gen:m3	nazwa pospolita	
+< polisyndetony	polisyndeton	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+---
+> polisyndetonach	polisyndeton	subst:pl:loc:m3	nazwa pospolita	jęz.
+> polisyndetonami	polisyndeton	subst:pl:inst:m3	nazwa pospolita	jęz.
+> polisyndetonem	polisyndeton	subst:sg:inst:m3	nazwa pospolita	jęz.
+> polisyndetonie	polisyndeton	subst:sg:loc:m3	nazwa pospolita	jęz.
+> polisyndetonie	polisyndeton	subst:sg:voc:m3	nazwa pospolita	jęz.
+> polisyndetonom	polisyndeton	subst:pl:dat:m3	nazwa pospolita	jęz.
+> polisyndetonowi	polisyndeton	subst:sg:dat:m3	nazwa pospolita	jęz.
+> polisyndetonów	polisyndeton	subst:pl:gen:m3	nazwa pospolita	jęz.
+> polisyndeton	polisyndeton	subst:sg:nom.acc:m3	nazwa pospolita	jęz.
+> polisyndetonu	polisyndeton	subst:sg:gen:m3	nazwa pospolita	jęz.
+> polisyndetony	polisyndeton	subst:pl:nom.acc.voc:m3	nazwa pospolita	jęz.
+3659582,3659591c3659581,3659590
+< pomydeł	pomydło	subst:pl:gen:n:ncol	nazwa pospolita	
+< pomydle	pomydło	subst:sg:loc:n:ncol	nazwa pospolita	
+< pomydłach	pomydło	subst:pl:loc:n:ncol	nazwa pospolita	
+< pomydłami	pomydło	subst:pl:inst:n:ncol	nazwa pospolita	
+< pomydła	pomydło	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	
+< pomydła	pomydło	subst:sg:gen:n:ncol	nazwa pospolita	
+< pomydłem	pomydło	subst:sg:inst:n:ncol	nazwa pospolita	
+< pomydłom	pomydło	subst:pl:dat:n:ncol	nazwa pospolita	
+< pomydło	pomydło	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	
+< pomydłu	pomydło	subst:sg:dat:n:ncol	nazwa pospolita	
+---
+> pomydeł	pomydło	subst:pl:gen:n:ncol	nazwa pospolita	bot.|rzad.
+> pomydle	pomydło	subst:sg:loc:n:ncol	nazwa pospolita	bot.|rzad.
+> pomydłach	pomydło	subst:pl:loc:n:ncol	nazwa pospolita	bot.|rzad.
+> pomydłami	pomydło	subst:pl:inst:n:ncol	nazwa pospolita	bot.|rzad.
+> pomydła	pomydło	subst:pl:nom.acc.voc:n:ncol	nazwa pospolita	bot.|rzad.
+> pomydła	pomydło	subst:sg:gen:n:ncol	nazwa pospolita	bot.|rzad.
+> pomydłem	pomydło	subst:sg:inst:n:ncol	nazwa pospolita	bot.|rzad.
+> pomydłom	pomydło	subst:pl:dat:n:ncol	nazwa pospolita	bot.|rzad.
+> pomydło	pomydło	subst:sg:nom.acc.voc:n:ncol	nazwa pospolita	bot.|rzad.
+> pomydłu	pomydło	subst:sg:dat:n:ncol	nazwa pospolita	bot.|rzad.
+4151401c4151400
+< przybrakłoby	przybraknąć	cond:sg:n:perf		przest.
+---
+> przybrakłoby	przybraknąć	cond:sg:n:ter:perf		przest.
+4194418c4194417
+< przymierzchłoby	przymierzchnąć	cond:sg:n:perf		rzad.
+---
+> przymierzchłoby	przymierzchnąć	cond:sg:n:ter:perf		rzad.
+4385658c4385657
+< rozdniałoby	rozdnieć	cond:sg:n:perf		daw.
+---
+> rozdniałoby	rozdnieć	cond:sg:n:ter:perf		daw.
+4385664c4385663
+< rozdniewałoby	rozdniewać	cond:sg:n:imperf		daw.
+---
+> rozdniewałoby	rozdniewać	cond:sg:n:ter:imperf		daw.
+4392803c4392802
+< rozedniałoby	rozednieć	cond:sg:n:perf		
+---
+> rozedniałoby	rozednieć	cond:sg:n:ter:perf		
+4392809c4392808
+< rozedniewałoby	rozedniewać	cond:sg:n:imperf		rzad.
+---
+> rozedniewałoby	rozedniewać	cond:sg:n:ter:imperf		rzad.
+4500654c4500653
+< rozsłociłoby	rozsłocić	cond:sg:n:perf		
+---
+> rozsłociłoby	rozsłocić	cond:sg:n:ter:perf		
+4532541c4532540
+< rozwidniałoby	rozwidnieć	cond:sg:n:perf		
+---
+> rozwidniałoby	rozwidnieć	cond:sg:n:ter:perf		
+4577384,4577394c4577383,4577393
+< rzepikach	rzepik	subst:pl:loc:m3	nazwa pospolita	
+< rzepikami	rzepik	subst:pl:inst:m3	nazwa pospolita	
+< rzepikiem	rzepik	subst:sg:inst:m3	nazwa pospolita	
+< rzepiki	rzepik	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< rzepikom	rzepik	subst:pl:dat:m3	nazwa pospolita	
+< rzepikowi	rzepik	subst:sg:dat:m3	nazwa pospolita	
+< rzepików	rzepik	subst:pl:gen:m3	nazwa pospolita	
+< rzepik	rzepik	subst:sg:nom.acc:m3	nazwa pospolita	
+< rzepiku	rzepik	subst:sg:gen:m3	nazwa pospolita	
+< rzepiku	rzepik	subst:sg:loc:m3	nazwa pospolita	
+< rzepiku	rzepik	subst:sg:voc:m3	nazwa pospolita	
+---
+> rzepikach	rzepik	subst:pl:loc:m3	nazwa pospolita	bot.
+> rzepikami	rzepik	subst:pl:inst:m3	nazwa pospolita	bot.
+> rzepikiem	rzepik	subst:sg:inst:m3	nazwa pospolita	bot.
+> rzepiki	rzepik	subst:pl:nom.acc.voc:m3	nazwa pospolita	bot.
+> rzepikom	rzepik	subst:pl:dat:m3	nazwa pospolita	bot.
+> rzepikowi	rzepik	subst:sg:dat:m3	nazwa pospolita	bot.
+> rzepików	rzepik	subst:pl:gen:m3	nazwa pospolita	bot.
+> rzepik	rzepik	subst:sg:nom.acc:m3	nazwa pospolita	bot.
+> rzepiku	rzepik	subst:sg:gen:m3	nazwa pospolita	bot.
+> rzepiku	rzepik	subst:sg:loc:m3	nazwa pospolita	bot.
+> rzepiku	rzepik	subst:sg:voc:m3	nazwa pospolita	bot.
+4726170,4726182d4726168
+< slalomerach	slalomer	subst:pl:loc:m1	nazwa pospolita	
+< slalomerami	slalomer	subst:pl:inst:m1	nazwa pospolita	
+< slalomera	slalomer	subst:sg:gen.acc:m1	nazwa pospolita	
+< slalomera	slalomer	subst:sg:gen:m1	nazwa pospolita	
+< slalomerem	slalomer	subst:sg:inst:m1	nazwa pospolita	
+< slalomerom	slalomer	subst:pl:dat:m1	nazwa pospolita	
+< slalomerowi	slalomer	subst:sg:dat:m1	nazwa pospolita	
+< slalomerów	slalomer	subst:pl:gen.acc:m1	nazwa pospolita	
+< slalomer	slalomer	subst:sg:nom:m1	nazwa pospolita	
+< slalomery	slalomer	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< slalomerze	slalomer	subst:sg:loc:m1	nazwa pospolita	
+< slalomerze	slalomer	subst:sg:voc:m1	nazwa pospolita	
+< slalomerzy	slalomer	subst:pl:nom.voc:m1	nazwa pospolita	
+4729955c4729941
+< słociłoby	słocić	cond:sg:n:imperf		daw.
+---
+> słociłoby	słocić	cond:sg:n:ter:imperf		daw.
+4739284,4739294d4739269
+< smaragicie	smaragit	subst:sg:loc:m3	nazwa pospolita	
+< smaragicie	smaragit	subst:sg:voc:m3	nazwa pospolita	
+< smaragitach	smaragit	subst:pl:loc:m3	nazwa pospolita	
+< smaragitami	smaragit	subst:pl:inst:m3	nazwa pospolita	
+< smaragitem	smaragit	subst:sg:inst:m3	nazwa pospolita	
+< smaragitom	smaragit	subst:pl:dat:m3	nazwa pospolita	
+< smaragitowi	smaragit	subst:sg:dat:m3	nazwa pospolita	
+< smaragitów	smaragit	subst:pl:gen:m3	nazwa pospolita	
+< smaragit	smaragit	subst:sg:nom.acc:m3	nazwa pospolita	
+< smaragitu	smaragit	subst:sg:gen:m3	nazwa pospolita	
+< smaragity	smaragit	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+5404637,5404649d5404611
+< wekendowiczach	wekendowicz	subst:pl:loc:m1	nazwa pospolita	
+< wekendowiczami	wekendowicz	subst:pl:inst:m1	nazwa pospolita	
+< wekendowicza	wekendowicz	subst:sg:gen.acc:m1	nazwa pospolita	
+< wekendowicza	wekendowicz	subst:sg:gen:m1	nazwa pospolita	
+< wekendowiczem	wekendowicz	subst:sg:inst:m1	nazwa pospolita	
+< wekendowicze	wekendowicz	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< wekendowicze	wekendowicz	subst:pl:nom.voc:m1	nazwa pospolita	
+< wekendowiczom	wekendowicz	subst:pl:dat:m1	nazwa pospolita	
+< wekendowiczowi	wekendowicz	subst:sg:dat:m1	nazwa pospolita	
+< wekendowiczów	wekendowicz	subst:pl:gen.acc:m1	nazwa pospolita	
+< wekendowiczu	wekendowicz	subst:sg:loc:m1	nazwa pospolita	
+< wekendowiczu	wekendowicz	subst:sg:voc:m1	nazwa pospolita	
+< wekendowicz	wekendowicz	subst:sg:nom:m1	nazwa pospolita	
+5450335,5450336c5450297
+< więcej	więcej:d	adv		
+< więcej	więcej:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n:rec		
+---
+> więcej	więcej	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n:rec		
+5887875c5887836
+< zabrakłoby	zabraknąć	cond:sg:n:perf		
+---
+> zabrakłoby	zabraknąć	cond:sg:n:ter:perf		
+5894368c5894329
+< zachciałoby	zachcieć:v1	cond:sg:n:perf		
+---
+> zachciałoby	zachcieć:v1	cond:sg:n:ter:perf		
+5894470c5894431
+< zachciewałoby	zachciewać:v1	cond:sg:n:imperf		
+---
+> zachciewałoby	zachciewać:v1	cond:sg:n:ter:imperf		
+5918785c5918746
+< zadeszczyłoby	zadeszczyć	cond:sg:n:perf		
+---
+> zadeszczyłoby	zadeszczyć	cond:sg:n:ter:perf		
+5919732c5919693
+< zadniałoby	zadnieć	cond:sg:n:perf		
+---
+> zadniałoby	zadnieć	cond:sg:n:ter:perf		
+6011158c6011119
+< zamdliłoby	zamdlić	cond:sg:n:perf		przest.
+---
+> zamdliłoby	zamdlić	cond:sg:n:ter:perf		przest.
+6014097c6014058
+< zamierzchłoby	zamierzchnąć	cond:sg:n:perf		rzad.
+---
+> zamierzchłoby	zamierzchnąć	cond:sg:n:ter:perf		rzad.
+6091948c6091909
+< zasłociłoby	zasłocić	cond:sg:n:perf		
+---
+> zasłociłoby	zasłocić	cond:sg:n:ter:perf		
+6179022c6178983
+< zbrakłoby	zbraknąć	cond:sg:n:perf		
+---
+> zbrakłoby	zbraknąć	cond:sg:n:ter:perf		
+6215471c6215432
+< zedniałoby	zednieć	cond:sg:n:perf		rzad.
+---
+> zedniałoby	zednieć	cond:sg:n:ter:perf		rzad.
+6218057c6218018
+< zemdliłoby	zemdlić	cond:sg:n:perf		
+---
+> zemdliłoby	zemdlić	cond:sg:n:ter:perf		

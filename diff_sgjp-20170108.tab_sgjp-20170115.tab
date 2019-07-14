@@ -1,0 +1,61 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.01.08
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.01.15
+742800a742801,742808
+> erodowana	erodować	ppas:sg:nom.voc:f:imperf:aff		
+> erodowaną	erodować	ppas:sg:acc.inst:f:imperf:aff		
+> erodowane	erodować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:aff		
+> erodowane	erodować	ppas:sg:nom.acc.voc:n1.n2:imperf:aff		
+> erodowanego	erodować	ppas:sg:acc:m1.m2:imperf:aff		
+> erodowanego	erodować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:aff		
+> erodowanej	erodować	ppas:sg:gen.dat.loc:f:imperf:aff		
+> erodowanemu	erodować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:aff		
+742806a742815
+> erodowani	erodować	ppas:pl:nom.voc:m1.p1:imperf:aff		
+742809a742819,742825
+> erodowanych	erodować	ppas:pl:acc:m1.p1:imperf:aff		
+> erodowanych	erodować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> erodowany	erodować	ppas:sg:acc:m3:imperf:aff		
+> erodowany	erodować	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> erodowanym	erodować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+> erodowanym	erodować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:aff		
+> erodowanymi	erodować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:aff		
+742837a742854,742861
+> nieerodowana	erodować	ppas:sg:nom.voc:f:imperf:neg		
+> nieerodowaną	erodować	ppas:sg:acc.inst:f:imperf:neg		
+> nieerodowane	erodować	ppas:pl:nom.acc.voc:m2.m3.f.n1.n2.p2.p3:imperf:neg		
+> nieerodowane	erodować	ppas:sg:nom.acc.voc:n1.n2:imperf:neg		
+> nieerodowanego	erodować	ppas:sg:acc:m1.m2:imperf:neg		
+> nieerodowanego	erodować	ppas:sg:gen:m1.m2.m3.n1.n2:imperf:neg		
+> nieerodowanej	erodować	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieerodowanemu	erodować	ppas:sg:dat:m1.m2.m3.n1.n2:imperf:neg		
+742843a742868
+> nieerodowani	erodować	ppas:pl:nom.voc:m1.p1:imperf:neg		
+742845a742871,742877
+> nieerodowanych	erodować	ppas:pl:acc:m1.p1:imperf:neg		
+> nieerodowanych	erodować	ppas:pl:gen.loc:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieerodowany	erodować	ppas:sg:acc:m3:imperf:neg		
+> nieerodowany	erodować	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieerodowanym	erodować	ppas:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+> nieerodowanym	erodować	ppas:sg:inst.loc:m1.m2.m3.n1.n2:imperf:neg		
+> nieerodowanymi	erodować	ppas:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:imperf:neg		
+4248223a4248256,4248273
+> Pragermanach	Pragermanin	subst:pl:loc:m1	nazwa pospolita	
+> Pragermanami	Pragermanin	subst:pl:inst:m1	nazwa pospolita	
+> Pragermanie	Pragermanin	subst:pl:nom:m1	nazwa pospolita	
+> Pragermanie	Pragermanin	subst:pl:voc:m1	nazwa pospolita	
+> Pragermanina	Pragermanin	subst:sg:acc:m1	nazwa pospolita	
+> Pragermanina	Pragermanin	subst:sg:gen:m1	nazwa pospolita	
+> Pragermaninem	Pragermanin	subst:sg:inst:m1	nazwa pospolita	
+> Pragermaninie	Pragermanin	subst:sg:loc:m1	nazwa pospolita	
+> Pragermaninie	Pragermanin	subst:sg:voc:m1	nazwa pospolita	
+> Pragermaninowi	Pragermanin	subst:sg:dat:m1	nazwa pospolita	
+> Pragermanin	Pragermanin	subst:sg:nom:m1	nazwa pospolita	
+> Pragermanom	Pragermanin	subst:pl:dat:m1	nazwa pospolita	
+> Pragermanowie	Pragermanin	subst:pl:nom:m1	nazwa pospolita	
+> Pragermanowie	Pragermanin	subst:pl:voc:m1	nazwa pospolita	
+> Pragermanów	Pragermanin	subst:pl:acc:m1	nazwa pospolita	
+> Pragermanów	Pragermanin	subst:pl:gen:m1	nazwa pospolita	
+> Pragermany	Pragermanin	depr:pl:nom:m2	nazwa pospolita	
+> Pragermany	Pragermanin	depr:pl:voc:m2	nazwa pospolita	

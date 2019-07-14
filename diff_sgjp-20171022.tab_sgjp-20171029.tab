@@ -1,0 +1,527 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.10.22
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.10.29
+107,119c107,120
+< Abakanowicza	Abakanowicz	subst:sg:gen.acc:m1	nazwisko	
+< Abakanowicz	Abakanowicz	subst:sg:nom:m1	nazwisko	
+< Abakanowiczach	Abakanowicz	subst:pl:loc:m1	nazwisko	
+< Abakanowiczami	Abakanowicz	subst:pl:inst:m1	nazwisko	
+< Abakanowicze	Abakanowicz	depr:pl:nom.acc.voc:m2	nazwisko	
+< Abakanowicze	Abakanowicz	subst:pl:nom.voc:m1	nazwisko	
+< Abakanowiczem	Abakanowicz	subst:sg:inst:m1	nazwisko	
+< Abakanowiczom	Abakanowicz	subst:pl:dat:m1	nazwisko	
+< Abakanowiczowi	Abakanowicz	subst:sg:dat:m1	nazwisko	
+< Abakanowiczowie	Abakanowicz	subst:pl:nom.voc:m1	nazwisko	
+< Abakanowiczów	Abakanowicz	subst:pl:gen.acc:m1	nazwisko	
+< Abakanowiczu	Abakanowicz	subst:sg:loc:m1	nazwisko	
+< Abakanowiczu	Abakanowicz	subst:sg:voc:m1	nazwisko	
+---
+> Abakanowicza	Abakanowicz:s1	subst:sg:gen.acc:m1	nazwisko	
+> Abakanowicz	Abakanowicz:s1	subst:sg:nom:m1	nazwisko	
+> Abakanowiczach	Abakanowicz:s1	subst:pl:loc:m1	nazwisko	
+> Abakanowiczami	Abakanowicz:s1	subst:pl:inst:m1	nazwisko	
+> Abakanowicze	Abakanowicz:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+> Abakanowicze	Abakanowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+> Abakanowiczem	Abakanowicz:s1	subst:sg:inst:m1	nazwisko	
+> Abakanowiczom	Abakanowicz:s1	subst:pl:dat:m1	nazwisko	
+> Abakanowiczowi	Abakanowicz:s1	subst:sg:dat:m1	nazwisko	
+> Abakanowiczowie	Abakanowicz:s1	subst:pl:nom.voc:m1	nazwisko	
+> Abakanowiczów	Abakanowicz:s1	subst:pl:gen.acc:m1	nazwisko	
+> Abakanowiczu	Abakanowicz:s1	subst:sg:loc:m1	nazwisko	
+> Abakanowiczu	Abakanowicz:s1	subst:sg:voc:m1	nazwisko	
+> Abakanowicz	Abakanowicz:s2	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:f	nazwisko	
+115169,115179c115170,115181
+< bajronistycznościach	bajronistyczność	subst:pl:loc:f	nazwa pospolita	
+< bajronistycznościami	bajronistyczność	subst:pl:inst:f	nazwa pospolita	
+< bajronistycznością	bajronistyczność	subst:sg:inst:f	nazwa pospolita	
+< bajronistyczności	bajronistyczność	subst:pl:gen:f	nazwa pospolita	
+< bajronistyczności	bajronistyczność	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< bajronistyczności	bajronistyczność	subst:sg:dat.loc:f	nazwa pospolita	
+< bajronistyczności	bajronistyczność	subst:sg:gen:f	nazwa pospolita	
+< bajronistyczności	bajronistyczność	subst:sg:voc:f	nazwa pospolita	
+< bajronistycznościom	bajronistyczność	subst:pl:dat:f	nazwa pospolita	
+< bajronistyczność	bajronistyczność	subst:sg:acc:f	nazwa pospolita	
+< bajronistyczność	bajronistyczność	subst:sg:nom:f	nazwa pospolita	
+---
+> bajronistycznie	bajronistycznie	adv:pos		
+> bajronistycznościach	bajronistyczność	subst:pl:loc:f		
+> bajronistycznościami	bajronistyczność	subst:pl:inst:f		
+> bajronistycznością	bajronistyczność	subst:sg:inst:f		
+> bajronistyczności	bajronistyczność	subst:pl:gen:f		
+> bajronistyczności	bajronistyczność	subst:pl:nom.acc.voc:f		
+> bajronistyczności	bajronistyczność	subst:sg:dat.loc:f		
+> bajronistyczności	bajronistyczność	subst:sg:gen:f		
+> bajronistyczności	bajronistyczność	subst:sg:voc:f		
+> bajronistycznościom	bajronistyczność	subst:pl:dat:f		
+> bajronistyczność	bajronistyczność	subst:sg:acc:f		
+> bajronistyczność	bajronistyczność	subst:sg:nom:f		
+267728c267730
+< Cassino	Cassino	burk		
+---
+> Cassino	Cassino	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	człon nazwy geograficznej	
+325301a325304
+> cichusio	cichusio	adv:pos		
+451978a451982
+> dnieprowo	dnieprowo	adv:pos		
+452061a452066
+> dniestrowo	dniestrowo	adv:pos		
+703355a703361
+> fetyszystycznie	fetyszystycznie	adv:pos		
+830283,830294c830289,830312
+< Grobelnego	Grobelny	subst:sg:gen.acc:m1	nazwisko	
+< Grobelne	Grobelny	depr:pl:nom.acc.voc:m2	nazwisko	
+< Grobelnemu	Grobelny	subst:sg:dat:m1	nazwisko	
+< Grobelni	Grobelny	subst:pl:nom.voc:m1	nazwisko	
+< Grobelnych	Grobelny	subst:pl:gen.acc:m1	nazwisko	
+< Grobelnych	Grobelny	subst:pl:loc:m1	nazwisko	
+< Grobelny	Grobelny	subst:sg:nom:m1	nazwisko	
+< Grobelny	Grobelny	subst:sg:voc:m1	nazwisko	
+< Grobelnym	Grobelny	subst:pl:dat:m1	nazwisko	
+< Grobelnym	Grobelny	subst:sg:inst:m1	nazwisko	
+< Grobelnym	Grobelny	subst:sg:loc:m1	nazwisko	
+< Grobelnymi	Grobelny	subst:pl:inst:m1	nazwisko	
+---
+> Grobelnego	Grobelny:s1	subst:sg:gen.acc:m1	nazwisko	
+> Grobelne	Grobelny:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+> Grobelnemu	Grobelny:s1	subst:sg:dat:m1	nazwisko	
+> Grobelni	Grobelny:s1	subst:pl:nom.voc:m1	nazwisko	
+> Grobelnych	Grobelny:s1	subst:pl:gen.acc:m1	nazwisko	
+> Grobelnych	Grobelny:s1	subst:pl:loc:m1	nazwisko	
+> Grobelny	Grobelny:s1	subst:sg:nom:m1	nazwisko	
+> Grobelny	Grobelny:s1	subst:sg:voc:m1	nazwisko	
+> Grobelnym	Grobelny:s1	subst:pl:dat:m1	nazwisko	
+> Grobelnym	Grobelny:s1	subst:sg:inst:m1	nazwisko	
+> Grobelnym	Grobelny:s1	subst:sg:loc:m1	nazwisko	
+> Grobelnymi	Grobelny:s1	subst:pl:inst:m1	nazwisko	
+> Grobelnego	Grobelny:s2	subst:sg:gen.acc:m1	nazwisko	
+> Grobelne	Grobelny:s2	depr:pl:nom.acc.voc:m2	nazwisko	
+> Grobelnemu	Grobelny:s2	subst:sg:dat:m1	nazwisko	
+> Grobelni	Grobelny:s2	subst:pl:nom.voc:m1	nazwisko	
+> Grobelnych	Grobelny:s2	subst:pl:gen.acc:m1	nazwisko	
+> Grobelnych	Grobelny:s2	subst:pl:loc:m1	nazwisko	
+> Grobelny	Grobelny:s2	subst:sg:nom:m1	nazwisko	
+> Grobelny	Grobelny:s2	subst:sg:voc:m1	nazwisko	
+> Grobelnym	Grobelny:s2	subst:pl:dat:m1	nazwisko	
+> Grobelnym	Grobelny:s2	subst:sg:inst:m1	nazwisko	
+> Grobelnym	Grobelny:s2	subst:sg:loc:m1	nazwisko	
+> Grobelnymi	Grobelny:s2	subst:pl:inst:m1	nazwisko	
+1064085a1064104,1064114
+> keach	kea	subst:pl:loc:f	nazwa firmy	
+> kea	kea	subst:sg:nom:f	nazwa firmy	
+> keami	kea	subst:pl:inst:f	nazwa firmy	
+> keą	kea	subst:sg:inst:f	nazwa firmy	
+> kee	kea	subst:pl:nom.acc.voc:f	nazwa firmy	
+> keę	kea	subst:sg:acc:f	nazwa firmy	
+> kei	kea	subst:pl:gen:f	nazwa firmy	
+> kei	kea	subst:sg:dat.loc:f	nazwa firmy	
+> kei	kea	subst:sg:gen:f	nazwa firmy	
+> keo	kea	subst:sg:voc:f	nazwa firmy	
+> keom	kea	subst:pl:dat:f	nazwa firmy	
+1599503a1599533,1599544
+> nai	naja	subst:pl:gen:f	nazwa pospolita	hom.
+> nai	naja	subst:sg:dat.loc:f	nazwa pospolita	
+> nai	naja	subst:sg:gen:f	nazwa pospolita	
+> najach	naja	subst:pl:loc:f	nazwa pospolita	
+> najami	naja	subst:pl:inst:f	nazwa pospolita	
+> naja	naja	subst:sg:nom:f	nazwa pospolita	
+> nają	naja	subst:sg:inst:f	nazwa pospolita	
+> naje	naja	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> naję	naja	subst:sg:acc:f	nazwa pospolita	
+> naj	naja	subst:pl:gen:f	nazwa pospolita	char.
+> najom	naja	subst:pl:dat:f	nazwa pospolita	
+> najo	naja	subst:sg:voc:f	nazwa pospolita	
+1762500,1762533c1762541,1762552
+< niebajronistycznościach	niebajronistyczność	subst:pl:loc:f	nazwa pospolita	
+< niebajronistycznościami	niebajronistyczność	subst:pl:inst:f	nazwa pospolita	
+< niebajronistycznością	niebajronistyczność	subst:sg:inst:f	nazwa pospolita	
+< niebajronistyczności	niebajronistyczność	subst:pl:gen:f	nazwa pospolita	
+< niebajronistyczności	niebajronistyczność	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< niebajronistyczności	niebajronistyczność	subst:sg:dat.loc:f	nazwa pospolita	
+< niebajronistyczności	niebajronistyczność	subst:sg:gen:f	nazwa pospolita	
+< niebajronistyczności	niebajronistyczność	subst:sg:voc:f	nazwa pospolita	
+< niebajronistycznościom	niebajronistyczność	subst:pl:dat:f	nazwa pospolita	
+< niebajronistyczność	niebajronistyczność	subst:sg:acc:f	nazwa pospolita	
+< niebajronistyczność	niebajronistyczność	subst:sg:nom:f	nazwa pospolita	
+< niebajronistyczna	niebajronistyczny	adj:sg:nom.voc:f:pos		
+< niebajronistyczną	niebajronistyczny	adj:sg:acc:f:pos		
+< niebajronistyczną	niebajronistyczny	adj:sg:inst:f:pos		
+< niebajronistycznego	niebajronistyczny	adj:sg:acc:m1.m2:pos		
+< niebajronistycznego	niebajronistyczny	adj:sg:gen:m1.m2.m3.n:pos		
+< niebajronistycznej	niebajronistyczny	adj:sg:dat:f:pos		
+< niebajronistycznej	niebajronistyczny	adj:sg:gen:f:pos		
+< niebajronistycznej	niebajronistyczny	adj:sg:loc:f:pos		
+< niebajronistycznemu	niebajronistyczny	adj:sg:dat:m1.m2.m3.n:pos		
+< niebajronistyczne	niebajronistyczny	adj:pl:acc:m2.m3.f.n:pos		
+< niebajronistyczne	niebajronistyczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+< niebajronistyczne	niebajronistyczny	adj:sg:acc:n:pos		
+< niebajronistyczne	niebajronistyczny	adj:sg:nom.voc:n:pos		
+< niebajronistyczni	niebajronistyczny	adj:pl:nom.voc:m1:pos		
+< niebajronistycznych	niebajronistyczny	adj:pl:acc:m1:pos		
+< niebajronistycznych	niebajronistyczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+< niebajronistycznych	niebajronistyczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+< niebajronistycznymi	niebajronistyczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+< niebajronistycznym	niebajronistyczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+< niebajronistycznym	niebajronistyczny	adj:sg:inst:m1.m2.m3.n:pos		
+< niebajronistycznym	niebajronistyczny	adj:sg:loc:m1.m2.m3.n:pos		
+< niebajronistyczny	niebajronistyczny	adj:sg:acc:m3:pos		
+< niebajronistyczny	niebajronistyczny	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> niebajronistycznie	niebajronistycznie	adv:pos		
+> niebajronistycznościach	niebajronistyczność	subst:pl:loc:f		
+> niebajronistycznościami	niebajronistyczność	subst:pl:inst:f		
+> niebajronistycznością	niebajronistyczność	subst:sg:inst:f		
+> niebajronistyczności	niebajronistyczność	subst:pl:gen:f		
+> niebajronistyczności	niebajronistyczność	subst:pl:nom.acc.voc:f		
+> niebajronistyczności	niebajronistyczność	subst:sg:dat.loc:f		
+> niebajronistyczności	niebajronistyczność	subst:sg:gen:f		
+> niebajronistyczności	niebajronistyczność	subst:sg:voc:f		
+> niebajronistycznościom	niebajronistyczność	subst:pl:dat:f		
+> niebajronistyczność	niebajronistyczność	subst:sg:acc:f		
+> niebajronistyczność	niebajronistyczność	subst:sg:nom:f		
+1839163a1839183
+> niecichusio	niecichusio	adv:pos		
+1879987a1880008
+> niednieprowo	niednieprowo	adv:pos		
+1946587a1946609
+> niefetyszystycznie	niefetyszystycznie	adv:pos		
+2300315a2300338
+> nieomierzle	nieomierzle	adv:pos		
+2300374a2300398
+> nieomierźle	nieomierźle	adv:pos		
+2320545,2320578d2320568
+< nieowamtościach	nieowamtość	subst:pl:loc:f	nazwa pospolita	
+< nieowamtościami	nieowamtość	subst:pl:inst:f	nazwa pospolita	
+< nieowamtością	nieowamtość	subst:sg:inst:f	nazwa pospolita	
+< nieowamtości	nieowamtość	subst:pl:gen:f	nazwa pospolita	
+< nieowamtości	nieowamtość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< nieowamtości	nieowamtość	subst:sg:dat.loc:f	nazwa pospolita	
+< nieowamtości	nieowamtość	subst:sg:gen:f	nazwa pospolita	
+< nieowamtości	nieowamtość	subst:sg:voc:f	nazwa pospolita	
+< nieowamtościom	nieowamtość	subst:pl:dat:f	nazwa pospolita	
+< nieowamtość	nieowamtość	subst:sg:acc:f	nazwa pospolita	
+< nieowamtość	nieowamtość	subst:sg:nom:f	nazwa pospolita	
+< nieowamci	nieowamty	adj:pl:nom.voc:m1:pos		
+< nieowamta	nieowamty	adj:sg:nom.voc:f:pos		
+< nieowamtą	nieowamty	adj:sg:acc:f:pos		
+< nieowamtą	nieowamty	adj:sg:inst:f:pos		
+< nieowamtego	nieowamty	adj:sg:acc:m1.m2:pos		
+< nieowamtego	nieowamty	adj:sg:gen:m1.m2.m3.n:pos		
+< nieowamtej	nieowamty	adj:sg:dat:f:pos		
+< nieowamtej	nieowamty	adj:sg:gen:f:pos		
+< nieowamtej	nieowamty	adj:sg:loc:f:pos		
+< nieowamtemu	nieowamty	adj:sg:dat:m1.m2.m3.n:pos		
+< nieowamte	nieowamty	adj:pl:acc:m2.m3.f.n:pos		
+< nieowamte	nieowamty	adj:pl:nom.voc:m2.m3.f.n:pos		
+< nieowamte	nieowamty	adj:sg:acc:n:pos		
+< nieowamte	nieowamty	adj:sg:nom.voc:n:pos		
+< nieowamtych	nieowamty	adj:pl:acc:m1:pos		
+< nieowamtych	nieowamty	adj:pl:gen:m1.m2.m3.f.n:pos		
+< nieowamtych	nieowamty	adj:pl:loc:m1.m2.m3.f.n:pos		
+< nieowamtymi	nieowamty	adj:pl:inst:m1.m2.m3.f.n:pos		
+< nieowamtym	nieowamty	adj:pl:dat:m1.m2.m3.f.n:pos		
+< nieowamtym	nieowamty	adj:sg:inst:m1.m2.m3.n:pos		
+< nieowamtym	nieowamty	adj:sg:loc:m1.m2.m3.n:pos		
+< nieowamty	nieowamty	adj:sg:acc:m3:pos		
+< nieowamty	nieowamty	adj:sg:nom.voc:m1.m2.m3:pos		
+2463275a2463266
+> nieprzemierzle	nieprzemierzle	adv:pos		
+2556285a2556277
+> niesdniestrowo	niesdniestrowo	adv:pos		
+2622907a2622900,2622911
+> niesuperancko	niesuperancko	adv:pos		pot.
+> niesuperanckościach	niesuperanckość	subst:pl:loc:f		pot.
+> niesuperanckościami	niesuperanckość	subst:pl:inst:f		pot.
+> niesuperanckością	niesuperanckość	subst:sg:inst:f		pot.
+> niesuperanckości	niesuperanckość	subst:pl:gen:f		pot.
+> niesuperanckości	niesuperanckość	subst:pl:nom.acc.voc:f		pot.
+> niesuperanckości	niesuperanckość	subst:sg:dat.loc:f		pot.
+> niesuperanckości	niesuperanckość	subst:sg:gen:f		pot.
+> niesuperanckości	niesuperanckość	subst:sg:voc:f		pot.
+> niesuperanckościom	niesuperanckość	subst:pl:dat:f		pot.
+> niesuperanckość	niesuperanckość	subst:sg:acc:f		pot.
+> niesuperanckość	niesuperanckość	subst:sg:nom:f		pot.
+2756001a2756006
+> niewklęśle	niewklęśle	adv:pos		
+2841805a2841811
+> niezmierzle	niezmierzle	adv:pos		
+2841899a2841906
+> niezmierźle	niezmierźle	adv:pos		
+3199986a3199994
+> omierzle	omierzle	adv:pos		
+3200242a3200251
+> omierźle	omierźle	adv:pos		
+3307746,3307781c3307755,3307783
+< owamto	owamto	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa pospolita	
+< owamtościach	owamtość	subst:pl:loc:f	nazwa pospolita	
+< owamtościami	owamtość	subst:pl:inst:f	nazwa pospolita	
+< owamtością	owamtość	subst:sg:inst:f	nazwa pospolita	
+< owamtościom	owamtość	subst:pl:dat:f	nazwa pospolita	
+< owamtości	owamtość	subst:pl:gen:f	nazwa pospolita	
+< owamtości	owamtość	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< owamtości	owamtość	subst:sg:dat.loc:f	nazwa pospolita	
+< owamtości	owamtość	subst:sg:gen:f	nazwa pospolita	
+< owamtości	owamtość	subst:sg:voc:f	nazwa pospolita	
+< owamtość	owamtość	subst:sg:acc:f	nazwa pospolita	
+< owamtość	owamtość	subst:sg:nom:f	nazwa pospolita	
+< owamci	owamty	adj:pl:nom.voc:m1:pos		
+< owamta	owamty	adj:sg:nom.voc:f:pos		
+< owamtą	owamty	adj:sg:acc:f:pos		
+< owamtą	owamty	adj:sg:inst:f:pos		
+< owamtego	owamty	adj:sg:acc:m1.m2:pos		
+< owamtego	owamty	adj:sg:gen:m1.m2.m3.n:pos		
+< owamtej	owamty	adj:sg:dat:f:pos		
+< owamtej	owamty	adj:sg:gen:f:pos		
+< owamtej	owamty	adj:sg:loc:f:pos		
+< owamtemu	owamty	adj:sg:dat:m1.m2.m3.n:pos		
+< owamte	owamty	adj:pl:acc:m2.m3.f.n:pos		
+< owamte	owamty	adj:pl:nom.voc:m2.m3.f.n:pos		
+< owamte	owamty	adj:sg:acc:n:pos		
+< owamte	owamty	adj:sg:nom.voc:n:pos		
+< owamto	owamty	adja		
+< owamtych	owamty	adj:pl:acc:m1:pos		
+< owamtych	owamty	adj:pl:gen:m1.m2.m3.f.n:pos		
+< owamtych	owamty	adj:pl:loc:m1.m2.m3.f.n:pos		
+< owamtymi	owamty	adj:pl:inst:m1.m2.m3.f.n:pos		
+< owamtym	owamty	adj:pl:dat:m1.m2.m3.f.n:pos		
+< owamtym	owamty	adj:sg:inst:m1.m2.m3.n:pos		
+< owamtym	owamty	adj:sg:loc:m1.m2.m3.n:pos		
+< owamty	owamty	adj:sg:acc:m3:pos		
+< owamty	owamty	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> owamci	owamten	adj:pl:nom.voc:m1:pos		
+> owamta	owamten	adj:sg:nom.voc:f:pos		
+> owamtą	owamten	adj:sg:acc:f:pos		
+> owamtą	owamten	adj:sg:inst:f:pos		
+> owamtego	owamten	adj:sg:acc:m1.m2:pos		
+> owamtego	owamten	adj:sg:gen:m1.m2.m3.n:pos		
+> owamtej	owamten	adj:sg:dat:f:pos		
+> owamtej	owamten	adj:sg:gen:f:pos		
+> owamtej	owamten	adj:sg:loc:f:pos		
+> owamtemu	owamten	adj:sg:dat:m1.m2.m3.n:pos		
+> owamten	owamten	adj:sg:acc:m3:pos		
+> owamten	owamten	adj:sg:nom.voc:m1.m2.m3:pos		
+> owamte	owamten	adj:pl:acc:m2.m3.f.n:pos		
+> owamte	owamten	adj:pl:nom.voc:m2.m3.f.n:pos		
+> owamto	owamten	adj:sg:acc:n:pos		
+> owamto	owamten	adj:sg:nom.voc:n:pos		
+> owamtych	owamten	adj:pl:acc:m1:pos		
+> owamtych	owamten	adj:pl:gen:m1.m2.m3.f.n:pos		
+> owamtych	owamten	adj:pl:loc:m1.m2.m3.f.n:pos		
+> owamtymi	owamten	adj:pl:inst:m1.m2.m3.f.n:pos		
+> owamtym	owamten	adj:pl:dat:m1.m2.m3.f.n:pos		
+> owamtym	owamten	adj:sg:inst:m1.m2.m3.n:pos		
+> owamtym	owamten	adj:sg:loc:m1.m2.m3.n:pos		
+> owamtego	owamto	subst:sg:gen:n:ncol	nazwa pospolita	
+> owamtemu	owamto	subst:sg:dat:n:ncol	nazwa pospolita	
+> owamto	owamto	subst:sg:acc:n:ncol	nazwa pospolita	
+> owamto	owamto	subst:sg:nom:n:ncol	nazwa pospolita	
+> owamtym	owamto	subst:sg:inst:n:ncol	nazwa pospolita	
+> owamtym	owamto	subst:sg:loc:n:ncol	nazwa pospolita	
+3767410a3767413,3767420
+> nieposzkapiana	poszkapiać	ppas:sg:nom.voc:f:imperf:neg		
+> nieposzkapianą	poszkapiać	ppas:sg:acc.inst:f:imperf:neg		
+> nieposzkapianego	poszkapiać	ppas:sg:acc:m1.m2:imperf:neg		
+> nieposzkapianego	poszkapiać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieposzkapianej	poszkapiać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieposzkapianemu	poszkapiać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieposzkapiane	poszkapiać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieposzkapiane	poszkapiać	ppas:sg:nom.acc.voc:n:imperf:neg		
+3767417a3767428
+> nieposzkapiani	poszkapiać	ppas:pl:nom.voc:m1:imperf:neg		
+3767418a3767430,3767436
+> nieposzkapianych	poszkapiać	ppas:pl:acc:m1:imperf:neg		
+> nieposzkapianych	poszkapiać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieposzkapianymi	poszkapiać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieposzkapianym	poszkapiać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieposzkapianym	poszkapiać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieposzkapiany	poszkapiać	ppas:sg:acc:m3:imperf:neg		
+> nieposzkapiany	poszkapiać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+3767480a3767499,3767506
+> poszkapiana	poszkapiać	ppas:sg:nom.voc:f:imperf:aff		
+> poszkapianą	poszkapiać	ppas:sg:acc.inst:f:imperf:aff		
+> poszkapianego	poszkapiać	ppas:sg:acc:m1.m2:imperf:aff		
+> poszkapianego	poszkapiać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> poszkapianej	poszkapiać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> poszkapianemu	poszkapiać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> poszkapiane	poszkapiać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> poszkapiane	poszkapiać	ppas:sg:nom.acc.voc:n:imperf:aff		
+3767487a3767514
+> poszkapiani	poszkapiać	ppas:pl:nom.voc:m1:imperf:aff		
+3767489a3767517,3767523
+> poszkapianych	poszkapiać	ppas:pl:acc:m1:imperf:aff		
+> poszkapianych	poszkapiać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> poszkapianymi	poszkapiać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> poszkapianym	poszkapiać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> poszkapianym	poszkapiać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> poszkapiany	poszkapiać	ppas:sg:acc:m3:imperf:aff		
+> poszkapiany	poszkapiać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+3767518,3767521c3767552,3767555
+< poszkapcie	poszkapić	impt:pl:sec:perf		
+< poszkapią	poszkapić	fin:pl:ter:perf		
+< poszkapicie	poszkapić	fin:pl:sec:perf		
+< poszkapić	poszkapić	inf:perf		
+---
+> poszkapcie	poszkapić	impt:pl:sec:perf		pot.
+> poszkapią	poszkapić	fin:pl:ter:perf		pot.
+> poszkapicie	poszkapić	fin:pl:sec:perf		pot.
+> poszkapić	poszkapić	inf:perf		pot.
+3767532,3767568c3767566,3767602
+< poszkapię	poszkapić	fin:sg:pri:perf		
+< poszkapiliby	poszkapić	cond:pl:m1:ter:perf		
+< poszkapilibyście	poszkapić	cond:pl:m1:sec:perf		
+< poszkapilibyśmy	poszkapić	cond:pl:m1:pri:perf		
+< poszkapili	poszkapić	praet:pl:m1:perf		
+< poszkapili	poszkapić	praet:pl:m1:ter:perf		
+< poszkapiliście	poszkapić	praet:pl:m1:sec:perf		
+< poszkapiliśmy	poszkapić	praet:pl:m1:pri:perf		
+< poszkapiłabym	poszkapić	cond:sg:f:pri:perf		
+< poszkapiłaby	poszkapić	cond:sg:f:ter:perf		
+< poszkapiłabyś	poszkapić	cond:sg:f:sec:perf		
+< poszkapiłam	poszkapić	praet:sg:f:pri:perf		
+< poszkapiła	poszkapić	praet:sg:f:perf		
+< poszkapiła	poszkapić	praet:sg:f:ter:perf		
+< poszkapiłaś	poszkapić	praet:sg:f:sec:perf		
+< poszkapiłbym	poszkapić	cond:sg:m1.m2.m3:pri:perf		
+< poszkapiłby	poszkapić	cond:sg:m1.m2.m3:ter:perf		
+< poszkapiłbyś	poszkapić	cond:sg:m1.m2.m3:sec:perf		
+< poszkapiłem	poszkapić	praet:sg:m1.m2.m3:pri:perf		
+< poszkapiłeś	poszkapić	praet:sg:m1.m2.m3:sec:perf		
+< poszkapiłobym	poszkapić	cond:sg:n:pri:perf		
+< poszkapiłoby	poszkapić	cond:sg:n:ter:perf		
+< poszkapiłobyś	poszkapić	cond:sg:n:sec:perf		
+< poszkapiłom	poszkapić	praet:sg:n:pri:perf		
+< poszkapiło	poszkapić	praet:sg:n:perf		
+< poszkapiło	poszkapić	praet:sg:n:ter:perf		
+< poszkapiłoś	poszkapić	praet:sg:n:sec:perf		
+< poszkapił	poszkapić	praet:sg:m1.m2.m3:perf		
+< poszkapił	poszkapić	praet:sg:m1.m2.m3:ter:perf		
+< poszkapiłyby	poszkapić	cond:pl:m2.m3.f.n:ter:perf		
+< poszkapiłybyście	poszkapić	cond:pl:m2.m3.f.n:sec:perf		
+< poszkapiłybyśmy	poszkapić	cond:pl:m2.m3.f.n:pri:perf		
+< poszkapiły	poszkapić	praet:pl:m2.m3.f.n:perf		
+< poszkapiły	poszkapić	praet:pl:m2.m3.f.n:ter:perf		
+< poszkapiłyście	poszkapić	praet:pl:m2.m3.f.n:sec:perf		
+< poszkapiłyśmy	poszkapić	praet:pl:m2.m3.f.n:pri:perf		
+< poszkapimy	poszkapić	fin:pl:pri:perf		
+---
+> poszkapię	poszkapić	fin:sg:pri:perf		pot.
+> poszkapiliby	poszkapić	cond:pl:m1:ter:perf		pot.
+> poszkapilibyście	poszkapić	cond:pl:m1:sec:perf		pot.
+> poszkapilibyśmy	poszkapić	cond:pl:m1:pri:perf		pot.
+> poszkapili	poszkapić	praet:pl:m1:perf		pot.
+> poszkapili	poszkapić	praet:pl:m1:ter:perf		pot.
+> poszkapiliście	poszkapić	praet:pl:m1:sec:perf		pot.
+> poszkapiliśmy	poszkapić	praet:pl:m1:pri:perf		pot.
+> poszkapiłabym	poszkapić	cond:sg:f:pri:perf		pot.
+> poszkapiłaby	poszkapić	cond:sg:f:ter:perf		pot.
+> poszkapiłabyś	poszkapić	cond:sg:f:sec:perf		pot.
+> poszkapiłam	poszkapić	praet:sg:f:pri:perf		pot.
+> poszkapiła	poszkapić	praet:sg:f:perf		pot.
+> poszkapiła	poszkapić	praet:sg:f:ter:perf		pot.
+> poszkapiłaś	poszkapić	praet:sg:f:sec:perf		pot.
+> poszkapiłbym	poszkapić	cond:sg:m1.m2.m3:pri:perf		pot.
+> poszkapiłby	poszkapić	cond:sg:m1.m2.m3:ter:perf		pot.
+> poszkapiłbyś	poszkapić	cond:sg:m1.m2.m3:sec:perf		pot.
+> poszkapiłem	poszkapić	praet:sg:m1.m2.m3:pri:perf		pot.
+> poszkapiłeś	poszkapić	praet:sg:m1.m2.m3:sec:perf		pot.
+> poszkapiłobym	poszkapić	cond:sg:n:pri:perf		pot.
+> poszkapiłoby	poszkapić	cond:sg:n:ter:perf		pot.
+> poszkapiłobyś	poszkapić	cond:sg:n:sec:perf		pot.
+> poszkapiłom	poszkapić	praet:sg:n:pri:perf		pot.
+> poszkapiło	poszkapić	praet:sg:n:perf		pot.
+> poszkapiło	poszkapić	praet:sg:n:ter:perf		pot.
+> poszkapiłoś	poszkapić	praet:sg:n:sec:perf		pot.
+> poszkapił	poszkapić	praet:sg:m1.m2.m3:perf		pot.
+> poszkapił	poszkapić	praet:sg:m1.m2.m3:ter:perf		pot.
+> poszkapiłyby	poszkapić	cond:pl:m2.m3.f.n:ter:perf		pot.
+> poszkapiłybyście	poszkapić	cond:pl:m2.m3.f.n:sec:perf		pot.
+> poszkapiłybyśmy	poszkapić	cond:pl:m2.m3.f.n:pri:perf		pot.
+> poszkapiły	poszkapić	praet:pl:m2.m3.f.n:perf		pot.
+> poszkapiły	poszkapić	praet:pl:m2.m3.f.n:ter:perf		pot.
+> poszkapiłyście	poszkapić	praet:pl:m2.m3.f.n:sec:perf		pot.
+> poszkapiłyśmy	poszkapić	praet:pl:m2.m3.f.n:pri:perf		pot.
+> poszkapimy	poszkapić	fin:pl:pri:perf		pot.
+3767577c3767611
+< poszkapiono	poszkapić	imps:perf		
+---
+> poszkapiono	poszkapić	imps:perf		pot.
+3767585,3767589c3767619,3767623
+< poszkapi	poszkapić	fin:sg:ter:perf		
+< poszkapisz	poszkapić	fin:sg:sec:perf		
+< poszkapiwszy	poszkapić	pant:perf		
+< poszkapmy	poszkapić	impt:pl:pri:perf		
+< poszkap	poszkapić	impt:sg:sec:perf		
+---
+> poszkapi	poszkapić	fin:sg:ter:perf		pot.
+> poszkapisz	poszkapić	fin:sg:sec:perf		pot.
+> poszkapiwszy	poszkapić	pant:perf		pot.
+> poszkapmy	poszkapić	impt:pl:pri:perf		pot.
+> poszkap	poszkapić	impt:sg:sec:perf		pot.
+4043256a4043291
+> przemierzle	przemierzle	adv:pos		
+4888296a4888332,4888368
+> superanccy	superancki	adj:pl:nom.voc:m1:pos		pot.
+> superancka	superancki	adj:sg:nom.voc:f:pos		pot.
+> superancką	superancki	adj:sg:acc:f:pos		pot.
+> superancką	superancki	adj:sg:inst:f:pos		pot.
+> superanckich	superancki	adj:pl:acc:m1:pos		pot.
+> superanckich	superancki	adj:pl:gen:m1.m2.m3.f.n:pos		pot.
+> superanckich	superancki	adj:pl:loc:m1.m2.m3.f.n:pos		pot.
+> superanckiego	superancki	adj:sg:acc:m1.m2:pos		pot.
+> superanckiego	superancki	adj:sg:gen:m1.m2.m3.n:pos		pot.
+> superanckiej	superancki	adj:sg:dat:f:pos		pot.
+> superanckiej	superancki	adj:sg:gen:f:pos		pot.
+> superanckiej	superancki	adj:sg:loc:f:pos		pot.
+> superanckiemu	superancki	adj:sg:dat:m1.m2.m3.n:pos		pot.
+> superanckie	superancki	adj:pl:acc:m2.m3.f.n:pos		pot.
+> superanckie	superancki	adj:pl:nom.voc:m2.m3.f.n:pos		pot.
+> superanckie	superancki	adj:sg:acc:n:pos		pot.
+> superanckie	superancki	adj:sg:nom.voc:n:pos		pot.
+> superanckimi	superancki	adj:pl:inst:m1.m2.m3.f.n:pos		pot.
+> superanckim	superancki	adj:pl:dat:m1.m2.m3.f.n:pos		pot.
+> superanckim	superancki	adj:sg:inst:m1.m2.m3.n:pos		pot.
+> superanckim	superancki	adj:sg:loc:m1.m2.m3.n:pos		pot.
+> superancki	superancki	adj:sg:acc:m3:pos		pot.
+> superancki	superancki	adj:sg:nom.voc:m1.m2.m3:pos		pot.
+> superancko	superancki	adja		pot.
+> superancku	superancki	adjp		pot.
+> superancko	superancko	adv:pos		pot.
+> superanckościach	superanckość	subst:pl:loc:f		pot.
+> superanckościami	superanckość	subst:pl:inst:f		pot.
+> superanckością	superanckość	subst:sg:inst:f		pot.
+> superanckościom	superanckość	subst:pl:dat:f		pot.
+> superanckości	superanckość	subst:pl:gen:f		pot.
+> superanckości	superanckość	subst:pl:nom.acc.voc:f		pot.
+> superanckości	superanckość	subst:sg:dat.loc:f		pot.
+> superanckości	superanckość	subst:sg:gen:f		pot.
+> superanckości	superanckość	subst:sg:voc:f		pot.
+> superanckość	superanckość	subst:sg:acc:f		pot.
+> superanckość	superanckość	subst:sg:nom:f		pot.
+4993167c4993239,4993244
+< śmo	śmo	subst:sg:nom:n:ncol		
+---
+> śmego	śmo	subst:sg:gen:n:ncol	nazwa pospolita	
+> śmemu	śmo	subst:sg:dat:n:ncol	nazwa pospolita	
+> śmo	śmo	subst:sg:acc:n:ncol	nazwa pospolita	
+> śmo	śmo	subst:sg:nom:n:ncol	nazwa pospolita	
+> śmym	śmo	subst:sg:inst:n:ncol	nazwa pospolita	
+> śmym	śmo	subst:sg:loc:n:ncol	nazwa pospolita	
+5110610a5110688,5110698
+> tujonach	tujon	subst:pl:loc:m3	nazwa pospolita	chem.
+> tujonami	tujon	subst:pl:inst:m3	nazwa pospolita	chem.
+> tujonem	tujon	subst:sg:inst:m3	nazwa pospolita	chem.
+> tujonie	tujon	subst:sg:loc:m3	nazwa pospolita	chem.
+> tujonie	tujon	subst:sg:voc:m3	nazwa pospolita	chem.
+> tujonom	tujon	subst:pl:dat:m3	nazwa pospolita	chem.
+> tujonowi	tujon	subst:sg:dat:m3	nazwa pospolita	chem.
+> tujonów	tujon	subst:pl:gen:m3	nazwa pospolita	chem.
+> tujon	tujon	subst:sg:nom.acc:m3	nazwa pospolita	chem.
+> tujonu	tujon	subst:sg:gen:m3	nazwa pospolita	chem.
+> tujony	tujon	subst:pl:nom.acc.voc:m3	nazwa pospolita	chem.
+5460571a5460660
+> wklęśle	wklęśle	adv:pos		
+6304565a6304655
+> zmierzle	zmierzle	adv:pos		
+6305051a6305142
+> zmierźle	zmierźle	adv:pos		

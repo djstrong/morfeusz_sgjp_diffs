@@ -1,0 +1,41 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.03.03
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.03.24
+5799464,5799474c5799464,5799474
+< swołoczach	swołocz	subst:pl:loc:f	nazwa_pospolita	
+< swołoczami	swołocz	subst:pl:inst:f	nazwa_pospolita	
+< swołoczą	swołocz	subst:sg:inst:f	nazwa_pospolita	
+< swołocze	swołocz	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+< swołoczom	swołocz	subst:pl:dat:f	nazwa_pospolita	
+< swołocz	swołocz	subst:sg:acc:f	nazwa_pospolita	
+< swołocz	swołocz	subst:sg:nom:f	nazwa_pospolita	
+< swołoczy	swołocz	subst:pl:gen:f	nazwa_pospolita	
+< swołoczy	swołocz	subst:sg:dat.loc:f	nazwa_pospolita	
+< swołoczy	swołocz	subst:sg:gen:f	nazwa_pospolita	
+< swołoczy	swołocz	subst:sg:voc:f	nazwa_pospolita	
+---
+> swołoczach	swołocz	subst:pl:loc:f	nazwa_pospolita	pogard.
+> swołoczami	swołocz	subst:pl:inst:f	nazwa_pospolita	pogard.
+> swołoczą	swołocz	subst:sg:inst:f	nazwa_pospolita	pogard.
+> swołocze	swołocz	subst:pl:nom.acc.voc:f	nazwa_pospolita	pogard.
+> swołoczom	swołocz	subst:pl:dat:f	nazwa_pospolita	pogard.
+> swołocz	swołocz	subst:sg:acc:f	nazwa_pospolita	pogard.
+> swołocz	swołocz	subst:sg:nom:f	nazwa_pospolita	pogard.
+> swołoczy	swołocz	subst:pl:gen:f	nazwa_pospolita	pogard.
+> swołoczy	swołocz	subst:sg:dat.loc:f	nazwa_pospolita	pogard.
+> swołoczy	swołocz	subst:sg:gen:f	nazwa_pospolita	pogard.
+> swołoczy	swołocz	subst:sg:voc:f	nazwa_pospolita	pogard.
+5843699a5843700,5843711
+> szczujniach	szczujnia	subst:pl:loc:f	nazwa_pospolita	pogard.|pot.
+> szczujniami	szczujnia	subst:pl:inst:f	nazwa_pospolita	pogard.|pot.
+> szczujnia	szczujnia	subst:sg:nom:f	nazwa_pospolita	pogard.|pot.
+> szczujnią	szczujnia	subst:sg:inst:f	nazwa_pospolita	pogard.|pot.
+> szczujnie	szczujnia	subst:pl:nom.acc.voc:f	nazwa_pospolita	pogard.|pot.
+> szczujnię	szczujnia	subst:sg:acc:f	nazwa_pospolita	pogard.|pot.
+> szczujniom	szczujnia	subst:pl:dat:f	nazwa_pospolita	pogard.|pot.
+> szczujnio	szczujnia	subst:sg:voc:f	nazwa_pospolita	pogard.|pot.
+> szczujni	szczujnia	subst:pl:gen:f	nazwa_pospolita	hom.|pogard.|pot.
+> szczujni	szczujnia	subst:sg:dat.loc:f	nazwa_pospolita	pogard.|pot.
+> szczujni	szczujnia	subst:sg:gen:f	nazwa_pospolita	pogard.|pot.
+> szczujń	szczujnia	subst:pl:gen:f	nazwa_pospolita	char.|pogard.|pot.

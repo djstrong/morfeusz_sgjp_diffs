@@ -1,0 +1,309 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.05.13
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.05.20
+1506885a1506886,1506896
+> kociarce	kociarka	subst:sg:dat.loc:f	nazwa_pospolita	pot.
+> kociarek	kociarka	subst:pl:gen:f	nazwa_pospolita	pot.
+> kociarkach	kociarka	subst:pl:loc:f	nazwa_pospolita	pot.
+> kociarka	kociarka	subst:sg:nom:f	nazwa_pospolita	pot.
+> kociarkami	kociarka	subst:pl:inst:f	nazwa_pospolita	pot.
+> kociarką	kociarka	subst:sg:inst:f	nazwa_pospolita	pot.
+> kociarkę	kociarka	subst:sg:acc:f	nazwa_pospolita	pot.
+> kociarki	kociarka	subst:pl:nom.acc.voc:f	nazwa_pospolita	pot.
+> kociarki	kociarka	subst:sg:gen:f	nazwa_pospolita	pot.
+> kociarko	kociarka	subst:sg:voc:f	nazwa_pospolita	pot.
+> kociarkom	kociarka	subst:pl:dat:f	nazwa_pospolita	pot.
+1938635a1938647,1938657
+> Margrabowa	Margrabowa	subst:sg:nom:f	nazwa_geograficzna	
+> Margrabowa	Margrabowa	subst:sg:voc:f	nazwa_geograficzna	
+> Margrabową	Margrabowa	subst:sg:acc:f	nazwa_geograficzna	
+> Margrabową	Margrabowa	subst:sg:inst:f	nazwa_geograficzna	
+> Margrabowej	Margrabowa	subst:sg:dat.loc:f	nazwa_geograficzna	
+> Margrabowej	Margrabowa	subst:sg:gen:f	nazwa_geograficzna	
+> Margrabowe	Margrabowa	subst:pl:nom.acc.voc:f	nazwa_geograficzna	
+> Margrabowych	Margrabowa	subst:pl:gen:f	nazwa_geograficzna	
+> Margrabowych	Margrabowa	subst:pl:loc:f	nazwa_geograficzna	
+> Margrabowymi	Margrabowa	subst:pl:inst:f	nazwa_geograficzna	
+> Margrabowym	Margrabowa	subst:pl:dat:f	nazwa_geograficzna	
+3147936a3147959,3147993
+> nierozsypankowościach	nierozsypankowość	subst:pl:loc:f		
+> nierozsypankowościami	nierozsypankowość	subst:pl:inst:f		
+> nierozsypankowością	nierozsypankowość	subst:sg:inst:f		
+> nierozsypankowości	nierozsypankowość	subst:pl:gen:f		
+> nierozsypankowości	nierozsypankowość	subst:pl:nom.acc.voc:f		
+> nierozsypankowości	nierozsypankowość	subst:sg:dat.loc:f		
+> nierozsypankowości	nierozsypankowość	subst:sg:gen:f		
+> nierozsypankowości	nierozsypankowość	subst:sg:voc:f		
+> nierozsypankowościom	nierozsypankowość	subst:pl:dat:f		
+> nierozsypankowość	nierozsypankowość	subst:sg:acc:f		
+> nierozsypankowość	nierozsypankowość	subst:sg:nom:f		
+> nierozsypankowa	nierozsypankowy	adj:sg:nom.voc:f:pos		
+> nierozsypankową	nierozsypankowy	adj:sg:acc:f:pos		
+> nierozsypankową	nierozsypankowy	adj:sg:inst:f:pos		
+> nierozsypankowego	nierozsypankowy	adj:sg:acc:m1.m2:pos		
+> nierozsypankowego	nierozsypankowy	adj:sg:gen:m1.m2.m3.n:pos		
+> nierozsypankowej	nierozsypankowy	adj:sg:dat:f:pos		
+> nierozsypankowej	nierozsypankowy	adj:sg:gen:f:pos		
+> nierozsypankowej	nierozsypankowy	adj:sg:loc:f:pos		
+> nierozsypankowemu	nierozsypankowy	adj:sg:dat:m1.m2.m3.n:pos		
+> nierozsypankowe	nierozsypankowy	adj:pl:acc:m2.m3.f.n:pos		
+> nierozsypankowe	nierozsypankowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nierozsypankowe	nierozsypankowy	adj:sg:acc:n:pos		
+> nierozsypankowe	nierozsypankowy	adj:sg:nom.voc:n:pos		
+> nierozsypankowi	nierozsypankowy	adj:pl:nom.voc:m1:pos		
+> nierozsypankowo	nierozsypankowy	adja		
+> nierozsypankowych	nierozsypankowy	adj:pl:acc:m1:pos		
+> nierozsypankowych	nierozsypankowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nierozsypankowych	nierozsypankowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nierozsypankowymi	nierozsypankowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nierozsypankowym	nierozsypankowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nierozsypankowym	nierozsypankowy	adj:sg:inst:m1.m2.m3.n:pos		
+> nierozsypankowym	nierozsypankowy	adj:sg:loc:m1.m2.m3.n:pos		
+> nierozsypankowy	nierozsypankowy	adj:sg:acc:m3:pos		
+> nierozsypankowy	nierozsypankowy	adj:sg:nom.voc:m1.m2.m3:pos		
+3758094a3758152,3758281
+> nieodszydełkowująca	odszydełkowywać	pact:sg:nom.voc:f:imperf:neg		
+> nieodszydełkowującą	odszydełkowywać	pact:sg:acc.inst:f:imperf:neg		
+> nieodszydełkowującego	odszydełkowywać	pact:sg:acc:m1.m2:imperf:neg		
+> nieodszydełkowującego	odszydełkowywać	pact:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieodszydełkowującej	odszydełkowywać	pact:sg:gen.dat.loc:f:imperf:neg		
+> nieodszydełkowującemu	odszydełkowywać	pact:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieodszydełkowujące	odszydełkowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieodszydełkowujące	odszydełkowywać	pact:sg:nom.acc.voc:n:imperf:neg		
+> nieodszydełkowujących	odszydełkowywać	pact:pl:acc:m1:imperf:neg		
+> nieodszydełkowujących	odszydełkowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieodszydełkowującymi	odszydełkowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieodszydełkowującym	odszydełkowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieodszydełkowującym	odszydełkowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieodszydełkowujący	odszydełkowywać	pact:pl:nom.voc:m1:imperf:neg		
+> nieodszydełkowujący	odszydełkowywać	pact:sg:acc:m3:imperf:neg		
+> nieodszydełkowujący	odszydełkowywać	pact:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieodszydełkowywana	odszydełkowywać	ppas:sg:nom.voc:f:imperf:neg		
+> nieodszydełkowywaną	odszydełkowywać	ppas:sg:acc.inst:f:imperf:neg		
+> nieodszydełkowywanego	odszydełkowywać	ppas:sg:acc:m1.m2:imperf:neg		
+> nieodszydełkowywanego	odszydełkowywać	ppas:sg:gen:m1.m2.m3.n:imperf:neg		
+> nieodszydełkowywanej	odszydełkowywać	ppas:sg:gen.dat.loc:f:imperf:neg		
+> nieodszydełkowywanemu	odszydełkowywać	ppas:sg:dat:m1.m2.m3.n:imperf:neg		
+> nieodszydełkowywane	odszydełkowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		
+> nieodszydełkowywane	odszydełkowywać	ppas:sg:nom.acc.voc:n:imperf:neg		
+> nieodszydełkowywaniach	odszydełkowywać	ger:pl:loc:n:imperf:neg		
+> nieodszydełkowywaniami	odszydełkowywać	ger:pl:inst:n:imperf:neg		
+> nieodszydełkowywania	odszydełkowywać	ger:pl:nom.acc:n:imperf:neg		
+> nieodszydełkowywania	odszydełkowywać	ger:sg:gen:n:imperf:neg		
+> nieodszydełkowywaniem	odszydełkowywać	ger:sg:inst:n:imperf:neg		
+> nieodszydełkowywanie	odszydełkowywać	ger:sg:nom.acc:n:imperf:neg		
+> nieodszydełkowywani	odszydełkowywać	ppas:pl:nom.voc:m1:imperf:neg		
+> nieodszydełkowywaniom	odszydełkowywać	ger:pl:dat:n:imperf:neg		
+> nieodszydełkowywaniu	odszydełkowywać	ger:sg:dat.loc:n:imperf:neg		
+> nieodszydełkowywanych	odszydełkowywać	ppas:pl:acc:m1:imperf:neg		
+> nieodszydełkowywanych	odszydełkowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		
+> nieodszydełkowywanymi	odszydełkowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:neg		
+> nieodszydełkowywanym	odszydełkowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:neg		
+> nieodszydełkowywanym	odszydełkowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:neg		
+> nieodszydełkowywany	odszydełkowywać	ppas:sg:acc:m3:imperf:neg		
+> nieodszydełkowywany	odszydełkowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:neg		
+> nieodszydełkowywań	odszydełkowywać	ger:pl:gen:n:imperf:neg		
+> odszydełkowująca	odszydełkowywać	pact:sg:nom.voc:f:imperf:aff		
+> odszydełkowującą	odszydełkowywać	pact:sg:acc.inst:f:imperf:aff		
+> odszydełkowującego	odszydełkowywać	pact:sg:acc:m1.m2:imperf:aff		
+> odszydełkowującego	odszydełkowywać	pact:sg:gen:m1.m2.m3.n:imperf:aff		
+> odszydełkowującej	odszydełkowywać	pact:sg:gen.dat.loc:f:imperf:aff		
+> odszydełkowującemu	odszydełkowywać	pact:sg:dat:m1.m2.m3.n:imperf:aff		
+> odszydełkowujące	odszydełkowywać	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> odszydełkowujące	odszydełkowywać	pact:sg:nom.acc.voc:n:imperf:aff		
+> odszydełkowując	odszydełkowywać	pcon:imperf		
+> odszydełkowująco	odszydełkowywać	pacta		
+> odszydełkowujących	odszydełkowywać	pact:pl:acc:m1:imperf:aff		
+> odszydełkowujących	odszydełkowywać	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> odszydełkowującymi	odszydełkowywać	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> odszydełkowującym	odszydełkowywać	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> odszydełkowującym	odszydełkowywać	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> odszydełkowujący	odszydełkowywać	pact:pl:nom.voc:m1:imperf:aff		
+> odszydełkowujący	odszydełkowywać	pact:sg:acc:m3:imperf:aff		
+> odszydełkowujący	odszydełkowywać	pact:sg:nom.voc:m1.m2.m3:imperf:aff		
+> odszydełkowują	odszydełkowywać	fin:pl:ter:imperf		
+> odszydełkowujcie	odszydełkowywać	impt:pl:sec:imperf		
+> odszydełkowujecie	odszydełkowywać	fin:pl:sec:imperf		
+> odszydełkowujemy	odszydełkowywać	fin:pl:pri:imperf		
+> odszydełkowuje	odszydełkowywać	fin:sg:ter:imperf		
+> odszydełkowujesz	odszydełkowywać	fin:sg:sec:imperf		
+> odszydełkowuję	odszydełkowywać	fin:sg:pri:imperf		
+> odszydełkowujmy	odszydełkowywać	impt:pl:pri:imperf		
+> odszydełkowuj	odszydełkowywać	impt:sg:sec:imperf		
+> odszydełkowywać	odszydełkowywać	inf:imperf		
+> odszydełkowywaliby	odszydełkowywać	cond:pl:m1:ter:imperf		
+> odszydełkowywalibyście	odszydełkowywać	cond:pl:m1:sec:imperf		
+> odszydełkowywalibyśmy	odszydełkowywać	cond:pl:m1:pri:imperf		
+> odszydełkowywali	odszydełkowywać	praet:pl:m1:imperf		
+> odszydełkowywali	odszydełkowywać	praet:pl:m1:ter:imperf		
+> odszydełkowywaliście	odszydełkowywać	praet:pl:m1:sec:imperf		
+> odszydełkowywaliśmy	odszydełkowywać	praet:pl:m1:pri:imperf		
+> odszydełkowywałabym	odszydełkowywać	cond:sg:f:pri:imperf		
+> odszydełkowywałaby	odszydełkowywać	cond:sg:f:ter:imperf		
+> odszydełkowywałabyś	odszydełkowywać	cond:sg:f:sec:imperf		
+> odszydełkowywałam	odszydełkowywać	praet:sg:f:pri:imperf		
+> odszydełkowywała	odszydełkowywać	praet:sg:f:imperf		
+> odszydełkowywała	odszydełkowywać	praet:sg:f:ter:imperf		
+> odszydełkowywałaś	odszydełkowywać	praet:sg:f:sec:imperf		
+> odszydełkowywałbym	odszydełkowywać	cond:sg:m1.m2.m3:pri:imperf		
+> odszydełkowywałby	odszydełkowywać	cond:sg:m1.m2.m3:ter:imperf		
+> odszydełkowywałbyś	odszydełkowywać	cond:sg:m1.m2.m3:sec:imperf		
+> odszydełkowywałem	odszydełkowywać	praet:sg:m1.m2.m3:pri:imperf		
+> odszydełkowywałeś	odszydełkowywać	praet:sg:m1.m2.m3:sec:imperf		
+> odszydełkowywałobym	odszydełkowywać	cond:sg:n:pri:imperf		
+> odszydełkowywałoby	odszydełkowywać	cond:sg:n:ter:imperf		
+> odszydełkowywałobyś	odszydełkowywać	cond:sg:n:sec:imperf		
+> odszydełkowywał	odszydełkowywać	praet:sg:m1.m2.m3:imperf		
+> odszydełkowywał	odszydełkowywać	praet:sg:m1.m2.m3:ter:imperf		
+> odszydełkowywałom	odszydełkowywać	praet:sg:n:pri:imperf		
+> odszydełkowywało	odszydełkowywać	praet:sg:n:imperf		
+> odszydełkowywało	odszydełkowywać	praet:sg:n:ter:imperf		
+> odszydełkowywałoś	odszydełkowywać	praet:sg:n:sec:imperf		
+> odszydełkowywałyby	odszydełkowywać	cond:pl:m2.m3.f.n:ter:imperf		
+> odszydełkowywałybyście	odszydełkowywać	cond:pl:m2.m3.f.n:sec:imperf		
+> odszydełkowywałybyśmy	odszydełkowywać	cond:pl:m2.m3.f.n:pri:imperf		
+> odszydełkowywały	odszydełkowywać	praet:pl:m2.m3.f.n:imperf		
+> odszydełkowywały	odszydełkowywać	praet:pl:m2.m3.f.n:ter:imperf		
+> odszydełkowywałyście	odszydełkowywać	praet:pl:m2.m3.f.n:sec:imperf		
+> odszydełkowywałyśmy	odszydełkowywać	praet:pl:m2.m3.f.n:pri:imperf		
+> odszydełkowywana	odszydełkowywać	ppas:sg:nom.voc:f:imperf:aff		
+> odszydełkowywaną	odszydełkowywać	ppas:sg:acc.inst:f:imperf:aff		
+> odszydełkowywanego	odszydełkowywać	ppas:sg:acc:m1.m2:imperf:aff		
+> odszydełkowywanego	odszydełkowywać	ppas:sg:gen:m1.m2.m3.n:imperf:aff		
+> odszydełkowywanej	odszydełkowywać	ppas:sg:gen.dat.loc:f:imperf:aff		
+> odszydełkowywanemu	odszydełkowywać	ppas:sg:dat:m1.m2.m3.n:imperf:aff		
+> odszydełkowywane	odszydełkowywać	ppas:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		
+> odszydełkowywane	odszydełkowywać	ppas:sg:nom.acc.voc:n:imperf:aff		
+> odszydełkowywaniach	odszydełkowywać	ger:pl:loc:n:imperf:aff		
+> odszydełkowywaniami	odszydełkowywać	ger:pl:inst:n:imperf:aff		
+> odszydełkowywania	odszydełkowywać	ger:pl:nom.acc:n:imperf:aff		
+> odszydełkowywania	odszydełkowywać	ger:sg:gen:n:imperf:aff		
+> odszydełkowywaniem	odszydełkowywać	ger:sg:inst:n:imperf:aff		
+> odszydełkowywanie	odszydełkowywać	ger:sg:nom.acc:n:imperf:aff		
+> odszydełkowywani	odszydełkowywać	ppas:pl:nom.voc:m1:imperf:aff		
+> odszydełkowywaniom	odszydełkowywać	ger:pl:dat:n:imperf:aff		
+> odszydełkowywaniu	odszydełkowywać	ger:sg:dat.loc:n:imperf:aff		
+> odszydełkowywano	odszydełkowywać	imps:imperf		
+> odszydełkowywanych	odszydełkowywać	ppas:pl:acc:m1:imperf:aff		
+> odszydełkowywanych	odszydełkowywać	ppas:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		
+> odszydełkowywanymi	odszydełkowywać	ppas:pl:inst:m1.m2.m3.f.n:imperf:aff		
+> odszydełkowywanym	odszydełkowywać	ppas:pl:dat:m1.m2.m3.f.n:imperf:aff		
+> odszydełkowywanym	odszydełkowywać	ppas:sg:inst.loc:m1.m2.m3.n:imperf:aff		
+> odszydełkowywany	odszydełkowywać	ppas:sg:acc:m3:imperf:aff		
+> odszydełkowywany	odszydełkowywać	ppas:sg:nom.voc:m1.m2.m3:imperf:aff		
+> odszydełkowywań	odszydełkowywać	ger:pl:gen:n:imperf:aff		
+4503196a4503384,4503448
+> nieposzydełkowaniach	poszydełkować	ger:pl:loc:n:perf:neg		
+> nieposzydełkowaniami	poszydełkować	ger:pl:inst:n:perf:neg		
+> nieposzydełkowania	poszydełkować	ger:pl:nom.acc:n:perf:neg		
+> nieposzydełkowania	poszydełkować	ger:sg:gen:n:perf:neg		
+> nieposzydełkowaniem	poszydełkować	ger:sg:inst:n:perf:neg		
+> nieposzydełkowanie	poszydełkować	ger:sg:nom.acc:n:perf:neg		
+> nieposzydełkowaniom	poszydełkować	ger:pl:dat:n:perf:neg		
+> nieposzydełkowaniu	poszydełkować	ger:sg:dat.loc:n:perf:neg		
+> nieposzydełkowań	poszydełkować	ger:pl:gen:n:perf:neg		
+> poszydełkować	poszydełkować	inf:perf		
+> poszydełkowaliby	poszydełkować	cond:pl:m1:ter:perf		
+> poszydełkowalibyście	poszydełkować	cond:pl:m1:sec:perf		
+> poszydełkowalibyśmy	poszydełkować	cond:pl:m1:pri:perf		
+> poszydełkowali	poszydełkować	praet:pl:m1:perf		
+> poszydełkowali	poszydełkować	praet:pl:m1:ter:perf		
+> poszydełkowaliście	poszydełkować	praet:pl:m1:sec:perf		
+> poszydełkowaliśmy	poszydełkować	praet:pl:m1:pri:perf		
+> poszydełkowałabym	poszydełkować	cond:sg:f:pri:perf		
+> poszydełkowałaby	poszydełkować	cond:sg:f:ter:perf		
+> poszydełkowałabyś	poszydełkować	cond:sg:f:sec:perf		
+> poszydełkowałam	poszydełkować	praet:sg:f:pri:perf		
+> poszydełkowała	poszydełkować	praet:sg:f:perf		
+> poszydełkowała	poszydełkować	praet:sg:f:ter:perf		
+> poszydełkowałaś	poszydełkować	praet:sg:f:sec:perf		
+> poszydełkowałbym	poszydełkować	cond:sg:m1.m2.m3:pri:perf		
+> poszydełkowałby	poszydełkować	cond:sg:m1.m2.m3:ter:perf		
+> poszydełkowałbyś	poszydełkować	cond:sg:m1.m2.m3:sec:perf		
+> poszydełkowałem	poszydełkować	praet:sg:m1.m2.m3:pri:perf		
+> poszydełkowałeś	poszydełkować	praet:sg:m1.m2.m3:sec:perf		
+> poszydełkowałobym	poszydełkować	cond:sg:n:pri:perf		
+> poszydełkowałoby	poszydełkować	cond:sg:n:ter:perf		
+> poszydełkowałobyś	poszydełkować	cond:sg:n:sec:perf		
+> poszydełkowałom	poszydełkować	praet:sg:n:pri:perf		
+> poszydełkowało	poszydełkować	praet:sg:n:perf		
+> poszydełkowało	poszydełkować	praet:sg:n:ter:perf		
+> poszydełkowałoś	poszydełkować	praet:sg:n:sec:perf		
+> poszydełkował	poszydełkować	praet:sg:m1.m2.m3:perf		
+> poszydełkował	poszydełkować	praet:sg:m1.m2.m3:ter:perf		
+> poszydełkowałyby	poszydełkować	cond:pl:m2.m3.f.n:ter:perf		
+> poszydełkowałybyście	poszydełkować	cond:pl:m2.m3.f.n:sec:perf		
+> poszydełkowałybyśmy	poszydełkować	cond:pl:m2.m3.f.n:pri:perf		
+> poszydełkowały	poszydełkować	praet:pl:m2.m3.f.n:perf		
+> poszydełkowały	poszydełkować	praet:pl:m2.m3.f.n:ter:perf		
+> poszydełkowałyście	poszydełkować	praet:pl:m2.m3.f.n:sec:perf		
+> poszydełkowałyśmy	poszydełkować	praet:pl:m2.m3.f.n:pri:perf		
+> poszydełkowaniach	poszydełkować	ger:pl:loc:n:perf:aff		
+> poszydełkowaniami	poszydełkować	ger:pl:inst:n:perf:aff		
+> poszydełkowania	poszydełkować	ger:pl:nom.acc:n:perf:aff		
+> poszydełkowania	poszydełkować	ger:sg:gen:n:perf:aff		
+> poszydełkowaniem	poszydełkować	ger:sg:inst:n:perf:aff		
+> poszydełkowanie	poszydełkować	ger:sg:nom.acc:n:perf:aff		
+> poszydełkowaniom	poszydełkować	ger:pl:dat:n:perf:aff		
+> poszydełkowaniu	poszydełkować	ger:sg:dat.loc:n:perf:aff		
+> poszydełkowano	poszydełkować	imps:perf		
+> poszydełkowań	poszydełkować	ger:pl:gen:n:perf:aff		
+> poszydełkowawszy	poszydełkować	pant:perf		
+> poszydełkują	poszydełkować	fin:pl:ter:perf		
+> poszydełkujcie	poszydełkować	impt:pl:sec:perf		
+> poszydełkujecie	poszydełkować	fin:pl:sec:perf		
+> poszydełkujemy	poszydełkować	fin:pl:pri:perf		
+> poszydełkuje	poszydełkować	fin:sg:ter:perf		
+> poszydełkujesz	poszydełkować	fin:sg:sec:perf		
+> poszydełkuję	poszydełkować	fin:sg:pri:perf		
+> poszydełkujmy	poszydełkować	impt:pl:pri:perf		
+> poszydełkuj	poszydełkować	impt:sg:sec:perf		
+5290699a5290952,5290986
+> rozsypankowościach	rozsypankowość	subst:pl:loc:f		
+> rozsypankowościami	rozsypankowość	subst:pl:inst:f		
+> rozsypankowością	rozsypankowość	subst:sg:inst:f		
+> rozsypankowościom	rozsypankowość	subst:pl:dat:f		
+> rozsypankowości	rozsypankowość	subst:pl:gen:f		
+> rozsypankowości	rozsypankowość	subst:pl:nom.acc.voc:f		
+> rozsypankowości	rozsypankowość	subst:sg:dat.loc:f		
+> rozsypankowości	rozsypankowość	subst:sg:gen:f		
+> rozsypankowości	rozsypankowość	subst:sg:voc:f		
+> rozsypankowość	rozsypankowość	subst:sg:acc:f		
+> rozsypankowość	rozsypankowość	subst:sg:nom:f		
+> rozsypankowa	rozsypankowy	adj:sg:nom.voc:f:pos		
+> rozsypankową	rozsypankowy	adj:sg:acc:f:pos		
+> rozsypankową	rozsypankowy	adj:sg:inst:f:pos		
+> rozsypankowego	rozsypankowy	adj:sg:acc:m1.m2:pos		
+> rozsypankowego	rozsypankowy	adj:sg:gen:m1.m2.m3.n:pos		
+> rozsypankowej	rozsypankowy	adj:sg:dat:f:pos		
+> rozsypankowej	rozsypankowy	adj:sg:gen:f:pos		
+> rozsypankowej	rozsypankowy	adj:sg:loc:f:pos		
+> rozsypankowemu	rozsypankowy	adj:sg:dat:m1.m2.m3.n:pos		
+> rozsypankowe	rozsypankowy	adj:pl:acc:m2.m3.f.n:pos		
+> rozsypankowe	rozsypankowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> rozsypankowe	rozsypankowy	adj:sg:acc:n:pos		
+> rozsypankowe	rozsypankowy	adj:sg:nom.voc:n:pos		
+> rozsypankowi	rozsypankowy	adj:pl:nom.voc:m1:pos		
+> rozsypankowo	rozsypankowy	adja		
+> rozsypankowych	rozsypankowy	adj:pl:acc:m1:pos		
+> rozsypankowych	rozsypankowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> rozsypankowych	rozsypankowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> rozsypankowymi	rozsypankowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> rozsypankowym	rozsypankowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> rozsypankowym	rozsypankowy	adj:sg:inst:m1.m2.m3.n:pos		
+> rozsypankowym	rozsypankowy	adj:sg:loc:m1.m2.m3.n:pos		
+> rozsypankowy	rozsypankowy	adj:sg:acc:m3:pos		
+> rozsypankowy	rozsypankowy	adj:sg:nom.voc:m1.m2.m3:pos		
+5290853a5291141,5291151
+> rozsypnikach	rozsypnik	subst:pl:loc:m3	nazwa_pospolita	
+> rozsypnikami	rozsypnik	subst:pl:inst:m3	nazwa_pospolita	
+> rozsypnika	rozsypnik	subst:sg:gen:m3	nazwa_pospolita	
+> rozsypnikiem	rozsypnik	subst:sg:inst:m3	nazwa_pospolita	
+> rozsypniki	rozsypnik	subst:pl:nom.acc.voc:m3	nazwa_pospolita	
+> rozsypnikom	rozsypnik	subst:pl:dat:m3	nazwa_pospolita	
+> rozsypnikowi	rozsypnik	subst:sg:dat:m3	nazwa_pospolita	
+> rozsypników	rozsypnik	subst:pl:gen:m3	nazwa_pospolita	
+> rozsypnik	rozsypnik	subst:sg:nom.acc:m3	nazwa_pospolita	
+> rozsypniku	rozsypnik	subst:sg:loc:m3	nazwa_pospolita	
+> rozsypniku	rozsypnik	subst:sg:voc:m3	nazwa_pospolita	

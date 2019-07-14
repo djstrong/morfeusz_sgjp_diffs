@@ -1,0 +1,105 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.08.16
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.08.20
+187171a187172,187218
+> biotronicznie	biotronicznie	adv:pos		
+> biotronicznościach	biotroniczność	subst:pl:loc:f		
+> biotronicznościami	biotroniczność	subst:pl:inst:f		
+> biotronicznością	biotroniczność	subst:sg:inst:f		
+> biotroniczności	biotroniczność	subst:pl:gen:f		
+> biotroniczności	biotroniczność	subst:pl:nom.acc.voc:f		
+> biotroniczności	biotroniczność	subst:sg:dat.loc:f		
+> biotroniczności	biotroniczność	subst:sg:gen:f		
+> biotroniczności	biotroniczność	subst:sg:voc:f		
+> biotronicznościom	biotroniczność	subst:pl:dat:f		
+> biotroniczność	biotroniczność	subst:sg:acc:f		
+> biotroniczność	biotroniczność	subst:sg:nom:f		
+> biotroniczna	biotroniczny	adj:sg:nom.voc:f:pos		
+> biotroniczną	biotroniczny	adj:sg:acc:f:pos		
+> biotroniczną	biotroniczny	adj:sg:inst:f:pos		
+> biotroniczne	biotroniczny	adj:pl:acc:m2.m3.f.n:pos		
+> biotroniczne	biotroniczny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> biotroniczne	biotroniczny	adj:sg:acc:n:pos		
+> biotroniczne	biotroniczny	adj:sg:nom.voc:n:pos		
+> biotronicznego	biotroniczny	adj:sg:acc:m1.m2:pos		
+> biotronicznego	biotroniczny	adj:sg:gen:m1.m2.m3.n:pos		
+> biotronicznej	biotroniczny	adj:sg:dat:f:pos		
+> biotronicznej	biotroniczny	adj:sg:gen:f:pos		
+> biotronicznej	biotroniczny	adj:sg:loc:f:pos		
+> biotronicznemu	biotroniczny	adj:sg:dat:m1.m2.m3.n:pos		
+> biotroniczni	biotroniczny	adj:pl:nom.voc:m1:pos		
+> biotroniczno	biotroniczny	adja		
+> biotroniczny	biotroniczny	adj:sg:acc:m3:pos		
+> biotroniczny	biotroniczny	adj:sg:nom.voc:m1.m2.m3:pos		
+> biotronicznych	biotroniczny	adj:pl:acc:m1:pos		
+> biotronicznych	biotroniczny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> biotronicznych	biotroniczny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> biotronicznym	biotroniczny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> biotronicznym	biotroniczny	adj:sg:inst:m1.m2.m3.n:pos		
+> biotronicznym	biotroniczny	adj:sg:loc:m1.m2.m3.n:pos		
+> biotronicznymi	biotroniczny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> biotronice	biotronika	subst:sg:dat.loc:f	nazwa pospolita	
+> biotronika	biotronika	subst:sg:nom:f	nazwa pospolita	
+> biotronikach	biotronika	subst:pl:loc:f	nazwa pospolita	
+> biotronikami	biotronika	subst:pl:inst:f	nazwa pospolita	
+> biotroniką	biotronika	subst:sg:inst:f	nazwa pospolita	
+> biotronik	biotronika	subst:pl:gen:f	nazwa pospolita	
+> biotronikę	biotronika	subst:sg:acc:f	nazwa pospolita	
+> biotroniki	biotronika	subst:pl:nom.acc.voc:f	nazwa pospolita	
+> biotroniki	biotronika	subst:sg:gen:f	nazwa pospolita	
+> biotroniko	biotronika	subst:sg:voc:f	nazwa pospolita	
+> biotronikom	biotronika	subst:pl:dat:f	nazwa pospolita	
+1792916a1792964,1792975
+> niebiotronicznie	niebiotronicznie	adv:pos		
+> niebiotronicznościach	niebiotroniczność	subst:pl:loc:f		
+> niebiotronicznościami	niebiotroniczność	subst:pl:inst:f		
+> niebiotronicznością	niebiotroniczność	subst:sg:inst:f		
+> niebiotroniczności	niebiotroniczność	subst:pl:gen:f		
+> niebiotroniczności	niebiotroniczność	subst:pl:nom.acc.voc:f		
+> niebiotroniczności	niebiotroniczność	subst:sg:dat.loc:f		
+> niebiotroniczności	niebiotroniczność	subst:sg:gen:f		
+> niebiotroniczności	niebiotroniczność	subst:sg:voc:f		
+> niebiotronicznościom	niebiotroniczność	subst:pl:dat:f		
+> niebiotroniczność	niebiotroniczność	subst:sg:acc:f		
+> niebiotroniczność	niebiotroniczność	subst:sg:nom:f		
+3705261a3705321,3705328
+> niepoprzysychana	poprzysychać	ppas:sg:nom.voc:f:perf:neg		
+> niepoprzysychaną	poprzysychać	ppas:sg:acc.inst:f:perf:neg		
+> niepoprzysychanego	poprzysychać	ppas:sg:acc:m1.m2:perf:neg		
+> niepoprzysychanego	poprzysychać	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> niepoprzysychanej	poprzysychać	ppas:sg:gen.dat.loc:f:perf:neg		
+> niepoprzysychanemu	poprzysychać	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> niepoprzysychane	poprzysychać	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> niepoprzysychane	poprzysychać	ppas:sg:nom.acc.voc:n:perf:neg		
+3705268a3705336
+> niepoprzysychani	poprzysychać	ppas:pl:nom.voc:m1:perf:neg		
+3705269a3705338,3705344
+> niepoprzysychanych	poprzysychać	ppas:pl:acc:m1:perf:neg		
+> niepoprzysychanych	poprzysychać	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> niepoprzysychanymi	poprzysychać	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> niepoprzysychanym	poprzysychać	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> niepoprzysychanym	poprzysychać	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> niepoprzysychany	poprzysychać	ppas:sg:acc:m3:perf:neg		
+> niepoprzysychany	poprzysychać	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+3705313a3705389,3705396
+> poprzysychana	poprzysychać	ppas:sg:nom.voc:f:perf:aff		
+> poprzysychaną	poprzysychać	ppas:sg:acc.inst:f:perf:aff		
+> poprzysychanego	poprzysychać	ppas:sg:acc:m1.m2:perf:aff		
+> poprzysychanego	poprzysychać	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> poprzysychanej	poprzysychać	ppas:sg:gen.dat.loc:f:perf:aff		
+> poprzysychanemu	poprzysychać	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> poprzysychane	poprzysychać	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> poprzysychane	poprzysychać	ppas:sg:nom.acc.voc:n:perf:aff		
+3705320a3705404
+> poprzysychani	poprzysychać	ppas:pl:nom.voc:m1:perf:aff		
+3705322a3705407,3705413
+> poprzysychanych	poprzysychać	ppas:pl:acc:m1:perf:aff		
+> poprzysychanych	poprzysychać	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> poprzysychanymi	poprzysychać	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> poprzysychanym	poprzysychać	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> poprzysychanym	poprzysychać	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> poprzysychany	poprzysychać	ppas:sg:acc:m3:perf:aff		
+> poprzysychany	poprzysychać	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+4938420a4938512
+> szlauchu	szlauch	subst:sg:gen:m3	nazwa pospolita	

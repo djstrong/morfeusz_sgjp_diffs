@@ -1,0 +1,745 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.11.26
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.12.03
+52500,52510d52499
+< Angla	Angel	subst:sg:gen.acc:m1	imię	
+< Anglach	Angel	subst:pl:loc:m1	imię	
+< Anglami	Angel	subst:pl:inst:m1	imię	
+< Angle	Angel	depr:pl:nom.acc.voc:m2	imię	
+< Angle	Angel	subst:pl:nom.voc:m1	imię	
+< Anglem	Angel	subst:sg:inst:m1	imię	
+< Angli	Angel	subst:pl:gen.acc:m1	imię	
+< Anglom	Angel	subst:pl:dat:m1	imię	
+< Anglowi	Angel	subst:sg:dat:m1	imię	
+< Anglu	Angel	subst:sg:loc:m1	imię	
+< Anglu	Angel	subst:sg:voc:m1	imię	
+196080,196091c196069,196080
+< Bleriocie	Bleriot	subst:sg:loc:m1	nazwisko	
+< Bleriocie	Bleriot	subst:sg:voc:m1	nazwisko	
+< Bleriota	Bleriot	subst:sg:gen.acc:m1	nazwisko	
+< Bleriotach	Bleriot	subst:pl:loc:m1	nazwisko	
+< Bleriotami	Bleriot	subst:pl:inst:m1	nazwisko	
+< Bleriot	Bleriot	subst:sg:nom:m1	nazwisko	
+< Bleriotem	Bleriot	subst:sg:inst:m1	nazwisko	
+< Bleriotom	Bleriot	subst:pl:dat:m1	nazwisko	
+< Bleriotowi	Bleriot	subst:sg:dat:m1	nazwisko	
+< Bleriotowie	Bleriot	subst:pl:nom.voc:m1	nazwisko	
+< Bleriotów	Bleriot	subst:pl:gen.acc:m1	nazwisko	
+< Blerioty	Bleriot	depr:pl:nom.acc.voc:m2	nazwisko	
+---
+> Blériocie	Blériot	subst:sg:loc:m1	nazwisko	
+> Blériocie	Blériot	subst:sg:voc:m1	nazwisko	
+> Blériota	Blériot	subst:sg:gen.acc:m1	nazwisko	
+> Blériotach	Blériot	subst:pl:loc:m1	nazwisko	
+> Blériotami	Blériot	subst:pl:inst:m1	nazwisko	
+> Blériot	Blériot	subst:sg:nom:m1	nazwisko	
+> Blériotem	Blériot	subst:sg:inst:m1	nazwisko	
+> Blériotom	Blériot	subst:pl:dat:m1	nazwisko	
+> Blériotowi	Blériot	subst:sg:dat:m1	nazwisko	
+> Blériotowie	Blériot	subst:pl:nom.voc:m1	nazwisko	
+> Blériotów	Blériot	subst:pl:gen.acc:m1	nazwisko	
+> Blérioty	Blériot	depr:pl:nom.acc.voc:m2	nazwisko	
+378409a378399
+> czorcie	czort	subst:sg:loc:m1	nazwa pospolita	rzad.|pot.
+378411a378402
+> czorcie	czort	subst:sg:voc:m1	nazwa pospolita	rzad.|pot.
+378413a378405
+> czortach	czort	subst:pl:loc:m1	nazwa pospolita	rzad.|pot.
+378415a378408
+> czorta	czort	subst:sg:gen.acc:m1	nazwa pospolita	rzad.|pot.
+378417a378411
+> czortami	czort	subst:pl:inst:m1	nazwa pospolita	rzad.|pot.
+378419a378414
+> czort	czort	subst:sg:nom:m1	nazwa pospolita	rzad.|pot.
+378421a378417
+> czortem	czort	subst:sg:inst:m1	nazwa pospolita	rzad.|pot.
+378423a378420
+> czortom	czort	subst:pl:dat:m1	nazwa pospolita	rzad.|pot.
+378426c378423
+< czortowie	czort	subst:pl:nom.voc:m1	nazwa pospolita	pot.
+---
+> czortowie	czort	subst:pl:nom.voc:m1	nazwa pospolita	rzad.|pot.
+378427a378425
+> czortów	czort	subst:pl:gen.acc:m1	nazwa pospolita	rzad.|pot.
+378429c378427
+< czortu	czort	subst:sg:dat:m1	nazwa pospolita	pot.
+---
+> czortu	czort	subst:sg:dat:m1	nazwa pospolita	rzad.|pot.
+378431a378430
+> czorty	czort	depr:pl:nom.acc.voc:m2	nazwa pospolita	rzad.|pot.
+432688,432698c432687,432698
+< destruencie	destruent	subst:sg:loc:m2	nazwa pospolita	biol.
+< destruencie	destruent	subst:sg:voc:m2	nazwa pospolita	biol.
+< destruentach	destruent	subst:pl:loc:m2	nazwa pospolita	biol.
+< destruenta	destruent	subst:sg:gen.acc:m2	nazwa pospolita	biol.
+< destruentami	destruent	subst:pl:inst:m2	nazwa pospolita	biol.
+< destruent	destruent	subst:sg:nom:m2	nazwa pospolita	biol.
+< destruentem	destruent	subst:sg:inst:m2	nazwa pospolita	biol.
+< destruentom	destruent	subst:pl:dat:m2	nazwa pospolita	biol.
+< destruentowi	destruent	subst:sg:dat:m2	nazwa pospolita	biol.
+< destruentów	destruent	subst:pl:gen:m2	nazwa pospolita	biol.
+< destruenty	destruent	subst:pl:nom.acc.voc:m2	nazwa pospolita	biol.
+---
+> destruenci	destruent	subst:pl:nom.voc:m1	nazwa pospolita	biol.
+> destruencie	destruent	subst:sg:loc:m1	nazwa pospolita	biol.
+> destruencie	destruent	subst:sg:voc:m1	nazwa pospolita	biol.
+> destruentach	destruent	subst:pl:loc:m1	nazwa pospolita	biol.
+> destruenta	destruent	subst:sg:gen.acc:m1	nazwa pospolita	biol.
+> destruentami	destruent	subst:pl:inst:m1	nazwa pospolita	biol.
+> destruent	destruent	subst:sg:nom:m1	nazwa pospolita	biol.
+> destruentem	destruent	subst:sg:inst:m1	nazwa pospolita	biol.
+> destruentom	destruent	subst:pl:dat:m1	nazwa pospolita	biol.
+> destruentowi	destruent	subst:sg:dat:m1	nazwa pospolita	biol.
+> destruentów	destruent	subst:pl:gen.acc:m1	nazwa pospolita	biol.
+> destruenty	destruent	depr:pl:nom.acc.voc:m2	nazwa pospolita	biol.
+575162a575163,575174
+> Dudziec	Dudziec	subst:sg:nom:m1	nazwisko	
+> Dudźcach	Dudziec	subst:pl:loc:m1	nazwisko	
+> Dudźca	Dudziec	subst:sg:gen.acc:m1	nazwisko	
+> Dudźcami	Dudziec	subst:pl:inst:m1	nazwisko	
+> Dudźce	Dudziec	depr:pl:nom.acc.voc:m2	nazwisko	
+> Dudźcem	Dudziec	subst:sg:inst:m1	nazwisko	
+> Dudźcom	Dudziec	subst:pl:dat:m1	nazwisko	
+> Dudźcowi	Dudziec	subst:sg:dat:m1	nazwisko	
+> Dudźcowie	Dudziec	subst:pl:nom.voc:m1	nazwisko	
+> Dudźców	Dudziec	subst:pl:gen.acc:m1	nazwisko	
+> Dudźcu	Dudziec	subst:sg:loc:m1	nazwisko	
+> Dudźcu	Dudziec	subst:sg:voc:m1	nazwisko	
+755385,755396d755396
+< galach	gal	subst:pl:loc:m3	nazwa pospolita	
+< gala	gal	subst:sg:gen:m3	nazwa pospolita	
+< galami	gal	subst:pl:inst:m3	nazwa pospolita	
+< gale	gal	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< galem	gal	subst:sg:inst:m3	nazwa pospolita	
+< gal	gal	subst:sg:nom.acc:m3	nazwa pospolita	
+< gali	gal	subst:pl:gen:m3	nazwa pospolita	
+< galom	gal	subst:pl:dat:m3	nazwa pospolita	
+< galowi	gal	subst:sg:dat:m3	nazwa pospolita	
+< galu	gal	subst:sg:gen:m3	nazwa pospolita	
+< galu	gal	subst:sg:loc:m3	nazwa pospolita	
+< galu	gal	subst:sg:voc:m3	nazwa pospolita	
+758228a758229,758250
+> galach	gal:s1	subst:pl:loc:m3	nazwa pospolita	
+> galami	gal:s1	subst:pl:inst:m3	nazwa pospolita	
+> gale	gal:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> galem	gal:s1	subst:sg:inst:m3	nazwa pospolita	
+> gal	gal:s1	subst:sg:nom.acc:m3	nazwa pospolita	
+> gali	gal:s1	subst:pl:gen:m3	nazwa pospolita	
+> galom	gal:s1	subst:pl:dat:m3	nazwa pospolita	
+> galowi	gal:s1	subst:sg:dat:m3	nazwa pospolita	
+> galu	gal:s1	subst:sg:gen:m3	nazwa pospolita	
+> galu	gal:s1	subst:sg:loc:m3	nazwa pospolita	
+> galu	gal:s1	subst:sg:voc:m3	nazwa pospolita	
+> galach	gal:s2	subst:pl:loc:m3	nazwa pospolita	
+> gala	gal:s2	subst:sg:gen:m3	nazwa pospolita	
+> galami	gal:s2	subst:pl:inst:m3	nazwa pospolita	
+> gale	gal:s2	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> galem	gal:s2	subst:sg:inst:m3	nazwa pospolita	
+> gal	gal:s2	subst:sg:nom.acc:m3	nazwa pospolita	
+> gali	gal:s2	subst:pl:gen:m3	nazwa pospolita	
+> galom	gal:s2	subst:pl:dat:m3	nazwa pospolita	
+> galowi	gal:s2	subst:sg:dat:m3	nazwa pospolita	
+> galu	gal:s2	subst:sg:loc:m3	nazwa pospolita	
+> galu	gal:s2	subst:sg:voc:m3	nazwa pospolita	
+871557,871567d871578
+< heavymetalach	heavymetal	subst:pl:loc:m3	nazwa pospolita	
+< heavymetalami	heavymetal	subst:pl:inst:m3	nazwa pospolita	
+< heavymetale	heavymetal	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< heavymetalem	heavymetal	subst:sg:inst:m3	nazwa pospolita	
+< heavymetal	heavymetal	subst:sg:nom.acc:m3	nazwa pospolita	
+< heavymetali	heavymetal	subst:pl:gen:m3	nazwa pospolita	
+< heavymetalom	heavymetal	subst:pl:dat:m3	nazwa pospolita	
+< heavymetalowi	heavymetal	subst:sg:dat:m3	nazwa pospolita	
+< heavymetalu	heavymetal	subst:sg:gen:m3	nazwa pospolita	
+< heavymetalu	heavymetal	subst:sg:loc:m3	nazwa pospolita	
+< heavymetalu	heavymetal	subst:sg:voc:m3	nazwa pospolita	
+877289d877299
+< Hendle	Hendel	subst:pl:nom.voc:m1	imię	
+877291d877300
+< Hendli	Hendel	subst:pl:gen.acc:m1	imię	
+877292a877302
+> Hendlowie	Hendel	subst:pl:nom.voc:m1	imię	
+877293a877304
+> Hendlów	Hendel	subst:pl:gen.acc:m1	imię	
+891617a891629,891640
+> Hnizdach	Hnizdo	subst:pl:loc:m1	nazwisko	
+> Hnizdami	Hnizdo	subst:pl:inst:m1	nazwisko	
+> Hnizdą	Hnizdo	subst:sg:inst:m1	nazwisko	
+> Hnizdę	Hnizdo	subst:sg:acc:m1	nazwisko	
+> Hnizdo	Hnizdo	subst:sg:nom:m1	nazwisko	
+> Hnizdo	Hnizdo	subst:sg:voc:m1	nazwisko	
+> Hnizdom	Hnizdo	subst:pl:dat:m1	nazwisko	
+> Hnizdowie	Hnizdo	subst:pl:nom.voc:m1	nazwisko	
+> Hnizdów	Hnizdo	subst:pl:gen.acc:m1	nazwisko	
+> Hnizdy	Hnizdo	depr:pl:nom.acc.voc:m2	nazwisko	
+> Hnizdy	Hnizdo	subst:sg:gen:m1	nazwisko	
+> Hniździe	Hnizdo	subst:sg:dat.loc:m1	nazwisko	
+962859a962883,962905
+> Jagielle	Jagiełła:s1	subst:sg:dat.loc:m1	nazwisko	
+> Jagiełłach	Jagiełła:s1	subst:pl:loc:m1	nazwisko	
+> Jagiełła	Jagiełła:s1	subst:sg:nom:m1	nazwisko	
+> Jagiełłami	Jagiełła:s1	subst:pl:inst:m1	nazwisko	
+> Jagiełłą	Jagiełła:s1	subst:sg:inst:m1	nazwisko	
+> Jagiełłę	Jagiełła:s1	subst:sg:acc:m1	nazwisko	
+> Jagiełło	Jagiełła:s1	subst:sg:voc:m1	nazwisko	
+> Jagiełłom	Jagiełła:s1	subst:pl:dat:m1	nazwisko	
+> Jagiełłowie	Jagiełła:s1	subst:pl:nom.voc:m1	nazwisko	
+> Jagiełłów	Jagiełła:s1	subst:pl:gen.acc:m1	nazwisko	
+> Jagiełły	Jagiełła:s1	depr:pl:nom.acc.voc:m2	nazwisko	
+> Jagiełły	Jagiełła:s1	subst:sg:gen:m1	nazwisko	
+> Jagielle	Jagiełła:s2	subst:sg:dat.loc:f	nazwisko	
+> Jagiełłach	Jagiełła:s2	subst:pl:loc:f	nazwisko	
+> Jagiełła	Jagiełła:s2	subst:sg:nom:f	nazwisko	
+> Jagiełłami	Jagiełła:s2	subst:pl:inst:f	nazwisko	
+> Jagiełłą	Jagiełła:s2	subst:sg:inst:f	nazwisko	
+> Jagiełłę	Jagiełła:s2	subst:sg:acc:f	nazwisko	
+> Jagiełł	Jagiełła:s2	subst:pl:gen:f	nazwisko	
+> Jagiełło	Jagiełła:s2	subst:sg:voc:f	nazwisko	
+> Jagiełłom	Jagiełła:s2	subst:pl:dat:f	nazwisko	
+> Jagiełły	Jagiełła:s2	subst:pl:nom.acc.voc:f	nazwisko	
+> Jagiełły	Jagiełła:s2	subst:sg:gen:f	nazwisko	
+1144016,1144028c1144062,1144074
+< Kondracie	Kondrat	subst:sg:loc:m1	imię	
+< Kondracie	Kondrat	subst:sg:voc:m1	imię	
+< Kondraci	Kondrat	subst:pl:nom.voc:m1	imię	
+< Kondratach	Kondrat	subst:pl:loc:m1	imię	
+< Kondrata	Kondrat	subst:sg:gen.acc:m1	imię	
+< Kondratami	Kondrat	subst:pl:inst:m1	imię	
+< Kondratem	Kondrat	subst:sg:inst:m1	imię	
+< Kondrat	Kondrat	subst:sg:nom:m1	imię	
+< Kondratom	Kondrat	subst:pl:dat:m1	imię	
+< Kondratowie	Kondrat	subst:pl:nom.voc:m1	imię	
+< Kondratowi	Kondrat	subst:sg:dat:m1	imię	
+< Kondratów	Kondrat	subst:pl:gen.acc:m1	imię	
+< Kondraty	Kondrat	depr:pl:nom.acc.voc:m2	imię	
+---
+> Kondracie	Kondrat	subst:sg:loc:m1	imię|nazwisko	
+> Kondracie	Kondrat	subst:sg:voc:m1	imię|nazwisko	
+> Kondraci	Kondrat	subst:pl:nom.voc:m1	imię|nazwisko	
+> Kondratach	Kondrat	subst:pl:loc:m1	imię|nazwisko	
+> Kondrata	Kondrat	subst:sg:gen.acc:m1	imię|nazwisko	
+> Kondratami	Kondrat	subst:pl:inst:m1	imię|nazwisko	
+> Kondratem	Kondrat	subst:sg:inst:m1	imię|nazwisko	
+> Kondrat	Kondrat	subst:sg:nom:m1	imię|nazwisko	
+> Kondratom	Kondrat	subst:pl:dat:m1	imię|nazwisko	
+> Kondratowie	Kondrat	subst:pl:nom.voc:m1	imię|nazwisko	
+> Kondratowi	Kondrat	subst:sg:dat:m1	imię|nazwisko	
+> Kondratów	Kondrat	subst:pl:gen.acc:m1	imię|nazwisko	
+> Kondraty	Kondrat	depr:pl:nom.acc.voc:m2	imię|nazwisko	
+1172729d1172774
+< korcika	korcik	subst:sg:gen:m3	nazwa pospolita	
+1172736a1172782
+> korciku	korcik	subst:sg:gen:m3	nazwa pospolita	
+1183067a1183114,1183125
+> Kosnach	Kosno	subst:pl:loc:m1	nazwisko	
+> Kosnami	Kosno	subst:pl:inst:m1	nazwisko	
+> Kosną	Kosno	subst:sg:inst:m1	nazwisko	
+> Kosnę	Kosno	subst:sg:acc:m1	nazwisko	
+> Kosno	Kosno	subst:sg:nom:m1	nazwisko	
+> Kosno	Kosno	subst:sg:voc:m1	nazwisko	
+> Kosnom	Kosno	subst:pl:dat:m1	nazwisko	
+> Kosnowie	Kosno	subst:pl:nom.voc:m1	nazwisko	
+> Kosnów	Kosno	subst:pl:gen.acc:m1	nazwisko	
+> Kosny	Kosno	depr:pl:nom.acc.voc:m2	nazwisko	
+> Kosny	Kosno	subst:sg:gen:m1	nazwisko	
+> Kośnie	Kosno	subst:sg:dat.loc:m1	nazwisko	
+1193571a1193630,1193641
+> Koziec	Koziec	subst:sg:nom:m1	nazwisko	
+> Koźcach	Koziec	subst:pl:loc:m1	nazwisko	
+> Koźca	Koziec	subst:sg:gen.acc:m1	nazwisko	
+> Koźcami	Koziec	subst:pl:inst:m1	nazwisko	
+> Koźce	Koziec	depr:pl:nom.acc.voc:m2	nazwisko	
+> Koźcem	Koziec	subst:sg:inst:m1	nazwisko	
+> Koźcom	Koziec	subst:pl:dat:m1	nazwisko	
+> Koźcowie	Koziec	subst:pl:nom.voc:m1	nazwisko	
+> Koźcowi	Koziec	subst:sg:dat:m1	nazwisko	
+> Koźców	Koziec	subst:pl:gen.acc:m1	nazwisko	
+> Koźcu	Koziec	subst:sg:loc:m1	nazwisko	
+> Koźcu	Koziec	subst:sg:voc:m1	nazwisko	
+1353855a1353926,1353937
+> Łokciach	Łokieć	subst:pl:loc:m1	nazwisko	
+> Łokcia	Łokieć	subst:sg:gen.acc:m1	nazwisko	
+> Łokciami	Łokieć	subst:pl:inst:m1	nazwisko	
+> Łokcie	Łokieć	depr:pl:nom.acc.voc:m2	nazwisko	
+> Łokciem	Łokieć	subst:sg:inst:m1	nazwisko	
+> Łokciom	Łokieć	subst:pl:dat:m1	nazwisko	
+> Łokciowie	Łokieć	subst:pl:nom.voc:m1	nazwisko	
+> Łokciowi	Łokieć	subst:sg:dat:m1	nazwisko	
+> Łokciów	Łokieć	subst:pl:gen.acc:m1	nazwisko	
+> Łokciu	Łokieć	subst:sg:loc:m1	nazwisko	
+> Łokciu	Łokieć	subst:sg:voc:m1	nazwisko	
+> Łokieć	Łokieć	subst:sg:nom:m1	nazwisko	
+1374939a1375022
+> mailach	mail	subst:pl:loc:m2	nazwa pospolita	
+1374941a1375025
+> maila	mail	subst:sg:gen.acc:m2	nazwa pospolita	
+1374943a1375028
+> mailami	mail	subst:pl:inst:m2	nazwa pospolita	
+1374945a1375031
+> maile	mail	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+1374947a1375034
+> mailem	mail	subst:sg:inst:m2	nazwa pospolita	
+1374952a1375040
+> mail	mail	subst:sg:nom:m2	nazwa pospolita	
+1374953a1375042
+> mailom	mail	subst:pl:dat:m2	nazwa pospolita	
+1374955a1375045
+> mailowi	mail	subst:sg:dat:m2	nazwa pospolita	
+1374958c1375048
+< mailów	mail	subst:pl:gen:m2	nazwa pospolita	pot.
+---
+> mailów	mail	subst:pl:gen:m2	nazwa pospolita	
+1374959a1375050
+> mailu	mail	subst:sg:loc:m2	nazwa pospolita	
+1374961a1375053
+> mailu	mail	subst:sg:voc:m2	nazwa pospolita	
+1514180a1514273,1514284
+> Molach	Mól	subst:pl:loc:m1	nazwisko	
+> Molami	Mól	subst:pl:inst:m1	nazwisko	
+> Mola	Mól	subst:sg:gen.acc:m1	nazwisko	
+> Molem	Mól	subst:sg:inst:m1	nazwisko	
+> Mole	Mól	depr:pl:nom.acc.voc:m2	nazwisko	
+> Molom	Mól	subst:pl:dat:m1	nazwisko	
+> Molowie	Mól	subst:pl:nom.voc:m1	nazwisko	
+> Molowi	Mól	subst:sg:dat:m1	nazwisko	
+> Molów	Mól	subst:pl:gen.acc:m1	nazwisko	
+> Molu	Mól	subst:sg:loc:m1	nazwisko	
+> Molu	Mól	subst:sg:voc:m1	nazwisko	
+> Mól	Mól	subst:sg:nom:m1	nazwisko	
+1682193,1682204c1682297,1682308
+< nativespeakerach	nativespeaker	subst:pl:loc:m1	nazwa pospolita	
+< nativespeakerami	nativespeaker	subst:pl:inst:m1	nazwa pospolita	
+< nativespeakera	nativespeaker	subst:sg:gen.acc:m1	nazwa pospolita	
+< nativespeakerem	nativespeaker	subst:sg:inst:m1	nazwa pospolita	
+< nativespeaker	nativespeaker	subst:sg:nom:m1	nazwa pospolita	
+< nativespeakerom	nativespeaker	subst:pl:dat:m1	nazwa pospolita	
+< nativespeakerowi	nativespeaker	subst:sg:dat:m1	nazwa pospolita	
+< nativespeakerów	nativespeaker	subst:pl:gen.acc:m1	nazwa pospolita	
+< nativespeakery	nativespeaker	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+< nativespeakerze	nativespeaker	subst:sg:loc:m1	nazwa pospolita	
+< nativespeakerze	nativespeaker	subst:sg:voc:m1	nazwa pospolita	
+< nativespeakerzy	nativespeaker	subst:pl:nom.voc:m1	nazwa pospolita	
+---
+> native-speakerach	native-speaker	subst:pl:loc:m1	nazwa pospolita	
+> native-speakerami	native-speaker	subst:pl:inst:m1	nazwa pospolita	
+> native-speakera	native-speaker	subst:sg:gen.acc:m1	nazwa pospolita	
+> native-speakerem	native-speaker	subst:sg:inst:m1	nazwa pospolita	
+> native-speaker	native-speaker	subst:sg:nom:m1	nazwa pospolita	
+> native-speakerom	native-speaker	subst:pl:dat:m1	nazwa pospolita	
+> native-speakerowi	native-speaker	subst:sg:dat:m1	nazwa pospolita	
+> native-speakerów	native-speaker	subst:pl:gen.acc:m1	nazwa pospolita	
+> native-speakery	native-speaker	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+> native-speakerze	native-speaker	subst:sg:loc:m1	nazwa pospolita	
+> native-speakerze	native-speaker	subst:sg:voc:m1	nazwa pospolita	
+> native-speakerzy	native-speaker	subst:pl:nom.voc:m1	nazwa pospolita	
+3141870a3141975,3141998
+> Odyach	Odya:s1	subst:pl:loc:f	nazwisko	
+> Odyami	Odya:s1	subst:pl:inst:f	nazwisko	
+> Odya	Odya:s1	subst:sg:nom:f	nazwisko	
+> Odyą	Odya:s1	subst:sg:inst:f	nazwisko	
+> Odye	Odya:s1	subst:pl:nom.acc.voc:f	nazwisko	
+> Odyę	Odya:s1	subst:sg:acc:f	nazwisko	
+> Odyi	Odya:s1	subst:pl:gen:f	nazwisko	hom.
+> Odyi	Odya:s1	subst:sg:dat.loc:f	nazwisko	
+> Odyi	Odya:s1	subst:sg:gen:f	nazwisko	
+> Odyj	Odya:s1	subst:pl:gen:f	nazwisko	arch.|char.
+> Odyom	Odya:s1	subst:pl:dat:f	nazwisko	
+> Odyo	Odya:s1	subst:sg:voc:f	nazwisko	
+> Odyach	Odya:s2	subst:pl:loc:m1	nazwisko	
+> Odyami	Odya:s2	subst:pl:inst:m1	nazwisko	
+> Odya	Odya:s2	subst:sg:nom:m1	nazwisko	
+> Odyą	Odya:s2	subst:sg:inst:m1	nazwisko	
+> Odye	Odya:s2	depr:pl:nom.acc.voc:m2	nazwisko	
+> Odyę	Odya:s2	subst:sg:acc:m1	nazwisko	
+> Odyi	Odya:s2	subst:sg:dat.loc:m1	nazwisko	
+> Odyi	Odya:s2	subst:sg:gen:m1	nazwisko	
+> Odyom	Odya:s2	subst:pl:dat:m1	nazwisko	
+> Odyo	Odya:s2	subst:sg:voc:m1	nazwisko	
+> Odyowie	Odya:s2	subst:pl:nom.voc:m1	nazwisko	
+> Odyów	Odya:s2	subst:pl:gen.acc:m1	nazwisko	
+3243025,3243035c3243153,3243163
+< orbitalach	orbital	subst:pl:loc:m3	nazwa pospolita	
+< orbitalami	orbital	subst:pl:inst:m3	nazwa pospolita	
+< orbitalem	orbital	subst:sg:inst:m3	nazwa pospolita	
+< orbitale	orbital	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< orbitali	orbital	subst:pl:gen:m3	nazwa pospolita	
+< orbitalom	orbital	subst:pl:dat:m3	nazwa pospolita	
+< orbital	orbital	subst:sg:nom.acc:m3	nazwa pospolita	
+< orbitalowi	orbital	subst:sg:dat:m3	nazwa pospolita	
+< orbitalu	orbital	subst:sg:gen:m3	nazwa pospolita	
+< orbitalu	orbital	subst:sg:loc:m3	nazwa pospolita	
+< orbitalu	orbital	subst:sg:voc:m3	nazwa pospolita	
+---
+> orbitalach	orbital	subst:pl:loc:m3	nazwa pospolita	chem.|fiz.|daw.
+> orbitalami	orbital	subst:pl:inst:m3	nazwa pospolita	chem.|fiz.|daw.
+> orbitalem	orbital	subst:sg:inst:m3	nazwa pospolita	chem.|fiz.|daw.
+> orbitale	orbital	subst:pl:nom.acc.voc:m3	nazwa pospolita	chem.|fiz.|daw.
+> orbitali	orbital	subst:pl:gen:m3	nazwa pospolita	chem.|fiz.|daw.
+> orbitalom	orbital	subst:pl:dat:m3	nazwa pospolita	chem.|fiz.|daw.
+> orbital	orbital	subst:sg:nom.acc:m3	nazwa pospolita	chem.|fiz.|daw.
+> orbitalowi	orbital	subst:sg:dat:m3	nazwa pospolita	chem.|fiz.|daw.
+> orbitalu	orbital	subst:sg:gen:m3	nazwa pospolita	chem.|fiz.|daw.
+> orbitalu	orbital	subst:sg:loc:m3	nazwa pospolita	chem.|fiz.|daw.
+> orbitalu	orbital	subst:sg:voc:m3	nazwa pospolita	chem.|fiz.|daw.
+3766616a3766745,3766751
+> poszczekach	poszczek	subst:pl:loc:m3	nazwa pospolita	
+> poszczekami	poszczek	subst:pl:inst:m3	nazwa pospolita	
+> poszczekiem	poszczek	subst:sg:inst:m3	nazwa pospolita	
+> poszczeki	poszczek	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> poszczekom	poszczek	subst:pl:dat:m3	nazwa pospolita	
+> poszczekowi	poszczek	subst:sg:dat:m3	nazwa pospolita	
+> poszczeków	poszczek	subst:pl:gen:m3	nazwa pospolita	
+3766618,3766627c3766753,3766755
+< poszczkach	poszczek	subst:pl:loc:m3	nazwa pospolita	
+< poszczkami	poszczek	subst:pl:inst:m3	nazwa pospolita	
+< poszczkiem	poszczek	subst:sg:inst:m3	nazwa pospolita	
+< poszczki	poszczek	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< poszczkom	poszczek	subst:pl:dat:m3	nazwa pospolita	
+< poszczkowi	poszczek	subst:sg:dat:m3	nazwa pospolita	
+< poszczków	poszczek	subst:pl:gen:m3	nazwa pospolita	
+< poszczku	poszczek	subst:sg:gen:m3	nazwa pospolita	
+< poszczku	poszczek	subst:sg:loc:m3	nazwa pospolita	
+< poszczku	poszczek	subst:sg:voc:m3	nazwa pospolita	
+---
+> poszczeku	poszczek	subst:sg:gen:m3	nazwa pospolita	
+> poszczeku	poszczek	subst:sg:loc:m3	nazwa pospolita	
+> poszczeku	poszczek	subst:sg:voc:m3	nazwa pospolita	
+4224933,4224948c4225061,4225076
+< nieprzystojąca	przystać:v2	pact:sg:nom.voc:f:imperf.perf:neg		przest.
+< nieprzystojącą	przystać:v2	pact:sg:acc.inst:f:imperf.perf:neg		przest.
+< nieprzystojącego	przystać:v2	pact:sg:acc:m1.m2:imperf.perf:neg		przest.
+< nieprzystojącego	przystać:v2	pact:sg:gen:m1.m2.m3.n:imperf.perf:neg		przest.
+< nieprzystojącej	przystać:v2	pact:sg:gen.dat.loc:f:imperf.perf:neg		przest.
+< nieprzystojącemu	przystać:v2	pact:sg:dat:m1.m2.m3.n:imperf.perf:neg		przest.
+< nieprzystojące	przystać:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf.perf:neg		przest.
+< nieprzystojące	przystać:v2	pact:sg:nom.acc.voc:n:imperf.perf:neg		przest.
+< nieprzystojących	przystać:v2	pact:pl:acc:m1:imperf.perf:neg		przest.
+< nieprzystojących	przystać:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf.perf:neg		przest.
+< nieprzystojącymi	przystać:v2	pact:pl:inst:m1.m2.m3.f.n:imperf.perf:neg		przest.
+< nieprzystojącym	przystać:v2	pact:pl:dat:m1.m2.m3.f.n:imperf.perf:neg		przest.
+< nieprzystojącym	przystać:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf.perf:neg		przest.
+< nieprzystojący	przystać:v2	pact:pl:nom.voc:m1:imperf.perf:neg		przest.
+< nieprzystojący	przystać:v2	pact:sg:acc:m3:imperf.perf:neg		przest.
+< nieprzystojący	przystać:v2	pact:sg:nom.voc:m1.m2.m3:imperf.perf:neg		przest.
+---
+> nieprzystojąca	przystać:v2	pact:sg:nom.voc:f:imperf:neg		przest.
+> nieprzystojącą	przystać:v2	pact:sg:acc.inst:f:imperf:neg		przest.
+> nieprzystojącego	przystać:v2	pact:sg:acc:m1.m2:imperf:neg		przest.
+> nieprzystojącego	przystać:v2	pact:sg:gen:m1.m2.m3.n:imperf:neg		przest.
+> nieprzystojącej	przystać:v2	pact:sg:gen.dat.loc:f:imperf:neg		przest.
+> nieprzystojącemu	przystać:v2	pact:sg:dat:m1.m2.m3.n:imperf:neg		przest.
+> nieprzystojące	przystać:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		przest.
+> nieprzystojące	przystać:v2	pact:sg:nom.acc.voc:n:imperf:neg		przest.
+> nieprzystojących	przystać:v2	pact:pl:acc:m1:imperf:neg		przest.
+> nieprzystojących	przystać:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		przest.
+> nieprzystojącymi	przystać:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		przest.
+> nieprzystojącym	przystać:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		przest.
+> nieprzystojącym	przystać:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		przest.
+> nieprzystojący	przystać:v2	pact:pl:nom.voc:m1:imperf:neg		przest.
+> nieprzystojący	przystać:v2	pact:sg:acc:m3:imperf:neg		przest.
+> nieprzystojący	przystać:v2	pact:sg:nom.voc:m1.m2.m3:imperf:neg		przest.
+4225000,4225007c4225128,4225135
+< przystojąca	przystać:v2	pact:sg:nom.voc:f:imperf.perf:aff		przest.
+< przystojącą	przystać:v2	pact:sg:acc.inst:f:imperf.perf:aff		przest.
+< przystojącego	przystać:v2	pact:sg:acc:m1.m2:imperf.perf:aff		przest.
+< przystojącego	przystać:v2	pact:sg:gen:m1.m2.m3.n:imperf.perf:aff		przest.
+< przystojącej	przystać:v2	pact:sg:gen.dat.loc:f:imperf.perf:aff		przest.
+< przystojącemu	przystać:v2	pact:sg:dat:m1.m2.m3.n:imperf.perf:aff		przest.
+< przystojące	przystać:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf.perf:aff		przest.
+< przystojące	przystać:v2	pact:sg:nom.acc.voc:n:imperf.perf:aff		przest.
+---
+> przystojąca	przystać:v2	pact:sg:nom.voc:f:imperf:aff		przest.
+> przystojącą	przystać:v2	pact:sg:acc.inst:f:imperf:aff		przest.
+> przystojącego	przystać:v2	pact:sg:acc:m1.m2:imperf:aff		przest.
+> przystojącego	przystać:v2	pact:sg:gen:m1.m2.m3.n:imperf:aff		przest.
+> przystojącej	przystać:v2	pact:sg:gen.dat.loc:f:imperf:aff		przest.
+> przystojącemu	przystać:v2	pact:sg:dat:m1.m2.m3.n:imperf:aff		przest.
+> przystojące	przystać:v2	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		przest.
+> przystojące	przystać:v2	pact:sg:nom.acc.voc:n:imperf:aff		przest.
+4225010,4225017c4225138,4225145
+< przystojących	przystać:v2	pact:pl:acc:m1:imperf.perf:aff		przest.
+< przystojących	przystać:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf.perf:aff		przest.
+< przystojącymi	przystać:v2	pact:pl:inst:m1.m2.m3.f.n:imperf.perf:aff		przest.
+< przystojącym	przystać:v2	pact:pl:dat:m1.m2.m3.f.n:imperf.perf:aff		przest.
+< przystojącym	przystać:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf.perf:aff		przest.
+< przystojący	przystać:v2	pact:pl:nom.voc:m1:imperf.perf:aff		przest.
+< przystojący	przystać:v2	pact:sg:acc:m3:imperf.perf:aff		przest.
+< przystojący	przystać:v2	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		przest.
+---
+> przystojących	przystać:v2	pact:pl:acc:m1:imperf:aff		przest.
+> przystojących	przystać:v2	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		przest.
+> przystojącymi	przystać:v2	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		przest.
+> przystojącym	przystać:v2	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		przest.
+> przystojącym	przystać:v2	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		przest.
+> przystojący	przystać:v2	pact:pl:nom.voc:m1:imperf:aff		przest.
+> przystojący	przystać:v2	pact:sg:acc:m3:imperf:aff		przest.
+> przystojący	przystać:v2	pact:sg:nom.voc:m1.m2.m3:imperf:aff		przest.
+4303784,4303794c4303912,4303923
+< reducencie	reducent	subst:sg:loc:m2	nazwa pospolita	
+< reducencie	reducent	subst:sg:voc:m2	nazwa pospolita	
+< reducentach	reducent	subst:pl:loc:m2	nazwa pospolita	
+< reducentami	reducent	subst:pl:inst:m2	nazwa pospolita	
+< reducenta	reducent	subst:sg:gen.acc:m2	nazwa pospolita	
+< reducentem	reducent	subst:sg:inst:m2	nazwa pospolita	
+< reducentom	reducent	subst:pl:dat:m2	nazwa pospolita	
+< reducentowi	reducent	subst:sg:dat:m2	nazwa pospolita	
+< reducentów	reducent	subst:pl:gen:m2	nazwa pospolita	
+< reducent	reducent	subst:sg:nom:m2	nazwa pospolita	
+< reducenty	reducent	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> reducencie	reducent	subst:sg:loc:m1	nazwa pospolita	
+> reducencie	reducent	subst:sg:voc:m1	nazwa pospolita	
+> reducenci	reducent	subst:pl:nom.voc:m1	nazwa pospolita	
+> reducentach	reducent	subst:pl:loc:m1	nazwa pospolita	
+> reducentami	reducent	subst:pl:inst:m1	nazwa pospolita	
+> reducenta	reducent	subst:sg:gen.acc:m1	nazwa pospolita	
+> reducentem	reducent	subst:sg:inst:m1	nazwa pospolita	
+> reducentom	reducent	subst:pl:dat:m1	nazwa pospolita	
+> reducentowi	reducent	subst:sg:dat:m1	nazwa pospolita	
+> reducentów	reducent	subst:pl:gen.acc:m1	nazwa pospolita	
+> reducent	reducent	subst:sg:nom:m1	nazwa pospolita	
+> reducenty	reducent	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+4310781,4310792d4310909
+< rehabilancie	rehabilant	subst:sg:loc:m1	nazwa pospolita	
+< rehabilancie	rehabilant	subst:sg:voc:m1	nazwa pospolita	
+< rehabilanci	rehabilant	subst:pl:nom.voc:m1	nazwa pospolita	
+< rehabilantach	rehabilant	subst:pl:loc:m1	nazwa pospolita	
+< rehabilantami	rehabilant	subst:pl:inst:m1	nazwa pospolita	
+< rehabilanta	rehabilant	subst:sg:gen.acc:m1	nazwa pospolita	
+< rehabilantem	rehabilant	subst:sg:inst:m1	nazwa pospolita	
+< rehabilantom	rehabilant	subst:pl:dat:m1	nazwa pospolita	
+< rehabilantowi	rehabilant	subst:sg:dat:m1	nazwa pospolita	
+< rehabilantów	rehabilant	subst:pl:gen.acc:m1	nazwa pospolita	
+< rehabilant	rehabilant	subst:sg:nom:m1	nazwa pospolita	
+< rehabilanty	rehabilant	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+4744092d4744208
+< Soboli	Soból	subst:pl:gen.acc:m1	nazwisko	
+4744095a4744212
+> Sobolów	Soból	subst:pl:gen.acc:m1	nazwisko	
+4750509,4750524c4750626,4750641
+< niesolwująca	solwować	pact:sg:nom.voc:f:imperf.perf:neg		daw.
+< niesolwującą	solwować	pact:sg:acc.inst:f:imperf.perf:neg		daw.
+< niesolwującego	solwować	pact:sg:acc:m1.m2:imperf.perf:neg		daw.
+< niesolwującego	solwować	pact:sg:gen:m1.m2.m3.n:imperf.perf:neg		daw.
+< niesolwującej	solwować	pact:sg:gen.dat.loc:f:imperf.perf:neg		daw.
+< niesolwującemu	solwować	pact:sg:dat:m1.m2.m3.n:imperf.perf:neg		daw.
+< niesolwujące	solwować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf.perf:neg		daw.
+< niesolwujące	solwować	pact:sg:nom.acc.voc:n:imperf.perf:neg		daw.
+< niesolwujących	solwować	pact:pl:acc:m1:imperf.perf:neg		daw.
+< niesolwujących	solwować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf.perf:neg		daw.
+< niesolwującymi	solwować	pact:pl:inst:m1.m2.m3.f.n:imperf.perf:neg		daw.
+< niesolwującym	solwować	pact:pl:dat:m1.m2.m3.f.n:imperf.perf:neg		daw.
+< niesolwującym	solwować	pact:sg:inst.loc:m1.m2.m3.n:imperf.perf:neg		daw.
+< niesolwujący	solwować	pact:pl:nom.voc:m1:imperf.perf:neg		daw.
+< niesolwujący	solwować	pact:sg:acc:m3:imperf.perf:neg		daw.
+< niesolwujący	solwować	pact:sg:nom.voc:m1.m2.m3:imperf.perf:neg		daw.
+---
+> niesolwująca	solwować	pact:sg:nom.voc:f:imperf:neg		daw.
+> niesolwującą	solwować	pact:sg:acc.inst:f:imperf:neg		daw.
+> niesolwującego	solwować	pact:sg:acc:m1.m2:imperf:neg		daw.
+> niesolwującego	solwować	pact:sg:gen:m1.m2.m3.n:imperf:neg		daw.
+> niesolwującej	solwować	pact:sg:gen.dat.loc:f:imperf:neg		daw.
+> niesolwującemu	solwować	pact:sg:dat:m1.m2.m3.n:imperf:neg		daw.
+> niesolwujące	solwować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:neg		daw.
+> niesolwujące	solwować	pact:sg:nom.acc.voc:n:imperf:neg		daw.
+> niesolwujących	solwować	pact:pl:acc:m1:imperf:neg		daw.
+> niesolwujących	solwować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:neg		daw.
+> niesolwującymi	solwować	pact:pl:inst:m1.m2.m3.f.n:imperf:neg		daw.
+> niesolwującym	solwować	pact:pl:dat:m1.m2.m3.f.n:imperf:neg		daw.
+> niesolwującym	solwować	pact:sg:inst.loc:m1.m2.m3.n:imperf:neg		daw.
+> niesolwujący	solwować	pact:pl:nom.voc:m1:imperf:neg		daw.
+> niesolwujący	solwować	pact:sg:acc:m3:imperf:neg		daw.
+> niesolwujący	solwować	pact:sg:nom.voc:m1.m2.m3:imperf:neg		daw.
+4750588,4750595c4750705,4750712
+< solwująca	solwować	pact:sg:nom.voc:f:imperf.perf:aff		daw.
+< solwującą	solwować	pact:sg:acc.inst:f:imperf.perf:aff		daw.
+< solwującego	solwować	pact:sg:acc:m1.m2:imperf.perf:aff		daw.
+< solwującego	solwować	pact:sg:gen:m1.m2.m3.n:imperf.perf:aff		daw.
+< solwującej	solwować	pact:sg:gen.dat.loc:f:imperf.perf:aff		daw.
+< solwującemu	solwować	pact:sg:dat:m1.m2.m3.n:imperf.perf:aff		daw.
+< solwujące	solwować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf.perf:aff		daw.
+< solwujące	solwować	pact:sg:nom.acc.voc:n:imperf.perf:aff		daw.
+---
+> solwująca	solwować	pact:sg:nom.voc:f:imperf:aff		daw.
+> solwującą	solwować	pact:sg:acc.inst:f:imperf:aff		daw.
+> solwującego	solwować	pact:sg:acc:m1.m2:imperf:aff		daw.
+> solwującego	solwować	pact:sg:gen:m1.m2.m3.n:imperf:aff		daw.
+> solwującej	solwować	pact:sg:gen.dat.loc:f:imperf:aff		daw.
+> solwującemu	solwować	pact:sg:dat:m1.m2.m3.n:imperf:aff		daw.
+> solwujące	solwować	pact:pl:nom.acc.voc:m2.m3.f.n:imperf:aff		daw.
+> solwujące	solwować	pact:sg:nom.acc.voc:n:imperf:aff		daw.
+4750598,4750605c4750715,4750722
+< solwujących	solwować	pact:pl:acc:m1:imperf.perf:aff		daw.
+< solwujących	solwować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf.perf:aff		daw.
+< solwującymi	solwować	pact:pl:inst:m1.m2.m3.f.n:imperf.perf:aff		daw.
+< solwującym	solwować	pact:pl:dat:m1.m2.m3.f.n:imperf.perf:aff		daw.
+< solwującym	solwować	pact:sg:inst.loc:m1.m2.m3.n:imperf.perf:aff		daw.
+< solwujący	solwować	pact:pl:nom.voc:m1:imperf.perf:aff		daw.
+< solwujący	solwować	pact:sg:acc:m3:imperf.perf:aff		daw.
+< solwujący	solwować	pact:sg:nom.voc:m1.m2.m3:imperf.perf:aff		daw.
+---
+> solwujących	solwować	pact:pl:acc:m1:imperf:aff		daw.
+> solwujących	solwować	pact:pl:gen.loc:m1.m2.m3.f.n:imperf:aff		daw.
+> solwującymi	solwować	pact:pl:inst:m1.m2.m3.f.n:imperf:aff		daw.
+> solwującym	solwować	pact:pl:dat:m1.m2.m3.f.n:imperf:aff		daw.
+> solwującym	solwować	pact:sg:inst.loc:m1.m2.m3.n:imperf:aff		daw.
+> solwujący	solwować	pact:pl:nom.voc:m1:imperf:aff		daw.
+> solwujący	solwować	pact:sg:acc:m3:imperf:aff		daw.
+> solwujący	solwować	pact:sg:nom.voc:m1.m2.m3:imperf:aff		daw.
+4754102a4754220,4754231
+> Sosnach	Sosna	subst:pl:loc:m1	nazwisko	
+> Sosnami	Sosna	subst:pl:inst:m1	nazwisko	
+> Sosna	Sosna	subst:sg:nom:m1	nazwisko	
+> Sosną	Sosna	subst:sg:inst:m1	nazwisko	
+> Sosnę	Sosna	subst:sg:acc:m1	nazwisko	
+> Sosnom	Sosna	subst:pl:dat:m1	nazwisko	
+> Sosno	Sosna	subst:sg:voc:m1	nazwisko	
+> Sosnowie	Sosna	subst:pl:nom.voc:m1	nazwisko	
+> Sosnów	Sosna	subst:pl:gen.acc:m1	nazwisko	
+> Sosny	Sosna	depr:pl:nom.acc.voc:m2	nazwisko	
+> Sosny	Sosna	subst:sg:gen:m1	nazwisko	
+> Sośnie	Sosna	subst:sg:dat.loc:m1	nazwisko	
+4795510a4795640,4795651
+> Sposobach	Sposób	subst:pl:loc:m1	nazwisko	
+> Sposobami	Sposób	subst:pl:inst:m1	nazwisko	
+> Sposoba	Sposób	subst:sg:gen.acc:m1	nazwisko	
+> Sposobem	Sposób	subst:sg:inst:m1	nazwisko	
+> Sposobie	Sposób	subst:sg:loc:m1	nazwisko	
+> Sposobie	Sposób	subst:sg:voc:m1	nazwisko	
+> Sposobom	Sposób	subst:pl:dat:m1	nazwisko	
+> Sposobowie	Sposób	subst:pl:nom.voc:m1	nazwisko	
+> Sposobowi	Sposób	subst:sg:dat:m1	nazwisko	
+> Sposobów	Sposób	subst:pl:gen.acc:m1	nazwisko	
+> Sposoby	Sposób	depr:pl:nom.acc.voc:m2	nazwisko	
+> Sposób	Sposób	subst:sg:nom:m1	nazwisko	
+4975477a4975619,4975630
+> Szwedach	Szwedo	subst:pl:loc:m1	nazwisko	
+> Szwedami	Szwedo	subst:pl:inst:m1	nazwisko	
+> Szwedą	Szwedo	subst:sg:inst:m1	nazwisko	
+> Szwedę	Szwedo	subst:sg:acc:m1	nazwisko	
+> Szwedom	Szwedo	subst:pl:dat:m1	nazwisko	
+> Szwedo	Szwedo	subst:sg:nom:m1	nazwisko	
+> Szwedo	Szwedo	subst:sg:voc:m1	nazwisko	
+> Szwedowie	Szwedo	subst:pl:nom.voc:m1	nazwisko	
+> Szwedów	Szwedo	subst:pl:gen.acc:m1	nazwisko	
+> Szwedy	Szwedo	depr:pl:nom.acc.voc:m2	nazwisko	
+> Szwedy	Szwedo	subst:sg:gen:m1	nazwisko	
+> Szwedzie	Szwedo	subst:sg:dat.loc:m1	nazwisko	
+5013069,5013080c5013222,5013233
+< Świętowicie	Świętowit	subst:sg:loc:m1	imię	
+< Świętowicie	Świętowit	subst:sg:voc:m1	imię	
+< Świętowitach	Świętowit	subst:pl:loc:m1	imię	
+< Świętowitami	Świętowit	subst:pl:inst:m1	imię	
+< Świętowita	Świętowit	subst:sg:gen.acc:m1	imię	
+< Świętowitem	Świętowit	subst:sg:inst:m1	imię	
+< Świętowitom	Świętowit	subst:pl:dat:m1	imię	
+< Świętowitowie	Świętowit	subst:pl:nom.voc:m1	imię	
+< Świętowitowi	Świętowit	subst:sg:dat:m1	imię	
+< Świętowitów	Świętowit	subst:pl:gen.acc:m1	imię	
+< Świętowit	Świętowit	subst:sg:nom:m1	imię	
+< Świętowity	Świętowit	depr:pl:nom.acc.voc:m2	imię	
+---
+> Świętowicie	Świętowit	subst:sg:loc:m1	nazwa własna	
+> Świętowicie	Świętowit	subst:sg:voc:m1	nazwa własna	
+> Świętowitach	Świętowit	subst:pl:loc:m1	nazwa własna	
+> Świętowitami	Świętowit	subst:pl:inst:m1	nazwa własna	
+> Świętowita	Świętowit	subst:sg:gen.acc:m1	nazwa własna	
+> Świętowitem	Świętowit	subst:sg:inst:m1	nazwa własna	
+> Świętowitom	Świętowit	subst:pl:dat:m1	nazwa własna	
+> Świętowitowie	Świętowit	subst:pl:nom.voc:m1	nazwa własna	
+> Świętowitowi	Świętowit	subst:sg:dat:m1	nazwa własna	
+> Świętowitów	Świętowit	subst:pl:gen.acc:m1	nazwa własna	
+> Świętowit	Świętowit	subst:sg:nom:m1	nazwa własna	
+> Świętowity	Świętowit	depr:pl:nom.acc.voc:m2	nazwa własna	
+5103414a5103568,5103591
+> Tryznach	Tryzna	subst:pl:loc:m1	nazwisko	
+> Tryznami	Tryzna	subst:pl:inst:m1	nazwisko	
+> Tryzna	Tryzna	subst:sg:nom:m1	nazwisko	
+> Tryzną	Tryzna	subst:sg:inst:m1	nazwisko	
+> Tryznę	Tryzna	subst:sg:acc:m1	nazwisko	
+> Tryznom	Tryzna	subst:pl:dat:m1	nazwisko	
+> Tryzno	Tryzna	subst:sg:voc:m1	nazwisko	
+> Tryznów	Tryzna	subst:pl:gen.acc:m1	nazwisko	
+> Tryzny	Tryzna	depr:pl:nom.acc.voc:m2	nazwisko	
+> Tryzny	Tryzna	subst:sg:gen:m1	nazwisko	
+> Tryźnie	Tryzna	subst:sg:dat.loc:m1	nazwisko	
+> Tryźnowie	Tryzna	subst:pl:nom.voc:m1	nazwisko	
+> Tryznach	Tryzno	subst:pl:loc:m1	nazwisko	
+> Tryznami	Tryzno	subst:pl:inst:m1	nazwisko	
+> Tryzną	Tryzno	subst:sg:inst:m1	nazwisko	
+> Tryznę	Tryzno	subst:sg:acc:m1	nazwisko	
+> Tryznom	Tryzno	subst:pl:dat:m1	nazwisko	
+> Tryzno	Tryzno	subst:sg:nom:m1	nazwisko	
+> Tryzno	Tryzno	subst:sg:voc:m1	nazwisko	
+> Tryznowie	Tryzno	subst:pl:nom.voc:m1	nazwisko	
+> Tryznów	Tryzno	subst:pl:gen.acc:m1	nazwisko	
+> Tryzny	Tryzno	depr:pl:nom.acc.voc:m2	nazwisko	
+> Tryzny	Tryzno	subst:sg:gen:m1	nazwisko	
+> Tryźnie	Tryzno	subst:sg:dat.loc:m1	nazwisko	
+5115075a5115253,5115275
+> Tulei	Tuleya:s1	subst:pl:gen:f	nazwisko	
+> Tulei	Tuleya:s1	subst:sg:dat.loc:f	nazwisko	
+> Tulei	Tuleya:s1	subst:sg:gen:f	nazwisko	
+> Tuleyach	Tuleya:s1	subst:pl:loc:f	nazwisko	
+> Tuleyami	Tuleya:s1	subst:pl:inst:f	nazwisko	
+> Tuleya	Tuleya:s1	subst:sg:nom:f	nazwisko	
+> Tuleyą	Tuleya:s1	subst:sg:inst:f	nazwisko	
+> Tuleye	Tuleya:s1	subst:pl:nom.acc.voc:f	nazwisko	
+> Tuleyę	Tuleya:s1	subst:sg:acc:f	nazwisko	
+> Tuleyom	Tuleya:s1	subst:pl:dat:f	nazwisko	
+> Tuleyo	Tuleya:s1	subst:sg:voc:f	nazwisko	
+> Tulei	Tuleya:s3	subst:sg:dat.loc:m1	nazwisko	
+> Tulei	Tuleya:s3	subst:sg:gen:m1	nazwisko	
+> Tuleyach	Tuleya:s3	subst:pl:loc:m1	nazwisko	
+> Tuleyami	Tuleya:s3	subst:pl:inst:m1	nazwisko	
+> Tuleya	Tuleya:s3	subst:sg:nom:m1	nazwisko	
+> Tuleyą	Tuleya:s3	subst:sg:inst:m1	nazwisko	
+> Tuleye	Tuleya:s3	depr:pl:nom.acc.voc:m2	nazwisko	
+> Tuleyę	Tuleya:s3	subst:sg:acc:m1	nazwisko	
+> Tuleyom	Tuleya:s3	subst:pl:dat:m1	nazwisko	
+> Tuleyo	Tuleya:s3	subst:sg:voc:m1	nazwisko	
+> Tuleyowie	Tuleya:s3	subst:pl:nom.voc:m1	nazwisko	
+> Tuleyów	Tuleya:s3	subst:pl:gen.acc:m1	nazwisko	
+5405580a5405781,5405793
+> Weryhach	Weryho	subst:pl:loc:m1	nazwisko	
+> Weryhami	Weryho	subst:pl:inst:m1	nazwisko	
+> Weryhą	Weryho	subst:sg:inst:m1	nazwisko	
+> Weryhę	Weryho	subst:sg:acc:m1	nazwisko	
+> Weryhom	Weryho	subst:pl:dat:m1	nazwisko	
+> Weryho	Weryho	subst:sg:nom:m1	nazwisko	
+> Weryho	Weryho	subst:sg:voc:m1	nazwisko	
+> Weryhowie	Weryho	subst:pl:nom.voc:m1	nazwisko	
+> Weryhów	Weryho	subst:pl:gen.acc:m1	nazwisko	
+> Weryhy	Weryho	depr:pl:nom.acc.voc:m2	nazwisko	
+> Weryhy	Weryho	subst:sg:gen:m1	nazwisko	
+> Werysze	Weryho	subst:sg:dat.loc:m1	nazwisko	
+> Weryże	Weryho	subst:sg:dat.loc:m1	nazwisko	
+5421312d5421524
+< wibromłotu	wibromłot	subst:sg:gen:m3	nazwa pospolita	
+5462101a5462314,5462325
+> Wizłach	Wizła	subst:pl:loc:m1	nazwisko	
+> Wizłami	Wizła	subst:pl:inst:m1	nazwisko	
+> Wizła	Wizła	subst:sg:nom:m1	nazwisko	
+> Wizłą	Wizła	subst:sg:inst:m1	nazwisko	
+> Wizłę	Wizła	subst:sg:acc:m1	nazwisko	
+> Wizłom	Wizła	subst:pl:dat:m1	nazwisko	
+> Wizłowie	Wizła	subst:pl:nom.voc:m1	nazwisko	
+> Wizło	Wizła	subst:sg:voc:m1	nazwisko	
+> Wizłów	Wizła	subst:pl:gen.acc:m1	nazwisko	
+> Wizły	Wizła	depr:pl:nom.acc.voc:m2	nazwisko	
+> Wizły	Wizła	subst:sg:gen:m1	nazwisko	
+> Wiźle	Wizła	subst:sg:dat.loc:m1	nazwisko	
+6147004a6147229,6147240
+> Zawisłach	Zawisła	subst:pl:loc:m1	nazwisko	
+> Zawisłami	Zawisła	subst:pl:inst:m1	nazwisko	
+> Zawisła	Zawisła	subst:sg:nom:m1	nazwisko	
+> Zawisłą	Zawisła	subst:sg:inst:m1	nazwisko	
+> Zawisłę	Zawisła	subst:sg:acc:m1	nazwisko	
+> Zawisłom	Zawisła	subst:pl:dat:m1	nazwisko	
+> Zawisłowie	Zawisła	subst:pl:nom.voc:m1	nazwisko	
+> Zawisło	Zawisła	subst:sg:voc:m1	nazwisko	
+> Zawisłów	Zawisła	subst:pl:gen.acc:m1	nazwisko	
+> Zawisły	Zawisła	depr:pl:nom.acc.voc:m2	nazwisko	
+> Zawisły	Zawisła	subst:sg:gen:m1	nazwisko	
+> Zawiśle	Zawisła	subst:sg:dat.loc:m1	nazwisko	

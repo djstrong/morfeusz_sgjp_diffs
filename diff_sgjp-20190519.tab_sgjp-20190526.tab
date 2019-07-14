@@ -1,0 +1,451 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.05.20
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.05.27
+1008208a1008209,1008219
+> genizach	geniza	subst:pl:loc:f	nazwa_pospolita	
+> geniza	geniza	subst:sg:nom:f	nazwa_pospolita	
+> genizami	geniza	subst:pl:inst:f	nazwa_pospolita	
+> genizą	geniza	subst:sg:inst:f	nazwa_pospolita	
+> genizę	geniza	subst:sg:acc:f	nazwa_pospolita	
+> geniz	geniza	subst:pl:gen:f	nazwa_pospolita	
+> genizie	geniza	subst:sg:dat.loc:f	nazwa_pospolita	
+> genizo	geniza	subst:sg:voc:f	nazwa_pospolita	
+> genizom	geniza	subst:pl:dat:f	nazwa_pospolita	
+> genizy	geniza	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> genizy	geniza	subst:sg:gen:f	nazwa_pospolita	
+1504305a1504317,1504326
+> kobyliskach	kobylisko	subst:pl:loc:n:ncol	nazwa_pospolita	przest.
+> kobyliska	kobylisko	subst:pl:nom.acc.voc:n:ncol	nazwa_pospolita	przest.
+> kobyliska	kobylisko	subst:sg:gen:n:ncol	nazwa_pospolita	przest.
+> kobyliskami	kobylisko	subst:pl:inst:n:ncol	nazwa_pospolita	przest.
+> kobyliskiem	kobylisko	subst:sg:inst:n:ncol	nazwa_pospolita	przest.
+> kobylisk	kobylisko	subst:pl:gen:n:ncol	nazwa_pospolita	przest.
+> kobylisko	kobylisko	subst:sg:nom.acc.voc:n:ncol	nazwa_pospolita	przest.
+> kobyliskom	kobylisko	subst:pl:dat:n:ncol	nazwa_pospolita	przest.
+> kobylisku	kobylisko	subst:sg:dat:n:ncol	nazwa_pospolita	przest.
+> kobylisku	kobylisko	subst:sg:loc:n:ncol	nazwa_pospolita	przest.
+2255309a2255331,2255427
+> narozsypują	narozsypywać	fin:pl:ter:perf		
+> narozsypujcie	narozsypywać	impt:pl:sec:perf		
+> narozsypujecie	narozsypywać	fin:pl:sec:perf		
+> narozsypujemy	narozsypywać	fin:pl:pri:perf		
+> narozsypuje	narozsypywać	fin:sg:ter:perf		
+> narozsypujesz	narozsypywać	fin:sg:sec:perf		
+> narozsypuję	narozsypywać	fin:sg:pri:perf		
+> narozsypujmy	narozsypywać	impt:pl:pri:perf		
+> narozsypuj	narozsypywać	impt:sg:sec:perf		
+> narozsypywać	narozsypywać	inf:perf		
+> narozsypywaliby	narozsypywać	cond:pl:m1:ter:perf		
+> narozsypywalibyście	narozsypywać	cond:pl:m1:sec:perf		
+> narozsypywalibyśmy	narozsypywać	cond:pl:m1:pri:perf		
+> narozsypywali	narozsypywać	praet:pl:m1:perf		
+> narozsypywali	narozsypywać	praet:pl:m1:ter:perf		
+> narozsypywaliście	narozsypywać	praet:pl:m1:sec:perf		
+> narozsypywaliśmy	narozsypywać	praet:pl:m1:pri:perf		
+> narozsypywałabym	narozsypywać	cond:sg:f:pri:perf		
+> narozsypywałaby	narozsypywać	cond:sg:f:ter:perf		
+> narozsypywałabyś	narozsypywać	cond:sg:f:sec:perf		
+> narozsypywałam	narozsypywać	praet:sg:f:pri:perf		
+> narozsypywała	narozsypywać	praet:sg:f:perf		
+> narozsypywała	narozsypywać	praet:sg:f:ter:perf		
+> narozsypywałaś	narozsypywać	praet:sg:f:sec:perf		
+> narozsypywałbym	narozsypywać	cond:sg:m1.m2.m3:pri:perf		
+> narozsypywałby	narozsypywać	cond:sg:m1.m2.m3:ter:perf		
+> narozsypywałbyś	narozsypywać	cond:sg:m1.m2.m3:sec:perf		
+> narozsypywałem	narozsypywać	praet:sg:m1.m2.m3:pri:perf		
+> narozsypywałeś	narozsypywać	praet:sg:m1.m2.m3:sec:perf		
+> narozsypywał	narozsypywać	praet:sg:m1.m2.m3:perf		
+> narozsypywał	narozsypywać	praet:sg:m1.m2.m3:ter:perf		
+> narozsypywałobym	narozsypywać	cond:sg:n:pri:perf		
+> narozsypywałoby	narozsypywać	cond:sg:n:ter:perf		
+> narozsypywałobyś	narozsypywać	cond:sg:n:sec:perf		
+> narozsypywałom	narozsypywać	praet:sg:n:pri:perf		
+> narozsypywało	narozsypywać	praet:sg:n:perf		
+> narozsypywało	narozsypywać	praet:sg:n:ter:perf		
+> narozsypywałoś	narozsypywać	praet:sg:n:sec:perf		
+> narozsypywałyby	narozsypywać	cond:pl:m2.m3.f.n:ter:perf		
+> narozsypywałybyście	narozsypywać	cond:pl:m2.m3.f.n:sec:perf		
+> narozsypywałybyśmy	narozsypywać	cond:pl:m2.m3.f.n:pri:perf		
+> narozsypywały	narozsypywać	praet:pl:m2.m3.f.n:perf		
+> narozsypywały	narozsypywać	praet:pl:m2.m3.f.n:ter:perf		
+> narozsypywałyście	narozsypywać	praet:pl:m2.m3.f.n:sec:perf		
+> narozsypywałyśmy	narozsypywać	praet:pl:m2.m3.f.n:pri:perf		
+> narozsypywana	narozsypywać	ppas:sg:nom.voc:f:perf:aff		
+> narozsypywaną	narozsypywać	ppas:sg:acc.inst:f:perf:aff		
+> narozsypywanego	narozsypywać	ppas:sg:acc:m1.m2:perf:aff		
+> narozsypywanego	narozsypywać	ppas:sg:gen:m1.m2.m3.n:perf:aff		
+> narozsypywanej	narozsypywać	ppas:sg:gen.dat.loc:f:perf:aff		
+> narozsypywanemu	narozsypywać	ppas:sg:dat:m1.m2.m3.n:perf:aff		
+> narozsypywane	narozsypywać	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:aff		
+> narozsypywane	narozsypywać	ppas:sg:nom.acc.voc:n:perf:aff		
+> narozsypywaniach	narozsypywać	ger:pl:loc:n:perf:aff		
+> narozsypywaniami	narozsypywać	ger:pl:inst:n:perf:aff		
+> narozsypywania	narozsypywać	ger:pl:nom.acc:n:perf:aff		
+> narozsypywania	narozsypywać	ger:sg:gen:n:perf:aff		
+> narozsypywaniem	narozsypywać	ger:sg:inst:n:perf:aff		
+> narozsypywanie	narozsypywać	ger:sg:nom.acc:n:perf:aff		
+> narozsypywani	narozsypywać	ppas:pl:nom.voc:m1:perf:aff		
+> narozsypywaniom	narozsypywać	ger:pl:dat:n:perf:aff		
+> narozsypywaniu	narozsypywać	ger:sg:dat.loc:n:perf:aff		
+> narozsypywano	narozsypywać	imps:perf		
+> narozsypywanych	narozsypywać	ppas:pl:acc:m1:perf:aff		
+> narozsypywanych	narozsypywać	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:aff		
+> narozsypywanymi	narozsypywać	ppas:pl:inst:m1.m2.m3.f.n:perf:aff		
+> narozsypywanym	narozsypywać	ppas:pl:dat:m1.m2.m3.f.n:perf:aff		
+> narozsypywanym	narozsypywać	ppas:sg:inst.loc:m1.m2.m3.n:perf:aff		
+> narozsypywany	narozsypywać	ppas:sg:acc:m3:perf:aff		
+> narozsypywany	narozsypywać	ppas:sg:nom.voc:m1.m2.m3:perf:aff		
+> narozsypywań	narozsypywać	ger:pl:gen:n:perf:aff		
+> narozsypywawszy	narozsypywać	pant:perf		
+> nienarozsypywana	narozsypywać	ppas:sg:nom.voc:f:perf:neg		
+> nienarozsypywaną	narozsypywać	ppas:sg:acc.inst:f:perf:neg		
+> nienarozsypywanego	narozsypywać	ppas:sg:acc:m1.m2:perf:neg		
+> nienarozsypywanego	narozsypywać	ppas:sg:gen:m1.m2.m3.n:perf:neg		
+> nienarozsypywanej	narozsypywać	ppas:sg:gen.dat.loc:f:perf:neg		
+> nienarozsypywanemu	narozsypywać	ppas:sg:dat:m1.m2.m3.n:perf:neg		
+> nienarozsypywane	narozsypywać	ppas:pl:nom.acc.voc:m2.m3.f.n:perf:neg		
+> nienarozsypywane	narozsypywać	ppas:sg:nom.acc.voc:n:perf:neg		
+> nienarozsypywaniach	narozsypywać	ger:pl:loc:n:perf:neg		
+> nienarozsypywaniami	narozsypywać	ger:pl:inst:n:perf:neg		
+> nienarozsypywania	narozsypywać	ger:pl:nom.acc:n:perf:neg		
+> nienarozsypywania	narozsypywać	ger:sg:gen:n:perf:neg		
+> nienarozsypywaniem	narozsypywać	ger:sg:inst:n:perf:neg		
+> nienarozsypywanie	narozsypywać	ger:sg:nom.acc:n:perf:neg		
+> nienarozsypywani	narozsypywać	ppas:pl:nom.voc:m1:perf:neg		
+> nienarozsypywaniom	narozsypywać	ger:pl:dat:n:perf:neg		
+> nienarozsypywaniu	narozsypywać	ger:sg:dat.loc:n:perf:neg		
+> nienarozsypywanych	narozsypywać	ppas:pl:acc:m1:perf:neg		
+> nienarozsypywanych	narozsypywać	ppas:pl:gen.loc:m1.m2.m3.f.n:perf:neg		
+> nienarozsypywanymi	narozsypywać	ppas:pl:inst:m1.m2.m3.f.n:perf:neg		
+> nienarozsypywanym	narozsypywać	ppas:pl:dat:m1.m2.m3.f.n:perf:neg		
+> nienarozsypywanym	narozsypywać	ppas:sg:inst.loc:m1.m2.m3.n:perf:neg		
+> nienarozsypywany	narozsypywać	ppas:sg:acc:m3:perf:neg		
+> nienarozsypywany	narozsypywać	ppas:sg:nom.voc:m1.m2.m3:perf:neg		
+> nienarozsypywań	narozsypywać	ger:pl:gen:n:perf:neg		
+3056191a3056310,3056344
+> niepręgierzowościach	niepręgierzowość	subst:pl:loc:f		
+> niepręgierzowościami	niepręgierzowość	subst:pl:inst:f		
+> niepręgierzowością	niepręgierzowość	subst:sg:inst:f		
+> niepręgierzowości	niepręgierzowość	subst:pl:gen:f		
+> niepręgierzowości	niepręgierzowość	subst:pl:nom.acc.voc:f		
+> niepręgierzowości	niepręgierzowość	subst:sg:dat.loc:f		
+> niepręgierzowości	niepręgierzowość	subst:sg:gen:f		
+> niepręgierzowości	niepręgierzowość	subst:sg:voc:f		
+> niepręgierzowościom	niepręgierzowość	subst:pl:dat:f		
+> niepręgierzowość	niepręgierzowość	subst:sg:acc:f		
+> niepręgierzowość	niepręgierzowość	subst:sg:nom:f		
+> niepręgierzowa	niepręgierzowy	adj:sg:nom.voc:f:pos		
+> niepręgierzową	niepręgierzowy	adj:sg:acc:f:pos		
+> niepręgierzową	niepręgierzowy	adj:sg:inst:f:pos		
+> niepręgierzowego	niepręgierzowy	adj:sg:acc:m1.m2:pos		
+> niepręgierzowego	niepręgierzowy	adj:sg:gen:m1.m2.m3.n:pos		
+> niepręgierzowej	niepręgierzowy	adj:sg:dat:f:pos		
+> niepręgierzowej	niepręgierzowy	adj:sg:gen:f:pos		
+> niepręgierzowej	niepręgierzowy	adj:sg:loc:f:pos		
+> niepręgierzowemu	niepręgierzowy	adj:sg:dat:m1.m2.m3.n:pos		
+> niepręgierzowe	niepręgierzowy	adj:pl:acc:m2.m3.f.n:pos		
+> niepręgierzowe	niepręgierzowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> niepręgierzowe	niepręgierzowy	adj:sg:acc:n:pos		
+> niepręgierzowe	niepręgierzowy	adj:sg:nom.voc:n:pos		
+> niepręgierzowi	niepręgierzowy	adj:pl:nom.voc:m1:pos		
+> niepręgierzowo	niepręgierzowy	adja		
+> niepręgierzowych	niepręgierzowy	adj:pl:acc:m1:pos		
+> niepręgierzowych	niepręgierzowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> niepręgierzowych	niepręgierzowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> niepręgierzowymi	niepręgierzowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> niepręgierzowym	niepręgierzowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> niepręgierzowym	niepręgierzowy	adj:sg:inst:m1.m2.m3.n:pos		
+> niepręgierzowym	niepręgierzowy	adj:sg:loc:m1.m2.m3.n:pos		
+> niepręgierzowy	niepręgierzowy	adj:sg:acc:m3:pos		
+> niepręgierzowy	niepręgierzowy	adj:sg:nom.voc:m1.m2.m3:pos		
+3073413a3073567,3073601
+> nieprzedbiegowościach	nieprzedbiegowość	subst:pl:loc:f		
+> nieprzedbiegowościami	nieprzedbiegowość	subst:pl:inst:f		
+> nieprzedbiegowością	nieprzedbiegowość	subst:sg:inst:f		
+> nieprzedbiegowości	nieprzedbiegowość	subst:pl:gen:f		
+> nieprzedbiegowości	nieprzedbiegowość	subst:pl:nom.acc.voc:f		
+> nieprzedbiegowości	nieprzedbiegowość	subst:sg:dat.loc:f		
+> nieprzedbiegowości	nieprzedbiegowość	subst:sg:gen:f		
+> nieprzedbiegowości	nieprzedbiegowość	subst:sg:voc:f		
+> nieprzedbiegowościom	nieprzedbiegowość	subst:pl:dat:f		
+> nieprzedbiegowość	nieprzedbiegowość	subst:sg:acc:f		
+> nieprzedbiegowość	nieprzedbiegowość	subst:sg:nom:f		
+> nieprzedbiegowa	nieprzedbiegowy	adj:sg:nom.voc:f:pos		
+> nieprzedbiegową	nieprzedbiegowy	adj:sg:acc:f:pos		
+> nieprzedbiegową	nieprzedbiegowy	adj:sg:inst:f:pos		
+> nieprzedbiegowego	nieprzedbiegowy	adj:sg:acc:m1.m2:pos		
+> nieprzedbiegowego	nieprzedbiegowy	adj:sg:gen:m1.m2.m3.n:pos		
+> nieprzedbiegowej	nieprzedbiegowy	adj:sg:dat:f:pos		
+> nieprzedbiegowej	nieprzedbiegowy	adj:sg:gen:f:pos		
+> nieprzedbiegowej	nieprzedbiegowy	adj:sg:loc:f:pos		
+> nieprzedbiegowemu	nieprzedbiegowy	adj:sg:dat:m1.m2.m3.n:pos		
+> nieprzedbiegowe	nieprzedbiegowy	adj:pl:acc:m2.m3.f.n:pos		
+> nieprzedbiegowe	nieprzedbiegowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieprzedbiegowe	nieprzedbiegowy	adj:sg:acc:n:pos		
+> nieprzedbiegowe	nieprzedbiegowy	adj:sg:nom.voc:n:pos		
+> nieprzedbiegowi	nieprzedbiegowy	adj:pl:nom.voc:m1:pos		
+> nieprzedbiegowo	nieprzedbiegowy	adja		
+> nieprzedbiegowych	nieprzedbiegowy	adj:pl:acc:m1:pos		
+> nieprzedbiegowych	nieprzedbiegowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieprzedbiegowych	nieprzedbiegowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieprzedbiegowymi	nieprzedbiegowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieprzedbiegowym	nieprzedbiegowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieprzedbiegowym	nieprzedbiegowy	adj:sg:inst:m1.m2.m3.n:pos		
+> nieprzedbiegowym	nieprzedbiegowy	adj:sg:loc:m1.m2.m3.n:pos		
+> nieprzedbiegowy	nieprzedbiegowy	adj:sg:acc:m3:pos		
+> nieprzedbiegowy	nieprzedbiegowy	adj:sg:nom.voc:m1.m2.m3:pos		
+3148061a3148250,3148284
+> nierozsypywalnościach	nierozsypywalność	subst:pl:loc:f		
+> nierozsypywalnościami	nierozsypywalność	subst:pl:inst:f		
+> nierozsypywalnością	nierozsypywalność	subst:sg:inst:f		
+> nierozsypywalności	nierozsypywalność	subst:pl:gen:f		
+> nierozsypywalności	nierozsypywalność	subst:pl:nom.acc.voc:f		
+> nierozsypywalności	nierozsypywalność	subst:sg:dat.loc:f		
+> nierozsypywalności	nierozsypywalność	subst:sg:gen:f		
+> nierozsypywalności	nierozsypywalność	subst:sg:voc:f		
+> nierozsypywalnościom	nierozsypywalność	subst:pl:dat:f		
+> nierozsypywalność	nierozsypywalność	subst:sg:acc:f		
+> nierozsypywalność	nierozsypywalność	subst:sg:nom:f		
+> nierozsypywalna	nierozsypywalny	adj:sg:nom.voc:f:pos		
+> nierozsypywalną	nierozsypywalny	adj:sg:acc:f:pos		
+> nierozsypywalną	nierozsypywalny	adj:sg:inst:f:pos		
+> nierozsypywalnego	nierozsypywalny	adj:sg:acc:m1.m2:pos		
+> nierozsypywalnego	nierozsypywalny	adj:sg:gen:m1.m2.m3.n:pos		
+> nierozsypywalnej	nierozsypywalny	adj:sg:dat:f:pos		
+> nierozsypywalnej	nierozsypywalny	adj:sg:gen:f:pos		
+> nierozsypywalnej	nierozsypywalny	adj:sg:loc:f:pos		
+> nierozsypywalnemu	nierozsypywalny	adj:sg:dat:m1.m2.m3.n:pos		
+> nierozsypywalne	nierozsypywalny	adj:pl:acc:m2.m3.f.n:pos		
+> nierozsypywalne	nierozsypywalny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nierozsypywalne	nierozsypywalny	adj:sg:acc:n:pos		
+> nierozsypywalne	nierozsypywalny	adj:sg:nom.voc:n:pos		
+> nierozsypywalni	nierozsypywalny	adj:pl:nom.voc:m1:pos		
+> nierozsypywalno	nierozsypywalny	adja		
+> nierozsypywalnych	nierozsypywalny	adj:pl:acc:m1:pos		
+> nierozsypywalnych	nierozsypywalny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nierozsypywalnych	nierozsypywalny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nierozsypywalnymi	nierozsypywalny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nierozsypywalnym	nierozsypywalny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nierozsypywalnym	nierozsypywalny	adj:sg:inst:m1.m2.m3.n:pos		
+> nierozsypywalnym	nierozsypywalny	adj:sg:loc:m1.m2.m3.n:pos		
+> nierozsypywalny	nierozsypywalny	adj:sg:acc:m3:pos		
+> nierozsypywalny	nierozsypywalny	adj:sg:nom.voc:m1.m2.m3:pos		
+3253102a3253326,3253360
+> nieszablowatościach	nieszablowatość	subst:pl:loc:f		
+> nieszablowatościami	nieszablowatość	subst:pl:inst:f		
+> nieszablowatością	nieszablowatość	subst:sg:inst:f		
+> nieszablowatości	nieszablowatość	subst:pl:gen:f		
+> nieszablowatości	nieszablowatość	subst:pl:nom.acc.voc:f		
+> nieszablowatości	nieszablowatość	subst:sg:dat.loc:f		
+> nieszablowatości	nieszablowatość	subst:sg:gen:f		
+> nieszablowatości	nieszablowatość	subst:sg:voc:f		
+> nieszablowatościom	nieszablowatość	subst:pl:dat:f		
+> nieszablowatość	nieszablowatość	subst:sg:acc:f		
+> nieszablowatość	nieszablowatość	subst:sg:nom:f		
+> nieszablowaci	nieszablowaty	adj:pl:nom.voc:m1:pos		
+> nieszablowata	nieszablowaty	adj:sg:nom.voc:f:pos		
+> nieszablowatą	nieszablowaty	adj:sg:acc:f:pos		
+> nieszablowatą	nieszablowaty	adj:sg:inst:f:pos		
+> nieszablowatego	nieszablowaty	adj:sg:acc:m1.m2:pos		
+> nieszablowatego	nieszablowaty	adj:sg:gen:m1.m2.m3.n:pos		
+> nieszablowatej	nieszablowaty	adj:sg:dat:f:pos		
+> nieszablowatej	nieszablowaty	adj:sg:gen:f:pos		
+> nieszablowatej	nieszablowaty	adj:sg:loc:f:pos		
+> nieszablowatemu	nieszablowaty	adj:sg:dat:m1.m2.m3.n:pos		
+> nieszablowate	nieszablowaty	adj:pl:acc:m2.m3.f.n:pos		
+> nieszablowate	nieszablowaty	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieszablowate	nieszablowaty	adj:sg:acc:n:pos		
+> nieszablowate	nieszablowaty	adj:sg:nom.voc:n:pos		
+> nieszablowato	nieszablowaty	adja		
+> nieszablowatych	nieszablowaty	adj:pl:acc:m1:pos		
+> nieszablowatych	nieszablowaty	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieszablowatych	nieszablowaty	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieszablowatymi	nieszablowaty	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieszablowatym	nieszablowaty	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieszablowatym	nieszablowaty	adj:sg:inst:m1.m2.m3.n:pos		
+> nieszablowatym	nieszablowaty	adj:sg:loc:m1.m2.m3.n:pos		
+> nieszablowaty	nieszablowaty	adj:sg:acc:m3:pos		
+> nieszablowaty	nieszablowaty	adj:sg:nom.voc:m1.m2.m3:pos		
+4136266a4136525
+> PKW	PKW	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m3	nazwa_instytucji	
+4655478a4655738,4655772
+> pręgierzowościach	pręgierzowość	subst:pl:loc:f		
+> pręgierzowościami	pręgierzowość	subst:pl:inst:f		
+> pręgierzowością	pręgierzowość	subst:sg:inst:f		
+> pręgierzowościom	pręgierzowość	subst:pl:dat:f		
+> pręgierzowości	pręgierzowość	subst:pl:gen:f		
+> pręgierzowości	pręgierzowość	subst:pl:nom.acc.voc:f		
+> pręgierzowości	pręgierzowość	subst:sg:dat.loc:f		
+> pręgierzowości	pręgierzowość	subst:sg:gen:f		
+> pręgierzowości	pręgierzowość	subst:sg:voc:f		
+> pręgierzowość	pręgierzowość	subst:sg:acc:f		
+> pręgierzowość	pręgierzowość	subst:sg:nom:f		
+> pręgierzowa	pręgierzowy	adj:sg:nom.voc:f:pos		
+> pręgierzową	pręgierzowy	adj:sg:acc:f:pos		
+> pręgierzową	pręgierzowy	adj:sg:inst:f:pos		
+> pręgierzowego	pręgierzowy	adj:sg:acc:m1.m2:pos		
+> pręgierzowego	pręgierzowy	adj:sg:gen:m1.m2.m3.n:pos		
+> pręgierzowej	pręgierzowy	adj:sg:dat:f:pos		
+> pręgierzowej	pręgierzowy	adj:sg:gen:f:pos		
+> pręgierzowej	pręgierzowy	adj:sg:loc:f:pos		
+> pręgierzowemu	pręgierzowy	adj:sg:dat:m1.m2.m3.n:pos		
+> pręgierzowe	pręgierzowy	adj:pl:acc:m2.m3.f.n:pos		
+> pręgierzowe	pręgierzowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> pręgierzowe	pręgierzowy	adj:sg:acc:n:pos		
+> pręgierzowe	pręgierzowy	adj:sg:nom.voc:n:pos		
+> pręgierzowi	pręgierzowy	adj:pl:nom.voc:m1:pos		
+> pręgierzowo	pręgierzowy	adja		
+> pręgierzowych	pręgierzowy	adj:pl:acc:m1:pos		
+> pręgierzowych	pręgierzowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> pręgierzowych	pręgierzowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> pręgierzowymi	pręgierzowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> pręgierzowym	pręgierzowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> pręgierzowym	pręgierzowy	adj:sg:inst:m1.m2.m3.n:pos		
+> pręgierzowym	pręgierzowy	adj:sg:loc:m1.m2.m3.n:pos		
+> pręgierzowy	pręgierzowy	adj:sg:acc:m3:pos		
+> pręgierzowy	pręgierzowy	adj:sg:nom.voc:m1.m2.m3:pos		
+4720157a4720452,4720486
+> przedbiegowościach	przedbiegowość	subst:pl:loc:f		
+> przedbiegowościami	przedbiegowość	subst:pl:inst:f		
+> przedbiegowością	przedbiegowość	subst:sg:inst:f		
+> przedbiegowościom	przedbiegowość	subst:pl:dat:f		
+> przedbiegowości	przedbiegowość	subst:pl:gen:f		
+> przedbiegowości	przedbiegowość	subst:pl:nom.acc.voc:f		
+> przedbiegowości	przedbiegowość	subst:sg:dat.loc:f		
+> przedbiegowości	przedbiegowość	subst:sg:gen:f		
+> przedbiegowości	przedbiegowość	subst:sg:voc:f		
+> przedbiegowość	przedbiegowość	subst:sg:acc:f		
+> przedbiegowość	przedbiegowość	subst:sg:nom:f		
+> przedbiegowa	przedbiegowy	adj:sg:nom.voc:f:pos		
+> przedbiegową	przedbiegowy	adj:sg:acc:f:pos		
+> przedbiegową	przedbiegowy	adj:sg:inst:f:pos		
+> przedbiegowego	przedbiegowy	adj:sg:acc:m1.m2:pos		
+> przedbiegowego	przedbiegowy	adj:sg:gen:m1.m2.m3.n:pos		
+> przedbiegowej	przedbiegowy	adj:sg:dat:f:pos		
+> przedbiegowej	przedbiegowy	adj:sg:gen:f:pos		
+> przedbiegowej	przedbiegowy	adj:sg:loc:f:pos		
+> przedbiegowemu	przedbiegowy	adj:sg:dat:m1.m2.m3.n:pos		
+> przedbiegowe	przedbiegowy	adj:pl:acc:m2.m3.f.n:pos		
+> przedbiegowe	przedbiegowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> przedbiegowe	przedbiegowy	adj:sg:acc:n:pos		
+> przedbiegowe	przedbiegowy	adj:sg:nom.voc:n:pos		
+> przedbiegowi	przedbiegowy	adj:pl:nom.voc:m1:pos		
+> przedbiegowo	przedbiegowy	adja		
+> przedbiegowych	przedbiegowy	adj:pl:acc:m1:pos		
+> przedbiegowych	przedbiegowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> przedbiegowych	przedbiegowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> przedbiegowymi	przedbiegowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> przedbiegowym	przedbiegowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> przedbiegowym	przedbiegowy	adj:sg:inst:m1.m2.m3.n:pos		
+> przedbiegowym	przedbiegowy	adj:sg:loc:m1.m2.m3.n:pos		
+> przedbiegowy	przedbiegowy	adj:sg:acc:m3:pos		
+> przedbiegowy	przedbiegowy	adj:sg:nom.voc:m1.m2.m3:pos		
+5291208a5291538,5291548
+> rozsypywaczce	rozsypywaczka	subst:sg:dat.loc:f	nazwa_pospolita	
+> rozsypywaczek	rozsypywaczka	subst:pl:gen:f	nazwa_pospolita	
+> rozsypywaczkach	rozsypywaczka	subst:pl:loc:f	nazwa_pospolita	
+> rozsypywaczkami	rozsypywaczka	subst:pl:inst:f	nazwa_pospolita	
+> rozsypywaczka	rozsypywaczka	subst:sg:nom:f	nazwa_pospolita	
+> rozsypywaczką	rozsypywaczka	subst:sg:inst:f	nazwa_pospolita	
+> rozsypywaczkę	rozsypywaczka	subst:sg:acc:f	nazwa_pospolita	
+> rozsypywaczki	rozsypywaczka	subst:pl:nom.acc.voc:f	nazwa_pospolita	
+> rozsypywaczki	rozsypywaczka	subst:sg:gen:f	nazwa_pospolita	
+> rozsypywaczkom	rozsypywaczka	subst:pl:dat:f	nazwa_pospolita	
+> rozsypywaczko	rozsypywaczka	subst:sg:voc:f	nazwa_pospolita	
+5291338a5291679,5291713
+> rozsypywalnościach	rozsypywalność	subst:pl:loc:f		
+> rozsypywalnościami	rozsypywalność	subst:pl:inst:f		
+> rozsypywalnością	rozsypywalność	subst:sg:inst:f		
+> rozsypywalnościom	rozsypywalność	subst:pl:dat:f		
+> rozsypywalności	rozsypywalność	subst:pl:gen:f		
+> rozsypywalności	rozsypywalność	subst:pl:nom.acc.voc:f		
+> rozsypywalności	rozsypywalność	subst:sg:dat.loc:f		
+> rozsypywalności	rozsypywalność	subst:sg:gen:f		
+> rozsypywalności	rozsypywalność	subst:sg:voc:f		
+> rozsypywalność	rozsypywalność	subst:sg:acc:f		
+> rozsypywalność	rozsypywalność	subst:sg:nom:f		
+> rozsypywalna	rozsypywalny	adj:sg:nom.voc:f:pos		
+> rozsypywalną	rozsypywalny	adj:sg:acc:f:pos		
+> rozsypywalną	rozsypywalny	adj:sg:inst:f:pos		
+> rozsypywalnego	rozsypywalny	adj:sg:acc:m1.m2:pos		
+> rozsypywalnego	rozsypywalny	adj:sg:gen:m1.m2.m3.n:pos		
+> rozsypywalnej	rozsypywalny	adj:sg:dat:f:pos		
+> rozsypywalnej	rozsypywalny	adj:sg:gen:f:pos		
+> rozsypywalnej	rozsypywalny	adj:sg:loc:f:pos		
+> rozsypywalnemu	rozsypywalny	adj:sg:dat:m1.m2.m3.n:pos		
+> rozsypywalne	rozsypywalny	adj:pl:acc:m2.m3.f.n:pos		
+> rozsypywalne	rozsypywalny	adj:pl:nom.voc:m2.m3.f.n:pos		
+> rozsypywalne	rozsypywalny	adj:sg:acc:n:pos		
+> rozsypywalne	rozsypywalny	adj:sg:nom.voc:n:pos		
+> rozsypywalni	rozsypywalny	adj:pl:nom.voc:m1:pos		
+> rozsypywalno	rozsypywalny	adja		
+> rozsypywalnych	rozsypywalny	adj:pl:acc:m1:pos		
+> rozsypywalnych	rozsypywalny	adj:pl:gen:m1.m2.m3.f.n:pos		
+> rozsypywalnych	rozsypywalny	adj:pl:loc:m1.m2.m3.f.n:pos		
+> rozsypywalnymi	rozsypywalny	adj:pl:inst:m1.m2.m3.f.n:pos		
+> rozsypywalnym	rozsypywalny	adj:pl:dat:m1.m2.m3.f.n:pos		
+> rozsypywalnym	rozsypywalny	adj:sg:inst:m1.m2.m3.n:pos		
+> rozsypywalnym	rozsypywalny	adj:sg:loc:m1.m2.m3.n:pos		
+> rozsypywalny	rozsypywalny	adj:sg:acc:m3:pos		
+> rozsypywalny	rozsypywalny	adj:sg:nom.voc:m1.m2.m3:pos		
+5597124a5597500,5597510
+> SN-ach	SN	subst:pl:loc:m3	nazwa_organizacji	
+> SN-ami	SN	subst:pl:inst:m3	nazwa_organizacji	
+> SN-em	SN	subst:sg:inst:m3	nazwa_organizacji	
+> SN-ie	SN	subst:sg:loc:m3	nazwa_organizacji	
+> SN-ie	SN	subst:sg:voc:m3	nazwa_organizacji	
+> SN-om	SN	subst:pl:dat:m3	nazwa_organizacji	
+> SN-owi	SN	subst:sg:dat:m3	nazwa_organizacji	
+> SN-ów	SN	subst:pl:gen:m3	nazwa_organizacji	
+> SN	SN	subst:sg:nom.acc:m3	nazwa_organizacji	
+> SN-u	SN	subst:sg:gen:m3	nazwa_organizacji	
+> SN-y	SN	subst:pl:nom.acc.voc:m3	nazwa_organizacji	
+5817216a5817603,5817613
+> szabelkówce	szabelkówka	subst:sg:dat.loc:f	nazwa_pospolita	kulin.|reg.
+> szabelkówek	szabelkówka	subst:pl:gen:f	nazwa_pospolita	kulin.|reg.
+> szabelkówkach	szabelkówka	subst:pl:loc:f	nazwa_pospolita	kulin.|reg.
+> szabelkówkami	szabelkówka	subst:pl:inst:f	nazwa_pospolita	kulin.|reg.
+> szabelkówka	szabelkówka	subst:sg:nom:f	nazwa_pospolita	kulin.|reg.
+> szabelkówką	szabelkówka	subst:sg:inst:f	nazwa_pospolita	kulin.|reg.
+> szabelkówkę	szabelkówka	subst:sg:acc:f	nazwa_pospolita	kulin.|reg.
+> szabelkówki	szabelkówka	subst:pl:nom.acc.voc:f	nazwa_pospolita	kulin.|reg.
+> szabelkówki	szabelkówka	subst:sg:gen:f	nazwa_pospolita	kulin.|reg.
+> szabelkówkom	szabelkówka	subst:pl:dat:f	nazwa_pospolita	kulin.|reg.
+> szabelkówko	szabelkówka	subst:sg:voc:f	nazwa_pospolita	kulin.|reg.
+5817862a5818260,5818294
+> szablowatościach	szablowatość	subst:pl:loc:f		
+> szablowatościami	szablowatość	subst:pl:inst:f		
+> szablowatością	szablowatość	subst:sg:inst:f		
+> szablowatościom	szablowatość	subst:pl:dat:f		
+> szablowatości	szablowatość	subst:pl:gen:f		
+> szablowatości	szablowatość	subst:pl:nom.acc.voc:f		
+> szablowatości	szablowatość	subst:sg:dat.loc:f		
+> szablowatości	szablowatość	subst:sg:gen:f		
+> szablowatości	szablowatość	subst:sg:voc:f		
+> szablowatość	szablowatość	subst:sg:acc:f		
+> szablowatość	szablowatość	subst:sg:nom:f		
+> szablowaci	szablowaty	adj:pl:nom.voc:m1:pos		
+> szablowata	szablowaty	adj:sg:nom.voc:f:pos		
+> szablowatą	szablowaty	adj:sg:acc:f:pos		
+> szablowatą	szablowaty	adj:sg:inst:f:pos		
+> szablowatego	szablowaty	adj:sg:acc:m1.m2:pos		
+> szablowatego	szablowaty	adj:sg:gen:m1.m2.m3.n:pos		
+> szablowatej	szablowaty	adj:sg:dat:f:pos		
+> szablowatej	szablowaty	adj:sg:gen:f:pos		
+> szablowatej	szablowaty	adj:sg:loc:f:pos		
+> szablowatemu	szablowaty	adj:sg:dat:m1.m2.m3.n:pos		
+> szablowate	szablowaty	adj:pl:acc:m2.m3.f.n:pos		
+> szablowate	szablowaty	adj:pl:nom.voc:m2.m3.f.n:pos		
+> szablowate	szablowaty	adj:sg:acc:n:pos		
+> szablowate	szablowaty	adj:sg:nom.voc:n:pos		
+> szablowato	szablowaty	adja		
+> szablowatych	szablowaty	adj:pl:acc:m1:pos		
+> szablowatych	szablowaty	adj:pl:gen:m1.m2.m3.f.n:pos		
+> szablowatych	szablowaty	adj:pl:loc:m1.m2.m3.f.n:pos		
+> szablowatymi	szablowaty	adj:pl:inst:m1.m2.m3.f.n:pos		
+> szablowatym	szablowaty	adj:pl:dat:m1.m2.m3.f.n:pos		
+> szablowatym	szablowaty	adj:sg:inst:m1.m2.m3.n:pos		
+> szablowatym	szablowaty	adj:sg:loc:m1.m2.m3.n:pos		
+> szablowaty	szablowaty	adj:sg:acc:m3:pos		
+> szablowaty	szablowaty	adj:sg:nom.voc:m1.m2.m3:pos		

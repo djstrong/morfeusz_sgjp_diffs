@@ -1,0 +1,69 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.11.19
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.11.26
+1159844,1159848d1159843
+< kontraktach	kontrakty	subst:pl:loc:n:pt	nazwa pospolita	hist.
+< kontraktami	kontrakty	subst:pl:inst:n:pt	nazwa pospolita	hist.
+< kontraktom	kontrakty	subst:pl:dat:n:pt	nazwa pospolita	hist.
+< kontraktów	kontrakty	subst:pl:gen:n:pt	nazwa pospolita	hist.
+< kontrakty	kontrakty	subst:pl:nom.acc.voc:n:pt	nazwa pospolita	hist.
+1255442,1255452d1255436
+< kurek	kurek	subst:sg:nom.acc:m3	nazwa pospolita	
+< kurkach	kurek	subst:pl:loc:m3	nazwa pospolita	
+< kurka	kurek	subst:sg:gen:m3	nazwa pospolita	
+< kurkami	kurek	subst:pl:inst:m3	nazwa pospolita	
+< kurkiem	kurek	subst:sg:inst:m3	nazwa pospolita	
+< kurki	kurek	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+< kurkom	kurek	subst:pl:dat:m3	nazwa pospolita	
+< kurkowi	kurek	subst:sg:dat:m3	nazwa pospolita	
+< kurków	kurek	subst:pl:gen:m3	nazwa pospolita	
+< kurku	kurek	subst:sg:loc:m3	nazwa pospolita	
+< kurku	kurek	subst:sg:voc:m3	nazwa pospolita	
+1255464a1255449,1255470
+> kurek	kurek:s1	subst:sg:nom.acc:m3	nazwa pospolita	
+> kurkach	kurek:s1	subst:pl:loc:m3	nazwa pospolita	
+> kurka	kurek:s1	subst:sg:gen:m3	nazwa pospolita	
+> kurkami	kurek:s1	subst:pl:inst:m3	nazwa pospolita	
+> kurkiem	kurek:s1	subst:sg:inst:m3	nazwa pospolita	
+> kurki	kurek:s1	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+> kurkom	kurek:s1	subst:pl:dat:m3	nazwa pospolita	
+> kurkowi	kurek:s1	subst:sg:dat:m3	nazwa pospolita	
+> kurków	kurek:s1	subst:pl:gen:m3	nazwa pospolita	
+> kurku	kurek:s1	subst:sg:loc:m3	nazwa pospolita	
+> kurku	kurek:s1	subst:sg:voc:m3	nazwa pospolita	
+> kurek	kurek:s2	subst:sg:nom:m2	nazwa pospolita	
+> kurkach	kurek:s2	subst:pl:loc:m2	nazwa pospolita	
+> kurka	kurek:s2	subst:sg:gen.acc:m2	nazwa pospolita	
+> kurkami	kurek:s2	subst:pl:inst:m2	nazwa pospolita	
+> kurkiem	kurek:s2	subst:sg:inst:m2	nazwa pospolita	
+> kurki	kurek:s2	subst:pl:nom.acc.voc:m2	nazwa pospolita	
+> kurkom	kurek:s2	subst:pl:dat:m2	nazwa pospolita	
+> kurkowi	kurek:s2	subst:sg:dat:m2	nazwa pospolita	
+> kurków	kurek:s2	subst:pl:gen:m2	nazwa pospolita	
+> kurku	kurek:s2	subst:sg:loc:m2	nazwa pospolita	
+> kurku	kurek:s2	subst:sg:voc:m2	nazwa pospolita	
+4693711,4693721c4693717,4693727
+< skopach	skop	subst:pl:loc:m3	nazwa pospolita	
+< skopami	skop	subst:pl:inst:m3	nazwa pospolita	
+< skopa	skop	subst:sg:gen:m3	nazwa pospolita	
+< skopem	skop	subst:sg:inst:m3	nazwa pospolita	
+< skopie	skop	subst:sg:loc:m3	nazwa pospolita	
+< skopie	skop	subst:sg:voc:m3	nazwa pospolita	
+< skopom	skop	subst:pl:dat:m3	nazwa pospolita	
+< skopowi	skop	subst:sg:dat:m3	nazwa pospolita	
+< skopów	skop	subst:pl:gen:m3	nazwa pospolita	
+< skop	skop	subst:sg:nom.acc:m3	nazwa pospolita	
+< skopy	skop	subst:pl:nom.acc.voc:m3	nazwa pospolita	
+---
+> skopach	skop	subst:pl:loc:m2	nazwa pospolita	
+> skopami	skop	subst:pl:inst:m2	nazwa pospolita	
+> skopa	skop	subst:sg:gen.acc:m2	nazwa pospolita	
+> skopem	skop	subst:sg:inst:m2	nazwa pospolita	
+> skopie	skop	subst:sg:loc:m2	nazwa pospolita	
+> skopie	skop	subst:sg:voc:m2	nazwa pospolita	
+> skopom	skop	subst:pl:dat:m2	nazwa pospolita	
+> skopowi	skop	subst:sg:dat:m2	nazwa pospolita	
+> skopów	skop	subst:pl:gen:m2	nazwa pospolita	
+> skop	skop	subst:sg:nom:m2	nazwa pospolita	
+> skopy	skop	subst:pl:nom.acc.voc:m2	nazwa pospolita	

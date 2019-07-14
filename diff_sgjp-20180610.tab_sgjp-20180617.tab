@@ -1,0 +1,314 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2018.06.10
+---
+> #!DICT-ID pl.sgjp.sgjp-2018.06.17
+1020294,1020304c1020294,1020304
+< gramatce	gramatka	subst:sg:dat.loc:f	nazwa pospolita	
+< gramatek	gramatka	subst:pl:gen:f	nazwa pospolita	
+< gramatkach	gramatka	subst:pl:loc:f	nazwa pospolita	
+< gramatka	gramatka	subst:sg:nom:f	nazwa pospolita	
+< gramatkami	gramatka	subst:pl:inst:f	nazwa pospolita	
+< gramatką	gramatka	subst:sg:inst:f	nazwa pospolita	
+< gramatkę	gramatka	subst:sg:acc:f	nazwa pospolita	
+< gramatki	gramatka	subst:pl:nom.acc.voc:f	nazwa pospolita	
+< gramatki	gramatka	subst:sg:gen:f	nazwa pospolita	
+< gramatko	gramatka	subst:sg:voc:f	nazwa pospolita	
+< gramatkom	gramatka	subst:pl:dat:f	nazwa pospolita	
+---
+> gramatce	gramatka	subst:sg:dat.loc:f	nazwa pospolita	kulin.
+> gramatek	gramatka	subst:pl:gen:f	nazwa pospolita	kulin.
+> gramatkach	gramatka	subst:pl:loc:f	nazwa pospolita	kulin.
+> gramatka	gramatka	subst:sg:nom:f	nazwa pospolita	kulin.
+> gramatkami	gramatka	subst:pl:inst:f	nazwa pospolita	kulin.
+> gramatką	gramatka	subst:sg:inst:f	nazwa pospolita	kulin.
+> gramatkę	gramatka	subst:sg:acc:f	nazwa pospolita	kulin.
+> gramatki	gramatka	subst:pl:nom.acc.voc:f	nazwa pospolita	kulin.
+> gramatki	gramatka	subst:sg:gen:f	nazwa pospolita	kulin.
+> gramatko	gramatka	subst:sg:voc:f	nazwa pospolita	kulin.
+> gramatkom	gramatka	subst:pl:dat:f	nazwa pospolita	kulin.
+1497687,1497698c1497687,1497698
+< Kosowianach	Kosowianin	subst:pl:loc:m1	nazwa pospolita	
+< Kosowianami	Kosowianin	subst:pl:inst:m1	nazwa pospolita	
+< Kosowianie	Kosowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+< Kosowianina	Kosowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+< Kosowianinem	Kosowianin	subst:sg:inst:m1	nazwa pospolita	
+< Kosowianinie	Kosowianin	subst:sg:loc:m1	nazwa pospolita	
+< Kosowianinie	Kosowianin	subst:sg:voc:m1	nazwa pospolita	
+< Kosowianin	Kosowianin	subst:sg:nom:m1	nazwa pospolita	
+< Kosowianinowi	Kosowianin	subst:sg:dat:m1	nazwa pospolita	
+< Kosowian	Kosowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+< Kosowianom	Kosowianin	subst:pl:dat:m1	nazwa pospolita	
+< Kosowiany	Kosowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Kosowianach	Kosowianin	subst:pl:loc:m1	nazwa pospolita	etn.
+> Kosowianami	Kosowianin	subst:pl:inst:m1	nazwa pospolita	etn.
+> Kosowianie	Kosowianin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Kosowianina	Kosowianin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Kosowianinem	Kosowianin	subst:sg:inst:m1	nazwa pospolita	etn.
+> Kosowianinie	Kosowianin	subst:sg:loc:m1	nazwa pospolita	etn.
+> Kosowianinie	Kosowianin	subst:sg:voc:m1	nazwa pospolita	etn.
+> Kosowianin	Kosowianin	subst:sg:nom:m1	nazwa pospolita	etn.
+> Kosowianinowi	Kosowianin	subst:sg:dat:m1	nazwa pospolita	etn.
+> Kosowian	Kosowianin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Kosowianom	Kosowianin	subst:pl:dat:m1	nazwa pospolita	etn.
+> Kosowiany	Kosowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+1583140,1583151c1583140,1583151
+< Kujawianach	Kujawianin	subst:pl:loc:m1	nazwa pospolita	
+< Kujawianami	Kujawianin	subst:pl:inst:m1	nazwa pospolita	
+< Kujawianie	Kujawianin	subst:pl:nom.voc:m1	nazwa pospolita	
+< Kujawianina	Kujawianin	subst:sg:gen.acc:m1	nazwa pospolita	
+< Kujawianinem	Kujawianin	subst:sg:inst:m1	nazwa pospolita	
+< Kujawianinie	Kujawianin	subst:sg:loc:m1	nazwa pospolita	
+< Kujawianinie	Kujawianin	subst:sg:voc:m1	nazwa pospolita	
+< Kujawianin	Kujawianin	subst:sg:nom:m1	nazwa pospolita	
+< Kujawianinowi	Kujawianin	subst:sg:dat:m1	nazwa pospolita	
+< Kujawian	Kujawianin	subst:pl:gen.acc:m1	nazwa pospolita	
+< Kujawianom	Kujawianin	subst:pl:dat:m1	nazwa pospolita	
+< Kujawiany	Kujawianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Kujawianach	Kujawianin	subst:pl:loc:m1	nazwa pospolita	etn.
+> Kujawianami	Kujawianin	subst:pl:inst:m1	nazwa pospolita	etn.
+> Kujawianie	Kujawianin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Kujawianina	Kujawianin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Kujawianinem	Kujawianin	subst:sg:inst:m1	nazwa pospolita	etn.
+> Kujawianinie	Kujawianin	subst:sg:loc:m1	nazwa pospolita	etn.
+> Kujawianinie	Kujawianin	subst:sg:voc:m1	nazwa pospolita	etn.
+> Kujawianin	Kujawianin	subst:sg:nom:m1	nazwa pospolita	etn.
+> Kujawianinowi	Kujawianin	subst:sg:dat:m1	nazwa pospolita	etn.
+> Kujawian	Kujawianin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Kujawianom	Kujawianin	subst:pl:dat:m1	nazwa pospolita	etn.
+> Kujawiany	Kujawianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+1747025,1747036c1747025,1747036
+< Łużyczanach	Łużyczanin	subst:pl:loc:m1	nazwa pospolita	
+< Łużyczanami	Łużyczanin	subst:pl:inst:m1	nazwa pospolita	
+< Łużyczanie	Łużyczanin	subst:pl:nom.voc:m1	nazwa pospolita	
+< Łużyczanina	Łużyczanin	subst:sg:gen.acc:m1	nazwa pospolita	
+< Łużyczaninem	Łużyczanin	subst:sg:inst:m1	nazwa pospolita	
+< Łużyczaninie	Łużyczanin	subst:sg:loc:m1	nazwa pospolita	
+< Łużyczaninie	Łużyczanin	subst:sg:voc:m1	nazwa pospolita	
+< Łużyczanin	Łużyczanin	subst:sg:nom:m1	nazwa pospolita	
+< Łużyczaninowi	Łużyczanin	subst:sg:dat:m1	nazwa pospolita	
+< Łużyczan	Łużyczanin	subst:pl:gen.acc:m1	nazwa pospolita	
+< Łużyczanom	Łużyczanin	subst:pl:dat:m1	nazwa pospolita	
+< Łużyczany	Łużyczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Łużyczanach	Łużyczanin	subst:pl:loc:m1	nazwa pospolita	etn.
+> Łużyczanami	Łużyczanin	subst:pl:inst:m1	nazwa pospolita	etn.
+> Łużyczanie	Łużyczanin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Łużyczanina	Łużyczanin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Łużyczaninem	Łużyczanin	subst:sg:inst:m1	nazwa pospolita	etn.
+> Łużyczaninie	Łużyczanin	subst:sg:loc:m1	nazwa pospolita	etn.
+> Łużyczaninie	Łużyczanin	subst:sg:voc:m1	nazwa pospolita	etn.
+> Łużyczanin	Łużyczanin	subst:sg:nom:m1	nazwa pospolita	etn.
+> Łużyczaninowi	Łużyczanin	subst:sg:dat:m1	nazwa pospolita	etn.
+> Łużyczan	Łużyczanin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Łużyczanom	Łużyczanin	subst:pl:dat:m1	nazwa pospolita	etn.
+> Łużyczany	Łużyczanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+1782135,1782146c1782135,1782146
+< Małopolanach	Małopolanin	subst:pl:loc:m1	nazwa pospolita	
+< Małopolanami	Małopolanin	subst:pl:inst:m1	nazwa pospolita	
+< Małopolanie	Małopolanin	subst:pl:nom.voc:m1	nazwa pospolita	
+< Małopolanina	Małopolanin	subst:sg:gen.acc:m1	nazwa pospolita	
+< Małopolaninem	Małopolanin	subst:sg:inst:m1	nazwa pospolita	
+< Małopolaninie	Małopolanin	subst:sg:loc:m1	nazwa pospolita	
+< Małopolaninie	Małopolanin	subst:sg:voc:m1	nazwa pospolita	
+< Małopolanin	Małopolanin	subst:sg:nom:m1	nazwa pospolita	
+< Małopolaninowi	Małopolanin	subst:sg:dat:m1	nazwa pospolita	
+< Małopolan	Małopolanin	subst:pl:gen.acc:m1	nazwa pospolita	
+< Małopolanom	Małopolanin	subst:pl:dat:m1	nazwa pospolita	
+< Małopolany	Małopolanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Małopolanach	Małopolanin	subst:pl:loc:m1	nazwa pospolita	etn.
+> Małopolanami	Małopolanin	subst:pl:inst:m1	nazwa pospolita	etn.
+> Małopolanie	Małopolanin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Małopolanina	Małopolanin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Małopolaninem	Małopolanin	subst:sg:inst:m1	nazwa pospolita	etn.
+> Małopolaninie	Małopolanin	subst:sg:loc:m1	nazwa pospolita	etn.
+> Małopolaninie	Małopolanin	subst:sg:voc:m1	nazwa pospolita	etn.
+> Małopolanin	Małopolanin	subst:sg:nom:m1	nazwa pospolita	etn.
+> Małopolaninowi	Małopolanin	subst:sg:dat:m1	nazwa pospolita	etn.
+> Małopolan	Małopolanin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Małopolanom	Małopolanin	subst:pl:dat:m1	nazwa pospolita	etn.
+> Małopolany	Małopolanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+1824590,1824601c1824590,1824601
+< Mazowszanach	Mazowszanin	subst:pl:loc:m1	nazwa pospolita	
+< Mazowszanami	Mazowszanin	subst:pl:inst:m1	nazwa pospolita	
+< Mazowszanie	Mazowszanin	subst:pl:nom.voc:m1	nazwa pospolita	
+< Mazowszanina	Mazowszanin	subst:sg:gen.acc:m1	nazwa pospolita	
+< Mazowszaninem	Mazowszanin	subst:sg:inst:m1	nazwa pospolita	
+< Mazowszaninie	Mazowszanin	subst:sg:loc:m1	nazwa pospolita	
+< Mazowszaninie	Mazowszanin	subst:sg:voc:m1	nazwa pospolita	
+< Mazowszanin	Mazowszanin	subst:sg:nom:m1	nazwa pospolita	
+< Mazowszaninowi	Mazowszanin	subst:sg:dat:m1	nazwa pospolita	
+< Mazowszan	Mazowszanin	subst:pl:gen.acc:m1	nazwa pospolita	
+< Mazowszanom	Mazowszanin	subst:pl:dat:m1	nazwa pospolita	
+< Mazowszany	Mazowszanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Mazowszanach	Mazowszanin	subst:pl:loc:m1	nazwa pospolita	etn.
+> Mazowszanami	Mazowszanin	subst:pl:inst:m1	nazwa pospolita	etn.
+> Mazowszanie	Mazowszanin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Mazowszanina	Mazowszanin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Mazowszaninem	Mazowszanin	subst:sg:inst:m1	nazwa pospolita	etn.
+> Mazowszaninie	Mazowszanin	subst:sg:loc:m1	nazwa pospolita	etn.
+> Mazowszaninie	Mazowszanin	subst:sg:voc:m1	nazwa pospolita	etn.
+> Mazowszanin	Mazowszanin	subst:sg:nom:m1	nazwa pospolita	etn.
+> Mazowszaninowi	Mazowszanin	subst:sg:dat:m1	nazwa pospolita	etn.
+> Mazowszan	Mazowszanin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Mazowszanom	Mazowszanin	subst:pl:dat:m1	nazwa pospolita	etn.
+> Mazowszany	Mazowszanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+4143002,4143013c4143002,4143013
+< Polanach	Polanin:s1	subst:pl:loc:m1	nazwa pospolita	
+< Polanami	Polanin:s1	subst:pl:inst:m1	nazwa pospolita	
+< Polanie	Polanin:s1	subst:pl:nom.voc:m1	nazwa pospolita	
+< Polanina	Polanin:s1	subst:sg:gen.acc:m1	nazwa pospolita	
+< Polaninem	Polanin:s1	subst:sg:inst:m1	nazwa pospolita	
+< Polaninie	Polanin:s1	subst:sg:loc:m1	nazwa pospolita	
+< Polaninie	Polanin:s1	subst:sg:voc:m1	nazwa pospolita	
+< Polaninowi	Polanin:s1	subst:sg:dat:m1	nazwa pospolita	
+< Polanin	Polanin:s1	subst:sg:nom:m1	nazwa pospolita	
+< Polanom	Polanin:s1	subst:pl:dat:m1	nazwa pospolita	
+< Polan	Polanin:s1	subst:pl:gen.acc:m1	nazwa pospolita	
+< Polany	Polanin:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Polanach	Polanin:s1	subst:pl:loc:m1	nazwa pospolita	etn.
+> Polanami	Polanin:s1	subst:pl:inst:m1	nazwa pospolita	etn.
+> Polanie	Polanin:s1	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Polanina	Polanin:s1	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Polaninem	Polanin:s1	subst:sg:inst:m1	nazwa pospolita	etn.
+> Polaninie	Polanin:s1	subst:sg:loc:m1	nazwa pospolita	etn.
+> Polaninie	Polanin:s1	subst:sg:voc:m1	nazwa pospolita	etn.
+> Polaninowi	Polanin:s1	subst:sg:dat:m1	nazwa pospolita	etn.
+> Polanin	Polanin:s1	subst:sg:nom:m1	nazwa pospolita	etn.
+> Polanom	Polanin:s1	subst:pl:dat:m1	nazwa pospolita	etn.
+> Polan	Polanin:s1	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Polany	Polanin:s1	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+4172262,4172273c4172262,4172273
+< Pomorzanach	Pomorzanin	subst:pl:loc:m1	nazwa pospolita	
+< Pomorzanami	Pomorzanin	subst:pl:inst:m1	nazwa pospolita	
+< Pomorzanie	Pomorzanin	subst:pl:nom.voc:m1	nazwa pospolita	
+< Pomorzanina	Pomorzanin	subst:sg:gen.acc:m1	nazwa pospolita	
+< Pomorzaninem	Pomorzanin	subst:sg:inst:m1	nazwa pospolita	
+< Pomorzaninie	Pomorzanin	subst:sg:loc:m1	nazwa pospolita	
+< Pomorzaninie	Pomorzanin	subst:sg:voc:m1	nazwa pospolita	
+< Pomorzaninowi	Pomorzanin	subst:sg:dat:m1	nazwa pospolita	
+< Pomorzanin	Pomorzanin	subst:sg:nom:m1	nazwa pospolita	
+< Pomorzanom	Pomorzanin	subst:pl:dat:m1	nazwa pospolita	
+< Pomorzan	Pomorzanin	subst:pl:gen.acc:m1	nazwa pospolita	
+< Pomorzany	Pomorzanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Pomorzanach	Pomorzanin	subst:pl:loc:m1	nazwa pospolita	etn.
+> Pomorzanami	Pomorzanin	subst:pl:inst:m1	nazwa pospolita	etn.
+> Pomorzanie	Pomorzanin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Pomorzanina	Pomorzanin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Pomorzaninem	Pomorzanin	subst:sg:inst:m1	nazwa pospolita	etn.
+> Pomorzaninie	Pomorzanin	subst:sg:loc:m1	nazwa pospolita	etn.
+> Pomorzaninie	Pomorzanin	subst:sg:voc:m1	nazwa pospolita	etn.
+> Pomorzaninowi	Pomorzanin	subst:sg:dat:m1	nazwa pospolita	etn.
+> Pomorzanin	Pomorzanin	subst:sg:nom:m1	nazwa pospolita	etn.
+> Pomorzanom	Pomorzanin	subst:pl:dat:m1	nazwa pospolita	etn.
+> Pomorzan	Pomorzanin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Pomorzany	Pomorzanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+5331125,5331136c5331125,5331136
+< Sławianach	Sławianin	subst:pl:loc:m1	nazwa pospolita	daw.
+< Sławianami	Sławianin	subst:pl:inst:m1	nazwa pospolita	daw.
+< Sławianie	Sławianin	subst:pl:nom.voc:m1	nazwa pospolita	daw.
+< Sławianina	Sławianin	subst:sg:gen.acc:m1	nazwa pospolita	daw.
+< Sławianinem	Sławianin	subst:sg:inst:m1	nazwa pospolita	daw.
+< Sławianinie	Sławianin	subst:sg:loc:m1	nazwa pospolita	daw.
+< Sławianinie	Sławianin	subst:sg:voc:m1	nazwa pospolita	daw.
+< Sławianinowi	Sławianin	subst:sg:dat:m1	nazwa pospolita	daw.
+< Sławianin	Sławianin	subst:sg:nom:m1	nazwa pospolita	daw.
+< Sławianom	Sławianin	subst:pl:dat:m1	nazwa pospolita	daw.
+< Sławian	Sławianin	subst:pl:gen.acc:m1	nazwa pospolita	daw.
+< Sławiany	Sławianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.
+---
+> Sławianach	Sławianin	subst:pl:loc:m1	nazwa pospolita	daw.|etn.
+> Sławianami	Sławianin	subst:pl:inst:m1	nazwa pospolita	daw.|etn.
+> Sławianie	Sławianin	subst:pl:nom.voc:m1	nazwa pospolita	daw.|etn.
+> Sławianina	Sławianin	subst:sg:gen.acc:m1	nazwa pospolita	daw.|etn.
+> Sławianinem	Sławianin	subst:sg:inst:m1	nazwa pospolita	daw.|etn.
+> Sławianinie	Sławianin	subst:sg:loc:m1	nazwa pospolita	daw.|etn.
+> Sławianinie	Sławianin	subst:sg:voc:m1	nazwa pospolita	daw.|etn.
+> Sławianinowi	Sławianin	subst:sg:dat:m1	nazwa pospolita	daw.|etn.
+> Sławianin	Sławianin	subst:sg:nom:m1	nazwa pospolita	daw.|etn.
+> Sławianom	Sławianin	subst:pl:dat:m1	nazwa pospolita	daw.|etn.
+> Sławian	Sławianin	subst:pl:gen.acc:m1	nazwa pospolita	daw.|etn.
+> Sławiany	Sławianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	daw.|etn.
+5805191,5805202c5805191,5805202
+< Trzebowianach	Trzebowianin	subst:pl:loc:m1	nazwa pospolita	
+< Trzebowianami	Trzebowianin	subst:pl:inst:m1	nazwa pospolita	
+< Trzebowianie	Trzebowianin	subst:pl:nom.voc:m1	nazwa pospolita	
+< Trzebowianina	Trzebowianin	subst:sg:gen.acc:m1	nazwa pospolita	
+< Trzebowianinem	Trzebowianin	subst:sg:inst:m1	nazwa pospolita	
+< Trzebowianinie	Trzebowianin	subst:sg:loc:m1	nazwa pospolita	
+< Trzebowianinie	Trzebowianin	subst:sg:voc:m1	nazwa pospolita	
+< Trzebowianinowi	Trzebowianin	subst:sg:dat:m1	nazwa pospolita	
+< Trzebowianin	Trzebowianin	subst:sg:nom:m1	nazwa pospolita	
+< Trzebowianom	Trzebowianin	subst:pl:dat:m1	nazwa pospolita	
+< Trzebowian	Trzebowianin	subst:pl:gen.acc:m1	nazwa pospolita	
+< Trzebowiany	Trzebowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Trzebowianach	Trzebowianin	subst:pl:loc:m1	nazwa pospolita	etn.
+> Trzebowianami	Trzebowianin	subst:pl:inst:m1	nazwa pospolita	etn.
+> Trzebowianie	Trzebowianin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Trzebowianina	Trzebowianin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Trzebowianinem	Trzebowianin	subst:sg:inst:m1	nazwa pospolita	etn.
+> Trzebowianinie	Trzebowianin	subst:sg:loc:m1	nazwa pospolita	etn.
+> Trzebowianinie	Trzebowianin	subst:sg:voc:m1	nazwa pospolita	etn.
+> Trzebowianinowi	Trzebowianin	subst:sg:dat:m1	nazwa pospolita	etn.
+> Trzebowianin	Trzebowianin	subst:sg:nom:m1	nazwa pospolita	etn.
+> Trzebowianom	Trzebowianin	subst:pl:dat:m1	nazwa pospolita	etn.
+> Trzebowian	Trzebowianin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Trzebowiany	Trzebowianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+6162754,6162765c6162754,6162765
+< Wielkopolanach	Wielkopolanin	subst:pl:loc:m1	nazwa pospolita	
+< Wielkopolanami	Wielkopolanin	subst:pl:inst:m1	nazwa pospolita	
+< Wielkopolanie	Wielkopolanin	subst:pl:nom.voc:m1	nazwa pospolita	
+< Wielkopolanina	Wielkopolanin	subst:sg:gen.acc:m1	nazwa pospolita	
+< Wielkopolaninem	Wielkopolanin	subst:sg:inst:m1	nazwa pospolita	
+< Wielkopolaninie	Wielkopolanin	subst:sg:loc:m1	nazwa pospolita	
+< Wielkopolaninie	Wielkopolanin	subst:sg:voc:m1	nazwa pospolita	
+< Wielkopolaninowi	Wielkopolanin	subst:sg:dat:m1	nazwa pospolita	
+< Wielkopolanin	Wielkopolanin	subst:sg:nom:m1	nazwa pospolita	
+< Wielkopolanom	Wielkopolanin	subst:pl:dat:m1	nazwa pospolita	
+< Wielkopolan	Wielkopolanin	subst:pl:gen.acc:m1	nazwa pospolita	
+< Wielkopolany	Wielkopolanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Wielkopolanach	Wielkopolanin	subst:pl:loc:m1	nazwa pospolita	etn.
+> Wielkopolanami	Wielkopolanin	subst:pl:inst:m1	nazwa pospolita	etn.
+> Wielkopolanie	Wielkopolanin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Wielkopolanina	Wielkopolanin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Wielkopolaninem	Wielkopolanin	subst:sg:inst:m1	nazwa pospolita	etn.
+> Wielkopolaninie	Wielkopolanin	subst:sg:loc:m1	nazwa pospolita	etn.
+> Wielkopolaninie	Wielkopolanin	subst:sg:voc:m1	nazwa pospolita	etn.
+> Wielkopolaninowi	Wielkopolanin	subst:sg:dat:m1	nazwa pospolita	etn.
+> Wielkopolanin	Wielkopolanin	subst:sg:nom:m1	nazwa pospolita	etn.
+> Wielkopolanom	Wielkopolanin	subst:pl:dat:m1	nazwa pospolita	etn.
+> Wielkopolan	Wielkopolanin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Wielkopolany	Wielkopolanin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.
+6239139,6239150c6239139,6239150
+< Wolinianach	Wolinianin	subst:pl:loc:m1	nazwa pospolita	
+< Wolinianami	Wolinianin	subst:pl:inst:m1	nazwa pospolita	
+< Wolinianie	Wolinianin	subst:pl:nom.voc:m1	nazwa pospolita	
+< Wolinianina	Wolinianin	subst:sg:gen.acc:m1	nazwa pospolita	
+< Wolinianinem	Wolinianin	subst:sg:inst:m1	nazwa pospolita	
+< Wolinianinie	Wolinianin	subst:sg:loc:m1	nazwa pospolita	
+< Wolinianinie	Wolinianin	subst:sg:voc:m1	nazwa pospolita	
+< Wolinianinowi	Wolinianin	subst:sg:dat:m1	nazwa pospolita	
+< Wolinianin	Wolinianin	subst:sg:nom:m1	nazwa pospolita	
+< Wolinianom	Wolinianin	subst:pl:dat:m1	nazwa pospolita	
+< Wolinian	Wolinianin	subst:pl:gen.acc:m1	nazwa pospolita	
+< Woliniany	Wolinianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	
+---
+> Wolinianach	Wolinianin	subst:pl:loc:m1	nazwa pospolita	etn.
+> Wolinianami	Wolinianin	subst:pl:inst:m1	nazwa pospolita	etn.
+> Wolinianie	Wolinianin	subst:pl:nom.voc:m1	nazwa pospolita	etn.
+> Wolinianina	Wolinianin	subst:sg:gen.acc:m1	nazwa pospolita	etn.
+> Wolinianinem	Wolinianin	subst:sg:inst:m1	nazwa pospolita	etn.
+> Wolinianinie	Wolinianin	subst:sg:loc:m1	nazwa pospolita	etn.
+> Wolinianinie	Wolinianin	subst:sg:voc:m1	nazwa pospolita	etn.
+> Wolinianinowi	Wolinianin	subst:sg:dat:m1	nazwa pospolita	etn.
+> Wolinianin	Wolinianin	subst:sg:nom:m1	nazwa pospolita	etn.
+> Wolinianom	Wolinianin	subst:pl:dat:m1	nazwa pospolita	etn.
+> Wolinian	Wolinianin	subst:pl:gen.acc:m1	nazwa pospolita	etn.
+> Woliniany	Wolinianin	depr:pl:nom.acc.voc:m2	nazwa pospolita	etn.

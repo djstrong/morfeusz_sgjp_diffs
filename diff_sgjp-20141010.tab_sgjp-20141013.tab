@@ -1,0 +1,360 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2014.10.10
+---
+> #!DICT-ID pl.sgjp.sgjp-2014.10.13
+28752a28753
+> a.s.c	akta stanu cywilnego	brev:pun
+33884a33886
+> a	albo	brev:pun
+35001a35004
+> al	aleja	brev:pun
+130672a130676
+> B	bajt	brev:npun
+147022a147027,147028
+> bdb	bardzo dobry (stopień)	brev:pun
+> b	bardzo	brev:pun
+172332a172339
+> b	bez	brev:pun
+204528a204536
+> b	bieżący	brev:pun
+207117a207126
+> bld	biliard	brev:npun
+207191a207201
+> bln	bilion	brev:npun
+214008a214019
+> b	bit	brev:npun
+228096a228108
+> bł	błogosławiony	brev:pun
+252522a252535
+> b	brat (zakonny)	brev:pun
+293095a293109
+> b	były	brev:pun
+296740a296755
+> cal	caloria	brev:npun
+307974a307990
+> c	cent	brev:npun
+309755a309772
+> cm	centymetr	brev:npun
+374970a374988
+> C	cieśnina	brev:pun
+384105a384124
+> Co	company	brev:pun
+384927a384947
+> Corp	corporation	brev:pun
+385839a385860
+> c	córka	brev:pun
+386413a386435
+> ccm	cubic centimetre	brev:npun
+420133a420156
+> cz	część	brev:pun
+445931a445955
+> d	dawny	brev:pun
+450451a450476
+> dl	decylitr	brev:npun
+456729a456755,456756
+> dkg	dekagram	brev:npun
+> dag	dekagram	brev:npun
+485250a485278
+> DEM	Deutsche Mark	brev:npun
+496675a496704
+> dpt	dioptria	brev:pun
+508371a508401
+> db	dobry (stopień)	brev:pun
+510181a510212
+> doc	docent	brev:pun
+529474a529506
+> dk	dokonany	brev:npun
+541952a541985
+> d	dom	brev:pun
+549374a549408
+> dom	domowy	brev:pun
+579826a579861
+> dst	dostateczny (stopień)	brev:pun
+655224a655260
+> dyr	dyrektor	brev:pun
+671727a671764,671765
+> dz	dziennik	brev:pun
+> Dz.U	Dziennik Ustaw	brev:pun
+671917a671956
+> d	dzień	brev:pun
+738527a738567
+> EUR	euro	brev:npun
+843575a843616
+> GW	Gazeta Wyborcza	brev:npun
+849373a849415
+> gen	generał	brev:pun
+860995a861038
+> GB	gigabajt	brev:npun
+885080a885124,885125
+> godz	godzina	brev:pun
+> g	godzina	brev:pun
+904428a904474
+> g	gram	brev:npun
+914905a914952
+> gr	grosz	brev:npun
+920588a920636
+> gr	grupa	brev:pun
+951477a951526
+> hm	harcmistrz	brev:pun
+951491a951541
+> hm	harcmistrzyni	brev:pun
+958959a959010
+> ha	hektar	brev:npun
+959221a959273
+> hl	hektolitr	brev:npun
+967051a967104
+> Hz	hertz	brev:npun
+1000101a1000155
+> itp	i tym podobne	brev:pun
+1016926a1016981
+> in	inaczej	brev:pun
+1019047a1019103
+> ie	indoeuropejski	brev:pun
+1028897a1028954
+> in	inny	brev:pun
+1071556a1071614,1071615
+> JWP	Jaśnie Wielmożny Pan	brev:npun
+> JWP	Jaśnie Wielmożna Pani	brev:npun
+1090333a1090393
+> J	jezioro	brev:pun
+1100981a1101042,1101043
+> jr	junior	brev:pun
+> jun	junior	brev:pun
+1117543a1117606
+> kal	kaloria	brev:pun
+1133989a1134053
+> kpt	kapitan	brev:pun
+1136314a1136379
+> kpr	kapral	brev:pun
+1187441a1187507
+> kB	kilobajt	brev:npun
+1187540a1187607
+> kg	kilogram	brev:npun
+1187630a1187698
+> kHz	kilohertz	brev:npun
+1187645a1187714
+> kcal	kilokaloria	brev:npun
+1187673a1187743
+> km	kilometr	brev:npun
+1187890a1187961
+> kW	kilowat	brev:npun
+1187918a1187990
+> kWh	kilowatogodzina	brev:npun
+1196159a1196232
+> kl	klasa	brev:pun
+1225515a1225589
+> k	kodeks	brev:pun
+1233549a1233624
+> kol	kolega	brev:pun
+1235260a1235336
+> kol	koleżanka	brev:pun
+1250491a1250568
+> k	kompania	brev:npun
+1361310a1361388,1361389
+> x	ksiądz	brev:pun
+> ks	ksiądz	brev:pun
+1361504a1361584
+> x	książę	brev:pun
+1411791a1411872
+> l	lata	brev:pun
+1437526a1437608,1437609
+> lm	liczba mnoga	brev:pun
+> lp	liczba pojedyncza	brev:pun
+1451498a1451582
+> l	litr	brev:npun
+1509936a1510021
+> M-me	Madame	brev:npun
+1550892a1550978
+> mar	marynarz	brev:pun
+1558861a1558948
+> MB	Matka Boska	brev:npun
+1570685a1570773
+> MB	megabajt	brev:npun
+1571055a1571144
+> MHz	Megahertz	brev:npun
+1584865a1584955
+> m	metr	brev:npun
+1588129a1588220
+> m	męski (też rodzaj)	brev:pun
+1592657a1592749
+> m	miasto	brev:pun
+1599495a1599588
+> mrn	mierny	brev:pun
+1618413a1618507
+> mld	miliard	brev:npun
+1618758a1618853
+> mg	miligram	brev:npun
+1618838a1618934
+> ml	mililitr	brev:npun
+1618890a1618987
+> mm	milimetr	brev:npun
+1618998a1619096
+> mln	milion	brev:npun
+1626473a1626572
+> min	minuta	brev:npun
+1630433a1630533
+> Mr	Mister	brev:npun
+1630684a1630785
+> Mrs	Mistress	brev:npun
+1664043a1664145
+> m	morze	brev:pun
+1745125a1745228
+> nzw	nadzwyczajny	brev:pun
+1762473a1762577
+> NMP	Najświętsza Maryja Panna	brev:npun
+2059164a2059269
+> ndk	niedokonany	brev:npun
+2067200a2067306
+> ndst	niedostateczny (stopień)	brev:pun
+2349170a2349277
+> nlb	nieliczbowany	brev:pun
+2492208a2492316
+> ndm	nieodmienny	brev:pun
+3117877a3117986
+> n	nijaki (rodzaj)	brev:pun
+3138962a3139072,3139074
+> PLN	nowy polski złoty	brev:npun
+> n	nowy	brev:pun
+> NT	Nowy Testament	brev:npun
+3234070a3234183
+> ob	obywatel	brev:pun
+3234114a3234228
+> ob	obywatelka	brev:pun
+3418584a3418699
+> ogp	ogólnopolski	brev:pun
+3424305a3424421
+> o	ojciec (odnosi się do księży zakonnych)	brev:pun
+3602070a3602187
+> p	pan	brev:pun
+3603897a3604015
+> p	pani	brev:pun
+3649865a3649984
+> p.o	pełniący obowiązki	brev:pun
+3671733a3671853
+> pt	piątek	brev:npun
+3690228a3690349
+> p	piętro	brev:pun
+3707287a3707409
+> pl	plac	brev:pun
+3759929a3760052
+> PP	Poczta Polska	brev:npun
+3769441a3769565
+> pchor	podchorąży	brev:pun
+3819728a3819853
+> ppor	podporucznik	brev:pun
+3821584a3821710
+> ppł	podpułkownik	brev:pun
+3915256a3915383
+> pol	polski	brev:pun
+3920739a3920867,3920868
+> płd	południowy	brev:pun
+> pd	południowy	brev:pun
+3945273a3945403
+> pn	poniedziałek	brev:pun
+4015880a4016011
+> por	porucznik	brev:pun
+4084512a4084644
+> pow	powiat	brev:pun
+4175063a4175196,4175197
+> płn	północny	brev:pun
+> pn	północny	brev:pun
+4209446a4209581
+> prof	profesor	brev:pun
+4617095a4617231
+> rtg	rentgen	brev:pun
+4638457a4638594
+> r	rocznik	brev:pun
+4639901a4640039
+> r	rodzaj	brev:pun
+4643202a4643341
+> r	rok	brev:pun
+4651074a4651214
+> rtm	rotmistrz	brev:pun
+4860929a4861070
+> ryc	rycina	brev:pun
+4866354a4866496
+> rys	rysunek	brev:pun
+4930161a4930304,4930305
+> sek	sekunda	brev:pun
+> s	sekunda	brev:npun
+4933462a4933607,4933608
+> sen	senior	brev:pun
+> sr	senior	brev:pun
+4967484a4967631
+> s	siostra (zakonna)	brev:pun
+5116823a5116971,5116972
+> s.c	spółka cywilna	brev:pun
+> sp	spółka	brev:pun
+5148504a5148654
+> stp	staropolski	brev:pun
+5150470a5150621
+> st	starszy	brev:pun
+5150958a5151110
+> ST	Stary Testament	brev:npun
+5179599a5179752
+> s	strona	brev:pun
+5228273a5228427
+> s	syn	brev:pun
+5242285a5242440
+> Sz	Szanowny	brev:pun
+5262846a5263002
+> szer	szeregowy	brev:pun
+5272048a5272205
+> SP	Szkoła Podstawowa	brev:npun
+5334288a5334446
+> św	świadek	brev:pun
+5343377a5343536
+> św	święty	brev:pun
+5346262a5346422
+> tab	tabela	brev:pun
+5351139a5351300
+> tzw	tak zwany	brev:pun
+5373596a5373758
+> tel	telefon	brev:pun
+5399708a5399871
+> t	tom	brev:pun
+5407989a5408153
+> tow	towarzysz	brev:pun
+5408017a5408182
+> tow	towarzyszka	brev:pun
+5481945a5482111
+> ub	ubiegły	brev:pun
+5551788a5551955
+> ul	ulica	brev:pun
+5582950a5583118
+> USD	United States Dollar	brev:npun
+5624292a5624461
+> ur	urodzony	brev:pun
+5645694a5645864
+> U	ustawa	brev:pun
+5706017a5706188
+> v	versus	brev:pun
+5778260a5778432
+> w	wiek	brev:pun
+5779505a5779678,5779679
+> w	wielki	brev:pun
+> Wlk	Wielki	brev:pun
+5779575a5779750,5779752
+> WXL	Wielkie Księstwo Litewskie	brev:npun
+> WXLit	Wielkie Księstwo Litewskie	brev:npun
+> W.Ks.Lit	Wielkie Księstwo Litewskie	brev:pun
+5782326a5782504
+> W	Wielmożny	brev:pun
+5791406a5791585
+> w	wiersz	brev:pun
+5795324a5795504
+> w	wieś	brev:pun
+6141725a6141906
+> w	wyspa	brev:pun
+6209552a6209734
+> ww	wyżej wymieniony	brev:pun
+6221358a6221541
+> wz	wzorowy	brev:pun
+6591120a6591304
+> z	zeszyt	brev:pun
+6651874a6652059
+> zł	złoty	brev:npun
+6657516a6657702
+> zm	zmarły	brev:pun
+6776799a6776986
+> ż	żeński (też rodzaj)	brev:pun

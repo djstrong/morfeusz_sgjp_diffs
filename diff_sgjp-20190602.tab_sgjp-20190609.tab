@@ -1,0 +1,247 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2019.06.02
+---
+> #!DICT-ID pl.sgjp.sgjp-2019.06.10
+824658a824659
+> ECS	ECS	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:n:ncol	nazwa_instytucji	
+1322297a1322299,1322309
+> jeliciarce	jeliciarka	subst:sg:dat.loc:f	nazwa_pospolita	spoż.
+> jeliciarek	jeliciarka	subst:pl:gen:f	nazwa_pospolita	spoż.
+> jeliciarkach	jeliciarka	subst:pl:loc:f	nazwa_pospolita	spoż.
+> jeliciarka	jeliciarka	subst:sg:nom:f	nazwa_pospolita	spoż.
+> jeliciarkami	jeliciarka	subst:pl:inst:f	nazwa_pospolita	spoż.
+> jeliciarką	jeliciarka	subst:sg:inst:f	nazwa_pospolita	spoż.
+> jeliciarkę	jeliciarka	subst:sg:acc:f	nazwa_pospolita	spoż.
+> jeliciarki	jeliciarka	subst:pl:nom.acc.voc:f	nazwa_pospolita	spoż.
+> jeliciarki	jeliciarka	subst:sg:gen:f	nazwa_pospolita	spoż.
+> jeliciarko	jeliciarka	subst:sg:voc:f	nazwa_pospolita	spoż.
+> jeliciarkom	jeliciarka	subst:pl:dat:f	nazwa_pospolita	spoż.
+1322355a1322368,1322380
+> jeliciarzach	jeliciarz	subst:pl:loc:m1	nazwa_pospolita	spoż.
+> jeliciarza	jeliciarz	subst:sg:gen.acc:m1	nazwa_pospolita	spoż.
+> jeliciarzami	jeliciarz	subst:pl:inst:m1	nazwa_pospolita	spoż.
+> jeliciarze	jeliciarz	depr:pl:nom.acc.voc:m2	nazwa_pospolita	spoż.
+> jeliciarze	jeliciarz	subst:pl:nom.voc:m1	nazwa_pospolita	spoż.
+> jeliciarzem	jeliciarz	subst:sg:inst:m1	nazwa_pospolita	spoż.
+> jeliciarz	jeliciarz	subst:sg:nom:m1	nazwa_pospolita	spoż.
+> jeliciarzom	jeliciarz	subst:pl:dat:m1	nazwa_pospolita	spoż.
+> jeliciarzowi	jeliciarz	subst:sg:dat:m1	nazwa_pospolita	spoż.
+> jeliciarzów	jeliciarz	subst:pl:gen.acc:m1	nazwa_pospolita	spoż.
+> jeliciarzu	jeliciarz	subst:sg:loc:m1	nazwa_pospolita	spoż.
+> jeliciarzu	jeliciarz	subst:sg:voc:m1	nazwa_pospolita	spoż.
+> jeliciarzy	jeliciarz	subst:pl:gen.acc:m1	nazwa_pospolita	spoż.
+1431769a1431795,1431805
+> kącinach	kącina	subst:pl:loc:f	nazwa_pospolita	archit.|rel.
+> kącina	kącina	subst:sg:nom:f	nazwa_pospolita	archit.|rel.
+> kącinami	kącina	subst:pl:inst:f	nazwa_pospolita	archit.|rel.
+> kąciną	kącina	subst:sg:inst:f	nazwa_pospolita	archit.|rel.
+> kącinę	kącina	subst:sg:acc:f	nazwa_pospolita	archit.|rel.
+> kącinie	kącina	subst:sg:dat.loc:f	nazwa_pospolita	archit.|rel.
+> kącin	kącina	subst:pl:gen:f	nazwa_pospolita	archit.|rel.
+> kącino	kącina	subst:sg:voc:f	nazwa_pospolita	archit.|rel.
+> kącinom	kącina	subst:pl:dat:f	nazwa_pospolita	archit.|rel.
+> kąciny	kącina	subst:pl:nom.acc.voc:f	nazwa_pospolita	archit.|rel.
+> kąciny	kącina	subst:sg:gen:f	nazwa_pospolita	archit.|rel.
+3253187a3253224,3253258
+> nieszabelniczościach	nieszabelniczość	subst:pl:loc:f		
+> nieszabelniczościami	nieszabelniczość	subst:pl:inst:f		
+> nieszabelniczością	nieszabelniczość	subst:sg:inst:f		
+> nieszabelniczości	nieszabelniczość	subst:pl:gen:f		
+> nieszabelniczości	nieszabelniczość	subst:pl:nom.acc.voc:f		
+> nieszabelniczości	nieszabelniczość	subst:sg:dat.loc:f		
+> nieszabelniczości	nieszabelniczość	subst:sg:gen:f		
+> nieszabelniczości	nieszabelniczość	subst:sg:voc:f		
+> nieszabelniczościom	nieszabelniczość	subst:pl:dat:f		
+> nieszabelniczość	nieszabelniczość	subst:sg:acc:f		
+> nieszabelniczość	nieszabelniczość	subst:sg:nom:f		
+> nieszabelnicza	nieszabelniczy	adj:sg:nom.voc:f:pos		
+> nieszabelniczą	nieszabelniczy	adj:sg:acc:f:pos		
+> nieszabelniczą	nieszabelniczy	adj:sg:inst:f:pos		
+> nieszabelniczego	nieszabelniczy	adj:sg:acc:m1.m2:pos		
+> nieszabelniczego	nieszabelniczy	adj:sg:gen:m1.m2.m3.n:pos		
+> nieszabelniczej	nieszabelniczy	adj:sg:dat:f:pos		
+> nieszabelniczej	nieszabelniczy	adj:sg:gen:f:pos		
+> nieszabelniczej	nieszabelniczy	adj:sg:loc:f:pos		
+> nieszabelniczemu	nieszabelniczy	adj:sg:dat:m1.m2.m3.n:pos		
+> nieszabelnicze	nieszabelniczy	adj:pl:acc:m2.m3.f.n:pos		
+> nieszabelnicze	nieszabelniczy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieszabelnicze	nieszabelniczy	adj:sg:acc:n:pos		
+> nieszabelnicze	nieszabelniczy	adj:sg:nom.voc:n:pos		
+> nieszabelniczo	nieszabelniczy	adja		
+> nieszabelniczych	nieszabelniczy	adj:pl:acc:m1:pos		
+> nieszabelniczych	nieszabelniczy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieszabelniczych	nieszabelniczy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieszabelniczymi	nieszabelniczy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieszabelniczym	nieszabelniczy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieszabelniczym	nieszabelniczy	adj:sg:inst:m1.m2.m3.n:pos		
+> nieszabelniczym	nieszabelniczy	adj:sg:loc:m1.m2.m3.n:pos		
+> nieszabelniczy	nieszabelniczy	adj:pl:nom.voc:m1:pos		
+> nieszabelniczy	nieszabelniczy	adj:sg:acc:m3:pos		
+> nieszabelniczy	nieszabelniczy	adj:sg:nom.voc:m1.m2.m3:pos		
+3254134a3254206,3254240
+> nieszahidowościach	nieszahidowość	subst:pl:loc:f		
+> nieszahidowościami	nieszahidowość	subst:pl:inst:f		
+> nieszahidowością	nieszahidowość	subst:sg:inst:f		
+> nieszahidowości	nieszahidowość	subst:pl:gen:f		
+> nieszahidowości	nieszahidowość	subst:pl:nom.acc.voc:f		
+> nieszahidowości	nieszahidowość	subst:sg:dat.loc:f		
+> nieszahidowości	nieszahidowość	subst:sg:gen:f		
+> nieszahidowości	nieszahidowość	subst:sg:voc:f		
+> nieszahidowościom	nieszahidowość	subst:pl:dat:f		
+> nieszahidowość	nieszahidowość	subst:sg:acc:f		
+> nieszahidowość	nieszahidowość	subst:sg:nom:f		
+> nieszahidowa	nieszahidowy	adj:sg:nom.voc:f:pos		
+> nieszahidową	nieszahidowy	adj:sg:acc:f:pos		
+> nieszahidową	nieszahidowy	adj:sg:inst:f:pos		
+> nieszahidowego	nieszahidowy	adj:sg:acc:m1.m2:pos		
+> nieszahidowego	nieszahidowy	adj:sg:gen:m1.m2.m3.n:pos		
+> nieszahidowej	nieszahidowy	adj:sg:dat:f:pos		
+> nieszahidowej	nieszahidowy	adj:sg:gen:f:pos		
+> nieszahidowej	nieszahidowy	adj:sg:loc:f:pos		
+> nieszahidowemu	nieszahidowy	adj:sg:dat:m1.m2.m3.n:pos		
+> nieszahidowe	nieszahidowy	adj:pl:acc:m2.m3.f.n:pos		
+> nieszahidowe	nieszahidowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> nieszahidowe	nieszahidowy	adj:sg:acc:n:pos		
+> nieszahidowe	nieszahidowy	adj:sg:nom.voc:n:pos		
+> nieszahidowi	nieszahidowy	adj:pl:nom.voc:m1:pos		
+> nieszahidowo	nieszahidowy	adja		
+> nieszahidowych	nieszahidowy	adj:pl:acc:m1:pos		
+> nieszahidowych	nieszahidowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> nieszahidowych	nieszahidowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> nieszahidowymi	nieszahidowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> nieszahidowym	nieszahidowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> nieszahidowym	nieszahidowy	adj:sg:inst:m1.m2.m3.n:pos		
+> nieszahidowym	nieszahidowy	adj:sg:loc:m1.m2.m3.n:pos		
+> nieszahidowy	nieszahidowy	adj:sg:acc:m3:pos		
+> nieszahidowy	nieszahidowy	adj:sg:nom.voc:m1.m2.m3:pos		
+5018282a5018389
+> pudu	pudu	subst:sg.pl:nom.gen.dat.acc.inst.loc.voc:m2	nazwa_pospolita	zool.
+5035664a5035772,5035781
+> pytlowanek	pytlowanko	subst:pl:gen:n:ncol	nazwa_pospolita	żart.|pot.
+> pytlowankach	pytlowanko	subst:pl:loc:n:ncol	nazwa_pospolita	żart.|pot.
+> pytlowankami	pytlowanko	subst:pl:inst:n:ncol	nazwa_pospolita	żart.|pot.
+> pytlowanka	pytlowanko	subst:pl:nom.acc.voc:n:ncol	nazwa_pospolita	żart.|pot.
+> pytlowanka	pytlowanko	subst:sg:gen:n:ncol	nazwa_pospolita	żart.|pot.
+> pytlowankiem	pytlowanko	subst:sg:inst:n:ncol	nazwa_pospolita	żart.|pot.
+> pytlowankom	pytlowanko	subst:pl:dat:n:ncol	nazwa_pospolita	żart.|pot.
+> pytlowanko	pytlowanko	subst:sg:nom.acc.voc:n:ncol	nazwa_pospolita	żart.|pot.
+> pytlowanku	pytlowanko	subst:sg:dat:n:ncol	nazwa_pospolita	żart.|pot.
+> pytlowanku	pytlowanko	subst:sg:loc:n:ncol	nazwa_pospolita	żart.|pot.
+5817657a5817775,5817809
+> szabelniczościach	szabelniczość	subst:pl:loc:f		
+> szabelniczościami	szabelniczość	subst:pl:inst:f		
+> szabelniczością	szabelniczość	subst:sg:inst:f		
+> szabelniczościom	szabelniczość	subst:pl:dat:f		
+> szabelniczości	szabelniczość	subst:pl:gen:f		
+> szabelniczości	szabelniczość	subst:pl:nom.acc.voc:f		
+> szabelniczości	szabelniczość	subst:sg:dat.loc:f		
+> szabelniczości	szabelniczość	subst:sg:gen:f		
+> szabelniczości	szabelniczość	subst:sg:voc:f		
+> szabelniczość	szabelniczość	subst:sg:acc:f		
+> szabelniczość	szabelniczość	subst:sg:nom:f		
+> szabelnicza	szabelniczy	adj:sg:nom.voc:f:pos		
+> szabelniczą	szabelniczy	adj:sg:acc:f:pos		
+> szabelniczą	szabelniczy	adj:sg:inst:f:pos		
+> szabelniczego	szabelniczy	adj:sg:acc:m1.m2:pos		
+> szabelniczego	szabelniczy	adj:sg:gen:m1.m2.m3.n:pos		
+> szabelniczej	szabelniczy	adj:sg:dat:f:pos		
+> szabelniczej	szabelniczy	adj:sg:gen:f:pos		
+> szabelniczej	szabelniczy	adj:sg:loc:f:pos		
+> szabelniczemu	szabelniczy	adj:sg:dat:m1.m2.m3.n:pos		
+> szabelnicze	szabelniczy	adj:pl:acc:m2.m3.f.n:pos		
+> szabelnicze	szabelniczy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> szabelnicze	szabelniczy	adj:sg:acc:n:pos		
+> szabelnicze	szabelniczy	adj:sg:nom.voc:n:pos		
+> szabelniczo	szabelniczy	adja		
+> szabelniczych	szabelniczy	adj:pl:acc:m1:pos		
+> szabelniczych	szabelniczy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> szabelniczych	szabelniczy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> szabelniczymi	szabelniczy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> szabelniczym	szabelniczy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> szabelniczym	szabelniczy	adj:sg:inst:m1.m2.m3.n:pos		
+> szabelniczym	szabelniczy	adj:sg:loc:m1.m2.m3.n:pos		
+> szabelniczy	szabelniczy	adj:pl:nom.voc:m1:pos		
+> szabelniczy	szabelniczy	adj:sg:acc:m3:pos		
+> szabelniczy	szabelniczy	adj:sg:nom.voc:m1.m2.m3:pos		
+5822338a5822491,5822559
+> szahidach	szahid	subst:pl:loc:m1	nazwa_pospolita	rel.
+> szahidami	szahid	subst:pl:inst:m1	nazwa_pospolita	rel.
+> szahida	szahid	subst:sg:gen.acc:m1	nazwa_pospolita	rel.
+> szahidem	szahid	subst:sg:inst:m1	nazwa_pospolita	rel.
+> szahidom	szahid	subst:pl:dat:m1	nazwa_pospolita	rel.
+> szahidowi	szahid	subst:sg:dat:m1	nazwa_pospolita	rel.
+> szahidów	szahid	subst:pl:gen.acc:m1	nazwa_pospolita	rel.
+> szahid	szahid	subst:sg:nom:m1	nazwa_pospolita	rel.
+> szahidy	szahid	depr:pl:nom.acc.voc:m2	nazwa_pospolita	rel.
+> szahidzie	szahid	subst:sg:loc:m1	nazwa_pospolita	rel.
+> szahidzie	szahid	subst:sg:voc:m1	nazwa_pospolita	rel.
+> szahidzi	szahid	subst:pl:nom.voc:m1	nazwa_pospolita	rel.
+> szahidach	szahida	subst:pl:loc:f	nazwa_pospolita	rel.
+> szahidami	szahida	subst:pl:inst:f	nazwa_pospolita	rel.
+> szahida	szahida	subst:sg:nom:f	nazwa_pospolita	rel.
+> szahidą	szahida	subst:sg:inst:f	nazwa_pospolita	rel.
+> szahidę	szahida	subst:sg:acc:f	nazwa_pospolita	rel.
+> szahidom	szahida	subst:pl:dat:f	nazwa_pospolita	rel.
+> szahido	szahida	subst:sg:voc:f	nazwa_pospolita	rel.
+> szahid	szahida	subst:pl:gen:f	nazwa_pospolita	rel.
+> szahidy	szahida	subst:pl:nom.acc.voc:f	nazwa_pospolita	rel.
+> szahidy	szahida	subst:sg:gen:f	nazwa_pospolita	rel.
+> szahidzie	szahida	subst:sg:dat.loc:f	nazwa_pospolita	rel.
+> szahidce	szahidka	subst:sg:dat.loc:f	imię	rel.
+> szahidek	szahidka	subst:pl:gen:f	imię	rel.
+> szahidkach	szahidka	subst:pl:loc:f	imię	rel.
+> szahidkami	szahidka	subst:pl:inst:f	imię	rel.
+> szahidka	szahidka	subst:sg:nom:f	imię	rel.
+> szahidką	szahidka	subst:sg:inst:f	imię	rel.
+> szahidkę	szahidka	subst:sg:acc:f	imię	rel.
+> szahidki	szahidka	subst:pl:nom.acc.voc:f	imię	rel.
+> szahidki	szahidka	subst:sg:gen:f	imię	rel.
+> szahidkom	szahidka	subst:pl:dat:f	imię	rel.
+> szahidko	szahidka	subst:sg:voc:f	imię	rel.
+> szahidowościach	szahidowość	subst:pl:loc:f		
+> szahidowościami	szahidowość	subst:pl:inst:f		
+> szahidowością	szahidowość	subst:sg:inst:f		
+> szahidowościom	szahidowość	subst:pl:dat:f		
+> szahidowości	szahidowość	subst:pl:gen:f		
+> szahidowości	szahidowość	subst:pl:nom.acc.voc:f		
+> szahidowości	szahidowość	subst:sg:dat.loc:f		
+> szahidowości	szahidowość	subst:sg:gen:f		
+> szahidowości	szahidowość	subst:sg:voc:f		
+> szahidowość	szahidowość	subst:sg:acc:f		
+> szahidowość	szahidowość	subst:sg:nom:f		
+> szahidowa	szahidowy	adj:sg:nom.voc:f:pos		
+> szahidową	szahidowy	adj:sg:acc:f:pos		
+> szahidową	szahidowy	adj:sg:inst:f:pos		
+> szahidowego	szahidowy	adj:sg:acc:m1.m2:pos		
+> szahidowego	szahidowy	adj:sg:gen:m1.m2.m3.n:pos		
+> szahidowej	szahidowy	adj:sg:dat:f:pos		
+> szahidowej	szahidowy	adj:sg:gen:f:pos		
+> szahidowej	szahidowy	adj:sg:loc:f:pos		
+> szahidowemu	szahidowy	adj:sg:dat:m1.m2.m3.n:pos		
+> szahidowe	szahidowy	adj:pl:acc:m2.m3.f.n:pos		
+> szahidowe	szahidowy	adj:pl:nom.voc:m2.m3.f.n:pos		
+> szahidowe	szahidowy	adj:sg:acc:n:pos		
+> szahidowe	szahidowy	adj:sg:nom.voc:n:pos		
+> szahidowi	szahidowy	adj:pl:nom.voc:m1:pos		
+> szahidowo	szahidowy	adja		
+> szahidowych	szahidowy	adj:pl:acc:m1:pos		
+> szahidowych	szahidowy	adj:pl:gen:m1.m2.m3.f.n:pos		
+> szahidowych	szahidowy	adj:pl:loc:m1.m2.m3.f.n:pos		
+> szahidowymi	szahidowy	adj:pl:inst:m1.m2.m3.f.n:pos		
+> szahidowym	szahidowy	adj:pl:dat:m1.m2.m3.f.n:pos		
+> szahidowym	szahidowy	adj:sg:inst:m1.m2.m3.n:pos		
+> szahidowym	szahidowy	adj:sg:loc:m1.m2.m3.n:pos		
+> szahidowy	szahidowy	adj:sg:acc:m3:pos		
+> szahidowy	szahidowy	adj:sg:nom.voc:m1.m2.m3:pos		
+6883794a6884016,6884026
+> wytrzeźwiałce	wytrzeźwiałka	subst:sg:dat.loc:f	nazwa_pospolita	pot.
+> wytrzeźwiałek	wytrzeźwiałka	subst:pl:gen:f	nazwa_pospolita	pot.
+> wytrzeźwiałkach	wytrzeźwiałka	subst:pl:loc:f	nazwa_pospolita	pot.
+> wytrzeźwiałkami	wytrzeźwiałka	subst:pl:inst:f	nazwa_pospolita	pot.
+> wytrzeźwiałka	wytrzeźwiałka	subst:sg:nom:f	nazwa_pospolita	pot.
+> wytrzeźwiałką	wytrzeźwiałka	subst:sg:inst:f	nazwa_pospolita	pot.
+> wytrzeźwiałkę	wytrzeźwiałka	subst:sg:acc:f	nazwa_pospolita	pot.
+> wytrzeźwiałki	wytrzeźwiałka	subst:pl:nom.acc.voc:f	nazwa_pospolita	pot.
+> wytrzeźwiałki	wytrzeźwiałka	subst:sg:gen:f	nazwa_pospolita	pot.
+> wytrzeźwiałkom	wytrzeźwiałka	subst:pl:dat:f	nazwa_pospolita	pot.
+> wytrzeźwiałko	wytrzeźwiałka	subst:sg:voc:f	nazwa_pospolita	pot.

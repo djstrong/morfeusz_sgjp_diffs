@@ -1,0 +1,398 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.01.22
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.02.07
+210185c210185
+< biliard	biliard:n	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+---
+> biliard	biliard:n	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+210260c210260
+< bilion	bilion:n	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> bilion	bilion:n	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+280961d280960
+< bufoniasci	bufoniasty	adj:pl:nom.voc:m1.p1:pos		
+280984a280984
+> bufoniaści	bufoniasty	adj:pl:nom.voc:m1.p1:pos		
+646273c646273
+< dużo	dużo:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> dużo	dużo:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+753047a753048,753062
+> Eupatoriach	Eupatoria	subst:pl:loc:f	nazwa geograficzna	
+> Eupatoria	Eupatoria	subst:sg:nom:f	nazwa geograficzna	
+> Eupatoriami	Eupatoria	subst:pl:inst:f	nazwa geograficzna	
+> Eupatorią	Eupatoria	subst:sg:inst:f	nazwa geograficzna	
+> Eupatorie	Eupatoria	subst:pl:acc:f	nazwa geograficzna	
+> Eupatorie	Eupatoria	subst:pl:nom:f	nazwa geograficzna	
+> Eupatorie	Eupatoria	subst:pl:voc:f	nazwa geograficzna	
+> Eupatorię	Eupatoria	subst:sg:acc:f	nazwa geograficzna	
+> Eupatorii	Eupatoria	subst:pl:gen:f	nazwa geograficzna	hom.
+> Eupatorii	Eupatoria	subst:sg:dat:f	nazwa geograficzna	
+> Eupatorii	Eupatoria	subst:sg:gen:f	nazwa geograficzna	
+> Eupatorii	Eupatoria	subst:sg:loc:f	nazwa geograficzna	
+> Eupatorio	Eupatoria	subst:sg:voc:f	nazwa geograficzna	
+> Eupatoriom	Eupatoria	subst:pl:dat:f	nazwa geograficzna	
+> Eupatoryj	Eupatoria	subst:pl:gen:f	nazwa geograficzna	arch.|char.
+932467c932482
+< gros	gros:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		książk.
+---
+> gros	gros:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		książk.
+1026359c1026374
+< ilekolwiek	ilekolwiek:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+---
+> ilekolwiek	ilekolwiek:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+1026407c1026422
+< ile	ile:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+---
+> ile	ile:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+1026413c1026428
+< ileś	ileś:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+---
+> ileś	ileś:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+1026433c1026448
+< ileż	ileż:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+---
+> ileż	ileż:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+1066065a1066081,1066108
+> iPadach	iPad	subst:pl:loc:m2	nazwa pospolita	
+> iPadach	iPad	subst:pl:loc:m3	nazwa pospolita	
+> iPada	iPad	subst:sg:acc:m2	nazwa pospolita	
+> iPada	iPad	subst:sg:gen:m2	nazwa pospolita	
+> iPada	iPad	subst:sg:gen:m3	nazwa pospolita	
+> iPadami	iPad	subst:pl:inst:m2	nazwa pospolita	
+> iPadami	iPad	subst:pl:inst:m3	nazwa pospolita	
+> iPadem	iPad	subst:sg:inst:m2	nazwa pospolita	
+> iPadem	iPad	subst:sg:inst:m3	nazwa pospolita	
+> iPad	iPad	subst:sg:acc:m3	nazwa pospolita	
+> iPad	iPad	subst:sg:nom:m2	nazwa pospolita	
+> iPad	iPad	subst:sg:nom:m3	nazwa pospolita	
+> iPadom	iPad	subst:pl:dat:m2	nazwa pospolita	
+> iPadom	iPad	subst:pl:dat:m3	nazwa pospolita	
+> iPadowi	iPad	subst:sg:dat:m2	nazwa pospolita	
+> iPadowi	iPad	subst:sg:dat:m3	nazwa pospolita	
+> iPadów	iPad	subst:pl:gen:m2	nazwa pospolita	
+> iPadów	iPad	subst:pl:gen:m3	nazwa pospolita	
+> iPady	iPad	subst:pl:acc:m2	nazwa pospolita	
+> iPady	iPad	subst:pl:acc:m3	nazwa pospolita	
+> iPady	iPad	subst:pl:nom:m2	nazwa pospolita	
+> iPady	iPad	subst:pl:nom:m3	nazwa pospolita	
+> iPady	iPad	subst:pl:voc:m2	nazwa pospolita	
+> iPady	iPad	subst:pl:voc:m3	nazwa pospolita	
+> iPadzie	iPad	subst:sg:loc:m2	nazwa pospolita	
+> iPadzie	iPad	subst:sg:loc:m3	nazwa pospolita	
+> iPadzie	iPad	subst:sg:voc:m2	nazwa pospolita	
+> iPadzie	iPad	subst:sg:voc:m3	nazwa pospolita	
+1066216a1066260,1066287
+> iPhone’ach	iPhone	subst:pl:loc:m2	nazwa pospolita	
+> iPhone’ach	iPhone	subst:pl:loc:m3	nazwa pospolita	
+> iPhone’a	iPhone	subst:sg:acc:m2	nazwa pospolita	
+> iPhone’a	iPhone	subst:sg:gen:m2	nazwa pospolita	
+> iPhone’a	iPhone	subst:sg:gen:m3	nazwa pospolita	
+> iPhone’ami	iPhone	subst:pl:inst:m2	nazwa pospolita	
+> iPhone’ami	iPhone	subst:pl:inst:m3	nazwa pospolita	
+> iPhone’em	iPhone	subst:sg:inst:m2	nazwa pospolita	
+> iPhone’em	iPhone	subst:sg:inst:m3	nazwa pospolita	
+> iPhone	iPhone	subst:sg:acc:m3	nazwa pospolita	
+> iPhone	iPhone	subst:sg:nom:m2	nazwa pospolita	
+> iPhone	iPhone	subst:sg:nom:m3	nazwa pospolita	
+> iPhone’om	iPhone	subst:pl:dat:m2	nazwa pospolita	
+> iPhone’om	iPhone	subst:pl:dat:m3	nazwa pospolita	
+> iPhone’owi	iPhone	subst:sg:dat:m2	nazwa pospolita	
+> iPhone’owi	iPhone	subst:sg:dat:m3	nazwa pospolita	
+> iPhone’ów	iPhone	subst:pl:gen:m2	nazwa pospolita	
+> iPhone’ów	iPhone	subst:pl:gen:m3	nazwa pospolita	
+> iPhone’y	iPhone	subst:pl:acc:m2	nazwa pospolita	
+> iPhone’y	iPhone	subst:pl:acc:m3	nazwa pospolita	
+> iPhone’y	iPhone	subst:pl:nom:m2	nazwa pospolita	
+> iPhone’y	iPhone	subst:pl:nom:m3	nazwa pospolita	
+> iPhone’y	iPhone	subst:pl:voc:m2	nazwa pospolita	
+> iPhone’y	iPhone	subst:pl:voc:m3	nazwa pospolita	
+> iPhonie	iPhone	subst:sg:loc:m2	nazwa pospolita	
+> iPhonie	iPhone	subst:sg:loc:m3	nazwa pospolita	
+> iPhonie	iPhone	subst:sg:voc:m2	nazwa pospolita	
+> iPhonie	iPhone	subst:sg:voc:m3	nazwa pospolita	
+1066258a1066330,1066357
+> iPodach	iPod	subst:pl:loc:m2	nazwa pospolita	
+> iPodach	iPod	subst:pl:loc:m3	nazwa pospolita	
+> iPoda	iPod	subst:sg:acc:m2	nazwa pospolita	
+> iPoda	iPod	subst:sg:gen:m2	nazwa pospolita	
+> iPoda	iPod	subst:sg:gen:m3	nazwa pospolita	
+> iPodami	iPod	subst:pl:inst:m2	nazwa pospolita	
+> iPodami	iPod	subst:pl:inst:m3	nazwa pospolita	
+> iPodem	iPod	subst:sg:inst:m2	nazwa pospolita	
+> iPodem	iPod	subst:sg:inst:m3	nazwa pospolita	
+> iPod	iPod	subst:sg:acc:m3	nazwa pospolita	
+> iPod	iPod	subst:sg:nom:m2	nazwa pospolita	
+> iPod	iPod	subst:sg:nom:m3	nazwa pospolita	
+> iPodom	iPod	subst:pl:dat:m2	nazwa pospolita	
+> iPodom	iPod	subst:pl:dat:m3	nazwa pospolita	
+> iPodowi	iPod	subst:sg:dat:m2	nazwa pospolita	
+> iPodowi	iPod	subst:sg:dat:m3	nazwa pospolita	
+> iPodów	iPod	subst:pl:gen:m2	nazwa pospolita	
+> iPodów	iPod	subst:pl:gen:m3	nazwa pospolita	
+> iPody	iPod	subst:pl:acc:m2	nazwa pospolita	
+> iPody	iPod	subst:pl:acc:m3	nazwa pospolita	
+> iPody	iPod	subst:pl:nom:m2	nazwa pospolita	
+> iPody	iPod	subst:pl:nom:m3	nazwa pospolita	
+> iPody	iPod	subst:pl:voc:m2	nazwa pospolita	
+> iPody	iPod	subst:pl:voc:m3	nazwa pospolita	
+> iPodzie	iPod	subst:sg:loc:m2	nazwa pospolita	
+> iPodzie	iPod	subst:sg:loc:m3	nazwa pospolita	
+> iPodzie	iPod	subst:sg:voc:m2	nazwa pospolita	
+> iPodzie	iPod	subst:sg:voc:m3	nazwa pospolita	
+1417177c1417276
+< kwadrylion	kwadrylion:n	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+---
+> kwadrylion	kwadrylion:n	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+1557616c1557715
+< mało	mało:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> mało	mało:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+1582630d1582728
+< masni	masny	adj:pl:nom.voc:m1.p1:pos		daw._dziś_gwar.
+1582640a1582739
+> maśni	masny	adj:pl:nom.voc:m1.p1:pos		daw._dziś_gwar.
+1648615c1648714
+< miliard	miliard:n	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> miliard	miliard:n	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+1649332c1649431
+< milion	milion:n	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> milion	milion:n	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+1670815c1670914
+< mniej	mniej	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> mniej	mniej	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+1673453c1673552
+< moc	moc:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> moc	moc:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+1795326c1795425
+< najmniej	najmniej:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> najmniej	najmniej:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+1795843c1795942
+< najwięcej	najwięcej	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> najwięcej	najwięcej	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+1972616,1972617c1972715
+< niebawnie	niebawnie:d	adv		daw.
+< niebawnie	niebawnie:d	adv:pos		
+---
+> niebawnie	niebawnie	adv:pos		
+2021953d2022050
+< niebufoniasci	niebufoniasty	adj:pl:nom.voc:m1.p1:pos		
+2021975a2022073
+> niebufoniaści	niebufoniasty	adj:pl:nom.voc:m1.p1:pos		
+2055712c2055810
+< nieco	nieco:n	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		
+---
+> nieco	nieco:n	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		
+2101251d2101348
+< niedookreślenie	niedookreślenie	adv:pos		
+2101265a2101363
+> niedookreśleni	niedookreślony	adj:pl:nom.voc:m1.p1:pos		
+2101279d2101376
+< niedookreśloni	niedookreślony	adj:pl:nom.voc:m1.p1:pos		
+2116637c2116734
+< niedużo	niedużo:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> niedużo	niedużo:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+2420156c2420253
+< niemało	niemało:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> niemało	niemało:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+2427913d2428009
+< niemasni	niemasny	adj:pl:nom.voc:m1.p1:pos		
+2427922a2428019
+> niemaśni	niemasny	adj:pl:nom.voc:m1.p1:pos		
+2503494d2503590
+< nieniedookreślenie	nieniedookreślenie	adv:pos		
+2503508a2503605
+> nieniedookreśleni	nieniedookreślony	adj:pl:nom.voc:m1.p1:pos		
+2503522d2503618
+< nieniedookreśloni	nieniedookreślony	adj:pl:nom.voc:m1.p1:pos		
+2544756,2544802c2544852,2544874
+< nieokreśleni	nieokreślony:a1	adj:pl:nom.voc:m1.p1:pos		
+< nieokreślona	nieokreślony:a1	adj:sg:nom.voc:f:pos		
+< nieokreśloną	nieokreślony:a1	adj:sg:acc:f:pos		
+< nieokreśloną	nieokreślony:a1	adj:sg:inst:f:pos		
+< nieokreślonego	nieokreślony:a1	adj:sg:acc:m1.m2:pos		
+< nieokreślonego	nieokreślony:a1	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+< nieokreślonej	nieokreślony:a1	adj:sg:dat:f:pos		
+< nieokreślonej	nieokreślony:a1	adj:sg:gen:f:pos		
+< nieokreślonej	nieokreślony:a1	adj:sg:loc:f:pos		
+< nieokreślonemu	nieokreślony:a1	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+< nieokreślone	nieokreślony:a1	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+< nieokreślone	nieokreślony:a1	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+< nieokreślone	nieokreślony:a1	adj:sg:acc:n1.n2:pos		
+< nieokreślone	nieokreślony:a1	adj:sg:nom.voc:n1.n2:pos		
+< nieokreślono	nieokreślony:a1	adja		
+< nieokreślonych	nieokreślony:a1	adj:pl:acc:m1.p1:pos		
+< nieokreślonych	nieokreślony:a1	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+< nieokreślonych	nieokreślony:a1	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+< nieokreślonymi	nieokreślony:a1	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+< nieokreślonym	nieokreślony:a1	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+< nieokreślonym	nieokreślony:a1	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+< nieokreślonym	nieokreślony:a1	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+< nieokreślony	nieokreślony:a1	adj:sg:acc:m3:pos		
+< nieokreślony	nieokreślony:a1	adj:sg:nom.voc:m1.m2.m3:pos		
+< nieokreśleni	nieokreślony:a2	adj:pl:nom.voc:m1.p1:pos		
+< nieokreślona	nieokreślony:a2	adj:sg:nom.voc:f:pos		
+< nieokreśloną	nieokreślony:a2	adj:sg:acc:f:pos		
+< nieokreśloną	nieokreślony:a2	adj:sg:inst:f:pos		
+< nieokreślonego	nieokreślony:a2	adj:sg:acc:m1.m2:pos		
+< nieokreślonego	nieokreślony:a2	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+< nieokreślonej	nieokreślony:a2	adj:sg:dat:f:pos		
+< nieokreślonej	nieokreślony:a2	adj:sg:gen:f:pos		
+< nieokreślonej	nieokreślony:a2	adj:sg:loc:f:pos		
+< nieokreślonemu	nieokreślony:a2	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+< nieokreślone	nieokreślony:a2	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+< nieokreślone	nieokreślony:a2	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+< nieokreślone	nieokreślony:a2	adj:sg:acc:n1.n2:pos		
+< nieokreślone	nieokreślony:a2	adj:sg:nom.voc:n1.n2:pos		
+< nieokreślonych	nieokreślony:a2	adj:pl:acc:m1.p1:pos		
+< nieokreślonych	nieokreślony:a2	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+< nieokreślonych	nieokreślony:a2	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+< nieokreślonymi	nieokreślony:a2	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+< nieokreślonym	nieokreślony:a2	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+< nieokreślonym	nieokreślony:a2	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+< nieokreślonym	nieokreślony:a2	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+< nieokreślony	nieokreślony:a2	adj:sg:acc:m3:pos		
+< nieokreślony	nieokreślony:a2	adj:sg:nom.voc:m1.m2.m3:pos		
+---
+> nieokreśleni	nieokreślony	adj:pl:nom.voc:m1.p1:pos		
+> nieokreślona	nieokreślony	adj:sg:nom.voc:f:pos		
+> nieokreśloną	nieokreślony	adj:sg:acc:f:pos		
+> nieokreśloną	nieokreślony	adj:sg:inst:f:pos		
+> nieokreślonego	nieokreślony	adj:sg:acc:m1.m2:pos		
+> nieokreślonego	nieokreślony	adj:sg:gen:m1.m2.m3.n1.n2:pos		
+> nieokreślonej	nieokreślony	adj:sg:dat:f:pos		
+> nieokreślonej	nieokreślony	adj:sg:gen:f:pos		
+> nieokreślonej	nieokreślony	adj:sg:loc:f:pos		
+> nieokreślonemu	nieokreślony	adj:sg:dat:m1.m2.m3.n1.n2:pos		
+> nieokreślone	nieokreślony	adj:pl:acc:m2.m3.f.n1.n2.p2.p3:pos		
+> nieokreślone	nieokreślony	adj:pl:nom.voc:m2.m3.f.n1.n2.p2.p3:pos		
+> nieokreślone	nieokreślony	adj:sg:acc:n1.n2:pos		
+> nieokreślone	nieokreślony	adj:sg:nom.voc:n1.n2:pos		
+> nieokreślonych	nieokreślony	adj:pl:acc:m1.p1:pos		
+> nieokreślonych	nieokreślony	adj:pl:gen:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieokreślonych	nieokreślony	adj:pl:loc:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieokreślonymi	nieokreślony	adj:pl:inst:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieokreślonym	nieokreślony	adj:pl:dat:m1.m2.m3.f.n1.n2.p1.p2.p3:pos		
+> nieokreślonym	nieokreślony	adj:sg:inst:m1.m2.m3.n1.n2:pos		
+> nieokreślonym	nieokreślony	adj:sg:loc:m1.m2.m3.n1.n2:pos		
+> nieokreślony	nieokreślony	adj:sg:acc:m3:pos		
+> nieokreślony	nieokreślony	adj:sg:nom.voc:m1.m2.m3:pos		
+2654642d2654713
+< nieponowoczesni	nieponowoczesny	adj:pl:nom.voc:m1.p1:pos		
+2654651a2654723
+> nieponowocześni	nieponowoczesny	adj:pl:nom.voc:m1.p1:pos		
+2731231d2731302
+< nieprzestreni	nieprzestrony	adj:pl:nom.voc:m1.p1:pos		
+2731244a2731316
+> nieprzestroni	nieprzestrony	adj:pl:nom.voc:m1.p1:pos		
+3024617c3024689
+< niewiele	niewiele:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+---
+> niewiele	niewiele:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+3144289,3144290c3144361
+< niezwłocznie	niezwłocznie:d	adv		
+< niezwłocznie	niezwłocznie:d	adv:pos		
+---
+> niezwłocznie	niezwłocznie	adv:pos		
+3148692a3148764
+> nieżarówiasto	nieżarówiasto	adv:pos		
+3148707d3148778
+< nieżarówiasci	nieżarówiasty	adj:pl:nom.voc:m1.p1:pos		
+3148729a3148801
+> nieżarówiaści	nieżarówiasty	adj:pl:nom.voc:m1.p1:pos		
+4004980d4005051
+< ponowoczesni	ponowoczesny	adj:pl:nom.voc:m1.p1:pos		
+4004990a4005062
+> ponowocześni	ponowoczesny	adj:pl:nom.voc:m1.p1:pos		
+4242721c4242793
+< półtorasta	półtorasta	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		daw.
+---
+> półtorasta	półtorasta	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		daw.
+4452890d4452961
+< przestreni	przestrony	adj:pl:nom.voc:m1.p1:pos		daw.
+4452903a4452975
+> przestroni	przestrony	adj:pl:nom.voc:m1.p1:pos		daw.
+5042625c5042697
+< siła	siła:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		daw._dziś_gwar.
+---
+> siła	siła:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		daw._dziś_gwar.
+5188346c5188418
+< sporo	sporo:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> sporo	sporo:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+5514392c5514464
+< trochę	trochę:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> trochę	trochę:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+5523582a5523655,5523670
+> Trumpach	Trump	subst:pl:loc:m1	nazwisko	
+> Trumpami	Trump	subst:pl:inst:m1	nazwisko	
+> Trumpa	Trump	subst:sg:acc:m1	nazwisko	
+> Trumpa	Trump	subst:sg:gen:m1	nazwisko	
+> Trumpem	Trump	subst:sg:inst:m1	nazwisko	
+> Trumpie	Trump	subst:sg:loc:m1	nazwisko	
+> Trumpie	Trump	subst:sg:voc:m1	nazwisko	
+> Trumpom	Trump	subst:pl:dat:m1	nazwisko	
+> Trumpowie	Trump	subst:pl:nom:m1	nazwisko	
+> Trumpowie	Trump	subst:pl:voc:m1	nazwisko	
+> Trumpowi	Trump	subst:sg:dat:m1	nazwisko	
+> Trumpów	Trump	subst:pl:acc:m1	nazwisko	
+> Trumpów	Trump	subst:pl:gen:m1	nazwisko	
+> Trump	Trump	subst:sg:nom:m1	nazwisko	
+> Trumpy	Trump	depr:pl:nom:m2	nazwisko	
+> Trumpy	Trump	depr:pl:voc:m2	nazwisko	
+5527378c5527466
+< tryliard	tryliard:n	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+---
+> tryliard	tryliard:n	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+5527422c5527510
+< trylion	trylion:n	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+---
+> trylion	trylion:n	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		rzad.
+5557728c5557816
+< tyle	tyle:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+---
+> tyle	tyle:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+5557773c5557861
+< tyleż	tyleż:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+---
+> tyleż	tyleż:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+5562135c5562223
+< tysiące	tysiące	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		pot.
+---
+> tysiące	tysiące	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		pot.
+5562395c5562483
+< tysiąc	tysiąc:n	num:pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> tysiąc	tysiąc:n	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+5871914c5872002
+< wiele	wiele:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+---
+> wiele	wiele:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+5871982c5872070
+< wieleż	wieleż:n2	num:sg:nom.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+---
+> wieleż	wieleż:n2	num:sg:nom.gen.acc:m1.m2.m3.f.n1.n2:rec		rzad.
+5890182c5890270
+< więcej	więcej:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> więcej	więcej:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+6683369c6683457
+< zero	zero:n	num:sg.pl:nom.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> zero	zero:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+6884644a6884733
+> żarówiasto	żarówiasto	adv:pos		
+6884659d6884747
+< żarówiasci	żarówiasty	adj:pl:nom.voc:m1.p1:pos		
+6884682a6884771
+> żarówiaści	żarówiasty	adj:pl:nom.voc:m1.p1:pos		

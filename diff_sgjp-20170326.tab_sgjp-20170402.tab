@@ -1,0 +1,51 @@
+1c1
+< #!DICT-ID pl.sgjp.sgjp-2017.03.26
+---
+> #!DICT-ID pl.sgjp.sgjp-2017.04.02
+3701817,3701819c3701817,3701819
+< najpełniej	pełno	adv:sup		
+< pełniej	pełno	adv:com		
+< pełno	pełno	adv:pos		
+---
+> najpełniej	pełno:d	adv:sup		
+> pełniej	pełno:d	adv:com		
+> pełno	pełno:d	adv:pos		
+3702264a3702265
+> pełno	pełno:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+5347277,5347290d5347277
+< szeregach	szereg	subst:pl:loc:m3	nazwa pospolita	
+< szeregami	szereg	subst:pl:inst:m3	nazwa pospolita	
+< szeregiem	szereg	subst:sg:inst:m3	nazwa pospolita	
+< szeregi	szereg	subst:pl:acc:m3	nazwa pospolita	
+< szeregi	szereg	subst:pl:nom:m3	nazwa pospolita	
+< szeregi	szereg	subst:pl:voc:m3	nazwa pospolita	
+< szeregom	szereg	subst:pl:dat:m3	nazwa pospolita	
+< szeregowi	szereg	subst:sg:dat:m3	nazwa pospolita	
+< szeregów	szereg	subst:pl:gen:m3	nazwa pospolita	
+< szereg	szereg	subst:sg:acc:m3	nazwa pospolita	
+< szereg	szereg	subst:sg:nom:m3	nazwa pospolita	
+< szeregu	szereg	subst:sg:gen:m3	nazwa pospolita	
+< szeregu	szereg	subst:sg:loc:m3	nazwa pospolita	
+< szeregu	szereg	subst:sg:voc:m3	nazwa pospolita	
+5347297a5347285
+> szereg	szereg:n	num:pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+5347529a5347518,5347531
+> szeregach	szereg:s	subst:pl:loc:m3	nazwa pospolita	
+> szeregami	szereg:s	subst:pl:inst:m3	nazwa pospolita	
+> szeregiem	szereg:s	subst:sg:inst:m3	nazwa pospolita	
+> szeregi	szereg:s	subst:pl:acc:m3	nazwa pospolita	
+> szeregi	szereg:s	subst:pl:nom:m3	nazwa pospolita	
+> szeregi	szereg:s	subst:pl:voc:m3	nazwa pospolita	
+> szeregom	szereg:s	subst:pl:dat:m3	nazwa pospolita	
+> szeregowi	szereg:s	subst:sg:dat:m3	nazwa pospolita	
+> szeregów	szereg:s	subst:pl:gen:m3	nazwa pospolita	
+> szereg	szereg:s	subst:sg:acc:m3	nazwa pospolita	
+> szereg	szereg:s	subst:sg:nom:m3	nazwa pospolita	
+> szeregu	szereg:s	subst:sg:gen:m3	nazwa pospolita	
+> szeregu	szereg:s	subst:sg:loc:m3	nazwa pospolita	
+> szeregu	szereg:s	subst:sg:voc:m3	nazwa pospolita	
+5515209,5515210c5515211
+< trochę	trochę:d	adv		
+< trochę	trochę:n	num:sg.pl:nom.gen.acc:m1.m2.m3.f.n1.n2.p1.p2:rec		
+---
+> trochę	trochę	adv		
